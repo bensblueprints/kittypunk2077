@@ -1,0 +1,743 @@
+{
+  "number": 22,
+  "title": "Shut It Down",
+  "start": "18:30",
+  "end": "19:05",
+  "duration_seconds": 35,
+  "source_location": "Factory control room",
+  "location_ids": [
+    "LOC15",
+    "LOC17"
+  ],
+  "staging": "Scene 22 — Shut It Down\n\n18:30–19:05 · 35 sec · Factory control room\n\nThe crew stops the automated distribution lines, preserves the refrigerated salmon, releases the shipment records publicly, and reroutes available trucks to the neglected districts.\n\nShots: Hacking screen → conveyor belts stopping → routing map changing → trucks redirected → public data release.",
+  "sound": "",
+  "lines": [
+    {
+      "id": "S22-N01",
+      "speaker": "Neon",
+      "text": "Dispatch stopped. Cooling stays on. Temperature is stable.",
+      "takes": [],
+      "origin": "new production draft v003; not yet recorded",
+      "recording_status": "not recorded",
+      "start_sec": 1110.15,
+      "end_sec": 1113.35,
+      "start_tc": "18:30.150",
+      "end_tc": "18:33.350",
+      "shot_id": "S22-P01",
+      "timing_basis": "estimate at 150 words/minute; replace after recording",
+      "role_id": "neon",
+      "voice_id": "4e32WqNVWRquDa1OcRYZ",
+      "voice_name": "Ryan — Product Reviewer"
+    },
+    {
+      "id": "S22-D01",
+      "speaker": "Neon",
+      "text": "Corporate routing disabled.",
+      "takes": [],
+      "origin": "retained working script",
+      "recording_status": "not recorded",
+      "start_sec": 1113.55,
+      "end_sec": 1114.75,
+      "start_tc": "18:33.550",
+      "end_tc": "18:34.750",
+      "shot_id": "S22-P01",
+      "timing_basis": "estimate at 150 words/minute; replace after recording",
+      "role_id": "neon",
+      "voice_id": "4e32WqNVWRquDa1OcRYZ",
+      "voice_name": "Ryan — Product Reviewer"
+    },
+    {
+      "id": "S22-N02",
+      "speaker": "Ghost",
+      "text": "Original logs preserved. Public copies include the truck numbers and cancelled orders.",
+      "takes": [],
+      "origin": "new production draft v003; not yet recorded",
+      "recording_status": "not recorded",
+      "start_sec": 1115.783,
+      "end_sec": 1120.583,
+      "start_tc": "18:35.783",
+      "end_tc": "18:40.583",
+      "shot_id": "S22-P02",
+      "timing_basis": "estimate at 150 words/minute; replace after recording",
+      "role_id": "ghost",
+      "voice_id": "7fBwqIVI6wI1B4MuKqQi",
+      "voice_name": "Austin — Upbeat"
+    },
+    {
+      "id": "S22-D02",
+      "speaker": "Ghost",
+      "text": "Shipping records released.",
+      "takes": [],
+      "origin": "retained working script",
+      "recording_status": "not recorded",
+      "start_sec": 1120.783,
+      "end_sec": 1121.983,
+      "start_tc": "18:40.783",
+      "end_tc": "18:41.983",
+      "shot_id": "S22-P02",
+      "timing_basis": "estimate at 150 words/minute; replace after recording",
+      "role_id": "ghost",
+      "voice_id": "7fBwqIVI6wI1B4MuKqQi",
+      "voice_name": "Austin — Upbeat"
+    },
+    {
+      "id": "S22-N03",
+      "speaker": "Trixie",
+      "text": "Release the already-loaded trucks first. Do not leave fresh stock waiting outside.",
+      "takes": [],
+      "origin": "new production draft v003; not yet recorded",
+      "recording_status": "not recorded",
+      "start_sec": 1123.017,
+      "end_sec": 1127.817,
+      "start_tc": "18:43.017",
+      "end_tc": "18:47.817",
+      "shot_id": "S22-P03",
+      "timing_basis": "estimate at 150 words/minute; replace after recording",
+      "role_id": "trixie",
+      "voice_id": "dmWfLQZJq7wNPv9WmtiM",
+      "voice_name": "Emma — Wry, Gritty Hero"
+    },
+    {
+      "id": "S22-N04",
+      "speaker": "Byte",
+      "text": "District Seven delivery accepted. The other neglected districts are next in the queue.",
+      "takes": [],
+      "origin": "new production draft v003; not yet recorded",
+      "recording_status": "not recorded",
+      "start_sec": 1128.017,
+      "end_sec": 1133.217,
+      "start_tc": "18:48.017",
+      "end_tc": "18:53.217",
+      "shot_id": "S22-P03",
+      "timing_basis": "estimate at 150 words/minute; replace after recording",
+      "role_id": "byte",
+      "voice_id": "wo6udizrrtpIxWGp2qJk",
+      "voice_name": "Northern Terry"
+    },
+    {
+      "id": "S22-D03",
+      "speaker": "Byte",
+      "text": "Salmon is going back to the cats!",
+      "takes": [],
+      "origin": "retained working script",
+      "recording_status": "not recorded",
+      "start_sec": 1134.25,
+      "end_sec": 1137.05,
+      "start_tc": "18:54.250",
+      "end_tc": "18:57.050",
+      "shot_id": "S22-P04",
+      "timing_basis": "estimate at 150 words/minute; replace after recording",
+      "role_id": "byte",
+      "voice_id": "wo6udizrrtpIxWGp2qJk",
+      "voice_name": "Northern Terry"
+    },
+    {
+      "id": "S22-D04",
+      "speaker": "Trixie",
+      "text": "Now that's what I call a hostile takeover.",
+      "takes": [],
+      "origin": "retained working script",
+      "recording_status": "not recorded",
+      "start_sec": 1137.25,
+      "end_sec": 1140.45,
+      "start_tc": "18:57.250",
+      "end_tc": "19:00.450",
+      "shot_id": "S22-P04",
+      "timing_basis": "estimate at 150 words/minute; replace after recording",
+      "role_id": "trixie",
+      "voice_id": "dmWfLQZJq7wNPv9WmtiM",
+      "voice_name": "Emma — Wry, Gritty Hero"
+    }
+  ],
+  "shots": [
+    {
+      "shot_id": "S22-B01",
+      "description": "Hacking screen",
+      "status": "source shot beat; detailed shot duration and coverage pending",
+      "duration_seconds": null
+    },
+    {
+      "shot_id": "S22-B02",
+      "description": "conveyor belts stopping",
+      "status": "source shot beat; detailed shot duration and coverage pending",
+      "duration_seconds": null
+    },
+    {
+      "shot_id": "S22-B03",
+      "description": "routing map changing",
+      "status": "source shot beat; detailed shot duration and coverage pending",
+      "duration_seconds": null
+    },
+    {
+      "shot_id": "S22-B04",
+      "description": "trucks redirected",
+      "status": "source shot beat; detailed shot duration and coverage pending",
+      "duration_seconds": null
+    },
+    {
+      "shot_id": "S22-B05",
+      "description": "public data release.",
+      "status": "source shot beat; detailed shot duration and coverage pending",
+      "duration_seconds": null
+    }
+  ],
+  "locations": [
+    {
+      "id": "90038d12ae861fdb",
+      "title": "LOC15 - Salmon facility exterior and loading",
+      "category": "Locations",
+      "group": "Dogs",
+      "file": "LOC15-salmon-facility-exterior-and-loading-gpt26-v001.png",
+      "source": "Locations\\Dogs\\LOC15 - Salmon facility exterior and loading\\Reference Sheets\\LOC15-salmon-facility-exterior-and-loading-gpt26-v001.png",
+      "voice": ""
+    },
+    {
+      "id": "addbc3d6819f5434",
+      "title": "LOC17 - Salmon routing control room",
+      "category": "Locations",
+      "group": "Dogs",
+      "file": "LOC17-salmon-routing-control-room-gpt26-v001.png",
+      "source": "Locations\\Dogs\\LOC17 - Salmon routing control room\\Reference Sheets\\LOC17-salmon-routing-control-room-gpt26-v001.png",
+      "voice": ""
+    }
+  ],
+  "frames": [],
+  "assemblies": [],
+  "timed_shots": [
+    {
+      "shot_id": "S22-P01",
+      "camera_action": "Control panel insert: dispatch OFF, cooling ON, safe temperature visible.",
+      "sound_transition": "Conveyor winds down; refrigeration hum persists.",
+      "dialogue_ids": [
+        "S22-N01",
+        "S22-D01"
+      ],
+      "start_sec": 1110,
+      "end_sec": 1115.633,
+      "duration_sec": 5.633,
+      "scene_start_sec": 0,
+      "scene_end_sec": 5.633,
+      "start_tc": "18:30.000",
+      "end_tc": "18:35.633",
+      "status": "editorial plan; animation not yet produced",
+      "asset_requirements": {
+        "locations": [
+          "LOC15",
+          "LOC17"
+        ],
+        "existing_reference_count": 2,
+        "new_image_needed": "camera-specific review still or approved matching frame; audit before generating",
+        "animation": "not generated; Higgsfield is for stills only",
+        "audio": "ElevenLabs dialogue, separate room tone/foley/music mix",
+        "special": "Preserve named character identities, set geometry and screen direction."
+      },
+      "speaking_roles": [
+        "neon"
+      ],
+      "reference_pack": [
+        {
+          "id": "90038d12ae861fdb",
+          "title": "LOC15 - Salmon facility exterior and loading",
+          "url": "/library/90038d12ae861fdb.jpg",
+          "purpose": "Primary set geometry"
+        },
+        {
+          "id": "c59f876dfb3540bb",
+          "title": "Neon",
+          "url": "/library/c59f876dfb3540bb.jpg",
+          "purpose": "Visible character identity / framing context; do not render offscreen speakers"
+        },
+        {
+          "id": "f87a6ca99fdecd7c",
+          "title": "PROP12-hackpad-datachip-gpt26-v001",
+          "url": "/library/f87a6ca99fdecd7c.jpg",
+          "purpose": "Visible prop"
+        }
+      ],
+      "reference_pack_count": 3,
+      "reference_overflow": [],
+      "wan_plan": {
+        "model": "WAN 3.0 Prime",
+        "provider": "awaiting provider confirmation",
+        "mode": "single composed first-frame image-to-video",
+        "upload_image_count": 1,
+        "first_frame_status": "needs shot-specific composition and review",
+        "first_frame_id": null,
+        "reference_mode_cap": 10,
+        "cap_status": "documented by Runway and Wan API; target provider still to confirm",
+        "reference_mode_sources": [
+          "https://dev.runwayml.com/learn/wan-3-0-api",
+          "https://wanapi.app/docs/wan-3-0-prime"
+        ],
+        "audio": false,
+        "audio_policy": "Use the existing/approved ElevenLabs tracks in the edit. Do not generate replacement speech.",
+        "requested_duration_seconds": 6,
+        "edit_duration_seconds": 5.633,
+        "note": "Source reference pack is for preparing the still. Upload ONE approved composed frame to WAN; do not mix it with this whole reference pack. Trim generated clip to editorial duration; do not stretch speech."
+      }
+    },
+    {
+      "shot_id": "S22-P02",
+      "camera_action": "Ghost publishes preserved shipment logs with verifiable IDs.",
+      "sound_transition": "Upload confirmation, public mirrors light.",
+      "dialogue_ids": [
+        "S22-N02",
+        "S22-D02"
+      ],
+      "start_sec": 1115.633,
+      "end_sec": 1122.867,
+      "duration_sec": 7.234,
+      "scene_start_sec": 5.633,
+      "scene_end_sec": 12.867,
+      "start_tc": "18:35.633",
+      "end_tc": "18:42.867",
+      "status": "editorial plan; animation not yet produced",
+      "asset_requirements": {
+        "locations": [
+          "LOC15",
+          "LOC17"
+        ],
+        "existing_reference_count": 2,
+        "new_image_needed": "camera-specific review still or approved matching frame; audit before generating",
+        "animation": "not generated; Higgsfield is for stills only",
+        "audio": "ElevenLabs dialogue, separate room tone/foley/music mix",
+        "special": "Preserve named character identities, set geometry and screen direction."
+      },
+      "speaking_roles": [
+        "ghost"
+      ],
+      "reference_pack": [
+        {
+          "id": "90038d12ae861fdb",
+          "title": "LOC15 - Salmon facility exterior and loading",
+          "url": "/library/90038d12ae861fdb.jpg",
+          "purpose": "Primary set geometry"
+        },
+        {
+          "id": "61dc338e08cb2385",
+          "title": "Ghost",
+          "url": "/library/61dc338e08cb2385.jpg",
+          "purpose": "Visible character identity / framing context; do not render offscreen speakers"
+        }
+      ],
+      "reference_pack_count": 2,
+      "reference_overflow": [],
+      "wan_plan": {
+        "model": "WAN 3.0 Prime",
+        "provider": "awaiting provider confirmation",
+        "mode": "single composed first-frame image-to-video",
+        "upload_image_count": 1,
+        "first_frame_status": "needs shot-specific composition and review",
+        "first_frame_id": null,
+        "reference_mode_cap": 10,
+        "cap_status": "documented by Runway and Wan API; target provider still to confirm",
+        "reference_mode_sources": [
+          "https://dev.runwayml.com/learn/wan-3-0-api",
+          "https://wanapi.app/docs/wan-3-0-prime"
+        ],
+        "audio": false,
+        "audio_policy": "Use the existing/approved ElevenLabs tracks in the edit. Do not generate replacement speech.",
+        "requested_duration_seconds": 8,
+        "edit_duration_seconds": 7.234,
+        "note": "Source reference pack is for preparing the still. Upload ONE approved composed frame to WAN; do not mix it with this whole reference pack. Trim generated clip to editorial duration; do not stretch speech."
+      }
+    },
+    {
+      "shot_id": "S22-P03",
+      "camera_action": "Trixie prioritizes loaded trucks; Byte edits district dispatch queue.",
+      "sound_transition": "Routing accepted tone.",
+      "dialogue_ids": [
+        "S22-N03",
+        "S22-N04"
+      ],
+      "start_sec": 1122.867,
+      "end_sec": 1134.1,
+      "duration_sec": 11.233,
+      "scene_start_sec": 12.867,
+      "scene_end_sec": 24.1,
+      "start_tc": "18:42.867",
+      "end_tc": "18:54.100",
+      "status": "editorial plan; animation not yet produced",
+      "asset_requirements": {
+        "locations": [
+          "LOC15",
+          "LOC17"
+        ],
+        "existing_reference_count": 2,
+        "new_image_needed": "camera-specific review still or approved matching frame; audit before generating",
+        "animation": "not generated; Higgsfield is for stills only",
+        "audio": "ElevenLabs dialogue, separate room tone/foley/music mix",
+        "special": "Preserve named character identities, set geometry and screen direction."
+      },
+      "speaking_roles": [
+        "byte",
+        "trixie"
+      ],
+      "reference_pack": [
+        {
+          "id": "90038d12ae861fdb",
+          "title": "LOC15 - Salmon facility exterior and loading",
+          "url": "/library/90038d12ae861fdb.jpg",
+          "purpose": "Primary set geometry"
+        },
+        {
+          "id": "51c0358d041cc3ba",
+          "title": "Trixie - CatGirl",
+          "url": "/library/51c0358d041cc3ba.jpg",
+          "purpose": "Visible character identity / framing context; do not render offscreen speakers"
+        },
+        {
+          "id": "a23590fe66ebce01",
+          "title": "Byte",
+          "url": "/library/a23590fe66ebce01.jpg",
+          "purpose": "Visible character identity / framing context; do not render offscreen speakers"
+        },
+        {
+          "id": "f87a6ca99fdecd7c",
+          "title": "PROP12-hackpad-datachip-gpt26-v001",
+          "url": "/library/f87a6ca99fdecd7c.jpg",
+          "purpose": "Visible prop"
+        },
+        {
+          "id": "f67ac5a346ad1a6d",
+          "title": "ACT10 — Refrigerated delivery truck",
+          "url": "/library/f67ac5a346ad1a6d.jpg",
+          "purpose": "Visible prop"
+        }
+      ],
+      "reference_pack_count": 5,
+      "reference_overflow": [],
+      "wan_plan": {
+        "model": "WAN 3.0 Prime",
+        "provider": "awaiting provider confirmation",
+        "mode": "single composed first-frame image-to-video",
+        "upload_image_count": 1,
+        "first_frame_status": "needs shot-specific composition and review",
+        "first_frame_id": null,
+        "reference_mode_cap": 10,
+        "cap_status": "documented by Runway and Wan API; target provider still to confirm",
+        "reference_mode_sources": [
+          "https://dev.runwayml.com/learn/wan-3-0-api",
+          "https://wanapi.app/docs/wan-3-0-prime"
+        ],
+        "audio": false,
+        "audio_policy": "Use the existing/approved ElevenLabs tracks in the edit. Do not generate replacement speech.",
+        "requested_duration_seconds": 12,
+        "edit_duration_seconds": 11.233,
+        "note": "Source reference pack is for preparing the still. Upload ONE approved composed frame to WAN; do not mix it with this whole reference pack. Trim generated clip to editorial duration; do not stretch speech."
+      }
+    },
+    {
+      "shot_id": "S22-P04",
+      "camera_action": "Gate monitor shows first loaded refrigerated truck turn toward District 7.",
+      "sound_transition": "Engine start; upbeat motif begins.",
+      "dialogue_ids": [
+        "S22-D03",
+        "S22-D04"
+      ],
+      "start_sec": 1134.1,
+      "end_sec": 1141.333,
+      "duration_sec": 7.233,
+      "scene_start_sec": 24.1,
+      "scene_end_sec": 31.333,
+      "start_tc": "18:54.100",
+      "end_tc": "19:01.333",
+      "status": "editorial plan; animation not yet produced",
+      "asset_requirements": {
+        "locations": [
+          "LOC15",
+          "LOC17"
+        ],
+        "existing_reference_count": 2,
+        "new_image_needed": "camera-specific review still or approved matching frame; audit before generating",
+        "animation": "not generated; Higgsfield is for stills only",
+        "audio": "ElevenLabs dialogue, separate room tone/foley/music mix",
+        "special": "Preserve named character identities, set geometry and screen direction."
+      },
+      "speaking_roles": [
+        "byte",
+        "trixie"
+      ],
+      "reference_pack": [
+        {
+          "id": "90038d12ae861fdb",
+          "title": "LOC15 - Salmon facility exterior and loading",
+          "url": "/library/90038d12ae861fdb.jpg",
+          "purpose": "Primary set geometry"
+        },
+        {
+          "id": "a23590fe66ebce01",
+          "title": "Byte",
+          "url": "/library/a23590fe66ebce01.jpg",
+          "purpose": "Visible character identity / framing context; do not render offscreen speakers"
+        },
+        {
+          "id": "51c0358d041cc3ba",
+          "title": "Trixie - CatGirl",
+          "url": "/library/51c0358d041cc3ba.jpg",
+          "purpose": "Visible character identity / framing context; do not render offscreen speakers"
+        },
+        {
+          "id": "f67ac5a346ad1a6d",
+          "title": "ACT10 — Refrigerated delivery truck",
+          "url": "/library/f67ac5a346ad1a6d.jpg",
+          "purpose": "Visible prop"
+        }
+      ],
+      "reference_pack_count": 4,
+      "reference_overflow": [],
+      "wan_plan": {
+        "model": "WAN 3.0 Prime",
+        "provider": "awaiting provider confirmation",
+        "mode": "single composed first-frame image-to-video",
+        "upload_image_count": 1,
+        "first_frame_status": "needs shot-specific composition and review",
+        "first_frame_id": null,
+        "reference_mode_cap": 10,
+        "cap_status": "documented by Runway and Wan API; target provider still to confirm",
+        "reference_mode_sources": [
+          "https://dev.runwayml.com/learn/wan-3-0-api",
+          "https://wanapi.app/docs/wan-3-0-prime"
+        ],
+        "audio": false,
+        "audio_policy": "Use the existing/approved ElevenLabs tracks in the edit. Do not generate replacement speech.",
+        "requested_duration_seconds": 8,
+        "edit_duration_seconds": 7.233,
+        "note": "Source reference pack is for preparing the still. Upload ONE approved composed frame to WAN; do not mix it with this whole reference pack. Trim generated clip to editorial duration; do not stretch speech."
+      }
+    },
+    {
+      "shot_id": "S22-P05",
+      "camera_action": "Wide control room: all five withdraw via service route while cooling remains active.",
+      "sound_transition": "Cut on truck engine to market arrival.",
+      "dialogue_ids": [],
+      "start_sec": 1141.333,
+      "end_sec": 1145.0,
+      "duration_sec": 3.667,
+      "scene_start_sec": 31.333,
+      "scene_end_sec": 35.0,
+      "start_tc": "19:01.333",
+      "end_tc": "19:05.000",
+      "status": "editorial plan; animation not yet produced",
+      "asset_requirements": {
+        "locations": [
+          "LOC15",
+          "LOC17"
+        ],
+        "existing_reference_count": 2,
+        "new_image_needed": "camera-specific review still or approved matching frame; audit before generating",
+        "animation": "not generated; Higgsfield is for stills only",
+        "audio": "ElevenLabs dialogue, separate room tone/foley/music mix",
+        "special": "Preserve named character identities, set geometry and screen direction."
+      },
+      "speaking_roles": [],
+      "reference_pack": [
+        {
+          "id": "90038d12ae861fdb",
+          "title": "LOC15 - Salmon facility exterior and loading",
+          "url": "/library/90038d12ae861fdb.jpg",
+          "purpose": "Primary set geometry"
+        },
+        {
+          "id": "51c0358d041cc3ba",
+          "title": "Trixie - CatGirl",
+          "url": "/library/51c0358d041cc3ba.jpg",
+          "purpose": "Visible character identity / framing context; do not render offscreen speakers"
+        },
+        {
+          "id": "a23590fe66ebce01",
+          "title": "Byte",
+          "url": "/library/a23590fe66ebce01.jpg",
+          "purpose": "Visible character identity / framing context; do not render offscreen speakers"
+        },
+        {
+          "id": "61dc338e08cb2385",
+          "title": "Ghost",
+          "url": "/library/61dc338e08cb2385.jpg",
+          "purpose": "Visible character identity / framing context; do not render offscreen speakers"
+        },
+        {
+          "id": "8ac469710ff37bec",
+          "title": "Onyx",
+          "url": "/library/8ac469710ff37bec.jpg",
+          "purpose": "Visible character identity / framing context; do not render offscreen speakers"
+        },
+        {
+          "id": "c59f876dfb3540bb",
+          "title": "Neon",
+          "url": "/library/c59f876dfb3540bb.jpg",
+          "purpose": "Visible character identity / framing context; do not render offscreen speakers"
+        }
+      ],
+      "reference_pack_count": 6,
+      "reference_overflow": [],
+      "wan_plan": {
+        "model": "WAN 3.0 Prime",
+        "provider": "awaiting provider confirmation",
+        "mode": "single composed first-frame image-to-video",
+        "upload_image_count": 1,
+        "first_frame_status": "needs shot-specific composition and review",
+        "first_frame_id": null,
+        "reference_mode_cap": 10,
+        "cap_status": "documented by Runway and Wan API; target provider still to confirm",
+        "reference_mode_sources": [
+          "https://dev.runwayml.com/learn/wan-3-0-api",
+          "https://wanapi.app/docs/wan-3-0-prime"
+        ],
+        "audio": false,
+        "audio_policy": "Use the existing/approved ElevenLabs tracks in the edit. Do not generate replacement speech.",
+        "requested_duration_seconds": 4,
+        "edit_duration_seconds": 3.667,
+        "note": "Source reference pack is for preparing the still. Upload ONE approved composed frame to WAN; do not mix it with this whole reference pack. Trim generated clip to editorial duration; do not stretch speech."
+      }
+    }
+  ],
+  "spoken_words": 66,
+  "recorded_lines": 0,
+  "timing_note": "Exact editorial allocation. Existing takes use measured file durations; unrecorded lines use 150 wpm estimates. Action plays under dialogue where indicated. No time stretching or blank padding.",
+  "remaining_work": [
+    "Record and review new/unrecorded dialogue in ElevenLabs.",
+    "Build camera-specific stills from established references; review identity and geography.",
+    "Animate approved shots outside Higgsfield, then conform to this timeline.",
+    "Mix room tone, foley, music and dialogue; verify a full-speed table read and animatic."
+  ],
+  "continuity": "Dispatch OFF, cooling ON. Preserve original logs; do not destroy food. Initial truck goes to District 7; other deliveries are queued, not all solved onscreen. District 12 permanent exile is not reversed.",
+  "generation_references": [
+    {
+      "id": "90038d12ae861fdb",
+      "title": "LOC15 - Salmon facility exterior and loading",
+      "filename": "LOC15-salmon-facility-exterior-and-loading-gpt26-v001.png",
+      "kind": "Location",
+      "purpose": "Set geography, doors, windows and camera axis.",
+      "url": "/library/90038d12ae861fdb.jpg",
+      "thumbnail": "/library/90038d12ae861fdb.webp",
+      "source": "Locations\\Dogs\\LOC15 - Salmon facility exterior and loading\\Reference Sheets\\LOC15-salmon-facility-exterior-and-loading-gpt26-v001.png",
+      "status": "existing reference; review before generation"
+    },
+    {
+      "id": "addbc3d6819f5434",
+      "title": "LOC17 - Salmon routing control room",
+      "filename": "LOC17-salmon-routing-control-room-gpt26-v001.png",
+      "kind": "Location",
+      "purpose": "Set geography, doors, windows and camera axis.",
+      "url": "/library/addbc3d6819f5434.jpg",
+      "thumbnail": "/library/addbc3d6819f5434.webp",
+      "source": "Locations\\Dogs\\LOC17 - Salmon routing control room\\Reference Sheets\\LOC17-salmon-routing-control-room-gpt26-v001.png",
+      "status": "existing reference; review before generation"
+    },
+    {
+      "id": "51c0358d041cc3ba",
+      "title": "Trixie - CatGirl",
+      "filename": "CREW01-trixie-character-master-gpt26-v001.png",
+      "kind": "Character",
+      "purpose": "Preserve identity, proportions, outfit and accessories. Include only actors visible in the shot.",
+      "url": "/library/51c0358d041cc3ba.jpg",
+      "thumbnail": "/library/51c0358d041cc3ba.webp",
+      "source": "Characters\\Cats - Resistance\\Trixie - CatGirl\\Reference Sheets\\CREW01-trixie-character-master-gpt26-v001.png",
+      "status": "existing reference; review before generation"
+    },
+    {
+      "id": "a23590fe66ebce01",
+      "title": "Byte",
+      "filename": "CREW02-byte-character-master-gpt26-v001.png",
+      "kind": "Character",
+      "purpose": "Preserve identity, proportions, outfit and accessories. Include only actors visible in the shot.",
+      "url": "/library/a23590fe66ebce01.jpg",
+      "thumbnail": "/library/a23590fe66ebce01.webp",
+      "source": "Characters\\Cats - Resistance\\Byte\\Reference Sheets\\CREW02-byte-character-master-gpt26-v001.png",
+      "status": "existing reference; review before generation"
+    },
+    {
+      "id": "61dc338e08cb2385",
+      "title": "Ghost",
+      "filename": "CREW03-ghost-character-master-gpt26-v001.png",
+      "kind": "Character",
+      "purpose": "Preserve identity, proportions, outfit and accessories. Include only actors visible in the shot.",
+      "url": "/library/61dc338e08cb2385.jpg",
+      "thumbnail": "/library/61dc338e08cb2385.webp",
+      "source": "Characters\\Cats - Resistance\\Ghost\\Reference Sheets\\CREW03-ghost-character-master-gpt26-v001.png",
+      "status": "existing reference; review before generation"
+    },
+    {
+      "id": "8ac469710ff37bec",
+      "title": "Onyx",
+      "filename": "CREW04-onyx-character-master-gpt26-v001.png",
+      "kind": "Character",
+      "purpose": "Preserve identity, proportions, outfit and accessories. Include only actors visible in the shot.",
+      "url": "/library/8ac469710ff37bec.jpg",
+      "thumbnail": "/library/8ac469710ff37bec.webp",
+      "source": "Characters\\Cats - Resistance\\Onyx\\Reference Sheets\\CREW04-onyx-character-master-gpt26-v001.png",
+      "status": "existing reference; review before generation"
+    },
+    {
+      "id": "c59f876dfb3540bb",
+      "title": "Neon",
+      "filename": "CREW05-neon-character-master-gpt26-v001.png",
+      "kind": "Character",
+      "purpose": "Preserve identity, proportions, outfit and accessories. Include only actors visible in the shot.",
+      "url": "/library/c59f876dfb3540bb.jpg",
+      "thumbnail": "/library/c59f876dfb3540bb.webp",
+      "source": "Characters\\Cats - Resistance\\Neon\\Reference Sheets\\CREW05-neon-character-master-gpt26-v001.png",
+      "status": "existing reference; review before generation"
+    },
+    {
+      "id": "05fa20a0b9733b32",
+      "title": "Standing factory robot dog",
+      "filename": "ROBO01-character-master-gpt26-v001.png",
+      "kind": "Character",
+      "purpose": "Preserve identity, proportions, outfit and accessories. Include only actors visible in the shot.",
+      "url": "/library/05fa20a0b9733b32.jpg",
+      "thumbnail": "/library/05fa20a0b9733b32.webp",
+      "source": "Next Assets\\Factory Robot Dogs\\ROBO01-character-master-gpt26-v001.png",
+      "status": "existing reference; review before generation"
+    },
+    {
+      "id": "f87a6ca99fdecd7c",
+      "title": "PROP12-hackpad-datachip-gpt26-v001",
+      "filename": "PROP12-hackpad-datachip-gpt26-v001.png",
+      "kind": "Prop / graphic",
+      "purpose": "Preserve prop shape, material, controls and scale.",
+      "url": "/library/f87a6ca99fdecd7c.jpg",
+      "thumbnail": "/library/f87a6ca99fdecd7c.webp",
+      "source": "Props\\Cats\\Props\\PROP12-hackpad-datachip-gpt26-v001.png",
+      "status": "existing reference; review before generation"
+    },
+    {
+      "id": "af62330f3ac2ee19",
+      "title": "PROP11-goodboy-badge-evidence-docs-gpt26-v001",
+      "filename": "PROP11-goodboy-badge-evidence-docs-gpt26-v001.png",
+      "kind": "Prop / graphic",
+      "purpose": "Preserve prop shape, material, controls and scale.",
+      "url": "/library/af62330f3ac2ee19.jpg",
+      "thumbnail": "/library/af62330f3ac2ee19.webp",
+      "source": "Props\\Dogs\\Props\\PROP11-goodboy-badge-evidence-docs-gpt26-v001.png",
+      "status": "existing reference; review before generation"
+    },
+    {
+      "id": "f67ac5a346ad1a6d",
+      "title": "ACT10 — Refrigerated delivery truck",
+      "filename": "ACT10-prop-master-gpt26-v001.png",
+      "kind": "Prop / graphic",
+      "purpose": "Preserve prop shape, material, controls and scale.",
+      "url": "/library/f67ac5a346ad1a6d.jpg",
+      "thumbnail": "/library/f67ac5a346ad1a6d.webp",
+      "source": "Props\\Dogs\\Action Props\\ACT10-prop-master-gpt26-v001.png",
+      "status": "existing reference; review before generation"
+    },
+    {
+      "id": "517e83741ba9e751",
+      "title": "ACT11 — Salmon cartons and pallets",
+      "filename": "ACT11-prop-master-gpt26-v001.png",
+      "kind": "Prop / graphic",
+      "purpose": "Preserve prop shape, material, controls and scale.",
+      "url": "/library/517e83741ba9e751.jpg",
+      "thumbnail": "/library/517e83741ba9e751.webp",
+      "source": "Props\\Dogs\\Action Props\\ACT11-prop-master-gpt26-v001.png",
+      "status": "existing reference; review before generation"
+    }
+  ],
+  "missing_reference_requirements": [
+    "Dispatch OFF / cooling ON control panel and district routing graphic.",
+    "Final shot-specific composed first frame for each timed shot; existing drafts require review."
+  ]
+}

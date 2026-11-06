@@ -1,0 +1,268 @@
+{
+  "provider": "ElevenLabs",
+  "credentials_included": false,
+  "account_note": "Verify voice access in the target account before generating. IDs do not transfer account access or credits.",
+  "voices": [
+    {
+      "role_id": "trixie",
+      "role": "Trixie / CatGirl",
+      "voice_name": "Emma — Wry, Gritty Hero",
+      "voice_id": "dmWfLQZJq7wNPv9WmtiM",
+      "status": "selected_current",
+      "direction": "Explicitly selected by user. Existing account access confirmed; no final episode performance approval is implied. Female19, youthful wry confidence and dry humor; existing Emma identity.",
+      "voice_url": "https://elevenlabs.io/voices/dmWfLQZJq7wNPv9WmtiM"
+    },
+    {
+      "role_id": "byte",
+      "role": "Byte",
+      "voice_name": "Northern Terry",
+      "voice_id": "wo6udizrrtpIxWGp2qJk",
+      "status": "selected_current",
+      "direction": "Explicitly selected by user. Existing account access confirmed; no final episode performance approval is implied. Boy18, youthful northern English voice; precise dry analyst.",
+      "voice_url": "https://elevenlabs.io/voices/wo6udizrrtpIxWGp2qJk"
+    },
+    {
+      "role_id": "ghost",
+      "role": "Ghost — green visor",
+      "voice_name": "Austin — Upbeat",
+      "voice_id": "7fBwqIVI6wI1B4MuKqQi",
+      "status": "selected_current",
+      "direction": "Explicitly selected by user. Existing account access confirmed; no final episode performance approval is implied. Boy17, quiet clear recon delivery and restrained wit. Distinct from narrator Austin.",
+      "voice_url": "https://elevenlabs.io/voices/7fBwqIVI6wI1B4MuKqQi"
+    },
+    {
+      "role_id": "neon",
+      "role": "Neon",
+      "voice_name": "Ryan — Product Reviewer",
+      "voice_id": "4e32WqNVWRquDa1OcRYZ",
+      "status": "selected_current",
+      "direction": "Explicitly selected by user. Existing account access confirmed; no final episode performance approval is implied. Boy16, youthful curious technical enthusiasm, quick intelligible delivery; selected Ryan identity.",
+      "voice_url": "https://elevenlabs.io/voices/4e32WqNVWRquDa1OcRYZ"
+    },
+    {
+      "role_id": "onyx",
+      "role": "Onyx",
+      "voice_name": "Harry — Fierce Warrior",
+      "voice_id": "uq0HIbNZKn11Hs5ifEdd",
+      "status": "selected_current",
+      "direction": "Explicitly selected by user. Existing account access confirmed; no final episode performance approval is implied. Boy19, youthful firm protective delivery; preserve Harry identity without an older action-hero growl.",
+      "voice_url": "https://elevenlabs.io/voices/uq0HIbNZKn11Hs5ifEdd"
+    },
+    {
+      "role_id": "nip7_anchor",
+      "role": "NIP7 Anchor",
+      "voice_name": "Daniel",
+      "voice_id": "onwK4e9ZLuTAKqWW03F9",
+      "status": "selected_current",
+      "direction": "Explicitly selected by user. Existing account access confirmed; no final episode performance approval is implied. British adult Sphynx journalist, measured precise report; distinguish suspected payment from proven supply diversion.",
+      "voice_url": "https://elevenlabs.io/voices/onwK4e9ZLuTAKqWW03F9"
+    },
+    {
+      "role_id": "chairman_barkington",
+      "role": "Chairman Barkington",
+      "voice_name": "Matthew Schmitz - Gravel, Deep Anti-Hero",
+      "voice_id": "bwCXcoVxWNYMlC6Esa8u",
+      "status": "selected_current_user_approved",
+      "direction": "User approved replacement of Brian. Older villainous authority. Earlier voices and takes archived.",
+      "voice_url": "https://elevenlabs.io/voices/bwCXcoVxWNYMlC6Esa8u"
+    },
+    {
+      "role_id": "woof7_anchor",
+      "role": "WOOF7 Anchor",
+      "voice_name": "Eric",
+      "voice_id": "cjVigY5qzO86Huf0OWal",
+      "status": "selected_current",
+      "direction": "Explicitly selected by user. Existing account access confirmed; no final episode performance approval is implied. Older adult Shiba broadcaster, crisp reassuring public cadence and calculating private conversation; distinct from radio host.",
+      "voice_url": "https://elevenlabs.io/voices/cjVigY5qzO86Huf0OWal"
+    },
+    {
+      "role_id": "opening_narrator",
+      "role": "Opening narrator",
+      "voice_name": "Austin — Deep, Raspy and Authentic",
+      "voice_id": "Bj9UqZbhQsanLzgalpEG",
+      "status": "trial_only",
+      "direction": "30.00s trial. Final voice approval, chronology and pilot placement open; excluded from original 17-voice pilot plan.",
+      "voice_url": "https://elevenlabs.io/voices/Bj9UqZbhQsanLzgalpEG"
+    },
+    {
+      "role_id": "radio_host",
+      "role": "Recurring car-radio host",
+      "voice_name": "Countdown Casey — Radio DJ",
+      "voice_id": "mKoqwDP2laxTdq1gEgU6",
+      "status": "selected_current",
+      "direction": "Separate from NIP7, WOOF7 and opening narrator. No radio sample or pilot insertion yet.",
+      "voice_url": "https://elevenlabs.io/voices/mKoqwDP2laxTdq1gEgU6"
+    },
+    {
+      "role_id": "dog_guard_a",
+      "role": "Dog Guard A",
+      "voice_name": "Jerry B. - Gruff and Gritty Commander",
+      "voice_id": "TxWZERZ5Hc6h9dGxVmXa",
+      "status": "selected; performance review pending",
+      "direction": "Gruff older authority; clipped and slow.",
+      "voice_url": "https://elevenlabs.io/voices/TxWZERZ5Hc6h9dGxVmXa"
+    },
+    {
+      "role_id": "dog_guard_b",
+      "role": "Dog Guard B",
+      "voice_name": "Hugo - Loyal Henchman",
+      "voice_id": "lAqElvydqyTzitpwAdj6",
+      "status": "selected; performance review pending",
+      "direction": "Raspy lackey; worried, quicker responses.",
+      "voice_url": "https://elevenlabs.io/voices/lAqElvydqyTzitpwAdj6"
+    },
+    {
+      "role_id": "district7_kitten",
+      "role": "District 7 Kitten",
+      "voice_name": "Laura - Enthusiast, Quirky Attitude",
+      "voice_id": "FGY2WhTYpPnrIDTdsKH5",
+      "status": "selected; performance review pending",
+      "direction": "Gentle, small, sincere performance. Adult performer voice selected for kitten role; audition childlike delivery without baby talk.",
+      "voice_url": "https://elevenlabs.io/voices/FGY2WhTYpPnrIDTdsKH5"
+    },
+    {
+      "role_id": "general_fetch",
+      "role": "General Fetch",
+      "voice_name": "Adam - Dominant, Firm",
+      "voice_id": "pNInz6obpgDQGcFmaJgB",
+      "status": "selected; performance review pending",
+      "direction": "Firm military command, contained volume.",
+      "voice_url": "https://elevenlabs.io/voices/pNInz6obpgDQGcFmaJgB"
+    },
+    {
+      "role_id": "dr_muzzle",
+      "role": "Dr Muzzle",
+      "voice_name": "Mature Joe - Neutral, Considered, Mature British male",
+      "voice_id": "26OmzLQMdT4z7VEPURkY",
+      "status": "selected; performance review pending",
+      "direction": "Measured clinical British precision; dry and controlled.",
+      "voice_url": "https://elevenlabs.io/voices/26OmzLQMdT4z7VEPURkY"
+    },
+    {
+      "role_id": "viper",
+      "role": "Viper",
+      "voice_name": "Russell - Dramatic British TV",
+      "voice_id": "NYC9WEgkq1u4jiqBseQ9",
+      "status": "selected; performance review pending",
+      "direction": "Brisk serious British logistics delivery.",
+      "voice_url": "https://elevenlabs.io/voices/NYC9WEgkq1u4jiqBseQ9"
+    },
+    {
+      "role_id": "frost",
+      "role": "Frost",
+      "voice_name": "Callum - Husky Trickster",
+      "voice_id": "N2lVS1w4EtoT3dr4eOWO",
+      "status": "selected; performance review pending",
+      "direction": "Low, patient, unsettling restraint.",
+      "voice_url": "https://elevenlabs.io/voices/N2lVS1w4EtoT3dr4eOWO"
+    },
+    {
+      "role_id": "stone",
+      "role": "Stone",
+      "voice_name": "Bill - Wise, Mature, Balanced",
+      "voice_id": "pqHfZKP75CvOlQylNhV4",
+      "status": "selected; performance review pending",
+      "direction": "Older weighty delivery with dry humor.",
+      "voice_url": "https://elevenlabs.io/voices/pqHfZKP75CvOlQylNhV4"
+    },
+    {
+      "role_id": "velvet",
+      "role": "Velvet",
+      "voice_name": "George - Warm, Captivating Storyteller",
+      "voice_id": "JBFqnCBsd6RMkjVDRZzb",
+      "status": "selected; performance review pending",
+      "direction": "Polished mature British charm; cool private threats.",
+      "voice_url": "https://elevenlabs.io/voices/JBFqnCBsd6RMkjVDRZzb"
+    },
+    {
+      "role_id": "domino",
+      "role": "Domino",
+      "voice_name": "Chris - Charming, Down-to-Earth",
+      "voice_id": "iP95p4xoKVk53GoZ742B",
+      "status": "selected; performance review pending",
+      "direction": "Mature conversational voice; concise, efficient urgency.",
+      "voice_url": "https://elevenlabs.io/voices/iP95p4xoKVk53GoZ742B"
+    },
+    {
+      "role_id": "seven_catleven_clerk",
+      "role": "7-Catleven Clerk",
+      "voice_name": "Roger - Laid-Back, Casual, Resonant",
+      "voice_id": "CwhRBWXzGAHq8TQ4Fs17",
+      "status": "selected; performance review pending",
+      "direction": "Tired practical warmth; future dialogue only.",
+      "voice_url": "https://elevenlabs.io/voices/CwhRBWXzGAHq8TQ4Fs17"
+    },
+    {
+      "role_id": "human_ai_avatar",
+      "role": "Human AI interface",
+      "voice_name": "River - Relaxed, Neutral, Informative",
+      "voice_id": "SAz9YHcvj6GT2YYXdXww",
+      "status": "selected; performance review pending",
+      "direction": "Calm neutral interface; future dialogue only.",
+      "voice_url": "https://elevenlabs.io/voices/SAz9YHcvj6GT2YYXdXww"
+    },
+    {
+      "role_id": "returning_human_commander",
+      "role": "Returning Human Commander",
+      "voice_name": "David - Epic Movie Trailer",
+      "voice_id": "FF7KdobWPaiR0vkcALHF",
+      "status": "selected; performance review pending",
+      "direction": "Grounded mature authority; avoid trailer exaggeration.",
+      "voice_url": "https://elevenlabs.io/voices/FF7KdobWPaiR0vkcALHF"
+    },
+    {
+      "role_id": "civilian_1",
+      "role": "Cream shorthair / foreground citizen",
+      "voice_name": "Lauren - Friendly, Comforting and Soft",
+      "voice_id": "DODLEQrClDo8wCz460ld",
+      "status": "selected; performance review pending",
+      "direction": "Natural distinct adult civilian; record chant layers separately.",
+      "voice_url": "https://elevenlabs.io/voices/DODLEQrClDo8wCz460ld"
+    },
+    {
+      "role_id": "civilian_2",
+      "role": "Brown tabby worker",
+      "voice_name": "Serein - Friendly, Casual and Balanced",
+      "voice_id": "b5RPB35vTODb3BEmR3Fc",
+      "status": "selected; performance review pending",
+      "direction": "Natural distinct adult civilian; record chant layers separately.",
+      "voice_url": "https://elevenlabs.io/voices/b5RPB35vTODb3BEmR3Fc"
+    },
+    {
+      "role_id": "civilian_3",
+      "role": "Calico vendor",
+      "voice_name": "Cassidy",
+      "voice_id": "56AoDkrOh6qfVPDXZ7Pt",
+      "status": "selected; performance review pending",
+      "direction": "Natural distinct adult civilian; record chant layers separately.",
+      "voice_url": "https://elevenlabs.io/voices/56AoDkrOh6qfVPDXZ7Pt"
+    },
+    {
+      "role_id": "civilian_4",
+      "role": "Grey shorthair worker",
+      "voice_name": "Clamon - Warm, Crisp, Lively & Friendly",
+      "voice_id": "cdnpdcqt2HW1XtKv2f3V",
+      "status": "selected; performance review pending",
+      "direction": "Natural distinct adult civilian; record chant layers separately.",
+      "voice_url": "https://elevenlabs.io/voices/cdnpdcqt2HW1XtKv2f3V"
+    },
+    {
+      "role_id": "civilian_5",
+      "role": "Ginger-and-white resident",
+      "voice_name": "Will - Relaxed Optimist",
+      "voice_id": "bIHbv24MWmeRgasZH58o",
+      "status": "selected; performance review pending",
+      "direction": "Natural distinct adult civilian; record chant layers separately.",
+      "voice_url": "https://elevenlabs.io/voices/bIHbv24MWmeRgasZH58o"
+    },
+    {
+      "role_id": "civilian_6",
+      "role": "Tuxedo resident",
+      "voice_name": "Mark - Natural Conversations",
+      "voice_id": "UgBBYS2sOqTuMpoF3BR0",
+      "status": "selected; performance review pending",
+      "direction": "Natural distinct adult civilian; record chant layers separately.",
+      "voice_url": "https://elevenlabs.io/voices/UgBBYS2sOqTuMpoF3BR0"
+    }
+  ]
+}

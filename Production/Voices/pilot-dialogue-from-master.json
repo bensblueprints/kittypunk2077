@@ -271,14 +271,14 @@
       "source_speaker_alias": "Barkington",
       "working_text": "Citizens of Districts Seven through Twelve. Due to an unprecedented salmon supply emergency, you are advised to acquire no less than thirty days of fresh salmon immediately. Goodboy Global thanks you for your obedience.",
       "working_text_status": "Source exact wording with user-approved Goodboy Global normalization only.",
-      "selected_voice_name": "Brian",
-      "selected_voice_id": "nPczCjzI2devNBz1zQrb",
+      "selected_voice_name": "Matthew Schmitz - Gravel, Deep Anti-Hero",
+      "selected_voice_id": "bwCXcoVxWNYMlC6Esa8u",
       "review_recording": {
         "line_id": "S03-D01",
         "scene": 3,
         "role_id": "chairman_barkington",
-        "voice_id": "nPczCjzI2devNBz1zQrb",
-        "voice_name": "Brian",
+        "voice_id": "bwCXcoVxWNYMlC6Esa8u",
+        "voice_name": "Matthew Schmitz - Gravel, Deep Anti-Hero",
         "audio_relative_path": "Opening Scenes/Scene03/S03-D01-chairman_barkington-take001.mp3",
         "duration_sec": 13.467574,
         "performance_approval": "not_approved"
@@ -1074,8 +1074,8 @@
       "source_speaker_alias": "Barkington",
       "working_text": "The public needs reassurance that our supply measures are necessary.",
       "working_text_status": "Source exact wording with user-approved Goodboy Global normalization only.",
-      "selected_voice_name": "Brian",
-      "selected_voice_id": "nPczCjzI2devNBz1zQrb"
+      "selected_voice_name": "Matthew Schmitz - Gravel, Deep Anti-Hero",
+      "selected_voice_id": "bwCXcoVxWNYMlC6Esa8u"
     },
     {
       "line_id": "S14-D02",
@@ -1108,8 +1108,8 @@
       "source_speaker_alias": "Barkington",
       "working_text": "I want the public to hear the correct story.",
       "working_text_status": "Source exact wording with user-approved Goodboy Global normalization only.",
-      "selected_voice_name": "Brian",
-      "selected_voice_id": "nPczCjzI2devNBz1zQrb"
+      "selected_voice_name": "Matthew Schmitz - Gravel, Deep Anti-Hero",
+      "selected_voice_id": "bwCXcoVxWNYMlC6Esa8u"
     },
     {
       "line_id": "S14-D04",
@@ -1142,8 +1142,8 @@
       "source_speaker_alias": "Barkington",
       "working_text": "Neither is loyalty.",
       "working_text_status": "Source exact wording with user-approved Goodboy Global normalization only.",
-      "selected_voice_name": "Brian",
-      "selected_voice_id": "nPczCjzI2devNBz1zQrb"
+      "selected_voice_name": "Matthew Schmitz - Gravel, Deep Anti-Hero",
+      "selected_voice_id": "bwCXcoVxWNYMlC6Esa8u"
     },
     {
       "line_id": "S15-D01",

@@ -1,0 +1,742 @@
+{
+  "number": 13,
+  "title": "Inside the Restaurant",
+  "start": "11:45",
+  "end": "12:35",
+  "duration_seconds": 50,
+  "source_location": "Service corridors",
+  "location_ids": [
+    "LOC11"
+  ],
+  "staging": "Scene 13 — Inside the Restaurant\n\n11:45–12:35 · 50 sec · Service corridors\n\nGhost leads Trixie and Neon through the service entrance. Onyx monitors the guards outside while Byte coordinates remotely. A service robot nearly catches Ghost, who freezes motionless.\n\nShots: Corridor wide → security-camera POV → cat-eye close-up → robot passing → silent hand signals.",
+  "sound": "",
+  "lines": [
+    {
+      "id": "S13-D01",
+      "speaker": "Byte",
+      "text": "You have forty seconds before patrol returns.",
+      "takes": [],
+      "origin": "retained working script",
+      "recording_status": "not recorded",
+      "start_sec": 705.15,
+      "end_sec": 707.95,
+      "start_tc": "11:45.150",
+      "end_tc": "11:47.950",
+      "shot_id": "S13-P01",
+      "timing_basis": "estimate at 150 words/minute; replace after recording",
+      "role_id": "byte",
+      "voice_id": "wo6udizrrtpIxWGp2qJk",
+      "voice_name": "Northern Terry"
+    },
+    {
+      "id": "S13-N01",
+      "speaker": "Neon",
+      "text": "Service robot. Hold. Its camera turns before the wheels do.",
+      "takes": [],
+      "origin": "new production draft v003; not yet recorded",
+      "recording_status": "not recorded",
+      "start_sec": 710.379,
+      "end_sec": 714.379,
+      "start_tc": "11:50.379",
+      "end_tc": "11:54.379",
+      "shot_id": "S13-P02",
+      "timing_basis": "estimate at 150 words/minute; replace after recording",
+      "role_id": "neon",
+      "voice_id": "4e32WqNVWRquDa1OcRYZ",
+      "voice_name": "Ryan — Product Reviewer"
+    },
+    {
+      "id": "S13-D02",
+      "speaker": "Trixie",
+      "text": "Ghost, move.",
+      "takes": [],
+      "origin": "retained working script",
+      "recording_status": "not recorded",
+      "start_sec": 716.807,
+      "end_sec": 717.607,
+      "start_tc": "11:56.807",
+      "end_tc": "11:57.607",
+      "shot_id": "S13-P03",
+      "timing_basis": "estimate at 150 words/minute; replace after recording",
+      "role_id": "trixie",
+      "voice_id": "dmWfLQZJq7wNPv9WmtiM",
+      "voice_name": "Emma — Wry, Gritty Hero"
+    },
+    {
+      "id": "S13-D03",
+      "speaker": "Ghost",
+      "text": "I am moving.",
+      "takes": [],
+      "origin": "retained working script",
+      "recording_status": "not recorded",
+      "start_sec": 717.807,
+      "end_sec": 719.007,
+      "start_tc": "11:57.807",
+      "end_tc": "11:59.007",
+      "shot_id": "S13-P03",
+      "timing_basis": "estimate at 150 words/minute; replace after recording",
+      "role_id": "ghost",
+      "voice_id": "7fBwqIVI6wI1B4MuKqQi",
+      "voice_name": "Austin — Upbeat"
+    },
+    {
+      "id": "S13-D04",
+      "speaker": "Trixie",
+      "text": "You're literally standing still.",
+      "takes": [],
+      "origin": "retained working script",
+      "recording_status": "not recorded",
+      "start_sec": 719.207,
+      "end_sec": 720.807,
+      "start_tc": "11:59.207",
+      "end_tc": "12:00.807",
+      "shot_id": "S13-P03",
+      "timing_basis": "estimate at 150 words/minute; replace after recording",
+      "role_id": "trixie",
+      "voice_id": "dmWfLQZJq7wNPv9WmtiM",
+      "voice_name": "Emma — Wry, Gritty Hero"
+    },
+    {
+      "id": "S13-D05",
+      "speaker": "Ghost",
+      "text": "That's why I'm good.",
+      "takes": [],
+      "origin": "retained working script",
+      "recording_status": "not recorded",
+      "start_sec": 721.007,
+      "end_sec": 722.607,
+      "start_tc": "12:01.007",
+      "end_tc": "12:02.607",
+      "shot_id": "S13-P03",
+      "timing_basis": "estimate at 150 words/minute; replace after recording",
+      "role_id": "ghost",
+      "voice_id": "7fBwqIVI6wI1B4MuKqQi",
+      "voice_name": "Austin — Upbeat"
+    },
+    {
+      "id": "S13-N02",
+      "speaker": "Byte",
+      "text": "Twenty seconds. Stop narrating your stealth and actually do some.",
+      "takes": [],
+      "origin": "new production draft v003; not yet recorded",
+      "recording_status": "not recorded",
+      "start_sec": 725.036,
+      "end_sec": 729.036,
+      "start_tc": "12:05.036",
+      "end_tc": "12:09.036",
+      "shot_id": "S13-P04",
+      "timing_basis": "estimate at 150 words/minute; replace after recording",
+      "role_id": "byte",
+      "voice_id": "wo6udizrrtpIxWGp2qJk",
+      "voice_name": "Northern Terry"
+    },
+    {
+      "id": "S13-N03",
+      "speaker": "Ghost",
+      "text": "Now. Stay behind the cart; the lens cannot see through it.",
+      "takes": [],
+      "origin": "new production draft v003; not yet recorded",
+      "recording_status": "not recorded",
+      "start_sec": 729.236,
+      "end_sec": 733.636,
+      "start_tc": "12:09.236",
+      "end_tc": "12:13.636",
+      "shot_id": "S13-P04",
+      "timing_basis": "estimate at 150 words/minute; replace after recording",
+      "role_id": "ghost",
+      "voice_id": "7fBwqIVI6wI1B4MuKqQi",
+      "voice_name": "Austin — Upbeat"
+    },
+    {
+      "id": "S13-N04",
+      "speaker": "Trixie",
+      "text": "There is the hatch. Neon, microphone first. I need the table and both faces.",
+      "takes": [],
+      "origin": "new production draft v003; not yet recorded",
+      "recording_status": "not recorded",
+      "start_sec": 736.064,
+      "end_sec": 741.664,
+      "start_tc": "12:16.064",
+      "end_tc": "12:21.664",
+      "shot_id": "S13-P05",
+      "timing_basis": "estimate at 150 words/minute; replace after recording",
+      "role_id": "trixie",
+      "voice_id": "dmWfLQZJq7wNPv9WmtiM",
+      "voice_name": "Emma — Wry, Gritty Hero"
+    },
+    {
+      "id": "S13-N05",
+      "speaker": "Neon",
+      "text": "Recording locally. If the connection drops, we still keep the file.",
+      "takes": [],
+      "origin": "new production draft v003; not yet recorded",
+      "recording_status": "not recorded",
+      "start_sec": 741.864,
+      "end_sec": 746.264,
+      "start_tc": "12:21.864",
+      "end_tc": "12:26.264",
+      "shot_id": "S13-P05",
+      "timing_basis": "estimate at 150 words/minute; replace after recording",
+      "role_id": "neon",
+      "voice_id": "4e32WqNVWRquDa1OcRYZ",
+      "voice_name": "Ryan — Product Reviewer"
+    }
+  ],
+  "shots": [
+    {
+      "shot_id": "S13-B01",
+      "description": "Corridor wide",
+      "status": "source shot beat; detailed shot duration and coverage pending",
+      "duration_seconds": null
+    },
+    {
+      "shot_id": "S13-B02",
+      "description": "security-camera POV",
+      "status": "source shot beat; detailed shot duration and coverage pending",
+      "duration_seconds": null
+    },
+    {
+      "shot_id": "S13-B03",
+      "description": "cat-eye close-up",
+      "status": "source shot beat; detailed shot duration and coverage pending",
+      "duration_seconds": null
+    },
+    {
+      "shot_id": "S13-B04",
+      "description": "robot passing",
+      "status": "source shot beat; detailed shot duration and coverage pending",
+      "duration_seconds": null
+    },
+    {
+      "shot_id": "S13-B05",
+      "description": "silent hand signals.",
+      "status": "source shot beat; detailed shot duration and coverage pending",
+      "duration_seconds": null
+    }
+  ],
+  "locations": [
+    {
+      "id": "4392e2bc49cf0b30",
+      "title": "LOC11 - Steak & Bone service corridors",
+      "category": "Locations",
+      "group": "Dogs",
+      "file": "LOC11-steak-bone-service-corridors-gpt26-v001.png",
+      "source": "Locations\\Dogs\\LOC11 - Steak & Bone service corridors\\Reference Sheets\\LOC11-steak-bone-service-corridors-gpt26-v001.png",
+      "voice": ""
+    }
+  ],
+  "frames": [],
+  "assemblies": [],
+  "timed_shots": [
+    {
+      "shot_id": "S13-P01",
+      "camera_action": "Service corridor wide establishes hatch ahead and camera above cart.",
+      "sound_transition": "Byte on comms; ventilation hum.",
+      "dialogue_ids": [
+        "S13-D01"
+      ],
+      "start_sec": 705,
+      "end_sec": 710.229,
+      "duration_sec": 5.229,
+      "scene_start_sec": 0,
+      "scene_end_sec": 5.229,
+      "start_tc": "11:45.000",
+      "end_tc": "11:50.229",
+      "status": "editorial plan; animation not yet produced",
+      "asset_requirements": {
+        "locations": [
+          "LOC11"
+        ],
+        "existing_reference_count": 1,
+        "new_image_needed": "camera-specific review still or approved matching frame; audit before generating",
+        "animation": "not generated; Higgsfield is for stills only",
+        "audio": "ElevenLabs dialogue, separate room tone/foley/music mix",
+        "special": "Preserve named character identities, set geometry and screen direction."
+      },
+      "speaking_roles": [
+        "byte"
+      ],
+      "reference_pack": [
+        {
+          "id": "4392e2bc49cf0b30",
+          "title": "LOC11 - Steak & Bone service corridors",
+          "url": "/library/4392e2bc49cf0b30.jpg",
+          "purpose": "Primary set geometry"
+        },
+        {
+          "id": "522b0ca7d3be2688",
+          "title": "ACT02 — Surveillance kit",
+          "url": "/library/522b0ca7d3be2688.jpg",
+          "purpose": "Visible prop"
+        }
+      ],
+      "reference_pack_count": 2,
+      "reference_overflow": [],
+      "wan_plan": {
+        "model": "WAN 3.0 Prime",
+        "provider": "awaiting provider confirmation",
+        "mode": "single composed first-frame image-to-video",
+        "upload_image_count": 1,
+        "first_frame_status": "needs shot-specific composition and review",
+        "first_frame_id": null,
+        "reference_mode_cap": 10,
+        "cap_status": "documented by Runway and Wan API; target provider still to confirm",
+        "reference_mode_sources": [
+          "https://dev.runwayml.com/learn/wan-3-0-api",
+          "https://wanapi.app/docs/wan-3-0-prime"
+        ],
+        "audio": false,
+        "audio_policy": "Use the existing/approved ElevenLabs tracks in the edit. Do not generate replacement speech.",
+        "requested_duration_seconds": 6,
+        "edit_duration_seconds": 5.229,
+        "note": "Source reference pack is for preparing the still. Upload ONE approved composed frame to WAN; do not mix it with this whole reference pack. Trim generated clip to editorial duration; do not stretch speech."
+      }
+    },
+    {
+      "shot_id": "S13-P02",
+      "camera_action": "Neon sees service robot rotate camera; everyone stops behind cart.",
+      "sound_transition": "Motor whirr then wheel squeak.",
+      "dialogue_ids": [
+        "S13-N01"
+      ],
+      "start_sec": 710.229,
+      "end_sec": 716.657,
+      "duration_sec": 6.428,
+      "scene_start_sec": 5.229,
+      "scene_end_sec": 11.657,
+      "start_tc": "11:50.229",
+      "end_tc": "11:56.657",
+      "status": "editorial plan; animation not yet produced",
+      "asset_requirements": {
+        "locations": [
+          "LOC11"
+        ],
+        "existing_reference_count": 1,
+        "new_image_needed": "camera-specific review still or approved matching frame; audit before generating",
+        "animation": "not generated; Higgsfield is for stills only",
+        "audio": "ElevenLabs dialogue, separate room tone/foley/music mix",
+        "special": "Preserve named character identities, set geometry and screen direction."
+      },
+      "speaking_roles": [
+        "neon"
+      ],
+      "reference_pack": [
+        {
+          "id": "4392e2bc49cf0b30",
+          "title": "LOC11 - Steak & Bone service corridors",
+          "url": "/library/4392e2bc49cf0b30.jpg",
+          "purpose": "Primary set geometry"
+        },
+        {
+          "id": "c59f876dfb3540bb",
+          "title": "Neon",
+          "url": "/library/c59f876dfb3540bb.jpg",
+          "purpose": "Visible character identity / framing context; do not render offscreen speakers"
+        },
+        {
+          "id": "70ef947bc68c9e41",
+          "title": "ACT01 — Silent service robot",
+          "url": "/library/70ef947bc68c9e41.jpg",
+          "purpose": "Visible character identity / framing context; do not render offscreen speakers"
+        },
+        {
+          "id": "522b0ca7d3be2688",
+          "title": "ACT02 — Surveillance kit",
+          "url": "/library/522b0ca7d3be2688.jpg",
+          "purpose": "Visible prop"
+        }
+      ],
+      "reference_pack_count": 4,
+      "reference_overflow": [],
+      "wan_plan": {
+        "model": "WAN 3.0 Prime",
+        "provider": "awaiting provider confirmation",
+        "mode": "single composed first-frame image-to-video",
+        "upload_image_count": 1,
+        "first_frame_status": "needs shot-specific composition and review",
+        "first_frame_id": null,
+        "reference_mode_cap": 10,
+        "cap_status": "documented by Runway and Wan API; target provider still to confirm",
+        "reference_mode_sources": [
+          "https://dev.runwayml.com/learn/wan-3-0-api",
+          "https://wanapi.app/docs/wan-3-0-prime"
+        ],
+        "audio": false,
+        "audio_policy": "Use the existing/approved ElevenLabs tracks in the edit. Do not generate replacement speech.",
+        "requested_duration_seconds": 7,
+        "edit_duration_seconds": 6.428,
+        "note": "Source reference pack is for preparing the still. Upload ONE approved composed frame to WAN; do not mix it with this whole reference pack. Trim generated clip to editorial duration; do not stretch speech."
+      }
+    },
+    {
+      "shot_id": "S13-P03",
+      "camera_action": "Trixie whispers to motionless Ghost, who holds perfect stillness.",
+      "sound_transition": "Whispered banter, robot rolling past.",
+      "dialogue_ids": [
+        "S13-D02",
+        "S13-D03",
+        "S13-D04",
+        "S13-D05"
+      ],
+      "start_sec": 716.657,
+      "end_sec": 724.886,
+      "duration_sec": 8.229,
+      "scene_start_sec": 11.657,
+      "scene_end_sec": 19.886,
+      "start_tc": "11:56.657",
+      "end_tc": "12:04.886",
+      "status": "editorial plan; animation not yet produced",
+      "asset_requirements": {
+        "locations": [
+          "LOC11"
+        ],
+        "existing_reference_count": 1,
+        "new_image_needed": "camera-specific review still or approved matching frame; audit before generating",
+        "animation": "not generated; Higgsfield is for stills only",
+        "audio": "ElevenLabs dialogue, separate room tone/foley/music mix",
+        "special": "Preserve named character identities, set geometry and screen direction."
+      },
+      "speaking_roles": [
+        "ghost",
+        "trixie"
+      ],
+      "reference_pack": [
+        {
+          "id": "4392e2bc49cf0b30",
+          "title": "LOC11 - Steak & Bone service corridors",
+          "url": "/library/4392e2bc49cf0b30.jpg",
+          "purpose": "Primary set geometry"
+        },
+        {
+          "id": "51c0358d041cc3ba",
+          "title": "Trixie - CatGirl",
+          "url": "/library/51c0358d041cc3ba.jpg",
+          "purpose": "Visible character identity / framing context; do not render offscreen speakers"
+        },
+        {
+          "id": "61dc338e08cb2385",
+          "title": "Ghost",
+          "url": "/library/61dc338e08cb2385.jpg",
+          "purpose": "Visible character identity / framing context; do not render offscreen speakers"
+        }
+      ],
+      "reference_pack_count": 3,
+      "reference_overflow": [],
+      "wan_plan": {
+        "model": "WAN 3.0 Prime",
+        "provider": "awaiting provider confirmation",
+        "mode": "single composed first-frame image-to-video",
+        "upload_image_count": 1,
+        "first_frame_status": "needs shot-specific composition and review",
+        "first_frame_id": null,
+        "reference_mode_cap": 10,
+        "cap_status": "documented by Runway and Wan API; target provider still to confirm",
+        "reference_mode_sources": [
+          "https://dev.runwayml.com/learn/wan-3-0-api",
+          "https://wanapi.app/docs/wan-3-0-prime"
+        ],
+        "audio": false,
+        "audio_policy": "Use the existing/approved ElevenLabs tracks in the edit. Do not generate replacement speech.",
+        "requested_duration_seconds": 9,
+        "edit_duration_seconds": 8.229,
+        "note": "Source reference pack is for preparing the still. Upload ONE approved composed frame to WAN; do not mix it with this whole reference pack. Trim generated clip to editorial duration; do not stretch speech."
+      }
+    },
+    {
+      "shot_id": "S13-P04",
+      "camera_action": "Byte timer inset on comms unit; Ghost moves behind cart as lens clears.",
+      "sound_transition": "Soft footfalls, no alarm.",
+      "dialogue_ids": [
+        "S13-N02",
+        "S13-N03"
+      ],
+      "start_sec": 724.886,
+      "end_sec": 735.914,
+      "duration_sec": 11.028,
+      "scene_start_sec": 19.886,
+      "scene_end_sec": 30.914,
+      "start_tc": "12:04.886",
+      "end_tc": "12:15.914",
+      "status": "editorial plan; animation not yet produced",
+      "asset_requirements": {
+        "locations": [
+          "LOC11"
+        ],
+        "existing_reference_count": 1,
+        "new_image_needed": "camera-specific review still or approved matching frame; audit before generating",
+        "animation": "not generated; Higgsfield is for stills only",
+        "audio": "ElevenLabs dialogue, separate room tone/foley/music mix",
+        "special": "Preserve named character identities, set geometry and screen direction."
+      },
+      "speaking_roles": [
+        "byte",
+        "ghost"
+      ],
+      "reference_pack": [
+        {
+          "id": "4392e2bc49cf0b30",
+          "title": "LOC11 - Steak & Bone service corridors",
+          "url": "/library/4392e2bc49cf0b30.jpg",
+          "purpose": "Primary set geometry"
+        },
+        {
+          "id": "61dc338e08cb2385",
+          "title": "Ghost",
+          "url": "/library/61dc338e08cb2385.jpg",
+          "purpose": "Visible character identity / framing context; do not render offscreen speakers"
+        }
+      ],
+      "reference_pack_count": 2,
+      "reference_overflow": [],
+      "wan_plan": {
+        "model": "WAN 3.0 Prime",
+        "provider": "awaiting provider confirmation",
+        "mode": "single composed first-frame image-to-video",
+        "upload_image_count": 1,
+        "first_frame_status": "needs shot-specific composition and review",
+        "first_frame_id": null,
+        "reference_mode_cap": 10,
+        "cap_status": "documented by Runway and Wan API; target provider still to confirm",
+        "reference_mode_sources": [
+          "https://dev.runwayml.com/learn/wan-3-0-api",
+          "https://wanapi.app/docs/wan-3-0-prime"
+        ],
+        "audio": false,
+        "audio_policy": "Use the existing/approved ElevenLabs tracks in the edit. Do not generate replacement speech.",
+        "requested_duration_seconds": 12,
+        "edit_duration_seconds": 11.028,
+        "note": "Source reference pack is for preparing the still. Upload ONE approved composed frame to WAN; do not mix it with this whole reference pack. Trim generated clip to editorial duration; do not stretch speech."
+      }
+    },
+    {
+      "shot_id": "S13-P05",
+      "camera_action": "At service hatch Trixie finds table angle, Neon places microphone.",
+      "sound_transition": "Recorder click; dining-room jazz grows.",
+      "dialogue_ids": [
+        "S13-N04",
+        "S13-N05"
+      ],
+      "start_sec": 735.914,
+      "end_sec": 748.543,
+      "duration_sec": 12.629,
+      "scene_start_sec": 30.914,
+      "scene_end_sec": 43.543,
+      "start_tc": "12:15.914",
+      "end_tc": "12:28.543",
+      "status": "editorial plan; animation not yet produced",
+      "asset_requirements": {
+        "locations": [
+          "LOC11"
+        ],
+        "existing_reference_count": 1,
+        "new_image_needed": "camera-specific review still or approved matching frame; audit before generating",
+        "animation": "not generated; Higgsfield is for stills only",
+        "audio": "ElevenLabs dialogue, separate room tone/foley/music mix",
+        "special": "Preserve named character identities, set geometry and screen direction."
+      },
+      "speaking_roles": [
+        "neon",
+        "trixie"
+      ],
+      "reference_pack": [
+        {
+          "id": "4392e2bc49cf0b30",
+          "title": "LOC11 - Steak & Bone service corridors",
+          "url": "/library/4392e2bc49cf0b30.jpg",
+          "purpose": "Primary set geometry"
+        },
+        {
+          "id": "51c0358d041cc3ba",
+          "title": "Trixie - CatGirl",
+          "url": "/library/51c0358d041cc3ba.jpg",
+          "purpose": "Visible character identity / framing context; do not render offscreen speakers"
+        },
+        {
+          "id": "c59f876dfb3540bb",
+          "title": "Neon",
+          "url": "/library/c59f876dfb3540bb.jpg",
+          "purpose": "Visible character identity / framing context; do not render offscreen speakers"
+        },
+        {
+          "id": "522b0ca7d3be2688",
+          "title": "ACT02 — Surveillance kit",
+          "url": "/library/522b0ca7d3be2688.jpg",
+          "purpose": "Visible prop"
+        }
+      ],
+      "reference_pack_count": 4,
+      "reference_overflow": [],
+      "wan_plan": {
+        "model": "WAN 3.0 Prime",
+        "provider": "awaiting provider confirmation",
+        "mode": "single composed first-frame image-to-video",
+        "upload_image_count": 1,
+        "first_frame_status": "needs shot-specific composition and review",
+        "first_frame_id": null,
+        "reference_mode_cap": 10,
+        "cap_status": "documented by Runway and Wan API; target provider still to confirm",
+        "reference_mode_sources": [
+          "https://dev.runwayml.com/learn/wan-3-0-api",
+          "https://wanapi.app/docs/wan-3-0-prime"
+        ],
+        "audio": false,
+        "audio_policy": "Use the existing/approved ElevenLabs tracks in the edit. Do not generate replacement speech.",
+        "requested_duration_seconds": 13,
+        "edit_duration_seconds": 12.629,
+        "note": "Source reference pack is for preparing the still. Upload ONE approved composed frame to WAN; do not mix it with this whole reference pack. Trim generated clip to editorial duration; do not stretch speech."
+      }
+    },
+    {
+      "shot_id": "S13-P06",
+      "camera_action": "Hidden POV settles on two dogs; recording red light shielded from view.",
+      "sound_transition": "Cut into live dinner conversation.",
+      "dialogue_ids": [],
+      "start_sec": 748.543,
+      "end_sec": 755.0,
+      "duration_sec": 6.457,
+      "scene_start_sec": 43.543,
+      "scene_end_sec": 50.0,
+      "start_tc": "12:28.543",
+      "end_tc": "12:35.000",
+      "status": "editorial plan; animation not yet produced",
+      "asset_requirements": {
+        "locations": [
+          "LOC11"
+        ],
+        "existing_reference_count": 1,
+        "new_image_needed": "camera-specific review still or approved matching frame; audit before generating",
+        "animation": "not generated; Higgsfield is for stills only",
+        "audio": "ElevenLabs dialogue, separate room tone/foley/music mix",
+        "special": "Preserve named character identities, set geometry and screen direction."
+      },
+      "speaking_roles": [],
+      "reference_pack": [
+        {
+          "id": "4392e2bc49cf0b30",
+          "title": "LOC11 - Steak & Bone service corridors",
+          "url": "/library/4392e2bc49cf0b30.jpg",
+          "purpose": "Primary set geometry"
+        },
+        {
+          "id": "522b0ca7d3be2688",
+          "title": "ACT02 — Surveillance kit",
+          "url": "/library/522b0ca7d3be2688.jpg",
+          "purpose": "Visible prop"
+        }
+      ],
+      "reference_pack_count": 2,
+      "reference_overflow": [],
+      "wan_plan": {
+        "model": "WAN 3.0 Prime",
+        "provider": "awaiting provider confirmation",
+        "mode": "single composed first-frame image-to-video",
+        "upload_image_count": 1,
+        "first_frame_status": "needs shot-specific composition and review",
+        "first_frame_id": null,
+        "reference_mode_cap": 10,
+        "cap_status": "documented by Runway and Wan API; target provider still to confirm",
+        "reference_mode_sources": [
+          "https://dev.runwayml.com/learn/wan-3-0-api",
+          "https://wanapi.app/docs/wan-3-0-prime"
+        ],
+        "audio": false,
+        "audio_policy": "Use the existing/approved ElevenLabs tracks in the edit. Do not generate replacement speech.",
+        "requested_duration_seconds": 7,
+        "edit_duration_seconds": 6.457,
+        "note": "Source reference pack is for preparing the still. Upload ONE approved composed frame to WAN; do not mix it with this whole reference pack. Trim generated clip to editorial duration; do not stretch speech."
+      }
+    }
+  ],
+  "spoken_words": 76,
+  "recorded_lines": 0,
+  "timing_note": "Exact editorial allocation. Existing takes use measured file durations; unrecorded lines use 150 wpm estimates. Action plays under dialogue where indicated. No time stretching or blank padding.",
+  "remaining_work": [
+    "Record and review new/unrecorded dialogue in ElevenLabs.",
+    "Build camera-specific stills from established references; review identity and geography.",
+    "Animate approved shots outside Higgsfield, then conform to this timeline.",
+    "Mix room tone, foley, music and dialogue; verify a full-speed table read and animatic."
+  ],
+  "continuity": "Keep exactly five core cats; match current character sheets and fixed location geometry. Goodboy Global spelling throughout.",
+  "generation_references": [
+    {
+      "id": "4392e2bc49cf0b30",
+      "title": "LOC11 - Steak & Bone service corridors",
+      "filename": "LOC11-steak-bone-service-corridors-gpt26-v001.png",
+      "kind": "Location",
+      "purpose": "Set geography, doors, windows and camera axis.",
+      "url": "/library/4392e2bc49cf0b30.jpg",
+      "thumbnail": "/library/4392e2bc49cf0b30.webp",
+      "source": "Locations\\Dogs\\LOC11 - Steak & Bone service corridors\\Reference Sheets\\LOC11-steak-bone-service-corridors-gpt26-v001.png",
+      "status": "existing reference; review before generation"
+    },
+    {
+      "id": "51c0358d041cc3ba",
+      "title": "Trixie - CatGirl",
+      "filename": "CREW01-trixie-character-master-gpt26-v001.png",
+      "kind": "Character",
+      "purpose": "Preserve identity, proportions, outfit and accessories. Include only actors visible in the shot.",
+      "url": "/library/51c0358d041cc3ba.jpg",
+      "thumbnail": "/library/51c0358d041cc3ba.webp",
+      "source": "Characters\\Cats - Resistance\\Trixie - CatGirl\\Reference Sheets\\CREW01-trixie-character-master-gpt26-v001.png",
+      "status": "existing reference; review before generation"
+    },
+    {
+      "id": "61dc338e08cb2385",
+      "title": "Ghost",
+      "filename": "CREW03-ghost-character-master-gpt26-v001.png",
+      "kind": "Character",
+      "purpose": "Preserve identity, proportions, outfit and accessories. Include only actors visible in the shot.",
+      "url": "/library/61dc338e08cb2385.jpg",
+      "thumbnail": "/library/61dc338e08cb2385.webp",
+      "source": "Characters\\Cats - Resistance\\Ghost\\Reference Sheets\\CREW03-ghost-character-master-gpt26-v001.png",
+      "status": "existing reference; review before generation"
+    },
+    {
+      "id": "c59f876dfb3540bb",
+      "title": "Neon",
+      "filename": "CREW05-neon-character-master-gpt26-v001.png",
+      "kind": "Character",
+      "purpose": "Preserve identity, proportions, outfit and accessories. Include only actors visible in the shot.",
+      "url": "/library/c59f876dfb3540bb.jpg",
+      "thumbnail": "/library/c59f876dfb3540bb.webp",
+      "source": "Characters\\Cats - Resistance\\Neon\\Reference Sheets\\CREW05-neon-character-master-gpt26-v001.png",
+      "status": "existing reference; review before generation"
+    },
+    {
+      "id": "70ef947bc68c9e41",
+      "title": "ACT01 — Silent service robot",
+      "filename": "ACT01-prop-master-gpt26-v001.png",
+      "kind": "Character",
+      "purpose": "Preserve identity, proportions, outfit and accessories. Include only actors visible in the shot.",
+      "url": "/library/70ef947bc68c9e41.jpg",
+      "thumbnail": "/library/70ef947bc68c9e41.webp",
+      "source": "Characters\\Neutral - Service Robot\\Reference Sheets\\ACT01-prop-master-gpt26-v001.png",
+      "status": "existing reference; review before generation"
+    },
+    {
+      "id": "522b0ca7d3be2688",
+      "title": "ACT02 — Surveillance kit",
+      "filename": "ACT02-prop-master-gpt26-v001.png",
+      "kind": "Prop / graphic",
+      "purpose": "Preserve prop shape, material, controls and scale.",
+      "url": "/library/522b0ca7d3be2688.jpg",
+      "thumbnail": "/library/522b0ca7d3be2688.webp",
+      "source": "Props\\Cats\\Action Props\\ACT02-prop-master-gpt26-v001.png",
+      "status": "existing reference; review before generation"
+    },
+    {
+      "id": "734220511f50bc56",
+      "title": "ACT08 — Security hardware",
+      "filename": "ACT08-prop-master-gpt26-v001.png",
+      "kind": "Prop / graphic",
+      "purpose": "Preserve prop shape, material, controls and scale.",
+      "url": "/library/734220511f50bc56.jpg",
+      "thumbnail": "/library/734220511f50bc56.webp",
+      "source": "Props\\Dogs\\Action Props\\ACT08-prop-master-gpt26-v001.png",
+      "status": "existing reference; review before generation"
+    }
+  ],
+  "missing_reference_requirements": [
+    "Final shot-specific composed first frame for each timed shot; existing drafts require review."
+  ]
+}

@@ -1,0 +1,657 @@
+{
+  "number": 19,
+  "title": "Follow the Fish",
+  "start": "16:35",
+  "end": "17:10",
+  "duration_seconds": 35,
+  "source_location": "Hacking lair",
+  "location_ids": [
+    "LOC03"
+  ],
+  "staging": "Scene 19 — Follow the Fish\n\n16:35–17:10 · 35 sec · Hacking lair\n\nNeon discovers that Goodboy Global's salmon shipments are being diverted away from Districts 7–12 and toward wealthy Districts 1–6. The alleged shortage is actually a distribution restriction.\n\nShots: Shipping database → district map → redirection arrows → close-up of salmon shipment records.",
+  "sound": "",
+  "lines": [
+    {
+      "id": "S19-D01",
+      "speaker": "Neon",
+      "text": "There isn't a salmon shortage.",
+      "takes": [],
+      "origin": "retained working script",
+      "recording_status": "not recorded",
+      "start_sec": 995.15,
+      "end_sec": 997.15,
+      "start_tc": "16:35.150",
+      "end_tc": "16:37.150",
+      "shot_id": "S19-P01",
+      "timing_basis": "estimate at 150 words/minute; replace after recording",
+      "role_id": "neon",
+      "voice_id": "4e32WqNVWRquDa1OcRYZ",
+      "voice_name": "Ryan — Product Reviewer"
+    },
+    {
+      "id": "S19-D02",
+      "speaker": "Byte",
+      "text": "What?",
+      "takes": [],
+      "origin": "retained working script",
+      "recording_status": "not recorded",
+      "start_sec": 997.35,
+      "end_sec": 997.75,
+      "start_tc": "16:37.350",
+      "end_tc": "16:37.750",
+      "shot_id": "S19-P01",
+      "timing_basis": "estimate at 150 words/minute; replace after recording",
+      "role_id": "byte",
+      "voice_id": "wo6udizrrtpIxWGp2qJk",
+      "voice_name": "Northern Terry"
+    },
+    {
+      "id": "S19-D03",
+      "speaker": "Neon",
+      "text": "There's a salmon shortage for cats.",
+      "takes": [],
+      "origin": "retained working script",
+      "recording_status": "not recorded",
+      "start_sec": 997.95,
+      "end_sec": 1000.35,
+      "start_tc": "16:37.950",
+      "end_tc": "16:40.350",
+      "shot_id": "S19-P01",
+      "timing_basis": "estimate at 150 words/minute; replace after recording",
+      "role_id": "neon",
+      "voice_id": "4e32WqNVWRquDa1OcRYZ",
+      "voice_name": "Ryan — Product Reviewer"
+    },
+    {
+      "id": "S19-N01",
+      "speaker": "Ghost",
+      "text": "These are current dispatch records. Match the truck numbers to the public gate camera before we publish.",
+      "takes": [],
+      "origin": "new production draft v003; not yet recorded",
+      "recording_status": "not recorded",
+      "start_sec": 1002.95,
+      "end_sec": 1009.75,
+      "start_tc": "16:42.950",
+      "end_tc": "16:49.750",
+      "shot_id": "S19-P02",
+      "timing_basis": "estimate at 150 words/minute; replace after recording",
+      "role_id": "ghost",
+      "voice_id": "7fBwqIVI6wI1B4MuKqQi",
+      "voice_name": "Austin — Upbeat"
+    },
+    {
+      "id": "S19-N02",
+      "speaker": "Byte",
+      "text": "District Seven order cancelled. District Two replacement accepted. Same load, same morning.",
+      "takes": [],
+      "origin": "new production draft v003; not yet recorded",
+      "recording_status": "not recorded",
+      "start_sec": 1012.35,
+      "end_sec": 1017.15,
+      "start_tc": "16:52.350",
+      "end_tc": "16:57.150",
+      "shot_id": "S19-P03",
+      "timing_basis": "estimate at 150 words/minute; replace after recording",
+      "role_id": "byte",
+      "voice_id": "wo6udizrrtpIxWGp2qJk",
+      "voice_name": "Northern Terry"
+    },
+    {
+      "id": "S19-D04",
+      "speaker": "Onyx",
+      "text": "Those sons of bitches.",
+      "takes": [],
+      "origin": "retained working script",
+      "recording_status": "not recorded",
+      "start_sec": 1017.35,
+      "end_sec": 1018.95,
+      "start_tc": "16:57.350",
+      "end_tc": "16:58.950",
+      "shot_id": "S19-P03",
+      "timing_basis": "estimate at 150 words/minute; replace after recording",
+      "role_id": "onyx",
+      "voice_id": "uq0HIbNZKn11Hs5ifEdd",
+      "voice_name": "Harry — Fierce Warrior"
+    },
+    {
+      "id": "S19-N03",
+      "speaker": "Trixie",
+      "text": "Save the records. We verify the trucks at the gate, then get that food moving.",
+      "takes": [],
+      "origin": "new production draft v003; not yet recorded",
+      "recording_status": "not recorded",
+      "start_sec": 1021.55,
+      "end_sec": 1027.55,
+      "start_tc": "17:01.550",
+      "end_tc": "17:07.550",
+      "shot_id": "S19-P04",
+      "timing_basis": "estimate at 150 words/minute; replace after recording",
+      "role_id": "trixie",
+      "voice_id": "dmWfLQZJq7wNPv9WmtiM",
+      "voice_name": "Emma — Wry, Gritty Hero"
+    }
+  ],
+  "shots": [
+    {
+      "shot_id": "S19-B01",
+      "description": "Shipping database",
+      "status": "source shot beat; detailed shot duration and coverage pending",
+      "duration_seconds": null
+    },
+    {
+      "shot_id": "S19-B02",
+      "description": "district map",
+      "status": "source shot beat; detailed shot duration and coverage pending",
+      "duration_seconds": null
+    },
+    {
+      "shot_id": "S19-B03",
+      "description": "redirection arrows",
+      "status": "source shot beat; detailed shot duration and coverage pending",
+      "duration_seconds": null
+    },
+    {
+      "shot_id": "S19-B04",
+      "description": "close-up of salmon shipment records.",
+      "status": "source shot beat; detailed shot duration and coverage pending",
+      "duration_seconds": null
+    }
+  ],
+  "locations": [
+    {
+      "id": "678400a023f22df4",
+      "title": "LOC03 - Hacking operations",
+      "category": "Locations",
+      "group": "Cats",
+      "file": "LOC03-hacking-operations-gpt26-v001.png",
+      "source": "Locations\\Cats\\LOC03 - Hacking operations\\Reference Sheets\\LOC03-hacking-operations-gpt26-v001.png",
+      "voice": ""
+    }
+  ],
+  "frames": [],
+  "assemblies": [],
+  "timed_shots": [
+    {
+      "shot_id": "S19-P01",
+      "camera_action": "Lair terminal: Neon matches tracking code with dispatch entry.",
+      "sound_transition": "Data ping; no celebratory sound.",
+      "dialogue_ids": [
+        "S19-D01",
+        "S19-D02",
+        "S19-D03"
+      ],
+      "start_sec": 995,
+      "end_sec": 1002.8,
+      "duration_sec": 7.8,
+      "scene_start_sec": 0,
+      "scene_end_sec": 7.8,
+      "start_tc": "16:35.000",
+      "end_tc": "16:42.800",
+      "status": "editorial plan; animation not yet produced",
+      "asset_requirements": {
+        "locations": [
+          "LOC03"
+        ],
+        "existing_reference_count": 1,
+        "new_image_needed": "camera-specific review still or approved matching frame; audit before generating",
+        "animation": "not generated; Higgsfield is for stills only",
+        "audio": "ElevenLabs dialogue, separate room tone/foley/music mix",
+        "special": "Preserve named character identities, set geometry and screen direction."
+      },
+      "speaking_roles": [
+        "byte",
+        "neon"
+      ],
+      "reference_pack": [
+        {
+          "id": "678400a023f22df4",
+          "title": "LOC03 - Hacking operations",
+          "url": "/library/678400a023f22df4.jpg",
+          "purpose": "Primary set geometry"
+        },
+        {
+          "id": "2b6b1c23635fe1c4",
+          "title": "SET03-lair-desk-master-gpt26-v001",
+          "url": "/library/2b6b1c23635fe1c4.jpg",
+          "purpose": "Camera-side layout"
+        },
+        {
+          "id": "c59f876dfb3540bb",
+          "title": "Neon",
+          "url": "/library/c59f876dfb3540bb.jpg",
+          "purpose": "Visible character identity / framing context; do not render offscreen speakers"
+        },
+        {
+          "id": "a23590fe66ebce01",
+          "title": "Byte",
+          "url": "/library/a23590fe66ebce01.jpg",
+          "purpose": "Visible character identity / framing context; do not render offscreen speakers"
+        },
+        {
+          "id": "f87a6ca99fdecd7c",
+          "title": "PROP12-hackpad-datachip-gpt26-v001",
+          "url": "/library/f87a6ca99fdecd7c.jpg",
+          "purpose": "Visible prop"
+        }
+      ],
+      "reference_pack_count": 5,
+      "reference_overflow": [],
+      "wan_plan": {
+        "model": "WAN 3.0 Prime",
+        "provider": "awaiting provider confirmation",
+        "mode": "single composed first-frame image-to-video",
+        "upload_image_count": 1,
+        "first_frame_status": "needs shot-specific composition and review",
+        "first_frame_id": null,
+        "reference_mode_cap": 10,
+        "cap_status": "documented by Runway and Wan API; target provider still to confirm",
+        "reference_mode_sources": [
+          "https://dev.runwayml.com/learn/wan-3-0-api",
+          "https://wanapi.app/docs/wan-3-0-prime"
+        ],
+        "audio": false,
+        "audio_policy": "Use the existing/approved ElevenLabs tracks in the edit. Do not generate replacement speech.",
+        "requested_duration_seconds": 8,
+        "edit_duration_seconds": 7.8,
+        "note": "Source reference pack is for preparing the still. Upload ONE approved composed frame to WAN; do not mix it with this whole reference pack. Trim generated clip to editorial duration; do not stretch speech."
+      }
+    },
+    {
+      "shot_id": "S19-P02",
+      "camera_action": "Ghost compares dispatch record to public gate camera and truck plate.",
+      "sound_transition": "Camera playback muted under dialogue.",
+      "dialogue_ids": [
+        "S19-N01"
+      ],
+      "start_sec": 1002.8,
+      "end_sec": 1012.2,
+      "duration_sec": 9.4,
+      "scene_start_sec": 7.8,
+      "scene_end_sec": 17.2,
+      "start_tc": "16:42.800",
+      "end_tc": "16:52.200",
+      "status": "editorial plan; animation not yet produced",
+      "asset_requirements": {
+        "locations": [
+          "LOC03"
+        ],
+        "existing_reference_count": 1,
+        "new_image_needed": "camera-specific review still or approved matching frame; audit before generating",
+        "animation": "not generated; Higgsfield is for stills only",
+        "audio": "ElevenLabs dialogue, separate room tone/foley/music mix",
+        "special": "Preserve named character identities, set geometry and screen direction."
+      },
+      "speaking_roles": [
+        "ghost"
+      ],
+      "reference_pack": [
+        {
+          "id": "678400a023f22df4",
+          "title": "LOC03 - Hacking operations",
+          "url": "/library/678400a023f22df4.jpg",
+          "purpose": "Primary set geometry"
+        },
+        {
+          "id": "2b6b1c23635fe1c4",
+          "title": "SET03-lair-desk-master-gpt26-v001",
+          "url": "/library/2b6b1c23635fe1c4.jpg",
+          "purpose": "Camera-side layout"
+        },
+        {
+          "id": "61dc338e08cb2385",
+          "title": "Ghost",
+          "url": "/library/61dc338e08cb2385.jpg",
+          "purpose": "Visible character identity / framing context; do not render offscreen speakers"
+        },
+        {
+          "id": "f87a6ca99fdecd7c",
+          "title": "PROP12-hackpad-datachip-gpt26-v001",
+          "url": "/library/f87a6ca99fdecd7c.jpg",
+          "purpose": "Visible prop"
+        },
+        {
+          "id": "f67ac5a346ad1a6d",
+          "title": "ACT10 — Refrigerated delivery truck",
+          "url": "/library/f67ac5a346ad1a6d.jpg",
+          "purpose": "Visible prop"
+        }
+      ],
+      "reference_pack_count": 5,
+      "reference_overflow": [],
+      "wan_plan": {
+        "model": "WAN 3.0 Prime",
+        "provider": "awaiting provider confirmation",
+        "mode": "single composed first-frame image-to-video",
+        "upload_image_count": 1,
+        "first_frame_status": "needs shot-specific composition and review",
+        "first_frame_id": null,
+        "reference_mode_cap": 10,
+        "cap_status": "documented by Runway and Wan API; target provider still to confirm",
+        "reference_mode_sources": [
+          "https://dev.runwayml.com/learn/wan-3-0-api",
+          "https://wanapi.app/docs/wan-3-0-prime"
+        ],
+        "audio": false,
+        "audio_policy": "Use the existing/approved ElevenLabs tracks in the edit. Do not generate replacement speech.",
+        "requested_duration_seconds": 10,
+        "edit_duration_seconds": 9.4,
+        "note": "Source reference pack is for preparing the still. Upload ONE approved composed frame to WAN; do not mix it with this whole reference pack. Trim generated clip to editorial duration; do not stretch speech."
+      }
+    },
+    {
+      "shot_id": "S19-P03",
+      "camera_action": "Byte highlights cancelled District 7 order and accepted District 2 replacement.",
+      "sound_transition": "Keyboard stop; Onyx reaction.",
+      "dialogue_ids": [
+        "S19-N02",
+        "S19-D04"
+      ],
+      "start_sec": 1012.2,
+      "end_sec": 1021.4,
+      "duration_sec": 9.2,
+      "scene_start_sec": 17.2,
+      "scene_end_sec": 26.4,
+      "start_tc": "16:52.200",
+      "end_tc": "17:01.400",
+      "status": "editorial plan; animation not yet produced",
+      "asset_requirements": {
+        "locations": [
+          "LOC03"
+        ],
+        "existing_reference_count": 1,
+        "new_image_needed": "camera-specific review still or approved matching frame; audit before generating",
+        "animation": "not generated; Higgsfield is for stills only",
+        "audio": "ElevenLabs dialogue, separate room tone/foley/music mix",
+        "special": "Preserve named character identities, set geometry and screen direction."
+      },
+      "speaking_roles": [
+        "byte",
+        "onyx"
+      ],
+      "reference_pack": [
+        {
+          "id": "678400a023f22df4",
+          "title": "LOC03 - Hacking operations",
+          "url": "/library/678400a023f22df4.jpg",
+          "purpose": "Primary set geometry"
+        },
+        {
+          "id": "2b6b1c23635fe1c4",
+          "title": "SET03-lair-desk-master-gpt26-v001",
+          "url": "/library/2b6b1c23635fe1c4.jpg",
+          "purpose": "Camera-side layout"
+        },
+        {
+          "id": "a23590fe66ebce01",
+          "title": "Byte",
+          "url": "/library/a23590fe66ebce01.jpg",
+          "purpose": "Visible character identity / framing context; do not render offscreen speakers"
+        },
+        {
+          "id": "8ac469710ff37bec",
+          "title": "Onyx",
+          "url": "/library/8ac469710ff37bec.jpg",
+          "purpose": "Visible character identity / framing context; do not render offscreen speakers"
+        }
+      ],
+      "reference_pack_count": 4,
+      "reference_overflow": [],
+      "wan_plan": {
+        "model": "WAN 3.0 Prime",
+        "provider": "awaiting provider confirmation",
+        "mode": "single composed first-frame image-to-video",
+        "upload_image_count": 1,
+        "first_frame_status": "needs shot-specific composition and review",
+        "first_frame_id": null,
+        "reference_mode_cap": 10,
+        "cap_status": "documented by Runway and Wan API; target provider still to confirm",
+        "reference_mode_sources": [
+          "https://dev.runwayml.com/learn/wan-3-0-api",
+          "https://wanapi.app/docs/wan-3-0-prime"
+        ],
+        "audio": false,
+        "audio_policy": "Use the existing/approved ElevenLabs tracks in the edit. Do not generate replacement speech.",
+        "requested_duration_seconds": 10,
+        "edit_duration_seconds": 9.2,
+        "note": "Source reference pack is for preparing the still. Upload ONE approved composed frame to WAN; do not mix it with this whole reference pack. Trim generated clip to editorial duration; do not stretch speech."
+      }
+    },
+    {
+      "shot_id": "S19-P04",
+      "camera_action": "Trixie saves immutable source copy and directs crew to verify gate.",
+      "sound_transition": "Export confirmation; cut to moving truck.",
+      "dialogue_ids": [
+        "S19-N03"
+      ],
+      "start_sec": 1021.4,
+      "end_sec": 1030.0,
+      "duration_sec": 8.6,
+      "scene_start_sec": 26.4,
+      "scene_end_sec": 35.0,
+      "start_tc": "17:01.400",
+      "end_tc": "17:10.000",
+      "status": "editorial plan; animation not yet produced",
+      "asset_requirements": {
+        "locations": [
+          "LOC03"
+        ],
+        "existing_reference_count": 1,
+        "new_image_needed": "camera-specific review still or approved matching frame; audit before generating",
+        "animation": "not generated; Higgsfield is for stills only",
+        "audio": "ElevenLabs dialogue, separate room tone/foley/music mix",
+        "special": "Preserve named character identities, set geometry and screen direction."
+      },
+      "speaking_roles": [
+        "trixie"
+      ],
+      "reference_pack": [
+        {
+          "id": "678400a023f22df4",
+          "title": "LOC03 - Hacking operations",
+          "url": "/library/678400a023f22df4.jpg",
+          "purpose": "Primary set geometry"
+        },
+        {
+          "id": "2b6b1c23635fe1c4",
+          "title": "SET03-lair-desk-master-gpt26-v001",
+          "url": "/library/2b6b1c23635fe1c4.jpg",
+          "purpose": "Camera-side layout"
+        },
+        {
+          "id": "51c0358d041cc3ba",
+          "title": "Trixie - CatGirl",
+          "url": "/library/51c0358d041cc3ba.jpg",
+          "purpose": "Visible character identity / framing context; do not render offscreen speakers"
+        },
+        {
+          "id": "a23590fe66ebce01",
+          "title": "Byte",
+          "url": "/library/a23590fe66ebce01.jpg",
+          "purpose": "Visible character identity / framing context; do not render offscreen speakers"
+        },
+        {
+          "id": "61dc338e08cb2385",
+          "title": "Ghost",
+          "url": "/library/61dc338e08cb2385.jpg",
+          "purpose": "Visible character identity / framing context; do not render offscreen speakers"
+        },
+        {
+          "id": "8ac469710ff37bec",
+          "title": "Onyx",
+          "url": "/library/8ac469710ff37bec.jpg",
+          "purpose": "Visible character identity / framing context; do not render offscreen speakers"
+        },
+        {
+          "id": "c59f876dfb3540bb",
+          "title": "Neon",
+          "url": "/library/c59f876dfb3540bb.jpg",
+          "purpose": "Visible character identity / framing context; do not render offscreen speakers"
+        },
+        {
+          "id": "f67ac5a346ad1a6d",
+          "title": "ACT10 — Refrigerated delivery truck",
+          "url": "/library/f67ac5a346ad1a6d.jpg",
+          "purpose": "Visible prop"
+        }
+      ],
+      "reference_pack_count": 8,
+      "reference_overflow": [],
+      "wan_plan": {
+        "model": "WAN 3.0 Prime",
+        "provider": "awaiting provider confirmation",
+        "mode": "single composed first-frame image-to-video",
+        "upload_image_count": 1,
+        "first_frame_status": "needs shot-specific composition and review",
+        "first_frame_id": null,
+        "reference_mode_cap": 10,
+        "cap_status": "documented by Runway and Wan API; target provider still to confirm",
+        "reference_mode_sources": [
+          "https://dev.runwayml.com/learn/wan-3-0-api",
+          "https://wanapi.app/docs/wan-3-0-prime"
+        ],
+        "audio": false,
+        "audio_policy": "Use the existing/approved ElevenLabs tracks in the edit. Do not generate replacement speech.",
+        "requested_duration_seconds": 9,
+        "edit_duration_seconds": 8.6,
+        "note": "Source reference pack is for preparing the still. Upload ONE approved composed frame to WAN; do not mix it with this whole reference pack. Trim generated clip to editorial duration; do not stretch speech."
+      }
+    }
+  ],
+  "spoken_words": 60,
+  "recorded_lines": 0,
+  "timing_note": "Exact editorial allocation. Existing takes use measured file durations; unrecorded lines use 150 wpm estimates. Action plays under dialogue where indicated. No time stretching or blank padding.",
+  "remaining_work": [
+    "Record and review new/unrecorded dialogue in ElevenLabs.",
+    "Build camera-specific stills from established references; review identity and geography.",
+    "Animate approved shots outside Higgsfield, then conform to this timeline.",
+    "Mix room tone, foley, music and dialogue; verify a full-speed table read and animatic."
+  ],
+  "continuity": "Supply diversion becomes supportable only after matched dispatch records and truck verification.",
+  "generation_references": [
+    {
+      "id": "678400a023f22df4",
+      "title": "LOC03 - Hacking operations",
+      "filename": "LOC03-hacking-operations-gpt26-v001.png",
+      "kind": "Location",
+      "purpose": "Set geography, doors, windows and camera axis.",
+      "url": "/library/678400a023f22df4.jpg",
+      "thumbnail": "/library/678400a023f22df4.webp",
+      "source": "Locations\\Cats\\LOC03 - Hacking operations\\Reference Sheets\\LOC03-hacking-operations-gpt26-v001.png",
+      "status": "existing reference; review before generation"
+    },
+    {
+      "id": "2b6b1c23635fe1c4",
+      "title": "SET03-lair-desk-master-gpt26-v001",
+      "filename": "SET03-lair-desk-master-gpt26-v001.png",
+      "kind": "Continuity plate",
+      "purpose": "Use the matching camera side; do not mirror room orientation.",
+      "url": "/library/2b6b1c23635fe1c4.jpg",
+      "thumbnail": "/library/2b6b1c23635fe1c4.webp",
+      "source": "Phase 2\\Setting Plates\\SET03-lair-desk-master-gpt26-v001.png",
+      "status": "existing reference; review before generation"
+    },
+    {
+      "id": "6f89189f932c4110",
+      "title": "SET04-lair-true-reverse-gpt26-v001",
+      "filename": "SET04-lair-true-reverse-gpt26-v001.png",
+      "kind": "Continuity plate",
+      "purpose": "Use the matching camera side; do not mirror room orientation.",
+      "url": "/library/6f89189f932c4110.jpg",
+      "thumbnail": "/library/6f89189f932c4110.webp",
+      "source": "Phase 2\\Setting Plates\\SET04-lair-true-reverse-gpt26-v001.png",
+      "status": "existing reference; review before generation"
+    },
+    {
+      "id": "51c0358d041cc3ba",
+      "title": "Trixie - CatGirl",
+      "filename": "CREW01-trixie-character-master-gpt26-v001.png",
+      "kind": "Character",
+      "purpose": "Preserve identity, proportions, outfit and accessories. Include only actors visible in the shot.",
+      "url": "/library/51c0358d041cc3ba.jpg",
+      "thumbnail": "/library/51c0358d041cc3ba.webp",
+      "source": "Characters\\Cats - Resistance\\Trixie - CatGirl\\Reference Sheets\\CREW01-trixie-character-master-gpt26-v001.png",
+      "status": "existing reference; review before generation"
+    },
+    {
+      "id": "a23590fe66ebce01",
+      "title": "Byte",
+      "filename": "CREW02-byte-character-master-gpt26-v001.png",
+      "kind": "Character",
+      "purpose": "Preserve identity, proportions, outfit and accessories. Include only actors visible in the shot.",
+      "url": "/library/a23590fe66ebce01.jpg",
+      "thumbnail": "/library/a23590fe66ebce01.webp",
+      "source": "Characters\\Cats - Resistance\\Byte\\Reference Sheets\\CREW02-byte-character-master-gpt26-v001.png",
+      "status": "existing reference; review before generation"
+    },
+    {
+      "id": "61dc338e08cb2385",
+      "title": "Ghost",
+      "filename": "CREW03-ghost-character-master-gpt26-v001.png",
+      "kind": "Character",
+      "purpose": "Preserve identity, proportions, outfit and accessories. Include only actors visible in the shot.",
+      "url": "/library/61dc338e08cb2385.jpg",
+      "thumbnail": "/library/61dc338e08cb2385.webp",
+      "source": "Characters\\Cats - Resistance\\Ghost\\Reference Sheets\\CREW03-ghost-character-master-gpt26-v001.png",
+      "status": "existing reference; review before generation"
+    },
+    {
+      "id": "8ac469710ff37bec",
+      "title": "Onyx",
+      "filename": "CREW04-onyx-character-master-gpt26-v001.png",
+      "kind": "Character",
+      "purpose": "Preserve identity, proportions, outfit and accessories. Include only actors visible in the shot.",
+      "url": "/library/8ac469710ff37bec.jpg",
+      "thumbnail": "/library/8ac469710ff37bec.webp",
+      "source": "Characters\\Cats - Resistance\\Onyx\\Reference Sheets\\CREW04-onyx-character-master-gpt26-v001.png",
+      "status": "existing reference; review before generation"
+    },
+    {
+      "id": "c59f876dfb3540bb",
+      "title": "Neon",
+      "filename": "CREW05-neon-character-master-gpt26-v001.png",
+      "kind": "Character",
+      "purpose": "Preserve identity, proportions, outfit and accessories. Include only actors visible in the shot.",
+      "url": "/library/c59f876dfb3540bb.jpg",
+      "thumbnail": "/library/c59f876dfb3540bb.webp",
+      "source": "Characters\\Cats - Resistance\\Neon\\Reference Sheets\\CREW05-neon-character-master-gpt26-v001.png",
+      "status": "existing reference; review before generation"
+    },
+    {
+      "id": "f87a6ca99fdecd7c",
+      "title": "PROP12-hackpad-datachip-gpt26-v001",
+      "filename": "PROP12-hackpad-datachip-gpt26-v001.png",
+      "kind": "Prop / graphic",
+      "purpose": "Preserve prop shape, material, controls and scale.",
+      "url": "/library/f87a6ca99fdecd7c.jpg",
+      "thumbnail": "/library/f87a6ca99fdecd7c.webp",
+      "source": "Props\\Cats\\Props\\PROP12-hackpad-datachip-gpt26-v001.png",
+      "status": "existing reference; review before generation"
+    },
+    {
+      "id": "af62330f3ac2ee19",
+      "title": "PROP11-goodboy-badge-evidence-docs-gpt26-v001",
+      "filename": "PROP11-goodboy-badge-evidence-docs-gpt26-v001.png",
+      "kind": "Prop / graphic",
+      "purpose": "Preserve prop shape, material, controls and scale.",
+      "url": "/library/af62330f3ac2ee19.jpg",
+      "thumbnail": "/library/af62330f3ac2ee19.webp",
+      "source": "Props\\Dogs\\Props\\PROP11-goodboy-badge-evidence-docs-gpt26-v001.png",
+      "status": "existing reference; review before generation"
+    },
+    {
+      "id": "f67ac5a346ad1a6d",
+      "title": "ACT10 — Refrigerated delivery truck",
+      "filename": "ACT10-prop-master-gpt26-v001.png",
+      "kind": "Prop / graphic",
+      "purpose": "Preserve prop shape, material, controls and scale.",
+      "url": "/library/f67ac5a346ad1a6d.jpg",
+      "thumbnail": "/library/f67ac5a346ad1a6d.webp",
+      "source": "Props\\Dogs\\Action Props\\ACT10-prop-master-gpt26-v001.png",
+      "status": "existing reference; review before generation"
+    }
+  ],
+  "missing_reference_requirements": [
+    "Dispatch-log evidence graphic matching truck plates and district orders.",
+    "Final shot-specific composed first frame for each timed shot; existing drafts require review."
+  ]
+}

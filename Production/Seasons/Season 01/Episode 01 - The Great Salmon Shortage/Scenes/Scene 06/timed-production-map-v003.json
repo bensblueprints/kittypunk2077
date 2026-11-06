@@ -1,0 +1,770 @@
+{
+  "number": 6,
+  "title": "Word Spreads",
+  "start": "05:00",
+  "end": "05:45",
+  "duration_seconds": 45,
+  "source_location": "District 7 market",
+  "location_ids": [
+    "LOC08"
+  ],
+  "staging": "Scene 06 — Word Spreads\n\n05:00–05:45 · 45 sec · District 7 market\n\nTrixie and Byte return to the slums. Byte shares the suspicious pricing data with the crew. Neon projects the price increases onto a public billboard. Curious cats gather.\n\nShots: Crowded market wide → price-history hologram → shocked citizens → Trixie climbing onto a crate.",
+  "sound": "",
+  "lines": [
+    {
+      "id": "S06-D01",
+      "speaker": "Trixie",
+      "text": "They tripled the price before they announced the shortage!",
+      "takes": [],
+      "origin": "retained working script",
+      "recording_status": "not recorded",
+      "start_sec": 300.15,
+      "end_sec": 303.75,
+      "start_tc": "05:00.150",
+      "end_tc": "05:03.750",
+      "shot_id": "S06-P01",
+      "timing_basis": "estimate at 150 words/minute; replace after recording",
+      "role_id": "trixie",
+      "voice_id": "dmWfLQZJq7wNPv9WmtiM",
+      "voice_name": "Emma — Wry, Gritty Hero"
+    },
+    {
+      "id": "S06-D02",
+      "speaker": "Random citizen",
+      "text": "Those bastards! I sold my litter box to buy dinner!",
+      "takes": [],
+      "origin": "retained working script",
+      "recording_status": "not recorded",
+      "start_sec": 304.71,
+      "end_sec": 308.71,
+      "start_tc": "05:04.710",
+      "end_tc": "05:08.710",
+      "shot_id": "S06-P02",
+      "timing_basis": "estimate at 150 words/minute; replace after recording",
+      "role_id": "civilian_1",
+      "voice_id": "DODLEQrClDo8wCz460ld",
+      "voice_name": "Lauren - Friendly, Comforting and Soft"
+    },
+    {
+      "id": "S06-D03",
+      "speaker": "Byte",
+      "text": "Okay, that's a personal budgeting problem.",
+      "takes": [],
+      "origin": "retained working script",
+      "recording_status": "not recorded",
+      "start_sec": 308.91,
+      "end_sec": 311.31,
+      "start_tc": "05:08.910",
+      "end_tc": "05:11.310",
+      "shot_id": "S06-P02",
+      "timing_basis": "estimate at 150 words/minute; replace after recording",
+      "role_id": "byte",
+      "voice_id": "wo6udizrrtpIxWGp2qJk",
+      "voice_name": "Northern Terry"
+    },
+    {
+      "id": "S06-N01",
+      "speaker": "Byte",
+      "text": "Bad joke. Sorry. Keep your receipt; it can help us prove when the price changed.",
+      "takes": [],
+      "origin": "new production draft v003; not yet recorded",
+      "recording_status": "not recorded",
+      "start_sec": 311.51,
+      "end_sec": 317.51,
+      "start_tc": "05:11.510",
+      "end_tc": "05:17.510",
+      "shot_id": "S06-P02",
+      "timing_basis": "estimate at 150 words/minute; replace after recording",
+      "role_id": "byte",
+      "voice_id": "wo6udizrrtpIxWGp2qJk",
+      "voice_name": "Northern Terry"
+    },
+    {
+      "id": "S06-N02",
+      "speaker": "Neon",
+      "text": "I can put the two timestamps side by side. Big enough for the back of the market.",
+      "takes": [],
+      "origin": "new production draft v003; not yet recorded",
+      "recording_status": "not recorded",
+      "start_sec": 318.47,
+      "end_sec": 325.27,
+      "start_tc": "05:18.470",
+      "end_tc": "05:25.270",
+      "shot_id": "S06-P03",
+      "timing_basis": "estimate at 150 words/minute; replace after recording",
+      "role_id": "neon",
+      "voice_id": "4e32WqNVWRquDa1OcRYZ",
+      "voice_name": "Ryan — Product Reviewer"
+    },
+    {
+      "id": "S06-N03",
+      "speaker": "Ghost",
+      "text": "Hide the customers’ names. We need prices, not a list of people for the patrols.",
+      "takes": [],
+      "origin": "new production draft v003; not yet recorded",
+      "recording_status": "not recorded",
+      "start_sec": 326.23,
+      "end_sec": 332.23,
+      "start_tc": "05:26.230",
+      "end_tc": "05:32.230",
+      "shot_id": "S06-P04",
+      "timing_basis": "estimate at 150 words/minute; replace after recording",
+      "role_id": "ghost",
+      "voice_id": "7fBwqIVI6wI1B4MuKqQi",
+      "voice_name": "Austin — Upbeat"
+    },
+    {
+      "id": "S06-N04",
+      "speaker": "Trixie",
+      "text": "If you bought fish today, compare your receipt. Do not take our word for it.",
+      "takes": [],
+      "origin": "new production draft v003; not yet recorded",
+      "recording_status": "not recorded",
+      "start_sec": 333.19,
+      "end_sec": 339.19,
+      "start_tc": "05:33.190",
+      "end_tc": "05:39.190",
+      "shot_id": "S06-P05",
+      "timing_basis": "estimate at 150 words/minute; replace after recording",
+      "role_id": "trixie",
+      "voice_id": "dmWfLQZJq7wNPv9WmtiM",
+      "voice_name": "Emma — Wry, Gritty Hero"
+    },
+    {
+      "id": "S06-N05",
+      "speaker": "Onyx",
+      "text": "Leave a path through the crowd. People still need to get home.",
+      "takes": [],
+      "origin": "new production draft v003; not yet recorded",
+      "recording_status": "not recorded",
+      "start_sec": 339.39,
+      "end_sec": 344.19,
+      "start_tc": "05:39.390",
+      "end_tc": "05:44.190",
+      "shot_id": "S06-P05",
+      "timing_basis": "estimate at 150 words/minute; replace after recording",
+      "role_id": "onyx",
+      "voice_id": "uq0HIbNZKn11Hs5ifEdd",
+      "voice_name": "Harry — Fierce Warrior"
+    }
+  ],
+  "shots": [
+    {
+      "shot_id": "S06-B01",
+      "description": "Crowded market wide",
+      "status": "source shot beat; detailed shot duration and coverage pending",
+      "duration_seconds": null
+    },
+    {
+      "shot_id": "S06-B02",
+      "description": "price-history hologram",
+      "status": "source shot beat; detailed shot duration and coverage pending",
+      "duration_seconds": null
+    },
+    {
+      "shot_id": "S06-B03",
+      "description": "shocked citizens",
+      "status": "source shot beat; detailed shot duration and coverage pending",
+      "duration_seconds": null
+    },
+    {
+      "shot_id": "S06-B04",
+      "description": "Trixie climbing onto a crate.",
+      "status": "source shot beat; detailed shot duration and coverage pending",
+      "duration_seconds": null
+    }
+  ],
+  "locations": [
+    {
+      "id": "c0de39fba4f7ec01",
+      "title": "LOC08 - District 7 market",
+      "category": "Locations",
+      "group": "Neutral",
+      "file": "LOC08-district-7-market-gpt26-v001.png",
+      "source": "Locations\\Neutral\\LOC08 - District 7 market\\Reference Sheets\\LOC08-district-7-market-gpt26-v001.png",
+      "voice": ""
+    }
+  ],
+  "frames": [],
+  "assemblies": [],
+  "timed_shots": [
+    {
+      "shot_id": "S06-P01",
+      "camera_action": "Market wide; five crew regroup at public screen, Trixie raises scanner.",
+      "sound_transition": "Market bustle drops under her call.",
+      "dialogue_ids": [
+        "S06-D01"
+      ],
+      "start_sec": 300,
+      "end_sec": 304.56,
+      "duration_sec": 4.56,
+      "scene_start_sec": 0,
+      "scene_end_sec": 4.56,
+      "start_tc": "05:00.000",
+      "end_tc": "05:04.560",
+      "status": "editorial plan; animation not yet produced",
+      "asset_requirements": {
+        "locations": [
+          "LOC08"
+        ],
+        "existing_reference_count": 1,
+        "new_image_needed": "camera-specific review still or approved matching frame; audit before generating",
+        "animation": "not generated; Higgsfield is for stills only",
+        "audio": "ElevenLabs dialogue, separate room tone/foley/music mix",
+        "special": "Preserve named character identities, set geometry and screen direction."
+      },
+      "speaking_roles": [
+        "trixie"
+      ],
+      "reference_pack": [
+        {
+          "id": "c0de39fba4f7ec01",
+          "title": "LOC08 - District 7 market",
+          "url": "/library/c0de39fba4f7ec01.jpg",
+          "purpose": "Primary set geometry"
+        },
+        {
+          "id": "51c0358d041cc3ba",
+          "title": "Trixie - CatGirl",
+          "url": "/library/51c0358d041cc3ba.jpg",
+          "purpose": "Visible character identity / framing context; do not render offscreen speakers"
+        },
+        {
+          "id": "a23590fe66ebce01",
+          "title": "Byte",
+          "url": "/library/a23590fe66ebce01.jpg",
+          "purpose": "Visible character identity / framing context; do not render offscreen speakers"
+        },
+        {
+          "id": "61dc338e08cb2385",
+          "title": "Ghost",
+          "url": "/library/61dc338e08cb2385.jpg",
+          "purpose": "Visible character identity / framing context; do not render offscreen speakers"
+        },
+        {
+          "id": "8ac469710ff37bec",
+          "title": "Onyx",
+          "url": "/library/8ac469710ff37bec.jpg",
+          "purpose": "Visible character identity / framing context; do not render offscreen speakers"
+        },
+        {
+          "id": "c59f876dfb3540bb",
+          "title": "Neon",
+          "url": "/library/c59f876dfb3540bb.jpg",
+          "purpose": "Visible character identity / framing context; do not render offscreen speakers"
+        },
+        {
+          "id": "3d6689586e0b8150",
+          "title": "PROP09-byte-price-scanner-gpt26-v002",
+          "url": "/library/3d6689586e0b8150.jpg",
+          "purpose": "Visible prop"
+        },
+        {
+          "id": "21d63b4068166ba1",
+          "title": "ACT05 — Projector and rally banners",
+          "url": "/library/21d63b4068166ba1.jpg",
+          "purpose": "Visible prop"
+        },
+        {
+          "id": "053732f83dcf0d7c",
+          "title": "ACT06 — Vendor stall and scale states",
+          "url": "/library/053732f83dcf0d7c.jpg",
+          "purpose": "Visible prop"
+        }
+      ],
+      "reference_pack_count": 9,
+      "reference_overflow": [],
+      "wan_plan": {
+        "model": "WAN 3.0 Prime",
+        "provider": "awaiting provider confirmation",
+        "mode": "single composed first-frame image-to-video",
+        "upload_image_count": 1,
+        "first_frame_status": "needs shot-specific composition and review",
+        "first_frame_id": null,
+        "reference_mode_cap": 10,
+        "cap_status": "documented by Runway and Wan API; target provider still to confirm",
+        "reference_mode_sources": [
+          "https://dev.runwayml.com/learn/wan-3-0-api",
+          "https://wanapi.app/docs/wan-3-0-prime"
+        ],
+        "audio": false,
+        "audio_policy": "Use the existing/approved ElevenLabs tracks in the edit. Do not generate replacement speech.",
+        "requested_duration_seconds": 5,
+        "edit_duration_seconds": 4.56,
+        "note": "Source reference pack is for preparing the still. Upload ONE approved composed frame to WAN; do not mix it with this whole reference pack. Trim generated clip to editorial duration; do not stretch speech."
+      }
+    },
+    {
+      "shot_id": "S06-P02",
+      "camera_action": "Civilian reaction then Byte, who realizes his joke landed badly.",
+      "sound_transition": "Single uncomfortable beat; no mocking crowd laughter.",
+      "dialogue_ids": [
+        "S06-D02",
+        "S06-D03",
+        "S06-N01"
+      ],
+      "start_sec": 304.56,
+      "end_sec": 318.32,
+      "duration_sec": 13.76,
+      "scene_start_sec": 4.56,
+      "scene_end_sec": 18.32,
+      "start_tc": "05:04.560",
+      "end_tc": "05:18.320",
+      "status": "editorial plan; animation not yet produced",
+      "asset_requirements": {
+        "locations": [
+          "LOC08"
+        ],
+        "existing_reference_count": 1,
+        "new_image_needed": "camera-specific review still or approved matching frame; audit before generating",
+        "animation": "not generated; Higgsfield is for stills only",
+        "audio": "ElevenLabs dialogue, separate room tone/foley/music mix",
+        "special": "Preserve named character identities, set geometry and screen direction."
+      },
+      "speaking_roles": [
+        "byte",
+        "civilian_1"
+      ],
+      "reference_pack": [
+        {
+          "id": "c0de39fba4f7ec01",
+          "title": "LOC08 - District 7 market",
+          "url": "/library/c0de39fba4f7ec01.jpg",
+          "purpose": "Primary set geometry"
+        },
+        {
+          "id": "a23590fe66ebce01",
+          "title": "Byte",
+          "url": "/library/a23590fe66ebce01.jpg",
+          "purpose": "Visible character identity / framing context; do not render offscreen speakers"
+        },
+        {
+          "id": "d0c4b245ed3a3745",
+          "title": "CIV01 - Civilian Cat",
+          "url": "/library/d0c4b245ed3a3745.jpg",
+          "purpose": "Visible character identity / framing context; do not render offscreen speakers"
+        }
+      ],
+      "reference_pack_count": 3,
+      "reference_overflow": [],
+      "wan_plan": {
+        "model": "WAN 3.0 Prime",
+        "provider": "awaiting provider confirmation",
+        "mode": "single composed first-frame image-to-video",
+        "upload_image_count": 1,
+        "first_frame_status": "needs shot-specific composition and review",
+        "first_frame_id": null,
+        "reference_mode_cap": 10,
+        "cap_status": "documented by Runway and Wan API; target provider still to confirm",
+        "reference_mode_sources": [
+          "https://dev.runwayml.com/learn/wan-3-0-api",
+          "https://wanapi.app/docs/wan-3-0-prime"
+        ],
+        "audio": false,
+        "audio_policy": "Use the existing/approved ElevenLabs tracks in the edit. Do not generate replacement speech.",
+        "requested_duration_seconds": 14,
+        "edit_duration_seconds": 13.76,
+        "note": "Source reference pack is for preparing the still. Upload ONE approved composed frame to WAN; do not mix it with this whole reference pack. Trim generated clip to editorial duration; do not stretch speech."
+      }
+    },
+    {
+      "shot_id": "S06-P03",
+      "camera_action": "Neon attaches projector; two price timestamps appear side by side.",
+      "sound_transition": "Projector hum and interface clicks.",
+      "dialogue_ids": [
+        "S06-N02"
+      ],
+      "start_sec": 318.32,
+      "end_sec": 326.08,
+      "duration_sec": 7.76,
+      "scene_start_sec": 18.32,
+      "scene_end_sec": 26.08,
+      "start_tc": "05:18.320",
+      "end_tc": "05:26.080",
+      "status": "editorial plan; animation not yet produced",
+      "asset_requirements": {
+        "locations": [
+          "LOC08"
+        ],
+        "existing_reference_count": 1,
+        "new_image_needed": "camera-specific review still or approved matching frame; audit before generating",
+        "animation": "not generated; Higgsfield is for stills only",
+        "audio": "ElevenLabs dialogue, separate room tone/foley/music mix",
+        "special": "Preserve named character identities, set geometry and screen direction."
+      },
+      "speaking_roles": [
+        "neon"
+      ],
+      "reference_pack": [
+        {
+          "id": "c0de39fba4f7ec01",
+          "title": "LOC08 - District 7 market",
+          "url": "/library/c0de39fba4f7ec01.jpg",
+          "purpose": "Primary set geometry"
+        },
+        {
+          "id": "c59f876dfb3540bb",
+          "title": "Neon",
+          "url": "/library/c59f876dfb3540bb.jpg",
+          "purpose": "Visible character identity / framing context; do not render offscreen speakers"
+        },
+        {
+          "id": "3d6689586e0b8150",
+          "title": "PROP09-byte-price-scanner-gpt26-v002",
+          "url": "/library/3d6689586e0b8150.jpg",
+          "purpose": "Visible prop"
+        },
+        {
+          "id": "21d63b4068166ba1",
+          "title": "ACT05 — Projector and rally banners",
+          "url": "/library/21d63b4068166ba1.jpg",
+          "purpose": "Visible prop"
+        }
+      ],
+      "reference_pack_count": 4,
+      "reference_overflow": [],
+      "wan_plan": {
+        "model": "WAN 3.0 Prime",
+        "provider": "awaiting provider confirmation",
+        "mode": "single composed first-frame image-to-video",
+        "upload_image_count": 1,
+        "first_frame_status": "needs shot-specific composition and review",
+        "first_frame_id": null,
+        "reference_mode_cap": 10,
+        "cap_status": "documented by Runway and Wan API; target provider still to confirm",
+        "reference_mode_sources": [
+          "https://dev.runwayml.com/learn/wan-3-0-api",
+          "https://wanapi.app/docs/wan-3-0-prime"
+        ],
+        "audio": false,
+        "audio_policy": "Use the existing/approved ElevenLabs tracks in the edit. Do not generate replacement speech.",
+        "requested_duration_seconds": 8,
+        "edit_duration_seconds": 7.76,
+        "note": "Source reference pack is for preparing the still. Upload ONE approved composed frame to WAN; do not mix it with this whole reference pack. Trim generated clip to editorial duration; do not stretch speech."
+      }
+    },
+    {
+      "shot_id": "S06-P04",
+      "camera_action": "Ghost masks personal identifiers before screen goes public.",
+      "sound_transition": "Confirm tone; receipts remain readable without names.",
+      "dialogue_ids": [
+        "S06-N03"
+      ],
+      "start_sec": 326.08,
+      "end_sec": 333.04,
+      "duration_sec": 6.96,
+      "scene_start_sec": 26.08,
+      "scene_end_sec": 33.04,
+      "start_tc": "05:26.080",
+      "end_tc": "05:33.040",
+      "status": "editorial plan; animation not yet produced",
+      "asset_requirements": {
+        "locations": [
+          "LOC08"
+        ],
+        "existing_reference_count": 1,
+        "new_image_needed": "camera-specific review still or approved matching frame; audit before generating",
+        "animation": "not generated; Higgsfield is for stills only",
+        "audio": "ElevenLabs dialogue, separate room tone/foley/music mix",
+        "special": "Preserve named character identities, set geometry and screen direction."
+      },
+      "speaking_roles": [
+        "ghost"
+      ],
+      "reference_pack": [
+        {
+          "id": "c0de39fba4f7ec01",
+          "title": "LOC08 - District 7 market",
+          "url": "/library/c0de39fba4f7ec01.jpg",
+          "purpose": "Primary set geometry"
+        },
+        {
+          "id": "61dc338e08cb2385",
+          "title": "Ghost",
+          "url": "/library/61dc338e08cb2385.jpg",
+          "purpose": "Visible character identity / framing context; do not render offscreen speakers"
+        },
+        {
+          "id": "21d63b4068166ba1",
+          "title": "ACT05 — Projector and rally banners",
+          "url": "/library/21d63b4068166ba1.jpg",
+          "purpose": "Visible prop"
+        }
+      ],
+      "reference_pack_count": 3,
+      "reference_overflow": [],
+      "wan_plan": {
+        "model": "WAN 3.0 Prime",
+        "provider": "awaiting provider confirmation",
+        "mode": "single composed first-frame image-to-video",
+        "upload_image_count": 1,
+        "first_frame_status": "needs shot-specific composition and review",
+        "first_frame_id": null,
+        "reference_mode_cap": 10,
+        "cap_status": "documented by Runway and Wan API; target provider still to confirm",
+        "reference_mode_sources": [
+          "https://dev.runwayml.com/learn/wan-3-0-api",
+          "https://wanapi.app/docs/wan-3-0-prime"
+        ],
+        "audio": false,
+        "audio_policy": "Use the existing/approved ElevenLabs tracks in the edit. Do not generate replacement speech.",
+        "requested_duration_seconds": 7,
+        "edit_duration_seconds": 6.96,
+        "note": "Source reference pack is for preparing the still. Upload ONE approved composed frame to WAN; do not mix it with this whole reference pack. Trim generated clip to editorial duration; do not stretch speech."
+      }
+    },
+    {
+      "shot_id": "S06-P05",
+      "camera_action": "Trixie climbs low crate; Onyx keeps walkway open as cats gather.",
+      "sound_transition": "Crowd gathers into rally ambience; match cut to microphone.",
+      "dialogue_ids": [
+        "S06-N04",
+        "S06-N05"
+      ],
+      "start_sec": 333.04,
+      "end_sec": 345.0,
+      "duration_sec": 11.96,
+      "scene_start_sec": 33.04,
+      "scene_end_sec": 45.0,
+      "start_tc": "05:33.040",
+      "end_tc": "05:45.000",
+      "status": "editorial plan; animation not yet produced",
+      "asset_requirements": {
+        "locations": [
+          "LOC08"
+        ],
+        "existing_reference_count": 1,
+        "new_image_needed": "camera-specific review still or approved matching frame; audit before generating",
+        "animation": "not generated; Higgsfield is for stills only",
+        "audio": "ElevenLabs dialogue, separate room tone/foley/music mix",
+        "special": "Preserve named character identities, set geometry and screen direction."
+      },
+      "speaking_roles": [
+        "onyx",
+        "trixie"
+      ],
+      "reference_pack": [
+        {
+          "id": "c0de39fba4f7ec01",
+          "title": "LOC08 - District 7 market",
+          "url": "/library/c0de39fba4f7ec01.jpg",
+          "purpose": "Primary set geometry"
+        },
+        {
+          "id": "51c0358d041cc3ba",
+          "title": "Trixie - CatGirl",
+          "url": "/library/51c0358d041cc3ba.jpg",
+          "purpose": "Visible character identity / framing context; do not render offscreen speakers"
+        },
+        {
+          "id": "8ac469710ff37bec",
+          "title": "Onyx",
+          "url": "/library/8ac469710ff37bec.jpg",
+          "purpose": "Visible character identity / framing context; do not render offscreen speakers"
+        }
+      ],
+      "reference_pack_count": 3,
+      "reference_overflow": [],
+      "wan_plan": {
+        "model": "WAN 3.0 Prime",
+        "provider": "awaiting provider confirmation",
+        "mode": "single composed first-frame image-to-video",
+        "upload_image_count": 1,
+        "first_frame_status": "needs shot-specific composition and review",
+        "first_frame_id": null,
+        "reference_mode_cap": 10,
+        "cap_status": "documented by Runway and Wan API; target provider still to confirm",
+        "reference_mode_sources": [
+          "https://dev.runwayml.com/learn/wan-3-0-api",
+          "https://wanapi.app/docs/wan-3-0-prime"
+        ],
+        "audio": false,
+        "audio_policy": "Use the existing/approved ElevenLabs tracks in the edit. Do not generate replacement speech.",
+        "requested_duration_seconds": 12,
+        "edit_duration_seconds": 11.96,
+        "note": "Source reference pack is for preparing the still. Upload ONE approved composed frame to WAN; do not mix it with this whole reference pack. Trim generated clip to editorial duration; do not stretch speech."
+      }
+    }
+  ],
+  "spoken_words": 99,
+  "recorded_lines": 0,
+  "timing_note": "Exact editorial allocation. Existing takes use measured file durations; unrecorded lines use 150 wpm estimates. Action plays under dialogue where indicated. No time stretching or blank padding.",
+  "remaining_work": [
+    "Record and review new/unrecorded dialogue in ElevenLabs.",
+    "Build camera-specific stills from established references; review identity and geography.",
+    "Animate approved shots outside Higgsfield, then conform to this timeline.",
+    "Mix room tone, foley, music and dialogue; verify a full-speed table read and animatic."
+  ],
+  "continuity": "Keep exactly five core cats; match current character sheets and fixed location geometry. Goodboy Global spelling throughout.",
+  "generation_references": [
+    {
+      "id": "c0de39fba4f7ec01",
+      "title": "LOC08 - District 7 market",
+      "filename": "LOC08-district-7-market-gpt26-v001.png",
+      "kind": "Location",
+      "purpose": "Set geography, doors, windows and camera axis.",
+      "url": "/library/c0de39fba4f7ec01.jpg",
+      "thumbnail": "/library/c0de39fba4f7ec01.webp",
+      "source": "Locations\\Neutral\\LOC08 - District 7 market\\Reference Sheets\\LOC08-district-7-market-gpt26-v001.png",
+      "status": "existing reference; review before generation"
+    },
+    {
+      "id": "51c0358d041cc3ba",
+      "title": "Trixie - CatGirl",
+      "filename": "CREW01-trixie-character-master-gpt26-v001.png",
+      "kind": "Character",
+      "purpose": "Preserve identity, proportions, outfit and accessories. Include only actors visible in the shot.",
+      "url": "/library/51c0358d041cc3ba.jpg",
+      "thumbnail": "/library/51c0358d041cc3ba.webp",
+      "source": "Characters\\Cats - Resistance\\Trixie - CatGirl\\Reference Sheets\\CREW01-trixie-character-master-gpt26-v001.png",
+      "status": "existing reference; review before generation"
+    },
+    {
+      "id": "a23590fe66ebce01",
+      "title": "Byte",
+      "filename": "CREW02-byte-character-master-gpt26-v001.png",
+      "kind": "Character",
+      "purpose": "Preserve identity, proportions, outfit and accessories. Include only actors visible in the shot.",
+      "url": "/library/a23590fe66ebce01.jpg",
+      "thumbnail": "/library/a23590fe66ebce01.webp",
+      "source": "Characters\\Cats - Resistance\\Byte\\Reference Sheets\\CREW02-byte-character-master-gpt26-v001.png",
+      "status": "existing reference; review before generation"
+    },
+    {
+      "id": "61dc338e08cb2385",
+      "title": "Ghost",
+      "filename": "CREW03-ghost-character-master-gpt26-v001.png",
+      "kind": "Character",
+      "purpose": "Preserve identity, proportions, outfit and accessories. Include only actors visible in the shot.",
+      "url": "/library/61dc338e08cb2385.jpg",
+      "thumbnail": "/library/61dc338e08cb2385.webp",
+      "source": "Characters\\Cats - Resistance\\Ghost\\Reference Sheets\\CREW03-ghost-character-master-gpt26-v001.png",
+      "status": "existing reference; review before generation"
+    },
+    {
+      "id": "8ac469710ff37bec",
+      "title": "Onyx",
+      "filename": "CREW04-onyx-character-master-gpt26-v001.png",
+      "kind": "Character",
+      "purpose": "Preserve identity, proportions, outfit and accessories. Include only actors visible in the shot.",
+      "url": "/library/8ac469710ff37bec.jpg",
+      "thumbnail": "/library/8ac469710ff37bec.webp",
+      "source": "Characters\\Cats - Resistance\\Onyx\\Reference Sheets\\CREW04-onyx-character-master-gpt26-v001.png",
+      "status": "existing reference; review before generation"
+    },
+    {
+      "id": "c59f876dfb3540bb",
+      "title": "Neon",
+      "filename": "CREW05-neon-character-master-gpt26-v001.png",
+      "kind": "Character",
+      "purpose": "Preserve identity, proportions, outfit and accessories. Include only actors visible in the shot.",
+      "url": "/library/c59f876dfb3540bb.jpg",
+      "thumbnail": "/library/c59f876dfb3540bb.webp",
+      "source": "Characters\\Cats - Resistance\\Neon\\Reference Sheets\\CREW05-neon-character-master-gpt26-v001.png",
+      "status": "existing reference; review before generation"
+    },
+    {
+      "id": "d0c4b245ed3a3745",
+      "title": "CIV01 - Civilian Cat",
+      "filename": "CIV01-character-master-gpt26-v001.png",
+      "kind": "Character",
+      "purpose": "Preserve identity, proportions, outfit and accessories. Include only actors visible in the shot.",
+      "url": "/library/d0c4b245ed3a3745.jpg",
+      "thumbnail": "/library/d0c4b245ed3a3745.webp",
+      "source": "Characters\\Cats - Civilians and Media\\CIV01 - Civilian Cat\\Reference Sheets\\CIV01-character-master-gpt26-v001.png",
+      "status": "existing reference; review before generation"
+    },
+    {
+      "id": "4562760aa1996806",
+      "title": "CIV02 - Civilian Cat",
+      "filename": "CIV02-character-master-gpt26-v001.png",
+      "kind": "Character",
+      "purpose": "Preserve identity, proportions, outfit and accessories. Include only actors visible in the shot.",
+      "url": "/library/4562760aa1996806.jpg",
+      "thumbnail": "/library/4562760aa1996806.webp",
+      "source": "Characters\\Cats - Civilians and Media\\CIV02 - Civilian Cat\\Reference Sheets\\CIV02-character-master-gpt26-v001.png",
+      "status": "existing reference; review before generation"
+    },
+    {
+      "id": "55e6d686bef6a838",
+      "title": "CIV03 - Civilian Cat",
+      "filename": "CIV03-character-master-gpt26-v001.png",
+      "kind": "Character",
+      "purpose": "Preserve identity, proportions, outfit and accessories. Include only actors visible in the shot.",
+      "url": "/library/55e6d686bef6a838.jpg",
+      "thumbnail": "/library/55e6d686bef6a838.webp",
+      "source": "Characters\\Cats - Civilians and Media\\CIV03 - Civilian Cat\\Reference Sheets\\CIV03-character-master-gpt26-v001.png",
+      "status": "existing reference; review before generation"
+    },
+    {
+      "id": "b6ab6632e89b46c6",
+      "title": "CIV05 - Civilian Cat",
+      "filename": "CIV05-character-master-gpt26-v001.png",
+      "kind": "Character",
+      "purpose": "Preserve identity, proportions, outfit and accessories. Include only actors visible in the shot.",
+      "url": "/library/b6ab6632e89b46c6.jpg",
+      "thumbnail": "/library/b6ab6632e89b46c6.webp",
+      "source": "Characters\\Cats - Civilians and Media\\CIV05 - Civilian Cat\\Reference Sheets\\CIV05-character-master-gpt26-v001.png",
+      "status": "existing reference; review before generation"
+    },
+    {
+      "id": "72576fff3fefba39",
+      "title": "CIV06 - Civilian Cat",
+      "filename": "CIV06-character-master-gpt26-v001.png",
+      "kind": "Character",
+      "purpose": "Preserve identity, proportions, outfit and accessories. Include only actors visible in the shot.",
+      "url": "/library/72576fff3fefba39.jpg",
+      "thumbnail": "/library/72576fff3fefba39.webp",
+      "source": "Characters\\Cats - Civilians and Media\\CIV06 - Civilian Cat\\Reference Sheets\\CIV06-character-master-gpt26-v001.png",
+      "status": "existing reference; review before generation"
+    },
+    {
+      "id": "3d6689586e0b8150",
+      "title": "PROP09-byte-price-scanner-gpt26-v002",
+      "filename": "PROP09-byte-price-scanner-gpt26-v002.png",
+      "kind": "Prop / graphic",
+      "purpose": "Preserve prop shape, material, controls and scale.",
+      "url": "/library/3d6689586e0b8150.jpg",
+      "thumbnail": "/library/3d6689586e0b8150.webp",
+      "source": "Props\\Cats\\Props\\PROP09-byte-price-scanner-gpt26-v002.png",
+      "status": "existing reference; review before generation"
+    },
+    {
+      "id": "82608c9684d59c57",
+      "title": "ACT04 — Rally microphone and PA",
+      "filename": "ACT04-prop-master-gpt26-v001.png",
+      "kind": "Prop / graphic",
+      "purpose": "Preserve prop shape, material, controls and scale.",
+      "url": "/library/82608c9684d59c57.jpg",
+      "thumbnail": "/library/82608c9684d59c57.webp",
+      "source": "Props\\Cats\\Action Props\\ACT04-prop-master-gpt26-v001.png",
+      "status": "existing reference; review before generation"
+    },
+    {
+      "id": "21d63b4068166ba1",
+      "title": "ACT05 — Projector and rally banners",
+      "filename": "ACT05-prop-master-gpt26-v001.png",
+      "kind": "Prop / graphic",
+      "purpose": "Preserve prop shape, material, controls and scale.",
+      "url": "/library/21d63b4068166ba1.jpg",
+      "thumbnail": "/library/21d63b4068166ba1.webp",
+      "source": "Props\\Cats\\Action Props\\ACT05-prop-master-gpt26-v001.png",
+      "status": "existing reference; review before generation"
+    },
+    {
+      "id": "053732f83dcf0d7c",
+      "title": "ACT06 — Vendor stall and scale states",
+      "filename": "ACT06-prop-master-gpt26-v001.png",
+      "kind": "Prop / graphic",
+      "purpose": "Preserve prop shape, material, controls and scale.",
+      "url": "/library/053732f83dcf0d7c.jpg",
+      "thumbnail": "/library/053732f83dcf0d7c.webp",
+      "source": "Props\\Cats\\Action Props\\ACT06-prop-master-gpt26-v001.png",
+      "status": "existing reference; review before generation"
+    }
+  ],
+  "missing_reference_requirements": [
+    "Anonymized side-by-side price timestamps graphic.",
+    "Final shot-specific composed first frame for each timed shot; existing drafts require review."
+  ]
+}

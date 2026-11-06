@@ -1,0 +1,2774 @@
+{
+  "title": "The Great Salmon Shortage",
+  "scenes": [
+    {
+      "number": 1,
+      "title": "Just One More Mission",
+      "start": "00:00",
+      "end": "01:10",
+      "duration_seconds": 70,
+      "source_location": "Resistance hideout",
+      "location_ids": [
+        "LOC01",
+        "LOC02",
+        "LOC19"
+      ],
+      "staging": "Scene 01 — Just One More Mission\n\n00:00–01:10 · 70 sec · Resistance hideout\n\nEstablish the five cats playing Grand Theft Kitty VI on CatStation 5. Begin with an exterior view of their dilapidated building, then move inside to reveal the couch and the game.\n\nShots: Wide room establishing → over-the-shoulder couch → TV gameplay showing the Great Dog National Bank heist → individual reactions.",
+      "sound": "Controller clicks, game gunfire, sirens, cats shouting over each other.",
+      "lines": [
+        {
+          "id": "S01-D01",
+          "speaker": "Byte",
+          "text": "Left! LEFT! That is a wall, Trixie!",
+          "takes": [
+            {
+              "id": "7385c78a469a020b",
+              "title": "S01-D01-byte-take001",
+              "scene": "Scene01",
+              "text": "Left! LEFT! That is a wall, Trixie!",
+              "duration_sec": 2.461315,
+              "kind": "take",
+              "variant": "take001"
+            }
+          ]
+        },
+        {
+          "id": "S01-D02",
+          "speaker": "Trixie",
+          "text": "Relax. I found a shortcut.",
+          "takes": [
+            {
+              "id": "fd5f566859105b8b",
+              "title": "S01-D02-trixie-take001",
+              "scene": "Scene01",
+              "text": "Relax. I found a shortcut.",
+              "duration_sec": 1.578957,
+              "kind": "take",
+              "variant": "take001"
+            }
+          ]
+        },
+        {
+          "id": "S01-D03",
+          "speaker": "Byte",
+          "text": "Through the bank we just robbed?",
+          "takes": [
+            {
+              "id": "5c4a58b6f02aa3aa",
+              "title": "S01-D03-byte-take001",
+              "scene": "Scene01",
+              "text": "Through the bank we just robbed?",
+              "duration_sec": 1.625397,
+              "kind": "take",
+              "variant": "take001"
+            }
+          ]
+        },
+        {
+          "id": "S01-D04",
+          "speaker": "Neon",
+          "text": "My controller has input lag. I pressed jump yesterday.",
+          "takes": [
+            {
+              "id": "818608a43905e9cf",
+              "title": "S01-D04-neon-take001",
+              "scene": "Scene01",
+              "text": "My controller has input lag. I pressed jump yesterday.",
+              "duration_sec": 3.250794,
+              "kind": "take",
+              "variant": "take001"
+            }
+          ]
+        },
+        {
+          "id": "S01-D05",
+          "speaker": "Onyx",
+          "text": "You are in a car. Why are you pressing jump?",
+          "takes": [
+            {
+              "id": "f566da8f795b96b4",
+              "title": "S01-D05-onyx-take001",
+              "scene": "Scene01",
+              "text": "You are in a car. Why are you pressing jump?",
+              "duration_sec": 2.693515,
+              "kind": "take",
+              "variant": "take001"
+            }
+          ]
+        },
+        {
+          "id": "S01-D06",
+          "speaker": "Neon",
+          "text": "Because she keeps driving into buildings!",
+          "takes": [
+            {
+              "id": "f17afb44f68acf74",
+              "title": "S01-D06-neon-take001",
+              "scene": "Scene01",
+              "text": "Because she keeps driving into buildings!",
+              "duration_sec": 2.368435,
+              "kind": "take",
+              "variant": "take001"
+            }
+          ]
+        },
+        {
+          "id": "S01-D07",
+          "speaker": "Trixie",
+          "text": "Nobody appreciates experimental driving.",
+          "takes": [
+            {
+              "id": "2b378909e3ed77be",
+              "title": "S01-D07-trixie-take001",
+              "scene": "Scene01",
+              "text": "Nobody appreciates experimental driving.",
+              "duration_sec": 1.996916,
+              "kind": "take",
+              "variant": "take001"
+            }
+          ]
+        },
+        {
+          "id": "S01-D08",
+          "speaker": "Byte",
+          "text": "The police appreciate it. All six helicopters.",
+          "takes": [
+            {
+              "id": "8e65abf758172867",
+              "title": "S01-D08-byte-take001",
+              "scene": "Scene01",
+              "text": "The police appreciate it. All six helicopters.",
+              "duration_sec": 2.925714,
+              "kind": "take",
+              "variant": "take001"
+            }
+          ]
+        },
+        {
+          "id": "S01-D09",
+          "speaker": "Onyx",
+          "text": "One more crash and somebody is going through that window.",
+          "takes": [
+            {
+              "id": "ad385f5b4a5245a5",
+              "title": "S01-D09-onyx-take001",
+              "scene": "Scene01",
+              "text": "One more crash and somebody is going through that window.",
+              "duration_sec": 3.018594,
+              "kind": "take",
+              "variant": "take001"
+            }
+          ]
+        },
+        {
+          "id": "S01-D10",
+          "speaker": "Neon",
+          "text": "In the game?",
+          "takes": [
+            {
+              "id": "8882e5aa14734d9e",
+              "title": "S01-D10-neon-take001",
+              "scene": "Scene01",
+              "text": "In the game?",
+              "duration_sec": 0.928798,
+              "kind": "take",
+              "variant": "take001"
+            }
+          ]
+        },
+        {
+          "id": "S01-D11",
+          "speaker": "Onyx",
+          "text": "Keep testing me.",
+          "takes": [
+            {
+              "id": "d9fbaee68ad9e5c3",
+              "title": "S01-D11-onyx-take001",
+              "scene": "Scene01",
+              "text": "Keep testing me.",
+              "duration_sec": 1.300317,
+              "kind": "take",
+              "variant": "take001"
+            }
+          ]
+        },
+        {
+          "id": "S01-D12",
+          "speaker": "Ghost",
+          "text": "I finished the mission.",
+          "takes": [
+            {
+              "id": "6f7e93070e785fda",
+              "title": "S01-D12-ghost-take001",
+              "scene": "Scene01",
+              "text": "I finished the mission.",
+              "duration_sec": 1.346757,
+              "kind": "take",
+              "variant": "take001"
+            }
+          ]
+        },
+        {
+          "id": "S01-D13",
+          "speaker": "Trixie",
+          "text": "How? We are still inside the bank.",
+          "takes": [
+            {
+              "id": "01512a53e577f0ad",
+              "title": "S01-D13-trixie-take001",
+              "scene": "Scene01",
+              "text": "How? We are still inside the bank.",
+              "duration_sec": 2.368435,
+              "kind": "take",
+              "variant": "take001"
+            }
+          ]
+        },
+        {
+          "id": "S01-D14",
+          "speaker": "Ghost",
+          "text": "I walked out the back. With the money.",
+          "takes": [
+            {
+              "id": "3bd795b77bfd1453",
+              "title": "S01-D14-ghost-take001",
+              "scene": "Scene01",
+              "text": "I walked out the back. With the money.",
+              "duration_sec": 2.461315,
+              "kind": "take",
+              "variant": "take001"
+            }
+          ]
+        },
+        {
+          "id": "S01-D15",
+          "speaker": "Byte",
+          "text": "You left us?",
+          "takes": [
+            {
+              "id": "06baa0dd3cde4e08",
+              "title": "S01-D15-byte-take001",
+              "scene": "Scene01",
+              "text": "You left us?",
+              "duration_sec": 0.928798,
+              "kind": "take",
+              "variant": "take001"
+            }
+          ]
+        },
+        {
+          "id": "S01-D16",
+          "speaker": "Ghost",
+          "text": "You said cover the exit. I covered my exit.",
+          "takes": [
+            {
+              "id": "85b71d454c9aa924",
+              "title": "S01-D16-ghost-take001",
+              "scene": "Scene01",
+              "text": "You said cover the exit. I covered my exit.",
+              "duration_sec": 3.065034,
+              "kind": "take",
+              "variant": "take001"
+            }
+          ]
+        },
+        {
+          "id": "S01-D17",
+          "speaker": "Trixie",
+          "text": "Rematch. Nobody leaves the couch until we win.",
+          "takes": [
+            {
+              "id": "754034e203627c42",
+              "title": "S01-D17-trixie-take001",
+              "scene": "Scene01",
+              "text": "Rematch. Nobody leaves the couch until we win.",
+              "duration_sec": 2.461315,
+              "kind": "take",
+              "variant": "take001"
+            }
+          ]
+        }
+      ],
+      "shots": [
+        {
+          "shot_id": "S01-B01",
+          "description": "Wide room establishing",
+          "status": "source shot beat; detailed shot duration and coverage pending",
+          "duration_seconds": null
+        },
+        {
+          "shot_id": "S01-B02",
+          "description": "over-the-shoulder couch",
+          "status": "source shot beat; detailed shot duration and coverage pending",
+          "duration_seconds": null
+        },
+        {
+          "shot_id": "S01-B03",
+          "description": "TV gameplay showing the Great Dog National Bank heist",
+          "status": "source shot beat; detailed shot duration and coverage pending",
+          "duration_seconds": null
+        },
+        {
+          "shot_id": "S01-B04",
+          "description": "individual reactions.",
+          "status": "source shot beat; detailed shot duration and coverage pending",
+          "duration_seconds": null
+        }
+      ],
+      "locations": [
+        {
+          "id": "c171160ce2dfdaef",
+          "title": "LOC01 - Resistance warehouse exterior",
+          "category": "Locations",
+          "group": "Cats",
+          "file": "LOC01-resistance-warehouse-exterior-gpt26-v001.png",
+          "source": "Locations\\Cats\\LOC01 - Resistance warehouse exterior\\Reference Sheets\\LOC01-resistance-warehouse-exterior-gpt26-v001.png",
+          "voice": ""
+        },
+        {
+          "id": "9ccf57446d209d87",
+          "title": "LOC02 - Resistance warehouse lounge",
+          "category": "Locations",
+          "group": "Cats",
+          "file": "LOC02-resistance-warehouse-lounge-gpt26-v001.png",
+          "source": "Locations\\Cats\\LOC02 - Resistance warehouse lounge\\Reference Sheets\\LOC02-resistance-warehouse-lounge-gpt26-v001.png",
+          "voice": ""
+        },
+        {
+          "id": "bafa979ecdb8e1d1",
+          "title": "LOC19 - Game world- Great Dog National Bank",
+          "category": "Locations",
+          "group": "Neutral - In-game World",
+          "file": "LOC19-game-world-great-dog-national-bank-gpt26-v001.png",
+          "source": "Locations\\Neutral - In-game World\\LOC19 - Game world- Great Dog National Bank\\Reference Sheets\\LOC19-game-world-great-dog-national-bank-gpt26-v001.png",
+          "voice": ""
+        }
+      ],
+      "frames": [
+        {
+          "id": "9ee54471c3f2c7e5",
+          "title": "S01A — reference frame (review draft)",
+          "scene": 1
+        },
+        {
+          "id": "ff944d3ef816c818",
+          "title": "S01B — reference frame (review draft)",
+          "scene": 1
+        },
+        {
+          "id": "c4911297e102aa33",
+          "title": "S01C — reference frame (review draft)",
+          "scene": 1
+        },
+        {
+          "id": "c7e7ae1b2ab941f5",
+          "title": "S01D — reference frame (review draft)",
+          "scene": 1
+        },
+        {
+          "id": "721045f9acb3c920",
+          "title": "S01E — reference frame (review draft)",
+          "scene": 1
+        },
+        {
+          "id": "245cc5e4d7c58533",
+          "title": "S01F — reference frame (review draft)",
+          "scene": 1
+        },
+        {
+          "id": "e39163b80bbae2b6",
+          "title": "S01G — reference frame (review draft)",
+          "scene": 1
+        },
+        {
+          "id": "c77cd58102d5a4e9",
+          "title": "S01H — reference frame (review draft)",
+          "scene": 1
+        }
+      ],
+      "assemblies": [
+        {
+          "id": "e1af245e3d6a37ac",
+          "title": "Scene 01 — play the dialogue assembly",
+          "scene": "Scene01",
+          "text": "Dialogue-only assembly; effects and final picture timing still needed.",
+          "duration_sec": 41.88040816326531,
+          "kind": "assembly",
+          "variant": ""
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "title": "The Interruption",
+      "start": "01:10",
+      "end": "02:00",
+      "duration_seconds": 50,
+      "source_location": "Resistance hideout",
+      "location_ids": [
+        "LOC02",
+        "LOC13"
+      ],
+      "staging": "Scene 02 — The Interruption\n\n01:10–02:00 · 50 sec · Resistance hideout\n\nThe game freezes during a critical mission. A loud corporate announcement overrides the screen.\n\nShots: TV glitch close-up → controller button-mashing → Trixie's irritated face → entire crew reacting.",
+      "sound": "",
+      "lines": [
+        {
+          "id": "S02-D01",
+          "speaker": "Trixie",
+          "text": "What the fuck? We were almost done!",
+          "takes": [
+            {
+              "id": "76bdf0c7a9bbdcb0",
+              "title": "S02-D01-trixie-take001",
+              "scene": "Scene02"
+            }
+          ]
+        },
+        {
+          "id": "S02-D02",
+          "speaker": "Byte",
+          "text": "Why do the dogs always have to interrupt our fun?",
+          "takes": [
+            {
+              "id": "135fa113457eae53",
+              "title": "S02-D02-byte-take001",
+              "scene": "Scene02"
+            }
+          ]
+        },
+        {
+          "id": "S02-D03",
+          "speaker": "Neon",
+          "text": "They're literally stealing our playtime.",
+          "takes": [
+            {
+              "id": "c1a02019a3d43be2",
+              "title": "S02-D03-neon-take001",
+              "scene": "Scene02"
+            }
+          ]
+        },
+        {
+          "id": "S02-D04",
+          "speaker": "Onyx",
+          "text": "If this is another mandatory obedience announcement, I'm gonna lose my shit.",
+          "takes": [
+            {
+              "id": "27b8e269d7538438",
+              "title": "S02-D04-onyx-take001",
+              "scene": "Scene02"
+            }
+          ]
+        },
+        {
+          "id": "S02-D05",
+          "speaker": "Ghost",
+          "text": "Shh. Listen.",
+          "takes": [
+            {
+              "id": "76a032efcdedac1d",
+              "title": "S02-D05-ghost-take001",
+              "scene": "Scene02"
+            }
+          ]
+        }
+      ],
+      "shots": [
+        {
+          "shot_id": "S02-B01",
+          "description": "TV glitch close-up",
+          "status": "source shot beat; detailed shot duration and coverage pending",
+          "duration_seconds": null
+        },
+        {
+          "shot_id": "S02-B02",
+          "description": "controller button-mashing",
+          "status": "source shot beat; detailed shot duration and coverage pending",
+          "duration_seconds": null
+        },
+        {
+          "shot_id": "S02-B03",
+          "description": "Trixie's irritated face",
+          "status": "source shot beat; detailed shot duration and coverage pending",
+          "duration_seconds": null
+        },
+        {
+          "shot_id": "S02-B04",
+          "description": "entire crew reacting.",
+          "status": "source shot beat; detailed shot duration and coverage pending",
+          "duration_seconds": null
+        }
+      ],
+      "locations": [
+        {
+          "id": "9ccf57446d209d87",
+          "title": "LOC02 - Resistance warehouse lounge",
+          "category": "Locations",
+          "group": "Cats",
+          "file": "LOC02-resistance-warehouse-lounge-gpt26-v001.png",
+          "source": "Locations\\Cats\\LOC02 - Resistance warehouse lounge\\Reference Sheets\\LOC02-resistance-warehouse-lounge-gpt26-v001.png",
+          "voice": ""
+        },
+        {
+          "id": "9929f26bee75cac0",
+          "title": "LOC13 - WOOF7 news studio",
+          "category": "Locations",
+          "group": "Dogs",
+          "file": "LOC13-woof7-news-studio-gpt26-v001.png",
+          "source": "Locations\\Dogs\\LOC13 - WOOF7 news studio\\Reference Sheets\\LOC13-woof7-news-studio-gpt26-v001.png",
+          "voice": ""
+        }
+      ],
+      "frames": [
+        {
+          "id": "3a1e7317e6e41c02",
+          "title": "S02A — reference frame (review draft)",
+          "scene": 2
+        },
+        {
+          "id": "2960e09586380b97",
+          "title": "S02B — reference frame (review draft)",
+          "scene": 2
+        },
+        {
+          "id": "5e4547b10bc674a9",
+          "title": "S02C — reference frame (review draft)",
+          "scene": 2
+        },
+        {
+          "id": "57ca5c0ad8f4b9e4",
+          "title": "S02D — reference frame (review draft)",
+          "scene": 2
+        },
+        {
+          "id": "da74e25bca3ab718",
+          "title": "S02E — reference frame (review draft)",
+          "scene": 2
+        },
+        {
+          "id": "392cfb1a7815f89c",
+          "title": "S02F — reference frame (review draft)",
+          "scene": 2
+        },
+        {
+          "id": "9c788d42a6edacaa",
+          "title": "S02G — reference frame (review draft)",
+          "scene": 2
+        }
+      ],
+      "assemblies": []
+    },
+    {
+      "number": 3,
+      "title": "Barkington's Emergency Broadcast",
+      "start": "02:00",
+      "end": "03:05",
+      "duration_seconds": 65,
+      "source_location": "TV broadcast",
+      "location_ids": [
+        "LOC02",
+        "LOC13"
+      ],
+      "staging": "Scene 03 — Barkington's Emergency Broadcast\n\n02:00–03:05 · 65 sec · TV broadcast\n\nChief Barkington Orders appears, declaring a national salmon emergency affecting Districts 7–12. The corporate broadcast advises cats to secure a month's worth of fresh salmon immediately.\n\nShots: CRT news graphic → Barkington medium shot → salmon shortage map → extreme close-up of his smug expression → crew reaction inserts.",
+      "sound": "",
+      "lines": [
+        {
+          "id": "S03-D01",
+          "speaker": "Barkington",
+          "text": "Citizens of Districts Seven through Twelve. Due to an unprecedented salmon supply emergency, you are advised to acquire no less than thirty days of fresh salmon immediately. Goodboy Global thanks you for your obedience.",
+          "takes": [
+            {
+              "id": "cdc6d5998fc4d777",
+              "title": "S03-D01-chairman_barkington-take001 — earlier performance, superseded for review",
+              "scene": "Scene03"
+            },
+            {
+              "id": "132a5aa26542fcd8",
+              "title": "S03-D01-chairman_barkington-villain-controlled-v2",
+              "scene": "Scene03",
+              "text": "Citizens of Districts Seven through Twelve. Due to an unprecedented salmon supply emergency, you are advised to acquire no less than thirty days of fresh salmon immediately. Goodboy Global thanks you for your obedience.",
+              "duration_sec": 13.699773,
+              "kind": "take",
+              "variant": "villain-controlled-v2"
+            },
+            {
+              "id": "fdb427a8bf3acb2d",
+              "title": "S03-D01-chairman_barkington-villain-directed-v3",
+              "scene": "Scene03",
+              "text": "Citizens of Districts Seven through Twelve. Due to an unprecedented salmon supply emergency, you are advised to acquire no less than thirty days of fresh salmon immediately. Goodboy Global thanks you for your obedience.",
+              "duration_sec": 14.08,
+              "kind": "take",
+              "variant": "villain-directed-v3"
+            }
+          ]
+        },
+        {
+          "id": "S03-D02",
+          "speaker": "Byte",
+          "text": "Thirty days? I can't afford thirty minutes.",
+          "takes": [
+            {
+              "id": "2a856c2ddfb3552a",
+              "title": "S03-D02-byte-take001",
+              "scene": "Scene03"
+            }
+          ]
+        },
+        {
+          "id": "S03-D03",
+          "speaker": "Trixie",
+          "text": "Something smells fishy.",
+          "takes": [
+            {
+              "id": "c830331d348befa2",
+              "title": "S03-D03-trixie-take001",
+              "scene": "Scene03"
+            }
+          ]
+        },
+        {
+          "id": "S03-D04",
+          "speaker": "Onyx",
+          "text": "It's literally fish.",
+          "takes": [
+            {
+              "id": "570ba44dbfead2b1",
+              "title": "S03-D04-onyx-take001",
+              "scene": "Scene03"
+            }
+          ]
+        }
+      ],
+      "shots": [
+        {
+          "shot_id": "S03-B01",
+          "description": "CRT news graphic",
+          "status": "source shot beat; detailed shot duration and coverage pending",
+          "duration_seconds": null
+        },
+        {
+          "shot_id": "S03-B02",
+          "description": "Barkington medium shot",
+          "status": "source shot beat; detailed shot duration and coverage pending",
+          "duration_seconds": null
+        },
+        {
+          "shot_id": "S03-B03",
+          "description": "salmon shortage map",
+          "status": "source shot beat; detailed shot duration and coverage pending",
+          "duration_seconds": null
+        },
+        {
+          "shot_id": "S03-B04",
+          "description": "extreme close-up of his smug expression",
+          "status": "source shot beat; detailed shot duration and coverage pending",
+          "duration_seconds": null
+        },
+        {
+          "shot_id": "S03-B05",
+          "description": "crew reaction inserts.",
+          "status": "source shot beat; detailed shot duration and coverage pending",
+          "duration_seconds": null
+        }
+      ],
+      "locations": [
+        {
+          "id": "9ccf57446d209d87",
+          "title": "LOC02 - Resistance warehouse lounge",
+          "category": "Locations",
+          "group": "Cats",
+          "file": "LOC02-resistance-warehouse-lounge-gpt26-v001.png",
+          "source": "Locations\\Cats\\LOC02 - Resistance warehouse lounge\\Reference Sheets\\LOC02-resistance-warehouse-lounge-gpt26-v001.png",
+          "voice": ""
+        },
+        {
+          "id": "9929f26bee75cac0",
+          "title": "LOC13 - WOOF7 news studio",
+          "category": "Locations",
+          "group": "Dogs",
+          "file": "LOC13-woof7-news-studio-gpt26-v001.png",
+          "source": "Locations\\Dogs\\LOC13 - WOOF7 news studio\\Reference Sheets\\LOC13-woof7-news-studio-gpt26-v001.png",
+          "voice": ""
+        }
+      ],
+      "frames": [
+        {
+          "id": "c45b327edde54b65",
+          "title": "S03A — reference frame (review draft)",
+          "scene": 3
+        },
+        {
+          "id": "1a6976232ac04b99",
+          "title": "S03B — reference frame (review draft)",
+          "scene": 3
+        },
+        {
+          "id": "2a11944ad13f9541",
+          "title": "S03C — reference frame (review draft)",
+          "scene": 3
+        },
+        {
+          "id": "913955c2d7aea9ca",
+          "title": "S03D — reference frame (review draft)",
+          "scene": 3
+        },
+        {
+          "id": "e02d9d595ae49edb",
+          "title": "S03E — reference frame (review draft)",
+          "scene": 3
+        },
+        {
+          "id": "3f2f426a88e5c789",
+          "title": "S03F — reference frame (review draft)",
+          "scene": 3
+        },
+        {
+          "id": "dba89096c35e8cd5",
+          "title": "S03G — reference frame (review draft)",
+          "scene": 3
+        }
+      ],
+      "assemblies": []
+    },
+    {
+      "number": 4,
+      "title": "The Trip to 7-Catleven",
+      "start": "03:05",
+      "end": "04:00",
+      "duration_seconds": 55,
+      "source_location": "District 7 streets",
+      "location_ids": [
+        "LOC01",
+        "LOC05",
+        "LOC06"
+      ],
+      "staging": "Scene 04 — The Trip to 7-Catleven\n\n03:05–04:00 · 55 sec · District 7 streets\n\nTrixie and Byte leave the hideout and walk through the dirty slums. Crowds of worried cats rush toward stores. A small argument breaks out over a can of tuna.\n\nShots: Street-wide tracking → close-up of desperate shoppers → Trixie and Byte walking → storefront reveal.",
+      "sound": "",
+      "lines": [
+        {
+          "id": "S04-D01",
+          "speaker": "Byte",
+          "text": "You think there's really a shortage?",
+          "takes": [
+            {
+              "id": "6252916fa5ca06c7",
+              "title": "S04-D01-byte-take001",
+              "scene": "Scene04"
+            }
+          ]
+        },
+        {
+          "id": "S04-D02",
+          "speaker": "Trixie",
+          "text": "I think someone wants us to believe there is.",
+          "takes": [
+            {
+              "id": "3487a5bc76bab84c",
+              "title": "S04-D02-trixie-take001",
+              "scene": "Scene04"
+            }
+          ]
+        },
+        {
+          "id": "S04-D03",
+          "speaker": "Byte",
+          "text": "So... we're not getting snacks?",
+          "takes": [
+            {
+              "id": "f2b3fc3444d12f1e",
+              "title": "S04-D03-byte-take001",
+              "scene": "Scene04"
+            }
+          ]
+        }
+      ],
+      "shots": [
+        {
+          "shot_id": "S04-B01",
+          "description": "Street-wide tracking",
+          "status": "source shot beat; detailed shot duration and coverage pending",
+          "duration_seconds": null
+        },
+        {
+          "shot_id": "S04-B02",
+          "description": "close-up of desperate shoppers",
+          "status": "source shot beat; detailed shot duration and coverage pending",
+          "duration_seconds": null
+        },
+        {
+          "shot_id": "S04-B03",
+          "description": "Trixie and Byte walking",
+          "status": "source shot beat; detailed shot duration and coverage pending",
+          "duration_seconds": null
+        },
+        {
+          "shot_id": "S04-B04",
+          "description": "storefront reveal.",
+          "status": "source shot beat; detailed shot duration and coverage pending",
+          "duration_seconds": null
+        }
+      ],
+      "locations": [
+        {
+          "id": "c171160ce2dfdaef",
+          "title": "LOC01 - Resistance warehouse exterior",
+          "category": "Locations",
+          "group": "Cats",
+          "file": "LOC01-resistance-warehouse-exterior-gpt26-v001.png",
+          "source": "Locations\\Cats\\LOC01 - Resistance warehouse exterior\\Reference Sheets\\LOC01-resistance-warehouse-exterior-gpt26-v001.png",
+          "voice": ""
+        },
+        {
+          "id": "c857f705f48778a3",
+          "title": "LOC06 - 7-Catleven exterior",
+          "category": "Locations",
+          "group": "Cats",
+          "file": "LOC06-7-catleven-exterior-gpt26-v001.png",
+          "source": "Locations\\Cats\\LOC06 - 7-Catleven exterior\\Reference Sheets\\LOC06-7-catleven-exterior-gpt26-v001.png",
+          "voice": ""
+        },
+        {
+          "id": "3bd909f3e732f8d1",
+          "title": "LOC05 - District 7 streets and alleys",
+          "category": "Locations",
+          "group": "Neutral",
+          "file": "LOC05-district-7-streets-and-alleys-gpt26-v001.png",
+          "source": "Locations\\Neutral\\LOC05 - District 7 streets and alleys\\Reference Sheets\\LOC05-district-7-streets-and-alleys-gpt26-v001.png",
+          "voice": ""
+        }
+      ],
+      "frames": [
+        {
+          "id": "d081dd59b4f1409c",
+          "title": "S04A — reference frame (review draft)",
+          "scene": 4
+        },
+        {
+          "id": "11a693ade0b0be8c",
+          "title": "S04B — reference frame (review draft)",
+          "scene": 4
+        },
+        {
+          "id": "2dd0994ced7e7c9a",
+          "title": "S04C — reference frame (review draft)",
+          "scene": 4
+        },
+        {
+          "id": "aa14f50276932f22",
+          "title": "S04D — reference frame (review draft)",
+          "scene": 4
+        },
+        {
+          "id": "127a4d5fd9502510",
+          "title": "S04E — reference frame (review draft)",
+          "scene": 4
+        },
+        {
+          "id": "b6d70ce436574aaf",
+          "title": "S04F — reference frame (review draft)",
+          "scene": 4
+        }
+      ],
+      "assemblies": []
+    },
+    {
+      "number": 5,
+      "title": "Three Times the Price",
+      "start": "04:00",
+      "end": "05:00",
+      "duration_seconds": 60,
+      "source_location": "7-Catleven freezer aisle",
+      "location_ids": [
+        "LOC07"
+      ],
+      "staging": "Scene 05 — Three Times the Price\n\n04:00–05:00 · 60 sec · 7-Catleven freezer aisle\n\nOnly two packages of salmon remain. A notice says prices have increased threefold. Byte scans the price history and finds the increase began before the emergency broadcast.\n\nShots: Freezer aisle wide → two lonely salmon packs → price notice → Byte's handheld scanner → Trixie's shocked reaction.",
+      "sound": "",
+      "lines": [
+        {
+          "id": "S05-D01",
+          "speaker": "Byte",
+          "text": "Thirty bucks for a piece of fish? Last week it was ten!",
+          "takes": [
+            {
+              "id": "edba6892c03401a4",
+              "title": "S05-D01-byte-take001",
+              "scene": "Scene05",
+              "text": "Thirty bucks for a piece of fish? Last week it was ten!",
+              "duration_sec": 3.157914,
+              "kind": "take",
+              "variant": "take001"
+            }
+          ]
+        },
+        {
+          "id": "S05-D02",
+          "speaker": "Trixie",
+          "text": "Check the price history. When did it change?",
+          "takes": [
+            {
+              "id": "92199ee6b9c06e9e",
+              "title": "S05-D02-trixie-take001",
+              "scene": "Scene05",
+              "text": "Check the price history. When did it change?",
+              "duration_sec": 1.904036,
+              "kind": "take",
+              "variant": "take001"
+            }
+          ]
+        },
+        {
+          "id": "S05-D03",
+          "speaker": "Byte",
+          "text": "Before the broadcast. They raised it before anyone knew there was an emergency.",
+          "takes": [
+            {
+              "id": "128ebbff88f6429f",
+              "title": "S05-D03-byte-take001",
+              "scene": "Scene05",
+              "text": "Before the broadcast. They raised it before anyone knew there was an emergency.",
+              "duration_sec": 4.272472,
+              "kind": "take",
+              "variant": "take001"
+            }
+          ]
+        },
+        {
+          "id": "S05-D04",
+          "speaker": "Trixie",
+          "text": "They knew. We were the last ones told.",
+          "takes": [
+            {
+              "id": "058a2dab04079c72",
+              "title": "S05-D04-trixie-take001",
+              "scene": "Scene05",
+              "text": "They knew. We were the last ones told.",
+              "duration_sec": 2.693515,
+              "kind": "take",
+              "variant": "take001"
+            }
+          ]
+        },
+        {
+          "id": "S05-D05",
+          "speaker": "Byte",
+          "text": "Two packs left. At this price, we can afford to look at one.",
+          "takes": [
+            {
+              "id": "8620f648a4e1abee",
+              "title": "S05-D05-byte-take001",
+              "scene": "Scene05",
+              "text": "Two packs left. At this price, we can afford to look at one.",
+              "duration_sec": 3.343673,
+              "kind": "take",
+              "variant": "take001"
+            }
+          ]
+        },
+        {
+          "id": "S05-D06",
+          "speaker": "Trixie",
+          "text": "They are manufacturing panic.",
+          "takes": [
+            {
+              "id": "a09055fa02125aea",
+              "title": "S05-D06-trixie-take001",
+              "scene": "Scene05",
+              "text": "They are manufacturing panic.",
+              "duration_sec": 1.625397,
+              "kind": "take",
+              "variant": "take001"
+            }
+          ]
+        },
+        {
+          "id": "S05-D07",
+          "speaker": "Byte",
+          "text": "Well, it is working. I am panicking.",
+          "takes": [
+            {
+              "id": "08849ce6b81483d9",
+              "title": "S05-D07-byte-take001",
+              "scene": "Scene05",
+              "text": "Well, it is working. I am panicking.",
+              "duration_sec": 2.136236,
+              "kind": "take",
+              "variant": "take001"
+            }
+          ]
+        },
+        {
+          "id": "S05-D08",
+          "speaker": "Trixie",
+          "text": "Save the timestamp. And the old price. We need something people can check.",
+          "takes": [
+            {
+              "id": "c4ac0341a87d779e",
+              "title": "S05-D08-trixie-take001",
+              "scene": "Scene05",
+              "text": "Save the timestamp. And the old price. We need something people can check.",
+              "duration_sec": 4.551111,
+              "kind": "take",
+              "variant": "take001"
+            }
+          ]
+        },
+        {
+          "id": "S05-D09",
+          "speaker": "Byte",
+          "text": "Done. Apparently dinner now comes with an investigation.",
+          "takes": [
+            {
+              "id": "ce7fbd909311958c",
+              "title": "S05-D09-byte-take001",
+              "scene": "Scene05",
+              "text": "Done. Apparently dinner now comes with an investigation.",
+              "duration_sec": 3.157914,
+              "kind": "take",
+              "variant": "take001"
+            }
+          ]
+        },
+        {
+          "id": "S05-D10",
+          "speaker": "Trixie",
+          "text": "We are going to tell the whole district.",
+          "takes": [
+            {
+              "id": "e6d9ff89ba19bb1b",
+              "title": "S05-D10-trixie-take001",
+              "scene": "Scene05",
+              "text": "We are going to tell the whole district.",
+              "duration_sec": 1.718277,
+              "kind": "take",
+              "variant": "take001"
+            }
+          ]
+        }
+      ],
+      "shots": [
+        {
+          "shot_id": "S05-B01",
+          "description": "Freezer aisle wide",
+          "status": "source shot beat; detailed shot duration and coverage pending",
+          "duration_seconds": null
+        },
+        {
+          "shot_id": "S05-B02",
+          "description": "two lonely salmon packs",
+          "status": "source shot beat; detailed shot duration and coverage pending",
+          "duration_seconds": null
+        },
+        {
+          "shot_id": "S05-B03",
+          "description": "price notice",
+          "status": "source shot beat; detailed shot duration and coverage pending",
+          "duration_seconds": null
+        },
+        {
+          "shot_id": "S05-B04",
+          "description": "Byte's handheld scanner",
+          "status": "source shot beat; detailed shot duration and coverage pending",
+          "duration_seconds": null
+        },
+        {
+          "shot_id": "S05-B05",
+          "description": "Trixie's shocked reaction.",
+          "status": "source shot beat; detailed shot duration and coverage pending",
+          "duration_seconds": null
+        }
+      ],
+      "locations": [
+        {
+          "id": "0501505937608443",
+          "title": "LOC07 - 7-Catleven interior and freezer",
+          "category": "Locations",
+          "group": "Cats",
+          "file": "LOC07-7-catleven-interior-and-freezer-gpt26-v001.png",
+          "source": "Locations\\Cats\\LOC07 - 7-Catleven interior and freezer\\Reference Sheets\\LOC07-7-catleven-interior-and-freezer-gpt26-v001.png",
+          "voice": ""
+        }
+      ],
+      "frames": [],
+      "assemblies": [
+        {
+          "id": "1e6236710c062b10",
+          "title": "Scene 05 — play the dialogue assembly",
+          "scene": "Scene05",
+          "text": "Dialogue-only assembly; effects and final picture timing still needed.",
+          "duration_sec": 31.560544217687074,
+          "kind": "assembly",
+          "variant": ""
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "title": "Word Spreads",
+      "start": "05:00",
+      "end": "05:45",
+      "duration_seconds": 45,
+      "source_location": "District 7 market",
+      "location_ids": [
+        "LOC08"
+      ],
+      "staging": "Scene 06 — Word Spreads\n\n05:00–05:45 · 45 sec · District 7 market\n\nTrixie and Byte return to the slums. Byte shares the suspicious pricing data with the crew. Neon projects the price increases onto a public billboard. Curious cats gather.\n\nShots: Crowded market wide → price-history hologram → shocked citizens → Trixie climbing onto a crate.",
+      "sound": "",
+      "lines": [
+        {
+          "id": "S06-D01",
+          "speaker": "Trixie",
+          "text": "They tripled the price before they announced the shortage!",
+          "takes": []
+        },
+        {
+          "id": "S06-D02",
+          "speaker": "Random citizen",
+          "text": "Those bastards! I sold my litter box to buy dinner!",
+          "takes": []
+        },
+        {
+          "id": "S06-D03",
+          "speaker": "Byte",
+          "text": "Okay, that's a personal budgeting problem.",
+          "takes": []
+        }
+      ],
+      "shots": [
+        {
+          "shot_id": "S06-B01",
+          "description": "Crowded market wide",
+          "status": "source shot beat; detailed shot duration and coverage pending",
+          "duration_seconds": null
+        },
+        {
+          "shot_id": "S06-B02",
+          "description": "price-history hologram",
+          "status": "source shot beat; detailed shot duration and coverage pending",
+          "duration_seconds": null
+        },
+        {
+          "shot_id": "S06-B03",
+          "description": "shocked citizens",
+          "status": "source shot beat; detailed shot duration and coverage pending",
+          "duration_seconds": null
+        },
+        {
+          "shot_id": "S06-B04",
+          "description": "Trixie climbing onto a crate.",
+          "status": "source shot beat; detailed shot duration and coverage pending",
+          "duration_seconds": null
+        }
+      ],
+      "locations": [
+        {
+          "id": "c0de39fba4f7ec01",
+          "title": "LOC08 - District 7 market",
+          "category": "Locations",
+          "group": "Neutral",
+          "file": "LOC08-district-7-market-gpt26-v001.png",
+          "source": "Locations\\Neutral\\LOC08 - District 7 market\\Reference Sheets\\LOC08-district-7-market-gpt26-v001.png",
+          "voice": ""
+        }
+      ],
+      "frames": [],
+      "assemblies": []
+    },
+    {
+      "number": 7,
+      "title": "The District 7 Rally",
+      "start": "05:45",
+      "end": "06:50",
+      "duration_seconds": 65,
+      "source_location": "Slum rally stage",
+      "location_ids": [
+        "LOC09"
+      ],
+      "staging": "Scene 07 — The District 7 Rally\n\n05:45–06:50 · 65 sec · Slum rally stage\n\nAll five crew members address hundreds of angry cats. Trixie demands transparency about salmon supplies. Byte presents the price evidence. The crowd starts chanting.\n\nShots: Crane over crowd → low-angle Trixie at microphone → Byte's projected chart → crowd reaction → overhead rally shot.",
+      "sound": "",
+      "lines": [
+        {
+          "id": "S07-D01",
+          "speaker": "Trixie",
+          "text": "They think we're stupid! They think they can take our food, triple the price, and tell us to be grateful!",
+          "takes": []
+        },
+        {
+          "id": "S07-D02",
+          "speaker": "Crowd",
+          "text": "NO MORE BONES! GIVE US SALMON!",
+          "takes": []
+        },
+        {
+          "id": "S07-D03",
+          "speaker": "Onyx",
+          "text": "That's the dumbest chant I've ever heard.",
+          "takes": []
+        },
+        {
+          "id": "S07-D04",
+          "speaker": "Neon",
+          "text": "It's trending.",
+          "takes": []
+        }
+      ],
+      "shots": [
+        {
+          "shot_id": "S07-B01",
+          "description": "Crane over crowd",
+          "status": "source shot beat; detailed shot duration and coverage pending",
+          "duration_seconds": null
+        },
+        {
+          "shot_id": "S07-B02",
+          "description": "low-angle Trixie at microphone",
+          "status": "source shot beat; detailed shot duration and coverage pending",
+          "duration_seconds": null
+        },
+        {
+          "shot_id": "S07-B03",
+          "description": "Byte's projected chart",
+          "status": "source shot beat; detailed shot duration and coverage pending",
+          "duration_seconds": null
+        },
+        {
+          "shot_id": "S07-B04",
+          "description": "crowd reaction",
+          "status": "source shot beat; detailed shot duration and coverage pending",
+          "duration_seconds": null
+        },
+        {
+          "shot_id": "S07-B05",
+          "description": "overhead rally shot.",
+          "status": "source shot beat; detailed shot duration and coverage pending",
+          "duration_seconds": null
+        }
+      ],
+      "locations": [
+        {
+          "id": "fd5f2c155e04f5a0",
+          "title": "LOC09 - District 7 rally stage and plaza",
+          "category": "Locations",
+          "group": "Neutral",
+          "file": "LOC09-district-7-rally-stage-and-plaza-gpt26-v001.png",
+          "source": "Locations\\Neutral\\LOC09 - District 7 rally stage and plaza\\Reference Sheets\\LOC09-district-7-rally-stage-and-plaza-gpt26-v001.png",
+          "voice": ""
+        }
+      ],
+      "frames": [],
+      "assemblies": []
+    },
+    {
+      "number": 8,
+      "title": "The Cats Are Waking Up",
+      "start": "06:50",
+      "end": "07:30",
+      "duration_seconds": 40,
+      "source_location": "District 7 alleyways",
+      "location_ids": [
+        "LOC05"
+      ],
+      "staging": "Scene 08 — The Cats Are Waking Up\n\n06:50–07:30 · 40 sec · District 7 alleyways\n\nExcited cats leave the rally, spreading the news throughout the neighborhood. Resistance graffiti appears on walls. A young kitten asks whether the crew can actually fix the shortage.\n\nShots: Forward tracking through cheering crowd → banners → kitten looking up → Trixie's thoughtful expression.",
+      "sound": "",
+      "lines": [
+        {
+          "id": "S08-D01",
+          "speaker": "Kitten",
+          "text": "Are you really going to bring the salmon back?",
+          "takes": []
+        },
+        {
+          "id": "S08-D02",
+          "speaker": "Trixie",
+          "text": "We're going to find out where it went.",
+          "takes": []
+        },
+        {
+          "id": "S08-D03",
+          "speaker": "Byte",
+          "text": "You realize we have no fucking idea where it went?",
+          "takes": []
+        },
+        {
+          "id": "S08-D04",
+          "speaker": "Trixie",
+          "text": "Working on that.",
+          "takes": []
+        }
+      ],
+      "shots": [
+        {
+          "shot_id": "S08-B01",
+          "description": "Forward tracking through cheering crowd",
+          "status": "source shot beat; detailed shot duration and coverage pending",
+          "duration_seconds": null
+        },
+        {
+          "shot_id": "S08-B02",
+          "description": "banners",
+          "status": "source shot beat; detailed shot duration and coverage pending",
+          "duration_seconds": null
+        },
+        {
+          "shot_id": "S08-B03",
+          "description": "kitten looking up",
+          "status": "source shot beat; detailed shot duration and coverage pending",
+          "duration_seconds": null
+        },
+        {
+          "shot_id": "S08-B04",
+          "description": "Trixie's thoughtful expression.",
+          "status": "source shot beat; detailed shot duration and coverage pending",
+          "duration_seconds": null
+        }
+      ],
+      "locations": [
+        {
+          "id": "3bd909f3e732f8d1",
+          "title": "LOC05 - District 7 streets and alleys",
+          "category": "Locations",
+          "group": "Neutral",
+          "file": "LOC05-district-7-streets-and-alleys-gpt26-v001.png",
+          "source": "Locations\\Neutral\\LOC05 - District 7 streets and alleys\\Reference Sheets\\LOC05-district-7-streets-and-alleys-gpt26-v001.png",
+          "voice": ""
+        }
+      ],
+      "frames": [],
+      "assemblies": []
+    },
+    {
+      "number": 9,
+      "title": "Follow the Money",
+      "start": "07:30",
+      "end": "08:40",
+      "duration_seconds": 70,
+      "source_location": "Resistance hacking lair",
+      "location_ids": [
+        "LOC03"
+      ],
+      "staging": "Scene 09 — Follow the Money\n\n07:30–08:40 · 70 sec · Resistance hacking lair\n\nThe crew analyzes the price data. Ghost identifies unusual encrypted communications between Goodboy Global and WOOF7. Neon traces the meeting invitation to the luxury restaurant Steak & Bone.\n\nShots: Monitor close-ups → Ghost's green visor → rotating encrypted message hologram → restaurant location map.",
+      "sound": "",
+      "lines": [
+        {
+          "id": "S09-D01",
+          "speaker": "Ghost",
+          "text": "Barkington has a private dinner tonight.",
+          "takes": []
+        },
+        {
+          "id": "S09-D02",
+          "speaker": "Byte",
+          "text": "With the WOOF7 news anchor.",
+          "takes": []
+        },
+        {
+          "id": "S09-D03",
+          "speaker": "Neon",
+          "text": "The same network telling everyone to panic-buy salmon.",
+          "takes": []
+        },
+        {
+          "id": "S09-D04",
+          "speaker": "Trixie",
+          "text": "Then let's see what's on the menu.",
+          "takes": []
+        }
+      ],
+      "shots": [
+        {
+          "shot_id": "S09-B01",
+          "description": "Monitor close-ups",
+          "status": "source shot beat; detailed shot duration and coverage pending",
+          "duration_seconds": null
+        },
+        {
+          "shot_id": "S09-B02",
+          "description": "Ghost's green visor",
+          "status": "source shot beat; detailed shot duration and coverage pending",
+          "duration_seconds": null
+        },
+        {
+          "shot_id": "S09-B03",
+          "description": "rotating encrypted message hologram",
+          "status": "source shot beat; detailed shot duration and coverage pending",
+          "duration_seconds": null
+        },
+        {
+          "shot_id": "S09-B04",
+          "description": "restaurant location map.",
+          "status": "source shot beat; detailed shot duration and coverage pending",
+          "duration_seconds": null
+        }
+      ],
+      "locations": [
+        {
+          "id": "678400a023f22df4",
+          "title": "LOC03 - Hacking operations",
+          "category": "Locations",
+          "group": "Cats",
+          "file": "LOC03-hacking-operations-gpt26-v001.png",
+          "source": "Locations\\Cats\\LOC03 - Hacking operations\\Reference Sheets\\LOC03-hacking-operations-gpt26-v001.png",
+          "voice": ""
+        }
+      ],
+      "frames": [],
+      "assemblies": []
+    },
+    {
+      "number": 10,
+      "title": "Operation Bonehead",
+      "start": "08:40",
+      "end": "09:45",
+      "duration_seconds": 65,
+      "source_location": "Hideout workshop",
+      "location_ids": [
+        "LOC04"
+      ],
+      "staging": "Scene 10 — Operation Bonehead\n\n08:40–09:45 · 65 sec · Hideout workshop\n\nNeon constructs electronic bone-shaped decoys that squeak, roll, and project irresistible animated chew toys. Ghost tests the distraction system while Byte questions its reliability.\n\nShots: Overhead workbench → rotating bone device → Neon testing remote → Ghost checking stealth equipment → comedy test.",
+      "sound": "",
+      "lines": [
+        {
+          "id": "S10-D01",
+          "speaker": "Neon",
+          "text": "The guards will chase these instead of us.",
+          "takes": []
+        },
+        {
+          "id": "S10-D02",
+          "speaker": "Byte",
+          "text": "What if they don't?",
+          "takes": []
+        },
+        {
+          "id": "S10-D03",
+          "speaker": "Neon",
+          "text": "Then we have a very expensive collection of dog toys.",
+          "takes": []
+        },
+        {
+          "id": "S10-D04",
+          "speaker": "Onyx",
+          "text": "Holy shit. It works.",
+          "takes": []
+        }
+      ],
+      "shots": [
+        {
+          "shot_id": "S10-B01",
+          "description": "Overhead workbench",
+          "status": "source shot beat; detailed shot duration and coverage pending",
+          "duration_seconds": null
+        },
+        {
+          "shot_id": "S10-B02",
+          "description": "rotating bone device",
+          "status": "source shot beat; detailed shot duration and coverage pending",
+          "duration_seconds": null
+        },
+        {
+          "shot_id": "S10-B03",
+          "description": "Neon testing remote",
+          "status": "source shot beat; detailed shot duration and coverage pending",
+          "duration_seconds": null
+        },
+        {
+          "shot_id": "S10-B04",
+          "description": "Ghost checking stealth equipment",
+          "status": "source shot beat; detailed shot duration and coverage pending",
+          "duration_seconds": null
+        },
+        {
+          "shot_id": "S10-B05",
+          "description": "comedy test.",
+          "status": "source shot beat; detailed shot duration and coverage pending",
+          "duration_seconds": null
+        }
+      ],
+      "locations": [
+        {
+          "id": "aafc818847c1406d",
+          "title": "LOC04 - Engineering workshop",
+          "category": "Locations",
+          "group": "Cats",
+          "file": "LOC04-engineering-workshop-gpt26-v001.png",
+          "source": "Locations\\Cats\\LOC04 - Engineering workshop\\Reference Sheets\\LOC04-engineering-workshop-gpt26-v001.png",
+          "voice": ""
+        }
+      ],
+      "frames": [],
+      "assemblies": []
+    },
+    {
+      "number": 11,
+      "title": "Steak & Bone Surveillance",
+      "start": "09:45",
+      "end": "11:00",
+      "duration_seconds": 75,
+      "source_location": "Restaurant exterior",
+      "location_ids": [
+        "LOC10"
+      ],
+      "staging": "Scene 11 — Steak & Bone Surveillance\n\n09:45–11:00 · 75 sec · Restaurant exterior\n\nThe crew arrives at Steak & Bone. Dog security guards patrol the entrances. Ghost identifies a service access route while Trixie spots Barkington's limousine arriving.\n\nShots: Restaurant establishing → security positions → Barkington arriving → rooftop surveillance perspective → close-up of Trixie's camera.",
+      "sound": "",
+      "lines": [
+        {
+          "id": "S11-D01",
+          "speaker": "Byte",
+          "text": "That restaurant costs more per meal than our entire building.",
+          "takes": []
+        },
+        {
+          "id": "S11-D02",
+          "speaker": "Onyx",
+          "text": "Can we eat first?",
+          "takes": []
+        },
+        {
+          "id": "S11-D03",
+          "speaker": "Ghost",
+          "text": "Target's inside.",
+          "takes": []
+        },
+        {
+          "id": "S11-D04",
+          "speaker": "Trixie",
+          "text": "Nobody touches anything until we have evidence.",
+          "takes": []
+        }
+      ],
+      "shots": [
+        {
+          "shot_id": "S11-B01",
+          "description": "Restaurant establishing",
+          "status": "source shot beat; detailed shot duration and coverage pending",
+          "duration_seconds": null
+        },
+        {
+          "shot_id": "S11-B02",
+          "description": "security positions",
+          "status": "source shot beat; detailed shot duration and coverage pending",
+          "duration_seconds": null
+        },
+        {
+          "shot_id": "S11-B03",
+          "description": "Barkington arriving",
+          "status": "source shot beat; detailed shot duration and coverage pending",
+          "duration_seconds": null
+        },
+        {
+          "shot_id": "S11-B04",
+          "description": "rooftop surveillance perspective",
+          "status": "source shot beat; detailed shot duration and coverage pending",
+          "duration_seconds": null
+        },
+        {
+          "shot_id": "S11-B05",
+          "description": "close-up of Trixie's camera.",
+          "status": "source shot beat; detailed shot duration and coverage pending",
+          "duration_seconds": null
+        }
+      ],
+      "locations": [
+        {
+          "id": "0046cc574d900e8d",
+          "title": "LOC10 - Steak & Bone exterior and security",
+          "category": "Locations",
+          "group": "Dogs",
+          "file": "LOC10-steak-bone-exterior-and-security-gpt26-v001.png",
+          "source": "Locations\\Dogs\\LOC10 - Steak & Bone exterior and security\\Reference Sheets\\LOC10-steak-bone-exterior-and-security-gpt26-v001.png",
+          "voice": ""
+        }
+      ],
+      "frames": [],
+      "assemblies": []
+    },
+    {
+      "number": 12,
+      "title": "The Bone Distraction",
+      "start": "11:00",
+      "end": "11:45",
+      "duration_seconds": 45,
+      "source_location": "Steak & Bone security entrance",
+      "location_ids": [
+        "LOC10"
+      ],
+      "staging": "Scene 12 — The Bone Distraction\n\n11:00–11:45 · 45 sec · Steak & Bone security entrance\n\nNeon activates the decoys. Several dog guards abandon their posts to chase squeaking mechanical bones. One guard tries to maintain discipline but immediately loses control when a decoy bounces past.\n\nShots: Guard close-up → bone rolling across floor → ears perking → chaotic chase → Ghost slipping through the unguarded entrance.",
+      "sound": "",
+      "lines": [
+        {
+          "id": "S12-D01",
+          "speaker": "Guard",
+          "text": "Maintain your positions!",
+          "takes": []
+        },
+        {
+          "id": "S12-D02",
+          "speaker": "Guard",
+          "text": "...Is that a bacon-flavored bone?",
+          "takes": []
+        },
+        {
+          "id": "S12-D03",
+          "speaker": "Another guard",
+          "text": "MINE!",
+          "takes": []
+        }
+      ],
+      "shots": [
+        {
+          "shot_id": "S12-B01",
+          "description": "Guard close-up",
+          "status": "source shot beat; detailed shot duration and coverage pending",
+          "duration_seconds": null
+        },
+        {
+          "shot_id": "S12-B02",
+          "description": "bone rolling across floor",
+          "status": "source shot beat; detailed shot duration and coverage pending",
+          "duration_seconds": null
+        },
+        {
+          "shot_id": "S12-B03",
+          "description": "ears perking",
+          "status": "source shot beat; detailed shot duration and coverage pending",
+          "duration_seconds": null
+        },
+        {
+          "shot_id": "S12-B04",
+          "description": "chaotic chase",
+          "status": "source shot beat; detailed shot duration and coverage pending",
+          "duration_seconds": null
+        },
+        {
+          "shot_id": "S12-B05",
+          "description": "Ghost slipping through the unguarded entrance.",
+          "status": "source shot beat; detailed shot duration and coverage pending",
+          "duration_seconds": null
+        }
+      ],
+      "locations": [
+        {
+          "id": "0046cc574d900e8d",
+          "title": "LOC10 - Steak & Bone exterior and security",
+          "category": "Locations",
+          "group": "Dogs",
+          "file": "LOC10-steak-bone-exterior-and-security-gpt26-v001.png",
+          "source": "Locations\\Dogs\\LOC10 - Steak & Bone exterior and security\\Reference Sheets\\LOC10-steak-bone-exterior-and-security-gpt26-v001.png",
+          "voice": ""
+        }
+      ],
+      "frames": [],
+      "assemblies": []
+    },
+    {
+      "number": 13,
+      "title": "Inside the Restaurant",
+      "start": "11:45",
+      "end": "12:35",
+      "duration_seconds": 50,
+      "source_location": "Service corridors",
+      "location_ids": [
+        "LOC11"
+      ],
+      "staging": "Scene 13 — Inside the Restaurant\n\n11:45–12:35 · 50 sec · Service corridors\n\nGhost leads Trixie and Neon through the service entrance. Onyx monitors the guards outside while Byte coordinates remotely. A service robot nearly catches Ghost, who freezes motionless.\n\nShots: Corridor wide → security-camera POV → cat-eye close-up → robot passing → silent hand signals.",
+      "sound": "",
+      "lines": [
+        {
+          "id": "S13-D01",
+          "speaker": "Byte",
+          "text": "You have forty seconds before patrol returns.",
+          "takes": []
+        },
+        {
+          "id": "S13-D02",
+          "speaker": "Trixie",
+          "text": "Ghost, move.",
+          "takes": []
+        },
+        {
+          "id": "S13-D03",
+          "speaker": "Ghost",
+          "text": "I am moving.",
+          "takes": []
+        },
+        {
+          "id": "S13-D04",
+          "speaker": "Trixie",
+          "text": "You're literally standing still.",
+          "takes": []
+        },
+        {
+          "id": "S13-D05",
+          "speaker": "Ghost",
+          "text": "That's why I'm good.",
+          "takes": []
+        }
+      ],
+      "shots": [
+        {
+          "shot_id": "S13-B01",
+          "description": "Corridor wide",
+          "status": "source shot beat; detailed shot duration and coverage pending",
+          "duration_seconds": null
+        },
+        {
+          "shot_id": "S13-B02",
+          "description": "security-camera POV",
+          "status": "source shot beat; detailed shot duration and coverage pending",
+          "duration_seconds": null
+        },
+        {
+          "shot_id": "S13-B03",
+          "description": "cat-eye close-up",
+          "status": "source shot beat; detailed shot duration and coverage pending",
+          "duration_seconds": null
+        },
+        {
+          "shot_id": "S13-B04",
+          "description": "robot passing",
+          "status": "source shot beat; detailed shot duration and coverage pending",
+          "duration_seconds": null
+        },
+        {
+          "shot_id": "S13-B05",
+          "description": "silent hand signals.",
+          "status": "source shot beat; detailed shot duration and coverage pending",
+          "duration_seconds": null
+        }
+      ],
+      "locations": [
+        {
+          "id": "4392e2bc49cf0b30",
+          "title": "LOC11 - Steak & Bone service corridors",
+          "category": "Locations",
+          "group": "Dogs",
+          "file": "LOC11-steak-bone-service-corridors-gpt26-v001.png",
+          "source": "Locations\\Dogs\\LOC11 - Steak & Bone service corridors\\Reference Sheets\\LOC11-steak-bone-service-corridors-gpt26-v001.png",
+          "voice": ""
+        }
+      ],
+      "frames": [],
+      "assemblies": []
+    },
+    {
+      "number": 14,
+      "title": "The Secret Dinner",
+      "start": "12:35",
+      "end": "13:35",
+      "duration_seconds": 60,
+      "source_location": "Steak & Bone private dining room",
+      "location_ids": [
+        "LOC12"
+      ],
+      "staging": "Scene 14 — The Secret Dinner\n\n12:35–13:35 · 60 sec · Steak & Bone private dining room\n\nBarkington meets the Shiba Inu WOOF7 news anchor. The two discuss public confidence, news coverage, and the shortage. Barkington speaks indirectly, never openly admitting to controlling the salmon supply.\n\nShots: Dining-room wide → two-shot across table → close-up of Shiba anchor → Barkington's gold ring and paw → hidden surveillance angle.",
+      "sound": "",
+      "lines": [
+        {
+          "id": "S14-D01",
+          "speaker": "Barkington",
+          "text": "The public needs reassurance that our supply measures are necessary.",
+          "takes": []
+        },
+        {
+          "id": "S14-D02",
+          "speaker": "Anchor",
+          "text": "And you want that to be tonight's headline?",
+          "takes": []
+        },
+        {
+          "id": "S14-D03",
+          "speaker": "Barkington",
+          "text": "I want the public to hear the correct story.",
+          "takes": []
+        },
+        {
+          "id": "S14-D04",
+          "speaker": "Anchor",
+          "text": "That kind of coverage isn't cheap.",
+          "takes": []
+        },
+        {
+          "id": "S14-D05",
+          "speaker": "Barkington",
+          "text": "Neither is loyalty.",
+          "takes": []
+        }
+      ],
+      "shots": [
+        {
+          "shot_id": "S14-B01",
+          "description": "Dining-room wide",
+          "status": "source shot beat; detailed shot duration and coverage pending",
+          "duration_seconds": null
+        },
+        {
+          "shot_id": "S14-B02",
+          "description": "two-shot across table",
+          "status": "source shot beat; detailed shot duration and coverage pending",
+          "duration_seconds": null
+        },
+        {
+          "shot_id": "S14-B03",
+          "description": "close-up of Shiba anchor",
+          "status": "source shot beat; detailed shot duration and coverage pending",
+          "duration_seconds": null
+        },
+        {
+          "shot_id": "S14-B04",
+          "description": "Barkington's gold ring and paw",
+          "status": "source shot beat; detailed shot duration and coverage pending",
+          "duration_seconds": null
+        },
+        {
+          "shot_id": "S14-B05",
+          "description": "hidden surveillance angle.",
+          "status": "source shot beat; detailed shot duration and coverage pending",
+          "duration_seconds": null
+        }
+      ],
+      "locations": [
+        {
+          "id": "dd6578af9636b86a",
+          "title": "LOC12 - Steak & Bone private dining room",
+          "category": "Locations",
+          "group": "Dogs",
+          "file": "LOC12-steak-bone-private-dining-room-gpt26-v001.png",
+          "source": "Locations\\Dogs\\LOC12 - Steak & Bone private dining room\\Reference Sheets\\LOC12-steak-bone-private-dining-room-gpt26-v001.png",
+          "voice": ""
+        }
+      ],
+      "frames": [],
+      "assemblies": []
+    },
+    {
+      "number": 15,
+      "title": "The Payoff Photograph",
+      "start": "13:35",
+      "end": "14:20",
+      "duration_seconds": 45,
+      "source_location": "Private dining room",
+      "location_ids": [
+        "LOC12"
+      ],
+      "staging": "Scene 15 — The Payoff Photograph\n\n13:35–14:20 · 45 sec · Private dining room\n\nBarkington passes a money bag across the table. Trixie captures a clear photograph of the exchange while Neon records the conversation. The exact purpose of the payment remains unclear.\n\nShots: Close-up money bag → Barkington's fur-covered paw → Shiba accepting payment → camera viewfinder → shutter click → Trixie's reaction.",
+      "sound": "",
+      "lines": [
+        {
+          "id": "S15-D01",
+          "speaker": "Byte",
+          "text": "Please tell me you got that.",
+          "takes": []
+        },
+        {
+          "id": "S15-D02",
+          "speaker": "Trixie",
+          "text": "Every pixel.",
+          "takes": []
+        },
+        {
+          "id": "S15-D03",
+          "speaker": "Neon",
+          "text": "The audio's ambiguous.",
+          "takes": []
+        },
+        {
+          "id": "S15-D04",
+          "speaker": "Trixie",
+          "text": "The photograph isn't.",
+          "takes": []
+        }
+      ],
+      "shots": [
+        {
+          "shot_id": "S15-B01",
+          "description": "Close-up money bag",
+          "status": "source shot beat; detailed shot duration and coverage pending",
+          "duration_seconds": null
+        },
+        {
+          "shot_id": "S15-B02",
+          "description": "Barkington's fur-covered paw",
+          "status": "source shot beat; detailed shot duration and coverage pending",
+          "duration_seconds": null
+        },
+        {
+          "shot_id": "S15-B03",
+          "description": "Shiba accepting payment",
+          "status": "source shot beat; detailed shot duration and coverage pending",
+          "duration_seconds": null
+        },
+        {
+          "shot_id": "S15-B04",
+          "description": "camera viewfinder",
+          "status": "source shot beat; detailed shot duration and coverage pending",
+          "duration_seconds": null
+        },
+        {
+          "shot_id": "S15-B05",
+          "description": "shutter click",
+          "status": "source shot beat; detailed shot duration and coverage pending",
+          "duration_seconds": null
+        },
+        {
+          "shot_id": "S15-B06",
+          "description": "Trixie's reaction.",
+          "status": "source shot beat; detailed shot duration and coverage pending",
+          "duration_seconds": null
+        }
+      ],
+      "locations": [
+        {
+          "id": "dd6578af9636b86a",
+          "title": "LOC12 - Steak & Bone private dining room",
+          "category": "Locations",
+          "group": "Dogs",
+          "file": "LOC12-steak-bone-private-dining-room-gpt26-v001.png",
+          "source": "Locations\\Dogs\\LOC12 - Steak & Bone private dining room\\Reference Sheets\\LOC12-steak-bone-private-dining-room-gpt26-v001.png",
+          "voice": ""
+        }
+      ],
+      "frames": [],
+      "assemblies": []
+    },
+    {
+      "number": 16,
+      "title": "Get the Hell Out",
+      "start": "14:20",
+      "end": "15:10",
+      "duration_seconds": 50,
+      "source_location": "Restaurant service exit",
+      "location_ids": [
+        "LOC10",
+        "LOC11"
+      ],
+      "staging": "Scene 16 — Get the Hell Out\n\n14:20–15:10 · 50 sec · Restaurant service exit\n\nA guard discovers the security breach. Onyx intercepts the pursuing guards while Neon activates the last bone decoy. The cats escape through the rain-soaked service alley.\n\nShots: Alarm light → fast corridor tracking → Onyx blocking a doorway → bone decoy bouncing → rooftop escape wide.",
+      "sound": "",
+      "lines": [
+        {
+          "id": "S16-D01",
+          "speaker": "Guard",
+          "text": "STOP THOSE CATS!",
+          "takes": []
+        },
+        {
+          "id": "S16-D02",
+          "speaker": "Neon",
+          "text": "Emergency bone!",
+          "takes": []
+        },
+        {
+          "id": "S16-D03",
+          "speaker": "Byte",
+          "text": "Why do you call it that?",
+          "takes": []
+        },
+        {
+          "id": "S16-D04",
+          "speaker": "Neon",
+          "text": "Because it's for emergencies, dumbass!",
+          "takes": []
+        }
+      ],
+      "shots": [
+        {
+          "shot_id": "S16-B01",
+          "description": "Alarm light",
+          "status": "source shot beat; detailed shot duration and coverage pending",
+          "duration_seconds": null
+        },
+        {
+          "shot_id": "S16-B02",
+          "description": "fast corridor tracking",
+          "status": "source shot beat; detailed shot duration and coverage pending",
+          "duration_seconds": null
+        },
+        {
+          "shot_id": "S16-B03",
+          "description": "Onyx blocking a doorway",
+          "status": "source shot beat; detailed shot duration and coverage pending",
+          "duration_seconds": null
+        },
+        {
+          "shot_id": "S16-B04",
+          "description": "bone decoy bouncing",
+          "status": "source shot beat; detailed shot duration and coverage pending",
+          "duration_seconds": null
+        },
+        {
+          "shot_id": "S16-B05",
+          "description": "rooftop escape wide.",
+          "status": "source shot beat; detailed shot duration and coverage pending",
+          "duration_seconds": null
+        }
+      ],
+      "locations": [
+        {
+          "id": "0046cc574d900e8d",
+          "title": "LOC10 - Steak & Bone exterior and security",
+          "category": "Locations",
+          "group": "Dogs",
+          "file": "LOC10-steak-bone-exterior-and-security-gpt26-v001.png",
+          "source": "Locations\\Dogs\\LOC10 - Steak & Bone exterior and security\\Reference Sheets\\LOC10-steak-bone-exterior-and-security-gpt26-v001.png",
+          "voice": ""
+        },
+        {
+          "id": "4392e2bc49cf0b30",
+          "title": "LOC11 - Steak & Bone service corridors",
+          "category": "Locations",
+          "group": "Dogs",
+          "file": "LOC11-steak-bone-service-corridors-gpt26-v001.png",
+          "source": "Locations\\Dogs\\LOC11 - Steak & Bone service corridors\\Reference Sheets\\LOC11-steak-bone-service-corridors-gpt26-v001.png",
+          "voice": ""
+        }
+      ],
+      "frames": [],
+      "assemblies": []
+    },
+    {
+      "number": 17,
+      "title": "The Leak",
+      "start": "15:10",
+      "end": "16:00",
+      "duration_seconds": 50,
+      "source_location": "Resistance hideout",
+      "location_ids": [
+        "LOC03",
+        "LOC14",
+        "LOC18"
+      ],
+      "staging": "Scene 17 — The Leak\n\n15:10–16:00 · 50 sec · Resistance hideout\n\nThe crew sends the footage and photograph to NIP7 investigative news. A hairless Sphynx cat journalist reports the scandal. The Catnip Times prepares a front-page exposé.\n\nShots: Upload progress → NIP7 newsroom → Sphynx anchor → evidence image → newspaper printing.",
+      "sound": "",
+      "lines": [
+        {
+          "id": "S17-D01",
+          "speaker": "NIP7 Anchor",
+          "text": "Exclusive tonight: leaked footage shows Chairman Barkington Orders making an undisclosed cash payment to a senior WOOF7 journalist.",
+          "takes": []
+        },
+        {
+          "id": "S17-D02",
+          "speaker": "Byte",
+          "text": "We fucking got him!",
+          "takes": []
+        },
+        {
+          "id": "S17-D03",
+          "speaker": "Ghost",
+          "text": "We got the payment. Not the reason.",
+          "takes": []
+        },
+        {
+          "id": "S17-D04",
+          "speaker": "Trixie",
+          "text": "Then we keep digging.",
+          "takes": []
+        }
+      ],
+      "shots": [
+        {
+          "shot_id": "S17-B01",
+          "description": "Upload progress",
+          "status": "source shot beat; detailed shot duration and coverage pending",
+          "duration_seconds": null
+        },
+        {
+          "shot_id": "S17-B02",
+          "description": "NIP7 newsroom",
+          "status": "source shot beat; detailed shot duration and coverage pending",
+          "duration_seconds": null
+        },
+        {
+          "shot_id": "S17-B03",
+          "description": "Sphynx anchor",
+          "status": "source shot beat; detailed shot duration and coverage pending",
+          "duration_seconds": null
+        },
+        {
+          "shot_id": "S17-B04",
+          "description": "evidence image",
+          "status": "source shot beat; detailed shot duration and coverage pending",
+          "duration_seconds": null
+        },
+        {
+          "shot_id": "S17-B05",
+          "description": "newspaper printing.",
+          "status": "source shot beat; detailed shot duration and coverage pending",
+          "duration_seconds": null
+        }
+      ],
+      "locations": [
+        {
+          "id": "678400a023f22df4",
+          "title": "LOC03 - Hacking operations",
+          "category": "Locations",
+          "group": "Cats",
+          "file": "LOC03-hacking-operations-gpt26-v001.png",
+          "source": "Locations\\Cats\\LOC03 - Hacking operations\\Reference Sheets\\LOC03-hacking-operations-gpt26-v001.png",
+          "voice": ""
+        },
+        {
+          "id": "dc97cfe5c9eba591",
+          "title": "LOC14 - NIP7 investigative newsroom",
+          "category": "Locations",
+          "group": "Cats",
+          "file": "LOC14-nip7-investigative-newsroom-gpt26-v001.png",
+          "source": "Locations\\Cats\\LOC14 - NIP7 investigative newsroom\\Reference Sheets\\LOC14-nip7-investigative-newsroom-gpt26-v001.png",
+          "voice": ""
+        },
+        {
+          "id": "d83c0863676978a2",
+          "title": "LOC18 - Catnip Times pressroom",
+          "category": "Locations",
+          "group": "Cats",
+          "file": "LOC18-catnip-times-pressroom-gpt26-v001.png",
+          "source": "Locations\\Cats\\LOC18 - Catnip Times pressroom\\Reference Sheets\\LOC18-catnip-times-pressroom-gpt26-v001.png",
+          "voice": ""
+        }
+      ],
+      "frames": [],
+      "assemblies": []
+    },
+    {
+      "number": 18,
+      "title": "Victory? Not Quite",
+      "start": "16:00",
+      "end": "16:35",
+      "duration_seconds": 35,
+      "source_location": "District 7 streets",
+      "location_ids": [
+        "LOC05",
+        "LOC08"
+      ],
+      "staging": "Scene 18 — Victory? Not Quite\n\n16:00–16:35 · 35 sec · District 7 streets\n\nCats read the Catnip Times. News of the suspicious payment spreads across the district. But the salmon shortage remains unresolved.\n\nShots: Newspaper close-up → street reactions → empty fish market → Trixie reading the report.",
+      "sound": "",
+      "lines": [
+        {
+          "id": "S18-D01",
+          "speaker": "Byte",
+          "text": "We exposed the bastard!",
+          "takes": []
+        },
+        {
+          "id": "S18-D02",
+          "speaker": "Trixie",
+          "text": "Then why are the stores still empty?",
+          "takes": []
+        },
+        {
+          "id": "S18-D03",
+          "speaker": "Ghost",
+          "text": "Because we exposed a payment. Not the supply chain.",
+          "takes": []
+        },
+        {
+          "id": "S18-D04",
+          "speaker": "Neon",
+          "text": "Wait. I've got something.",
+          "takes": []
+        }
+      ],
+      "shots": [
+        {
+          "shot_id": "S18-B01",
+          "description": "Newspaper close-up",
+          "status": "source shot beat; detailed shot duration and coverage pending",
+          "duration_seconds": null
+        },
+        {
+          "shot_id": "S18-B02",
+          "description": "street reactions",
+          "status": "source shot beat; detailed shot duration and coverage pending",
+          "duration_seconds": null
+        },
+        {
+          "shot_id": "S18-B03",
+          "description": "empty fish market",
+          "status": "source shot beat; detailed shot duration and coverage pending",
+          "duration_seconds": null
+        },
+        {
+          "shot_id": "S18-B04",
+          "description": "Trixie reading the report.",
+          "status": "source shot beat; detailed shot duration and coverage pending",
+          "duration_seconds": null
+        }
+      ],
+      "locations": [
+        {
+          "id": "3bd909f3e732f8d1",
+          "title": "LOC05 - District 7 streets and alleys",
+          "category": "Locations",
+          "group": "Neutral",
+          "file": "LOC05-district-7-streets-and-alleys-gpt26-v001.png",
+          "source": "Locations\\Neutral\\LOC05 - District 7 streets and alleys\\Reference Sheets\\LOC05-district-7-streets-and-alleys-gpt26-v001.png",
+          "voice": ""
+        },
+        {
+          "id": "c0de39fba4f7ec01",
+          "title": "LOC08 - District 7 market",
+          "category": "Locations",
+          "group": "Neutral",
+          "file": "LOC08-district-7-market-gpt26-v001.png",
+          "source": "Locations\\Neutral\\LOC08 - District 7 market\\Reference Sheets\\LOC08-district-7-market-gpt26-v001.png",
+          "voice": ""
+        }
+      ],
+      "frames": [],
+      "assemblies": []
+    },
+    {
+      "number": 19,
+      "title": "Follow the Fish",
+      "start": "16:35",
+      "end": "17:10",
+      "duration_seconds": 35,
+      "source_location": "Hacking lair",
+      "location_ids": [
+        "LOC03"
+      ],
+      "staging": "Scene 19 — Follow the Fish\n\n16:35–17:10 · 35 sec · Hacking lair\n\nNeon discovers that Goodboy Global's salmon shipments are being diverted away from Districts 7–12 and toward wealthy Districts 1–6. The alleged shortage is actually a distribution restriction.\n\nShots: Shipping database → district map → redirection arrows → close-up of salmon shipment records.",
+      "sound": "",
+      "lines": [
+        {
+          "id": "S19-D01",
+          "speaker": "Neon",
+          "text": "There isn't a salmon shortage.",
+          "takes": []
+        },
+        {
+          "id": "S19-D02",
+          "speaker": "Byte",
+          "text": "What?",
+          "takes": []
+        },
+        {
+          "id": "S19-D03",
+          "speaker": "Neon",
+          "text": "There's a salmon shortage for cats.",
+          "takes": []
+        },
+        {
+          "id": "S19-D04",
+          "speaker": "Onyx",
+          "text": "Those sons of bitches.",
+          "takes": []
+        }
+      ],
+      "shots": [
+        {
+          "shot_id": "S19-B01",
+          "description": "Shipping database",
+          "status": "source shot beat; detailed shot duration and coverage pending",
+          "duration_seconds": null
+        },
+        {
+          "shot_id": "S19-B02",
+          "description": "district map",
+          "status": "source shot beat; detailed shot duration and coverage pending",
+          "duration_seconds": null
+        },
+        {
+          "shot_id": "S19-B03",
+          "description": "redirection arrows",
+          "status": "source shot beat; detailed shot duration and coverage pending",
+          "duration_seconds": null
+        },
+        {
+          "shot_id": "S19-B04",
+          "description": "close-up of salmon shipment records.",
+          "status": "source shot beat; detailed shot duration and coverage pending",
+          "duration_seconds": null
+        }
+      ],
+      "locations": [
+        {
+          "id": "678400a023f22df4",
+          "title": "LOC03 - Hacking operations",
+          "category": "Locations",
+          "group": "Cats",
+          "file": "LOC03-hacking-operations-gpt26-v001.png",
+          "source": "Locations\\Cats\\LOC03 - Hacking operations\\Reference Sheets\\LOC03-hacking-operations-gpt26-v001.png",
+          "voice": ""
+        }
+      ],
+      "frames": [],
+      "assemblies": []
+    },
+    {
+      "number": 20,
+      "title": "Salmon Headquarters",
+      "start": "17:10",
+      "end": "17:45",
+      "duration_seconds": 35,
+      "source_location": "Good Dog Global salmon facility",
+      "location_ids": [
+        "LOC15"
+      ],
+      "staging": "Scene 20 — Salmon Headquarters\n\n17:10–17:45 · 35 sec · Goodboy Global salmon facility\n\nThe crew reaches the heavily guarded distribution center. Refrigerated trucks marked for Districts 1–6 leave the compound while loading bays designated for feline districts remain empty.\n\nShots: Factory exterior → guarded gates → truck destination labels → overhead security map → crew preparing entry.",
+      "sound": "",
+      "lines": [
+        {
+          "id": "S20-D01",
+          "speaker": "Trixie",
+          "text": "They've been sitting on our food.",
+          "takes": []
+        },
+        {
+          "id": "S20-D02",
+          "speaker": "Byte",
+          "text": "Technically, they've been shipping it.",
+          "takes": []
+        },
+        {
+          "id": "S20-D03",
+          "speaker": "Trixie",
+          "text": "Not helping, Byte.",
+          "takes": []
+        }
+      ],
+      "shots": [
+        {
+          "shot_id": "S20-B01",
+          "description": "Factory exterior",
+          "status": "source shot beat; detailed shot duration and coverage pending",
+          "duration_seconds": null
+        },
+        {
+          "shot_id": "S20-B02",
+          "description": "guarded gates",
+          "status": "source shot beat; detailed shot duration and coverage pending",
+          "duration_seconds": null
+        },
+        {
+          "shot_id": "S20-B03",
+          "description": "truck destination labels",
+          "status": "source shot beat; detailed shot duration and coverage pending",
+          "duration_seconds": null
+        },
+        {
+          "shot_id": "S20-B04",
+          "description": "overhead security map",
+          "status": "source shot beat; detailed shot duration and coverage pending",
+          "duration_seconds": null
+        },
+        {
+          "shot_id": "S20-B05",
+          "description": "crew preparing entry.",
+          "status": "source shot beat; detailed shot duration and coverage pending",
+          "duration_seconds": null
+        }
+      ],
+      "locations": [
+        {
+          "id": "90038d12ae861fdb",
+          "title": "LOC15 - Salmon facility exterior and loading",
+          "category": "Locations",
+          "group": "Dogs",
+          "file": "LOC15-salmon-facility-exterior-and-loading-gpt26-v001.png",
+          "source": "Locations\\Dogs\\LOC15 - Salmon facility exterior and loading\\Reference Sheets\\LOC15-salmon-facility-exterior-and-loading-gpt26-v001.png",
+          "voice": ""
+        }
+      ],
+      "frames": [],
+      "assemblies": []
+    },
+    {
+      "number": 21,
+      "title": "The Great Salmon Heist",
+      "start": "17:45",
+      "end": "18:30",
+      "duration_seconds": 45,
+      "source_location": "Factory interior",
+      "location_ids": [
+        "LOC16",
+        "LOC17"
+      ],
+      "staging": "Scene 21 — The Great Salmon Heist\n\n17:45–18:30 · 45 sec · Factory interior\n\nGhost bypasses the security system. Onyx holds off pursuing guards. Neon and Byte access the shipping controls while Trixie discovers an enormous refrigerated salmon stockpile.\n\nShots: Stealth entry → massive salmon tanks → guard confrontation → hacking terminal → enormous warehouse reveal.",
+      "sound": "",
+      "lines": [
+        {
+          "id": "S21-D01",
+          "speaker": "Byte",
+          "text": "That's enough salmon to feed half the city!",
+          "takes": []
+        },
+        {
+          "id": "S21-D02",
+          "speaker": "Trixie",
+          "text": "And they told us there was none.",
+          "takes": []
+        },
+        {
+          "id": "S21-D03",
+          "speaker": "Onyx",
+          "text": "Can I punch something now?",
+          "takes": []
+        },
+        {
+          "id": "S21-D04",
+          "speaker": "Trixie",
+          "text": "You have my permission.",
+          "takes": []
+        }
+      ],
+      "shots": [
+        {
+          "shot_id": "S21-B01",
+          "description": "Stealth entry",
+          "status": "source shot beat; detailed shot duration and coverage pending",
+          "duration_seconds": null
+        },
+        {
+          "shot_id": "S21-B02",
+          "description": "massive salmon tanks",
+          "status": "source shot beat; detailed shot duration and coverage pending",
+          "duration_seconds": null
+        },
+        {
+          "shot_id": "S21-B03",
+          "description": "guard confrontation",
+          "status": "source shot beat; detailed shot duration and coverage pending",
+          "duration_seconds": null
+        },
+        {
+          "shot_id": "S21-B04",
+          "description": "hacking terminal",
+          "status": "source shot beat; detailed shot duration and coverage pending",
+          "duration_seconds": null
+        },
+        {
+          "shot_id": "S21-B05",
+          "description": "enormous warehouse reveal.",
+          "status": "source shot beat; detailed shot duration and coverage pending",
+          "duration_seconds": null
+        }
+      ],
+      "locations": [
+        {
+          "id": "b0d7b5d2e88073c9",
+          "title": "LOC16 - Salmon cold store and processing hall",
+          "category": "Locations",
+          "group": "Dogs",
+          "file": "LOC16-salmon-cold-store-and-processing-hall-gpt26-v001.png",
+          "source": "Locations\\Dogs\\LOC16 - Salmon cold store and processing hall\\Reference Sheets\\LOC16-salmon-cold-store-and-processing-hall-gpt26-v001.png",
+          "voice": ""
+        },
+        {
+          "id": "addbc3d6819f5434",
+          "title": "LOC17 - Salmon routing control room",
+          "category": "Locations",
+          "group": "Dogs",
+          "file": "LOC17-salmon-routing-control-room-gpt26-v001.png",
+          "source": "Locations\\Dogs\\LOC17 - Salmon routing control room\\Reference Sheets\\LOC17-salmon-routing-control-room-gpt26-v001.png",
+          "voice": ""
+        }
+      ],
+      "frames": [],
+      "assemblies": []
+    },
+    {
+      "number": 22,
+      "title": "Shut It Down",
+      "start": "18:30",
+      "end": "19:05",
+      "duration_seconds": 35,
+      "source_location": "Factory control room",
+      "location_ids": [
+        "LOC15",
+        "LOC17"
+      ],
+      "staging": "Scene 22 — Shut It Down\n\n18:30–19:05 · 35 sec · Factory control room\n\nThe crew stops the automated distribution lines, preserves the refrigerated salmon, releases the shipment records publicly, and reroutes available trucks to the neglected districts.\n\nShots: Hacking screen → conveyor belts stopping → routing map changing → trucks redirected → public data release.",
+      "sound": "",
+      "lines": [
+        {
+          "id": "S22-D01",
+          "speaker": "Neon",
+          "text": "Corporate routing disabled.",
+          "takes": []
+        },
+        {
+          "id": "S22-D02",
+          "speaker": "Ghost",
+          "text": "Shipping records released.",
+          "takes": []
+        },
+        {
+          "id": "S22-D03",
+          "speaker": "Byte",
+          "text": "Salmon is going back to the cats!",
+          "takes": []
+        },
+        {
+          "id": "S22-D04",
+          "speaker": "Trixie",
+          "text": "Now that's what I call a hostile takeover.",
+          "takes": []
+        }
+      ],
+      "shots": [
+        {
+          "shot_id": "S22-B01",
+          "description": "Hacking screen",
+          "status": "source shot beat; detailed shot duration and coverage pending",
+          "duration_seconds": null
+        },
+        {
+          "shot_id": "S22-B02",
+          "description": "conveyor belts stopping",
+          "status": "source shot beat; detailed shot duration and coverage pending",
+          "duration_seconds": null
+        },
+        {
+          "shot_id": "S22-B03",
+          "description": "routing map changing",
+          "status": "source shot beat; detailed shot duration and coverage pending",
+          "duration_seconds": null
+        },
+        {
+          "shot_id": "S22-B04",
+          "description": "trucks redirected",
+          "status": "source shot beat; detailed shot duration and coverage pending",
+          "duration_seconds": null
+        },
+        {
+          "shot_id": "S22-B05",
+          "description": "public data release.",
+          "status": "source shot beat; detailed shot duration and coverage pending",
+          "duration_seconds": null
+        }
+      ],
+      "locations": [
+        {
+          "id": "90038d12ae861fdb",
+          "title": "LOC15 - Salmon facility exterior and loading",
+          "category": "Locations",
+          "group": "Dogs",
+          "file": "LOC15-salmon-facility-exterior-and-loading-gpt26-v001.png",
+          "source": "Locations\\Dogs\\LOC15 - Salmon facility exterior and loading\\Reference Sheets\\LOC15-salmon-facility-exterior-and-loading-gpt26-v001.png",
+          "voice": ""
+        },
+        {
+          "id": "addbc3d6819f5434",
+          "title": "LOC17 - Salmon routing control room",
+          "category": "Locations",
+          "group": "Dogs",
+          "file": "LOC17-salmon-routing-control-room-gpt26-v001.png",
+          "source": "Locations\\Dogs\\LOC17 - Salmon routing control room\\Reference Sheets\\LOC17-salmon-routing-control-room-gpt26-v001.png",
+          "voice": ""
+        }
+      ],
+      "frames": [],
+      "assemblies": []
+    },
+    {
+      "number": 23,
+      "title": "Salmon for Everyone",
+      "start": "19:05",
+      "end": "19:30",
+      "duration_seconds": 25,
+      "source_location": "District 7 market",
+      "location_ids": [
+        "LOC08",
+        "LOC14",
+        "LOC20"
+      ],
+      "staging": "Scene 23 — Salmon for Everyone\n\n19:05–19:30 · 25 sec · District 7 market\n\nThe first redirected salmon shipments arrive. Cats cheer as vendors reopen their stalls. NIP7 reports that the distribution records confirm preferential treatment for wealthy dog districts.\n\nShots: Truck arrival → salmon crates → cheering citizens → NIP7 news broadcast → crew watching from a rooftop.",
+      "sound": "",
+      "lines": [
+        {
+          "id": "S23-D01",
+          "speaker": "NIP7 Anchor",
+          "text": "Newly released records confirm that Goodboy Global diverted salmon shipments away from feline neighborhoods.",
+          "takes": []
+        },
+        {
+          "id": "S23-D02",
+          "speaker": "Byte",
+          "text": "We saved the fucking city!",
+          "takes": []
+        },
+        {
+          "id": "S23-D03",
+          "speaker": "Trixie",
+          "text": "We saved dinner.",
+          "takes": []
+        },
+        {
+          "id": "S23-D04",
+          "speaker": "Ghost",
+          "text": "For now.",
+          "takes": []
+        }
+      ],
+      "shots": [
+        {
+          "shot_id": "S23-B01",
+          "description": "Truck arrival",
+          "status": "source shot beat; detailed shot duration and coverage pending",
+          "duration_seconds": null
+        },
+        {
+          "shot_id": "S23-B02",
+          "description": "salmon crates",
+          "status": "source shot beat; detailed shot duration and coverage pending",
+          "duration_seconds": null
+        },
+        {
+          "shot_id": "S23-B03",
+          "description": "cheering citizens",
+          "status": "source shot beat; detailed shot duration and coverage pending",
+          "duration_seconds": null
+        },
+        {
+          "shot_id": "S23-B04",
+          "description": "NIP7 news broadcast",
+          "status": "source shot beat; detailed shot duration and coverage pending",
+          "duration_seconds": null
+        },
+        {
+          "shot_id": "S23-B05",
+          "description": "crew watching from a rooftop.",
+          "status": "source shot beat; detailed shot duration and coverage pending",
+          "duration_seconds": null
+        }
+      ],
+      "locations": [
+        {
+          "id": "dc97cfe5c9eba591",
+          "title": "LOC14 - NIP7 investigative newsroom",
+          "category": "Locations",
+          "group": "Cats",
+          "file": "LOC14-nip7-investigative-newsroom-gpt26-v001.png",
+          "source": "Locations\\Cats\\LOC14 - NIP7 investigative newsroom\\Reference Sheets\\LOC14-nip7-investigative-newsroom-gpt26-v001.png",
+          "voice": ""
+        },
+        {
+          "id": "c0de39fba4f7ec01",
+          "title": "LOC08 - District 7 market",
+          "category": "Locations",
+          "group": "Neutral",
+          "file": "LOC08-district-7-market-gpt26-v001.png",
+          "source": "Locations\\Neutral\\LOC08 - District 7 market\\Reference Sheets\\LOC08-district-7-market-gpt26-v001.png",
+          "voice": ""
+        },
+        {
+          "id": "d50a62d90b9d8a62",
+          "title": "LOC20 - District 7 market rooftop overlook",
+          "category": "Locations",
+          "group": "Neutral",
+          "file": "LOC20-district-7-market-rooftop-overlook-gpt26-v001.png",
+          "source": "Locations\\Neutral\\LOC20 - District 7 market rooftop overlook\\Reference Sheets\\LOC20-district-7-market-rooftop-overlook-gpt26-v001.png",
+          "voice": ""
+        }
+      ],
+      "frames": [],
+      "assemblies": []
+    },
+    {
+      "number": 24,
+      "title": "Back to the Game",
+      "start": "19:30",
+      "end": "20:00",
+      "duration_seconds": 30,
+      "source_location": "Resistance hideout",
+      "location_ids": [
+        "LOC02",
+        "LOC19"
+      ],
+      "staging": "Scene 24 — Back to the Game\n\n19:30–20:00 · 30 sec · Resistance hideout\n\nThe crew returns home, collapses onto the couch, and turns on CatStation 5. Grand Theft Kitty VI resumes at the Great Dog National Bank heist.\n\nShots: Wide hideout → controllers being picked up → TV loading screen → Trixie's face → group couch wide → final TV close-up.",
+      "sound": "",
+      "lines": [
+        {
+          "id": "S24-D01",
+          "speaker": "Trixie",
+          "text": "All right. Now it's time to finish this mission.",
+          "takes": []
+        },
+        {
+          "id": "S24-D02",
+          "speaker": "Byte",
+          "text": "We've been trying to finish this shit all day.",
+          "takes": []
+        },
+        {
+          "id": "S24-D03",
+          "speaker": "Neon",
+          "text": "At least nobody can interrupt us now.",
+          "takes": []
+        },
+        {
+          "id": "S24-D04",
+          "speaker": "TV",
+          "text": "Goodboy Global HAS AN IMPORTANT ANNOUNCEMENT—",
+          "takes": []
+        },
+        {
+          "id": "S24-D05",
+          "speaker": "Onyx",
+          "text": "OH, FUCK OFF!",
+          "takes": []
+        }
+      ],
+      "shots": [
+        {
+          "shot_id": "S24-B01",
+          "description": "Wide hideout",
+          "status": "source shot beat; detailed shot duration and coverage pending",
+          "duration_seconds": null
+        },
+        {
+          "shot_id": "S24-B02",
+          "description": "controllers being picked up",
+          "status": "source shot beat; detailed shot duration and coverage pending",
+          "duration_seconds": null
+        },
+        {
+          "shot_id": "S24-B03",
+          "description": "TV loading screen",
+          "status": "source shot beat; detailed shot duration and coverage pending",
+          "duration_seconds": null
+        },
+        {
+          "shot_id": "S24-B04",
+          "description": "Trixie's face",
+          "status": "source shot beat; detailed shot duration and coverage pending",
+          "duration_seconds": null
+        },
+        {
+          "shot_id": "S24-B05",
+          "description": "group couch wide",
+          "status": "source shot beat; detailed shot duration and coverage pending",
+          "duration_seconds": null
+        },
+        {
+          "shot_id": "S24-B06",
+          "description": "final TV close-up.",
+          "status": "source shot beat; detailed shot duration and coverage pending",
+          "duration_seconds": null
+        }
+      ],
+      "locations": [
+        {
+          "id": "9ccf57446d209d87",
+          "title": "LOC02 - Resistance warehouse lounge",
+          "category": "Locations",
+          "group": "Cats",
+          "file": "LOC02-resistance-warehouse-lounge-gpt26-v001.png",
+          "source": "Locations\\Cats\\LOC02 - Resistance warehouse lounge\\Reference Sheets\\LOC02-resistance-warehouse-lounge-gpt26-v001.png",
+          "voice": ""
+        },
+        {
+          "id": "bafa979ecdb8e1d1",
+          "title": "LOC19 - Game world- Great Dog National Bank",
+          "category": "Locations",
+          "group": "Neutral - In-game World",
+          "file": "LOC19-game-world-great-dog-national-bank-gpt26-v001.png",
+          "source": "Locations\\Neutral - In-game World\\LOC19 - Game world- Great Dog National Bank\\Reference Sheets\\LOC19-game-world-great-dog-national-bank-gpt26-v001.png",
+          "voice": ""
+        }
+      ],
+      "frames": [],
+      "assemblies": []
+    }
+  ],
+  "line_count": 115
+}

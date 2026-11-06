@@ -1,0 +1,2 @@
+APPROVED REPLACEMENT POLICY
+When the user approves a replacement, promote it to the active registry and archive the superseded version. Remove superseded takes from active website manifests, scene links and playlists. Preserve source files and receipts in Archive with a replacement pointer; never silently delete history. Back up archive and current registry. An approved voice identity does not automatically approve every future performance.

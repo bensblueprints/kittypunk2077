@@ -3445,6 +3445,186 @@
     "sha256": "8cf96837bfd2eac07bb411ad1c02ebda67d7fe3169419d8147c1a781ec6bc149"
   },
   {
+    "path": "Production/Archive/Superseded Barkington - Brian/archive-manifest.json",
+    "size": 10043,
+    "sha256": "d2dfb49a7721908001cd2f75162bb8b8ee74d383bfa9329ceea679dab03c51df"
+  },
+  {
+    "path": "Production/Archive/Superseded Barkington - Brian/casting-overview.json",
+    "size": 31403,
+    "sha256": "f6fdb3346f8f4cf70859b6fc12c946a261fe2e41aa0dc9247327a18bdc946a86"
+  },
+  {
+    "path": "Production/Archive/Superseded Barkington - Brian/Previous players/listen.html",
+    "size": 10733,
+    "sha256": "499e5c24355bd9601d52151340457f736e163a97370ae758aa1b87f23c649d4f"
+  },
+  {
+    "path": "Production/Archive/Superseded Barkington - Brian/Previous players/Opening Scenes/listen.html",
+    "size": 6427,
+    "sha256": "d673a00da2f2e2aafe4da552af04ff2e0a54fe9cfe3de99e2417a978f36efbf8"
+  },
+  {
+    "path": "Production/Archive/Superseded Barkington - Brian/Previous players/Pilot Round 2/listen.html",
+    "size": 6477,
+    "sha256": "f66e68e1f633cf87cf4bba9d8ccb08adc081afb8007659dab435cced2a4a4943"
+  },
+  {
+    "path": "Production/Archive/Superseded Barkington - Brian/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 03/Audio/Round 2/S03-D01-chairman_barkington-villain-controlled-v2-alignment.json",
+    "size": 18030,
+    "sha256": "391740886ba24e979c0f924ba2816caf05ca0936acfa784554d999e73b69739f"
+  },
+  {
+    "path": "Production/Archive/Superseded Barkington - Brian/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 03/Audio/Round 2/S03-D01-chairman_barkington-villain-controlled-v2.json",
+    "size": 1071,
+    "sha256": "293ef0b48a81c5241c63d5c2f97b8364e4fea117f4c67ebc0700b2a992e165ce"
+  },
+  {
+    "path": "Production/Archive/Superseded Barkington - Brian/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 03/Audio/Round 2/S03-D01-chairman_barkington-villain-controlled-v2.mp3",
+    "size": 220307,
+    "sha256": "132a5aa26542fcd869533595341b9c22e0898658b8cdc1c362285db60a112766"
+  },
+  {
+    "path": "Production/Archive/Superseded Barkington - Brian/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 03/Audio/Round 2/S03-D01-chairman_barkington-villain-controlled-v2.txt",
+    "size": 219,
+    "sha256": "736eeb66de1d848aa451e05377659e56c27d7d03cf966b3f3b1ee08fe4e35403"
+  },
+  {
+    "path": "Production/Archive/Superseded Barkington - Brian/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 03/Audio/Round 2/S03-D01-chairman_barkington-villain-directed-v3-alignment.json",
+    "size": 19156,
+    "sha256": "b66e2d940d89e71315bbe6b817b71a609a4437cb5f971e82fecda0030d7e2784"
+  },
+  {
+    "path": "Production/Archive/Superseded Barkington - Brian/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 03/Audio/Round 2/S03-D01-chairman_barkington-villain-directed-v3.json",
+    "size": 1239,
+    "sha256": "f57a83961cd971dc751bb10a116c59061ee46570f3fccee8f705183f73d3845f"
+  },
+  {
+    "path": "Production/Archive/Superseded Barkington - Brian/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 03/Audio/Round 2/S03-D01-chairman_barkington-villain-directed-v3.mp3",
+    "size": 226158,
+    "sha256": "fdb427a8bf3acb2d4fec7ec48a851608fc079defc76b6f60bac17b9719e3b6b8"
+  },
+  {
+    "path": "Production/Archive/Superseded Barkington - Brian/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 03/Audio/Round 2/S03-D01-chairman_barkington-villain-directed-v3.txt",
+    "size": 219,
+    "sha256": "736eeb66de1d848aa451e05377659e56c27d7d03cf966b3f3b1ee08fe4e35403"
+  },
+  {
+    "path": "Production/Archive/Superseded Barkington - Brian/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 03/Audio/S03-D01-chairman_barkington-take001-alignment.json",
+    "size": 18121,
+    "sha256": "3983b0dc5412bdd59a8fef35d2f74bea9152d2659f2a982877ae239ee83ca96c"
+  },
+  {
+    "path": "Production/Archive/Superseded Barkington - Brian/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 03/Audio/S03-D01-chairman_barkington-take001.json",
+    "size": 2172,
+    "sha256": "df30f26be76f12993320b3e02d9d498b24bbc8cdb68a2ff9a71af69c92dda44c"
+  },
+  {
+    "path": "Production/Archive/Superseded Barkington - Brian/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 03/Audio/S03-D01-chairman_barkington-take001.mp3",
+    "size": 216545,
+    "sha256": "cdc6d5998fc4d7774d97e5ceb819e2d85c8e7d8796c9f7849b64e83cc2635b65"
+  },
+  {
+    "path": "Production/Archive/Superseded Barkington - Brian/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 03/Audio/S03-D01-chairman_barkington-take001.txt",
+    "size": 221,
+    "sha256": "ccc9e2c35c3f61f7adfa6bdf0b15200570fa53a25581b8738ae5658f8507b1c5"
+  },
+  {
+    "path": "Production/Archive/Superseded Barkington - Brian/voice-casting-registry.json",
+    "size": 140776,
+    "sha256": "ff4930c877e3b18ce64f9c224aae948bee65a02bbf1ce671b7c87929eb983927"
+  },
+  {
+    "path": "Production/Archive/Superseded Barkington - Brian/Voices/Auditions/barkington/barkington-brian.json",
+    "size": 749,
+    "sha256": "8017ac845f88fc5d4e467c1651454f7ec58d8e78694ec710202792faefe8a99e"
+  },
+  {
+    "path": "Production/Archive/Superseded Barkington - Brian/Voices/Auditions/barkington/barkington-brian.mp3",
+    "size": 147582,
+    "sha256": "8dd0c8027190be5704220cfac4a64afe5f310e7f08072698cabd69ce64569d23"
+  },
+  {
+    "path": "Production/Archive/Superseded Barkington - Brian/Voices/Opening Scenes/Scene03/S03-D01-chairman_barkington-take001-alignment.json",
+    "size": 18121,
+    "sha256": "3983b0dc5412bdd59a8fef35d2f74bea9152d2659f2a982877ae239ee83ca96c"
+  },
+  {
+    "path": "Production/Archive/Superseded Barkington - Brian/Voices/Opening Scenes/Scene03/S03-D01-chairman_barkington-take001.json",
+    "size": 2172,
+    "sha256": "df30f26be76f12993320b3e02d9d498b24bbc8cdb68a2ff9a71af69c92dda44c"
+  },
+  {
+    "path": "Production/Archive/Superseded Barkington - Brian/Voices/Opening Scenes/Scene03/S03-D01-chairman_barkington-take001.mp3",
+    "size": 216545,
+    "sha256": "cdc6d5998fc4d7774d97e5ceb819e2d85c8e7d8796c9f7849b64e83cc2635b65"
+  },
+  {
+    "path": "Production/Archive/Superseded Barkington - Brian/Voices/Opening Scenes/Scene03/S03-D01-chairman_barkington-take001.txt",
+    "size": 221,
+    "sha256": "ccc9e2c35c3f61f7adfa6bdf0b15200570fa53a25581b8738ae5658f8507b1c5"
+  },
+  {
+    "path": "Production/Archive/Superseded Barkington - Brian/Voices/Pilot Round 2/Scene03/S03-D01-chairman_barkington-villain-controlled-v2-alignment.json",
+    "size": 18030,
+    "sha256": "391740886ba24e979c0f924ba2816caf05ca0936acfa784554d999e73b69739f"
+  },
+  {
+    "path": "Production/Archive/Superseded Barkington - Brian/Voices/Pilot Round 2/Scene03/S03-D01-chairman_barkington-villain-controlled-v2.json",
+    "size": 1071,
+    "sha256": "293ef0b48a81c5241c63d5c2f97b8364e4fea117f4c67ebc0700b2a992e165ce"
+  },
+  {
+    "path": "Production/Archive/Superseded Barkington - Brian/Voices/Pilot Round 2/Scene03/S03-D01-chairman_barkington-villain-controlled-v2.mp3",
+    "size": 220307,
+    "sha256": "132a5aa26542fcd869533595341b9c22e0898658b8cdc1c362285db60a112766"
+  },
+  {
+    "path": "Production/Archive/Superseded Barkington - Brian/Voices/Pilot Round 2/Scene03/S03-D01-chairman_barkington-villain-controlled-v2.txt",
+    "size": 219,
+    "sha256": "736eeb66de1d848aa451e05377659e56c27d7d03cf966b3f3b1ee08fe4e35403"
+  },
+  {
+    "path": "Production/Archive/Superseded Barkington - Brian/Voices/Pilot Round 2/Scene03/S03-D01-chairman_barkington-villain-directed-v3-alignment.json",
+    "size": 19156,
+    "sha256": "b66e2d940d89e71315bbe6b817b71a609a4437cb5f971e82fecda0030d7e2784"
+  },
+  {
+    "path": "Production/Archive/Superseded Barkington - Brian/Voices/Pilot Round 2/Scene03/S03-D01-chairman_barkington-villain-directed-v3.json",
+    "size": 1239,
+    "sha256": "f57a83961cd971dc751bb10a116c59061ee46570f3fccee8f705183f73d3845f"
+  },
+  {
+    "path": "Production/Archive/Superseded Barkington - Brian/Voices/Pilot Round 2/Scene03/S03-D01-chairman_barkington-villain-directed-v3.mp3",
+    "size": 226158,
+    "sha256": "fdb427a8bf3acb2d4fec7ec48a851608fc079defc76b6f60bac17b9719e3b6b8"
+  },
+  {
+    "path": "Production/Archive/Superseded Barkington - Brian/Voices/Pilot Round 2/Scene03/S03-D01-chairman_barkington-villain-directed-v3.txt",
+    "size": 219,
+    "sha256": "736eeb66de1d848aa451e05377659e56c27d7d03cf966b3f3b1ee08fe4e35403"
+  },
+  {
+    "path": "Production/Archive/Superseded Barkington - Brian/Websites/library/132a5aa26542fcd8.mp3",
+    "size": 220307,
+    "sha256": "132a5aa26542fcd869533595341b9c22e0898658b8cdc1c362285db60a112766"
+  },
+  {
+    "path": "Production/Archive/Superseded Barkington - Brian/Websites/library/cdc6d5998fc4d777.mp3",
+    "size": 216545,
+    "sha256": "cdc6d5998fc4d7774d97e5ceb819e2d85c8e7d8796c9f7849b64e83cc2635b65"
+  },
+  {
+    "path": "Production/Archive/Superseded Barkington - Brian/Websites/library/fdb427a8bf3acb2d.mp3",
+    "size": 226158,
+    "sha256": "fdb427a8bf3acb2d4fec7ec48a851608fc079defc76b6f60bac17b9719e3b6b8"
+  },
+  {
+    "path": "Production/asset-approval-policy.txt",
+    "size": 447,
+    "sha256": "45e658554663ff9af1ebf9396ff58a40ac7cf4f97e0994aa5d0384a01dd6cf65"
+  },
+  {
     "path": "Production/asset-index.json",
     "size": 171967,
     "sha256": "8f8767e979ce3671dfc6792bbc5efb0a9ac8ed20181c1aa43cd35866dd33ac9d"
@@ -3461,8 +3641,8 @@
   },
   {
     "path": "Production/character-prompts.json",
-    "size": 424785,
-    "sha256": "edb2b4fbe07c96b1934e577e9fd1d36f257e92c64b91e8a4cfd07ded0bd2156d"
+    "size": 424900,
+    "sha256": "f30aa0bfeaeaaa47111ac8e7832bacfabc532b6b4b7c6d178e1c3fca0f564e92"
   },
   {
     "path": "Production/Characters/Cats - Civilians and Media/7-Catleven Clerk/identity-and-voice.json",
@@ -4776,8 +4956,8 @@
   },
   {
     "path": "Production/local-sync.json",
-    "size": 433,
-    "sha256": "cf4b914f7cc7a72eab046c60d3eac26248850244e96bcd109d537146d5c79263"
+    "size": 432,
+    "sha256": "05563f338a3ffffda1839e50f16bcd300aee645ccdc8052a09fb66bc11bcbf2c"
   },
   {
     "path": "Production/Location Sheets GPT Image 2.6/generation-manifest.json",
@@ -9226,8 +9406,8 @@
   },
   {
     "path": "Production/README.md",
-    "size": 58117,
-    "sha256": "5f6e1502b8a325b149a8fce458abc298a92a150c6afe2c415aa3623410f975de"
+    "size": 58850,
+    "sha256": "332989d1cc1b10b3a5e0851776c61bc28ec696a9ee7d673b0eb11cf21ee12c52"
   },
   {
     "path": "Production/Recovered References/Chairman Barkington/setting.png",
@@ -9413,6 +9593,41 @@
     "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Audio/dialogue-registry.json",
     "size": 84402,
     "sha256": "8527b45bbadf60d4cafb4655496a4673fa111b3957470ba4c76d84033fc6baad"
+  },
+  {
+    "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Production Map/dialogue-cue-sheet-v003.csv",
+    "size": 46057,
+    "sha256": "13c217bc756fc67bb3b682175bcb16cdd0b3d981dd84fac70457318bf2c54140"
+  },
+  {
+    "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Production Map/full-timed-script-v003.txt",
+    "size": 50049,
+    "sha256": "c13f86da5365bb58d997c20a3ebc6d7df8693aa9f57756cee8f1ea09c4e4a22c"
+  },
+  {
+    "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Production Map/pilot-before-map-v003.json",
+    "size": 98925,
+    "sha256": "8303749d12088e307992b79b2f9656cbb79fcd2f6f7270c2115800a1fea7468a"
+  },
+  {
+    "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Production Map/pilot-production-map-v003.json",
+    "size": 959067,
+    "sha256": "63d020da64ddfbedad0cf077a7d6aec606aecb42c250c972f49a1c4cc8efd862"
+  },
+  {
+    "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Production Map/scene-shot-references.csv",
+    "size": 122046,
+    "sha256": "135fc54dfe7626dfc07485dc71ad774b93cee101e174d9c6b89f13d44d1f1de8"
+  },
+  {
+    "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Production Map/shot-timeline-v003.csv",
+    "size": 31360,
+    "sha256": "23eaa22eee0a991c67eb39080e0bb45eab015885472c974dac315f8d5ddbbcaa"
+  },
+  {
+    "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Production Map/validation-v003.json",
+    "size": 365,
+    "sha256": "8b3b56092f645c0ed3a4e426454aca0141cd3ea44d093ea1fa73733626884e78"
   },
   {
     "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/README.txt",
@@ -10070,6 +10285,11 @@
     "sha256": "793ae75f0563f93f514d7fe6fe558b4731529038b02b22778a017b8a38354db2"
   },
   {
+    "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 01/timed-production-map-v003.json",
+    "size": 72554,
+    "sha256": "dfd14ce897215e2ac003ffa9c63395e7d0d54ff4c5929413848c32dc173d396c"
+  },
+  {
     "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 02/Audio/S02-D01-trixie-take001-alignment.json",
     "size": 3275,
     "sha256": "76b9bb5bd88b7cc97e358c263a851e3d917aef1ba521a51ab8ac763c08185703"
@@ -10380,64 +10600,9 @@
     "sha256": "551b5b97a0ca94386e67c0a7e6bf7d64ddc83d4a0c5a75faea29ad5989ae124a"
   },
   {
-    "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 03/Audio/Round 2/S03-D01-chairman_barkington-villain-controlled-v2-alignment.json",
-    "size": 18030,
-    "sha256": "391740886ba24e979c0f924ba2816caf05ca0936acfa784554d999e73b69739f"
-  },
-  {
-    "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 03/Audio/Round 2/S03-D01-chairman_barkington-villain-controlled-v2.json",
-    "size": 1071,
-    "sha256": "293ef0b48a81c5241c63d5c2f97b8364e4fea117f4c67ebc0700b2a992e165ce"
-  },
-  {
-    "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 03/Audio/Round 2/S03-D01-chairman_barkington-villain-controlled-v2.mp3",
-    "size": 220307,
-    "sha256": "132a5aa26542fcd869533595341b9c22e0898658b8cdc1c362285db60a112766"
-  },
-  {
-    "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 03/Audio/Round 2/S03-D01-chairman_barkington-villain-controlled-v2.txt",
-    "size": 219,
-    "sha256": "736eeb66de1d848aa451e05377659e56c27d7d03cf966b3f3b1ee08fe4e35403"
-  },
-  {
-    "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 03/Audio/Round 2/S03-D01-chairman_barkington-villain-directed-v3-alignment.json",
-    "size": 19156,
-    "sha256": "b66e2d940d89e71315bbe6b817b71a609a4437cb5f971e82fecda0030d7e2784"
-  },
-  {
-    "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 03/Audio/Round 2/S03-D01-chairman_barkington-villain-directed-v3.json",
-    "size": 1239,
-    "sha256": "f57a83961cd971dc751bb10a116c59061ee46570f3fccee8f705183f73d3845f"
-  },
-  {
-    "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 03/Audio/Round 2/S03-D01-chairman_barkington-villain-directed-v3.mp3",
-    "size": 226158,
-    "sha256": "fdb427a8bf3acb2d4fec7ec48a851608fc079defc76b6f60bac17b9719e3b6b8"
-  },
-  {
-    "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 03/Audio/Round 2/S03-D01-chairman_barkington-villain-directed-v3.txt",
-    "size": 219,
-    "sha256": "736eeb66de1d848aa451e05377659e56c27d7d03cf966b3f3b1ee08fe4e35403"
-  },
-  {
-    "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 03/Audio/S03-D01-chairman_barkington-take001-alignment.json",
-    "size": 18121,
-    "sha256": "3983b0dc5412bdd59a8fef35d2f74bea9152d2659f2a982877ae239ee83ca96c"
-  },
-  {
-    "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 03/Audio/S03-D01-chairman_barkington-take001.json",
-    "size": 2172,
-    "sha256": "df30f26be76f12993320b3e02d9d498b24bbc8cdb68a2ff9a71af69c92dda44c"
-  },
-  {
-    "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 03/Audio/S03-D01-chairman_barkington-take001.mp3",
-    "size": 216545,
-    "sha256": "cdc6d5998fc4d7774d97e5ceb819e2d85c8e7d8796c9f7849b64e83cc2635b65"
-  },
-  {
-    "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 03/Audio/S03-D01-chairman_barkington-take001.txt",
-    "size": 221,
-    "sha256": "ccc9e2c35c3f61f7adfa6bdf0b15200570fa53a25581b8738ae5658f8507b1c5"
+    "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 02/timed-production-map-v003.json",
+    "size": 48054,
+    "sha256": "ac925b3670e178147c0faa6a26e82c028057593459fc39ae69f83474b33e3529"
   },
   {
     "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 03/Audio/S03-D02-byte-take001-alignment.json",
@@ -10710,6 +10875,11 @@
     "sha256": "599576130dc439a504393b8e6f6b5d4375142aa7174af27ab3f41249b7b5861c"
   },
   {
+    "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 03/timed-production-map-v003.json",
+    "size": 43560,
+    "sha256": "85e670f66aa2858db4818752afc0c1b93d2025e6bf9cb742afea160754644d0b"
+  },
+  {
     "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 04/Audio/S04-D01-byte-take001-alignment.json",
     "size": 3353,
     "sha256": "3337519c2ca8a40a5a4fa88d695cd88c1150b7fc02cbe0ae045604c09357220d"
@@ -10930,6 +11100,11 @@
     "sha256": "9a5d1617bb23685f6e91c35f369d0fe5735529849b3f8ba979dd5f0869939e6b"
   },
   {
+    "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 04/timed-production-map-v003.json",
+    "size": 33964,
+    "sha256": "207fc27b2760fb507eed49acf993ed71b44ba161f02f9d97c28a94c16ae77c87"
+  },
+  {
     "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 05/Audio/Round 2/S05-D01-byte-take001-alignment.json",
     "size": 4750,
     "sha256": "496d38df76b017a044161f69657b60b50a586eda837813d0cbe99bbea4e08fbf"
@@ -11140,6 +11315,11 @@
     "sha256": "e3c0b8e2e79956806f6d1f8e2915399378407a8f0515950082e6787a7b4dd705"
   },
   {
+    "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 05/timed-production-map-v003.json",
+    "size": 34866,
+    "sha256": "dfcde662a8b3321094f774aad5f45e3929930d53b216b89601bd24a019ad7bd8"
+  },
+  {
     "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 06/scene-brief.txt",
     "size": 895,
     "sha256": "de2e635b49afef7134ae2170f8a76b99c0ded706edb38f35f480e5b7956f1c93"
@@ -11148,6 +11328,11 @@
     "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 06/shot-beats.json",
     "size": 972,
     "sha256": "7977653b1fbc8a330164a1288aeb117286143584ca5efaa301a53fe1bd8c66ae"
+  },
+  {
+    "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 06/timed-production-map-v003.json",
+    "size": 32592,
+    "sha256": "5fe627d68b14bfcb75a3c85afea26622be20447b83e7e2365a857533edd71d11"
   },
   {
     "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 07/scene-brief.txt",
@@ -11160,6 +11345,11 @@
     "sha256": "ba713715c7181af6c1e31639c070036bc1e806c3d744a6f5ccc40b7ccfd56a1b"
   },
   {
+    "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 07/timed-production-map-v003.json",
+    "size": 39596,
+    "sha256": "974249d90829ed62f8f54111a5e26254fb17cd4b46d218bd997e950cf813efd8"
+  },
+  {
     "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 08/scene-brief.txt",
     "size": 954,
     "sha256": "b38389831c26a1db07ecd5ed8a06358aea3e635d4ce57a1ec86911ce4900f328"
@@ -11168,6 +11358,11 @@
     "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 08/shot-beats.json",
     "size": 980,
     "sha256": "8b0894d395cef91f1f1bcc6c795489c894b7ee805f62313cc14e309bf9a4bb9f"
+  },
+  {
+    "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 08/timed-production-map-v003.json",
+    "size": 25851,
+    "sha256": "9a765565e31cab6ce1204cbd1431d9abfc734890285741fa1b6ce873c370b805"
   },
   {
     "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 09/scene-brief.txt",
@@ -11180,6 +11375,11 @@
     "sha256": "c4ba745cef418f871782f8702aca3389d087dbcc5ece0607498f3fdaf6a02e89"
   },
   {
+    "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 09/timed-production-map-v003.json",
+    "size": 39539,
+    "sha256": "29222a1e372bdf56dee8f969e1aa9cdafb6ab08a50734dc60cf82e7e911576a9"
+  },
+  {
     "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 10/scene-brief.txt",
     "size": 999,
     "sha256": "8df27ae7771dcc55f984442bfc63584f1a490fb3d8dcc375eb87545667bad2ce"
@@ -11188,6 +11388,11 @@
     "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 10/shot-beats.json",
     "size": 1172,
     "sha256": "d89346b83b2296b5f8cbbd94dff1eecf95c2c5e51370bb3c1def5edbcaadadc5"
+  },
+  {
+    "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 10/timed-production-map-v003.json",
+    "size": 38532,
+    "sha256": "652fba2579e794595e4e974ca3456e4133d623c4d1b0b0cb7586c3e351311d9e"
   },
   {
     "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 11/scene-brief.txt",
@@ -11200,6 +11405,11 @@
     "sha256": "734cc9d8c893e79563252af93e690c750b31826ea39d9caf7c67de2a5979af38"
   },
   {
+    "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 11/timed-production-map-v003.json",
+    "size": 42810,
+    "sha256": "c1b494c3b6c505dae7612fbacad11ed350eeae730b66d4111b7f4c215b76cd2b"
+  },
+  {
     "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 12/scene-brief.txt",
     "size": 831,
     "sha256": "14c12384e28a0eebed16e0059bfcf6e2b323c53f68a960e499a15eb607eec5fe"
@@ -11208,6 +11418,11 @@
     "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 12/shot-beats.json",
     "size": 1181,
     "sha256": "edf8127ef2dbf4d6cd00df1e16c583403e14bc05eaa4101527945a5939cea879"
+  },
+  {
+    "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 12/timed-production-map-v003.json",
+    "size": 31848,
+    "sha256": "a09bc61c21f148595fb6eb5824302557906827332872a033b53684e24790320e"
   },
   {
     "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 13/scene-brief.txt",
@@ -11220,6 +11435,11 @@
     "sha256": "8b48d29fdd6b323d0125094a4745438488a9d73f1991027fb1d21fec82dffbee"
   },
   {
+    "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 13/timed-production-map-v003.json",
+    "size": 30280,
+    "sha256": "024db574a565876844e943da6e19001d4e05832d656b1474c4b1b52cc694c125"
+  },
+  {
     "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 14/scene-brief.txt",
     "size": 1110,
     "sha256": "5eda865557c97610540655285def2e7e443183685d15abd290abb71a9b3e112c"
@@ -11228,6 +11448,11 @@
     "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 14/shot-beats.json",
     "size": 1188,
     "sha256": "4fd4ba2caec9411e16190ac63dd89bdbf373f7118c3e36fdd135a904618781d6"
+  },
+  {
+    "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 14/timed-production-map-v003.json",
+    "size": 33087,
+    "sha256": "024d76f2c8117efa214e75161d76fc8f798bfd4cdeb318abcc1bb70837b6c43d"
   },
   {
     "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 15/scene-brief.txt",
@@ -11240,6 +11465,11 @@
     "sha256": "4cd359f32f57f5229b1d346231f13ef384eb4ddc6434eab517679b9bd57c7a93"
   },
   {
+    "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 15/timed-production-map-v003.json",
+    "size": 33003,
+    "sha256": "1d3b7bc0ace9e9d83303c588217b64ef07525e20f88ad619281b758def71041b"
+  },
+  {
     "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 16/scene-brief.txt",
     "size": 886,
     "sha256": "4b3c755110b56715bdf42013efed09f6697a48059baa39c39b44ee209d140214"
@@ -11248,6 +11478,11 @@
     "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 16/shot-beats.json",
     "size": 1180,
     "sha256": "64ec39bddc2b30063d748de9f446c7118db29016212a8f99fdcb4442b07b863d"
+  },
+  {
+    "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 16/timed-production-map-v003.json",
+    "size": 39390,
+    "sha256": "0053203d14b99fa41522806fe0f263b467e3750cfd4a0132f8bc8c468c703ef2"
   },
   {
     "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 17/scene-brief.txt",
@@ -11260,6 +11495,11 @@
     "sha256": "33abc8388100ee32aaf2a1860bf7fa1195b275b06b8933a7fa11b5b15ea178bf"
   },
   {
+    "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 17/timed-production-map-v003.json",
+    "size": 35029,
+    "sha256": "4b6f5ede5b1644c07fa62660e721cddf47a24c2a0d3698457be6ab1f2f78ecdb"
+  },
+  {
     "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 18/scene-brief.txt",
     "size": 866,
     "sha256": "9d41482d493e1b4775f00a1048f737a955eb2ed0a8aca19ad0499ae42c5acb41"
@@ -11268,6 +11508,11 @@
     "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 18/shot-beats.json",
     "size": 978,
     "sha256": "be8743e06d286695039683b79693157811562b5df3a3ccca5640fe448bc7e411"
+  },
+  {
+    "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 18/timed-production-map-v003.json",
+    "size": 31078,
+    "sha256": "9af0226f246f24aee1898149659995aab4a020a37a759ee2238dbb42927942f4"
   },
   {
     "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 19/scene-brief.txt",
@@ -11280,6 +11525,11 @@
     "sha256": "f8a52e5232cd0ed2222f02a6b720c65bf075fdc5e4000088f461e7f9acf64504"
   },
   {
+    "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 19/timed-production-map-v003.json",
+    "size": 27072,
+    "sha256": "3169c5dda65ff3a9d4be5dd7a15afd659f7c7cbfca935215fd8baf63ac54256a"
+  },
+  {
     "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 20/scene-brief.txt",
     "size": 856,
     "sha256": "00bbae15ac1b7c86ef26d32c0decaf3675a3342e44717946af86908221aca059"
@@ -11288,6 +11538,11 @@
     "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 20/shot-beats.json",
     "size": 1166,
     "sha256": "070f66f2937a21c34de5347bbfaef3f99f5573061924bf30176ac1b3bbd52f81"
+  },
+  {
+    "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 20/timed-production-map-v003.json",
+    "size": 25875,
+    "sha256": "aa9c64ec45fae968cd46cee8e142dc94097ddf3e575d8d6a2d63471ae15ff43d"
   },
   {
     "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 21/scene-brief.txt",
@@ -11300,6 +11555,11 @@
     "sha256": "5644829ee63f846467d76b7880554ba0cfb3e8f0b30908cfb82bfec39bb42922"
   },
   {
+    "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 21/timed-production-map-v003.json",
+    "size": 34282,
+    "sha256": "161b6dc5d4b2d989f6c6025ca74d569f1755bef045ff5ba42d908bf43313a45f"
+  },
+  {
     "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 22/scene-brief.txt",
     "size": 1061,
     "sha256": "09ab504a30d6253be9abbdd6eff043fd60ba37c0848ad6cd5d30c3eef9da1010"
@@ -11308,6 +11568,11 @@
     "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 22/shot-beats.json",
     "size": 1179,
     "sha256": "aea4dba94be15d130bbd62135161b1dc12afaef883ff72eb9c40cb011535ad5f"
+  },
+  {
+    "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 22/timed-production-map-v003.json",
+    "size": 31252,
+    "sha256": "c4a883d8e2cf2e29250215ab9737c334b59ff01ff0067d55fc1747c1c487bc6b"
   },
   {
     "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 23/scene-brief.txt",
@@ -11320,6 +11585,11 @@
     "sha256": "98cfcb9dd4ff59cbe7feb51ea1efba67b13089d6ac504e8e68eabcc5a79d5331"
   },
   {
+    "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 23/timed-production-map-v003.json",
+    "size": 29507,
+    "sha256": "cca206ce53e82df0b6547ec529e6fca8657eb5dc26600909183a8228cbe3cbe8"
+  },
+  {
     "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 24/scene-brief.txt",
     "size": 3821,
     "sha256": "cbb167c11f74d2ab6aa04e30f1082515d582276a98b1b051e0b57e595a9d1be9"
@@ -11328,6 +11598,11 @@
     "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 24/shot-beats.json",
     "size": 1372,
     "sha256": "da0e988f5a4ecb2d0795f761c49452f2e2ca4202d44f6f399b10f11d5ecdb794"
+  },
+  {
+    "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 24/timed-production-map-v003.json",
+    "size": 40050,
+    "sha256": "5481982730679102d01560c5c6b7019f79e8e441e66576973c2cbd2619b44a89"
   },
   {
     "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Script/dialogue-additions-v002.json",
@@ -11600,16 +11875,6 @@
     "sha256": "8bbbb76eb9b72c1969c1b80628ae9b602ec9515b3824a9bacaf96e26cdcd8200"
   },
   {
-    "path": "Production/Voices/Auditions/barkington/barkington-brian.json",
-    "size": 749,
-    "sha256": "8017ac845f88fc5d4e467c1651454f7ec58d8e78694ec710202792faefe8a99e"
-  },
-  {
-    "path": "Production/Voices/Auditions/barkington/barkington-brian.mp3",
-    "size": 147582,
-    "sha256": "8dd0c8027190be5704220cfac4a64afe5f310e7f08072698cabd69ce64569d23"
-  },
-  {
     "path": "Production/Voices/Auditions/byte/byte-northern-terry.json",
     "size": 757,
     "sha256": "baba371c9159e8c4d38915bedd4219788db463b98f09ee80c327aa1680daff7f"
@@ -11700,9 +11965,24 @@
     "sha256": "deb244e33f689cf50bcdd70cbc0d1e9a567d0c8d6c89fd204002244dca209577"
   },
   {
+    "path": "Production/Voices/Barkington Matthew Audition/alignment.json",
+    "size": 18146,
+    "sha256": "03bb925c38131749c89eb19e75549c3dc2c5c417b33b0ec74d3fd37557a253fa"
+  },
+  {
+    "path": "Production/Voices/Barkington Matthew Audition/receipt.json",
+    "size": 862,
+    "sha256": "ef272efe406a03424a8bdd2caa523d365f195a3a0ac1fa356d1a1db22d5b002b"
+  },
+  {
+    "path": "Production/Voices/Barkington Matthew Audition/S03-D01-barkington-matthew-v001.mp3",
+    "size": 281329,
+    "sha256": "50cd626442b36bd7ac877569d4436a1f0fe9fe9dcdc0bd5807edafa279b0dd7f"
+  },
+  {
     "path": "Production/Voices/casting-overview.json",
-    "size": 31403,
-    "sha256": "f6fdb3346f8f4cf70859b6fc12c946a261fe2e41aa0dc9247327a18bdc946a86"
+    "size": 31358,
+    "sha256": "3ba32e279b9d61882287066c7a9b5319f59b024b1be956ed713710253fc107ce"
   },
   {
     "path": "Production/Voices/casting-overview.md",
@@ -11721,8 +12001,8 @@
   },
   {
     "path": "Production/Voices/listen.html",
-    "size": 10733,
-    "sha256": "499e5c24355bd9601d52151340457f736e163a97370ae758aa1b87f23c649d4f"
+    "size": 345,
+    "sha256": "48be830bb3fd3ea1ce32d5ef613f682ebc5e8bd5c6a726344f9d3fd1a606fe1b"
   },
   {
     "path": "Production/Voices/Narration/kitty-punks-opening-austin-v001.json",
@@ -11751,8 +12031,8 @@
   },
   {
     "path": "Production/Voices/Opening Scenes/listen.html",
-    "size": 6427,
-    "sha256": "d673a00da2f2e2aafe4da552af04ff2e0a54fe9cfe3de99e2417a978f36efbf8"
+    "size": 345,
+    "sha256": "48be830bb3fd3ea1ce32d5ef613f682ebc5e8bd5c6a726344f9d3fd1a606fe1b"
   },
   {
     "path": "Production/Voices/Opening Scenes/Scene02/S02-D01-trixie-take001-alignment.json",
@@ -11853,26 +12133,6 @@
     "path": "Production/Voices/Opening Scenes/Scene02/S02-D05-ghost-take001.txt",
     "size": 14,
     "sha256": "18d406191b2c67a173924c54a48bd9c505cb98fab0cde14c0052d138e8f45e60"
-  },
-  {
-    "path": "Production/Voices/Opening Scenes/Scene03/S03-D01-chairman_barkington-take001-alignment.json",
-    "size": 18121,
-    "sha256": "3983b0dc5412bdd59a8fef35d2f74bea9152d2659f2a982877ae239ee83ca96c"
-  },
-  {
-    "path": "Production/Voices/Opening Scenes/Scene03/S03-D01-chairman_barkington-take001.json",
-    "size": 2172,
-    "sha256": "df30f26be76f12993320b3e02d9d498b24bbc8cdb68a2ff9a71af69c92dda44c"
-  },
-  {
-    "path": "Production/Voices/Opening Scenes/Scene03/S03-D01-chairman_barkington-take001.mp3",
-    "size": 216545,
-    "sha256": "cdc6d5998fc4d7774d97e5ceb819e2d85c8e7d8796c9f7849b64e83cc2635b65"
-  },
-  {
-    "path": "Production/Voices/Opening Scenes/Scene03/S03-D01-chairman_barkington-take001.txt",
-    "size": 221,
-    "sha256": "ccc9e2c35c3f61f7adfa6bdf0b15200570fa53a25581b8738ae5658f8507b1c5"
   },
   {
     "path": "Production/Voices/Opening Scenes/Scene03/S03-D02-byte-take001-alignment.json",
@@ -12016,8 +12276,8 @@
   },
   {
     "path": "Production/Voices/Pilot Round 2/listen.html",
-    "size": 6477,
-    "sha256": "f66e68e1f633cf87cf4bba9d8ccb08adc081afb8007659dab435cced2a4a4943"
+    "size": 345,
+    "sha256": "48be830bb3fd3ea1ce32d5ef613f682ebc5e8bd5c6a726344f9d3fd1a606fe1b"
   },
   {
     "path": "Production/Voices/Pilot Round 2/Scene01/S01-D01-byte-take001-alignment.json",
@@ -12370,46 +12630,6 @@
     "sha256": "e1af245e3d6a37ac93b6c0ee1d8582c356b2dcecbae9bbc49ec2940a0286c051"
   },
   {
-    "path": "Production/Voices/Pilot Round 2/Scene03/S03-D01-chairman_barkington-villain-controlled-v2-alignment.json",
-    "size": 18030,
-    "sha256": "391740886ba24e979c0f924ba2816caf05ca0936acfa784554d999e73b69739f"
-  },
-  {
-    "path": "Production/Voices/Pilot Round 2/Scene03/S03-D01-chairman_barkington-villain-controlled-v2.json",
-    "size": 1071,
-    "sha256": "293ef0b48a81c5241c63d5c2f97b8364e4fea117f4c67ebc0700b2a992e165ce"
-  },
-  {
-    "path": "Production/Voices/Pilot Round 2/Scene03/S03-D01-chairman_barkington-villain-controlled-v2.mp3",
-    "size": 220307,
-    "sha256": "132a5aa26542fcd869533595341b9c22e0898658b8cdc1c362285db60a112766"
-  },
-  {
-    "path": "Production/Voices/Pilot Round 2/Scene03/S03-D01-chairman_barkington-villain-controlled-v2.txt",
-    "size": 219,
-    "sha256": "736eeb66de1d848aa451e05377659e56c27d7d03cf966b3f3b1ee08fe4e35403"
-  },
-  {
-    "path": "Production/Voices/Pilot Round 2/Scene03/S03-D01-chairman_barkington-villain-directed-v3-alignment.json",
-    "size": 19156,
-    "sha256": "b66e2d940d89e71315bbe6b817b71a609a4437cb5f971e82fecda0030d7e2784"
-  },
-  {
-    "path": "Production/Voices/Pilot Round 2/Scene03/S03-D01-chairman_barkington-villain-directed-v3.json",
-    "size": 1239,
-    "sha256": "f57a83961cd971dc751bb10a116c59061ee46570f3fccee8f705183f73d3845f"
-  },
-  {
-    "path": "Production/Voices/Pilot Round 2/Scene03/S03-D01-chairman_barkington-villain-directed-v3.mp3",
-    "size": 226158,
-    "sha256": "fdb427a8bf3acb2d4fec7ec48a851608fc079defc76b6f60bac17b9719e3b6b8"
-  },
-  {
-    "path": "Production/Voices/Pilot Round 2/Scene03/S03-D01-chairman_barkington-villain-directed-v3.txt",
-    "size": 219,
-    "sha256": "736eeb66de1d848aa451e05377659e56c27d7d03cf966b3f3b1ee08fe4e35403"
-  },
-  {
     "path": "Production/Voices/Pilot Round 2/Scene05/S05-D01-byte-take001-alignment.json",
     "size": 4750,
     "sha256": "496d38df76b017a044161f69657b60b50a586eda837813d0cbe99bbea4e08fbf"
@@ -12621,8 +12841,8 @@
   },
   {
     "path": "Production/Voices/pilot-dialogue-from-master.json",
-    "size": 84402,
-    "sha256": "8527b45bbadf60d4cafb4655496a4673fa111b3957470ba4c76d84033fc6baad"
+    "size": 84577,
+    "sha256": "2c15f67f0a10a1a4aa4a7df840535daaa120f975ecc342b6b5ebebd71f6ceb9c"
   },
   {
     "path": "Production/Voices/radio-host.json",
@@ -12691,8 +12911,8 @@
   },
   {
     "path": "Production/Voices/voice-casting-registry.json",
-    "size": 140776,
-    "sha256": "ff4930c877e3b18ce64f9c224aae948bee65a02bbf1ce671b7c87929eb983927"
+    "size": 141066,
+    "sha256": "033b1ea78dc63efcc2bd57793add8bb5daa02f903711c616228db7ae18c55434"
   },
   {
     "path": "Production/Websites/.dockerignore",
@@ -12706,18 +12926,18 @@
   },
   {
     "path": "Production/Websites/app.py",
-    "size": 7262,
-    "sha256": "ac90bb67cac375d28a59bc1f9d34883dc8c802162fac86846aaa08c0270e2439"
+    "size": 8059,
+    "sha256": "cd45c213ea1f366c6ddead1f9a47775d032eea03c92f5ad341db3b407be9cf35"
   },
   {
     "path": "Production/Websites/audio.json",
-    "size": 7748,
-    "sha256": "5928c6a9bc74c3fff3e3c0305507cb4a5ed5126f7d2bea4644f7573e46394449"
+    "size": 8725,
+    "sha256": "5a45d7724e392b27111cb9dbc2e77a96675f1771893be04212194f751612cbf6"
   },
   {
     "path": "Production/Websites/catalog.json",
-    "size": 28226,
-    "sha256": "bd482ea36401b93123f3b463f237592db893c6d452fd0bb77cb297f365d12764"
+    "size": 33983,
+    "sha256": "ae15f4a753984feb4bf29af62b5ffe335d74bafc041e717bc9fb70cb933e436b"
   },
   {
     "path": "Production/Websites/compose.yaml",
@@ -12730,9 +12950,54 @@
     "sha256": "e60138c85fe102068130226438676fc8a6dc8e0e52944fee75a048620ebc5dfe"
   },
   {
+    "path": "Production/Websites/downloads/dialogue-cue-sheet-v003.csv",
+    "size": 46057,
+    "sha256": "13c217bc756fc67bb3b682175bcb16cdd0b3d981dd84fac70457318bf2c54140"
+  },
+  {
+    "path": "Production/Websites/downloads/full-timed-script-v003.txt",
+    "size": 50049,
+    "sha256": "c13f86da5365bb58d997c20a3ebc6d7df8693aa9f57756cee8f1ea09c4e4a22c"
+  },
+  {
+    "path": "Production/Websites/downloads/pilot-production-map-v003.json",
+    "size": 959067,
+    "sha256": "63d020da64ddfbedad0cf077a7d6aec606aecb42c250c972f49a1c4cc8efd862"
+  },
+  {
+    "path": "Production/Websites/downloads/scene-shot-references.csv",
+    "size": 122046,
+    "sha256": "135fc54dfe7626dfc07485dc71ad774b93cee101e174d9c6b89f13d44d1f1de8"
+  },
+  {
+    "path": "Production/Websites/downloads/shot-timeline-v003.csv",
+    "size": 31360,
+    "sha256": "23eaa22eee0a991c67eb39080e0bb45eab015885472c974dac315f8d5ddbbcaa"
+  },
+  {
+    "path": "Production/Websites/downloads/validation-v003.json",
+    "size": 365,
+    "sha256": "8b3b56092f645c0ed3a4e426454aca0141cd3ea44d093ea1fa73733626884e78"
+  },
+  {
+    "path": "Production/Websites/downloads/voice-registry.csv",
+    "size": 7531,
+    "sha256": "33bdcd94a89ffccae0c377eb6f85ff641d8e8e738923a6b2c5b42ba486d44857"
+  },
+  {
+    "path": "Production/Websites/downloads/voice-registry.json",
+    "size": 12383,
+    "sha256": "b488e2bcfc32017bc0e7fd959e43339b50366574c07573e3d2d2a56dc33d7f64"
+  },
+  {
     "path": "Production/Websites/episodes.json",
     "size": 33790,
     "sha256": "9a61b3fb0907db15d0322d9315b44fd99d8f911043c386ea3d4b75312d0fce9e"
+  },
+  {
+    "path": "Production/Websites/frames.json",
+    "size": 3307,
+    "sha256": "c946710c4a4e46f0aa3458dc3c9db7a7702c8baaa72f500e99a5f17ed9d56cf0"
   },
   {
     "path": "Production/Websites/library/0046cc574d900e8d.jpg",
@@ -12855,14 +13120,29 @@
     "sha256": "5ebcb167f8d10289b768ff8b07666037f88359e75cd71bac4afb83b7cc12a70b"
   },
   {
+    "path": "Production/Websites/library/11a693ade0b0be8c.jpg",
+    "size": 2748687,
+    "sha256": "c1193b9c20152148f51749d3822aaf96a199065833c9f17d0d712ed27a5b69ef"
+  },
+  {
+    "path": "Production/Websites/library/11a693ade0b0be8c.webp",
+    "size": 92968,
+    "sha256": "cd98af7f957ac34666fd409667a283a8f74a9b4a72a4d76c80f0bef0d39c4a66"
+  },
+  {
+    "path": "Production/Websites/library/127a4d5fd9502510.jpg",
+    "size": 2605384,
+    "sha256": "835fbe79e5e37fdf2ac4930e239c9fe0c34c6578dc196089b6bfe497c3d15a42"
+  },
+  {
+    "path": "Production/Websites/library/127a4d5fd9502510.webp",
+    "size": 101624,
+    "sha256": "2918dc37feea9dc2f2249ae01c73f9a336d94ae15de67551ac90ee9d1a67961f"
+  },
+  {
     "path": "Production/Websites/library/128ebbff88f6429f.mp3",
     "size": 69424,
     "sha256": "128ebbff88f6429f54741dc0b436a6a070a7b3f9ab5782575a710693cbfc555c"
-  },
-  {
-    "path": "Production/Websites/library/132a5aa26542fcd8.mp3",
-    "size": 220307,
-    "sha256": "132a5aa26542fcd869533595341b9c22e0898658b8cdc1c362285db60a112766"
   },
   {
     "path": "Production/Websites/library/135fa113457eae53.mp3",
@@ -12918,6 +13198,16 @@
     "path": "Production/Websites/library/1876047a9b348844.webp",
     "size": 39082,
     "sha256": "72c97345d5013b95e1ef331bf793cec8b8c54382a61649fb01dad22b3f2bf0e1"
+  },
+  {
+    "path": "Production/Websites/library/1a6976232ac04b99.jpg",
+    "size": 2099447,
+    "sha256": "52a21637bb35466e783ec187373932957fd0f689a7650d38365ea884c4fc0fdd"
+  },
+  {
+    "path": "Production/Websites/library/1a6976232ac04b99.webp",
+    "size": 69438,
+    "sha256": "797dbbe6f6e48b137d0435f50a8e8ab4327547f35c7f9794423eff9f7689a76c"
   },
   {
     "path": "Production/Websites/library/1be88c05b796a261.jpg",
@@ -13000,9 +13290,39 @@
     "sha256": "692b812f6279e44659a31820e19afab4b22651be0dd845bd2635db1e81d4d3dd"
   },
   {
+    "path": "Production/Websites/library/245cc5e4d7c58533.jpg",
+    "size": 2662248,
+    "sha256": "d4137f4a1dc871598bbd781c90b0be7e4d14674a148967c68c127efacb1efdb8"
+  },
+  {
+    "path": "Production/Websites/library/245cc5e4d7c58533.webp",
+    "size": 79024,
+    "sha256": "507f238aa2b93135f0192b644e358bac599266340ddb3cb0229e4ba3e509f9ed"
+  },
+  {
     "path": "Production/Websites/library/27b8e269d7538438.mp3",
     "size": 67752,
     "sha256": "27b8e269d7538438b77678139e7bee5572171273e311fd35346dd5929ee6ed23"
+  },
+  {
+    "path": "Production/Websites/library/2960e09586380b97.jpg",
+    "size": 2063244,
+    "sha256": "25d794b0f424eeed17204d6a61d0d502fd7009b4876a0ad4d97ce82e357c2cc1"
+  },
+  {
+    "path": "Production/Websites/library/2960e09586380b97.webp",
+    "size": 65782,
+    "sha256": "0be88a2a2505d4f8f035a2169c42d70ad8e0c8e4afb3991ecdb71ddc72504c45"
+  },
+  {
+    "path": "Production/Websites/library/2a11944ad13f9541.jpg",
+    "size": 1669377,
+    "sha256": "e5fb729bee6748e4bff710c91852f6167866f555f92c7ad2b90187f32a3ad20b"
+  },
+  {
+    "path": "Production/Websites/library/2a11944ad13f9541.webp",
+    "size": 62280,
+    "sha256": "cfb4647b86d26ee030c2e180a3f567df032123cb85c772561f033f91d2a5e31a"
   },
   {
     "path": "Production/Websites/library/2a856c2ddfb3552a.mp3",
@@ -13013,6 +13333,16 @@
     "path": "Production/Websites/library/2b378909e3ed77be.mp3",
     "size": 33061,
     "sha256": "2b378909e3ed77be41b5286070ad156314514185a7df3eb4e2cb4d3895072818"
+  },
+  {
+    "path": "Production/Websites/library/2b6b1c23635fe1c4.jpg",
+    "size": 2934583,
+    "sha256": "87fc45489ecb2965cbc4a9aa82585c9f85521aff47efb7ba8c13a7aac76e7bd4"
+  },
+  {
+    "path": "Production/Websites/library/2b6b1c23635fe1c4.webp",
+    "size": 77662,
+    "sha256": "81e62256df7bafd51f39873ab521b7f3b7221f226997f257c0c50cb5bf570b0e"
   },
   {
     "path": "Production/Websites/library/2d967697465bfaa5.jpg",
@@ -13030,6 +13360,16 @@
     "sha256": "db5e72ebe23cc429a130f11b9538ac47fa6b7ab876cb5866b8205e07c4348f2e"
   },
   {
+    "path": "Production/Websites/library/2dd0994ced7e7c9a.jpg",
+    "size": 2372942,
+    "sha256": "daeacd1d50a1756d329e79f45c12e4048974aac1648203b79f3522a4494436f7"
+  },
+  {
+    "path": "Production/Websites/library/2dd0994ced7e7c9a.webp",
+    "size": 93834,
+    "sha256": "395e4b7761d8d6091077677a1d1dd37c0c70814b00f563ac19c1b05a4840ccd4"
+  },
+  {
     "path": "Production/Websites/library/32464f70744385fa.jpg",
     "size": 1371575,
     "sha256": "00b33b521c973f669e67c715b20505ce63df36c4394aaafd2397e9a0e2e2e244"
@@ -13043,6 +13383,26 @@
     "path": "Production/Websites/library/3487a5bc76bab84c.mp3",
     "size": 35151,
     "sha256": "3487a5bc76bab84c613a19538ac1d3bc52cf3188ff5e223af0ed31483f1e8ba1"
+  },
+  {
+    "path": "Production/Websites/library/392cfb1a7815f89c.jpg",
+    "size": 2168375,
+    "sha256": "0da555f4588894384b016a85f7bfb530ddcd6ac5860b227083356dc7e9a30542"
+  },
+  {
+    "path": "Production/Websites/library/392cfb1a7815f89c.webp",
+    "size": 60626,
+    "sha256": "dca52ef426a8d79ee025c2ceb0342e63e0790be59f65aedc7b2753f311ca6ca9"
+  },
+  {
+    "path": "Production/Websites/library/3a1e7317e6e41c02.jpg",
+    "size": 1936306,
+    "sha256": "aa0e0436ea83fdf52442d8063aaff23e464298fc4528b5b49a28e5571fa5522e"
+  },
+  {
+    "path": "Production/Websites/library/3a1e7317e6e41c02.webp",
+    "size": 51864,
+    "sha256": "e62619b40287cf02d50f3c36c21e2620fc6ea3858f60b636e24cf9566f34bd50"
   },
   {
     "path": "Production/Websites/library/3bd795b77bfd1453.mp3",
@@ -13078,6 +13438,16 @@
     "path": "Production/Websites/library/3d6689586e0b8150.webp",
     "size": 37012,
     "sha256": "fe96b48d075b44002e2847a896d2c59702170672c34bc2db512454ebc6c434af"
+  },
+  {
+    "path": "Production/Websites/library/3f2f426a88e5c789.jpg",
+    "size": 2283910,
+    "sha256": "c470a040fbfc9024335ac90545051a57e0d7aa2da25fc23f052e8487a8880d8f"
+  },
+  {
+    "path": "Production/Websites/library/3f2f426a88e5c789.webp",
+    "size": 68476,
+    "sha256": "0d6079434e22485961cab50e20ba46753344b46958c798bbd4100626b9a64bbf"
   },
   {
     "path": "Production/Websites/library/4043e3fe7b7ab146.jpg",
@@ -13200,6 +13570,16 @@
     "sha256": "2c9053f55e7cfe1d795785932f6e59fc8cc65cb31a18760c6a3ccebe48100012"
   },
   {
+    "path": "Production/Websites/library/4bc4255b44e8a0c5.jpg",
+    "size": 2540314,
+    "sha256": "0c3781fa5b9121be782472c94dd8481268e1b374af6c7f208b14ccf1ff5c4c77"
+  },
+  {
+    "path": "Production/Websites/library/4bc4255b44e8a0c5.webp",
+    "size": 79004,
+    "sha256": "b322c9f04462631c4b279380418136a90b76469a2e8788f2910be14263af73d5"
+  },
+  {
     "path": "Production/Websites/library/4f53c54786f3a8f7.jpg",
     "size": 1936742,
     "sha256": "83615aa45e77ffc1032e5a2538663b899fcdd7aa73968a8a26f7fa2801b8d6c2"
@@ -13213,6 +13593,11 @@
     "path": "Production/Websites/library/4f53c54786f3a8f7.webp",
     "size": 34986,
     "sha256": "d9ce0811d618211089ad5e3cd1e445bf2da3d918ead1ee67fdeb8cfb77c1c5c3"
+  },
+  {
+    "path": "Production/Websites/library/50cd626442b36bd7.mp3",
+    "size": 281329,
+    "sha256": "50cd626442b36bd7ac877569d4436a1f0fe9fe9dcdc0bd5807edafa279b0dd7f"
   },
   {
     "path": "Production/Websites/library/517e83741ba9e751.jpg",
@@ -13295,6 +13680,16 @@
     "sha256": "570ba44dbfead2b1a287ace7ffedc2f9613a06318fdf483cdc70f00c2cc7bb63"
   },
   {
+    "path": "Production/Websites/library/57ca5c0ad8f4b9e4.jpg",
+    "size": 2406782,
+    "sha256": "88e0c4358419ab08b842e015fcc551647960058adc3ba0114a9fac878df87a1f"
+  },
+  {
+    "path": "Production/Websites/library/57ca5c0ad8f4b9e4.webp",
+    "size": 74662,
+    "sha256": "1b120309f2de61e7df1f0b8a58721ae5ddc6a2b79eaf5cd2428afa99a578d3d5"
+  },
+  {
     "path": "Production/Websites/library/585c55d6c011eb09.jpg",
     "size": 1328217,
     "sha256": "c25b9807c26fb834124ac18e3aef9ccca75e8b0fe36033cee433264fcd53201a"
@@ -13313,6 +13708,16 @@
     "path": "Production/Websites/library/5c4a58b6f02aa3aa.mp3",
     "size": 27210,
     "sha256": "5c4a58b6f02aa3aa54907658d609a5f42d939b4d29589ae171b2cac58015391c"
+  },
+  {
+    "path": "Production/Websites/library/5e4547b10bc674a9.jpg",
+    "size": 2873311,
+    "sha256": "3aa62363f11fca1b8cd302e45f9e999261ebe5b0b1dc6eed656bd0f5fe62390d"
+  },
+  {
+    "path": "Production/Websites/library/5e4547b10bc674a9.webp",
+    "size": 78952,
+    "sha256": "cb406136f78e8a09d57d63504cc4f2004ba8658ccd01b224b2e2387c385b0964"
   },
   {
     "path": "Production/Websites/library/61dc338e08cb2385.jpg",
@@ -13365,6 +13770,16 @@
     "sha256": "b9f68694971f6dfdb4a3d9a6ab648698267f440b7fbc019db3c7d2eb18fe7faa"
   },
   {
+    "path": "Production/Websites/library/6d9497f21b49b0e8.jpg",
+    "size": 2232867,
+    "sha256": "b1d8cb8456cf2e64a3351097b059e63d961aba6f21fd3e7cd641ec6c1b918e0a"
+  },
+  {
+    "path": "Production/Websites/library/6d9497f21b49b0e8.webp",
+    "size": 79272,
+    "sha256": "94f271cdeb1df7e61d1c200c568b7b9693946e19ced0be745b9b938d52a44020"
+  },
+  {
     "path": "Production/Websites/library/6decc48ff17be770.jpg",
     "size": 2356665,
     "sha256": "2b60bddf141002ebda268a1ba05556b8e4b678120dbe955221e514dde3ff6796"
@@ -13383,6 +13798,16 @@
     "path": "Production/Websites/library/6f7e93070e785fda.mp3",
     "size": 22612,
     "sha256": "6f7e93070e785fda1049f7d988e313bb428809f090e055af1a79c0f2b9f64910"
+  },
+  {
+    "path": "Production/Websites/library/6f89189f932c4110.jpg",
+    "size": 2788047,
+    "sha256": "0341fd8792c8ef1151419f5f08e089e3e2685acd1092c91288cca0a1874f50af"
+  },
+  {
+    "path": "Production/Websites/library/6f89189f932c4110.webp",
+    "size": 74428,
+    "sha256": "60c4be1ac621638ebc883493b80eaec2709d39b3d061dfab43d828bdfea4211c"
   },
   {
     "path": "Production/Websites/library/6f9fc4ce9167a402.jpg",
@@ -13413,6 +13838,16 @@
     "path": "Production/Websites/library/70ef947bc68c9e41.webp",
     "size": 42160,
     "sha256": "a9db4b2e3c19787e1291e3b05bb50ed4865fb52d7a66edb69e31ce483f0103cf"
+  },
+  {
+    "path": "Production/Websites/library/721045f9acb3c920.jpg",
+    "size": 2550163,
+    "sha256": "73851ecf1252248165af88b20ca17cc8369d6bd6c8bbb6f197dbb2a786388369"
+  },
+  {
+    "path": "Production/Websites/library/721045f9acb3c920.webp",
+    "size": 84252,
+    "sha256": "ff4ee253bf8c7d7c3435f07018eb4a63683430168d89f36a248dcfa6bbe1c264"
   },
   {
     "path": "Production/Websites/library/72576fff3fefba39.jpg",
@@ -13640,6 +14075,16 @@
     "sha256": "fe20e44947be0a802b31e742ad3ea2e6221928106ec446548e8e6530068a6d0a"
   },
   {
+    "path": "Production/Websites/library/913955c2d7aea9ca.jpg",
+    "size": 2354676,
+    "sha256": "31ea527ae082c09372a8742748ae2a8343a8bf6accb1fb9090f6986ca01244ca"
+  },
+  {
+    "path": "Production/Websites/library/913955c2d7aea9ca.webp",
+    "size": 66424,
+    "sha256": "692e4cfdda4de468bdf0226aabda63f026c766807c303c275e6b9245906ec68d"
+  },
+  {
     "path": "Production/Websites/library/92199ee6b9c06e9e.mp3",
     "size": 31390,
     "sha256": "92199ee6b9c06e9e1c28645d14a852f09a9a6c4b525801db3aa3bcb8a3bb64d7"
@@ -13750,6 +14195,16 @@
     "sha256": "e5af3a7ba3bda9b01b99884b88281c47e393bd561fe465143a371b50d02ab9f9"
   },
   {
+    "path": "Production/Websites/library/9c788d42a6edacaa.jpg",
+    "size": 2263663,
+    "sha256": "7e92b8b6c0568d7dfeedd0cc126093bd217bd40e14bfb243f0fedfcd9c301e73"
+  },
+  {
+    "path": "Production/Websites/library/9c788d42a6edacaa.webp",
+    "size": 71818,
+    "sha256": "84aeb22c7749d1ca81045105cb3c395ebf601b142ecbf3428b1787ab75cd527d"
+  },
+  {
     "path": "Production/Websites/library/9ccf57446d209d87.jpg",
     "size": 2978457,
     "sha256": "589cf5fb7f98b5118eb7562a7705ac6a44a3e948ab3535e14d3046a09f76dc75"
@@ -13763,6 +14218,16 @@
     "path": "Production/Websites/library/9ccf57446d209d87.webp",
     "size": 89440,
     "sha256": "5a7a2b9d9759616b7d092772a449e989766f6f43a96ec26fe2842518a91c270b"
+  },
+  {
+    "path": "Production/Websites/library/9ee54471c3f2c7e5.jpg",
+    "size": 3863892,
+    "sha256": "68979e5f59a97fb2868ffbb160673366685a63836f48652a2debd3482a9d4b8d"
+  },
+  {
+    "path": "Production/Websites/library/9ee54471c3f2c7e5.webp",
+    "size": 97266,
+    "sha256": "212598d65f2f0a770c7371b3a5d7c3edb21aac92b2a7a4f50b0bebb9f17b85c8"
   },
   {
     "path": "Production/Websites/library/a09055fa02125aea.mp3",
@@ -13798,6 +14263,16 @@
     "path": "Production/Websites/library/a23590fe66ebce01.webp",
     "size": 54616,
     "sha256": "aee48cd404e5381ad6b7a32bdf8ca8d82ee4e2ffdac92a8bc06b4693ba0c7488"
+  },
+  {
+    "path": "Production/Websites/library/aa14f50276932f22.jpg",
+    "size": 2495086,
+    "sha256": "7b879f52e771c168b3d0f977cf502baa490530208f43fe4c5e18c3c7378e8cac"
+  },
+  {
+    "path": "Production/Websites/library/aa14f50276932f22.webp",
+    "size": 99760,
+    "sha256": "48bb9fc45f3bdce9723914078434276fba085ca1928e3ca0b08153f756028b60"
   },
   {
     "path": "Production/Websites/library/aafc818847c1406d.jpg",
@@ -13878,6 +14353,16 @@
     "path": "Production/Websites/library/b6ab6632e89b46c6.webp",
     "size": 45000,
     "sha256": "86e43dc34f3f13f456df8e54d7627448607df75e31eef5f08c5c97b43a1a84bf"
+  },
+  {
+    "path": "Production/Websites/library/b6d70ce436574aaf.jpg",
+    "size": 3282613,
+    "sha256": "72b6c774d26d5b512c64d0dd5d318b6494e1addf2f624cad480a9efc0e9d8fa1"
+  },
+  {
+    "path": "Production/Websites/library/b6d70ce436574aaf.webp",
+    "size": 105952,
+    "sha256": "23aa76cb48f798e1c4b9d7314fc11085a544dc102b099562038e3366fbccd7a4"
   },
   {
     "path": "Production/Websites/library/b9eadcb162d244b1.jpg",
@@ -13975,6 +14460,26 @@
     "sha256": "3f2e8695fff750a22f588b52ffbfbc7da358835447993076a1c55cd62e5751e7"
   },
   {
+    "path": "Production/Websites/library/c45b327edde54b65.jpg",
+    "size": 2055688,
+    "sha256": "99ed1edf1ab83889f876022f101eb4c85c0da32b06093e48184d1902ffe4d0c1"
+  },
+  {
+    "path": "Production/Websites/library/c45b327edde54b65.webp",
+    "size": 64290,
+    "sha256": "85ca6cbc3529608d2838ded19e6de77c30ce84d6d4ad4996ab153c22f46721d9"
+  },
+  {
+    "path": "Production/Websites/library/c4911297e102aa33.jpg",
+    "size": 2729101,
+    "sha256": "36079c6e1e3d9135543abf5fda35e87e64a19f2b595623d93995748cab64c696"
+  },
+  {
+    "path": "Production/Websites/library/c4911297e102aa33.webp",
+    "size": 85702,
+    "sha256": "6758d7bfbb49d8d55e4462d1d12605eb78e125091b6de5670acba33ba97c1a78"
+  },
+  {
     "path": "Production/Websites/library/c4ac0341a87d779e.mp3",
     "size": 74021,
     "sha256": "c4ac0341a87d779e74590b6917d333d8cad24a9a41a322100cfc0772f985fa90"
@@ -14010,6 +14515,16 @@
     "sha256": "738a7a7825dabaf729c79a7761a9795ad107420e7ba1aa8f6a56c46d937a2bf8"
   },
   {
+    "path": "Production/Websites/library/c77cd58102d5a4e9.jpg",
+    "size": 2642726,
+    "sha256": "bdd3b0f1f18d513b1df78bfe3b24b8695cb41ae335df8aae879d41d58bbd206c"
+  },
+  {
+    "path": "Production/Websites/library/c77cd58102d5a4e9.webp",
+    "size": 64286,
+    "sha256": "4e3b197503d0f4ab96c7b96533c38e1b46a3596715b567b3d675503259ced2da"
+  },
+  {
     "path": "Production/Websites/library/c7886914de916e00.jpg",
     "size": 1433371,
     "sha256": "f7f7c5a8d965dc5888f77f3edfeee67c7a934e45f470942493682d1d0d699937"
@@ -14018,6 +14533,16 @@
     "path": "Production/Websites/library/c7886914de916e00.webp",
     "size": 38018,
     "sha256": "40dd8a29c94adc93532b1b5e24546099da30467c907f72dc20fca203a4f32005"
+  },
+  {
+    "path": "Production/Websites/library/c7e7ae1b2ab941f5.jpg",
+    "size": 3385574,
+    "sha256": "6019800579d538e099a7814d8b6da44c9a1527f0c2d5d9a387e815977c9643bb"
+  },
+  {
+    "path": "Production/Websites/library/c7e7ae1b2ab941f5.webp",
+    "size": 97434,
+    "sha256": "207d501f229554280889c7ade0d1ae844bcf988f5cbab236c2b456c8db9fe2e5"
   },
   {
     "path": "Production/Websites/library/c830331d348befa2.mp3",
@@ -14055,11 +14580,6 @@
     "sha256": "f6dcf68918176e3e92e5bd7989f74721c92f75bdd51de7efd4e4657494ee1cb9"
   },
   {
-    "path": "Production/Websites/library/cdc6d5998fc4d777.mp3",
-    "size": 216545,
-    "sha256": "cdc6d5998fc4d7774d97e5ceb819e2d85c8e7d8796c9f7849b64e83cc2635b65"
-  },
-  {
     "path": "Production/Websites/library/ce7fbd909311958c.mp3",
     "size": 51452,
     "sha256": "ce7fbd909311958c17b5f282c69643c42c488135c37920ac1dd17548999880f5"
@@ -14078,6 +14598,16 @@
     "path": "Production/Websites/library/d006767f6e8dd0f9.webp",
     "size": 41006,
     "sha256": "c49891caffb0bec7678d27214ff46bccacfc877e56ef496c838c7124add7738e"
+  },
+  {
+    "path": "Production/Websites/library/d081dd59b4f1409c.jpg",
+    "size": 3410413,
+    "sha256": "da9d282e40f741c3f6859f5f8470de01b65e773483c90418ceba41794650ce73"
+  },
+  {
+    "path": "Production/Websites/library/d081dd59b4f1409c.webp",
+    "size": 115594,
+    "sha256": "a709a5c401a3c2c774707c0af75c50e812cbda7abc5b7a842c20658c7b6611eb"
   },
   {
     "path": "Production/Websites/library/d0c4b245ed3a3745.jpg",
@@ -14175,6 +14705,16 @@
     "sha256": "d9fbaee68ad9e5c3fbd29dc8b5d3f2ddea43441e5f74d6d4662b0cf67c7d5541"
   },
   {
+    "path": "Production/Websites/library/da74e25bca3ab718.jpg",
+    "size": 2582292,
+    "sha256": "bff6e0500ce67b6135ff900fcc27c8b8958b4cb6c956dfb1732d5b7ced9a9ca4"
+  },
+  {
+    "path": "Production/Websites/library/da74e25bca3ab718.webp",
+    "size": 79448,
+    "sha256": "963f73ed32c27249a73accc475c319bcbf552830e3a1a752d7a8d039514c97fc"
+  },
+  {
     "path": "Production/Websites/library/da9e9b230cb00baf.jpg",
     "size": 1231945,
     "sha256": "f028e4d6654d08124fb256eb6489868962b928e84147bf69d47f96d5879e3e5a"
@@ -14188,6 +14728,16 @@
     "path": "Production/Websites/library/da9e9b230cb00baf.webp",
     "size": 37518,
     "sha256": "b4875f7e2e441194b1f2a450bfc05e7259a44b964f5de076b1367fbb2a6098c6"
+  },
+  {
+    "path": "Production/Websites/library/dba89096c35e8cd5.jpg",
+    "size": 2083613,
+    "sha256": "f445310aeab9688c203c0bb85bc4b898c04c26c4650da10e649691b8c163d328"
+  },
+  {
+    "path": "Production/Websites/library/dba89096c35e8cd5.webp",
+    "size": 60986,
+    "sha256": "4ad8c6507bc5dd904dbd0beb3df3a1614d1243db9f718ae0920ed5991e700da6"
   },
   {
     "path": "Production/Websites/library/dc97cfe5c9eba591.jpg",
@@ -14235,9 +14785,29 @@
     "sha256": "512116f271605a9031a4eca98210d7dfe87a954b28edad1666dd6daa5ae2111d"
   },
   {
+    "path": "Production/Websites/library/e02d9d595ae49edb.jpg",
+    "size": 2481276,
+    "sha256": "5d1c438d4d9b6f51ed675a2134b0d5bb3b72967501c5dcd561d941f0cd93ddd4"
+  },
+  {
+    "path": "Production/Websites/library/e02d9d595ae49edb.webp",
+    "size": 72542,
+    "sha256": "ae21e2b50528cda0e5bf64240cea4fa6e8bc08ab60c5dc36583db6e103367ed0"
+  },
+  {
     "path": "Production/Websites/library/e1af245e3d6a37ac.mp3",
     "size": 671285,
     "sha256": "e1af245e3d6a37ac93b6c0ee1d8582c356b2dcecbae9bbc49ec2940a0286c051"
+  },
+  {
+    "path": "Production/Websites/library/e39163b80bbae2b6.jpg",
+    "size": 2090550,
+    "sha256": "e540aaa5a4aa0dbc5b18e0d9c1bcda0c928452b42beb93c8607dfb5f145a3331"
+  },
+  {
+    "path": "Production/Websites/library/e39163b80bbae2b6.webp",
+    "size": 52920,
+    "sha256": "05ff351f98f79be363dde9f709b9a79d6a179c4d7a3b6541a94abb955847446a"
   },
   {
     "path": "Production/Websites/library/e39d19829b3a3c47.jpg",
@@ -14385,9 +14955,19 @@
     "sha256": "fd5f566859105b8b53dc79df6d6560e5297dfec5b4426d276142f9af867f00fd"
   },
   {
-    "path": "Production/Websites/library/fdb427a8bf3acb2d.mp3",
-    "size": 226158,
-    "sha256": "fdb427a8bf3acb2d4fec7ec48a851608fc079defc76b6f60bac17b9719e3b6b8"
+    "path": "Production/Websites/library/ff944d3ef816c818.jpg",
+    "size": 2775700,
+    "sha256": "68ea1e54bff990bcef47d9df2f0910ec068eb0eda8264dd24afc1334970808d6"
+  },
+  {
+    "path": "Production/Websites/library/ff944d3ef816c818.webp",
+    "size": 84616,
+    "sha256": "e80b9fd9addad6a9ae5c7e80c883a0a3388084eac305eb474e54f9d5b62bd326"
+  },
+  {
+    "path": "Production/Websites/pilot.json",
+    "size": 959067,
+    "sha256": "63d020da64ddfbedad0cf077a7d6aec606aecb42c250c972f49a1c4cc8efd862"
   },
   {
     "path": "Production/Websites/README.md",
@@ -14406,13 +14986,13 @@
   },
   {
     "path": "Production/Websites/static/site.css",
-    "size": 6826,
-    "sha256": "5f3c5b9e8533b9b31c7858fc0d08df1b4442ceeb2c56a6c82d6d65716ef8dc2a"
+    "size": 9158,
+    "sha256": "5e937b1f7138d37da1249c624956e67b5cb86165cb96e27a73f20ec271eb0664"
   },
   {
     "path": "Production/Websites/static/site.js",
-    "size": 457,
-    "sha256": "8e8d1067472bef1cb82ce4b83832d2590308fd6fc4b25c8ea13438e9d5ec6be7"
+    "size": 711,
+    "sha256": "9348490e37770033d721f791645550fed8ed344c8dc59a2bc731d398e46cfd83"
   },
   {
     "path": "Production/Websites/static/trailer.mp4",
@@ -14426,8 +15006,8 @@
   },
   {
     "path": "Production/Websites/templates/audio.html",
-    "size": 1315,
-    "sha256": "b0e07a1c5c84c4e83a674caedd896c0bc605434ac7723cca2bf7e00883890fa9"
+    "size": 1377,
+    "sha256": "5a24af32d68b019746062020e715b169c44ccd7c635260582f86c7c83bab3555"
   },
   {
     "path": "Production/Websites/templates/auth.html",
@@ -14441,8 +15021,8 @@
   },
   {
     "path": "Production/Websites/templates/episodes.html",
-    "size": 978,
-    "sha256": "e75201d6c5a3284339b61c5e9c46a17cef3f5d9306b1bfcb8ed6ad1f6bdb7f22"
+    "size": 1145,
+    "sha256": "04583c41f32022b84c4085f3cc7791409c7c351cfe47fcae7dc78787a43b07a9"
   },
   {
     "path": "Production/Websites/templates/error.html",
@@ -14455,19 +15035,34 @@
     "sha256": "4251ca5d0704477c7a33c2726a83251ccb471bae5f0a25ad0526930d87b46759"
   },
   {
+    "path": "Production/Websites/templates/pilot.html",
+    "size": 7474,
+    "sha256": "1fd7aac8a592ee1937ddaf35ec200bb9d86aad05fc983743178f8572e07c6c83"
+  },
+  {
     "path": "Production/Websites/templates/privacy.html",
     "size": 905,
     "sha256": "6e2dcb544fd7c9ca9b551212cf66a242d5162f102d2c7e69db79b41dca62c3a4"
   },
   {
     "path": "Production/Websites/templates/studio.html",
-    "size": 2027,
-    "sha256": "028bf94882b137233d733795e850bd40ff54eba1c0181c41a8b51ac544736b91"
+    "size": 2065,
+    "sha256": "8ccefb3b30577a0fb1912c5a8a28f3df7795e9b20cd5b8c8fb7f1d4ee1354f3a"
+  },
+  {
+    "path": "Production/Websites/templates/voices.html",
+    "size": 1475,
+    "sha256": "9ba9f52552eddbca63ccb97e4d8d9dfb57d3ec11ed5e85fb6fbdc13369dad84a"
   },
   {
     "path": "Production/Websites/templates/watch.html",
     "size": 739,
     "sha256": "a8c651afc74224afd2be1e859049f3fa304a5f65ab70a7935b7aeb9ddc27492a"
+  },
+  {
+    "path": "Production/Websites/voices.json",
+    "size": 11648,
+    "sha256": "478ef52d86d9116a19bf21914bda8e6e4a8382bd67aee04d7f015f9c63c9392d"
   },
   {
     "path": "Outputs/Trailer/intro.mp4",

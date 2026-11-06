@@ -1,0 +1,14 @@
+{
+  "scenes": 24,
+  "shots": 145,
+  "dialogue_lines": 222,
+  "spoken_words": 2082,
+  "recorded_lines": 39,
+  "runtime_seconds": 1200,
+  "timeline_gaps": 0,
+  "timeline_overlaps": 0,
+  "unmapped_lines": 0,
+  "dialogue_cues_outside_shots": 0,
+  "scene1_approved_audio_timing_preserved": true,
+  "timing_is_provisional_until_recorded_and_animated": true
+}

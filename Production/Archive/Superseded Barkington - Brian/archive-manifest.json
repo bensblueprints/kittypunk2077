@@ -1,0 +1,147 @@
+{
+  "reason": "User approved Matthew and requested old Barkington removed from active production",
+  "old_active_audio": [
+    {
+      "id": "cdc6d5998fc4d777",
+      "title": "S03-D01-chairman_barkington-take001 \u2014 earlier performance, superseded for review",
+      "scene": "Scene03"
+    },
+    {
+      "id": "132a5aa26542fcd8",
+      "title": "S03-D01-chairman_barkington-villain-controlled-v2",
+      "scene": "Scene03",
+      "text": "Citizens of Districts Seven through Twelve. Due to an unprecedented salmon supply emergency, you are advised to acquire no less than thirty days of fresh salmon immediately. Goodboy Global thanks you for your obedience.",
+      "duration_sec": 13.699773,
+      "kind": "take",
+      "variant": "villain-controlled-v2"
+    },
+    {
+      "id": "fdb427a8bf3acb2d",
+      "title": "S03-D01-chairman_barkington-villain-directed-v3",
+      "scene": "Scene03",
+      "text": "Citizens of Districts Seven through Twelve. Due to an unprecedented salmon supply emergency, you are advised to acquire no less than thirty days of fresh salmon immediately. Goodboy Global thanks you for your obedience.",
+      "duration_sec": 14.08,
+      "kind": "take",
+      "variant": "villain-directed-v3"
+    }
+  ],
+  "moved_files": [
+    {
+      "original": "Voices\\Pilot Round 2\\Scene03\\S03-D01-chairman_barkington-villain-controlled-v2-alignment.json",
+      "archive": "Archive\\Superseded Barkington - Brian\\Voices\\Pilot Round 2\\Scene03\\S03-D01-chairman_barkington-villain-controlled-v2-alignment.json"
+    },
+    {
+      "original": "Voices\\Pilot Round 2\\Scene03\\S03-D01-chairman_barkington-villain-controlled-v2.json",
+      "archive": "Archive\\Superseded Barkington - Brian\\Voices\\Pilot Round 2\\Scene03\\S03-D01-chairman_barkington-villain-controlled-v2.json"
+    },
+    {
+      "original": "Voices\\Pilot Round 2\\Scene03\\S03-D01-chairman_barkington-villain-controlled-v2.mp3",
+      "archive": "Archive\\Superseded Barkington - Brian\\Voices\\Pilot Round 2\\Scene03\\S03-D01-chairman_barkington-villain-controlled-v2.mp3"
+    },
+    {
+      "original": "Voices\\Pilot Round 2\\Scene03\\S03-D01-chairman_barkington-villain-controlled-v2.txt",
+      "archive": "Archive\\Superseded Barkington - Brian\\Voices\\Pilot Round 2\\Scene03\\S03-D01-chairman_barkington-villain-controlled-v2.txt"
+    },
+    {
+      "original": "Voices\\Pilot Round 2\\Scene03\\S03-D01-chairman_barkington-villain-directed-v3-alignment.json",
+      "archive": "Archive\\Superseded Barkington - Brian\\Voices\\Pilot Round 2\\Scene03\\S03-D01-chairman_barkington-villain-directed-v3-alignment.json"
+    },
+    {
+      "original": "Voices\\Pilot Round 2\\Scene03\\S03-D01-chairman_barkington-villain-directed-v3.json",
+      "archive": "Archive\\Superseded Barkington - Brian\\Voices\\Pilot Round 2\\Scene03\\S03-D01-chairman_barkington-villain-directed-v3.json"
+    },
+    {
+      "original": "Voices\\Pilot Round 2\\Scene03\\S03-D01-chairman_barkington-villain-directed-v3.mp3",
+      "archive": "Archive\\Superseded Barkington - Brian\\Voices\\Pilot Round 2\\Scene03\\S03-D01-chairman_barkington-villain-directed-v3.mp3"
+    },
+    {
+      "original": "Voices\\Pilot Round 2\\Scene03\\S03-D01-chairman_barkington-villain-directed-v3.txt",
+      "archive": "Archive\\Superseded Barkington - Brian\\Voices\\Pilot Round 2\\Scene03\\S03-D01-chairman_barkington-villain-directed-v3.txt"
+    },
+    {
+      "original": "Voices\\Opening Scenes\\Scene03\\S03-D01-chairman_barkington-take001-alignment.json",
+      "archive": "Archive\\Superseded Barkington - Brian\\Voices\\Opening Scenes\\Scene03\\S03-D01-chairman_barkington-take001-alignment.json"
+    },
+    {
+      "original": "Voices\\Opening Scenes\\Scene03\\S03-D01-chairman_barkington-take001.json",
+      "archive": "Archive\\Superseded Barkington - Brian\\Voices\\Opening Scenes\\Scene03\\S03-D01-chairman_barkington-take001.json"
+    },
+    {
+      "original": "Voices\\Opening Scenes\\Scene03\\S03-D01-chairman_barkington-take001.mp3",
+      "archive": "Archive\\Superseded Barkington - Brian\\Voices\\Opening Scenes\\Scene03\\S03-D01-chairman_barkington-take001.mp3"
+    },
+    {
+      "original": "Voices\\Opening Scenes\\Scene03\\S03-D01-chairman_barkington-take001.txt",
+      "archive": "Archive\\Superseded Barkington - Brian\\Voices\\Opening Scenes\\Scene03\\S03-D01-chairman_barkington-take001.txt"
+    },
+    {
+      "original": "Voices\\Auditions\\barkington\\barkington-brian.json",
+      "archive": "Archive\\Superseded Barkington - Brian\\Voices\\Auditions\\barkington\\barkington-brian.json"
+    },
+    {
+      "original": "Voices\\Auditions\\barkington\\barkington-brian.mp3",
+      "archive": "Archive\\Superseded Barkington - Brian\\Voices\\Auditions\\barkington\\barkington-brian.mp3"
+    },
+    {
+      "original": "Seasons\\Season 01\\Episode 01 - The Great Salmon Shortage\\Scenes\\Scene 03\\Audio\\S03-D01-chairman_barkington-take001-alignment.json",
+      "archive": "Archive\\Superseded Barkington - Brian\\Seasons\\Season 01\\Episode 01 - The Great Salmon Shortage\\Scenes\\Scene 03\\Audio\\S03-D01-chairman_barkington-take001-alignment.json"
+    },
+    {
+      "original": "Seasons\\Season 01\\Episode 01 - The Great Salmon Shortage\\Scenes\\Scene 03\\Audio\\S03-D01-chairman_barkington-take001.json",
+      "archive": "Archive\\Superseded Barkington - Brian\\Seasons\\Season 01\\Episode 01 - The Great Salmon Shortage\\Scenes\\Scene 03\\Audio\\S03-D01-chairman_barkington-take001.json"
+    },
+    {
+      "original": "Seasons\\Season 01\\Episode 01 - The Great Salmon Shortage\\Scenes\\Scene 03\\Audio\\S03-D01-chairman_barkington-take001.mp3",
+      "archive": "Archive\\Superseded Barkington - Brian\\Seasons\\Season 01\\Episode 01 - The Great Salmon Shortage\\Scenes\\Scene 03\\Audio\\S03-D01-chairman_barkington-take001.mp3"
+    },
+    {
+      "original": "Seasons\\Season 01\\Episode 01 - The Great Salmon Shortage\\Scenes\\Scene 03\\Audio\\S03-D01-chairman_barkington-take001.txt",
+      "archive": "Archive\\Superseded Barkington - Brian\\Seasons\\Season 01\\Episode 01 - The Great Salmon Shortage\\Scenes\\Scene 03\\Audio\\S03-D01-chairman_barkington-take001.txt"
+    },
+    {
+      "original": "Seasons\\Season 01\\Episode 01 - The Great Salmon Shortage\\Scenes\\Scene 03\\Audio\\Round 2\\S03-D01-chairman_barkington-villain-controlled-v2-alignment.json",
+      "archive": "Archive\\Superseded Barkington - Brian\\Seasons\\Season 01\\Episode 01 - The Great Salmon Shortage\\Scenes\\Scene 03\\Audio\\Round 2\\S03-D01-chairman_barkington-villain-controlled-v2-alignment.json"
+    },
+    {
+      "original": "Seasons\\Season 01\\Episode 01 - The Great Salmon Shortage\\Scenes\\Scene 03\\Audio\\Round 2\\S03-D01-chairman_barkington-villain-controlled-v2.json",
+      "archive": "Archive\\Superseded Barkington - Brian\\Seasons\\Season 01\\Episode 01 - The Great Salmon Shortage\\Scenes\\Scene 03\\Audio\\Round 2\\S03-D01-chairman_barkington-villain-controlled-v2.json"
+    },
+    {
+      "original": "Seasons\\Season 01\\Episode 01 - The Great Salmon Shortage\\Scenes\\Scene 03\\Audio\\Round 2\\S03-D01-chairman_barkington-villain-controlled-v2.mp3",
+      "archive": "Archive\\Superseded Barkington - Brian\\Seasons\\Season 01\\Episode 01 - The Great Salmon Shortage\\Scenes\\Scene 03\\Audio\\Round 2\\S03-D01-chairman_barkington-villain-controlled-v2.mp3"
+    },
+    {
+      "original": "Seasons\\Season 01\\Episode 01 - The Great Salmon Shortage\\Scenes\\Scene 03\\Audio\\Round 2\\S03-D01-chairman_barkington-villain-controlled-v2.txt",
+      "archive": "Archive\\Superseded Barkington - Brian\\Seasons\\Season 01\\Episode 01 - The Great Salmon Shortage\\Scenes\\Scene 03\\Audio\\Round 2\\S03-D01-chairman_barkington-villain-controlled-v2.txt"
+    },
+    {
+      "original": "Seasons\\Season 01\\Episode 01 - The Great Salmon Shortage\\Scenes\\Scene 03\\Audio\\Round 2\\S03-D01-chairman_barkington-villain-directed-v3-alignment.json",
+      "archive": "Archive\\Superseded Barkington - Brian\\Seasons\\Season 01\\Episode 01 - The Great Salmon Shortage\\Scenes\\Scene 03\\Audio\\Round 2\\S03-D01-chairman_barkington-villain-directed-v3-alignment.json"
+    },
+    {
+      "original": "Seasons\\Season 01\\Episode 01 - The Great Salmon Shortage\\Scenes\\Scene 03\\Audio\\Round 2\\S03-D01-chairman_barkington-villain-directed-v3.json",
+      "archive": "Archive\\Superseded Barkington - Brian\\Seasons\\Season 01\\Episode 01 - The Great Salmon Shortage\\Scenes\\Scene 03\\Audio\\Round 2\\S03-D01-chairman_barkington-villain-directed-v3.json"
+    },
+    {
+      "original": "Seasons\\Season 01\\Episode 01 - The Great Salmon Shortage\\Scenes\\Scene 03\\Audio\\Round 2\\S03-D01-chairman_barkington-villain-directed-v3.mp3",
+      "archive": "Archive\\Superseded Barkington - Brian\\Seasons\\Season 01\\Episode 01 - The Great Salmon Shortage\\Scenes\\Scene 03\\Audio\\Round 2\\S03-D01-chairman_barkington-villain-directed-v3.mp3"
+    },
+    {
+      "original": "Seasons\\Season 01\\Episode 01 - The Great Salmon Shortage\\Scenes\\Scene 03\\Audio\\Round 2\\S03-D01-chairman_barkington-villain-directed-v3.txt",
+      "archive": "Archive\\Superseded Barkington - Brian\\Seasons\\Season 01\\Episode 01 - The Great Salmon Shortage\\Scenes\\Scene 03\\Audio\\Round 2\\S03-D01-chairman_barkington-villain-directed-v3.txt"
+    },
+    {
+      "original": "Websites\\library\\132a5aa26542fcd8.mp3",
+      "archive": "Archive\\Superseded Barkington - Brian\\Websites\\library\\132a5aa26542fcd8.mp3"
+    },
+    {
+      "original": "Websites\\library\\cdc6d5998fc4d777.mp3",
+      "archive": "Archive\\Superseded Barkington - Brian\\Websites\\library\\cdc6d5998fc4d777.mp3"
+    },
+    {
+      "original": "Websites\\library\\fdb427a8bf3acb2d.mp3",
+      "archive": "Archive\\Superseded Barkington - Brian\\Websites\\library\\fdb427a8bf3acb2d.mp3"
+    }
+  ],
+  "replacement_voice_id": "bwCXcoVxWNYMlC6Esa8u"
+}

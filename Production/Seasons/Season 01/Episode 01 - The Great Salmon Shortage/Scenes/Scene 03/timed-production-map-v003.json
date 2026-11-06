@@ -1,0 +1,1052 @@
+{
+  "number": 3,
+  "title": "Barkington's Emergency Broadcast",
+  "start": "02:00",
+  "end": "03:05",
+  "duration_seconds": 65,
+  "source_location": "TV broadcast",
+  "location_ids": [
+    "LOC02",
+    "LOC13"
+  ],
+  "staging": "Scene 03 — Barkington's Emergency Broadcast\n\n02:00–03:05 · 65 sec · TV broadcast\n\nChief Barkington Orders appears, declaring a national salmon emergency affecting Districts 7–12. The corporate broadcast advises cats to secure a month's worth of fresh salmon immediately.\n\nShots: CRT news graphic → Barkington medium shot → salmon shortage map → extreme close-up of his smug expression → crew reaction inserts.",
+  "sound": "",
+  "lines": [
+    {
+      "id": "S03-D01",
+      "speaker": "Barkington",
+      "text": "Citizens of Districts Seven through Twelve. Due to an unprecedented salmon supply emergency, you are advised to acquire no less than thirty days of fresh salmon immediately. Goodboy Global thanks you for your obedience.",
+      "takes": [
+        {
+          "id": "50cd626442b36bd7",
+          "title": "S03-D01-barkington-Matthew-current",
+          "scene": "Scene03",
+          "text": "Citizens of Districts Seven through Twelve. Due to an unprecedented salmon supply emergency, you are advised to acquire no less than thirty days of fresh salmon immediately. Goodboy Global thanks you for your obedience.",
+          "duration_sec": 17.507846,
+          "kind": "take",
+          "variant": "current approved voice"
+        }
+      ],
+      "origin": "retained working script",
+      "recording_status": "review take available",
+      "start_sec": 125.574,
+      "end_sec": 143.082,
+      "start_tc": "02:05.574",
+      "end_tc": "02:23.082",
+      "shot_id": "S03-P02",
+      "timing_basis": "measured take; current user-approved voice",
+      "role_id": "chairman_barkington",
+      "voice_id": "bwCXcoVxWNYMlC6Esa8u",
+      "voice_name": "Matthew Schmitz - Gravel, Deep Anti-Hero"
+    },
+    {
+      "id": "S03-N01",
+      "speaker": "Neon",
+      "text": "Seven through Twelve. Why are the first six districts missing from that map?",
+      "takes": [],
+      "origin": "new production draft v003; not yet recorded",
+      "recording_status": "not recorded",
+      "start_sec": 144.994,
+      "end_sec": 150.194,
+      "start_tc": "02:24.994",
+      "end_tc": "02:30.194",
+      "shot_id": "S03-P03",
+      "timing_basis": "estimate at 150 words/minute; replace after recording",
+      "role_id": "neon",
+      "voice_id": "4e32WqNVWRquDa1OcRYZ",
+      "voice_name": "Ryan — Product Reviewer"
+    },
+    {
+      "id": "S03-N02",
+      "speaker": "Ghost",
+      "text": "Save the broadcast. The original file, with the time on it.",
+      "takes": [],
+      "origin": "new production draft v003; not yet recorded",
+      "recording_status": "not recorded",
+      "start_sec": 150.394,
+      "end_sec": 154.794,
+      "start_tc": "02:30.394",
+      "end_tc": "02:34.794",
+      "shot_id": "S03-P03",
+      "timing_basis": "estimate at 150 words/minute; replace after recording",
+      "role_id": "ghost",
+      "voice_id": "7fBwqIVI6wI1B4MuKqQi",
+      "voice_name": "Austin — Upbeat"
+    },
+    {
+      "id": "S03-D02",
+      "speaker": "Byte",
+      "text": "Thirty days? I can't afford thirty minutes.",
+      "takes": [
+        {
+          "id": "2a856c2ddfb3552a",
+          "title": "S03-D02-byte-take001",
+          "scene": "Scene03"
+        }
+      ],
+      "origin": "retained working script",
+      "recording_status": "review take available",
+      "start_sec": 156.706,
+      "end_sec": 159.028,
+      "start_tc": "02:36.706",
+      "end_tc": "02:39.028",
+      "shot_id": "S03-P04",
+      "timing_basis": "measured review take",
+      "role_id": "byte",
+      "voice_id": "wo6udizrrtpIxWGp2qJk",
+      "voice_name": "Northern Terry"
+    },
+    {
+      "id": "S03-D03",
+      "speaker": "Trixie",
+      "text": "Something smells fishy.",
+      "takes": [
+        {
+          "id": "c830331d348befa2",
+          "title": "S03-D03-trixie-take001",
+          "scene": "Scene03"
+        }
+      ],
+      "origin": "retained working script",
+      "recording_status": "review take available",
+      "start_sec": 159.228,
+      "end_sec": 160.621,
+      "start_tc": "02:39.228",
+      "end_tc": "02:40.621",
+      "shot_id": "S03-P04",
+      "timing_basis": "measured review take",
+      "role_id": "trixie",
+      "voice_id": "dmWfLQZJq7wNPv9WmtiM",
+      "voice_name": "Emma — Wry, Gritty Hero"
+    },
+    {
+      "id": "S03-D04",
+      "speaker": "Onyx",
+      "text": "It's literally fish.",
+      "takes": [
+        {
+          "id": "570ba44dbfead2b1",
+          "title": "S03-D04-onyx-take001",
+          "scene": "Scene03"
+        }
+      ],
+      "origin": "retained working script",
+      "recording_status": "review take available",
+      "start_sec": 160.821,
+      "end_sec": 162.214,
+      "start_tc": "02:40.821",
+      "end_tc": "02:42.214",
+      "shot_id": "S03-P04",
+      "timing_basis": "measured review take",
+      "role_id": "onyx",
+      "voice_id": "uq0HIbNZKn11Hs5ifEdd",
+      "voice_name": "Harry — Fierce Warrior"
+    },
+    {
+      "id": "S03-N03",
+      "speaker": "Trixie",
+      "text": "We check the shop before we believe any of this.",
+      "takes": [],
+      "origin": "new production draft v003; not yet recorded",
+      "recording_status": "not recorded",
+      "start_sec": 164.126,
+      "end_sec": 168.126,
+      "start_tc": "02:44.126",
+      "end_tc": "02:48.126",
+      "shot_id": "S03-P05",
+      "timing_basis": "estimate at 150 words/minute; replace after recording",
+      "role_id": "trixie",
+      "voice_id": "dmWfLQZJq7wNPv9WmtiM",
+      "voice_name": "Emma — Wry, Gritty Hero"
+    },
+    {
+      "id": "S03-N04",
+      "speaker": "Byte",
+      "text": "With what money? The emergency does not come with an emergency wallet.",
+      "takes": [],
+      "origin": "new production draft v003; not yet recorded",
+      "recording_status": "not recorded",
+      "start_sec": 168.326,
+      "end_sec": 173.126,
+      "start_tc": "02:48.326",
+      "end_tc": "02:53.126",
+      "shot_id": "S03-P05",
+      "timing_basis": "estimate at 150 words/minute; replace after recording",
+      "role_id": "byte",
+      "voice_id": "wo6udizrrtpIxWGp2qJk",
+      "voice_name": "Northern Terry"
+    },
+    {
+      "id": "S03-N05",
+      "speaker": "Trixie",
+      "text": "Bring your scanner. We need prices, not another argument.",
+      "takes": [],
+      "origin": "new production draft v003; not yet recorded",
+      "recording_status": "not recorded",
+      "start_sec": 175.038,
+      "end_sec": 178.638,
+      "start_tc": "02:55.038",
+      "end_tc": "02:58.638",
+      "shot_id": "S03-P06",
+      "timing_basis": "estimate at 150 words/minute; replace after recording",
+      "role_id": "trixie",
+      "voice_id": "dmWfLQZJq7wNPv9WmtiM",
+      "voice_name": "Emma — Wry, Gritty Hero"
+    },
+    {
+      "id": "S03-N06",
+      "speaker": "Onyx",
+      "text": "I will keep the others here. Tell us what you find.",
+      "takes": [],
+      "origin": "new production draft v003; not yet recorded",
+      "recording_status": "not recorded",
+      "start_sec": 178.838,
+      "end_sec": 183.238,
+      "start_tc": "02:58.838",
+      "end_tc": "03:03.238",
+      "shot_id": "S03-P06",
+      "timing_basis": "estimate at 150 words/minute; replace after recording",
+      "role_id": "onyx",
+      "voice_id": "uq0HIbNZKn11Hs5ifEdd",
+      "voice_name": "Harry — Fierce Warrior"
+    }
+  ],
+  "shots": [
+    {
+      "shot_id": "S03-B01",
+      "description": "CRT news graphic",
+      "status": "source shot beat; detailed shot duration and coverage pending",
+      "duration_seconds": null
+    },
+    {
+      "shot_id": "S03-B02",
+      "description": "Barkington medium shot",
+      "status": "source shot beat; detailed shot duration and coverage pending",
+      "duration_seconds": null
+    },
+    {
+      "shot_id": "S03-B03",
+      "description": "salmon shortage map",
+      "status": "source shot beat; detailed shot duration and coverage pending",
+      "duration_seconds": null
+    },
+    {
+      "shot_id": "S03-B04",
+      "description": "extreme close-up of his smug expression",
+      "status": "source shot beat; detailed shot duration and coverage pending",
+      "duration_seconds": null
+    },
+    {
+      "shot_id": "S03-B05",
+      "description": "crew reaction inserts.",
+      "status": "source shot beat; detailed shot duration and coverage pending",
+      "duration_seconds": null
+    }
+  ],
+  "locations": [
+    {
+      "id": "9ccf57446d209d87",
+      "title": "LOC02 - Resistance warehouse lounge",
+      "category": "Locations",
+      "group": "Cats",
+      "file": "LOC02-resistance-warehouse-lounge-gpt26-v001.png",
+      "source": "Locations\\Cats\\LOC02 - Resistance warehouse lounge\\Reference Sheets\\LOC02-resistance-warehouse-lounge-gpt26-v001.png",
+      "voice": ""
+    },
+    {
+      "id": "9929f26bee75cac0",
+      "title": "LOC13 - WOOF7 news studio",
+      "category": "Locations",
+      "group": "Dogs",
+      "file": "LOC13-woof7-news-studio-gpt26-v001.png",
+      "source": "Locations\\Dogs\\LOC13 - WOOF7 news studio\\Reference Sheets\\LOC13-woof7-news-studio-gpt26-v001.png",
+      "voice": ""
+    }
+  ],
+  "frames": [
+    {
+      "id": "c45b327edde54b65",
+      "title": "S03A — reference frame (review draft)",
+      "scene": 3
+    },
+    {
+      "id": "1a6976232ac04b99",
+      "title": "S03B — reference frame (review draft)",
+      "scene": 3
+    },
+    {
+      "id": "2a11944ad13f9541",
+      "title": "S03C — reference frame (review draft)",
+      "scene": 3
+    },
+    {
+      "id": "913955c2d7aea9ca",
+      "title": "S03D — reference frame (review draft)",
+      "scene": 3
+    },
+    {
+      "id": "e02d9d595ae49edb",
+      "title": "S03E — reference frame (review draft)",
+      "scene": 3
+    },
+    {
+      "id": "3f2f426a88e5c789",
+      "title": "S03F — reference frame (review draft)",
+      "scene": 3
+    },
+    {
+      "id": "dba89096c35e8cd5",
+      "title": "S03G — reference frame (review draft)",
+      "scene": 3
+    }
+  ],
+  "assemblies": [],
+  "timed_shots": [
+    {
+      "shot_id": "S03-P01",
+      "camera_action": "TV BOX centered: Goodboy Global emergency ident, no game HUD.",
+      "sound_transition": "Short corporate sting; CRT hiss retained.",
+      "dialogue_ids": [],
+      "start_sec": 120,
+      "end_sec": 125.424,
+      "duration_sec": 5.424,
+      "scene_start_sec": 0,
+      "scene_end_sec": 5.424,
+      "start_tc": "02:00.000",
+      "end_tc": "02:05.424",
+      "status": "editorial plan; animation not yet produced",
+      "asset_requirements": {
+        "locations": [
+          "LOC02",
+          "LOC13"
+        ],
+        "existing_reference_count": 9,
+        "new_image_needed": "camera-specific review still or approved matching frame; audit before generating",
+        "animation": "not generated; Higgsfield is for stills only",
+        "audio": "ElevenLabs dialogue, separate room tone/foley/music mix",
+        "special": "Gameplay and broadcast content must stay inside the existing TV glass, with bezel/knobs and living-room continuity intact."
+      },
+      "speaking_roles": [],
+      "reference_pack": [
+        {
+          "id": "9ccf57446d209d87",
+          "title": "LOC02 - Resistance warehouse lounge",
+          "url": "/library/9ccf57446d209d87.jpg",
+          "purpose": "Primary set geometry"
+        },
+        {
+          "id": "6d9497f21b49b0e8",
+          "title": "SET01-lounge-rear-master-gpt26-v001",
+          "url": "/library/6d9497f21b49b0e8.jpg",
+          "purpose": "Camera-side layout"
+        },
+        {
+          "id": "ca01123b7a27adb2",
+          "title": "PROP01-hideout-crt-television-v001",
+          "url": "/library/ca01123b7a27adb2.jpg",
+          "purpose": "Visible prop"
+        }
+      ],
+      "reference_pack_count": 3,
+      "reference_overflow": [],
+      "wan_plan": {
+        "model": "WAN 3.0 Prime",
+        "provider": "awaiting provider confirmation",
+        "mode": "single composed first-frame image-to-video",
+        "upload_image_count": 1,
+        "first_frame_status": "needs shot-specific composition and review",
+        "first_frame_id": null,
+        "reference_mode_cap": 10,
+        "cap_status": "documented by Runway and Wan API; target provider still to confirm",
+        "reference_mode_sources": [
+          "https://dev.runwayml.com/learn/wan-3-0-api",
+          "https://wanapi.app/docs/wan-3-0-prime"
+        ],
+        "audio": false,
+        "audio_policy": "Use the existing/approved ElevenLabs tracks in the edit. Do not generate replacement speech.",
+        "requested_duration_seconds": 6,
+        "edit_duration_seconds": 5.424,
+        "note": "Source reference pack is for preparing the still. Upload ONE approved composed frame to WAN; do not mix it with this whole reference pack. Trim generated clip to editorial duration; do not stretch speech."
+      }
+    },
+    {
+      "shot_id": "S03-P02",
+      "camera_action": "Barkington medium within TV glass; black-and-tan Doberman, black/gold coat, controlled threatening stillness.",
+      "sound_transition": "Barkington new Matthew audition pending selection; quiet corporate bed.",
+      "dialogue_ids": [
+        "S03-D01"
+      ],
+      "start_sec": 125.424,
+      "end_sec": 144.844,
+      "duration_sec": 19.42,
+      "scene_start_sec": 5.424,
+      "scene_end_sec": 24.844,
+      "start_tc": "02:05.424",
+      "end_tc": "02:24.844",
+      "status": "editorial plan; animation not yet produced",
+      "asset_requirements": {
+        "locations": [
+          "LOC02",
+          "LOC13"
+        ],
+        "existing_reference_count": 9,
+        "new_image_needed": "camera-specific review still or approved matching frame; audit before generating",
+        "animation": "not generated; Higgsfield is for stills only",
+        "audio": "ElevenLabs dialogue, separate room tone/foley/music mix",
+        "special": "Gameplay and broadcast content must stay inside the existing TV glass, with bezel/knobs and living-room continuity intact."
+      },
+      "speaking_roles": [
+        "chairman_barkington"
+      ],
+      "reference_pack": [
+        {
+          "id": "9ccf57446d209d87",
+          "title": "LOC02 - Resistance warehouse lounge",
+          "url": "/library/9ccf57446d209d87.jpg",
+          "purpose": "Primary set geometry"
+        },
+        {
+          "id": "6d9497f21b49b0e8",
+          "title": "SET01-lounge-rear-master-gpt26-v001",
+          "url": "/library/6d9497f21b49b0e8.jpg",
+          "purpose": "Camera-side layout"
+        },
+        {
+          "id": "562eac0bfb4963cd",
+          "title": "Barkington Orders",
+          "url": "/library/562eac0bfb4963cd.jpg",
+          "purpose": "Visible character identity / framing context; do not render offscreen speakers"
+        },
+        {
+          "id": "ca01123b7a27adb2",
+          "title": "PROP01-hideout-crt-television-v001",
+          "url": "/library/ca01123b7a27adb2.jpg",
+          "purpose": "Visible prop"
+        }
+      ],
+      "reference_pack_count": 4,
+      "reference_overflow": [],
+      "wan_plan": {
+        "model": "WAN 3.0 Prime",
+        "provider": "awaiting provider confirmation",
+        "mode": "single composed first-frame image-to-video",
+        "upload_image_count": 1,
+        "first_frame_status": "needs shot-specific composition and review",
+        "first_frame_id": null,
+        "reference_mode_cap": 10,
+        "cap_status": "documented by Runway and Wan API; target provider still to confirm",
+        "reference_mode_sources": [
+          "https://dev.runwayml.com/learn/wan-3-0-api",
+          "https://wanapi.app/docs/wan-3-0-prime"
+        ],
+        "audio": false,
+        "audio_policy": "Use the existing/approved ElevenLabs tracks in the edit. Do not generate replacement speech.",
+        "requested_duration_seconds": 20,
+        "edit_duration_seconds": 19.42,
+        "note": "Source reference pack is for preparing the still. Upload ONE approved composed frame to WAN; do not mix it with this whole reference pack. Trim generated clip to editorial duration; do not stretch speech."
+      }
+    },
+    {
+      "shot_id": "S03-P03",
+      "camera_action": "TV BOX shifts to map highlighting Districts 7–12 only; cut reaction Neon and Ghost.",
+      "sound_transition": "Broadcast continues as low room tone; save-click.",
+      "dialogue_ids": [
+        "S03-N01",
+        "S03-N02"
+      ],
+      "start_sec": 144.844,
+      "end_sec": 156.556,
+      "duration_sec": 11.712,
+      "scene_start_sec": 24.844,
+      "scene_end_sec": 36.556,
+      "start_tc": "02:24.844",
+      "end_tc": "02:36.556",
+      "status": "editorial plan; animation not yet produced",
+      "asset_requirements": {
+        "locations": [
+          "LOC02",
+          "LOC13"
+        ],
+        "existing_reference_count": 9,
+        "new_image_needed": "camera-specific review still or approved matching frame; audit before generating",
+        "animation": "not generated; Higgsfield is for stills only",
+        "audio": "ElevenLabs dialogue, separate room tone/foley/music mix",
+        "special": "Gameplay and broadcast content must stay inside the existing TV glass, with bezel/knobs and living-room continuity intact."
+      },
+      "speaking_roles": [
+        "ghost",
+        "neon"
+      ],
+      "reference_pack": [
+        {
+          "id": "9ccf57446d209d87",
+          "title": "LOC02 - Resistance warehouse lounge",
+          "url": "/library/9ccf57446d209d87.jpg",
+          "purpose": "Primary set geometry"
+        },
+        {
+          "id": "6d9497f21b49b0e8",
+          "title": "SET01-lounge-rear-master-gpt26-v001",
+          "url": "/library/6d9497f21b49b0e8.jpg",
+          "purpose": "Camera-side layout"
+        },
+        {
+          "id": "61dc338e08cb2385",
+          "title": "Ghost",
+          "url": "/library/61dc338e08cb2385.jpg",
+          "purpose": "Visible character identity / framing context; do not render offscreen speakers"
+        },
+        {
+          "id": "c59f876dfb3540bb",
+          "title": "Neon",
+          "url": "/library/c59f876dfb3540bb.jpg",
+          "purpose": "Visible character identity / framing context; do not render offscreen speakers"
+        },
+        {
+          "id": "ca01123b7a27adb2",
+          "title": "PROP01-hideout-crt-television-v001",
+          "url": "/library/ca01123b7a27adb2.jpg",
+          "purpose": "Visible prop"
+        }
+      ],
+      "reference_pack_count": 5,
+      "reference_overflow": [],
+      "wan_plan": {
+        "model": "WAN 3.0 Prime",
+        "provider": "awaiting provider confirmation",
+        "mode": "single composed first-frame image-to-video",
+        "upload_image_count": 1,
+        "first_frame_status": "needs shot-specific composition and review",
+        "first_frame_id": null,
+        "reference_mode_cap": 10,
+        "cap_status": "documented by Runway and Wan API; target provider still to confirm",
+        "reference_mode_sources": [
+          "https://dev.runwayml.com/learn/wan-3-0-api",
+          "https://wanapi.app/docs/wan-3-0-prime"
+        ],
+        "audio": false,
+        "audio_policy": "Use the existing/approved ElevenLabs tracks in the edit. Do not generate replacement speech.",
+        "requested_duration_seconds": 12,
+        "edit_duration_seconds": 11.712,
+        "note": "Source reference pack is for preparing the still. Upload ONE approved composed frame to WAN; do not mix it with this whole reference pack. Trim generated clip to editorial duration; do not stretch speech."
+      }
+    },
+    {
+      "shot_id": "S03-P04",
+      "camera_action": "Byte checks almost-empty wallet while Trixie watches the TV.",
+      "sound_transition": "Small pocket/coin sounds; hold comic reaction.",
+      "dialogue_ids": [
+        "S03-D02",
+        "S03-D03",
+        "S03-D04"
+      ],
+      "start_sec": 156.556,
+      "end_sec": 163.976,
+      "duration_sec": 7.42,
+      "scene_start_sec": 36.556,
+      "scene_end_sec": 43.976,
+      "start_tc": "02:36.556",
+      "end_tc": "02:43.976",
+      "status": "editorial plan; animation not yet produced",
+      "asset_requirements": {
+        "locations": [
+          "LOC02",
+          "LOC13"
+        ],
+        "existing_reference_count": 9,
+        "new_image_needed": "camera-specific review still or approved matching frame; audit before generating",
+        "animation": "not generated; Higgsfield is for stills only",
+        "audio": "ElevenLabs dialogue, separate room tone/foley/music mix",
+        "special": "Gameplay and broadcast content must stay inside the existing TV glass, with bezel/knobs and living-room continuity intact."
+      },
+      "speaking_roles": [
+        "byte",
+        "onyx",
+        "trixie"
+      ],
+      "reference_pack": [
+        {
+          "id": "9ccf57446d209d87",
+          "title": "LOC02 - Resistance warehouse lounge",
+          "url": "/library/9ccf57446d209d87.jpg",
+          "purpose": "Primary set geometry"
+        },
+        {
+          "id": "6d9497f21b49b0e8",
+          "title": "SET01-lounge-rear-master-gpt26-v001",
+          "url": "/library/6d9497f21b49b0e8.jpg",
+          "purpose": "Camera-side layout"
+        },
+        {
+          "id": "51c0358d041cc3ba",
+          "title": "Trixie - CatGirl",
+          "url": "/library/51c0358d041cc3ba.jpg",
+          "purpose": "Visible character identity / framing context; do not render offscreen speakers"
+        },
+        {
+          "id": "a23590fe66ebce01",
+          "title": "Byte",
+          "url": "/library/a23590fe66ebce01.jpg",
+          "purpose": "Visible character identity / framing context; do not render offscreen speakers"
+        },
+        {
+          "id": "8ac469710ff37bec",
+          "title": "Onyx",
+          "url": "/library/8ac469710ff37bec.jpg",
+          "purpose": "Visible character identity / framing context; do not render offscreen speakers"
+        },
+        {
+          "id": "ca01123b7a27adb2",
+          "title": "PROP01-hideout-crt-television-v001",
+          "url": "/library/ca01123b7a27adb2.jpg",
+          "purpose": "Visible prop"
+        }
+      ],
+      "reference_pack_count": 6,
+      "reference_overflow": [],
+      "wan_plan": {
+        "model": "WAN 3.0 Prime",
+        "provider": "awaiting provider confirmation",
+        "mode": "single composed first-frame image-to-video",
+        "upload_image_count": 1,
+        "first_frame_status": "needs shot-specific composition and review",
+        "first_frame_id": null,
+        "reference_mode_cap": 10,
+        "cap_status": "documented by Runway and Wan API; target provider still to confirm",
+        "reference_mode_sources": [
+          "https://dev.runwayml.com/learn/wan-3-0-api",
+          "https://wanapi.app/docs/wan-3-0-prime"
+        ],
+        "audio": false,
+        "audio_policy": "Use the existing/approved ElevenLabs tracks in the edit. Do not generate replacement speech.",
+        "requested_duration_seconds": 8,
+        "edit_duration_seconds": 7.42,
+        "note": "Source reference pack is for preparing the still. Upload ONE approved composed frame to WAN; do not mix it with this whole reference pack. Trim generated clip to editorial duration; do not stretch speech."
+      }
+    },
+    {
+      "shot_id": "S03-P05",
+      "camera_action": "Trixie stands carefully; Byte stays seated with wallet.",
+      "sound_transition": "Couch creak; corporate bed fades.",
+      "dialogue_ids": [
+        "S03-N03",
+        "S03-N04"
+      ],
+      "start_sec": 163.976,
+      "end_sec": 174.888,
+      "duration_sec": 10.912,
+      "scene_start_sec": 43.976,
+      "scene_end_sec": 54.888,
+      "start_tc": "02:43.976",
+      "end_tc": "02:54.888",
+      "status": "editorial plan; animation not yet produced",
+      "asset_requirements": {
+        "locations": [
+          "LOC02",
+          "LOC13"
+        ],
+        "existing_reference_count": 9,
+        "new_image_needed": "camera-specific review still or approved matching frame; audit before generating",
+        "animation": "not generated; Higgsfield is for stills only",
+        "audio": "ElevenLabs dialogue, separate room tone/foley/music mix",
+        "special": "Gameplay and broadcast content must stay inside the existing TV glass, with bezel/knobs and living-room continuity intact."
+      },
+      "speaking_roles": [
+        "byte",
+        "trixie"
+      ],
+      "reference_pack": [
+        {
+          "id": "9ccf57446d209d87",
+          "title": "LOC02 - Resistance warehouse lounge",
+          "url": "/library/9ccf57446d209d87.jpg",
+          "purpose": "Primary set geometry"
+        },
+        {
+          "id": "6d9497f21b49b0e8",
+          "title": "SET01-lounge-rear-master-gpt26-v001",
+          "url": "/library/6d9497f21b49b0e8.jpg",
+          "purpose": "Camera-side layout"
+        },
+        {
+          "id": "51c0358d041cc3ba",
+          "title": "Trixie - CatGirl",
+          "url": "/library/51c0358d041cc3ba.jpg",
+          "purpose": "Visible character identity / framing context; do not render offscreen speakers"
+        },
+        {
+          "id": "a23590fe66ebce01",
+          "title": "Byte",
+          "url": "/library/a23590fe66ebce01.jpg",
+          "purpose": "Visible character identity / framing context; do not render offscreen speakers"
+        },
+        {
+          "id": "8379cb1af3248cc8",
+          "title": "PROP04-lounge-couch-six-views-gpt26-v002",
+          "url": "/library/8379cb1af3248cc8.jpg",
+          "purpose": "Visible prop"
+        }
+      ],
+      "reference_pack_count": 5,
+      "reference_overflow": [],
+      "wan_plan": {
+        "model": "WAN 3.0 Prime",
+        "provider": "awaiting provider confirmation",
+        "mode": "single composed first-frame image-to-video",
+        "upload_image_count": 1,
+        "first_frame_status": "needs shot-specific composition and review",
+        "first_frame_id": null,
+        "reference_mode_cap": 10,
+        "cap_status": "documented by Runway and Wan API; target provider still to confirm",
+        "reference_mode_sources": [
+          "https://dev.runwayml.com/learn/wan-3-0-api",
+          "https://wanapi.app/docs/wan-3-0-prime"
+        ],
+        "audio": false,
+        "audio_policy": "Use the existing/approved ElevenLabs tracks in the edit. Do not generate replacement speech.",
+        "requested_duration_seconds": 11,
+        "edit_duration_seconds": 10.912,
+        "note": "Source reference pack is for preparing the still. Upload ONE approved composed frame to WAN; do not mix it with this whole reference pack. Trim generated clip to editorial duration; do not stretch speech."
+      }
+    },
+    {
+      "shot_id": "S03-P06",
+      "camera_action": "Trixie hands Byte his scanner; Onyx remains with Ghost and Neon.",
+      "sound_transition": "Gear latch, footsteps; street rain bridges to Scene 4.",
+      "dialogue_ids": [
+        "S03-N05",
+        "S03-N06"
+      ],
+      "start_sec": 174.888,
+      "end_sec": 185.0,
+      "duration_sec": 10.112,
+      "scene_start_sec": 54.888,
+      "scene_end_sec": 65.0,
+      "start_tc": "02:54.888",
+      "end_tc": "03:05.000",
+      "status": "editorial plan; animation not yet produced",
+      "asset_requirements": {
+        "locations": [
+          "LOC02",
+          "LOC13"
+        ],
+        "existing_reference_count": 9,
+        "new_image_needed": "camera-specific review still or approved matching frame; audit before generating",
+        "animation": "not generated; Higgsfield is for stills only",
+        "audio": "ElevenLabs dialogue, separate room tone/foley/music mix",
+        "special": "Gameplay and broadcast content must stay inside the existing TV glass, with bezel/knobs and living-room continuity intact."
+      },
+      "speaking_roles": [
+        "onyx",
+        "trixie"
+      ],
+      "reference_pack": [
+        {
+          "id": "9ccf57446d209d87",
+          "title": "LOC02 - Resistance warehouse lounge",
+          "url": "/library/9ccf57446d209d87.jpg",
+          "purpose": "Primary set geometry"
+        },
+        {
+          "id": "6d9497f21b49b0e8",
+          "title": "SET01-lounge-rear-master-gpt26-v001",
+          "url": "/library/6d9497f21b49b0e8.jpg",
+          "purpose": "Camera-side layout"
+        },
+        {
+          "id": "51c0358d041cc3ba",
+          "title": "Trixie - CatGirl",
+          "url": "/library/51c0358d041cc3ba.jpg",
+          "purpose": "Visible character identity / framing context; do not render offscreen speakers"
+        },
+        {
+          "id": "a23590fe66ebce01",
+          "title": "Byte",
+          "url": "/library/a23590fe66ebce01.jpg",
+          "purpose": "Visible character identity / framing context; do not render offscreen speakers"
+        },
+        {
+          "id": "61dc338e08cb2385",
+          "title": "Ghost",
+          "url": "/library/61dc338e08cb2385.jpg",
+          "purpose": "Visible character identity / framing context; do not render offscreen speakers"
+        },
+        {
+          "id": "8ac469710ff37bec",
+          "title": "Onyx",
+          "url": "/library/8ac469710ff37bec.jpg",
+          "purpose": "Visible character identity / framing context; do not render offscreen speakers"
+        },
+        {
+          "id": "c59f876dfb3540bb",
+          "title": "Neon",
+          "url": "/library/c59f876dfb3540bb.jpg",
+          "purpose": "Visible character identity / framing context; do not render offscreen speakers"
+        },
+        {
+          "id": "3d6689586e0b8150",
+          "title": "PROP09-byte-price-scanner-gpt26-v002",
+          "url": "/library/3d6689586e0b8150.jpg",
+          "purpose": "Visible prop"
+        }
+      ],
+      "reference_pack_count": 8,
+      "reference_overflow": [],
+      "wan_plan": {
+        "model": "WAN 3.0 Prime",
+        "provider": "awaiting provider confirmation",
+        "mode": "single composed first-frame image-to-video",
+        "upload_image_count": 1,
+        "first_frame_status": "needs shot-specific composition and review",
+        "first_frame_id": null,
+        "reference_mode_cap": 10,
+        "cap_status": "documented by Runway and Wan API; target provider still to confirm",
+        "reference_mode_sources": [
+          "https://dev.runwayml.com/learn/wan-3-0-api",
+          "https://wanapi.app/docs/wan-3-0-prime"
+        ],
+        "audio": false,
+        "audio_policy": "Use the existing/approved ElevenLabs tracks in the edit. Do not generate replacement speech.",
+        "requested_duration_seconds": 11,
+        "edit_duration_seconds": 10.112,
+        "note": "Source reference pack is for preparing the still. Upload ONE approved composed frame to WAN; do not mix it with this whole reference pack. Trim generated clip to editorial duration; do not stretch speech."
+      }
+    }
+  ],
+  "spoken_words": 113,
+  "recorded_lines": 4,
+  "timing_note": "Exact editorial allocation. Existing takes use measured file durations; unrecorded lines use 150 wpm estimates. Action plays under dialogue where indicated. No time stretching or blank padding.",
+  "remaining_work": [
+    "Record and review new/unrecorded dialogue in ElevenLabs.",
+    "Build camera-specific stills from established references; review identity and geography.",
+    "Animate approved shots outside Higgsfield, then conform to this timeline.",
+    "Mix room tone, foley, music and dialogue; verify a full-speed table read and animatic."
+  ],
+  "continuity": "Districts 7–12 only. Broadcast makes a shortage claim, not proof of supply diversion. Barkington uses approved Matthew voice.",
+  "generation_references": [
+    {
+      "id": "9ccf57446d209d87",
+      "title": "LOC02 - Resistance warehouse lounge",
+      "filename": "LOC02-resistance-warehouse-lounge-gpt26-v001.png",
+      "kind": "Location",
+      "purpose": "Set geography, doors, windows and camera axis.",
+      "url": "/library/9ccf57446d209d87.jpg",
+      "thumbnail": "/library/9ccf57446d209d87.webp",
+      "source": "Locations\\Cats\\LOC02 - Resistance warehouse lounge\\Reference Sheets\\LOC02-resistance-warehouse-lounge-gpt26-v001.png",
+      "status": "existing reference; review before generation"
+    },
+    {
+      "id": "9929f26bee75cac0",
+      "title": "LOC13 - WOOF7 news studio",
+      "filename": "LOC13-woof7-news-studio-gpt26-v001.png",
+      "kind": "Location",
+      "purpose": "Set geography, doors, windows and camera axis.",
+      "url": "/library/9929f26bee75cac0.jpg",
+      "thumbnail": "/library/9929f26bee75cac0.webp",
+      "source": "Locations\\Dogs\\LOC13 - WOOF7 news studio\\Reference Sheets\\LOC13-woof7-news-studio-gpt26-v001.png",
+      "status": "existing reference; review before generation"
+    },
+    {
+      "id": "6d9497f21b49b0e8",
+      "title": "SET01-lounge-rear-master-gpt26-v001",
+      "filename": "SET01-lounge-rear-master-gpt26-v001.png",
+      "kind": "Continuity plate",
+      "purpose": "Use the matching camera side; do not mirror room orientation.",
+      "url": "/library/6d9497f21b49b0e8.jpg",
+      "thumbnail": "/library/6d9497f21b49b0e8.webp",
+      "source": "Phase 2\\Setting Plates\\SET01-lounge-rear-master-gpt26-v001.png",
+      "status": "existing reference; review before generation"
+    },
+    {
+      "id": "4bc4255b44e8a0c5",
+      "title": "SET02-lounge-true-front-reverse-gpt26-v001",
+      "filename": "SET02-lounge-true-front-reverse-gpt26-v001.png",
+      "kind": "Continuity plate",
+      "purpose": "Use the matching camera side; do not mirror room orientation.",
+      "url": "/library/4bc4255b44e8a0c5.jpg",
+      "thumbnail": "/library/4bc4255b44e8a0c5.webp",
+      "source": "Phase 2\\Setting Plates\\SET02-lounge-true-front-reverse-gpt26-v001.png",
+      "status": "existing reference; review before generation"
+    },
+    {
+      "id": "51c0358d041cc3ba",
+      "title": "Trixie - CatGirl",
+      "filename": "CREW01-trixie-character-master-gpt26-v001.png",
+      "kind": "Character",
+      "purpose": "Preserve identity, proportions, outfit and accessories. Include only actors visible in the shot.",
+      "url": "/library/51c0358d041cc3ba.jpg",
+      "thumbnail": "/library/51c0358d041cc3ba.webp",
+      "source": "Characters\\Cats - Resistance\\Trixie - CatGirl\\Reference Sheets\\CREW01-trixie-character-master-gpt26-v001.png",
+      "status": "existing reference; review before generation"
+    },
+    {
+      "id": "a23590fe66ebce01",
+      "title": "Byte",
+      "filename": "CREW02-byte-character-master-gpt26-v001.png",
+      "kind": "Character",
+      "purpose": "Preserve identity, proportions, outfit and accessories. Include only actors visible in the shot.",
+      "url": "/library/a23590fe66ebce01.jpg",
+      "thumbnail": "/library/a23590fe66ebce01.webp",
+      "source": "Characters\\Cats - Resistance\\Byte\\Reference Sheets\\CREW02-byte-character-master-gpt26-v001.png",
+      "status": "existing reference; review before generation"
+    },
+    {
+      "id": "61dc338e08cb2385",
+      "title": "Ghost",
+      "filename": "CREW03-ghost-character-master-gpt26-v001.png",
+      "kind": "Character",
+      "purpose": "Preserve identity, proportions, outfit and accessories. Include only actors visible in the shot.",
+      "url": "/library/61dc338e08cb2385.jpg",
+      "thumbnail": "/library/61dc338e08cb2385.webp",
+      "source": "Characters\\Cats - Resistance\\Ghost\\Reference Sheets\\CREW03-ghost-character-master-gpt26-v001.png",
+      "status": "existing reference; review before generation"
+    },
+    {
+      "id": "8ac469710ff37bec",
+      "title": "Onyx",
+      "filename": "CREW04-onyx-character-master-gpt26-v001.png",
+      "kind": "Character",
+      "purpose": "Preserve identity, proportions, outfit and accessories. Include only actors visible in the shot.",
+      "url": "/library/8ac469710ff37bec.jpg",
+      "thumbnail": "/library/8ac469710ff37bec.webp",
+      "source": "Characters\\Cats - Resistance\\Onyx\\Reference Sheets\\CREW04-onyx-character-master-gpt26-v001.png",
+      "status": "existing reference; review before generation"
+    },
+    {
+      "id": "c59f876dfb3540bb",
+      "title": "Neon",
+      "filename": "CREW05-neon-character-master-gpt26-v001.png",
+      "kind": "Character",
+      "purpose": "Preserve identity, proportions, outfit and accessories. Include only actors visible in the shot.",
+      "url": "/library/c59f876dfb3540bb.jpg",
+      "thumbnail": "/library/c59f876dfb3540bb.webp",
+      "source": "Characters\\Cats - Resistance\\Neon\\Reference Sheets\\CREW05-neon-character-master-gpt26-v001.png",
+      "status": "existing reference; review before generation"
+    },
+    {
+      "id": "562eac0bfb4963cd",
+      "title": "Barkington Orders",
+      "filename": "CHAR06-barkington-character-master-gpt26-v002.png",
+      "kind": "Character",
+      "purpose": "Preserve identity, proportions, outfit and accessories. Include only actors visible in the shot.",
+      "url": "/library/562eac0bfb4963cd.jpg",
+      "thumbnail": "/library/562eac0bfb4963cd.webp",
+      "source": "Characters\\Dogs\\Barkington Orders\\Reference Sheets\\CHAR06-barkington-character-master-gpt26-v002.png",
+      "status": "existing reference; review before generation"
+    },
+    {
+      "id": "ca01123b7a27adb2",
+      "title": "PROP01-hideout-crt-television-v001",
+      "filename": "PROP01-hideout-crt-television-v001.png",
+      "kind": "Prop / graphic",
+      "purpose": "Preserve prop shape, material, controls and scale.",
+      "url": "/library/ca01123b7a27adb2.jpg",
+      "thumbnail": "/library/ca01123b7a27adb2.webp",
+      "source": "Props\\Cats\\Props\\PROP01-hideout-crt-television-v001.png",
+      "status": "existing reference; review before generation"
+    },
+    {
+      "id": "8379cb1af3248cc8",
+      "title": "PROP04-lounge-couch-six-views-gpt26-v002",
+      "filename": "PROP04-lounge-couch-six-views-gpt26-v002.png",
+      "kind": "Prop / graphic",
+      "purpose": "Preserve prop shape, material, controls and scale.",
+      "url": "/library/8379cb1af3248cc8.jpg",
+      "thumbnail": "/library/8379cb1af3248cc8.webp",
+      "source": "Props\\Cats\\Props\\PROP04-lounge-couch-six-views-gpt26-v002.png",
+      "status": "existing reference; review before generation"
+    },
+    {
+      "id": "3d6689586e0b8150",
+      "title": "PROP09-byte-price-scanner-gpt26-v002",
+      "filename": "PROP09-byte-price-scanner-gpt26-v002.png",
+      "kind": "Prop / graphic",
+      "purpose": "Preserve prop shape, material, controls and scale.",
+      "url": "/library/3d6689586e0b8150.jpg",
+      "thumbnail": "/library/3d6689586e0b8150.webp",
+      "source": "Props\\Cats\\Props\\PROP09-byte-price-scanner-gpt26-v002.png",
+      "status": "existing reference; review before generation"
+    },
+    {
+      "id": "c45b327edde54b65",
+      "title": "S03A — reference frame (review draft)",
+      "filename": "S03A — reference frame (review draft)",
+      "kind": "Existing frame",
+      "purpose": "Framing draft only, not a final WAN input. TV views require the requested gameplay correction.",
+      "url": "/library/c45b327edde54b65.jpg",
+      "thumbnail": "/library/c45b327edde54b65.webp",
+      "source": "Opening Frames",
+      "status": "existing reference; review before generation"
+    },
+    {
+      "id": "1a6976232ac04b99",
+      "title": "S03B — reference frame (review draft)",
+      "filename": "S03B — reference frame (review draft)",
+      "kind": "Existing frame",
+      "purpose": "Framing draft only, not a final WAN input. TV views require the requested gameplay correction.",
+      "url": "/library/1a6976232ac04b99.jpg",
+      "thumbnail": "/library/1a6976232ac04b99.webp",
+      "source": "Opening Frames",
+      "status": "existing reference; review before generation"
+    },
+    {
+      "id": "2a11944ad13f9541",
+      "title": "S03C — reference frame (review draft)",
+      "filename": "S03C — reference frame (review draft)",
+      "kind": "Existing frame",
+      "purpose": "Framing draft only, not a final WAN input. TV views require the requested gameplay correction.",
+      "url": "/library/2a11944ad13f9541.jpg",
+      "thumbnail": "/library/2a11944ad13f9541.webp",
+      "source": "Opening Frames",
+      "status": "existing reference; review before generation"
+    },
+    {
+      "id": "913955c2d7aea9ca",
+      "title": "S03D — reference frame (review draft)",
+      "filename": "S03D — reference frame (review draft)",
+      "kind": "Existing frame",
+      "purpose": "Framing draft only, not a final WAN input. TV views require the requested gameplay correction.",
+      "url": "/library/913955c2d7aea9ca.jpg",
+      "thumbnail": "/library/913955c2d7aea9ca.webp",
+      "source": "Opening Frames",
+      "status": "existing reference; review before generation"
+    },
+    {
+      "id": "e02d9d595ae49edb",
+      "title": "S03E — reference frame (review draft)",
+      "filename": "S03E — reference frame (review draft)",
+      "kind": "Existing frame",
+      "purpose": "Framing draft only, not a final WAN input. TV views require the requested gameplay correction.",
+      "url": "/library/e02d9d595ae49edb.jpg",
+      "thumbnail": "/library/e02d9d595ae49edb.webp",
+      "source": "Opening Frames",
+      "status": "existing reference; review before generation"
+    },
+    {
+      "id": "3f2f426a88e5c789",
+      "title": "S03F — reference frame (review draft)",
+      "filename": "S03F — reference frame (review draft)",
+      "kind": "Existing frame",
+      "purpose": "Framing draft only, not a final WAN input. TV views require the requested gameplay correction.",
+      "url": "/library/3f2f426a88e5c789.jpg",
+      "thumbnail": "/library/3f2f426a88e5c789.webp",
+      "source": "Opening Frames",
+      "status": "existing reference; review before generation"
+    },
+    {
+      "id": "dba89096c35e8cd5",
+      "title": "S03G — reference frame (review draft)",
+      "filename": "S03G — reference frame (review draft)",
+      "kind": "Existing frame",
+      "purpose": "Framing draft only, not a final WAN input. TV views require the requested gameplay correction.",
+      "url": "/library/dba89096c35e8cd5.jpg",
+      "thumbnail": "/library/dba89096c35e8cd5.webp",
+      "source": "Opening Frames",
+      "status": "existing reference; review before generation"
+    }
+  ],
+  "missing_reference_requirements": [
+    "District 7–12 shortage map and Barkington broadcast inside matching CRT.",
+    "Final shot-specific composed first frame for each timed shot; existing drafts require review."
+  ]
+}

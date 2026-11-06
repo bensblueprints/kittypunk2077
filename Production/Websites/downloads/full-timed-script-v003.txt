@@ -1,0 +1,757 @@
+KITTY PUNK 2077 | S01E01 | THE GREAT SALMON SHORTAGE
+PRODUCTION MAP v003 | 24 SCENES | 145 SHOTS | 20:00
+222 dialogue cues; 2082 words. Unrecorded timings are estimates, not completed performances.
+Barkington: Matthew Schmitz (current approved voice). Brian archived. Gameplay inside existing TV box.
+
+SCENE 01 | 00:00–01:10 | Just One More Mission
+Resistance hideout
+CONTINUITY: Rear couch order Neon, Onyx, Trixie, Byte, Ghost; reverse order reverses. All gameplay remains inside visible CRT box. Gaming takes and wording approved; do not regenerate them.
+
+S01-P01 | 00:00.000–00:06.000 | Wide street approach to resistance warehouse; establish District 7 and wet loading apron.
+SOUND: Rain and distant traffic; game sirens J-cut from inside.
+
+S01-P02 | 00:06.000–00:12.000 | Rear room master: exactly five cats, left to right Neon, Onyx, Trixie, Byte, Ghost. TV and its casing visible.
+SOUND: Controllers and game engine rise under room ambience.
+
+S01-P03 | 00:12.000–00:18.566 | Close TV BOX: Trixie avatar drives magenta car toward bank wall; Byte avatar passenger. Rusted bezel and right-hand knobs remain visible.
+SOUND: Byte and Trixie speak from couch; game impact follows warning.
+  00:12.000 S01-D01 Byte: Left! LEFT! That is a wall, Trixie! [review take available]
+  00:14.761 S01-D02 Trixie: Relax. I found a shortcut. [review take available]
+  00:16.640 S01-D03 Byte: Through the bank we just robbed? [review take available]
+
+S01-P04 | 00:18.566–00:27.778 | Front couch reverse: Neon complains, Onyx turns to him; Trixie keeps both paws on controller.
+SOUND: Clicks and small suspension scrape from TV; dialogue foreground.
+  00:18.566 S01-D04 Neon: My controller has input lag. I pressed jump yesterday. [review take available]
+  00:22.116 S01-D05 Onyx: You are in a car. Why are you pressing jump? [review take available]
+  00:25.110 S01-D06 Neon: Because she keeps driving into buildings! [review take available]
+
+S01-P05 | 00:27.778–00:33.301 | TV BOX close: car lodged at bank entrance, helicopter searchlights cross gameplay. Keep five avatar identities distinct.
+SOUND: Game police rotor audio filtered through CRT speaker.
+  00:27.778 S01-D07 Trixie: Nobody appreciates experimental driving. [review take available]
+  00:30.075 S01-D08 Byte: The police appreciate it. All six helicopters. [review take available]
+
+S01-P06 | 00:33.301–00:39.449 | Onyx–Neon couch two-shot; Onyx gestures toward the room window, Neon pauses.
+SOUND: Game sound ducks for the deadpan pause.
+  00:33.301 S01-D09 Onyx: One more crash and somebody is going through that window. [review take available]
+  00:36.620 S01-D10 Neon: In the game? [review take available]
+  00:37.848 S01-D11 Onyx: Keep testing me. [review take available]
+
+S01-P07 | 00:39.449–00:46.525 | Ghost medium with green visor; rack focus to Trixie turning toward him.
+SOUND: Subtle mission payout chime from television.
+  00:39.449 S01-D12 Ghost: I finished the mission. [review take available]
+  00:41.096 S01-D13 Trixie: How? We are still inside the bank. [review take available]
+  00:43.764 S01-D14 Ghost: I walked out the back. With the money. [review take available]
+
+S01-P08 | 00:46.525–00:53.880 | Byte–Ghost–Trixie reactions in one couch coverage setup.
+SOUND: Ghost deadpan; Trixie clicks rematch after her line.
+  00:46.525 S01-D15 Byte: You left us? [review take available]
+  00:47.754 S01-D16 Ghost: You said cover the exit. I covered my exit. [review take available]
+  00:51.119 S01-D17 Trixie: Rematch. Nobody leaves the couch until we win. [review take available]
+
+S01-P09 | 00:53.880–01:02.000 | TV BOX insert: Ghost green avatar exits rear bank door carrying duffel; result overlay then restart selection.
+SOUND: Mission result chime; restart confirmation.
+
+S01-P10 | 01:02.000–01:10.000 | Over-shoulder couch with TV in frame: a brief restarted chase reaches bank approach; all five lean in before the override.
+SOUND: Accelerating game engine and tapping build; cut on freeze to Scene 2.
+
+SCENE 02 | 01:10–02:00 | The Interruption
+Resistance hideout
+CONTINUITY: Keep exactly five core cats; match current character sheets and fixed location geometry. Goodboy Global spelling throughout.
+
+S02-P01 | 01:10.000–01:13.650 | TV BOX close: restarted mission freezes; picture tears but rusted casing stays stable.
+SOUND: Game audio stutters into corporate tone.
+
+S02-P02 | 01:13.650–01:19.194 | Trixie and Byte couch two-shot, fingers/paws stop on their controllers.
+SOUND: Last game sound cuts sharply.
+  01:13.800 S02-D01 Trixie: What the fuck? We were almost done! [review take available]
+  01:15.950 S02-D02 Byte: Why do the dogs always have to interrupt our fun? [review take available]
+
+S02-P03 | 01:19.194–01:29.048 | Neon checks connected controller light, tilts it toward the others.
+SOUND: Small button taps; override tone beneath.
+  01:19.344 S02-D03 Neon: They're literally stealing our playtime. [review take available]
+  01:21.773 S02-N01 Neon: The console is still running. Look, my controller is connected. Something is taking over the television. [not recorded]
+
+S02-P04 | 01:29.048–01:37.473 | Byte deadpan, Trixie points at television without leaving couch.
+SOUND: Channel-switch clicks.
+  01:29.198 S02-N02 Byte: Great. Even our screen has a landlord. [not recorded]
+  01:32.198 S02-N03 Trixie: Try another channel. We paid for the game, not a lecture. [not recorded]
+
+S02-P05 | 01:37.473–01:42.498 | Ghost changes channels; every screen has same corporate slate inside the TV.
+SOUND: Identical tone on every channel; no new programme.
+  01:37.623 S02-N04 Ghost: Same signal on every channel. This is a district-wide override. [not recorded]
+
+S02-P06 | 01:42.498–01:53.503 | Onyx reaction; wider couch frame shows the others listening.
+SOUND: Room settles; controller placed on lap.
+  01:42.648 S02-D04 Onyx: If this is another mandatory obedience announcement, I'm gonna lose my shit. [review take available]
+  01:47.028 S02-N05 Onyx: They can fix every television at once, but not the lift in our building. [not recorded]
+
+S02-P07 | 01:53.503–02:00.000 | Ghost close then over-shoulder toward corporate slate in CRT.
+SOUND: Tone resolves into news ident; hard cut to Scene 3.
+  01:53.653 S02-N06 Ghost: That is not a fault. Somebody wants our attention. [not recorded]
+  01:57.453 S02-D05 Ghost: Shh. Listen. [review take available]
+
+SCENE 03 | 02:00–03:05 | Barkington's Emergency Broadcast
+TV broadcast
+CONTINUITY: Districts 7–12 only. Broadcast makes a shortage claim, not proof of supply diversion. Barkington uses approved Matthew voice.
+
+S03-P01 | 02:00.000–02:05.424 | TV BOX centered: Goodboy Global emergency ident, no game HUD.
+SOUND: Short corporate sting; CRT hiss retained.
+
+S03-P02 | 02:05.424–02:24.844 | Barkington medium within TV glass; black-and-tan Doberman, black/gold coat, controlled threatening stillness.
+SOUND: Barkington new Matthew audition pending selection; quiet corporate bed.
+  02:05.574 S03-D01 Barkington: Citizens of Districts Seven through Twelve. Due to an unprecedented salmon supply emergency, you are advised to acquire no less than thirty days of fresh salmon immediately. Goodboy Global thanks you for your obedience. [review take available]
+
+S03-P03 | 02:24.844–02:36.556 | TV BOX shifts to map highlighting Districts 7–12 only; cut reaction Neon and Ghost.
+SOUND: Broadcast continues as low room tone; save-click.
+  02:24.994 S03-N01 Neon: Seven through Twelve. Why are the first six districts missing from that map? [not recorded]
+  02:30.394 S03-N02 Ghost: Save the broadcast. The original file, with the time on it. [not recorded]
+
+S03-P04 | 02:36.556–02:43.976 | Byte checks almost-empty wallet while Trixie watches the TV.
+SOUND: Small pocket/coin sounds; hold comic reaction.
+  02:36.706 S03-D02 Byte: Thirty days? I can't afford thirty minutes. [review take available]
+  02:39.228 S03-D03 Trixie: Something smells fishy. [review take available]
+  02:40.821 S03-D04 Onyx: It's literally fish. [review take available]
+
+S03-P05 | 02:43.976–02:54.888 | Trixie stands carefully; Byte stays seated with wallet.
+SOUND: Couch creak; corporate bed fades.
+  02:44.126 S03-N03 Trixie: We check the shop before we believe any of this. [not recorded]
+  02:48.326 S03-N04 Byte: With what money? The emergency does not come with an emergency wallet. [not recorded]
+
+S03-P06 | 02:54.888–03:05.000 | Trixie hands Byte his scanner; Onyx remains with Ghost and Neon.
+SOUND: Gear latch, footsteps; street rain bridges to Scene 4.
+  02:55.038 S03-N05 Trixie: Bring your scanner. We need prices, not another argument. [not recorded]
+  02:58.838 S03-N06 Onyx: I will keep the others here. Tell us what you find. [not recorded]
+
+SCENE 04 | 03:05–04:00 | The Trip to 7-Catleven
+District 7 streets
+CONTINUITY: Keep exactly five core cats; match current character sheets and fixed location geometry. Goodboy Global spelling throughout.
+
+S04-P01 | 03:05.000–03:14.735 | District 7 tracking wide: Trixie and Byte leave hideout and join shoppers moving toward store.
+SOUND: Street voices and wet footsteps.
+  03:05.150 S04-N01 Byte: That queue was not here ten minutes ago. They have not even opened the second till. [not recorded]
+
+S04-P02 | 03:14.735–03:27.878 | Walking two-shot: Byte watches queues; Trixie studies shuttered stalls.
+SOUND: Keep crowd under dialogue.
+  03:14.885 S04-D01 Byte: You think there's really a shortage? [review take available]
+  03:16.757 S04-D02 Trixie: I think someone wants us to believe there is. [review take available]
+  03:19.093 S04-N02 Trixie: Look at them. Everyone heard the same warning and ran for the same shelf. [not recorded]
+
+S04-P03 | 03:27.878–03:42.612 | Two civilian cats hesitate over last tin at a stall; Trixie moves between without grabbing either.
+SOUND: Tin rattles; crowd quiets around them.
+  03:28.028 S04-N03 Civilian cat: Please. That is the last tin. My little one has not eaten. [not recorded]
+  03:33.028 S04-N04 Trixie: Hey. There is room for both of you. Fighting each other will not fill the freezer. [not recorded]
+
+S04-P04 | 03:42.612–03:54.947 | Byte notices delivery placard; over-shoulder scanner photograph preserves time.
+SOUND: Scanner capture tone.
+  03:42.762 S04-N05 Byte: The board says fresh delivery this morning. Why are they already rationing it? [not recorded]
+  03:48.162 S04-N06 Trixie: Photograph that notice. Let us see what changed inside. [not recorded]
+
+S04-P05 | 03:54.947–04:00.000 | Reveal 7-Catleven frontage; Trixie heads for door while Byte glances at snack poster.
+SOUND: Automatic door chime; cut inside at matching movement.
+  03:55.097 S04-D03 Byte: So... we're not getting snacks? [review take available]
+
+SCENE 05 | 04:00–05:00 | Three Times the Price
+7-Catleven freezer aisle
+CONTINUITY: Keep exactly five core cats; match current character sheets and fixed location geometry. Goodboy Global spelling throughout.
+
+S05-P01 | 04:00.000–04:09.840 | Freezer aisle establishing: two salmon packs, large new price; Trixie and Byte enter.
+SOUND: Refrigerator hum, distant checkout beep.
+
+S05-P02 | 04:09.840–04:19.222 | Byte studies label; insert unchanged pack size next to tripled price.
+SOUND: Scanner wake chirp.
+  04:09.990 S05-D01 Byte: Thirty bucks for a piece of fish? Last week it was ten! [review take available]
+  04:13.348 S05-D02 Trixie: Check the price history. When did it change? [review take available]
+
+S05-P03 | 04:19.222–04:30.508 | Scanner insert followed by Byte reaction: old and new prices, timestamps legible.
+SOUND: Data retrieval tone; dialogue remains dry.
+  04:19.372 S05-D03 Byte: Before the broadcast. They raised it before anyone knew there was an emergency. [review take available]
+  04:23.844 S05-D04 Trixie: They knew. We were the last ones told. [review take available]
+
+S05-P04 | 04:30.508–04:42.133 | Wide freezer emptiness with only two packs; Byte counts wallet then looks back.
+SOUND: One freezer door squeak; embarrassed pause.
+  04:30.658 S05-D05 Byte: Two packs left. At this price, we can afford to look at one. [review take available]
+  04:34.202 S05-D06 Trixie: They are manufacturing panic. [review take available]
+  04:36.027 S05-D07 Byte: Well, it is working. I am panicking. [review take available]
+
+S05-P05 | 04:42.133–04:54.162 | Trixie directs saving evidence; Byte exports original price history and photo.
+SOUND: Save confirmation, phone vibration.
+  04:42.283 S05-D08 Trixie: Save the timestamp. And the old price. We need something people can check. [review take available]
+  04:47.034 S05-D09 Byte: Done. Apparently dinner now comes with an investigation. [review take available]
+
+S05-P06 | 04:54.162–05:00.000 | Two-shot turn toward exit; Trixie addresses Byte with resolve.
+SOUND: Door closes; market noise J-cut to Scene 6.
+  04:54.312 S05-D10 Trixie: We are going to tell the whole district. [review take available]
+
+SCENE 06 | 05:00–05:45 | Word Spreads
+District 7 market
+CONTINUITY: Keep exactly five core cats; match current character sheets and fixed location geometry. Goodboy Global spelling throughout.
+
+S06-P01 | 05:00.000–05:04.560 | Market wide; five crew regroup at public screen, Trixie raises scanner.
+SOUND: Market bustle drops under her call.
+  05:00.150 S06-D01 Trixie: They tripled the price before they announced the shortage! [not recorded]
+
+S06-P02 | 05:04.560–05:18.320 | Civilian reaction then Byte, who realizes his joke landed badly.
+SOUND: Single uncomfortable beat; no mocking crowd laughter.
+  05:04.710 S06-D02 Random citizen: Those bastards! I sold my litter box to buy dinner! [not recorded]
+  05:08.910 S06-D03 Byte: Okay, that's a personal budgeting problem. [not recorded]
+  05:11.510 S06-N01 Byte: Bad joke. Sorry. Keep your receipt; it can help us prove when the price changed. [not recorded]
+
+S06-P03 | 05:18.320–05:26.080 | Neon attaches projector; two price timestamps appear side by side.
+SOUND: Projector hum and interface clicks.
+  05:18.470 S06-N02 Neon: I can put the two timestamps side by side. Big enough for the back of the market. [not recorded]
+
+S06-P04 | 05:26.080–05:33.040 | Ghost masks personal identifiers before screen goes public.
+SOUND: Confirm tone; receipts remain readable without names.
+  05:26.230 S06-N03 Ghost: Hide the customers’ names. We need prices, not a list of people for the patrols. [not recorded]
+
+S06-P05 | 05:33.040–05:45.000 | Trixie climbs low crate; Onyx keeps walkway open as cats gather.
+SOUND: Crowd gathers into rally ambience; match cut to microphone.
+  05:33.190 S06-N04 Trixie: If you bought fish today, compare your receipt. Do not take our word for it. [not recorded]
+  05:39.390 S06-N05 Onyx: Leave a path through the crowd. People still need to get home. [not recorded]
+
+SCENE 07 | 05:45–06:50 | The District 7 Rally
+Slum rally stage
+CONTINUITY: All five crew contribute. Protest targets corporate policy; no mob damage to local stalls.
+
+S07-P01 | 05:45.000–05:49.150 | Crane-like wide over rally establishing all five on low stage and clear exits.
+SOUND: Crowd murmurs, microphone test tap.
+
+S07-P02 | 05:49.150–05:58.425 | Low-angle Trixie at microphone; faces in crowd listen.
+SOUND: Amplified voice with light outdoor slapback.
+  05:49.300 S07-D01 Trixie: They think we're stupid! They think they can take our food, triple the price, and tell us to be grateful! [not recorded]
+
+S07-P03 | 05:58.425–06:06.100 | Byte points to side-by-side price chart, no personal customer data.
+SOUND: Crowd gasps, projector fan.
+  05:58.575 S07-N01 Byte: Here is yesterday’s price. Here is this morning’s. Same shop, same pack, three times the money. [not recorded]
+
+S07-P04 | 06:06.100–06:22.375 | Ghost steps beside chart; Trixie accepts evidence limit and looks across crowd.
+SOUND: Music stays restrained, not a victory fanfare.
+  06:06.250 S07-N02 Ghost: This proves the timing. It does not tell us where the fish went. We still need the shipping records. [not recorded]
+  06:14.050 S07-N03 Trixie: Then we ask for them. Every district deserves to know who gets fed and who gets left out. [not recorded]
+
+S07-P05 | 06:22.375–06:35.850 | Neon shows mirrored copies; Onyx guides a shopper through the aisle.
+SOUND: Phone notification ripples; no broken stalls.
+  06:22.525 S07-N04 Neon: I have mirrored the receipts. If this screen goes dark, the evidence stays online. [not recorded]
+  06:28.325 S07-N05 Onyx: And nobody smashes the stalls. These people are our neighbors, not the people setting the prices. [not recorded]
+
+S07-P06 | 06:35.850–06:43.525 | Crowd chant with Onyx and Neon aside in foreground.
+SOUND: Chant begins after evidence; lower it for aside.
+  06:36.000 S07-D02 Crowd: NO MORE BONES! GIVE US SALMON! [not recorded]
+  06:38.600 S07-D03 Onyx: That's the dumbest chant I've ever heard. [not recorded]
+  06:41.600 S07-D04 Neon: It's trending. [not recorded]
+
+S07-P07 | 06:43.525–06:50.000 | Trixie final appeal; crowd disperses into neighboring alleys.
+SOUND: Chant tails into footsteps and Scene 8.
+  06:43.675 S07-N06 Trixie: Keep your receipts. Help your neighbors. We are going to find an answer. [not recorded]
+
+SCENE 08 | 06:50–07:30 | The Cats Are Waking Up
+District 7 alleyways
+CONTINUITY: Keep exactly five core cats; match current character sheets and fixed location geometry. Goodboy Global spelling throughout.
+
+S08-P01 | 06:50.000–06:53.733 | Forward tracking through dispersing rally; new resistance stencil and helpers sharing receipts.
+SOUND: Cheering falls away to intimate street sound.
+
+S08-P02 | 06:53.733–07:05.600 | Low kitten eyeline; Trixie crouches at respectful distance.
+SOUND: No sentimental music overpowering dialogue.
+  06:53.883 S08-D01 Kitten: Are you really going to bring the salmon back? [not recorded]
+  06:57.683 S08-D02 Trixie: We're going to find out where it went. [not recorded]
+  07:01.083 S08-N01 Kitten: Mum says promises do not fit in a bowl. [not recorded]
+
+S08-P03 | 07:05.600–07:13.467 | Trixie close holds eye contact with kitten.
+SOUND: A quiet beat lets the promise limit land.
+  07:05.750 S08-N02 Trixie: She is right. I will not promise what I cannot deliver. But I will not forget you. [not recorded]
+
+S08-P04 | 07:13.467–07:24.133 | Byte joins after kitten returns to parent; walking two-shot.
+SOUND: Street footsteps resume.
+  07:13.617 S08-D03 Byte: You realize we have no fucking idea where it went? [not recorded]
+  07:17.817 S08-D04 Trixie: Working on that. [not recorded]
+  07:19.217 S08-N03 Byte: You have made that significantly harder to walk away from. [not recorded]
+
+S08-P05 | 07:24.133–07:30.000 | Trixie looks back once, then directs crew toward hideout.
+SOUND: Subtle investigative pulse begins; cut to lair.
+  07:24.283 S08-N04 Trixie: Good. Get the others. We start with who profits from the panic. [not recorded]
+
+SCENE 09 | 07:30–08:40 | Follow the Money
+Resistance hacking lair
+CONTINUITY: Keep exactly five core cats; match current character sheets and fixed location geometry. Goodboy Global spelling throughout.
+
+S09-P01 | 07:30.000–07:38.714 | Lair master: Byte loads receipts; five fixed stations, established doors remain in place.
+SOUND: Fans, keys, rain against high window.
+  07:30.150 S09-N01 Byte: Every price update came through the same corporate feed. The shops did not choose it individually. [not recorded]
+
+S09-P02 | 07:38.714–07:50.429 | Ghost visor close and metadata display; encrypted content stays unreadable.
+SOUND: Restrained data ping; no magical full decryption.
+  07:38.864 S09-N02 Ghost: The message content is encrypted. The meeting confirmation is not. Same names, same time, one private room. [not recorded]
+  07:45.864 S09-D01 Ghost: Barkington has a private dinner tonight. [not recorded]
+
+S09-P03 | 07:50.429–07:58.143 | Byte and Neon compare names with saved broadcast.
+SOUND: Broadcast fragment muted under their dialogue.
+  07:50.579 S09-D02 Byte: With the WOOF7 news anchor. [not recorded]
+  07:52.779 S09-D03 Neon: The same network telling everyone to panic-buy salmon. [not recorded]
+
+S09-P04 | 07:58.143–08:06.457 | Neon opens restaurant public layout; service route outlined.
+SOUND: Map zoom click.
+  07:58.293 S09-N03 Neon: Steak and Bone. Their public booking map shows a service corridor behind the dining room. [not recorded]
+
+S09-P05 | 08:06.457–08:16.971 | Onyx leans forward; Trixie stops impulsive move.
+SOUND: Chair scrape, score pauses.
+  08:06.607 S09-N04 Onyx: So we walk in and ask nicely? [not recorded]
+  08:09.607 S09-N05 Trixie: We watch. We record. We leave. Nobody starts a fight over a suspicion. [not recorded]
+
+S09-P06 | 08:16.971–08:29.086 | Byte challenges inference; Ghost responds while preserving original files.
+SOUND: Backup-drive click.
+  08:17.121 S09-N06 Byte: A photograph of two dogs having dinner is not going to prove much. [not recorded]
+  08:22.521 S09-N07 Ghost: Correct. Which is why we need to hear what they say. [not recorded]
+
+S09-P07 | 08:29.086–08:40.000 | Neon places microphone beside camera; Trixie looks at restaurant map.
+SOUND: Plan motif rises; match cut to workshop table.
+  08:29.236 S09-N08 Neon: The microphone needs line of sight. I can hide it in the service hatch. [not recorded]
+  08:35.036 S09-D04 Trixie: Then let's see what's on the menu. [not recorded]
+
+SCENE 10 | 08:40–09:45 | Operation Bonehead
+Hideout workshop
+CONTINUITY: Keep exactly five core cats; match current character sheets and fixed location geometry. Goodboy Global spelling throughout.
+
+S10-P01 | 08:40.000–08:49.375 | Workshop overhead: camera, recorder and three decoys arranged in separate spaces.
+SOUND: Small tool noises under assignment.
+  08:40.150 S10-N01 Trixie: One job each. Ghost finds the route. Neon handles the decoys. Byte watches the cameras. Onyx covers the exit. [not recorded]
+
+S10-P02 | 08:49.375–08:55.350 | Byte–Trixie two-shot as she checks camera battery and storage.
+SOUND: Camera power-up tone.
+  08:49.525 S10-N02 Byte: And you? [not recorded]
+  08:50.525 S10-N03 Trixie: I get close enough to photograph the meeting. [not recorded]
+
+S10-P03 | 08:55.350–09:06.325 | Neon demonstrates one bone remote, points to off switch.
+SOUND: Decoy squeaks once; comic beat.
+  08:55.500 S10-D01 Neon: The guards will chase these instead of us. [not recorded]
+  08:58.900 S10-D02 Byte: What if they don't? [not recorded]
+  09:00.700 S10-D03 Neon: Then we have a very expensive collection of dog toys. [not recorded]
+
+S10-P04 | 09:06.325–09:18.700 | Close remote and bone; Neon warns while Onyx accidentally starts demonstration.
+SOUND: Bone rolls across bench, no explosive action.
+  09:06.475 S10-N04 Neon: They follow the sound and the smell. This switch cuts both. Do not press the red button indoors. [not recorded]
+  09:13.875 S10-N05 Onyx: You could have said that before the demonstration. [not recorded]
+
+S10-P05 | 09:18.700–09:29.075 | Onyx watches decoy turn a corner; Ghost stops it before doorway.
+SOUND: Remote off click; wheels wind down.
+  09:18.850 S10-D04 Onyx: Holy shit. It works. [not recorded]
+  09:20.650 S10-N06 Ghost: The return path has to stay clear. A distraction that traps us is just a different problem. [not recorded]
+
+S10-P06 | 09:29.075–09:39.850 | Neon separates two entry decoys from one marked reserve; Byte smirks.
+SOUND: Bag zip; light comic sting.
+  09:29.225 S10-N07 Neon: Two decoys for entry. One held back. I actually planned for something going wrong. [not recorded]
+  09:35.025 S10-N08 Byte: Write down the date. We should celebrate this. [not recorded]
+
+S10-P07 | 09:39.850–09:45.000 | Five crew leave bench in assigned roles; insert recorder running test file.
+SOUND: Footsteps and exterior restaurant ambience bridge.
+
+SCENE 11 | 09:45–11:00 | Steak & Bone Surveillance
+Restaurant exterior
+CONTINUITY: Restaurant entourage limousine is appropriate here. Dog Royce is Barkington’s spotted personal town car, not this vehicle.
+
+S11-P01 | 09:45.000–09:53.444 | Restaurant exterior wide, luxury doorway, wet service alley visible on correct side.
+SOUND: Valet chatter and distant soft jazz.
+  09:45.150 S11-D01 Byte: That restaurant costs more per meal than our entire building. [not recorded]
+  09:49.350 S11-D02 Onyx: Can we eat first? [not recorded]
+
+S11-P02 | 09:53.444–10:03.289 | Rooftop surveillance POV maps two front guards, one camera, service patrol path.
+SOUND: Comms lightly filtered.
+  09:53.594 S11-N01 Ghost: Front door has two guards. Service door has one camera. Their patrol crosses the alley every forty seconds. [not recorded]
+
+S11-P03 | 10:03.289–10:18.133 | Byte at external relay cover; Onyx moves toward service-exit post.
+SOUND: Radio clicks; city traffic.
+  10:03.439 S11-N02 Byte: I am staying at this relay point. If you lose my signal, do not invent a heroic alternative. [not recorded]
+  10:10.839 S11-N03 Onyx: I stay by the service exit. Same way in, same way out. [not recorded]
+
+S11-P04 | 10:18.133–10:26.778 | Entourage limousine arrives; Barkington exits with dogs, not his personal Dog Royce.
+SOUND: Limo door, valet welcome, camera records plate.
+  10:18.283 S11-N04 Trixie: That is Barkington. The entourage came in the limousine. Keep the plate in the recording. [not recorded]
+
+S11-P05 | 10:26.778–10:35.222 | Private-room window glimpse confirms anchor already seated.
+SOUND: Jazz muffled behind glass.
+  10:26.928 S11-N05 Neon: The anchor is already inside. Private room, rear wall, blinds half closed. [not recorded]
+  10:31.928 S11-D03 Ghost: Target's inside. [not recorded]
+
+S11-P06 | 10:35.222–10:42.267 | Ghost marks service-hatch route on compact map, not a new unexplained entrance.
+SOUND: Single route-confirm tone.
+  10:35.372 S11-N06 Ghost: We can reach the hatch without crossing the main dining room. [not recorded]
+
+S11-P07 | 10:42.267–10:53.111 | Trixie checks camera; crew waits for patrol to turn.
+SOUND: Hold patrol footsteps, then silence.
+  10:42.417 S11-D04 Trixie: Nobody touches anything until we have evidence. [not recorded]
+  10:45.417 S11-N07 Trixie: Wait for the patrol to turn. We go together, and we leave together. [not recorded]
+
+S11-P08 | 10:53.111–11:00.000 | Neon lowers first decoy beside bins; look from Trixie signals go.
+SOUND: Rain drip cut to first decoy wheel.
+
+SCENE 12 | 11:00–11:45 | The Bone Distraction
+Steak & Bone security entrance
+CONTINUITY: Keep exactly five core cats; match current character sheets and fixed location geometry. Goodboy Global spelling throughout.
+
+S12-P01 | 11:00.000–11:08.829 | Low service entrance view: Neon places first decoy, keeps second and reserve distinct.
+SOUND: Quiet servo starts.
+  11:00.150 S12-N01 Neon: First decoy on the ground. Second one stays behind the bins until they move. [not recorded]
+
+S12-P02 | 11:08.829–11:16.057 | Remote camera POV returns to Byte; lens turns away from door.
+SOUND: Comms beep then mute.
+  11:08.979 S12-N02 Byte: Camera is looking at the alley. You have your opening. [not recorded]
+
+S12-P03 | 11:16.057–11:22.686 | Guard close as bone rolls through peripheral vision; ears perk.
+SOUND: Tempting squeak, sniff, hesitation.
+  11:16.207 S12-D01 Guard: Maintain your positions! [not recorded]
+  11:17.607 S12-D02 Guard: ...Is that a bacon-flavored bone? [not recorded]
+
+S12-P04 | 11:22.686–11:26.314 | Second guard lunges after toy; both peel away from service door.
+SOUND: Boots and skittering wheels, comic chase.
+  11:22.836 S12-D03 Another guard: MINE! [not recorded]
+
+S12-P05 | 11:26.314–11:36.943 | Ghost slips through door with Trixie and Neon in order.
+SOUND: Door latch caught to prevent slam; Onyx comms.
+  11:26.464 S12-N03 Ghost: Door is clear. Trixie, on me. [not recorded]
+  11:29.064 S12-N04 Onyx: I have the exit. Do not make me come looking for you. [not recorded]
+
+S12-P06 | 11:36.943–11:45.000 | Onyx alone at exit cover while guards disappear around bins.
+SOUND: Chase recedes; interior fan sound bridges.
+
+SCENE 13 | 11:45–12:35 | Inside the Restaurant
+Service corridors
+CONTINUITY: Keep exactly five core cats; match current character sheets and fixed location geometry. Goodboy Global spelling throughout.
+
+S13-P01 | 11:45.000–11:50.229 | Service corridor wide establishes hatch ahead and camera above cart.
+SOUND: Byte on comms; ventilation hum.
+  11:45.150 S13-D01 Byte: You have forty seconds before patrol returns. [not recorded]
+
+S13-P02 | 11:50.229–11:56.657 | Neon sees service robot rotate camera; everyone stops behind cart.
+SOUND: Motor whirr then wheel squeak.
+  11:50.379 S13-N01 Neon: Service robot. Hold. Its camera turns before the wheels do. [not recorded]
+
+S13-P03 | 11:56.657–12:04.886 | Trixie whispers to motionless Ghost, who holds perfect stillness.
+SOUND: Whispered banter, robot rolling past.
+  11:56.807 S13-D02 Trixie: Ghost, move. [not recorded]
+  11:57.807 S13-D03 Ghost: I am moving. [not recorded]
+  11:59.207 S13-D04 Trixie: You're literally standing still. [not recorded]
+  12:01.007 S13-D05 Ghost: That's why I'm good. [not recorded]
+
+S13-P04 | 12:04.886–12:15.914 | Byte timer inset on comms unit; Ghost moves behind cart as lens clears.
+SOUND: Soft footfalls, no alarm.
+  12:05.036 S13-N02 Byte: Twenty seconds. Stop narrating your stealth and actually do some. [not recorded]
+  12:09.236 S13-N03 Ghost: Now. Stay behind the cart; the lens cannot see through it. [not recorded]
+
+S13-P05 | 12:15.914–12:28.543 | At service hatch Trixie finds table angle, Neon places microphone.
+SOUND: Recorder click; dining-room jazz grows.
+  12:16.064 S13-N04 Trixie: There is the hatch. Neon, microphone first. I need the table and both faces. [not recorded]
+  12:21.864 S13-N05 Neon: Recording locally. If the connection drops, we still keep the file. [not recorded]
+
+S13-P06 | 12:28.543–12:35.000 | Hidden POV settles on two dogs; recording red light shielded from view.
+SOUND: Cut into live dinner conversation.
+
+SCENE 14 | 12:35–13:35 | The Secret Dinner
+Steak & Bone private dining room
+CONTINUITY: No explicit admission of salmon diversion. Payment conversation stays oblique.
+
+S14-P01 | 12:35.000–12:43.943 | Private dining wide establishes Barkington and Shiba WOOF7 anchor across table.
+SOUND: Cutlery, muted restaurant jazz.
+  12:35.150 S14-D01 Barkington: The public needs reassurance that our supply measures are necessary. [not recorded]
+  12:39.350 S14-D02 Anchor: And you want that to be tonight's headline? [not recorded]
+
+S14-P02 | 12:43.943–12:52.286 | Anchor medium, skeptical rather than openly confessing supply fraud.
+SOUND: Jazz ducks beneath conversation.
+  12:44.093 S14-N01 Anchor: People are asking why the shelves emptied before the warning. They expect me to ask that question. [not recorded]
+
+S14-P03 | 12:52.286–13:04.429 | Barkington controlled close; only paw and ring move.
+SOUND: Glass set down, deliberate small pause.
+  12:52.436 S14-N02 Barkington: Questions are useful when they lead the public toward confidence. Less useful when they lead to disorder. [not recorded]
+  12:59.436 S14-D03 Barkington: I want the public to hear the correct story. [not recorded]
+
+S14-P04 | 13:04.429–13:13.371 | Anchor across table pushes back, eyes on untouched dinner.
+SOUND: No villain laugh; businesslike negotiation.
+  13:04.579 S14-N03 Anchor: Confidence is difficult to sell to an audience that cannot afford dinner. [not recorded]
+  13:09.579 S14-D04 Anchor: That kind of coverage isn't cheap. [not recorded]
+
+S14-P05 | 13:13.371–13:20.114 | Barkington two-shot gives oblique demand for public messaging.
+SOUND: Low tension tone beneath room ambience.
+  13:13.521 S14-N04 Barkington: Then remind them who keeps the streets safe. Panic needs a firm voice. [not recorded]
+
+S14-P06 | 13:20.114–13:27.257 | Anchor glances toward closed door, then back to Barkington.
+SOUND: Chair creak.
+  13:20.264 S14-N05 Anchor: My producers will want a reason to move the other story off the schedule. [not recorded]
+
+S14-P07 | 13:27.257–13:35.000 | Barkington close; hand reaches toward bag below table without revealing contents yet.
+SOUND: Clasp click bridges to money bag in Scene 15.
+  13:27.407 S14-D05 Barkington: Neither is loyalty. [not recorded]
+  13:28.807 S14-N06 Barkington: Tell them we appreciate a reliable partner. Our appreciation is rarely symbolic. [not recorded]
+
+SCENE 15 | 13:35–14:20 | The Payoff Photograph
+Private dining room
+CONTINUITY: Uncut photo/video proves exchange of money only; purpose remains unproven.
+
+S15-P01 | 13:35.000–13:39.343 | Table-level insert bag opens enough to show cash; neither face lost in next angle.
+SOUND: Soft clasp and paper rustle.
+
+S15-P02 | 13:39.343–13:47.914 | Hidden over-hatch two-shot preserves payer, recipient and bag in same view.
+SOUND: Neon whisper on local recording channel.
+  13:39.493 S15-N01 Neon: Both faces and the bag are in frame. Keep rolling. Do not crop away who handed it over. [not recorded]
+
+S15-P03 | 13:47.914–13:53.686 | Trixie camera viewfinder locks faces; Ghost watches approaching corridor feet.
+SOUND: Footsteps grow outside private room.
+  13:48.064 S15-N02 Ghost: Someone is coming down the corridor. You have one clean shot. [not recorded]
+
+S15-P04 | 13:53.686–14:02.657 | One shutter; recorded original displayed briefly, Trixie keeps camera steady.
+SOUND: Damped shutter, save beep only on earpiece.
+  13:53.836 S15-D01 Byte: Please tell me you got that. [not recorded]
+  13:56.436 S15-D02 Trixie: Every pixel. [not recorded]
+  13:57.436 S15-N03 Trixie: Save the original and a copy. No filters, no edits. [not recorded]
+
+S15-P05 | 14:02.657–14:15.829 | Neon and Trixie whisper over saved waveform; return to uncut clip.
+SOUND: Evidence backup tick; no triumphant score.
+  14:02.807 S15-D03 Neon: The audio's ambiguous. [not recorded]
+  14:04.207 S15-D04 Trixie: The photograph isn't. [not recorded]
+  14:05.607 S15-N04 Byte: It proves a payment happened. We still cannot label what the money bought. [not recorded]
+  14:11.007 S15-N05 Trixie: Then we show exactly what we have. Nothing more. [not recorded]
+
+S15-P06 | 14:15.829–14:20.000 | Onyx sees patrol turn early; Trixie withdraws lens from hatch.
+SOUND: Comms urgent; cut to alarm.
+  14:15.979 S15-N06 Onyx: Patrol is back early. Time to move. [not recorded]
+
+SCENE 16 | 14:20–15:10 | Get the Hell Out
+Restaurant service exit
+CONTINUITY: Keep exactly five core cats; match current character sheets and fixed location geometry. Goodboy Global spelling throughout.
+
+S16-P01 | 14:20.000–14:23.875 | Guard discovers door breach and hits alarm button.
+SOUND: Red alarm pulses; dogs shout offscreen.
+  14:20.150 S16-D01 Guard: STOP THOSE CATS! [not recorded]
+
+S16-P02 | 14:23.875–14:30.150 | Onyx braces door while three cats run through corridor toward him.
+SOUND: Door impact and running paws.
+  14:24.025 S16-N01 Onyx: This door. Keep moving. I am right behind you. [not recorded]
+
+S16-P03 | 14:30.150–14:38.425 | Neon tosses reserved third bone into pursuing guards’ path.
+SOUND: Squeak under dry radio joke, guards collide with bins.
+  14:30.300 S16-D02 Neon: Emergency bone! [not recorded]
+  14:31.300 S16-D03 Byte: Why do you call it that? [not recorded]
+  14:33.900 S16-D04 Neon: Because it's for emergencies, dumbass! [not recorded]
+
+S16-P04 | 14:38.425–14:46.700 | Ghost leads left at bins to low ladder; all five positions remain accounted for.
+SOUND: Rain and ladder rattles.
+  14:38.575 S16-N02 Ghost: Left at the bins. The ladder goes to the low roof, not the street. [not recorded]
+
+S16-P05 | 14:46.700–14:54.575 | Byte at relay sees signal return; cats reach him by low roof route.
+SOUND: Radio reconnect tone, breathing.
+  14:46.850 S16-N03 Byte: I have your signal again. Bring the files to me, not the guards. [not recorded]
+
+S16-P06 | 14:54.575–15:03.050 | Trixie headcount; five silhouettes pause safely behind roof parapet.
+SOUND: Alarm distant now; breath settles.
+  14:54.725 S16-N04 Trixie: Count off. Byte? Neon? Ghost? Onyx? [not recorded]
+  14:57.325 S16-N05 Onyx: Five cats. One terrible restaurant. Never going back. [not recorded]
+
+S16-P07 | 15:03.050–15:10.000 | Wide roof retreat with five cats; Trixie checks camera file intact.
+SOUND: Investigative theme resumes into upload scene.
+
+SCENE 17 | 15:10–16:00 | The Leak
+Resistance hideout
+CONTINUITY: Keep exactly five core cats; match current character sheets and fixed location geometry. Goodboy Global spelling throughout.
+
+S17-P01 | 15:10.000–15:23.240 | Lair workstation: original clip and photo on local drive; Ghost selects upload copies.
+SOUND: Keyboard and progress tone.
+  15:10.150 S17-N01 Ghost: Send the uncut clip with the photograph. Let the newsroom check the timestamp themselves. [not recorded]
+  15:15.950 S17-N02 Neon: Original saved here. Backup sent. They cannot erase it by taking down one post. [not recorded]
+
+S17-P02 | 15:23.240–15:29.880 | Trixie checks exact headline draft before sending evidence bundle.
+SOUND: Send confirmation; bridge newsroom voice.
+  15:23.390 S17-N03 Trixie: The headline says payment. It does not say we solved the shortage. [not recorded]
+
+S17-P03 | 15:29.880–15:46.320 | NIP7 Sphynx anchor appears on physical hideout TV; British delivery, evidence photograph inset.
+SOUND: Broadcast filter; authoritative restrained music.
+  15:30.030 S17-D01 NIP7 Anchor: Exclusive tonight: leaked footage shows Chairman Barkington Orders making an undisclosed cash payment to a senior WOOF7 journalist. [not recorded]
+  15:37.430 S17-N04 NIP7 Anchor: The purpose of the payment has not been independently established. We have requested a response from both parties. [not recorded]
+
+S17-P04 | 15:46.320–15:52.760 | Byte celebrates beside screen; Ghost remains measured.
+SOUND: Small cheer then quieter reply.
+  15:46.470 S17-D02 Byte: We fucking got him! [not recorded]
+  15:48.270 S17-D03 Ghost: We got the payment. Not the reason. [not recorded]
+
+S17-P05 | 15:52.760–16:00.000 | Trixie returns to terminal; Byte glances at empty food carton.
+SOUND: News continues softly; cut to newspaper on street.
+  15:52.910 S17-D04 Trixie: Then we keep digging. [not recorded]
+  15:54.710 S17-N05 Byte: Fine. A small victory. Can small victories buy dinner? [not recorded]
+
+SCENE 18 | 16:00–16:35 | Victory? Not Quite
+District 7 streets
+CONTINUITY: Keep exactly five core cats; match current character sheets and fixed location geometry. Goodboy Global spelling throughout.
+
+S18-P01 | 16:00.000–16:03.360 | Street newspaper close: Catnip Times payment report; civilian turns page beside empty stall.
+SOUND: Paper rustles, no victory music.
+  16:00.150 S18-D01 Byte: We exposed the bastard! [not recorded]
+
+S18-P02 | 16:03.360–16:14.520 | Civilian looks from paper to bare freezer; Trixie hears the complaint.
+SOUND: Freezer hum and street voices.
+  16:03.510 S18-N01 Civilian cat: I read your story. The freezer is still empty. What do we eat tonight? [not recorded]
+  16:09.310 S18-N02 Trixie: You are right. A headline is not a meal. [not recorded]
+
+S18-P03 | 16:14.520–16:22.880 | Trixie asks crew; Ghost distinguishes payment from supply evidence.
+SOUND: Quiet serious beat.
+  16:14.670 S18-D02 Trixie: Then why are the stores still empty? [not recorded]
+  16:17.670 S18-D03 Ghost: Because we exposed a payment. Not the supply chain. [not recorded]
+
+S18-P04 | 16:22.880–16:29.240 | Neon checks saved price record and delivery code.
+SOUND: Scanner recognition tone.
+  16:23.030 S18-D04 Neon: Wait. I've got something. [not recorded]
+  16:24.830 S18-N03 Neon: The delivery code matches Byte’s price record. [not recorded]
+
+S18-P05 | 16:29.240–16:35.000 | Ghost leads crew toward lair; Trixie folds newspaper, keeps it.
+SOUND: Investigative pulse returns.
+  16:29.390 S18-N04 Ghost: Back to the lair. Follow the deliveries, not the speeches. [not recorded]
+
+SCENE 19 | 16:35–17:10 | Follow the Fish
+Hacking lair
+CONTINUITY: Supply diversion becomes supportable only after matched dispatch records and truck verification.
+
+S19-P01 | 16:35.000–16:42.800 | Lair terminal: Neon matches tracking code with dispatch entry.
+SOUND: Data ping; no celebratory sound.
+  16:35.150 S19-D01 Neon: There isn't a salmon shortage. [not recorded]
+  16:37.350 S19-D02 Byte: What? [not recorded]
+  16:37.950 S19-D03 Neon: There's a salmon shortage for cats. [not recorded]
+
+S19-P02 | 16:42.800–16:52.200 | Ghost compares dispatch record to public gate camera and truck plate.
+SOUND: Camera playback muted under dialogue.
+  16:42.950 S19-N01 Ghost: These are current dispatch records. Match the truck numbers to the public gate camera before we publish. [not recorded]
+
+S19-P03 | 16:52.200–17:01.400 | Byte highlights cancelled District 7 order and accepted District 2 replacement.
+SOUND: Keyboard stop; Onyx reaction.
+  16:52.350 S19-N02 Byte: District Seven order cancelled. District Two replacement accepted. Same load, same morning. [not recorded]
+  16:57.350 S19-D04 Onyx: Those sons of bitches. [not recorded]
+
+S19-P04 | 17:01.400–17:10.000 | Trixie saves immutable source copy and directs crew to verify gate.
+SOUND: Export confirmation; cut to moving truck.
+  17:01.550 S19-N03 Trixie: Save the records. We verify the trucks at the gate, then get that food moving. [not recorded]
+
+SCENE 20 | 17:10–17:45 | Salmon Headquarters
+Goodboy Global salmon facility
+CONTINUITY: Factory labor and line patrols are standing robot dogs matching provided reference: pointed ears, black armor, red visor, bipedal stance. No civilian dog factory workers.
+
+S20-P01 | 17:10.000–17:15.600 | Factory exterior: refrigerated truck leaves guarded gate, seven-to-twelve bays remain empty.
+SOUND: Refrigeration compressor and heavy tires.
+
+S20-P02 | 17:15.600–17:28.200 | Crew cover: Ghost compares plate with recorded gate footage.
+SOUND: Dry exchange against distant machinery.
+  17:15.750 S20-N01 Ghost: The plate matches. That is the truck from the dispatch record. [not recorded]
+  17:20.350 S20-D01 Trixie: They've been sitting on our food. [not recorded]
+  17:22.950 S20-D02 Byte: Technically, they've been shipping it. [not recorded]
+  17:25.150 S20-D03 Trixie: Not helping, Byte. [not recorded]
+
+S20-P03 | 17:28.200–17:37.000 | Window POV shows standing robot dogs with red visors beside tanks and conveyor.
+SOUND: Mechanical steps, no civilian worker voices.
+  17:28.350 S20-N02 Neon: Standing robot dogs on the floor. Red visors. They patrol the line and respond to the alarm. [not recorded]
+
+S20-P04 | 17:37.000–17:45.000 | Trixie and Neon trace separate cooling/dispatch routes on facility map.
+SOUND: Low caution motif; cut to service lock.
+  17:37.150 S20-N03 Trixie: No one touches the cooling system. We need the fish fresh, and the workers clear. [not recorded]
+
+SCENE 21 | 17:45–18:30 | The Great Salmon Heist
+Factory interior
+CONTINUITY: Do not swap factory robot dogs for four-legged robots or civilian dogs. Keep all five cats accounted for.
+
+S21-P01 | 17:45.000–17:52.086 | Ghost opens service lock; five enter behind cyan tank cover.
+SOUND: Lock release and servo footfalls.
+  17:45.150 S21-N01 Ghost: Service lock is open. Stay behind the tank until the robot turns. [not recorded]
+
+S21-P02 | 17:52.086–17:58.257 | Wide interior: standing robot dogs, central salmon conveyor, cyan tanks, red overhead lamps.
+SOUND: Industrial rhythm, cooling motors continuous.
+
+S21-P03 | 17:58.257–18:06.743 | Trixie and Byte discover refrigerated stockpile, not an empty production line.
+SOUND: Door seal hiss; refrigeration fan.
+  17:58.407 S21-D01 Byte: That's enough salmon to feed half the city! [not recorded]
+  18:01.807 S21-D02 Trixie: And they told us there was none. [not recorded]
+
+S21-P04 | 18:06.743–18:12.629 | Neon at dispatch terminal identifies separate cooling circuit.
+SOUND: Console confirmation.
+  18:06.893 S21-N02 Neon: Dispatch terminal here. Refrigeration is on a separate circuit. [not recorded]
+
+S21-P05 | 18:12.629–18:23.314 | Onyx faces approaching robot; Trixie authorizes defensive strike.
+SOUND: Metal step and quick comic clarification.
+  18:12.779 S21-D03 Onyx: Can I punch something now? [not recorded]
+  18:14.979 S21-D04 Trixie: You have my permission. [not recorded]
+  18:16.779 S21-N03 Onyx: A robot. I am punching a robot. We are being specific. [not recorded]
+
+S21-P06 | 18:23.314–18:30.000 | Onyx blocks robot away from tank; Byte reaches truck controls.
+SOUND: Metal impact, no glass break or civilian injury; cut to console.
+  18:23.464 S21-N04 Trixie: Keep it away from the tanks. Byte, get the truck routes. [not recorded]
+
+SCENE 22 | 18:30–19:05 | Shut It Down
+Factory control room
+CONTINUITY: Dispatch OFF, cooling ON. Preserve original logs; do not destroy food. Initial truck goes to District 7; other deliveries are queued, not all solved onscreen. District 12 permanent exile is not reversed.
+
+S22-P01 | 18:30.000–18:35.633 | Control panel insert: dispatch OFF, cooling ON, safe temperature visible.
+SOUND: Conveyor winds down; refrigeration hum persists.
+  18:30.150 S22-N01 Neon: Dispatch stopped. Cooling stays on. Temperature is stable. [not recorded]
+  18:33.550 S22-D01 Neon: Corporate routing disabled. [not recorded]
+
+S22-P02 | 18:35.633–18:42.867 | Ghost publishes preserved shipment logs with verifiable IDs.
+SOUND: Upload confirmation, public mirrors light.
+  18:35.783 S22-N02 Ghost: Original logs preserved. Public copies include the truck numbers and cancelled orders. [not recorded]
+  18:40.783 S22-D02 Ghost: Shipping records released. [not recorded]
+
+S22-P03 | 18:42.867–18:54.100 | Trixie prioritizes loaded trucks; Byte edits district dispatch queue.
+SOUND: Routing accepted tone.
+  18:43.017 S22-N03 Trixie: Release the already-loaded trucks first. Do not leave fresh stock waiting outside. [not recorded]
+  18:48.017 S22-N04 Byte: District Seven delivery accepted. The other neglected districts are next in the queue. [not recorded]
+
+S22-P04 | 18:54.100–19:01.333 | Gate monitor shows first loaded refrigerated truck turn toward District 7.
+SOUND: Engine start; upbeat motif begins.
+  18:54.250 S22-D03 Byte: Salmon is going back to the cats! [not recorded]
+  18:57.250 S22-D04 Trixie: Now that's what I call a hostile takeover. [not recorded]
+
+S22-P05 | 19:01.333–19:05.000 | Wide control room: all five withdraw via service route while cooling remains active.
+SOUND: Cut on truck engine to market arrival.
+
+SCENE 23 | 19:05–19:30 | Salmon for Everyone
+District 7 market
+CONTINUITY: Keep exactly five core cats; match current character sheets and fixed location geometry. Goodboy Global spelling throughout.
+
+S23-P01 | 19:05.000–19:12.200 | Market wide: first redirected refrigerated truck opens; vendors receive intact cold crates.
+SOUND: British NIP7 report on visible stall radio/TV; crowd cheers.
+  19:05.150 S23-D01 NIP7 Anchor: Newly released records confirm that Goodboy Global diverted salmon shipments away from feline neighborhoods. [not recorded]
+
+S23-P02 | 19:12.200–19:19.200 | Kitten with parent receives portion from vendor; Trixie crouches nearby.
+SOUND: Warm restrained music, crate latch.
+  19:12.350 S23-N01 Kitten: You found it! [not recorded]
+  19:13.750 S23-N02 Trixie: Your mum was right. This is better than a promise. [not recorded]
+
+S23-P03 | 19:19.200–19:25.200 | Crew look over reopened market from low rooftop; Byte celebrates.
+SOUND: Cheers below; final line leaves a warning.
+  19:19.350 S23-D02 Byte: We saved the fucking city! [not recorded]
+  19:21.550 S23-D03 Trixie: We saved dinner. [not recorded]
+  19:22.950 S23-D04 Ghost: For now. [not recorded]
+
+S23-P04 | 19:25.200–19:30.000 | Wide market recovery, not every district solved instantly.
+SOUND: Music carries to home; short time-passage dissolve.
+
+SCENE 24 | 19:30–20:00 | Back to the Game
+Resistance hideout
+CONTINUITY: Exactly five original seats and controllers. Gameplay and override appear inside existing CRT box. End sting and short credit fit within 20:00; no extra runtime appended.
+
+S24-P01 | 19:30.000–19:33.980 | Lounge rear master: five cats return to same five seats; snacks now shared.
+SOUND: Couch creak, contented sighs.
+
+S24-P02 | 19:33.980–19:42.570 | Trixie picks up magenta controller; Byte reaches for amber controller.
+SOUND: Console wake chime.
+  19:34.130 S24-D01 Trixie: All right. Now it's time to finish this mission. [not recorded]
+  19:37.930 S24-D02 Byte: We've been trying to finish this shit all day. [not recorded]
+
+S24-P03 | 19:42.570–19:46.550 | TV BOX close: same bank checkpoint loads, matching five avatars and car damage reset.
+SOUND: Game loading loop resolves to mission sound.
+
+S24-P04 | 19:46.550–19:50.540 | Neon couch close, relieved; others prepare to resume.
+SOUND: Clicks; optimistic beat.
+  19:46.700 S24-D03 Neon: At least nobody can interrupt us now. [not recorded]
+
+S24-P05 | 19:50.540–19:54.130 | TV BOX close: corporate override slams over game inside glass.
+SOUND: WOOF7 Eric broadcast voice; hard corporate sting.
+  19:50.690 S24-D04 TV: Goodboy Global HAS AN IMPORTANT ANNOUNCEMENT— [not recorded]
+
+S24-P06 | 19:54.130–19:58.000 | Onyx reaction with four others in frame, then smash cut to black.
+SOUND: Shouted punchline; music sting.
+  19:54.280 S24-D05 Onyx: OH, FUCK OFF! [not recorded]
+
+S24-P07 | 19:58.000–20:00.000 | End title/short production credit on black.
+SOUND: Two-second resolving sting; end exactly 20:00. Full credits can be separate supplement.

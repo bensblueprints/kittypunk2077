@@ -360,3 +360,15 @@ Render dialogue as one named speaker per file where possible: `S01E01_SC##_SH##_
 
 
 Current location snapshot UTC: 2026-11-06T18:49:14.931317+00:00. All 20 new images and initial QA are complete; final approval remains pending. External synchronization outcomes are recorded in their receipts.
+
+
+## Current pilot production desk
+
+S01E01 production map v003: 24 scenes, 145 continuous shots, 222 dialogue cues, 2,082 words; editorial runtime 20:00. Timings for unrecorded lines remain estimates.
+
+- [Pilot timeline](https://kittypunk.144.76.78.158.sslip.io/studio/episodes/1/1)
+- [Current voice IDs and exports](https://kittypunk.144.76.78.158.sslip.io/studio/voices)
+- Local map: Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Production Map
+- Approved Barkington voice: Matthew Schmitz; Brian archived.
+- Approval policy: active manifests use approved replacements; superseded files move to Archive.
+- Gameplay is always inside the existing television casing. Approved gaming dialogue remains unchanged.

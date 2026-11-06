@@ -1,0 +1,1024 @@
+{
+  "number": 11,
+  "title": "Steak & Bone Surveillance",
+  "start": "09:45",
+  "end": "11:00",
+  "duration_seconds": 75,
+  "source_location": "Restaurant exterior",
+  "location_ids": [
+    "LOC10"
+  ],
+  "staging": "Scene 11 — Steak & Bone Surveillance\n\n09:45–11:00 · 75 sec · Restaurant exterior\n\nThe crew arrives at Steak & Bone. Dog security guards patrol the entrances. Ghost identifies a service access route while Trixie spots Barkington's limousine arriving.\n\nShots: Restaurant establishing → security positions → Barkington arriving → rooftop surveillance perspective → close-up of Trixie's camera.",
+  "sound": "",
+  "lines": [
+    {
+      "id": "S11-D01",
+      "speaker": "Byte",
+      "text": "That restaurant costs more per meal than our entire building.",
+      "takes": [],
+      "origin": "retained working script",
+      "recording_status": "not recorded",
+      "start_sec": 585.15,
+      "end_sec": 589.15,
+      "start_tc": "09:45.150",
+      "end_tc": "09:49.150",
+      "shot_id": "S11-P01",
+      "timing_basis": "estimate at 150 words/minute; replace after recording",
+      "role_id": "byte",
+      "voice_id": "wo6udizrrtpIxWGp2qJk",
+      "voice_name": "Northern Terry"
+    },
+    {
+      "id": "S11-D02",
+      "speaker": "Onyx",
+      "text": "Can we eat first?",
+      "takes": [],
+      "origin": "retained working script",
+      "recording_status": "not recorded",
+      "start_sec": 589.35,
+      "end_sec": 590.95,
+      "start_tc": "09:49.350",
+      "end_tc": "09:50.950",
+      "shot_id": "S11-P01",
+      "timing_basis": "estimate at 150 words/minute; replace after recording",
+      "role_id": "onyx",
+      "voice_id": "uq0HIbNZKn11Hs5ifEdd",
+      "voice_name": "Harry — Fierce Warrior"
+    },
+    {
+      "id": "S11-N01",
+      "speaker": "Ghost",
+      "text": "Front door has two guards. Service door has one camera. Their patrol crosses the alley every forty seconds.",
+      "takes": [],
+      "origin": "new production draft v003; not yet recorded",
+      "recording_status": "not recorded",
+      "start_sec": 593.594,
+      "end_sec": 600.794,
+      "start_tc": "09:53.594",
+      "end_tc": "10:00.794",
+      "shot_id": "S11-P02",
+      "timing_basis": "estimate at 150 words/minute; replace after recording",
+      "role_id": "ghost",
+      "voice_id": "7fBwqIVI6wI1B4MuKqQi",
+      "voice_name": "Austin — Upbeat"
+    },
+    {
+      "id": "S11-N02",
+      "speaker": "Byte",
+      "text": "I am staying at this relay point. If you lose my signal, do not invent a heroic alternative.",
+      "takes": [],
+      "origin": "new production draft v003; not yet recorded",
+      "recording_status": "not recorded",
+      "start_sec": 603.439,
+      "end_sec": 610.639,
+      "start_tc": "10:03.439",
+      "end_tc": "10:10.639",
+      "shot_id": "S11-P03",
+      "timing_basis": "estimate at 150 words/minute; replace after recording",
+      "role_id": "byte",
+      "voice_id": "wo6udizrrtpIxWGp2qJk",
+      "voice_name": "Northern Terry"
+    },
+    {
+      "id": "S11-N03",
+      "speaker": "Onyx",
+      "text": "I stay by the service exit. Same way in, same way out.",
+      "takes": [],
+      "origin": "new production draft v003; not yet recorded",
+      "recording_status": "not recorded",
+      "start_sec": 610.839,
+      "end_sec": 615.639,
+      "start_tc": "10:10.839",
+      "end_tc": "10:15.639",
+      "shot_id": "S11-P03",
+      "timing_basis": "estimate at 150 words/minute; replace after recording",
+      "role_id": "onyx",
+      "voice_id": "uq0HIbNZKn11Hs5ifEdd",
+      "voice_name": "Harry — Fierce Warrior"
+    },
+    {
+      "id": "S11-N04",
+      "speaker": "Trixie",
+      "text": "That is Barkington. The entourage came in the limousine. Keep the plate in the recording.",
+      "takes": [],
+      "origin": "new production draft v003; not yet recorded",
+      "recording_status": "not recorded",
+      "start_sec": 618.283,
+      "end_sec": 624.283,
+      "start_tc": "10:18.283",
+      "end_tc": "10:24.283",
+      "shot_id": "S11-P04",
+      "timing_basis": "estimate at 150 words/minute; replace after recording",
+      "role_id": "trixie",
+      "voice_id": "dmWfLQZJq7wNPv9WmtiM",
+      "voice_name": "Emma — Wry, Gritty Hero"
+    },
+    {
+      "id": "S11-N05",
+      "speaker": "Neon",
+      "text": "The anchor is already inside. Private room, rear wall, blinds half closed.",
+      "takes": [],
+      "origin": "new production draft v003; not yet recorded",
+      "recording_status": "not recorded",
+      "start_sec": 626.928,
+      "end_sec": 631.728,
+      "start_tc": "10:26.928",
+      "end_tc": "10:31.728",
+      "shot_id": "S11-P05",
+      "timing_basis": "estimate at 150 words/minute; replace after recording",
+      "role_id": "neon",
+      "voice_id": "4e32WqNVWRquDa1OcRYZ",
+      "voice_name": "Ryan — Product Reviewer"
+    },
+    {
+      "id": "S11-D03",
+      "speaker": "Ghost",
+      "text": "Target's inside.",
+      "takes": [],
+      "origin": "retained working script",
+      "recording_status": "not recorded",
+      "start_sec": 631.928,
+      "end_sec": 632.728,
+      "start_tc": "10:31.928",
+      "end_tc": "10:32.728",
+      "shot_id": "S11-P05",
+      "timing_basis": "estimate at 150 words/minute; replace after recording",
+      "role_id": "ghost",
+      "voice_id": "7fBwqIVI6wI1B4MuKqQi",
+      "voice_name": "Austin — Upbeat"
+    },
+    {
+      "id": "S11-N06",
+      "speaker": "Ghost",
+      "text": "We can reach the hatch without crossing the main dining room.",
+      "takes": [],
+      "origin": "new production draft v003; not yet recorded",
+      "recording_status": "not recorded",
+      "start_sec": 635.372,
+      "end_sec": 639.772,
+      "start_tc": "10:35.372",
+      "end_tc": "10:39.772",
+      "shot_id": "S11-P06",
+      "timing_basis": "estimate at 150 words/minute; replace after recording",
+      "role_id": "ghost",
+      "voice_id": "7fBwqIVI6wI1B4MuKqQi",
+      "voice_name": "Austin — Upbeat"
+    },
+    {
+      "id": "S11-D04",
+      "speaker": "Trixie",
+      "text": "Nobody touches anything until we have evidence.",
+      "takes": [],
+      "origin": "retained working script",
+      "recording_status": "not recorded",
+      "start_sec": 642.417,
+      "end_sec": 645.217,
+      "start_tc": "10:42.417",
+      "end_tc": "10:45.217",
+      "shot_id": "S11-P07",
+      "timing_basis": "estimate at 150 words/minute; replace after recording",
+      "role_id": "trixie",
+      "voice_id": "dmWfLQZJq7wNPv9WmtiM",
+      "voice_name": "Emma — Wry, Gritty Hero"
+    },
+    {
+      "id": "S11-N07",
+      "speaker": "Trixie",
+      "text": "Wait for the patrol to turn. We go together, and we leave together.",
+      "takes": [],
+      "origin": "new production draft v003; not yet recorded",
+      "recording_status": "not recorded",
+      "start_sec": 645.417,
+      "end_sec": 650.617,
+      "start_tc": "10:45.417",
+      "end_tc": "10:50.617",
+      "shot_id": "S11-P07",
+      "timing_basis": "estimate at 150 words/minute; replace after recording",
+      "role_id": "trixie",
+      "voice_id": "dmWfLQZJq7wNPv9WmtiM",
+      "voice_name": "Emma — Wry, Gritty Hero"
+    }
+  ],
+  "shots": [
+    {
+      "shot_id": "S11-B01",
+      "description": "Restaurant establishing",
+      "status": "source shot beat; detailed shot duration and coverage pending",
+      "duration_seconds": null
+    },
+    {
+      "shot_id": "S11-B02",
+      "description": "security positions",
+      "status": "source shot beat; detailed shot duration and coverage pending",
+      "duration_seconds": null
+    },
+    {
+      "shot_id": "S11-B03",
+      "description": "Barkington arriving",
+      "status": "source shot beat; detailed shot duration and coverage pending",
+      "duration_seconds": null
+    },
+    {
+      "shot_id": "S11-B04",
+      "description": "rooftop surveillance perspective",
+      "status": "source shot beat; detailed shot duration and coverage pending",
+      "duration_seconds": null
+    },
+    {
+      "shot_id": "S11-B05",
+      "description": "close-up of Trixie's camera.",
+      "status": "source shot beat; detailed shot duration and coverage pending",
+      "duration_seconds": null
+    }
+  ],
+  "locations": [
+    {
+      "id": "0046cc574d900e8d",
+      "title": "LOC10 - Steak & Bone exterior and security",
+      "category": "Locations",
+      "group": "Dogs",
+      "file": "LOC10-steak-bone-exterior-and-security-gpt26-v001.png",
+      "source": "Locations\\Dogs\\LOC10 - Steak & Bone exterior and security\\Reference Sheets\\LOC10-steak-bone-exterior-and-security-gpt26-v001.png",
+      "voice": ""
+    }
+  ],
+  "frames": [],
+  "assemblies": [],
+  "timed_shots": [
+    {
+      "shot_id": "S11-P01",
+      "camera_action": "Restaurant exterior wide, luxury doorway, wet service alley visible on correct side.",
+      "sound_transition": "Valet chatter and distant soft jazz.",
+      "dialogue_ids": [
+        "S11-D01",
+        "S11-D02"
+      ],
+      "start_sec": 585,
+      "end_sec": 593.444,
+      "duration_sec": 8.444,
+      "scene_start_sec": 0,
+      "scene_end_sec": 8.444,
+      "start_tc": "09:45.000",
+      "end_tc": "09:53.444",
+      "status": "editorial plan; animation not yet produced",
+      "asset_requirements": {
+        "locations": [
+          "LOC10"
+        ],
+        "existing_reference_count": 1,
+        "new_image_needed": "camera-specific review still or approved matching frame; audit before generating",
+        "animation": "not generated; Higgsfield is for stills only",
+        "audio": "ElevenLabs dialogue, separate room tone/foley/music mix",
+        "special": "Preserve named character identities, set geometry and screen direction."
+      },
+      "speaking_roles": [
+        "byte",
+        "onyx"
+      ],
+      "reference_pack": [
+        {
+          "id": "0046cc574d900e8d",
+          "title": "LOC10 - Steak & Bone exterior and security",
+          "url": "/library/0046cc574d900e8d.jpg",
+          "purpose": "Primary set geometry"
+        },
+        {
+          "id": "a23590fe66ebce01",
+          "title": "Byte",
+          "url": "/library/a23590fe66ebce01.jpg",
+          "purpose": "Visible character identity / framing context; do not render offscreen speakers"
+        },
+        {
+          "id": "8ac469710ff37bec",
+          "title": "Onyx",
+          "url": "/library/8ac469710ff37bec.jpg",
+          "purpose": "Visible character identity / framing context; do not render offscreen speakers"
+        },
+        {
+          "id": "734220511f50bc56",
+          "title": "ACT08 — Security hardware",
+          "url": "/library/734220511f50bc56.jpg",
+          "purpose": "Visible prop"
+        }
+      ],
+      "reference_pack_count": 4,
+      "reference_overflow": [],
+      "wan_plan": {
+        "model": "WAN 3.0 Prime",
+        "provider": "awaiting provider confirmation",
+        "mode": "single composed first-frame image-to-video",
+        "upload_image_count": 1,
+        "first_frame_status": "needs shot-specific composition and review",
+        "first_frame_id": null,
+        "reference_mode_cap": 10,
+        "cap_status": "documented by Runway and Wan API; target provider still to confirm",
+        "reference_mode_sources": [
+          "https://dev.runwayml.com/learn/wan-3-0-api",
+          "https://wanapi.app/docs/wan-3-0-prime"
+        ],
+        "audio": false,
+        "audio_policy": "Use the existing/approved ElevenLabs tracks in the edit. Do not generate replacement speech.",
+        "requested_duration_seconds": 9,
+        "edit_duration_seconds": 8.444,
+        "note": "Source reference pack is for preparing the still. Upload ONE approved composed frame to WAN; do not mix it with this whole reference pack. Trim generated clip to editorial duration; do not stretch speech."
+      }
+    },
+    {
+      "shot_id": "S11-P02",
+      "camera_action": "Rooftop surveillance POV maps two front guards, one camera, service patrol path.",
+      "sound_transition": "Comms lightly filtered.",
+      "dialogue_ids": [
+        "S11-N01"
+      ],
+      "start_sec": 593.444,
+      "end_sec": 603.289,
+      "duration_sec": 9.845,
+      "scene_start_sec": 8.444,
+      "scene_end_sec": 18.289,
+      "start_tc": "09:53.444",
+      "end_tc": "10:03.289",
+      "status": "editorial plan; animation not yet produced",
+      "asset_requirements": {
+        "locations": [
+          "LOC10"
+        ],
+        "existing_reference_count": 1,
+        "new_image_needed": "camera-specific review still or approved matching frame; audit before generating",
+        "animation": "not generated; Higgsfield is for stills only",
+        "audio": "ElevenLabs dialogue, separate room tone/foley/music mix",
+        "special": "Preserve named character identities, set geometry and screen direction."
+      },
+      "speaking_roles": [
+        "ghost"
+      ],
+      "reference_pack": [
+        {
+          "id": "0046cc574d900e8d",
+          "title": "LOC10 - Steak & Bone exterior and security",
+          "url": "/library/0046cc574d900e8d.jpg",
+          "purpose": "Primary set geometry"
+        },
+        {
+          "id": "61dc338e08cb2385",
+          "title": "Ghost",
+          "url": "/library/61dc338e08cb2385.jpg",
+          "purpose": "Visible character identity / framing context; do not render offscreen speakers"
+        },
+        {
+          "id": "1805dba43ab01111",
+          "title": "Guard A - Restaurant",
+          "url": "/library/1805dba43ab01111.jpg",
+          "purpose": "Visible character identity / framing context; do not render offscreen speakers"
+        },
+        {
+          "id": "a207a669e0948779",
+          "title": "Guard B - Restaurant",
+          "url": "/library/a207a669e0948779.jpg",
+          "purpose": "Visible character identity / framing context; do not render offscreen speakers"
+        },
+        {
+          "id": "522b0ca7d3be2688",
+          "title": "ACT02 — Surveillance kit",
+          "url": "/library/522b0ca7d3be2688.jpg",
+          "purpose": "Visible prop"
+        },
+        {
+          "id": "734220511f50bc56",
+          "title": "ACT08 — Security hardware",
+          "url": "/library/734220511f50bc56.jpg",
+          "purpose": "Visible prop"
+        }
+      ],
+      "reference_pack_count": 6,
+      "reference_overflow": [],
+      "wan_plan": {
+        "model": "WAN 3.0 Prime",
+        "provider": "awaiting provider confirmation",
+        "mode": "single composed first-frame image-to-video",
+        "upload_image_count": 1,
+        "first_frame_status": "needs shot-specific composition and review",
+        "first_frame_id": null,
+        "reference_mode_cap": 10,
+        "cap_status": "documented by Runway and Wan API; target provider still to confirm",
+        "reference_mode_sources": [
+          "https://dev.runwayml.com/learn/wan-3-0-api",
+          "https://wanapi.app/docs/wan-3-0-prime"
+        ],
+        "audio": false,
+        "audio_policy": "Use the existing/approved ElevenLabs tracks in the edit. Do not generate replacement speech.",
+        "requested_duration_seconds": 10,
+        "edit_duration_seconds": 9.845,
+        "note": "Source reference pack is for preparing the still. Upload ONE approved composed frame to WAN; do not mix it with this whole reference pack. Trim generated clip to editorial duration; do not stretch speech."
+      }
+    },
+    {
+      "shot_id": "S11-P03",
+      "camera_action": "Byte at external relay cover; Onyx moves toward service-exit post.",
+      "sound_transition": "Radio clicks; city traffic.",
+      "dialogue_ids": [
+        "S11-N02",
+        "S11-N03"
+      ],
+      "start_sec": 603.289,
+      "end_sec": 618.133,
+      "duration_sec": 14.844,
+      "scene_start_sec": 18.289,
+      "scene_end_sec": 33.133,
+      "start_tc": "10:03.289",
+      "end_tc": "10:18.133",
+      "status": "editorial plan; animation not yet produced",
+      "asset_requirements": {
+        "locations": [
+          "LOC10"
+        ],
+        "existing_reference_count": 1,
+        "new_image_needed": "camera-specific review still or approved matching frame; audit before generating",
+        "animation": "not generated; Higgsfield is for stills only",
+        "audio": "ElevenLabs dialogue, separate room tone/foley/music mix",
+        "special": "Preserve named character identities, set geometry and screen direction."
+      },
+      "speaking_roles": [
+        "byte",
+        "onyx"
+      ],
+      "reference_pack": [
+        {
+          "id": "0046cc574d900e8d",
+          "title": "LOC10 - Steak & Bone exterior and security",
+          "url": "/library/0046cc574d900e8d.jpg",
+          "purpose": "Primary set geometry"
+        },
+        {
+          "id": "a23590fe66ebce01",
+          "title": "Byte",
+          "url": "/library/a23590fe66ebce01.jpg",
+          "purpose": "Visible character identity / framing context; do not render offscreen speakers"
+        },
+        {
+          "id": "8ac469710ff37bec",
+          "title": "Onyx",
+          "url": "/library/8ac469710ff37bec.jpg",
+          "purpose": "Visible character identity / framing context; do not render offscreen speakers"
+        }
+      ],
+      "reference_pack_count": 3,
+      "reference_overflow": [],
+      "wan_plan": {
+        "model": "WAN 3.0 Prime",
+        "provider": "awaiting provider confirmation",
+        "mode": "single composed first-frame image-to-video",
+        "upload_image_count": 1,
+        "first_frame_status": "needs shot-specific composition and review",
+        "first_frame_id": null,
+        "reference_mode_cap": 10,
+        "cap_status": "documented by Runway and Wan API; target provider still to confirm",
+        "reference_mode_sources": [
+          "https://dev.runwayml.com/learn/wan-3-0-api",
+          "https://wanapi.app/docs/wan-3-0-prime"
+        ],
+        "audio": false,
+        "audio_policy": "Use the existing/approved ElevenLabs tracks in the edit. Do not generate replacement speech.",
+        "requested_duration_seconds": 15,
+        "edit_duration_seconds": 14.844,
+        "note": "Source reference pack is for preparing the still. Upload ONE approved composed frame to WAN; do not mix it with this whole reference pack. Trim generated clip to editorial duration; do not stretch speech."
+      }
+    },
+    {
+      "shot_id": "S11-P04",
+      "camera_action": "Entourage limousine arrives; Barkington exits with dogs, not his personal Dog Royce.",
+      "sound_transition": "Limo door, valet welcome, camera records plate.",
+      "dialogue_ids": [
+        "S11-N04"
+      ],
+      "start_sec": 618.133,
+      "end_sec": 626.778,
+      "duration_sec": 8.645,
+      "scene_start_sec": 33.133,
+      "scene_end_sec": 41.778,
+      "start_tc": "10:18.133",
+      "end_tc": "10:26.778",
+      "status": "editorial plan; animation not yet produced",
+      "asset_requirements": {
+        "locations": [
+          "LOC10"
+        ],
+        "existing_reference_count": 1,
+        "new_image_needed": "camera-specific review still or approved matching frame; audit before generating",
+        "animation": "not generated; Higgsfield is for stills only",
+        "audio": "ElevenLabs dialogue, separate room tone/foley/music mix",
+        "special": "Preserve named character identities, set geometry and screen direction."
+      },
+      "speaking_roles": [
+        "trixie"
+      ],
+      "reference_pack": [
+        {
+          "id": "0046cc574d900e8d",
+          "title": "LOC10 - Steak & Bone exterior and security",
+          "url": "/library/0046cc574d900e8d.jpg",
+          "purpose": "Primary set geometry"
+        },
+        {
+          "id": "51c0358d041cc3ba",
+          "title": "Trixie - CatGirl",
+          "url": "/library/51c0358d041cc3ba.jpg",
+          "purpose": "Visible character identity / framing context; do not render offscreen speakers"
+        },
+        {
+          "id": "1c4ee9bebe128fe3",
+          "title": "ACT07 — Restaurant limousine",
+          "url": "/library/1c4ee9bebe128fe3.jpg",
+          "purpose": "Visible prop"
+        }
+      ],
+      "reference_pack_count": 3,
+      "reference_overflow": [],
+      "wan_plan": {
+        "model": "WAN 3.0 Prime",
+        "provider": "awaiting provider confirmation",
+        "mode": "single composed first-frame image-to-video",
+        "upload_image_count": 1,
+        "first_frame_status": "needs shot-specific composition and review",
+        "first_frame_id": null,
+        "reference_mode_cap": 10,
+        "cap_status": "documented by Runway and Wan API; target provider still to confirm",
+        "reference_mode_sources": [
+          "https://dev.runwayml.com/learn/wan-3-0-api",
+          "https://wanapi.app/docs/wan-3-0-prime"
+        ],
+        "audio": false,
+        "audio_policy": "Use the existing/approved ElevenLabs tracks in the edit. Do not generate replacement speech.",
+        "requested_duration_seconds": 9,
+        "edit_duration_seconds": 8.645,
+        "note": "Source reference pack is for preparing the still. Upload ONE approved composed frame to WAN; do not mix it with this whole reference pack. Trim generated clip to editorial duration; do not stretch speech."
+      }
+    },
+    {
+      "shot_id": "S11-P05",
+      "camera_action": "Private-room window glimpse confirms anchor already seated.",
+      "sound_transition": "Jazz muffled behind glass.",
+      "dialogue_ids": [
+        "S11-N05",
+        "S11-D03"
+      ],
+      "start_sec": 626.778,
+      "end_sec": 635.222,
+      "duration_sec": 8.444,
+      "scene_start_sec": 41.778,
+      "scene_end_sec": 50.222,
+      "start_tc": "10:26.778",
+      "end_tc": "10:35.222",
+      "status": "editorial plan; animation not yet produced",
+      "asset_requirements": {
+        "locations": [
+          "LOC10"
+        ],
+        "existing_reference_count": 1,
+        "new_image_needed": "camera-specific review still or approved matching frame; audit before generating",
+        "animation": "not generated; Higgsfield is for stills only",
+        "audio": "ElevenLabs dialogue, separate room tone/foley/music mix",
+        "special": "Preserve named character identities, set geometry and screen direction."
+      },
+      "speaking_roles": [
+        "ghost",
+        "neon"
+      ],
+      "reference_pack": [
+        {
+          "id": "0046cc574d900e8d",
+          "title": "LOC10 - Steak & Bone exterior and security",
+          "url": "/library/0046cc574d900e8d.jpg",
+          "purpose": "Primary set geometry"
+        },
+        {
+          "id": "61dc338e08cb2385",
+          "title": "Ghost",
+          "url": "/library/61dc338e08cb2385.jpg",
+          "purpose": "Visible character identity / framing context; do not render offscreen speakers"
+        },
+        {
+          "id": "c59f876dfb3540bb",
+          "title": "Neon",
+          "url": "/library/c59f876dfb3540bb.jpg",
+          "purpose": "Visible character identity / framing context; do not render offscreen speakers"
+        }
+      ],
+      "reference_pack_count": 3,
+      "reference_overflow": [],
+      "wan_plan": {
+        "model": "WAN 3.0 Prime",
+        "provider": "awaiting provider confirmation",
+        "mode": "single composed first-frame image-to-video",
+        "upload_image_count": 1,
+        "first_frame_status": "needs shot-specific composition and review",
+        "first_frame_id": null,
+        "reference_mode_cap": 10,
+        "cap_status": "documented by Runway and Wan API; target provider still to confirm",
+        "reference_mode_sources": [
+          "https://dev.runwayml.com/learn/wan-3-0-api",
+          "https://wanapi.app/docs/wan-3-0-prime"
+        ],
+        "audio": false,
+        "audio_policy": "Use the existing/approved ElevenLabs tracks in the edit. Do not generate replacement speech.",
+        "requested_duration_seconds": 9,
+        "edit_duration_seconds": 8.444,
+        "note": "Source reference pack is for preparing the still. Upload ONE approved composed frame to WAN; do not mix it with this whole reference pack. Trim generated clip to editorial duration; do not stretch speech."
+      }
+    },
+    {
+      "shot_id": "S11-P06",
+      "camera_action": "Ghost marks service-hatch route on compact map, not a new unexplained entrance.",
+      "sound_transition": "Single route-confirm tone.",
+      "dialogue_ids": [
+        "S11-N06"
+      ],
+      "start_sec": 635.222,
+      "end_sec": 642.267,
+      "duration_sec": 7.045,
+      "scene_start_sec": 50.222,
+      "scene_end_sec": 57.267,
+      "start_tc": "10:35.222",
+      "end_tc": "10:42.267",
+      "status": "editorial plan; animation not yet produced",
+      "asset_requirements": {
+        "locations": [
+          "LOC10"
+        ],
+        "existing_reference_count": 1,
+        "new_image_needed": "camera-specific review still or approved matching frame; audit before generating",
+        "animation": "not generated; Higgsfield is for stills only",
+        "audio": "ElevenLabs dialogue, separate room tone/foley/music mix",
+        "special": "Preserve named character identities, set geometry and screen direction."
+      },
+      "speaking_roles": [
+        "ghost"
+      ],
+      "reference_pack": [
+        {
+          "id": "0046cc574d900e8d",
+          "title": "LOC10 - Steak & Bone exterior and security",
+          "url": "/library/0046cc574d900e8d.jpg",
+          "purpose": "Primary set geometry"
+        },
+        {
+          "id": "61dc338e08cb2385",
+          "title": "Ghost",
+          "url": "/library/61dc338e08cb2385.jpg",
+          "purpose": "Visible character identity / framing context; do not render offscreen speakers"
+        },
+        {
+          "id": "522b0ca7d3be2688",
+          "title": "ACT02 — Surveillance kit",
+          "url": "/library/522b0ca7d3be2688.jpg",
+          "purpose": "Visible prop"
+        }
+      ],
+      "reference_pack_count": 3,
+      "reference_overflow": [],
+      "wan_plan": {
+        "model": "WAN 3.0 Prime",
+        "provider": "awaiting provider confirmation",
+        "mode": "single composed first-frame image-to-video",
+        "upload_image_count": 1,
+        "first_frame_status": "needs shot-specific composition and review",
+        "first_frame_id": null,
+        "reference_mode_cap": 10,
+        "cap_status": "documented by Runway and Wan API; target provider still to confirm",
+        "reference_mode_sources": [
+          "https://dev.runwayml.com/learn/wan-3-0-api",
+          "https://wanapi.app/docs/wan-3-0-prime"
+        ],
+        "audio": false,
+        "audio_policy": "Use the existing/approved ElevenLabs tracks in the edit. Do not generate replacement speech.",
+        "requested_duration_seconds": 8,
+        "edit_duration_seconds": 7.045,
+        "note": "Source reference pack is for preparing the still. Upload ONE approved composed frame to WAN; do not mix it with this whole reference pack. Trim generated clip to editorial duration; do not stretch speech."
+      }
+    },
+    {
+      "shot_id": "S11-P07",
+      "camera_action": "Trixie checks camera; crew waits for patrol to turn.",
+      "sound_transition": "Hold patrol footsteps, then silence.",
+      "dialogue_ids": [
+        "S11-D04",
+        "S11-N07"
+      ],
+      "start_sec": 642.267,
+      "end_sec": 653.111,
+      "duration_sec": 10.844,
+      "scene_start_sec": 57.267,
+      "scene_end_sec": 68.111,
+      "start_tc": "10:42.267",
+      "end_tc": "10:53.111",
+      "status": "editorial plan; animation not yet produced",
+      "asset_requirements": {
+        "locations": [
+          "LOC10"
+        ],
+        "existing_reference_count": 1,
+        "new_image_needed": "camera-specific review still or approved matching frame; audit before generating",
+        "animation": "not generated; Higgsfield is for stills only",
+        "audio": "ElevenLabs dialogue, separate room tone/foley/music mix",
+        "special": "Preserve named character identities, set geometry and screen direction."
+      },
+      "speaking_roles": [
+        "trixie"
+      ],
+      "reference_pack": [
+        {
+          "id": "0046cc574d900e8d",
+          "title": "LOC10 - Steak & Bone exterior and security",
+          "url": "/library/0046cc574d900e8d.jpg",
+          "purpose": "Primary set geometry"
+        },
+        {
+          "id": "51c0358d041cc3ba",
+          "title": "Trixie - CatGirl",
+          "url": "/library/51c0358d041cc3ba.jpg",
+          "purpose": "Visible character identity / framing context; do not render offscreen speakers"
+        },
+        {
+          "id": "a23590fe66ebce01",
+          "title": "Byte",
+          "url": "/library/a23590fe66ebce01.jpg",
+          "purpose": "Visible character identity / framing context; do not render offscreen speakers"
+        },
+        {
+          "id": "61dc338e08cb2385",
+          "title": "Ghost",
+          "url": "/library/61dc338e08cb2385.jpg",
+          "purpose": "Visible character identity / framing context; do not render offscreen speakers"
+        },
+        {
+          "id": "8ac469710ff37bec",
+          "title": "Onyx",
+          "url": "/library/8ac469710ff37bec.jpg",
+          "purpose": "Visible character identity / framing context; do not render offscreen speakers"
+        },
+        {
+          "id": "c59f876dfb3540bb",
+          "title": "Neon",
+          "url": "/library/c59f876dfb3540bb.jpg",
+          "purpose": "Visible character identity / framing context; do not render offscreen speakers"
+        },
+        {
+          "id": "522b0ca7d3be2688",
+          "title": "ACT02 — Surveillance kit",
+          "url": "/library/522b0ca7d3be2688.jpg",
+          "purpose": "Visible prop"
+        },
+        {
+          "id": "734220511f50bc56",
+          "title": "ACT08 — Security hardware",
+          "url": "/library/734220511f50bc56.jpg",
+          "purpose": "Visible prop"
+        }
+      ],
+      "reference_pack_count": 8,
+      "reference_overflow": [],
+      "wan_plan": {
+        "model": "WAN 3.0 Prime",
+        "provider": "awaiting provider confirmation",
+        "mode": "single composed first-frame image-to-video",
+        "upload_image_count": 1,
+        "first_frame_status": "needs shot-specific composition and review",
+        "first_frame_id": null,
+        "reference_mode_cap": 10,
+        "cap_status": "documented by Runway and Wan API; target provider still to confirm",
+        "reference_mode_sources": [
+          "https://dev.runwayml.com/learn/wan-3-0-api",
+          "https://wanapi.app/docs/wan-3-0-prime"
+        ],
+        "audio": false,
+        "audio_policy": "Use the existing/approved ElevenLabs tracks in the edit. Do not generate replacement speech.",
+        "requested_duration_seconds": 11,
+        "edit_duration_seconds": 10.844,
+        "note": "Source reference pack is for preparing the still. Upload ONE approved composed frame to WAN; do not mix it with this whole reference pack. Trim generated clip to editorial duration; do not stretch speech."
+      }
+    },
+    {
+      "shot_id": "S11-P08",
+      "camera_action": "Neon lowers first decoy beside bins; look from Trixie signals go.",
+      "sound_transition": "Rain drip cut to first decoy wheel.",
+      "dialogue_ids": [],
+      "start_sec": 653.111,
+      "end_sec": 660.0,
+      "duration_sec": 6.889,
+      "scene_start_sec": 68.111,
+      "scene_end_sec": 75.0,
+      "start_tc": "10:53.111",
+      "end_tc": "11:00.000",
+      "status": "editorial plan; animation not yet produced",
+      "asset_requirements": {
+        "locations": [
+          "LOC10"
+        ],
+        "existing_reference_count": 1,
+        "new_image_needed": "camera-specific review still or approved matching frame; audit before generating",
+        "animation": "not generated; Higgsfield is for stills only",
+        "audio": "ElevenLabs dialogue, separate room tone/foley/music mix",
+        "special": "Preserve named character identities, set geometry and screen direction."
+      },
+      "speaking_roles": [],
+      "reference_pack": [
+        {
+          "id": "0046cc574d900e8d",
+          "title": "LOC10 - Steak & Bone exterior and security",
+          "url": "/library/0046cc574d900e8d.jpg",
+          "purpose": "Primary set geometry"
+        },
+        {
+          "id": "51c0358d041cc3ba",
+          "title": "Trixie - CatGirl",
+          "url": "/library/51c0358d041cc3ba.jpg",
+          "purpose": "Visible character identity / framing context; do not render offscreen speakers"
+        },
+        {
+          "id": "c59f876dfb3540bb",
+          "title": "Neon",
+          "url": "/library/c59f876dfb3540bb.jpg",
+          "purpose": "Visible character identity / framing context; do not render offscreen speakers"
+        }
+      ],
+      "reference_pack_count": 3,
+      "reference_overflow": [],
+      "wan_plan": {
+        "model": "WAN 3.0 Prime",
+        "provider": "awaiting provider confirmation",
+        "mode": "single composed first-frame image-to-video",
+        "upload_image_count": 1,
+        "first_frame_status": "needs shot-specific composition and review",
+        "first_frame_id": null,
+        "reference_mode_cap": 10,
+        "cap_status": "documented by Runway and Wan API; target provider still to confirm",
+        "reference_mode_sources": [
+          "https://dev.runwayml.com/learn/wan-3-0-api",
+          "https://wanapi.app/docs/wan-3-0-prime"
+        ],
+        "audio": false,
+        "audio_policy": "Use the existing/approved ElevenLabs tracks in the edit. Do not generate replacement speech.",
+        "requested_duration_seconds": 7,
+        "edit_duration_seconds": 6.889,
+        "note": "Source reference pack is for preparing the still. Upload ONE approved composed frame to WAN; do not mix it with this whole reference pack. Trim generated clip to editorial duration; do not stretch speech."
+      }
+    }
+  ],
+  "spoken_words": 122,
+  "recorded_lines": 0,
+  "timing_note": "Exact editorial allocation. Existing takes use measured file durations; unrecorded lines use 150 wpm estimates. Action plays under dialogue where indicated. No time stretching or blank padding.",
+  "remaining_work": [
+    "Record and review new/unrecorded dialogue in ElevenLabs.",
+    "Build camera-specific stills from established references; review identity and geography.",
+    "Animate approved shots outside Higgsfield, then conform to this timeline.",
+    "Mix room tone, foley, music and dialogue; verify a full-speed table read and animatic."
+  ],
+  "continuity": "Restaurant entourage limousine is appropriate here. Dog Royce is Barkington’s spotted personal town car, not this vehicle.",
+  "generation_references": [
+    {
+      "id": "0046cc574d900e8d",
+      "title": "LOC10 - Steak & Bone exterior and security",
+      "filename": "LOC10-steak-bone-exterior-and-security-gpt26-v001.png",
+      "kind": "Location",
+      "purpose": "Set geography, doors, windows and camera axis.",
+      "url": "/library/0046cc574d900e8d.jpg",
+      "thumbnail": "/library/0046cc574d900e8d.webp",
+      "source": "Locations\\Dogs\\LOC10 - Steak & Bone exterior and security\\Reference Sheets\\LOC10-steak-bone-exterior-and-security-gpt26-v001.png",
+      "status": "existing reference; review before generation"
+    },
+    {
+      "id": "51c0358d041cc3ba",
+      "title": "Trixie - CatGirl",
+      "filename": "CREW01-trixie-character-master-gpt26-v001.png",
+      "kind": "Character",
+      "purpose": "Preserve identity, proportions, outfit and accessories. Include only actors visible in the shot.",
+      "url": "/library/51c0358d041cc3ba.jpg",
+      "thumbnail": "/library/51c0358d041cc3ba.webp",
+      "source": "Characters\\Cats - Resistance\\Trixie - CatGirl\\Reference Sheets\\CREW01-trixie-character-master-gpt26-v001.png",
+      "status": "existing reference; review before generation"
+    },
+    {
+      "id": "a23590fe66ebce01",
+      "title": "Byte",
+      "filename": "CREW02-byte-character-master-gpt26-v001.png",
+      "kind": "Character",
+      "purpose": "Preserve identity, proportions, outfit and accessories. Include only actors visible in the shot.",
+      "url": "/library/a23590fe66ebce01.jpg",
+      "thumbnail": "/library/a23590fe66ebce01.webp",
+      "source": "Characters\\Cats - Resistance\\Byte\\Reference Sheets\\CREW02-byte-character-master-gpt26-v001.png",
+      "status": "existing reference; review before generation"
+    },
+    {
+      "id": "61dc338e08cb2385",
+      "title": "Ghost",
+      "filename": "CREW03-ghost-character-master-gpt26-v001.png",
+      "kind": "Character",
+      "purpose": "Preserve identity, proportions, outfit and accessories. Include only actors visible in the shot.",
+      "url": "/library/61dc338e08cb2385.jpg",
+      "thumbnail": "/library/61dc338e08cb2385.webp",
+      "source": "Characters\\Cats - Resistance\\Ghost\\Reference Sheets\\CREW03-ghost-character-master-gpt26-v001.png",
+      "status": "existing reference; review before generation"
+    },
+    {
+      "id": "8ac469710ff37bec",
+      "title": "Onyx",
+      "filename": "CREW04-onyx-character-master-gpt26-v001.png",
+      "kind": "Character",
+      "purpose": "Preserve identity, proportions, outfit and accessories. Include only actors visible in the shot.",
+      "url": "/library/8ac469710ff37bec.jpg",
+      "thumbnail": "/library/8ac469710ff37bec.webp",
+      "source": "Characters\\Cats - Resistance\\Onyx\\Reference Sheets\\CREW04-onyx-character-master-gpt26-v001.png",
+      "status": "existing reference; review before generation"
+    },
+    {
+      "id": "c59f876dfb3540bb",
+      "title": "Neon",
+      "filename": "CREW05-neon-character-master-gpt26-v001.png",
+      "kind": "Character",
+      "purpose": "Preserve identity, proportions, outfit and accessories. Include only actors visible in the shot.",
+      "url": "/library/c59f876dfb3540bb.jpg",
+      "thumbnail": "/library/c59f876dfb3540bb.webp",
+      "source": "Characters\\Cats - Resistance\\Neon\\Reference Sheets\\CREW05-neon-character-master-gpt26-v001.png",
+      "status": "existing reference; review before generation"
+    },
+    {
+      "id": "562eac0bfb4963cd",
+      "title": "Barkington Orders",
+      "filename": "CHAR06-barkington-character-master-gpt26-v002.png",
+      "kind": "Character",
+      "purpose": "Preserve identity, proportions, outfit and accessories. Include only actors visible in the shot.",
+      "url": "/library/562eac0bfb4963cd.jpg",
+      "thumbnail": "/library/562eac0bfb4963cd.webp",
+      "source": "Characters\\Dogs\\Barkington Orders\\Reference Sheets\\CHAR06-barkington-character-master-gpt26-v002.png",
+      "status": "existing reference; review before generation"
+    },
+    {
+      "id": "9bb47fb0209fc142",
+      "title": "WOOF7 Anchor",
+      "filename": "SUP04-character-master-gpt26-v001.png",
+      "kind": "Character",
+      "purpose": "Preserve identity, proportions, outfit and accessories. Include only actors visible in the shot.",
+      "url": "/library/9bb47fb0209fc142.jpg",
+      "thumbnail": "/library/9bb47fb0209fc142.webp",
+      "source": "Characters\\Dogs\\WOOF7 Anchor\\Reference Sheets\\SUP04-character-master-gpt26-v001.png",
+      "status": "existing reference; review before generation"
+    },
+    {
+      "id": "1805dba43ab01111",
+      "title": "Guard A - Restaurant",
+      "filename": "SUP02-character-master-gpt26-v001.png",
+      "kind": "Character",
+      "purpose": "Preserve identity, proportions, outfit and accessories. Include only actors visible in the shot.",
+      "url": "/library/1805dba43ab01111.jpg",
+      "thumbnail": "/library/1805dba43ab01111.webp",
+      "source": "Characters\\Dogs\\Guard A - Restaurant\\Reference Sheets\\SUP02-character-master-gpt26-v001.png",
+      "status": "existing reference; review before generation"
+    },
+    {
+      "id": "a207a669e0948779",
+      "title": "Guard B - Restaurant",
+      "filename": "SUP03-character-master-gpt26-v001.png",
+      "kind": "Character",
+      "purpose": "Preserve identity, proportions, outfit and accessories. Include only actors visible in the shot.",
+      "url": "/library/a207a669e0948779.jpg",
+      "thumbnail": "/library/a207a669e0948779.webp",
+      "source": "Characters\\Dogs\\Guard B - Restaurant\\Reference Sheets\\SUP03-character-master-gpt26-v001.png",
+      "status": "existing reference; review before generation"
+    },
+    {
+      "id": "522b0ca7d3be2688",
+      "title": "ACT02 — Surveillance kit",
+      "filename": "ACT02-prop-master-gpt26-v001.png",
+      "kind": "Prop / graphic",
+      "purpose": "Preserve prop shape, material, controls and scale.",
+      "url": "/library/522b0ca7d3be2688.jpg",
+      "thumbnail": "/library/522b0ca7d3be2688.webp",
+      "source": "Props\\Cats\\Action Props\\ACT02-prop-master-gpt26-v001.png",
+      "status": "existing reference; review before generation"
+    },
+    {
+      "id": "1c4ee9bebe128fe3",
+      "title": "ACT07 — Restaurant limousine",
+      "filename": "ACT07-prop-master-gpt26-v001.png",
+      "kind": "Prop / graphic",
+      "purpose": "Preserve prop shape, material, controls and scale.",
+      "url": "/library/1c4ee9bebe128fe3.jpg",
+      "thumbnail": "/library/1c4ee9bebe128fe3.webp",
+      "source": "Props\\Dogs\\Action Props\\ACT07-prop-master-gpt26-v001.png",
+      "status": "existing reference; review before generation"
+    },
+    {
+      "id": "734220511f50bc56",
+      "title": "ACT08 — Security hardware",
+      "filename": "ACT08-prop-master-gpt26-v001.png",
+      "kind": "Prop / graphic",
+      "purpose": "Preserve prop shape, material, controls and scale.",
+      "url": "/library/734220511f50bc56.jpg",
+      "thumbnail": "/library/734220511f50bc56.webp",
+      "source": "Props\\Dogs\\Action Props\\ACT08-prop-master-gpt26-v001.png",
+      "status": "existing reference; review before generation"
+    }
+  ],
+  "missing_reference_requirements": [
+    "Final shot-specific composed first frame for each timed shot; existing drafts require review."
+  ]
+}

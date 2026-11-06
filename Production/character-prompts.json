@@ -10,7 +10,7 @@
     "Store accepted outputs with version numbers; rejected variants never replace the source masters.",
     "For existing characters, identity fidelity is required. For proposed characters, the first accepted master establishes the new design.",
     "Paw/human hand and AI-interface variants are deliberately species-specific.",
-    "Current selected voices: Trixie/Emma, Byte/Northern Terry, Ghost/Austin—Upbeat, Neon/Ryan, Onyx/Harry, NIP7/Daniel, Barkington/Brian, WOOF7/Eric. Final take approval is separate; historical receipts stay unchanged."
+    "Current selected voices: Trixie/Emma, Byte/Northern Terry, Ghost/Austin—Upbeat, Neon/Ryan, Onyx/Harry, NIP7/Daniel, Barkington/Matthew Schmitz, WOOF7/Eric. Final take approval is separate; historical receipts stay unchanged."
   ],
   "global_visual_qa": [
     "Correct named character and species; no extra cast members.",
@@ -648,16 +648,16 @@
       "voice": {
         "status": "Explicitly selected by user. Existing account access confirmed; no final episode performance approval is implied.",
         "age_target": "adult; see voice-design prompt",
-        "voice_design_prompt": "Use selected Brian. Older adult Doberman, polished corporate authority and controlled smugness; Jerry B. is excluded.",
+        "voice_design_prompt": "Use selected Matthew Schmitz - Gravel, Deep Anti-Hero. Older adult Doberman, polished corporate authority and controlled smugness; Jerry B. is excluded.",
         "audition_text": "There is no shortage of salmon. Only a shortage of qualified customers.",
         "audition_delivery": "Older adult Doberman, polished corporate authority and controlled smugness; Jerry B. is excluded.",
-        "elevenlabs_voice_id": "nPczCjzI2devNBz1zQrb",
+        "elevenlabs_voice_id": "bwCXcoVxWNYMlC6Esa8u",
         "approved_take": null,
         "constraint": "User required dogs to sound older adults.",
         "audition_candidates": [
           {
-            "name": "Brian",
-            "voice_id": "nPczCjzI2devNBz1zQrb",
+            "name": "Matthew Schmitz - Gravel, Deep Anti-Hero",
+            "voice_id": "bwCXcoVxWNYMlC6Esa8u",
             "status": "selected_voice_take_not_approved",
             "audition_id": "barkington-brian"
           }
@@ -665,7 +665,7 @@
         "excluded_voice_ids": [
           "TxWZERZ5Hc6h9dGxVmXa"
         ],
-        "voice_name": "Brian",
+        "voice_name": "Matthew Schmitz - Gravel, Deep Anti-Hero",
         "account_access": "confirmed"
       }
     },

@@ -1,0 +1,802 @@
+{
+  "number": 14,
+  "title": "The Secret Dinner",
+  "start": "12:35",
+  "end": "13:35",
+  "duration_seconds": 60,
+  "source_location": "Steak & Bone private dining room",
+  "location_ids": [
+    "LOC12"
+  ],
+  "staging": "Scene 14 — The Secret Dinner\n\n12:35–13:35 · 60 sec · Steak & Bone private dining room\n\nBarkington meets the Shiba Inu WOOF7 news anchor. The two discuss public confidence, news coverage, and the shortage. Barkington speaks indirectly, never openly admitting to controlling the salmon supply.\n\nShots: Dining-room wide → two-shot across table → close-up of Shiba anchor → Barkington's gold ring and paw → hidden surveillance angle.",
+  "sound": "",
+  "lines": [
+    {
+      "id": "S14-D01",
+      "speaker": "Barkington",
+      "text": "The public needs reassurance that our supply measures are necessary.",
+      "takes": [],
+      "origin": "retained working script",
+      "recording_status": "not recorded",
+      "start_sec": 755.15,
+      "end_sec": 759.15,
+      "start_tc": "12:35.150",
+      "end_tc": "12:39.150",
+      "shot_id": "S14-P01",
+      "timing_basis": "estimate at 150 words/minute; replace after recording",
+      "role_id": "chairman_barkington",
+      "voice_id": "bwCXcoVxWNYMlC6Esa8u",
+      "voice_name": "Matthew Schmitz - Gravel, Deep Anti-Hero"
+    },
+    {
+      "id": "S14-D02",
+      "speaker": "Anchor",
+      "text": "And you want that to be tonight's headline?",
+      "takes": [],
+      "origin": "retained working script",
+      "recording_status": "not recorded",
+      "start_sec": 759.35,
+      "end_sec": 762.55,
+      "start_tc": "12:39.350",
+      "end_tc": "12:42.550",
+      "shot_id": "S14-P01",
+      "timing_basis": "estimate at 150 words/minute; replace after recording",
+      "role_id": "woof7_anchor",
+      "voice_id": "cjVigY5qzO86Huf0OWal",
+      "voice_name": "Eric"
+    },
+    {
+      "id": "S14-N01",
+      "speaker": "Anchor",
+      "text": "People are asking why the shelves emptied before the warning. They expect me to ask that question.",
+      "takes": [],
+      "origin": "new production draft v003; not yet recorded",
+      "recording_status": "not recorded",
+      "start_sec": 764.093,
+      "end_sec": 770.893,
+      "start_tc": "12:44.093",
+      "end_tc": "12:50.893",
+      "shot_id": "S14-P02",
+      "timing_basis": "estimate at 150 words/minute; replace after recording",
+      "role_id": "woof7_anchor",
+      "voice_id": "cjVigY5qzO86Huf0OWal",
+      "voice_name": "Eric"
+    },
+    {
+      "id": "S14-N02",
+      "speaker": "Barkington",
+      "text": "Questions are useful when they lead the public toward confidence. Less useful when they lead to disorder.",
+      "takes": [],
+      "origin": "new production draft v003; not yet recorded",
+      "recording_status": "not recorded",
+      "start_sec": 772.436,
+      "end_sec": 779.236,
+      "start_tc": "12:52.436",
+      "end_tc": "12:59.236",
+      "shot_id": "S14-P03",
+      "timing_basis": "estimate at 150 words/minute; replace after recording",
+      "role_id": "chairman_barkington",
+      "voice_id": "bwCXcoVxWNYMlC6Esa8u",
+      "voice_name": "Matthew Schmitz - Gravel, Deep Anti-Hero"
+    },
+    {
+      "id": "S14-D03",
+      "speaker": "Barkington",
+      "text": "I want the public to hear the correct story.",
+      "takes": [],
+      "origin": "retained working script",
+      "recording_status": "not recorded",
+      "start_sec": 779.436,
+      "end_sec": 783.036,
+      "start_tc": "12:59.436",
+      "end_tc": "13:03.036",
+      "shot_id": "S14-P03",
+      "timing_basis": "estimate at 150 words/minute; replace after recording",
+      "role_id": "chairman_barkington",
+      "voice_id": "bwCXcoVxWNYMlC6Esa8u",
+      "voice_name": "Matthew Schmitz - Gravel, Deep Anti-Hero"
+    },
+    {
+      "id": "S14-N03",
+      "speaker": "Anchor",
+      "text": "Confidence is difficult to sell to an audience that cannot afford dinner.",
+      "takes": [],
+      "origin": "new production draft v003; not yet recorded",
+      "recording_status": "not recorded",
+      "start_sec": 784.579,
+      "end_sec": 789.379,
+      "start_tc": "13:04.579",
+      "end_tc": "13:09.379",
+      "shot_id": "S14-P04",
+      "timing_basis": "estimate at 150 words/minute; replace after recording",
+      "role_id": "woof7_anchor",
+      "voice_id": "cjVigY5qzO86Huf0OWal",
+      "voice_name": "Eric"
+    },
+    {
+      "id": "S14-D04",
+      "speaker": "Anchor",
+      "text": "That kind of coverage isn't cheap.",
+      "takes": [],
+      "origin": "retained working script",
+      "recording_status": "not recorded",
+      "start_sec": 789.579,
+      "end_sec": 791.979,
+      "start_tc": "13:09.579",
+      "end_tc": "13:11.979",
+      "shot_id": "S14-P04",
+      "timing_basis": "estimate at 150 words/minute; replace after recording",
+      "role_id": "woof7_anchor",
+      "voice_id": "cjVigY5qzO86Huf0OWal",
+      "voice_name": "Eric"
+    },
+    {
+      "id": "S14-N04",
+      "speaker": "Barkington",
+      "text": "Then remind them who keeps the streets safe. Panic needs a firm voice.",
+      "takes": [],
+      "origin": "new production draft v003; not yet recorded",
+      "recording_status": "not recorded",
+      "start_sec": 793.521,
+      "end_sec": 798.721,
+      "start_tc": "13:13.521",
+      "end_tc": "13:18.721",
+      "shot_id": "S14-P05",
+      "timing_basis": "estimate at 150 words/minute; replace after recording",
+      "role_id": "chairman_barkington",
+      "voice_id": "bwCXcoVxWNYMlC6Esa8u",
+      "voice_name": "Matthew Schmitz - Gravel, Deep Anti-Hero"
+    },
+    {
+      "id": "S14-N05",
+      "speaker": "Anchor",
+      "text": "My producers will want a reason to move the other story off the schedule.",
+      "takes": [],
+      "origin": "new production draft v003; not yet recorded",
+      "recording_status": "not recorded",
+      "start_sec": 800.264,
+      "end_sec": 805.864,
+      "start_tc": "13:20.264",
+      "end_tc": "13:25.864",
+      "shot_id": "S14-P06",
+      "timing_basis": "estimate at 150 words/minute; replace after recording",
+      "role_id": "woof7_anchor",
+      "voice_id": "cjVigY5qzO86Huf0OWal",
+      "voice_name": "Eric"
+    },
+    {
+      "id": "S14-D05",
+      "speaker": "Barkington",
+      "text": "Neither is loyalty.",
+      "takes": [],
+      "origin": "retained working script",
+      "recording_status": "not recorded",
+      "start_sec": 807.407,
+      "end_sec": 808.607,
+      "start_tc": "13:27.407",
+      "end_tc": "13:28.607",
+      "shot_id": "S14-P07",
+      "timing_basis": "estimate at 150 words/minute; replace after recording",
+      "role_id": "chairman_barkington",
+      "voice_id": "bwCXcoVxWNYMlC6Esa8u",
+      "voice_name": "Matthew Schmitz - Gravel, Deep Anti-Hero"
+    },
+    {
+      "id": "S14-N06",
+      "speaker": "Barkington",
+      "text": "Tell them we appreciate a reliable partner. Our appreciation is rarely symbolic.",
+      "takes": [],
+      "origin": "new production draft v003; not yet recorded",
+      "recording_status": "not recorded",
+      "start_sec": 808.807,
+      "end_sec": 813.607,
+      "start_tc": "13:28.807",
+      "end_tc": "13:33.607",
+      "shot_id": "S14-P07",
+      "timing_basis": "estimate at 150 words/minute; replace after recording",
+      "role_id": "chairman_barkington",
+      "voice_id": "bwCXcoVxWNYMlC6Esa8u",
+      "voice_name": "Matthew Schmitz - Gravel, Deep Anti-Hero"
+    }
+  ],
+  "shots": [
+    {
+      "shot_id": "S14-B01",
+      "description": "Dining-room wide",
+      "status": "source shot beat; detailed shot duration and coverage pending",
+      "duration_seconds": null
+    },
+    {
+      "shot_id": "S14-B02",
+      "description": "two-shot across table",
+      "status": "source shot beat; detailed shot duration and coverage pending",
+      "duration_seconds": null
+    },
+    {
+      "shot_id": "S14-B03",
+      "description": "close-up of Shiba anchor",
+      "status": "source shot beat; detailed shot duration and coverage pending",
+      "duration_seconds": null
+    },
+    {
+      "shot_id": "S14-B04",
+      "description": "Barkington's gold ring and paw",
+      "status": "source shot beat; detailed shot duration and coverage pending",
+      "duration_seconds": null
+    },
+    {
+      "shot_id": "S14-B05",
+      "description": "hidden surveillance angle.",
+      "status": "source shot beat; detailed shot duration and coverage pending",
+      "duration_seconds": null
+    }
+  ],
+  "locations": [
+    {
+      "id": "dd6578af9636b86a",
+      "title": "LOC12 - Steak & Bone private dining room",
+      "category": "Locations",
+      "group": "Dogs",
+      "file": "LOC12-steak-bone-private-dining-room-gpt26-v001.png",
+      "source": "Locations\\Dogs\\LOC12 - Steak & Bone private dining room\\Reference Sheets\\LOC12-steak-bone-private-dining-room-gpt26-v001.png",
+      "voice": ""
+    }
+  ],
+  "frames": [],
+  "assemblies": [],
+  "timed_shots": [
+    {
+      "shot_id": "S14-P01",
+      "camera_action": "Private dining wide establishes Barkington and Shiba WOOF7 anchor across table.",
+      "sound_transition": "Cutlery, muted restaurant jazz.",
+      "dialogue_ids": [
+        "S14-D01",
+        "S14-D02"
+      ],
+      "start_sec": 755,
+      "end_sec": 763.943,
+      "duration_sec": 8.943,
+      "scene_start_sec": 0,
+      "scene_end_sec": 8.943,
+      "start_tc": "12:35.000",
+      "end_tc": "12:43.943",
+      "status": "editorial plan; animation not yet produced",
+      "asset_requirements": {
+        "locations": [
+          "LOC12"
+        ],
+        "existing_reference_count": 1,
+        "new_image_needed": "camera-specific review still or approved matching frame; audit before generating",
+        "animation": "not generated; Higgsfield is for stills only",
+        "audio": "ElevenLabs dialogue, separate room tone/foley/music mix",
+        "special": "Preserve named character identities, set geometry and screen direction."
+      },
+      "speaking_roles": [
+        "chairman_barkington",
+        "woof7_anchor"
+      ],
+      "reference_pack": [
+        {
+          "id": "dd6578af9636b86a",
+          "title": "LOC12 - Steak & Bone private dining room",
+          "url": "/library/dd6578af9636b86a.jpg",
+          "purpose": "Primary set geometry"
+        },
+        {
+          "id": "562eac0bfb4963cd",
+          "title": "Barkington Orders",
+          "url": "/library/562eac0bfb4963cd.jpg",
+          "purpose": "Visible character identity / framing context; do not render offscreen speakers"
+        },
+        {
+          "id": "9bb47fb0209fc142",
+          "title": "WOOF7 Anchor",
+          "url": "/library/9bb47fb0209fc142.jpg",
+          "purpose": "Visible character identity / framing context; do not render offscreen speakers"
+        },
+        {
+          "id": "4063749961d7a035",
+          "title": "ACT09 — Private dining tableware",
+          "url": "/library/4063749961d7a035.jpg",
+          "purpose": "Visible prop"
+        }
+      ],
+      "reference_pack_count": 4,
+      "reference_overflow": [],
+      "wan_plan": {
+        "model": "WAN 3.0 Prime",
+        "provider": "awaiting provider confirmation",
+        "mode": "single composed first-frame image-to-video",
+        "upload_image_count": 1,
+        "first_frame_status": "needs shot-specific composition and review",
+        "first_frame_id": null,
+        "reference_mode_cap": 10,
+        "cap_status": "documented by Runway and Wan API; target provider still to confirm",
+        "reference_mode_sources": [
+          "https://dev.runwayml.com/learn/wan-3-0-api",
+          "https://wanapi.app/docs/wan-3-0-prime"
+        ],
+        "audio": false,
+        "audio_policy": "Use the existing/approved ElevenLabs tracks in the edit. Do not generate replacement speech.",
+        "requested_duration_seconds": 9,
+        "edit_duration_seconds": 8.943,
+        "note": "Source reference pack is for preparing the still. Upload ONE approved composed frame to WAN; do not mix it with this whole reference pack. Trim generated clip to editorial duration; do not stretch speech."
+      }
+    },
+    {
+      "shot_id": "S14-P02",
+      "camera_action": "Anchor medium, skeptical rather than openly confessing supply fraud.",
+      "sound_transition": "Jazz ducks beneath conversation.",
+      "dialogue_ids": [
+        "S14-N01"
+      ],
+      "start_sec": 763.943,
+      "end_sec": 772.286,
+      "duration_sec": 8.343,
+      "scene_start_sec": 8.943,
+      "scene_end_sec": 17.286,
+      "start_tc": "12:43.943",
+      "end_tc": "12:52.286",
+      "status": "editorial plan; animation not yet produced",
+      "asset_requirements": {
+        "locations": [
+          "LOC12"
+        ],
+        "existing_reference_count": 1,
+        "new_image_needed": "camera-specific review still or approved matching frame; audit before generating",
+        "animation": "not generated; Higgsfield is for stills only",
+        "audio": "ElevenLabs dialogue, separate room tone/foley/music mix",
+        "special": "Preserve named character identities, set geometry and screen direction."
+      },
+      "speaking_roles": [
+        "woof7_anchor"
+      ],
+      "reference_pack": [
+        {
+          "id": "dd6578af9636b86a",
+          "title": "LOC12 - Steak & Bone private dining room",
+          "url": "/library/dd6578af9636b86a.jpg",
+          "purpose": "Primary set geometry"
+        },
+        {
+          "id": "9bb47fb0209fc142",
+          "title": "WOOF7 Anchor",
+          "url": "/library/9bb47fb0209fc142.jpg",
+          "purpose": "Visible character identity / framing context; do not render offscreen speakers"
+        }
+      ],
+      "reference_pack_count": 2,
+      "reference_overflow": [],
+      "wan_plan": {
+        "model": "WAN 3.0 Prime",
+        "provider": "awaiting provider confirmation",
+        "mode": "single composed first-frame image-to-video",
+        "upload_image_count": 1,
+        "first_frame_status": "needs shot-specific composition and review",
+        "first_frame_id": null,
+        "reference_mode_cap": 10,
+        "cap_status": "documented by Runway and Wan API; target provider still to confirm",
+        "reference_mode_sources": [
+          "https://dev.runwayml.com/learn/wan-3-0-api",
+          "https://wanapi.app/docs/wan-3-0-prime"
+        ],
+        "audio": false,
+        "audio_policy": "Use the existing/approved ElevenLabs tracks in the edit. Do not generate replacement speech.",
+        "requested_duration_seconds": 9,
+        "edit_duration_seconds": 8.343,
+        "note": "Source reference pack is for preparing the still. Upload ONE approved composed frame to WAN; do not mix it with this whole reference pack. Trim generated clip to editorial duration; do not stretch speech."
+      }
+    },
+    {
+      "shot_id": "S14-P03",
+      "camera_action": "Barkington controlled close; only paw and ring move.",
+      "sound_transition": "Glass set down, deliberate small pause.",
+      "dialogue_ids": [
+        "S14-N02",
+        "S14-D03"
+      ],
+      "start_sec": 772.286,
+      "end_sec": 784.429,
+      "duration_sec": 12.143,
+      "scene_start_sec": 17.286,
+      "scene_end_sec": 29.429,
+      "start_tc": "12:52.286",
+      "end_tc": "13:04.429",
+      "status": "editorial plan; animation not yet produced",
+      "asset_requirements": {
+        "locations": [
+          "LOC12"
+        ],
+        "existing_reference_count": 1,
+        "new_image_needed": "camera-specific review still or approved matching frame; audit before generating",
+        "animation": "not generated; Higgsfield is for stills only",
+        "audio": "ElevenLabs dialogue, separate room tone/foley/music mix",
+        "special": "Preserve named character identities, set geometry and screen direction."
+      },
+      "speaking_roles": [
+        "chairman_barkington"
+      ],
+      "reference_pack": [
+        {
+          "id": "dd6578af9636b86a",
+          "title": "LOC12 - Steak & Bone private dining room",
+          "url": "/library/dd6578af9636b86a.jpg",
+          "purpose": "Primary set geometry"
+        },
+        {
+          "id": "562eac0bfb4963cd",
+          "title": "Barkington Orders",
+          "url": "/library/562eac0bfb4963cd.jpg",
+          "purpose": "Visible character identity / framing context; do not render offscreen speakers"
+        }
+      ],
+      "reference_pack_count": 2,
+      "reference_overflow": [],
+      "wan_plan": {
+        "model": "WAN 3.0 Prime",
+        "provider": "awaiting provider confirmation",
+        "mode": "single composed first-frame image-to-video",
+        "upload_image_count": 1,
+        "first_frame_status": "needs shot-specific composition and review",
+        "first_frame_id": null,
+        "reference_mode_cap": 10,
+        "cap_status": "documented by Runway and Wan API; target provider still to confirm",
+        "reference_mode_sources": [
+          "https://dev.runwayml.com/learn/wan-3-0-api",
+          "https://wanapi.app/docs/wan-3-0-prime"
+        ],
+        "audio": false,
+        "audio_policy": "Use the existing/approved ElevenLabs tracks in the edit. Do not generate replacement speech.",
+        "requested_duration_seconds": 13,
+        "edit_duration_seconds": 12.143,
+        "note": "Source reference pack is for preparing the still. Upload ONE approved composed frame to WAN; do not mix it with this whole reference pack. Trim generated clip to editorial duration; do not stretch speech."
+      }
+    },
+    {
+      "shot_id": "S14-P04",
+      "camera_action": "Anchor across table pushes back, eyes on untouched dinner.",
+      "sound_transition": "No villain laugh; businesslike negotiation.",
+      "dialogue_ids": [
+        "S14-N03",
+        "S14-D04"
+      ],
+      "start_sec": 784.429,
+      "end_sec": 793.371,
+      "duration_sec": 8.942,
+      "scene_start_sec": 29.429,
+      "scene_end_sec": 38.371,
+      "start_tc": "13:04.429",
+      "end_tc": "13:13.371",
+      "status": "editorial plan; animation not yet produced",
+      "asset_requirements": {
+        "locations": [
+          "LOC12"
+        ],
+        "existing_reference_count": 1,
+        "new_image_needed": "camera-specific review still or approved matching frame; audit before generating",
+        "animation": "not generated; Higgsfield is for stills only",
+        "audio": "ElevenLabs dialogue, separate room tone/foley/music mix",
+        "special": "Preserve named character identities, set geometry and screen direction."
+      },
+      "speaking_roles": [
+        "woof7_anchor"
+      ],
+      "reference_pack": [
+        {
+          "id": "dd6578af9636b86a",
+          "title": "LOC12 - Steak & Bone private dining room",
+          "url": "/library/dd6578af9636b86a.jpg",
+          "purpose": "Primary set geometry"
+        },
+        {
+          "id": "9bb47fb0209fc142",
+          "title": "WOOF7 Anchor",
+          "url": "/library/9bb47fb0209fc142.jpg",
+          "purpose": "Visible character identity / framing context; do not render offscreen speakers"
+        },
+        {
+          "id": "4063749961d7a035",
+          "title": "ACT09 — Private dining tableware",
+          "url": "/library/4063749961d7a035.jpg",
+          "purpose": "Visible prop"
+        }
+      ],
+      "reference_pack_count": 3,
+      "reference_overflow": [],
+      "wan_plan": {
+        "model": "WAN 3.0 Prime",
+        "provider": "awaiting provider confirmation",
+        "mode": "single composed first-frame image-to-video",
+        "upload_image_count": 1,
+        "first_frame_status": "needs shot-specific composition and review",
+        "first_frame_id": null,
+        "reference_mode_cap": 10,
+        "cap_status": "documented by Runway and Wan API; target provider still to confirm",
+        "reference_mode_sources": [
+          "https://dev.runwayml.com/learn/wan-3-0-api",
+          "https://wanapi.app/docs/wan-3-0-prime"
+        ],
+        "audio": false,
+        "audio_policy": "Use the existing/approved ElevenLabs tracks in the edit. Do not generate replacement speech.",
+        "requested_duration_seconds": 9,
+        "edit_duration_seconds": 8.942,
+        "note": "Source reference pack is for preparing the still. Upload ONE approved composed frame to WAN; do not mix it with this whole reference pack. Trim generated clip to editorial duration; do not stretch speech."
+      }
+    },
+    {
+      "shot_id": "S14-P05",
+      "camera_action": "Barkington two-shot gives oblique demand for public messaging.",
+      "sound_transition": "Low tension tone beneath room ambience.",
+      "dialogue_ids": [
+        "S14-N04"
+      ],
+      "start_sec": 793.371,
+      "end_sec": 800.114,
+      "duration_sec": 6.743,
+      "scene_start_sec": 38.371,
+      "scene_end_sec": 45.114,
+      "start_tc": "13:13.371",
+      "end_tc": "13:20.114",
+      "status": "editorial plan; animation not yet produced",
+      "asset_requirements": {
+        "locations": [
+          "LOC12"
+        ],
+        "existing_reference_count": 1,
+        "new_image_needed": "camera-specific review still or approved matching frame; audit before generating",
+        "animation": "not generated; Higgsfield is for stills only",
+        "audio": "ElevenLabs dialogue, separate room tone/foley/music mix",
+        "special": "Preserve named character identities, set geometry and screen direction."
+      },
+      "speaking_roles": [
+        "chairman_barkington"
+      ],
+      "reference_pack": [
+        {
+          "id": "dd6578af9636b86a",
+          "title": "LOC12 - Steak & Bone private dining room",
+          "url": "/library/dd6578af9636b86a.jpg",
+          "purpose": "Primary set geometry"
+        },
+        {
+          "id": "562eac0bfb4963cd",
+          "title": "Barkington Orders",
+          "url": "/library/562eac0bfb4963cd.jpg",
+          "purpose": "Visible character identity / framing context; do not render offscreen speakers"
+        }
+      ],
+      "reference_pack_count": 2,
+      "reference_overflow": [],
+      "wan_plan": {
+        "model": "WAN 3.0 Prime",
+        "provider": "awaiting provider confirmation",
+        "mode": "single composed first-frame image-to-video",
+        "upload_image_count": 1,
+        "first_frame_status": "needs shot-specific composition and review",
+        "first_frame_id": null,
+        "reference_mode_cap": 10,
+        "cap_status": "documented by Runway and Wan API; target provider still to confirm",
+        "reference_mode_sources": [
+          "https://dev.runwayml.com/learn/wan-3-0-api",
+          "https://wanapi.app/docs/wan-3-0-prime"
+        ],
+        "audio": false,
+        "audio_policy": "Use the existing/approved ElevenLabs tracks in the edit. Do not generate replacement speech.",
+        "requested_duration_seconds": 7,
+        "edit_duration_seconds": 6.743,
+        "note": "Source reference pack is for preparing the still. Upload ONE approved composed frame to WAN; do not mix it with this whole reference pack. Trim generated clip to editorial duration; do not stretch speech."
+      }
+    },
+    {
+      "shot_id": "S14-P06",
+      "camera_action": "Anchor glances toward closed door, then back to Barkington.",
+      "sound_transition": "Chair creak.",
+      "dialogue_ids": [
+        "S14-N05"
+      ],
+      "start_sec": 800.114,
+      "end_sec": 807.257,
+      "duration_sec": 7.143,
+      "scene_start_sec": 45.114,
+      "scene_end_sec": 52.257,
+      "start_tc": "13:20.114",
+      "end_tc": "13:27.257",
+      "status": "editorial plan; animation not yet produced",
+      "asset_requirements": {
+        "locations": [
+          "LOC12"
+        ],
+        "existing_reference_count": 1,
+        "new_image_needed": "camera-specific review still or approved matching frame; audit before generating",
+        "animation": "not generated; Higgsfield is for stills only",
+        "audio": "ElevenLabs dialogue, separate room tone/foley/music mix",
+        "special": "Preserve named character identities, set geometry and screen direction."
+      },
+      "speaking_roles": [
+        "woof7_anchor"
+      ],
+      "reference_pack": [
+        {
+          "id": "dd6578af9636b86a",
+          "title": "LOC12 - Steak & Bone private dining room",
+          "url": "/library/dd6578af9636b86a.jpg",
+          "purpose": "Primary set geometry"
+        },
+        {
+          "id": "9bb47fb0209fc142",
+          "title": "WOOF7 Anchor",
+          "url": "/library/9bb47fb0209fc142.jpg",
+          "purpose": "Visible character identity / framing context; do not render offscreen speakers"
+        }
+      ],
+      "reference_pack_count": 2,
+      "reference_overflow": [],
+      "wan_plan": {
+        "model": "WAN 3.0 Prime",
+        "provider": "awaiting provider confirmation",
+        "mode": "single composed first-frame image-to-video",
+        "upload_image_count": 1,
+        "first_frame_status": "needs shot-specific composition and review",
+        "first_frame_id": null,
+        "reference_mode_cap": 10,
+        "cap_status": "documented by Runway and Wan API; target provider still to confirm",
+        "reference_mode_sources": [
+          "https://dev.runwayml.com/learn/wan-3-0-api",
+          "https://wanapi.app/docs/wan-3-0-prime"
+        ],
+        "audio": false,
+        "audio_policy": "Use the existing/approved ElevenLabs tracks in the edit. Do not generate replacement speech.",
+        "requested_duration_seconds": 8,
+        "edit_duration_seconds": 7.143,
+        "note": "Source reference pack is for preparing the still. Upload ONE approved composed frame to WAN; do not mix it with this whole reference pack. Trim generated clip to editorial duration; do not stretch speech."
+      }
+    },
+    {
+      "shot_id": "S14-P07",
+      "camera_action": "Barkington close; hand reaches toward bag below table without revealing contents yet.",
+      "sound_transition": "Clasp click bridges to money bag in Scene 15.",
+      "dialogue_ids": [
+        "S14-D05",
+        "S14-N06"
+      ],
+      "start_sec": 807.257,
+      "end_sec": 815.0,
+      "duration_sec": 7.743,
+      "scene_start_sec": 52.257,
+      "scene_end_sec": 60.0,
+      "start_tc": "13:27.257",
+      "end_tc": "13:35.000",
+      "status": "editorial plan; animation not yet produced",
+      "asset_requirements": {
+        "locations": [
+          "LOC12"
+        ],
+        "existing_reference_count": 1,
+        "new_image_needed": "camera-specific review still or approved matching frame; audit before generating",
+        "animation": "not generated; Higgsfield is for stills only",
+        "audio": "ElevenLabs dialogue, separate room tone/foley/music mix",
+        "special": "Preserve named character identities, set geometry and screen direction."
+      },
+      "speaking_roles": [
+        "chairman_barkington"
+      ],
+      "reference_pack": [
+        {
+          "id": "dd6578af9636b86a",
+          "title": "LOC12 - Steak & Bone private dining room",
+          "url": "/library/dd6578af9636b86a.jpg",
+          "purpose": "Primary set geometry"
+        },
+        {
+          "id": "562eac0bfb4963cd",
+          "title": "Barkington Orders",
+          "url": "/library/562eac0bfb4963cd.jpg",
+          "purpose": "Visible character identity / framing context; do not render offscreen speakers"
+        },
+        {
+          "id": "4063749961d7a035",
+          "title": "ACT09 — Private dining tableware",
+          "url": "/library/4063749961d7a035.jpg",
+          "purpose": "Visible prop"
+        },
+        {
+          "id": "9b44176647eeff64",
+          "title": "ACT03 — Cash bag and banknotes",
+          "url": "/library/9b44176647eeff64.jpg",
+          "purpose": "Visible prop"
+        }
+      ],
+      "reference_pack_count": 4,
+      "reference_overflow": [],
+      "wan_plan": {
+        "model": "WAN 3.0 Prime",
+        "provider": "awaiting provider confirmation",
+        "mode": "single composed first-frame image-to-video",
+        "upload_image_count": 1,
+        "first_frame_status": "needs shot-specific composition and review",
+        "first_frame_id": null,
+        "reference_mode_cap": 10,
+        "cap_status": "documented by Runway and Wan API; target provider still to confirm",
+        "reference_mode_sources": [
+          "https://dev.runwayml.com/learn/wan-3-0-api",
+          "https://wanapi.app/docs/wan-3-0-prime"
+        ],
+        "audio": false,
+        "audio_policy": "Use the existing/approved ElevenLabs tracks in the edit. Do not generate replacement speech.",
+        "requested_duration_seconds": 8,
+        "edit_duration_seconds": 7.743,
+        "note": "Source reference pack is for preparing the still. Upload ONE approved composed frame to WAN; do not mix it with this whole reference pack. Trim generated clip to editorial duration; do not stretch speech."
+      }
+    }
+  ],
+  "spoken_words": 121,
+  "recorded_lines": 0,
+  "timing_note": "Exact editorial allocation. Existing takes use measured file durations; unrecorded lines use 150 wpm estimates. Action plays under dialogue where indicated. No time stretching or blank padding.",
+  "remaining_work": [
+    "Record and review new/unrecorded dialogue in ElevenLabs.",
+    "Build camera-specific stills from established references; review identity and geography.",
+    "Animate approved shots outside Higgsfield, then conform to this timeline.",
+    "Mix room tone, foley, music and dialogue; verify a full-speed table read and animatic."
+  ],
+  "continuity": "No explicit admission of salmon diversion. Payment conversation stays oblique.",
+  "generation_references": [
+    {
+      "id": "dd6578af9636b86a",
+      "title": "LOC12 - Steak & Bone private dining room",
+      "filename": "LOC12-steak-bone-private-dining-room-gpt26-v001.png",
+      "kind": "Location",
+      "purpose": "Set geography, doors, windows and camera axis.",
+      "url": "/library/dd6578af9636b86a.jpg",
+      "thumbnail": "/library/dd6578af9636b86a.webp",
+      "source": "Locations\\Dogs\\LOC12 - Steak & Bone private dining room\\Reference Sheets\\LOC12-steak-bone-private-dining-room-gpt26-v001.png",
+      "status": "existing reference; review before generation"
+    },
+    {
+      "id": "562eac0bfb4963cd",
+      "title": "Barkington Orders",
+      "filename": "CHAR06-barkington-character-master-gpt26-v002.png",
+      "kind": "Character",
+      "purpose": "Preserve identity, proportions, outfit and accessories. Include only actors visible in the shot.",
+      "url": "/library/562eac0bfb4963cd.jpg",
+      "thumbnail": "/library/562eac0bfb4963cd.webp",
+      "source": "Characters\\Dogs\\Barkington Orders\\Reference Sheets\\CHAR06-barkington-character-master-gpt26-v002.png",
+      "status": "existing reference; review before generation"
+    },
+    {
+      "id": "9bb47fb0209fc142",
+      "title": "WOOF7 Anchor",
+      "filename": "SUP04-character-master-gpt26-v001.png",
+      "kind": "Character",
+      "purpose": "Preserve identity, proportions, outfit and accessories. Include only actors visible in the shot.",
+      "url": "/library/9bb47fb0209fc142.jpg",
+      "thumbnail": "/library/9bb47fb0209fc142.webp",
+      "source": "Characters\\Dogs\\WOOF7 Anchor\\Reference Sheets\\SUP04-character-master-gpt26-v001.png",
+      "status": "existing reference; review before generation"
+    },
+    {
+      "id": "4063749961d7a035",
+      "title": "ACT09 — Private dining tableware",
+      "filename": "ACT09-prop-master-gpt26-v001.png",
+      "kind": "Prop / graphic",
+      "purpose": "Preserve prop shape, material, controls and scale.",
+      "url": "/library/4063749961d7a035.jpg",
+      "thumbnail": "/library/4063749961d7a035.webp",
+      "source": "Props\\Dogs\\Action Props\\ACT09-prop-master-gpt26-v001.png",
+      "status": "existing reference; review before generation"
+    },
+    {
+      "id": "9b44176647eeff64",
+      "title": "ACT03 — Cash bag and banknotes",
+      "filename": "ACT03-prop-master-gpt26-v001.png",
+      "kind": "Prop / graphic",
+      "purpose": "Preserve prop shape, material, controls and scale.",
+      "url": "/library/9b44176647eeff64.jpg",
+      "thumbnail": "/library/9b44176647eeff64.webp",
+      "source": "Props\\Dogs\\Action Props\\ACT03-prop-master-gpt26-v001.png",
+      "status": "existing reference; review before generation"
+    }
+  ],
+  "missing_reference_requirements": [
+    "Final shot-specific composed first frame for each timed shot; existing drafts require review."
+  ]
+}

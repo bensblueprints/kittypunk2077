@@ -1,0 +1,831 @@
+{
+  "number": 4,
+  "title": "The Trip to 7-Catleven",
+  "start": "03:05",
+  "end": "04:00",
+  "duration_seconds": 55,
+  "source_location": "District 7 streets",
+  "location_ids": [
+    "LOC01",
+    "LOC05",
+    "LOC06"
+  ],
+  "staging": "Scene 04 — The Trip to 7-Catleven\n\n03:05–04:00 · 55 sec · District 7 streets\n\nTrixie and Byte leave the hideout and walk through the dirty slums. Crowds of worried cats rush toward stores. A small argument breaks out over a can of tuna.\n\nShots: Street-wide tracking → close-up of desperate shoppers → Trixie and Byte walking → storefront reveal.",
+  "sound": "",
+  "lines": [
+    {
+      "id": "S04-N01",
+      "speaker": "Byte",
+      "text": "That queue was not here ten minutes ago. They have not even opened the second till.",
+      "takes": [],
+      "origin": "new production draft v003; not yet recorded",
+      "recording_status": "not recorded",
+      "start_sec": 185.15,
+      "end_sec": 191.55,
+      "start_tc": "03:05.150",
+      "end_tc": "03:11.550",
+      "shot_id": "S04-P01",
+      "timing_basis": "estimate at 150 words/minute; replace after recording",
+      "role_id": "byte",
+      "voice_id": "wo6udizrrtpIxWGp2qJk",
+      "voice_name": "Northern Terry"
+    },
+    {
+      "id": "S04-D01",
+      "speaker": "Byte",
+      "text": "You think there's really a shortage?",
+      "takes": [
+        {
+          "id": "6252916fa5ca06c7",
+          "title": "S04-D01-byte-take001",
+          "scene": "Scene04"
+        }
+      ],
+      "origin": "retained working script",
+      "recording_status": "review take available",
+      "start_sec": 194.885,
+      "end_sec": 196.557,
+      "start_tc": "03:14.885",
+      "end_tc": "03:16.557",
+      "shot_id": "S04-P02",
+      "timing_basis": "measured review take",
+      "role_id": "byte",
+      "voice_id": "wo6udizrrtpIxWGp2qJk",
+      "voice_name": "Northern Terry"
+    },
+    {
+      "id": "S04-D02",
+      "speaker": "Trixie",
+      "text": "I think someone wants us to believe there is.",
+      "takes": [
+        {
+          "id": "3487a5bc76bab84c",
+          "title": "S04-D02-trixie-take001",
+          "scene": "Scene04"
+        }
+      ],
+      "origin": "retained working script",
+      "recording_status": "review take available",
+      "start_sec": 196.757,
+      "end_sec": 198.893,
+      "start_tc": "03:16.757",
+      "end_tc": "03:18.893",
+      "shot_id": "S04-P02",
+      "timing_basis": "measured review take",
+      "role_id": "trixie",
+      "voice_id": "dmWfLQZJq7wNPv9WmtiM",
+      "voice_name": "Emma — Wry, Gritty Hero"
+    },
+    {
+      "id": "S04-N02",
+      "speaker": "Trixie",
+      "text": "Look at them. Everyone heard the same warning and ran for the same shelf.",
+      "takes": [],
+      "origin": "new production draft v003; not yet recorded",
+      "recording_status": "not recorded",
+      "start_sec": 199.093,
+      "end_sec": 204.693,
+      "start_tc": "03:19.093",
+      "end_tc": "03:24.693",
+      "shot_id": "S04-P02",
+      "timing_basis": "estimate at 150 words/minute; replace after recording",
+      "role_id": "trixie",
+      "voice_id": "dmWfLQZJq7wNPv9WmtiM",
+      "voice_name": "Emma — Wry, Gritty Hero"
+    },
+    {
+      "id": "S04-N03",
+      "speaker": "Civilian cat",
+      "text": "Please. That is the last tin. My little one has not eaten.",
+      "takes": [],
+      "origin": "new production draft v003; not yet recorded",
+      "recording_status": "not recorded",
+      "start_sec": 208.028,
+      "end_sec": 212.828,
+      "start_tc": "03:28.028",
+      "end_tc": "03:32.828",
+      "shot_id": "S04-P03",
+      "timing_basis": "estimate at 150 words/minute; replace after recording",
+      "role_id": "civilian_2",
+      "voice_id": "b5RPB35vTODb3BEmR3Fc",
+      "voice_name": "Serein - Friendly, Casual and Balanced"
+    },
+    {
+      "id": "S04-N04",
+      "speaker": "Trixie",
+      "text": "Hey. There is room for both of you. Fighting each other will not fill the freezer.",
+      "takes": [],
+      "origin": "new production draft v003; not yet recorded",
+      "recording_status": "not recorded",
+      "start_sec": 213.028,
+      "end_sec": 219.428,
+      "start_tc": "03:33.028",
+      "end_tc": "03:39.428",
+      "shot_id": "S04-P03",
+      "timing_basis": "estimate at 150 words/minute; replace after recording",
+      "role_id": "trixie",
+      "voice_id": "dmWfLQZJq7wNPv9WmtiM",
+      "voice_name": "Emma — Wry, Gritty Hero"
+    },
+    {
+      "id": "S04-N05",
+      "speaker": "Byte",
+      "text": "The board says fresh delivery this morning. Why are they already rationing it?",
+      "takes": [],
+      "origin": "new production draft v003; not yet recorded",
+      "recording_status": "not recorded",
+      "start_sec": 222.762,
+      "end_sec": 227.962,
+      "start_tc": "03:42.762",
+      "end_tc": "03:47.962",
+      "shot_id": "S04-P04",
+      "timing_basis": "estimate at 150 words/minute; replace after recording",
+      "role_id": "byte",
+      "voice_id": "wo6udizrrtpIxWGp2qJk",
+      "voice_name": "Northern Terry"
+    },
+    {
+      "id": "S04-N06",
+      "speaker": "Trixie",
+      "text": "Photograph that notice. Let us see what changed inside.",
+      "takes": [],
+      "origin": "new production draft v003; not yet recorded",
+      "recording_status": "not recorded",
+      "start_sec": 228.162,
+      "end_sec": 231.762,
+      "start_tc": "03:48.162",
+      "end_tc": "03:51.762",
+      "shot_id": "S04-P04",
+      "timing_basis": "estimate at 150 words/minute; replace after recording",
+      "role_id": "trixie",
+      "voice_id": "dmWfLQZJq7wNPv9WmtiM",
+      "voice_name": "Emma — Wry, Gritty Hero"
+    },
+    {
+      "id": "S04-D03",
+      "speaker": "Byte",
+      "text": "So... we're not getting snacks?",
+      "takes": [
+        {
+          "id": "f2b3fc3444d12f1e",
+          "title": "S04-D03-byte-take001",
+          "scene": "Scene04"
+        }
+      ],
+      "origin": "retained working script",
+      "recording_status": "review take available",
+      "start_sec": 235.097,
+      "end_sec": 236.815,
+      "start_tc": "03:55.097",
+      "end_tc": "03:56.815",
+      "shot_id": "S04-P05",
+      "timing_basis": "measured review take",
+      "role_id": "byte",
+      "voice_id": "wo6udizrrtpIxWGp2qJk",
+      "voice_name": "Northern Terry"
+    }
+  ],
+  "shots": [
+    {
+      "shot_id": "S04-B01",
+      "description": "Street-wide tracking",
+      "status": "source shot beat; detailed shot duration and coverage pending",
+      "duration_seconds": null
+    },
+    {
+      "shot_id": "S04-B02",
+      "description": "close-up of desperate shoppers",
+      "status": "source shot beat; detailed shot duration and coverage pending",
+      "duration_seconds": null
+    },
+    {
+      "shot_id": "S04-B03",
+      "description": "Trixie and Byte walking",
+      "status": "source shot beat; detailed shot duration and coverage pending",
+      "duration_seconds": null
+    },
+    {
+      "shot_id": "S04-B04",
+      "description": "storefront reveal.",
+      "status": "source shot beat; detailed shot duration and coverage pending",
+      "duration_seconds": null
+    }
+  ],
+  "locations": [
+    {
+      "id": "c171160ce2dfdaef",
+      "title": "LOC01 - Resistance warehouse exterior",
+      "category": "Locations",
+      "group": "Cats",
+      "file": "LOC01-resistance-warehouse-exterior-gpt26-v001.png",
+      "source": "Locations\\Cats\\LOC01 - Resistance warehouse exterior\\Reference Sheets\\LOC01-resistance-warehouse-exterior-gpt26-v001.png",
+      "voice": ""
+    },
+    {
+      "id": "c857f705f48778a3",
+      "title": "LOC06 - 7-Catleven exterior",
+      "category": "Locations",
+      "group": "Cats",
+      "file": "LOC06-7-catleven-exterior-gpt26-v001.png",
+      "source": "Locations\\Cats\\LOC06 - 7-Catleven exterior\\Reference Sheets\\LOC06-7-catleven-exterior-gpt26-v001.png",
+      "voice": ""
+    },
+    {
+      "id": "3bd909f3e732f8d1",
+      "title": "LOC05 - District 7 streets and alleys",
+      "category": "Locations",
+      "group": "Neutral",
+      "file": "LOC05-district-7-streets-and-alleys-gpt26-v001.png",
+      "source": "Locations\\Neutral\\LOC05 - District 7 streets and alleys\\Reference Sheets\\LOC05-district-7-streets-and-alleys-gpt26-v001.png",
+      "voice": ""
+    }
+  ],
+  "frames": [
+    {
+      "id": "d081dd59b4f1409c",
+      "title": "S04A — reference frame (review draft)",
+      "scene": 4
+    },
+    {
+      "id": "11a693ade0b0be8c",
+      "title": "S04B — reference frame (review draft)",
+      "scene": 4
+    },
+    {
+      "id": "2dd0994ced7e7c9a",
+      "title": "S04C — reference frame (review draft)",
+      "scene": 4
+    },
+    {
+      "id": "aa14f50276932f22",
+      "title": "S04D — reference frame (review draft)",
+      "scene": 4
+    },
+    {
+      "id": "127a4d5fd9502510",
+      "title": "S04E — reference frame (review draft)",
+      "scene": 4
+    },
+    {
+      "id": "b6d70ce436574aaf",
+      "title": "S04F — reference frame (review draft)",
+      "scene": 4
+    }
+  ],
+  "assemblies": [],
+  "timed_shots": [
+    {
+      "shot_id": "S04-P01",
+      "camera_action": "District 7 tracking wide: Trixie and Byte leave hideout and join shoppers moving toward store.",
+      "sound_transition": "Street voices and wet footsteps.",
+      "dialogue_ids": [
+        "S04-N01"
+      ],
+      "start_sec": 185,
+      "end_sec": 194.735,
+      "duration_sec": 9.735,
+      "scene_start_sec": 0,
+      "scene_end_sec": 9.735,
+      "start_tc": "03:05.000",
+      "end_tc": "03:14.735",
+      "status": "editorial plan; animation not yet produced",
+      "asset_requirements": {
+        "locations": [
+          "LOC01",
+          "LOC05",
+          "LOC06"
+        ],
+        "existing_reference_count": 9,
+        "new_image_needed": "camera-specific review still or approved matching frame; audit before generating",
+        "animation": "not generated; Higgsfield is for stills only",
+        "audio": "ElevenLabs dialogue, separate room tone/foley/music mix",
+        "special": "Preserve named character identities, set geometry and screen direction."
+      },
+      "speaking_roles": [
+        "byte"
+      ],
+      "reference_pack": [
+        {
+          "id": "c171160ce2dfdaef",
+          "title": "LOC01 - Resistance warehouse exterior",
+          "url": "/library/c171160ce2dfdaef.jpg",
+          "purpose": "Primary set geometry"
+        },
+        {
+          "id": "51c0358d041cc3ba",
+          "title": "Trixie - CatGirl",
+          "url": "/library/51c0358d041cc3ba.jpg",
+          "purpose": "Visible character identity / framing context; do not render offscreen speakers"
+        },
+        {
+          "id": "a23590fe66ebce01",
+          "title": "Byte",
+          "url": "/library/a23590fe66ebce01.jpg",
+          "purpose": "Visible character identity / framing context; do not render offscreen speakers"
+        }
+      ],
+      "reference_pack_count": 3,
+      "reference_overflow": [],
+      "wan_plan": {
+        "model": "WAN 3.0 Prime",
+        "provider": "awaiting provider confirmation",
+        "mode": "single composed first-frame image-to-video",
+        "upload_image_count": 1,
+        "first_frame_status": "needs shot-specific composition and review",
+        "first_frame_id": null,
+        "reference_mode_cap": 10,
+        "cap_status": "documented by Runway and Wan API; target provider still to confirm",
+        "reference_mode_sources": [
+          "https://dev.runwayml.com/learn/wan-3-0-api",
+          "https://wanapi.app/docs/wan-3-0-prime"
+        ],
+        "audio": false,
+        "audio_policy": "Use the existing/approved ElevenLabs tracks in the edit. Do not generate replacement speech.",
+        "requested_duration_seconds": 10,
+        "edit_duration_seconds": 9.735,
+        "note": "Source reference pack is for preparing the still. Upload ONE approved composed frame to WAN; do not mix it with this whole reference pack. Trim generated clip to editorial duration; do not stretch speech."
+      }
+    },
+    {
+      "shot_id": "S04-P02",
+      "camera_action": "Walking two-shot: Byte watches queues; Trixie studies shuttered stalls.",
+      "sound_transition": "Keep crowd under dialogue.",
+      "dialogue_ids": [
+        "S04-D01",
+        "S04-D02",
+        "S04-N02"
+      ],
+      "start_sec": 194.735,
+      "end_sec": 207.878,
+      "duration_sec": 13.143,
+      "scene_start_sec": 9.735,
+      "scene_end_sec": 22.878,
+      "start_tc": "03:14.735",
+      "end_tc": "03:27.878",
+      "status": "editorial plan; animation not yet produced",
+      "asset_requirements": {
+        "locations": [
+          "LOC01",
+          "LOC05",
+          "LOC06"
+        ],
+        "existing_reference_count": 9,
+        "new_image_needed": "camera-specific review still or approved matching frame; audit before generating",
+        "animation": "not generated; Higgsfield is for stills only",
+        "audio": "ElevenLabs dialogue, separate room tone/foley/music mix",
+        "special": "Preserve named character identities, set geometry and screen direction."
+      },
+      "speaking_roles": [
+        "byte",
+        "trixie"
+      ],
+      "reference_pack": [
+        {
+          "id": "c171160ce2dfdaef",
+          "title": "LOC01 - Resistance warehouse exterior",
+          "url": "/library/c171160ce2dfdaef.jpg",
+          "purpose": "Primary set geometry"
+        },
+        {
+          "id": "51c0358d041cc3ba",
+          "title": "Trixie - CatGirl",
+          "url": "/library/51c0358d041cc3ba.jpg",
+          "purpose": "Visible character identity / framing context; do not render offscreen speakers"
+        },
+        {
+          "id": "a23590fe66ebce01",
+          "title": "Byte",
+          "url": "/library/a23590fe66ebce01.jpg",
+          "purpose": "Visible character identity / framing context; do not render offscreen speakers"
+        }
+      ],
+      "reference_pack_count": 3,
+      "reference_overflow": [],
+      "wan_plan": {
+        "model": "WAN 3.0 Prime",
+        "provider": "awaiting provider confirmation",
+        "mode": "single composed first-frame image-to-video",
+        "upload_image_count": 1,
+        "first_frame_status": "needs shot-specific composition and review",
+        "first_frame_id": null,
+        "reference_mode_cap": 10,
+        "cap_status": "documented by Runway and Wan API; target provider still to confirm",
+        "reference_mode_sources": [
+          "https://dev.runwayml.com/learn/wan-3-0-api",
+          "https://wanapi.app/docs/wan-3-0-prime"
+        ],
+        "audio": false,
+        "audio_policy": "Use the existing/approved ElevenLabs tracks in the edit. Do not generate replacement speech.",
+        "requested_duration_seconds": 14,
+        "edit_duration_seconds": 13.143,
+        "note": "Source reference pack is for preparing the still. Upload ONE approved composed frame to WAN; do not mix it with this whole reference pack. Trim generated clip to editorial duration; do not stretch speech."
+      }
+    },
+    {
+      "shot_id": "S04-P03",
+      "camera_action": "Two civilian cats hesitate over last tin at a stall; Trixie moves between without grabbing either.",
+      "sound_transition": "Tin rattles; crowd quiets around them.",
+      "dialogue_ids": [
+        "S04-N03",
+        "S04-N04"
+      ],
+      "start_sec": 207.878,
+      "end_sec": 222.612,
+      "duration_sec": 14.734,
+      "scene_start_sec": 22.878,
+      "scene_end_sec": 37.612,
+      "start_tc": "03:27.878",
+      "end_tc": "03:42.612",
+      "status": "editorial plan; animation not yet produced",
+      "asset_requirements": {
+        "locations": [
+          "LOC01",
+          "LOC05",
+          "LOC06"
+        ],
+        "existing_reference_count": 9,
+        "new_image_needed": "camera-specific review still or approved matching frame; audit before generating",
+        "animation": "not generated; Higgsfield is for stills only",
+        "audio": "ElevenLabs dialogue, separate room tone/foley/music mix",
+        "special": "Preserve named character identities, set geometry and screen direction."
+      },
+      "speaking_roles": [
+        "civilian_2",
+        "trixie"
+      ],
+      "reference_pack": [
+        {
+          "id": "c171160ce2dfdaef",
+          "title": "LOC01 - Resistance warehouse exterior",
+          "url": "/library/c171160ce2dfdaef.jpg",
+          "purpose": "Primary set geometry"
+        },
+        {
+          "id": "51c0358d041cc3ba",
+          "title": "Trixie - CatGirl",
+          "url": "/library/51c0358d041cc3ba.jpg",
+          "purpose": "Visible character identity / framing context; do not render offscreen speakers"
+        },
+        {
+          "id": "4562760aa1996806",
+          "title": "CIV02 - Civilian Cat",
+          "url": "/library/4562760aa1996806.jpg",
+          "purpose": "Visible character identity / framing context; do not render offscreen speakers"
+        }
+      ],
+      "reference_pack_count": 3,
+      "reference_overflow": [],
+      "wan_plan": {
+        "model": "WAN 3.0 Prime",
+        "provider": "awaiting provider confirmation",
+        "mode": "single composed first-frame image-to-video",
+        "upload_image_count": 1,
+        "first_frame_status": "needs shot-specific composition and review",
+        "first_frame_id": null,
+        "reference_mode_cap": 10,
+        "cap_status": "documented by Runway and Wan API; target provider still to confirm",
+        "reference_mode_sources": [
+          "https://dev.runwayml.com/learn/wan-3-0-api",
+          "https://wanapi.app/docs/wan-3-0-prime"
+        ],
+        "audio": false,
+        "audio_policy": "Use the existing/approved ElevenLabs tracks in the edit. Do not generate replacement speech.",
+        "requested_duration_seconds": 15,
+        "edit_duration_seconds": 14.734,
+        "note": "Source reference pack is for preparing the still. Upload ONE approved composed frame to WAN; do not mix it with this whole reference pack. Trim generated clip to editorial duration; do not stretch speech."
+      }
+    },
+    {
+      "shot_id": "S04-P04",
+      "camera_action": "Byte notices delivery placard; over-shoulder scanner photograph preserves time.",
+      "sound_transition": "Scanner capture tone.",
+      "dialogue_ids": [
+        "S04-N05",
+        "S04-N06"
+      ],
+      "start_sec": 222.612,
+      "end_sec": 234.947,
+      "duration_sec": 12.335,
+      "scene_start_sec": 37.612,
+      "scene_end_sec": 49.947,
+      "start_tc": "03:42.612",
+      "end_tc": "03:54.947",
+      "status": "editorial plan; animation not yet produced",
+      "asset_requirements": {
+        "locations": [
+          "LOC01",
+          "LOC05",
+          "LOC06"
+        ],
+        "existing_reference_count": 9,
+        "new_image_needed": "camera-specific review still or approved matching frame; audit before generating",
+        "animation": "not generated; Higgsfield is for stills only",
+        "audio": "ElevenLabs dialogue, separate room tone/foley/music mix",
+        "special": "Preserve named character identities, set geometry and screen direction."
+      },
+      "speaking_roles": [
+        "byte",
+        "trixie"
+      ],
+      "reference_pack": [
+        {
+          "id": "c171160ce2dfdaef",
+          "title": "LOC01 - Resistance warehouse exterior",
+          "url": "/library/c171160ce2dfdaef.jpg",
+          "purpose": "Primary set geometry"
+        },
+        {
+          "id": "a23590fe66ebce01",
+          "title": "Byte",
+          "url": "/library/a23590fe66ebce01.jpg",
+          "purpose": "Visible character identity / framing context; do not render offscreen speakers"
+        },
+        {
+          "id": "51c0358d041cc3ba",
+          "title": "Trixie - CatGirl",
+          "url": "/library/51c0358d041cc3ba.jpg",
+          "purpose": "Visible character identity / framing context; do not render offscreen speakers"
+        },
+        {
+          "id": "3d6689586e0b8150",
+          "title": "PROP09-byte-price-scanner-gpt26-v002",
+          "url": "/library/3d6689586e0b8150.jpg",
+          "purpose": "Visible prop"
+        }
+      ],
+      "reference_pack_count": 4,
+      "reference_overflow": [],
+      "wan_plan": {
+        "model": "WAN 3.0 Prime",
+        "provider": "awaiting provider confirmation",
+        "mode": "single composed first-frame image-to-video",
+        "upload_image_count": 1,
+        "first_frame_status": "needs shot-specific composition and review",
+        "first_frame_id": null,
+        "reference_mode_cap": 10,
+        "cap_status": "documented by Runway and Wan API; target provider still to confirm",
+        "reference_mode_sources": [
+          "https://dev.runwayml.com/learn/wan-3-0-api",
+          "https://wanapi.app/docs/wan-3-0-prime"
+        ],
+        "audio": false,
+        "audio_policy": "Use the existing/approved ElevenLabs tracks in the edit. Do not generate replacement speech.",
+        "requested_duration_seconds": 13,
+        "edit_duration_seconds": 12.335,
+        "note": "Source reference pack is for preparing the still. Upload ONE approved composed frame to WAN; do not mix it with this whole reference pack. Trim generated clip to editorial duration; do not stretch speech."
+      }
+    },
+    {
+      "shot_id": "S04-P05",
+      "camera_action": "Reveal 7-Catleven frontage; Trixie heads for door while Byte glances at snack poster.",
+      "sound_transition": "Automatic door chime; cut inside at matching movement.",
+      "dialogue_ids": [
+        "S04-D03"
+      ],
+      "start_sec": 234.947,
+      "end_sec": 240.0,
+      "duration_sec": 5.053,
+      "scene_start_sec": 49.947,
+      "scene_end_sec": 55.0,
+      "start_tc": "03:54.947",
+      "end_tc": "04:00.000",
+      "status": "editorial plan; animation not yet produced",
+      "asset_requirements": {
+        "locations": [
+          "LOC01",
+          "LOC05",
+          "LOC06"
+        ],
+        "existing_reference_count": 9,
+        "new_image_needed": "camera-specific review still or approved matching frame; audit before generating",
+        "animation": "not generated; Higgsfield is for stills only",
+        "audio": "ElevenLabs dialogue, separate room tone/foley/music mix",
+        "special": "Preserve named character identities, set geometry and screen direction."
+      },
+      "speaking_roles": [
+        "byte"
+      ],
+      "reference_pack": [
+        {
+          "id": "c171160ce2dfdaef",
+          "title": "LOC01 - Resistance warehouse exterior",
+          "url": "/library/c171160ce2dfdaef.jpg",
+          "purpose": "Primary set geometry"
+        },
+        {
+          "id": "51c0358d041cc3ba",
+          "title": "Trixie - CatGirl",
+          "url": "/library/51c0358d041cc3ba.jpg",
+          "purpose": "Visible character identity / framing context; do not render offscreen speakers"
+        },
+        {
+          "id": "a23590fe66ebce01",
+          "title": "Byte",
+          "url": "/library/a23590fe66ebce01.jpg",
+          "purpose": "Visible character identity / framing context; do not render offscreen speakers"
+        }
+      ],
+      "reference_pack_count": 3,
+      "reference_overflow": [],
+      "wan_plan": {
+        "model": "WAN 3.0 Prime",
+        "provider": "awaiting provider confirmation",
+        "mode": "single composed first-frame image-to-video",
+        "upload_image_count": 1,
+        "first_frame_status": "needs shot-specific composition and review",
+        "first_frame_id": null,
+        "reference_mode_cap": 10,
+        "cap_status": "documented by Runway and Wan API; target provider still to confirm",
+        "reference_mode_sources": [
+          "https://dev.runwayml.com/learn/wan-3-0-api",
+          "https://wanapi.app/docs/wan-3-0-prime"
+        ],
+        "audio": false,
+        "audio_policy": "Use the existing/approved ElevenLabs tracks in the edit. Do not generate replacement speech.",
+        "requested_duration_seconds": 6,
+        "edit_duration_seconds": 5.053,
+        "note": "Source reference pack is for preparing the still. Upload ONE approved composed frame to WAN; do not mix it with this whole reference pack. Trim generated clip to editorial duration; do not stretch speech."
+      }
+    }
+  ],
+  "spoken_words": 100,
+  "recorded_lines": 3,
+  "timing_note": "Exact editorial allocation. Existing takes use measured file durations; unrecorded lines use 150 wpm estimates. Action plays under dialogue where indicated. No time stretching or blank padding.",
+  "remaining_work": [
+    "Record and review new/unrecorded dialogue in ElevenLabs.",
+    "Build camera-specific stills from established references; review identity and geography.",
+    "Animate approved shots outside Higgsfield, then conform to this timeline.",
+    "Mix room tone, foley, music and dialogue; verify a full-speed table read and animatic."
+  ],
+  "continuity": "Keep exactly five core cats; match current character sheets and fixed location geometry. Goodboy Global spelling throughout.",
+  "generation_references": [
+    {
+      "id": "c171160ce2dfdaef",
+      "title": "LOC01 - Resistance warehouse exterior",
+      "filename": "LOC01-resistance-warehouse-exterior-gpt26-v001.png",
+      "kind": "Location",
+      "purpose": "Set geography, doors, windows and camera axis.",
+      "url": "/library/c171160ce2dfdaef.jpg",
+      "thumbnail": "/library/c171160ce2dfdaef.webp",
+      "source": "Locations\\Cats\\LOC01 - Resistance warehouse exterior\\Reference Sheets\\LOC01-resistance-warehouse-exterior-gpt26-v001.png",
+      "status": "existing reference; review before generation"
+    },
+    {
+      "id": "3bd909f3e732f8d1",
+      "title": "LOC05 - District 7 streets and alleys",
+      "filename": "LOC05-district-7-streets-and-alleys-gpt26-v001.png",
+      "kind": "Location",
+      "purpose": "Set geography, doors, windows and camera axis.",
+      "url": "/library/3bd909f3e732f8d1.jpg",
+      "thumbnail": "/library/3bd909f3e732f8d1.webp",
+      "source": "Locations\\Neutral\\LOC05 - District 7 streets and alleys\\Reference Sheets\\LOC05-district-7-streets-and-alleys-gpt26-v001.png",
+      "status": "existing reference; review before generation"
+    },
+    {
+      "id": "c857f705f48778a3",
+      "title": "LOC06 - 7-Catleven exterior",
+      "filename": "LOC06-7-catleven-exterior-gpt26-v001.png",
+      "kind": "Location",
+      "purpose": "Set geography, doors, windows and camera axis.",
+      "url": "/library/c857f705f48778a3.jpg",
+      "thumbnail": "/library/c857f705f48778a3.webp",
+      "source": "Locations\\Cats\\LOC06 - 7-Catleven exterior\\Reference Sheets\\LOC06-7-catleven-exterior-gpt26-v001.png",
+      "status": "existing reference; review before generation"
+    },
+    {
+      "id": "51c0358d041cc3ba",
+      "title": "Trixie - CatGirl",
+      "filename": "CREW01-trixie-character-master-gpt26-v001.png",
+      "kind": "Character",
+      "purpose": "Preserve identity, proportions, outfit and accessories. Include only actors visible in the shot.",
+      "url": "/library/51c0358d041cc3ba.jpg",
+      "thumbnail": "/library/51c0358d041cc3ba.webp",
+      "source": "Characters\\Cats - Resistance\\Trixie - CatGirl\\Reference Sheets\\CREW01-trixie-character-master-gpt26-v001.png",
+      "status": "existing reference; review before generation"
+    },
+    {
+      "id": "a23590fe66ebce01",
+      "title": "Byte",
+      "filename": "CREW02-byte-character-master-gpt26-v001.png",
+      "kind": "Character",
+      "purpose": "Preserve identity, proportions, outfit and accessories. Include only actors visible in the shot.",
+      "url": "/library/a23590fe66ebce01.jpg",
+      "thumbnail": "/library/a23590fe66ebce01.webp",
+      "source": "Characters\\Cats - Resistance\\Byte\\Reference Sheets\\CREW02-byte-character-master-gpt26-v001.png",
+      "status": "existing reference; review before generation"
+    },
+    {
+      "id": "d0c4b245ed3a3745",
+      "title": "CIV01 - Civilian Cat",
+      "filename": "CIV01-character-master-gpt26-v001.png",
+      "kind": "Character",
+      "purpose": "Preserve identity, proportions, outfit and accessories. Include only actors visible in the shot.",
+      "url": "/library/d0c4b245ed3a3745.jpg",
+      "thumbnail": "/library/d0c4b245ed3a3745.webp",
+      "source": "Characters\\Cats - Civilians and Media\\CIV01 - Civilian Cat\\Reference Sheets\\CIV01-character-master-gpt26-v001.png",
+      "status": "existing reference; review before generation"
+    },
+    {
+      "id": "4562760aa1996806",
+      "title": "CIV02 - Civilian Cat",
+      "filename": "CIV02-character-master-gpt26-v001.png",
+      "kind": "Character",
+      "purpose": "Preserve identity, proportions, outfit and accessories. Include only actors visible in the shot.",
+      "url": "/library/4562760aa1996806.jpg",
+      "thumbnail": "/library/4562760aa1996806.webp",
+      "source": "Characters\\Cats - Civilians and Media\\CIV02 - Civilian Cat\\Reference Sheets\\CIV02-character-master-gpt26-v001.png",
+      "status": "existing reference; review before generation"
+    },
+    {
+      "id": "3d6689586e0b8150",
+      "title": "PROP09-byte-price-scanner-gpt26-v002",
+      "filename": "PROP09-byte-price-scanner-gpt26-v002.png",
+      "kind": "Prop / graphic",
+      "purpose": "Preserve prop shape, material, controls and scale.",
+      "url": "/library/3d6689586e0b8150.jpg",
+      "thumbnail": "/library/3d6689586e0b8150.webp",
+      "source": "Props\\Cats\\Props\\PROP09-byte-price-scanner-gpt26-v002.png",
+      "status": "existing reference; review before generation"
+    },
+    {
+      "id": "fb9297d91d0a6ab0",
+      "title": "PROP08-salmon-packs-price-notice-gpt26-v001",
+      "filename": "PROP08-salmon-packs-price-notice-gpt26-v001.png",
+      "kind": "Prop / graphic",
+      "purpose": "Preserve prop shape, material, controls and scale.",
+      "url": "/library/fb9297d91d0a6ab0.jpg",
+      "thumbnail": "/library/fb9297d91d0a6ab0.webp",
+      "source": "Props\\Neutral\\Props\\PROP08-salmon-packs-price-notice-gpt26-v001.png",
+      "status": "existing reference; review before generation"
+    },
+    {
+      "id": "d081dd59b4f1409c",
+      "title": "S04A — reference frame (review draft)",
+      "filename": "S04A — reference frame (review draft)",
+      "kind": "Existing frame",
+      "purpose": "Framing draft only, not a final WAN input. TV views require the requested gameplay correction.",
+      "url": "/library/d081dd59b4f1409c.jpg",
+      "thumbnail": "/library/d081dd59b4f1409c.webp",
+      "source": "Opening Frames",
+      "status": "existing reference; review before generation"
+    },
+    {
+      "id": "11a693ade0b0be8c",
+      "title": "S04B — reference frame (review draft)",
+      "filename": "S04B — reference frame (review draft)",
+      "kind": "Existing frame",
+      "purpose": "Framing draft only, not a final WAN input. TV views require the requested gameplay correction.",
+      "url": "/library/11a693ade0b0be8c.jpg",
+      "thumbnail": "/library/11a693ade0b0be8c.webp",
+      "source": "Opening Frames",
+      "status": "existing reference; review before generation"
+    },
+    {
+      "id": "2dd0994ced7e7c9a",
+      "title": "S04C — reference frame (review draft)",
+      "filename": "S04C — reference frame (review draft)",
+      "kind": "Existing frame",
+      "purpose": "Framing draft only, not a final WAN input. TV views require the requested gameplay correction.",
+      "url": "/library/2dd0994ced7e7c9a.jpg",
+      "thumbnail": "/library/2dd0994ced7e7c9a.webp",
+      "source": "Opening Frames",
+      "status": "existing reference; review before generation"
+    },
+    {
+      "id": "aa14f50276932f22",
+      "title": "S04D — reference frame (review draft)",
+      "filename": "S04D — reference frame (review draft)",
+      "kind": "Existing frame",
+      "purpose": "Framing draft only, not a final WAN input. TV views require the requested gameplay correction.",
+      "url": "/library/aa14f50276932f22.jpg",
+      "thumbnail": "/library/aa14f50276932f22.webp",
+      "source": "Opening Frames",
+      "status": "existing reference; review before generation"
+    },
+    {
+      "id": "127a4d5fd9502510",
+      "title": "S04E — reference frame (review draft)",
+      "filename": "S04E — reference frame (review draft)",
+      "kind": "Existing frame",
+      "purpose": "Framing draft only, not a final WAN input. TV views require the requested gameplay correction.",
+      "url": "/library/127a4d5fd9502510.jpg",
+      "thumbnail": "/library/127a4d5fd9502510.webp",
+      "source": "Opening Frames",
+      "status": "existing reference; review before generation"
+    },
+    {
+      "id": "b6d70ce436574aaf",
+      "title": "S04F — reference frame (review draft)",
+      "filename": "S04F — reference frame (review draft)",
+      "kind": "Existing frame",
+      "purpose": "Framing draft only, not a final WAN input. TV views require the requested gameplay correction.",
+      "url": "/library/b6d70ce436574aaf.jpg",
+      "thumbnail": "/library/b6d70ce436574aaf.webp",
+      "source": "Opening Frames",
+      "status": "existing reference; review before generation"
+    }
+  ],
+  "missing_reference_requirements": [
+    "Final shot-specific composed first frame for each timed shot; existing drafts require review."
+  ]
+}

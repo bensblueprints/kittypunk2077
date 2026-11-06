@@ -1,0 +1,891 @@
+{
+  "number": 5,
+  "title": "Three Times the Price",
+  "start": "04:00",
+  "end": "05:00",
+  "duration_seconds": 60,
+  "source_location": "7-Catleven freezer aisle",
+  "location_ids": [
+    "LOC07"
+  ],
+  "staging": "Scene 05 — Three Times the Price\n\n04:00–05:00 · 60 sec · 7-Catleven freezer aisle\n\nOnly two packages of salmon remain. A notice says prices have increased threefold. Byte scans the price history and finds the increase began before the emergency broadcast.\n\nShots: Freezer aisle wide → two lonely salmon packs → price notice → Byte's handheld scanner → Trixie's shocked reaction.",
+  "sound": "",
+  "lines": [
+    {
+      "id": "S05-D01",
+      "speaker": "Byte",
+      "text": "Thirty bucks for a piece of fish? Last week it was ten!",
+      "takes": [
+        {
+          "id": "edba6892c03401a4",
+          "title": "S05-D01-byte-take001",
+          "scene": "Scene05",
+          "text": "Thirty bucks for a piece of fish? Last week it was ten!",
+          "duration_sec": 3.157914,
+          "kind": "take",
+          "variant": "take001"
+        }
+      ],
+      "origin": "retained working script",
+      "recording_status": "review take available",
+      "start_sec": 249.99,
+      "end_sec": 253.148,
+      "start_tc": "04:09.990",
+      "end_tc": "04:13.148",
+      "shot_id": "S05-P02",
+      "timing_basis": "measured review take",
+      "role_id": "byte",
+      "voice_id": "wo6udizrrtpIxWGp2qJk",
+      "voice_name": "Northern Terry"
+    },
+    {
+      "id": "S05-D02",
+      "speaker": "Trixie",
+      "text": "Check the price history. When did it change?",
+      "takes": [
+        {
+          "id": "92199ee6b9c06e9e",
+          "title": "S05-D02-trixie-take001",
+          "scene": "Scene05",
+          "text": "Check the price history. When did it change?",
+          "duration_sec": 1.904036,
+          "kind": "take",
+          "variant": "take001"
+        }
+      ],
+      "origin": "retained working script",
+      "recording_status": "review take available",
+      "start_sec": 253.348,
+      "end_sec": 255.252,
+      "start_tc": "04:13.348",
+      "end_tc": "04:15.252",
+      "shot_id": "S05-P02",
+      "timing_basis": "measured review take",
+      "role_id": "trixie",
+      "voice_id": "dmWfLQZJq7wNPv9WmtiM",
+      "voice_name": "Emma — Wry, Gritty Hero"
+    },
+    {
+      "id": "S05-D03",
+      "speaker": "Byte",
+      "text": "Before the broadcast. They raised it before anyone knew there was an emergency.",
+      "takes": [
+        {
+          "id": "128ebbff88f6429f",
+          "title": "S05-D03-byte-take001",
+          "scene": "Scene05",
+          "text": "Before the broadcast. They raised it before anyone knew there was an emergency.",
+          "duration_sec": 4.272472,
+          "kind": "take",
+          "variant": "take001"
+        }
+      ],
+      "origin": "retained working script",
+      "recording_status": "review take available",
+      "start_sec": 259.372,
+      "end_sec": 263.644,
+      "start_tc": "04:19.372",
+      "end_tc": "04:23.644",
+      "shot_id": "S05-P03",
+      "timing_basis": "measured review take",
+      "role_id": "byte",
+      "voice_id": "wo6udizrrtpIxWGp2qJk",
+      "voice_name": "Northern Terry"
+    },
+    {
+      "id": "S05-D04",
+      "speaker": "Trixie",
+      "text": "They knew. We were the last ones told.",
+      "takes": [
+        {
+          "id": "058a2dab04079c72",
+          "title": "S05-D04-trixie-take001",
+          "scene": "Scene05",
+          "text": "They knew. We were the last ones told.",
+          "duration_sec": 2.693515,
+          "kind": "take",
+          "variant": "take001"
+        }
+      ],
+      "origin": "retained working script",
+      "recording_status": "review take available",
+      "start_sec": 263.844,
+      "end_sec": 266.538,
+      "start_tc": "04:23.844",
+      "end_tc": "04:26.538",
+      "shot_id": "S05-P03",
+      "timing_basis": "measured review take",
+      "role_id": "trixie",
+      "voice_id": "dmWfLQZJq7wNPv9WmtiM",
+      "voice_name": "Emma — Wry, Gritty Hero"
+    },
+    {
+      "id": "S05-D05",
+      "speaker": "Byte",
+      "text": "Two packs left. At this price, we can afford to look at one.",
+      "takes": [
+        {
+          "id": "8620f648a4e1abee",
+          "title": "S05-D05-byte-take001",
+          "scene": "Scene05",
+          "text": "Two packs left. At this price, we can afford to look at one.",
+          "duration_sec": 3.343673,
+          "kind": "take",
+          "variant": "take001"
+        }
+      ],
+      "origin": "retained working script",
+      "recording_status": "review take available",
+      "start_sec": 270.658,
+      "end_sec": 274.002,
+      "start_tc": "04:30.658",
+      "end_tc": "04:34.002",
+      "shot_id": "S05-P04",
+      "timing_basis": "measured review take",
+      "role_id": "byte",
+      "voice_id": "wo6udizrrtpIxWGp2qJk",
+      "voice_name": "Northern Terry"
+    },
+    {
+      "id": "S05-D06",
+      "speaker": "Trixie",
+      "text": "They are manufacturing panic.",
+      "takes": [
+        {
+          "id": "a09055fa02125aea",
+          "title": "S05-D06-trixie-take001",
+          "scene": "Scene05",
+          "text": "They are manufacturing panic.",
+          "duration_sec": 1.625397,
+          "kind": "take",
+          "variant": "take001"
+        }
+      ],
+      "origin": "retained working script",
+      "recording_status": "review take available",
+      "start_sec": 274.202,
+      "end_sec": 275.827,
+      "start_tc": "04:34.202",
+      "end_tc": "04:35.827",
+      "shot_id": "S05-P04",
+      "timing_basis": "measured review take",
+      "role_id": "trixie",
+      "voice_id": "dmWfLQZJq7wNPv9WmtiM",
+      "voice_name": "Emma — Wry, Gritty Hero"
+    },
+    {
+      "id": "S05-D07",
+      "speaker": "Byte",
+      "text": "Well, it is working. I am panicking.",
+      "takes": [
+        {
+          "id": "08849ce6b81483d9",
+          "title": "S05-D07-byte-take001",
+          "scene": "Scene05",
+          "text": "Well, it is working. I am panicking.",
+          "duration_sec": 2.136236,
+          "kind": "take",
+          "variant": "take001"
+        }
+      ],
+      "origin": "retained working script",
+      "recording_status": "review take available",
+      "start_sec": 276.027,
+      "end_sec": 278.163,
+      "start_tc": "04:36.027",
+      "end_tc": "04:38.163",
+      "shot_id": "S05-P04",
+      "timing_basis": "measured review take",
+      "role_id": "byte",
+      "voice_id": "wo6udizrrtpIxWGp2qJk",
+      "voice_name": "Northern Terry"
+    },
+    {
+      "id": "S05-D08",
+      "speaker": "Trixie",
+      "text": "Save the timestamp. And the old price. We need something people can check.",
+      "takes": [
+        {
+          "id": "c4ac0341a87d779e",
+          "title": "S05-D08-trixie-take001",
+          "scene": "Scene05",
+          "text": "Save the timestamp. And the old price. We need something people can check.",
+          "duration_sec": 4.551111,
+          "kind": "take",
+          "variant": "take001"
+        }
+      ],
+      "origin": "retained working script",
+      "recording_status": "review take available",
+      "start_sec": 282.283,
+      "end_sec": 286.834,
+      "start_tc": "04:42.283",
+      "end_tc": "04:46.834",
+      "shot_id": "S05-P05",
+      "timing_basis": "measured review take",
+      "role_id": "trixie",
+      "voice_id": "dmWfLQZJq7wNPv9WmtiM",
+      "voice_name": "Emma — Wry, Gritty Hero"
+    },
+    {
+      "id": "S05-D09",
+      "speaker": "Byte",
+      "text": "Done. Apparently dinner now comes with an investigation.",
+      "takes": [
+        {
+          "id": "ce7fbd909311958c",
+          "title": "S05-D09-byte-take001",
+          "scene": "Scene05",
+          "text": "Done. Apparently dinner now comes with an investigation.",
+          "duration_sec": 3.157914,
+          "kind": "take",
+          "variant": "take001"
+        }
+      ],
+      "origin": "retained working script",
+      "recording_status": "review take available",
+      "start_sec": 287.034,
+      "end_sec": 290.192,
+      "start_tc": "04:47.034",
+      "end_tc": "04:50.192",
+      "shot_id": "S05-P05",
+      "timing_basis": "measured review take",
+      "role_id": "byte",
+      "voice_id": "wo6udizrrtpIxWGp2qJk",
+      "voice_name": "Northern Terry"
+    },
+    {
+      "id": "S05-D10",
+      "speaker": "Trixie",
+      "text": "We are going to tell the whole district.",
+      "takes": [
+        {
+          "id": "e6d9ff89ba19bb1b",
+          "title": "S05-D10-trixie-take001",
+          "scene": "Scene05",
+          "text": "We are going to tell the whole district.",
+          "duration_sec": 1.718277,
+          "kind": "take",
+          "variant": "take001"
+        }
+      ],
+      "origin": "retained working script",
+      "recording_status": "review take available",
+      "start_sec": 294.312,
+      "end_sec": 296.03,
+      "start_tc": "04:54.312",
+      "end_tc": "04:56.030",
+      "shot_id": "S05-P06",
+      "timing_basis": "measured review take",
+      "role_id": "trixie",
+      "voice_id": "dmWfLQZJq7wNPv9WmtiM",
+      "voice_name": "Emma — Wry, Gritty Hero"
+    }
+  ],
+  "shots": [
+    {
+      "shot_id": "S05-B01",
+      "description": "Freezer aisle wide",
+      "status": "source shot beat; detailed shot duration and coverage pending",
+      "duration_seconds": null
+    },
+    {
+      "shot_id": "S05-B02",
+      "description": "two lonely salmon packs",
+      "status": "source shot beat; detailed shot duration and coverage pending",
+      "duration_seconds": null
+    },
+    {
+      "shot_id": "S05-B03",
+      "description": "price notice",
+      "status": "source shot beat; detailed shot duration and coverage pending",
+      "duration_seconds": null
+    },
+    {
+      "shot_id": "S05-B04",
+      "description": "Byte's handheld scanner",
+      "status": "source shot beat; detailed shot duration and coverage pending",
+      "duration_seconds": null
+    },
+    {
+      "shot_id": "S05-B05",
+      "description": "Trixie's shocked reaction.",
+      "status": "source shot beat; detailed shot duration and coverage pending",
+      "duration_seconds": null
+    }
+  ],
+  "locations": [
+    {
+      "id": "0501505937608443",
+      "title": "LOC07 - 7-Catleven interior and freezer",
+      "category": "Locations",
+      "group": "Cats",
+      "file": "LOC07-7-catleven-interior-and-freezer-gpt26-v001.png",
+      "source": "Locations\\Cats\\LOC07 - 7-Catleven interior and freezer\\Reference Sheets\\LOC07-7-catleven-interior-and-freezer-gpt26-v001.png",
+      "voice": ""
+    }
+  ],
+  "frames": [],
+  "assemblies": [
+    {
+      "id": "1e6236710c062b10",
+      "title": "Scene 05 — play the dialogue assembly",
+      "scene": "Scene05",
+      "text": "Dialogue-only assembly; effects and final picture timing still needed.",
+      "duration_sec": 31.560544217687074,
+      "kind": "assembly",
+      "variant": ""
+    }
+  ],
+  "timed_shots": [
+    {
+      "shot_id": "S05-P01",
+      "camera_action": "Freezer aisle establishing: two salmon packs, large new price; Trixie and Byte enter.",
+      "sound_transition": "Refrigerator hum, distant checkout beep.",
+      "dialogue_ids": [],
+      "start_sec": 240,
+      "end_sec": 249.84,
+      "duration_sec": 9.84,
+      "scene_start_sec": 0,
+      "scene_end_sec": 9.84,
+      "start_tc": "04:00.000",
+      "end_tc": "04:09.840",
+      "status": "editorial plan; animation not yet produced",
+      "asset_requirements": {
+        "locations": [
+          "LOC07"
+        ],
+        "existing_reference_count": 1,
+        "new_image_needed": "camera-specific review still or approved matching frame; audit before generating",
+        "animation": "not generated; Higgsfield is for stills only",
+        "audio": "ElevenLabs dialogue, separate room tone/foley/music mix",
+        "special": "Preserve named character identities, set geometry and screen direction."
+      },
+      "speaking_roles": [],
+      "reference_pack": [
+        {
+          "id": "0501505937608443",
+          "title": "LOC07 - 7-Catleven interior and freezer",
+          "url": "/library/0501505937608443.jpg",
+          "purpose": "Primary set geometry"
+        },
+        {
+          "id": "51c0358d041cc3ba",
+          "title": "Trixie - CatGirl",
+          "url": "/library/51c0358d041cc3ba.jpg",
+          "purpose": "Visible character identity / framing context; do not render offscreen speakers"
+        },
+        {
+          "id": "a23590fe66ebce01",
+          "title": "Byte",
+          "url": "/library/a23590fe66ebce01.jpg",
+          "purpose": "Visible character identity / framing context; do not render offscreen speakers"
+        },
+        {
+          "id": "fb9297d91d0a6ab0",
+          "title": "PROP08-salmon-packs-price-notice-gpt26-v001",
+          "url": "/library/fb9297d91d0a6ab0.jpg",
+          "purpose": "Visible prop"
+        },
+        {
+          "id": "3d6689586e0b8150",
+          "title": "PROP09-byte-price-scanner-gpt26-v002",
+          "url": "/library/3d6689586e0b8150.jpg",
+          "purpose": "Visible prop"
+        }
+      ],
+      "reference_pack_count": 5,
+      "reference_overflow": [],
+      "wan_plan": {
+        "model": "WAN 3.0 Prime",
+        "provider": "awaiting provider confirmation",
+        "mode": "single composed first-frame image-to-video",
+        "upload_image_count": 1,
+        "first_frame_status": "needs shot-specific composition and review",
+        "first_frame_id": null,
+        "reference_mode_cap": 10,
+        "cap_status": "documented by Runway and Wan API; target provider still to confirm",
+        "reference_mode_sources": [
+          "https://dev.runwayml.com/learn/wan-3-0-api",
+          "https://wanapi.app/docs/wan-3-0-prime"
+        ],
+        "audio": false,
+        "audio_policy": "Use the existing/approved ElevenLabs tracks in the edit. Do not generate replacement speech.",
+        "requested_duration_seconds": 10,
+        "edit_duration_seconds": 9.84,
+        "note": "Source reference pack is for preparing the still. Upload ONE approved composed frame to WAN; do not mix it with this whole reference pack. Trim generated clip to editorial duration; do not stretch speech."
+      }
+    },
+    {
+      "shot_id": "S05-P02",
+      "camera_action": "Byte studies label; insert unchanged pack size next to tripled price.",
+      "sound_transition": "Scanner wake chirp.",
+      "dialogue_ids": [
+        "S05-D01",
+        "S05-D02"
+      ],
+      "start_sec": 249.84,
+      "end_sec": 259.222,
+      "duration_sec": 9.382,
+      "scene_start_sec": 9.84,
+      "scene_end_sec": 19.222,
+      "start_tc": "04:09.840",
+      "end_tc": "04:19.222",
+      "status": "editorial plan; animation not yet produced",
+      "asset_requirements": {
+        "locations": [
+          "LOC07"
+        ],
+        "existing_reference_count": 1,
+        "new_image_needed": "camera-specific review still or approved matching frame; audit before generating",
+        "animation": "not generated; Higgsfield is for stills only",
+        "audio": "ElevenLabs dialogue, separate room tone/foley/music mix",
+        "special": "Preserve named character identities, set geometry and screen direction."
+      },
+      "speaking_roles": [
+        "byte",
+        "trixie"
+      ],
+      "reference_pack": [
+        {
+          "id": "0501505937608443",
+          "title": "LOC07 - 7-Catleven interior and freezer",
+          "url": "/library/0501505937608443.jpg",
+          "purpose": "Primary set geometry"
+        },
+        {
+          "id": "a23590fe66ebce01",
+          "title": "Byte",
+          "url": "/library/a23590fe66ebce01.jpg",
+          "purpose": "Visible character identity / framing context; do not render offscreen speakers"
+        },
+        {
+          "id": "51c0358d041cc3ba",
+          "title": "Trixie - CatGirl",
+          "url": "/library/51c0358d041cc3ba.jpg",
+          "purpose": "Visible character identity / framing context; do not render offscreen speakers"
+        },
+        {
+          "id": "fb9297d91d0a6ab0",
+          "title": "PROP08-salmon-packs-price-notice-gpt26-v001",
+          "url": "/library/fb9297d91d0a6ab0.jpg",
+          "purpose": "Visible prop"
+        },
+        {
+          "id": "3d6689586e0b8150",
+          "title": "PROP09-byte-price-scanner-gpt26-v002",
+          "url": "/library/3d6689586e0b8150.jpg",
+          "purpose": "Visible prop"
+        }
+      ],
+      "reference_pack_count": 5,
+      "reference_overflow": [],
+      "wan_plan": {
+        "model": "WAN 3.0 Prime",
+        "provider": "awaiting provider confirmation",
+        "mode": "single composed first-frame image-to-video",
+        "upload_image_count": 1,
+        "first_frame_status": "needs shot-specific composition and review",
+        "first_frame_id": null,
+        "reference_mode_cap": 10,
+        "cap_status": "documented by Runway and Wan API; target provider still to confirm",
+        "reference_mode_sources": [
+          "https://dev.runwayml.com/learn/wan-3-0-api",
+          "https://wanapi.app/docs/wan-3-0-prime"
+        ],
+        "audio": false,
+        "audio_policy": "Use the existing/approved ElevenLabs tracks in the edit. Do not generate replacement speech.",
+        "requested_duration_seconds": 10,
+        "edit_duration_seconds": 9.382,
+        "note": "Source reference pack is for preparing the still. Upload ONE approved composed frame to WAN; do not mix it with this whole reference pack. Trim generated clip to editorial duration; do not stretch speech."
+      }
+    },
+    {
+      "shot_id": "S05-P03",
+      "camera_action": "Scanner insert followed by Byte reaction: old and new prices, timestamps legible.",
+      "sound_transition": "Data retrieval tone; dialogue remains dry.",
+      "dialogue_ids": [
+        "S05-D03",
+        "S05-D04"
+      ],
+      "start_sec": 259.222,
+      "end_sec": 270.508,
+      "duration_sec": 11.286,
+      "scene_start_sec": 19.222,
+      "scene_end_sec": 30.508,
+      "start_tc": "04:19.222",
+      "end_tc": "04:30.508",
+      "status": "editorial plan; animation not yet produced",
+      "asset_requirements": {
+        "locations": [
+          "LOC07"
+        ],
+        "existing_reference_count": 1,
+        "new_image_needed": "camera-specific review still or approved matching frame; audit before generating",
+        "animation": "not generated; Higgsfield is for stills only",
+        "audio": "ElevenLabs dialogue, separate room tone/foley/music mix",
+        "special": "Preserve named character identities, set geometry and screen direction."
+      },
+      "speaking_roles": [
+        "byte",
+        "trixie"
+      ],
+      "reference_pack": [
+        {
+          "id": "0501505937608443",
+          "title": "LOC07 - 7-Catleven interior and freezer",
+          "url": "/library/0501505937608443.jpg",
+          "purpose": "Primary set geometry"
+        },
+        {
+          "id": "a23590fe66ebce01",
+          "title": "Byte",
+          "url": "/library/a23590fe66ebce01.jpg",
+          "purpose": "Visible character identity / framing context; do not render offscreen speakers"
+        },
+        {
+          "id": "51c0358d041cc3ba",
+          "title": "Trixie - CatGirl",
+          "url": "/library/51c0358d041cc3ba.jpg",
+          "purpose": "Visible character identity / framing context; do not render offscreen speakers"
+        },
+        {
+          "id": "fb9297d91d0a6ab0",
+          "title": "PROP08-salmon-packs-price-notice-gpt26-v001",
+          "url": "/library/fb9297d91d0a6ab0.jpg",
+          "purpose": "Visible prop"
+        },
+        {
+          "id": "3d6689586e0b8150",
+          "title": "PROP09-byte-price-scanner-gpt26-v002",
+          "url": "/library/3d6689586e0b8150.jpg",
+          "purpose": "Visible prop"
+        }
+      ],
+      "reference_pack_count": 5,
+      "reference_overflow": [],
+      "wan_plan": {
+        "model": "WAN 3.0 Prime",
+        "provider": "awaiting provider confirmation",
+        "mode": "single composed first-frame image-to-video",
+        "upload_image_count": 1,
+        "first_frame_status": "needs shot-specific composition and review",
+        "first_frame_id": null,
+        "reference_mode_cap": 10,
+        "cap_status": "documented by Runway and Wan API; target provider still to confirm",
+        "reference_mode_sources": [
+          "https://dev.runwayml.com/learn/wan-3-0-api",
+          "https://wanapi.app/docs/wan-3-0-prime"
+        ],
+        "audio": false,
+        "audio_policy": "Use the existing/approved ElevenLabs tracks in the edit. Do not generate replacement speech.",
+        "requested_duration_seconds": 12,
+        "edit_duration_seconds": 11.286,
+        "note": "Source reference pack is for preparing the still. Upload ONE approved composed frame to WAN; do not mix it with this whole reference pack. Trim generated clip to editorial duration; do not stretch speech."
+      }
+    },
+    {
+      "shot_id": "S05-P04",
+      "camera_action": "Wide freezer emptiness with only two packs; Byte counts wallet then looks back.",
+      "sound_transition": "One freezer door squeak; embarrassed pause.",
+      "dialogue_ids": [
+        "S05-D05",
+        "S05-D06",
+        "S05-D07"
+      ],
+      "start_sec": 270.508,
+      "end_sec": 282.133,
+      "duration_sec": 11.625,
+      "scene_start_sec": 30.508,
+      "scene_end_sec": 42.133,
+      "start_tc": "04:30.508",
+      "end_tc": "04:42.133",
+      "status": "editorial plan; animation not yet produced",
+      "asset_requirements": {
+        "locations": [
+          "LOC07"
+        ],
+        "existing_reference_count": 1,
+        "new_image_needed": "camera-specific review still or approved matching frame; audit before generating",
+        "animation": "not generated; Higgsfield is for stills only",
+        "audio": "ElevenLabs dialogue, separate room tone/foley/music mix",
+        "special": "Preserve named character identities, set geometry and screen direction."
+      },
+      "speaking_roles": [
+        "byte",
+        "trixie"
+      ],
+      "reference_pack": [
+        {
+          "id": "0501505937608443",
+          "title": "LOC07 - 7-Catleven interior and freezer",
+          "url": "/library/0501505937608443.jpg",
+          "purpose": "Primary set geometry"
+        },
+        {
+          "id": "a23590fe66ebce01",
+          "title": "Byte",
+          "url": "/library/a23590fe66ebce01.jpg",
+          "purpose": "Visible character identity / framing context; do not render offscreen speakers"
+        },
+        {
+          "id": "51c0358d041cc3ba",
+          "title": "Trixie - CatGirl",
+          "url": "/library/51c0358d041cc3ba.jpg",
+          "purpose": "Visible character identity / framing context; do not render offscreen speakers"
+        },
+        {
+          "id": "fb9297d91d0a6ab0",
+          "title": "PROP08-salmon-packs-price-notice-gpt26-v001",
+          "url": "/library/fb9297d91d0a6ab0.jpg",
+          "purpose": "Visible prop"
+        }
+      ],
+      "reference_pack_count": 4,
+      "reference_overflow": [],
+      "wan_plan": {
+        "model": "WAN 3.0 Prime",
+        "provider": "awaiting provider confirmation",
+        "mode": "single composed first-frame image-to-video",
+        "upload_image_count": 1,
+        "first_frame_status": "needs shot-specific composition and review",
+        "first_frame_id": null,
+        "reference_mode_cap": 10,
+        "cap_status": "documented by Runway and Wan API; target provider still to confirm",
+        "reference_mode_sources": [
+          "https://dev.runwayml.com/learn/wan-3-0-api",
+          "https://wanapi.app/docs/wan-3-0-prime"
+        ],
+        "audio": false,
+        "audio_policy": "Use the existing/approved ElevenLabs tracks in the edit. Do not generate replacement speech.",
+        "requested_duration_seconds": 12,
+        "edit_duration_seconds": 11.625,
+        "note": "Source reference pack is for preparing the still. Upload ONE approved composed frame to WAN; do not mix it with this whole reference pack. Trim generated clip to editorial duration; do not stretch speech."
+      }
+    },
+    {
+      "shot_id": "S05-P05",
+      "camera_action": "Trixie directs saving evidence; Byte exports original price history and photo.",
+      "sound_transition": "Save confirmation, phone vibration.",
+      "dialogue_ids": [
+        "S05-D08",
+        "S05-D09"
+      ],
+      "start_sec": 282.133,
+      "end_sec": 294.162,
+      "duration_sec": 12.029,
+      "scene_start_sec": 42.133,
+      "scene_end_sec": 54.162,
+      "start_tc": "04:42.133",
+      "end_tc": "04:54.162",
+      "status": "editorial plan; animation not yet produced",
+      "asset_requirements": {
+        "locations": [
+          "LOC07"
+        ],
+        "existing_reference_count": 1,
+        "new_image_needed": "camera-specific review still or approved matching frame; audit before generating",
+        "animation": "not generated; Higgsfield is for stills only",
+        "audio": "ElevenLabs dialogue, separate room tone/foley/music mix",
+        "special": "Preserve named character identities, set geometry and screen direction."
+      },
+      "speaking_roles": [
+        "byte",
+        "trixie"
+      ],
+      "reference_pack": [
+        {
+          "id": "0501505937608443",
+          "title": "LOC07 - 7-Catleven interior and freezer",
+          "url": "/library/0501505937608443.jpg",
+          "purpose": "Primary set geometry"
+        },
+        {
+          "id": "51c0358d041cc3ba",
+          "title": "Trixie - CatGirl",
+          "url": "/library/51c0358d041cc3ba.jpg",
+          "purpose": "Visible character identity / framing context; do not render offscreen speakers"
+        },
+        {
+          "id": "a23590fe66ebce01",
+          "title": "Byte",
+          "url": "/library/a23590fe66ebce01.jpg",
+          "purpose": "Visible character identity / framing context; do not render offscreen speakers"
+        },
+        {
+          "id": "fb9297d91d0a6ab0",
+          "title": "PROP08-salmon-packs-price-notice-gpt26-v001",
+          "url": "/library/fb9297d91d0a6ab0.jpg",
+          "purpose": "Visible prop"
+        },
+        {
+          "id": "3d6689586e0b8150",
+          "title": "PROP09-byte-price-scanner-gpt26-v002",
+          "url": "/library/3d6689586e0b8150.jpg",
+          "purpose": "Visible prop"
+        }
+      ],
+      "reference_pack_count": 5,
+      "reference_overflow": [],
+      "wan_plan": {
+        "model": "WAN 3.0 Prime",
+        "provider": "awaiting provider confirmation",
+        "mode": "single composed first-frame image-to-video",
+        "upload_image_count": 1,
+        "first_frame_status": "needs shot-specific composition and review",
+        "first_frame_id": null,
+        "reference_mode_cap": 10,
+        "cap_status": "documented by Runway and Wan API; target provider still to confirm",
+        "reference_mode_sources": [
+          "https://dev.runwayml.com/learn/wan-3-0-api",
+          "https://wanapi.app/docs/wan-3-0-prime"
+        ],
+        "audio": false,
+        "audio_policy": "Use the existing/approved ElevenLabs tracks in the edit. Do not generate replacement speech.",
+        "requested_duration_seconds": 13,
+        "edit_duration_seconds": 12.029,
+        "note": "Source reference pack is for preparing the still. Upload ONE approved composed frame to WAN; do not mix it with this whole reference pack. Trim generated clip to editorial duration; do not stretch speech."
+      }
+    },
+    {
+      "shot_id": "S05-P06",
+      "camera_action": "Two-shot turn toward exit; Trixie addresses Byte with resolve.",
+      "sound_transition": "Door closes; market noise J-cut to Scene 6.",
+      "dialogue_ids": [
+        "S05-D10"
+      ],
+      "start_sec": 294.162,
+      "end_sec": 300.0,
+      "duration_sec": 5.838,
+      "scene_start_sec": 54.162,
+      "scene_end_sec": 60.0,
+      "start_tc": "04:54.162",
+      "end_tc": "05:00.000",
+      "status": "editorial plan; animation not yet produced",
+      "asset_requirements": {
+        "locations": [
+          "LOC07"
+        ],
+        "existing_reference_count": 1,
+        "new_image_needed": "camera-specific review still or approved matching frame; audit before generating",
+        "animation": "not generated; Higgsfield is for stills only",
+        "audio": "ElevenLabs dialogue, separate room tone/foley/music mix",
+        "special": "Preserve named character identities, set geometry and screen direction."
+      },
+      "speaking_roles": [
+        "trixie"
+      ],
+      "reference_pack": [
+        {
+          "id": "0501505937608443",
+          "title": "LOC07 - 7-Catleven interior and freezer",
+          "url": "/library/0501505937608443.jpg",
+          "purpose": "Primary set geometry"
+        },
+        {
+          "id": "51c0358d041cc3ba",
+          "title": "Trixie - CatGirl",
+          "url": "/library/51c0358d041cc3ba.jpg",
+          "purpose": "Visible character identity / framing context; do not render offscreen speakers"
+        },
+        {
+          "id": "a23590fe66ebce01",
+          "title": "Byte",
+          "url": "/library/a23590fe66ebce01.jpg",
+          "purpose": "Visible character identity / framing context; do not render offscreen speakers"
+        }
+      ],
+      "reference_pack_count": 3,
+      "reference_overflow": [],
+      "wan_plan": {
+        "model": "WAN 3.0 Prime",
+        "provider": "awaiting provider confirmation",
+        "mode": "single composed first-frame image-to-video",
+        "upload_image_count": 1,
+        "first_frame_status": "needs shot-specific composition and review",
+        "first_frame_id": null,
+        "reference_mode_cap": 10,
+        "cap_status": "documented by Runway and Wan API; target provider still to confirm",
+        "reference_mode_sources": [
+          "https://dev.runwayml.com/learn/wan-3-0-api",
+          "https://wanapi.app/docs/wan-3-0-prime"
+        ],
+        "audio": false,
+        "audio_policy": "Use the existing/approved ElevenLabs tracks in the edit. Do not generate replacement speech.",
+        "requested_duration_seconds": 6,
+        "edit_duration_seconds": 5.838,
+        "note": "Source reference pack is for preparing the still. Upload ONE approved composed frame to WAN; do not mix it with this whole reference pack. Trim generated clip to editorial duration; do not stretch speech."
+      }
+    }
+  ],
+  "spoken_words": 94,
+  "recorded_lines": 10,
+  "timing_note": "Exact editorial allocation. Existing takes use measured file durations; unrecorded lines use 150 wpm estimates. Action plays under dialogue where indicated. No time stretching or blank padding.",
+  "remaining_work": [
+    "Record and review new/unrecorded dialogue in ElevenLabs.",
+    "Build camera-specific stills from established references; review identity and geography.",
+    "Animate approved shots outside Higgsfield, then conform to this timeline.",
+    "Mix room tone, foley, music and dialogue; verify a full-speed table read and animatic."
+  ],
+  "continuity": "Keep exactly five core cats; match current character sheets and fixed location geometry. Goodboy Global spelling throughout.",
+  "generation_references": [
+    {
+      "id": "0501505937608443",
+      "title": "LOC07 - 7-Catleven interior and freezer",
+      "filename": "LOC07-7-catleven-interior-and-freezer-gpt26-v001.png",
+      "kind": "Location",
+      "purpose": "Set geography, doors, windows and camera axis.",
+      "url": "/library/0501505937608443.jpg",
+      "thumbnail": "/library/0501505937608443.webp",
+      "source": "Locations\\Cats\\LOC07 - 7-Catleven interior and freezer\\Reference Sheets\\LOC07-7-catleven-interior-and-freezer-gpt26-v001.png",
+      "status": "existing reference; review before generation"
+    },
+    {
+      "id": "51c0358d041cc3ba",
+      "title": "Trixie - CatGirl",
+      "filename": "CREW01-trixie-character-master-gpt26-v001.png",
+      "kind": "Character",
+      "purpose": "Preserve identity, proportions, outfit and accessories. Include only actors visible in the shot.",
+      "url": "/library/51c0358d041cc3ba.jpg",
+      "thumbnail": "/library/51c0358d041cc3ba.webp",
+      "source": "Characters\\Cats - Resistance\\Trixie - CatGirl\\Reference Sheets\\CREW01-trixie-character-master-gpt26-v001.png",
+      "status": "existing reference; review before generation"
+    },
+    {
+      "id": "a23590fe66ebce01",
+      "title": "Byte",
+      "filename": "CREW02-byte-character-master-gpt26-v001.png",
+      "kind": "Character",
+      "purpose": "Preserve identity, proportions, outfit and accessories. Include only actors visible in the shot.",
+      "url": "/library/a23590fe66ebce01.jpg",
+      "thumbnail": "/library/a23590fe66ebce01.webp",
+      "source": "Characters\\Cats - Resistance\\Byte\\Reference Sheets\\CREW02-byte-character-master-gpt26-v001.png",
+      "status": "existing reference; review before generation"
+    },
+    {
+      "id": "fb9297d91d0a6ab0",
+      "title": "PROP08-salmon-packs-price-notice-gpt26-v001",
+      "filename": "PROP08-salmon-packs-price-notice-gpt26-v001.png",
+      "kind": "Prop / graphic",
+      "purpose": "Preserve prop shape, material, controls and scale.",
+      "url": "/library/fb9297d91d0a6ab0.jpg",
+      "thumbnail": "/library/fb9297d91d0a6ab0.webp",
+      "source": "Props\\Neutral\\Props\\PROP08-salmon-packs-price-notice-gpt26-v001.png",
+      "status": "existing reference; review before generation"
+    },
+    {
+      "id": "3d6689586e0b8150",
+      "title": "PROP09-byte-price-scanner-gpt26-v002",
+      "filename": "PROP09-byte-price-scanner-gpt26-v002.png",
+      "kind": "Prop / graphic",
+      "purpose": "Preserve prop shape, material, controls and scale.",
+      "url": "/library/3d6689586e0b8150.jpg",
+      "thumbnail": "/library/3d6689586e0b8150.webp",
+      "source": "Props\\Cats\\Props\\PROP09-byte-price-scanner-gpt26-v002.png",
+      "status": "existing reference; review before generation"
+    }
+  ],
+  "missing_reference_requirements": [
+    "Final shot-specific composed first frame for each timed shot; existing drafts require review."
+  ]
+}

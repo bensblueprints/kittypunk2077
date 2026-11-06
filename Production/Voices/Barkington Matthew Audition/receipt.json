@@ -1,0 +1,15 @@
+{
+  "line_id": "S03-D01",
+  "voice_id": "bwCXcoVxWNYMlC6Esa8u",
+  "voice_name": "Matthew Schmitz - Gravel, Deep Anti-Hero",
+  "text": "Citizens of Districts Seven through Twelve. Due to an unprecedented salmon supply emergency, you are advised to acquire no less than thirty days of fresh salmon immediately. Goodboy Global thanks you for your obedience.",
+  "duration_sec": 17.507846,
+  "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Voices\\Barkington Matthew Audition\\S03-D01-barkington-matthew-v001.mp3",
+  "sha256": "50cd626442b36bd7ac877569d4436a1f0fe9fe9dcdc0bd5807edafa279b0dd7f",
+  "status": "current_user_approved_voice",
+  "headers": {
+    "request-id": "ZPtjhGRsLVGhmQfTL04j",
+    "character-cost": "81"
+  },
+  "supersedes": "Brian; see Archive/Superseded Barkington - Brian"
+}

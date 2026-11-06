@@ -18,7 +18,10 @@ with db() as c:
 catalog=json.loads((ROOT/'catalog.json').read_text('utf-8'))
 audio=json.loads((ROOT/'audio.json').read_text('utf-8'))
 episodes=json.loads((ROOT/'episodes.json').read_text('utf-8'))
-asset_ids={x['id'] for x in catalog};audio_ids={x['id'] for x in audio}
+pilot=json.loads((ROOT/'pilot.json').read_text('utf-8'))
+voices=json.loads((ROOT/'voices.json').read_text('utf-8'))
+frames=json.loads((ROOT/'frames.json').read_text('utf-8'))
+asset_ids={x['id'] for x in catalog+frames};audio_ids={x['id'] for x in audio}
 @app.before_request
 def before():
  g.user=None
@@ -91,6 +94,17 @@ def audio_page():return render_template('audio.html',clips=audio)
 @app.route('/studio/episodes')
 @staff
 def episodes_page():return render_template('episodes.html',episodes=episodes)
+@app.route('/studio/episodes/1/1')
+@staff
+def pilot_page():return render_template('pilot.html',pilot=pilot)
+@app.route('/studio/voices')
+@staff
+def voices_page():return render_template('voices.html',voices=voices)
+@app.route('/studio/downloads/<name>')
+@staff
+def production_download(name):
+ if name not in {'voice-registry.json','voice-registry.csv','shot-timeline-v003.csv','dialogue-cue-sheet-v003.csv','full-timed-script-v003.txt','pilot-production-map-v003.json','validation-v003.json','scene-shot-references.csv'}:abort(404)
+ return send_from_directory(ROOT/'downloads',name,as_attachment=True)
 @app.route('/library/<ident>.<ext>')
 @staff
 def library(ident,ext):

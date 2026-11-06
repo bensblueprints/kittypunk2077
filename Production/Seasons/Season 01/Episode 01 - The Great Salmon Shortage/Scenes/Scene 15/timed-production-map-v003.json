@@ -1,0 +1,805 @@
+{
+  "number": 15,
+  "title": "The Payoff Photograph",
+  "start": "13:35",
+  "end": "14:20",
+  "duration_seconds": 45,
+  "source_location": "Private dining room",
+  "location_ids": [
+    "LOC12"
+  ],
+  "staging": "Scene 15 — The Payoff Photograph\n\n13:35–14:20 · 45 sec · Private dining room\n\nBarkington passes a money bag across the table. Trixie captures a clear photograph of the exchange while Neon records the conversation. The exact purpose of the payment remains unclear.\n\nShots: Close-up money bag → Barkington's fur-covered paw → Shiba accepting payment → camera viewfinder → shutter click → Trixie's reaction.",
+  "sound": "",
+  "lines": [
+    {
+      "id": "S15-N01",
+      "speaker": "Neon",
+      "text": "Both faces and the bag are in frame. Keep rolling. Do not crop away who handed it over.",
+      "takes": [],
+      "origin": "new production draft v003; not yet recorded",
+      "recording_status": "not recorded",
+      "start_sec": 819.493,
+      "end_sec": 826.693,
+      "start_tc": "13:39.493",
+      "end_tc": "13:46.693",
+      "shot_id": "S15-P02",
+      "timing_basis": "estimate at 150 words/minute; replace after recording",
+      "role_id": "neon",
+      "voice_id": "4e32WqNVWRquDa1OcRYZ",
+      "voice_name": "Ryan — Product Reviewer"
+    },
+    {
+      "id": "S15-N02",
+      "speaker": "Ghost",
+      "text": "Someone is coming down the corridor. You have one clean shot.",
+      "takes": [],
+      "origin": "new production draft v003; not yet recorded",
+      "recording_status": "not recorded",
+      "start_sec": 828.064,
+      "end_sec": 832.464,
+      "start_tc": "13:48.064",
+      "end_tc": "13:52.464",
+      "shot_id": "S15-P03",
+      "timing_basis": "estimate at 150 words/minute; replace after recording",
+      "role_id": "ghost",
+      "voice_id": "7fBwqIVI6wI1B4MuKqQi",
+      "voice_name": "Austin — Upbeat"
+    },
+    {
+      "id": "S15-D01",
+      "speaker": "Byte",
+      "text": "Please tell me you got that.",
+      "takes": [],
+      "origin": "retained working script",
+      "recording_status": "not recorded",
+      "start_sec": 833.836,
+      "end_sec": 836.236,
+      "start_tc": "13:53.836",
+      "end_tc": "13:56.236",
+      "shot_id": "S15-P04",
+      "timing_basis": "estimate at 150 words/minute; replace after recording",
+      "role_id": "byte",
+      "voice_id": "wo6udizrrtpIxWGp2qJk",
+      "voice_name": "Northern Terry"
+    },
+    {
+      "id": "S15-D02",
+      "speaker": "Trixie",
+      "text": "Every pixel.",
+      "takes": [],
+      "origin": "retained working script",
+      "recording_status": "not recorded",
+      "start_sec": 836.436,
+      "end_sec": 837.236,
+      "start_tc": "13:56.436",
+      "end_tc": "13:57.236",
+      "shot_id": "S15-P04",
+      "timing_basis": "estimate at 150 words/minute; replace after recording",
+      "role_id": "trixie",
+      "voice_id": "dmWfLQZJq7wNPv9WmtiM",
+      "voice_name": "Emma — Wry, Gritty Hero"
+    },
+    {
+      "id": "S15-N03",
+      "speaker": "Trixie",
+      "text": "Save the original and a copy. No filters, no edits.",
+      "takes": [],
+      "origin": "new production draft v003; not yet recorded",
+      "recording_status": "not recorded",
+      "start_sec": 837.436,
+      "end_sec": 841.436,
+      "start_tc": "13:57.436",
+      "end_tc": "14:01.436",
+      "shot_id": "S15-P04",
+      "timing_basis": "estimate at 150 words/minute; replace after recording",
+      "role_id": "trixie",
+      "voice_id": "dmWfLQZJq7wNPv9WmtiM",
+      "voice_name": "Emma — Wry, Gritty Hero"
+    },
+    {
+      "id": "S15-D03",
+      "speaker": "Neon",
+      "text": "The audio's ambiguous.",
+      "takes": [],
+      "origin": "retained working script",
+      "recording_status": "not recorded",
+      "start_sec": 842.807,
+      "end_sec": 844.007,
+      "start_tc": "14:02.807",
+      "end_tc": "14:04.007",
+      "shot_id": "S15-P05",
+      "timing_basis": "estimate at 150 words/minute; replace after recording",
+      "role_id": "neon",
+      "voice_id": "4e32WqNVWRquDa1OcRYZ",
+      "voice_name": "Ryan — Product Reviewer"
+    },
+    {
+      "id": "S15-D04",
+      "speaker": "Trixie",
+      "text": "The photograph isn't.",
+      "takes": [],
+      "origin": "retained working script",
+      "recording_status": "not recorded",
+      "start_sec": 844.207,
+      "end_sec": 845.407,
+      "start_tc": "14:04.207",
+      "end_tc": "14:05.407",
+      "shot_id": "S15-P05",
+      "timing_basis": "estimate at 150 words/minute; replace after recording",
+      "role_id": "trixie",
+      "voice_id": "dmWfLQZJq7wNPv9WmtiM",
+      "voice_name": "Emma — Wry, Gritty Hero"
+    },
+    {
+      "id": "S15-N04",
+      "speaker": "Byte",
+      "text": "It proves a payment happened. We still cannot label what the money bought.",
+      "takes": [],
+      "origin": "new production draft v003; not yet recorded",
+      "recording_status": "not recorded",
+      "start_sec": 845.607,
+      "end_sec": 850.807,
+      "start_tc": "14:05.607",
+      "end_tc": "14:10.807",
+      "shot_id": "S15-P05",
+      "timing_basis": "estimate at 150 words/minute; replace after recording",
+      "role_id": "byte",
+      "voice_id": "wo6udizrrtpIxWGp2qJk",
+      "voice_name": "Northern Terry"
+    },
+    {
+      "id": "S15-N05",
+      "speaker": "Trixie",
+      "text": "Then we show exactly what we have. Nothing more.",
+      "takes": [],
+      "origin": "new production draft v003; not yet recorded",
+      "recording_status": "not recorded",
+      "start_sec": 851.007,
+      "end_sec": 854.607,
+      "start_tc": "14:11.007",
+      "end_tc": "14:14.607",
+      "shot_id": "S15-P05",
+      "timing_basis": "estimate at 150 words/minute; replace after recording",
+      "role_id": "trixie",
+      "voice_id": "dmWfLQZJq7wNPv9WmtiM",
+      "voice_name": "Emma — Wry, Gritty Hero"
+    },
+    {
+      "id": "S15-N06",
+      "speaker": "Onyx",
+      "text": "Patrol is back early. Time to move.",
+      "takes": [],
+      "origin": "new production draft v003; not yet recorded",
+      "recording_status": "not recorded",
+      "start_sec": 855.979,
+      "end_sec": 858.779,
+      "start_tc": "14:15.979",
+      "end_tc": "14:18.779",
+      "shot_id": "S15-P06",
+      "timing_basis": "estimate at 150 words/minute; replace after recording",
+      "role_id": "onyx",
+      "voice_id": "uq0HIbNZKn11Hs5ifEdd",
+      "voice_name": "Harry — Fierce Warrior"
+    }
+  ],
+  "shots": [
+    {
+      "shot_id": "S15-B01",
+      "description": "Close-up money bag",
+      "status": "source shot beat; detailed shot duration and coverage pending",
+      "duration_seconds": null
+    },
+    {
+      "shot_id": "S15-B02",
+      "description": "Barkington's fur-covered paw",
+      "status": "source shot beat; detailed shot duration and coverage pending",
+      "duration_seconds": null
+    },
+    {
+      "shot_id": "S15-B03",
+      "description": "Shiba accepting payment",
+      "status": "source shot beat; detailed shot duration and coverage pending",
+      "duration_seconds": null
+    },
+    {
+      "shot_id": "S15-B04",
+      "description": "camera viewfinder",
+      "status": "source shot beat; detailed shot duration and coverage pending",
+      "duration_seconds": null
+    },
+    {
+      "shot_id": "S15-B05",
+      "description": "shutter click",
+      "status": "source shot beat; detailed shot duration and coverage pending",
+      "duration_seconds": null
+    },
+    {
+      "shot_id": "S15-B06",
+      "description": "Trixie's reaction.",
+      "status": "source shot beat; detailed shot duration and coverage pending",
+      "duration_seconds": null
+    }
+  ],
+  "locations": [
+    {
+      "id": "dd6578af9636b86a",
+      "title": "LOC12 - Steak & Bone private dining room",
+      "category": "Locations",
+      "group": "Dogs",
+      "file": "LOC12-steak-bone-private-dining-room-gpt26-v001.png",
+      "source": "Locations\\Dogs\\LOC12 - Steak & Bone private dining room\\Reference Sheets\\LOC12-steak-bone-private-dining-room-gpt26-v001.png",
+      "voice": ""
+    }
+  ],
+  "frames": [],
+  "assemblies": [],
+  "timed_shots": [
+    {
+      "shot_id": "S15-P01",
+      "camera_action": "Table-level insert bag opens enough to show cash; neither face lost in next angle.",
+      "sound_transition": "Soft clasp and paper rustle.",
+      "dialogue_ids": [],
+      "start_sec": 815,
+      "end_sec": 819.343,
+      "duration_sec": 4.343,
+      "scene_start_sec": 0,
+      "scene_end_sec": 4.343,
+      "start_tc": "13:35.000",
+      "end_tc": "13:39.343",
+      "status": "editorial plan; animation not yet produced",
+      "asset_requirements": {
+        "locations": [
+          "LOC12"
+        ],
+        "existing_reference_count": 1,
+        "new_image_needed": "camera-specific review still or approved matching frame; audit before generating",
+        "animation": "not generated; Higgsfield is for stills only",
+        "audio": "ElevenLabs dialogue, separate room tone/foley/music mix",
+        "special": "Preserve named character identities, set geometry and screen direction."
+      },
+      "speaking_roles": [],
+      "reference_pack": [
+        {
+          "id": "dd6578af9636b86a",
+          "title": "LOC12 - Steak & Bone private dining room",
+          "url": "/library/dd6578af9636b86a.jpg",
+          "purpose": "Primary set geometry"
+        },
+        {
+          "id": "9b44176647eeff64",
+          "title": "ACT03 — Cash bag and banknotes",
+          "url": "/library/9b44176647eeff64.jpg",
+          "purpose": "Visible prop"
+        },
+        {
+          "id": "4063749961d7a035",
+          "title": "ACT09 — Private dining tableware",
+          "url": "/library/4063749961d7a035.jpg",
+          "purpose": "Visible prop"
+        }
+      ],
+      "reference_pack_count": 3,
+      "reference_overflow": [],
+      "wan_plan": {
+        "model": "WAN 3.0 Prime",
+        "provider": "awaiting provider confirmation",
+        "mode": "single composed first-frame image-to-video",
+        "upload_image_count": 1,
+        "first_frame_status": "needs shot-specific composition and review",
+        "first_frame_id": null,
+        "reference_mode_cap": 10,
+        "cap_status": "documented by Runway and Wan API; target provider still to confirm",
+        "reference_mode_sources": [
+          "https://dev.runwayml.com/learn/wan-3-0-api",
+          "https://wanapi.app/docs/wan-3-0-prime"
+        ],
+        "audio": false,
+        "audio_policy": "Use the existing/approved ElevenLabs tracks in the edit. Do not generate replacement speech.",
+        "requested_duration_seconds": 5,
+        "edit_duration_seconds": 4.343,
+        "note": "Source reference pack is for preparing the still. Upload ONE approved composed frame to WAN; do not mix it with this whole reference pack. Trim generated clip to editorial duration; do not stretch speech."
+      }
+    },
+    {
+      "shot_id": "S15-P02",
+      "camera_action": "Hidden over-hatch two-shot preserves payer, recipient and bag in same view.",
+      "sound_transition": "Neon whisper on local recording channel.",
+      "dialogue_ids": [
+        "S15-N01"
+      ],
+      "start_sec": 819.343,
+      "end_sec": 827.914,
+      "duration_sec": 8.571,
+      "scene_start_sec": 4.343,
+      "scene_end_sec": 12.914,
+      "start_tc": "13:39.343",
+      "end_tc": "13:47.914",
+      "status": "editorial plan; animation not yet produced",
+      "asset_requirements": {
+        "locations": [
+          "LOC12"
+        ],
+        "existing_reference_count": 1,
+        "new_image_needed": "camera-specific review still or approved matching frame; audit before generating",
+        "animation": "not generated; Higgsfield is for stills only",
+        "audio": "ElevenLabs dialogue, separate room tone/foley/music mix",
+        "special": "Preserve named character identities, set geometry and screen direction."
+      },
+      "speaking_roles": [
+        "neon"
+      ],
+      "reference_pack": [
+        {
+          "id": "dd6578af9636b86a",
+          "title": "LOC12 - Steak & Bone private dining room",
+          "url": "/library/dd6578af9636b86a.jpg",
+          "purpose": "Primary set geometry"
+        },
+        {
+          "id": "c59f876dfb3540bb",
+          "title": "Neon",
+          "url": "/library/c59f876dfb3540bb.jpg",
+          "purpose": "Visible character identity / framing context; do not render offscreen speakers"
+        },
+        {
+          "id": "522b0ca7d3be2688",
+          "title": "ACT02 — Surveillance kit",
+          "url": "/library/522b0ca7d3be2688.jpg",
+          "purpose": "Visible prop"
+        },
+        {
+          "id": "9b44176647eeff64",
+          "title": "ACT03 — Cash bag and banknotes",
+          "url": "/library/9b44176647eeff64.jpg",
+          "purpose": "Visible prop"
+        }
+      ],
+      "reference_pack_count": 4,
+      "reference_overflow": [],
+      "wan_plan": {
+        "model": "WAN 3.0 Prime",
+        "provider": "awaiting provider confirmation",
+        "mode": "single composed first-frame image-to-video",
+        "upload_image_count": 1,
+        "first_frame_status": "needs shot-specific composition and review",
+        "first_frame_id": null,
+        "reference_mode_cap": 10,
+        "cap_status": "documented by Runway and Wan API; target provider still to confirm",
+        "reference_mode_sources": [
+          "https://dev.runwayml.com/learn/wan-3-0-api",
+          "https://wanapi.app/docs/wan-3-0-prime"
+        ],
+        "audio": false,
+        "audio_policy": "Use the existing/approved ElevenLabs tracks in the edit. Do not generate replacement speech.",
+        "requested_duration_seconds": 9,
+        "edit_duration_seconds": 8.571,
+        "note": "Source reference pack is for preparing the still. Upload ONE approved composed frame to WAN; do not mix it with this whole reference pack. Trim generated clip to editorial duration; do not stretch speech."
+      }
+    },
+    {
+      "shot_id": "S15-P03",
+      "camera_action": "Trixie camera viewfinder locks faces; Ghost watches approaching corridor feet.",
+      "sound_transition": "Footsteps grow outside private room.",
+      "dialogue_ids": [
+        "S15-N02"
+      ],
+      "start_sec": 827.914,
+      "end_sec": 833.686,
+      "duration_sec": 5.772,
+      "scene_start_sec": 12.914,
+      "scene_end_sec": 18.686,
+      "start_tc": "13:47.914",
+      "end_tc": "13:53.686",
+      "status": "editorial plan; animation not yet produced",
+      "asset_requirements": {
+        "locations": [
+          "LOC12"
+        ],
+        "existing_reference_count": 1,
+        "new_image_needed": "camera-specific review still or approved matching frame; audit before generating",
+        "animation": "not generated; Higgsfield is for stills only",
+        "audio": "ElevenLabs dialogue, separate room tone/foley/music mix",
+        "special": "Preserve named character identities, set geometry and screen direction."
+      },
+      "speaking_roles": [
+        "ghost"
+      ],
+      "reference_pack": [
+        {
+          "id": "dd6578af9636b86a",
+          "title": "LOC12 - Steak & Bone private dining room",
+          "url": "/library/dd6578af9636b86a.jpg",
+          "purpose": "Primary set geometry"
+        },
+        {
+          "id": "51c0358d041cc3ba",
+          "title": "Trixie - CatGirl",
+          "url": "/library/51c0358d041cc3ba.jpg",
+          "purpose": "Visible character identity / framing context; do not render offscreen speakers"
+        },
+        {
+          "id": "61dc338e08cb2385",
+          "title": "Ghost",
+          "url": "/library/61dc338e08cb2385.jpg",
+          "purpose": "Visible character identity / framing context; do not render offscreen speakers"
+        },
+        {
+          "id": "522b0ca7d3be2688",
+          "title": "ACT02 — Surveillance kit",
+          "url": "/library/522b0ca7d3be2688.jpg",
+          "purpose": "Visible prop"
+        }
+      ],
+      "reference_pack_count": 4,
+      "reference_overflow": [],
+      "wan_plan": {
+        "model": "WAN 3.0 Prime",
+        "provider": "awaiting provider confirmation",
+        "mode": "single composed first-frame image-to-video",
+        "upload_image_count": 1,
+        "first_frame_status": "needs shot-specific composition and review",
+        "first_frame_id": null,
+        "reference_mode_cap": 10,
+        "cap_status": "documented by Runway and Wan API; target provider still to confirm",
+        "reference_mode_sources": [
+          "https://dev.runwayml.com/learn/wan-3-0-api",
+          "https://wanapi.app/docs/wan-3-0-prime"
+        ],
+        "audio": false,
+        "audio_policy": "Use the existing/approved ElevenLabs tracks in the edit. Do not generate replacement speech.",
+        "requested_duration_seconds": 6,
+        "edit_duration_seconds": 5.772,
+        "note": "Source reference pack is for preparing the still. Upload ONE approved composed frame to WAN; do not mix it with this whole reference pack. Trim generated clip to editorial duration; do not stretch speech."
+      }
+    },
+    {
+      "shot_id": "S15-P04",
+      "camera_action": "One shutter; recorded original displayed briefly, Trixie keeps camera steady.",
+      "sound_transition": "Damped shutter, save beep only on earpiece.",
+      "dialogue_ids": [
+        "S15-D01",
+        "S15-D02",
+        "S15-N03"
+      ],
+      "start_sec": 833.686,
+      "end_sec": 842.657,
+      "duration_sec": 8.971,
+      "scene_start_sec": 18.686,
+      "scene_end_sec": 27.657,
+      "start_tc": "13:53.686",
+      "end_tc": "14:02.657",
+      "status": "editorial plan; animation not yet produced",
+      "asset_requirements": {
+        "locations": [
+          "LOC12"
+        ],
+        "existing_reference_count": 1,
+        "new_image_needed": "camera-specific review still or approved matching frame; audit before generating",
+        "animation": "not generated; Higgsfield is for stills only",
+        "audio": "ElevenLabs dialogue, separate room tone/foley/music mix",
+        "special": "Preserve named character identities, set geometry and screen direction."
+      },
+      "speaking_roles": [
+        "byte",
+        "trixie"
+      ],
+      "reference_pack": [
+        {
+          "id": "dd6578af9636b86a",
+          "title": "LOC12 - Steak & Bone private dining room",
+          "url": "/library/dd6578af9636b86a.jpg",
+          "purpose": "Primary set geometry"
+        },
+        {
+          "id": "51c0358d041cc3ba",
+          "title": "Trixie - CatGirl",
+          "url": "/library/51c0358d041cc3ba.jpg",
+          "purpose": "Visible character identity / framing context; do not render offscreen speakers"
+        },
+        {
+          "id": "522b0ca7d3be2688",
+          "title": "ACT02 — Surveillance kit",
+          "url": "/library/522b0ca7d3be2688.jpg",
+          "purpose": "Visible prop"
+        }
+      ],
+      "reference_pack_count": 3,
+      "reference_overflow": [],
+      "wan_plan": {
+        "model": "WAN 3.0 Prime",
+        "provider": "awaiting provider confirmation",
+        "mode": "single composed first-frame image-to-video",
+        "upload_image_count": 1,
+        "first_frame_status": "needs shot-specific composition and review",
+        "first_frame_id": null,
+        "reference_mode_cap": 10,
+        "cap_status": "documented by Runway and Wan API; target provider still to confirm",
+        "reference_mode_sources": [
+          "https://dev.runwayml.com/learn/wan-3-0-api",
+          "https://wanapi.app/docs/wan-3-0-prime"
+        ],
+        "audio": false,
+        "audio_policy": "Use the existing/approved ElevenLabs tracks in the edit. Do not generate replacement speech.",
+        "requested_duration_seconds": 9,
+        "edit_duration_seconds": 8.971,
+        "note": "Source reference pack is for preparing the still. Upload ONE approved composed frame to WAN; do not mix it with this whole reference pack. Trim generated clip to editorial duration; do not stretch speech."
+      }
+    },
+    {
+      "shot_id": "S15-P05",
+      "camera_action": "Neon and Trixie whisper over saved waveform; return to uncut clip.",
+      "sound_transition": "Evidence backup tick; no triumphant score.",
+      "dialogue_ids": [
+        "S15-D03",
+        "S15-D04",
+        "S15-N04",
+        "S15-N05"
+      ],
+      "start_sec": 842.657,
+      "end_sec": 855.829,
+      "duration_sec": 13.172,
+      "scene_start_sec": 27.657,
+      "scene_end_sec": 40.829,
+      "start_tc": "14:02.657",
+      "end_tc": "14:15.829",
+      "status": "editorial plan; animation not yet produced",
+      "asset_requirements": {
+        "locations": [
+          "LOC12"
+        ],
+        "existing_reference_count": 1,
+        "new_image_needed": "camera-specific review still or approved matching frame; audit before generating",
+        "animation": "not generated; Higgsfield is for stills only",
+        "audio": "ElevenLabs dialogue, separate room tone/foley/music mix",
+        "special": "Preserve named character identities, set geometry and screen direction."
+      },
+      "speaking_roles": [
+        "byte",
+        "neon",
+        "trixie"
+      ],
+      "reference_pack": [
+        {
+          "id": "dd6578af9636b86a",
+          "title": "LOC12 - Steak & Bone private dining room",
+          "url": "/library/dd6578af9636b86a.jpg",
+          "purpose": "Primary set geometry"
+        },
+        {
+          "id": "51c0358d041cc3ba",
+          "title": "Trixie - CatGirl",
+          "url": "/library/51c0358d041cc3ba.jpg",
+          "purpose": "Visible character identity / framing context; do not render offscreen speakers"
+        },
+        {
+          "id": "c59f876dfb3540bb",
+          "title": "Neon",
+          "url": "/library/c59f876dfb3540bb.jpg",
+          "purpose": "Visible character identity / framing context; do not render offscreen speakers"
+        },
+        {
+          "id": "80bf6efb069a71d7",
+          "title": "EVD01 — Restaurant payment photograph",
+          "url": "/library/80bf6efb069a71d7.jpg",
+          "purpose": "Visible prop"
+        }
+      ],
+      "reference_pack_count": 4,
+      "reference_overflow": [],
+      "wan_plan": {
+        "model": "WAN 3.0 Prime",
+        "provider": "awaiting provider confirmation",
+        "mode": "single composed first-frame image-to-video",
+        "upload_image_count": 1,
+        "first_frame_status": "needs shot-specific composition and review",
+        "first_frame_id": null,
+        "reference_mode_cap": 10,
+        "cap_status": "documented by Runway and Wan API; target provider still to confirm",
+        "reference_mode_sources": [
+          "https://dev.runwayml.com/learn/wan-3-0-api",
+          "https://wanapi.app/docs/wan-3-0-prime"
+        ],
+        "audio": false,
+        "audio_policy": "Use the existing/approved ElevenLabs tracks in the edit. Do not generate replacement speech.",
+        "requested_duration_seconds": 14,
+        "edit_duration_seconds": 13.172,
+        "note": "Source reference pack is for preparing the still. Upload ONE approved composed frame to WAN; do not mix it with this whole reference pack. Trim generated clip to editorial duration; do not stretch speech."
+      }
+    },
+    {
+      "shot_id": "S15-P06",
+      "camera_action": "Onyx sees patrol turn early; Trixie withdraws lens from hatch.",
+      "sound_transition": "Comms urgent; cut to alarm.",
+      "dialogue_ids": [
+        "S15-N06"
+      ],
+      "start_sec": 855.829,
+      "end_sec": 860.0,
+      "duration_sec": 4.171,
+      "scene_start_sec": 40.829,
+      "scene_end_sec": 45.0,
+      "start_tc": "14:15.829",
+      "end_tc": "14:20.000",
+      "status": "editorial plan; animation not yet produced",
+      "asset_requirements": {
+        "locations": [
+          "LOC12"
+        ],
+        "existing_reference_count": 1,
+        "new_image_needed": "camera-specific review still or approved matching frame; audit before generating",
+        "animation": "not generated; Higgsfield is for stills only",
+        "audio": "ElevenLabs dialogue, separate room tone/foley/music mix",
+        "special": "Preserve named character identities, set geometry and screen direction."
+      },
+      "speaking_roles": [
+        "onyx"
+      ],
+      "reference_pack": [
+        {
+          "id": "dd6578af9636b86a",
+          "title": "LOC12 - Steak & Bone private dining room",
+          "url": "/library/dd6578af9636b86a.jpg",
+          "purpose": "Primary set geometry"
+        },
+        {
+          "id": "51c0358d041cc3ba",
+          "title": "Trixie - CatGirl",
+          "url": "/library/51c0358d041cc3ba.jpg",
+          "purpose": "Visible character identity / framing context; do not render offscreen speakers"
+        },
+        {
+          "id": "522b0ca7d3be2688",
+          "title": "ACT02 — Surveillance kit",
+          "url": "/library/522b0ca7d3be2688.jpg",
+          "purpose": "Visible prop"
+        }
+      ],
+      "reference_pack_count": 3,
+      "reference_overflow": [],
+      "wan_plan": {
+        "model": "WAN 3.0 Prime",
+        "provider": "awaiting provider confirmation",
+        "mode": "single composed first-frame image-to-video",
+        "upload_image_count": 1,
+        "first_frame_status": "needs shot-specific composition and review",
+        "first_frame_id": null,
+        "reference_mode_cap": 10,
+        "cap_status": "documented by Runway and Wan API; target provider still to confirm",
+        "reference_mode_sources": [
+          "https://dev.runwayml.com/learn/wan-3-0-api",
+          "https://wanapi.app/docs/wan-3-0-prime"
+        ],
+        "audio": false,
+        "audio_policy": "Use the existing/approved ElevenLabs tracks in the edit. Do not generate replacement speech.",
+        "requested_duration_seconds": 5,
+        "edit_duration_seconds": 4.171,
+        "note": "Source reference pack is for preparing the still. Upload ONE approved composed frame to WAN; do not mix it with this whole reference pack. Trim generated clip to editorial duration; do not stretch speech."
+      }
+    }
+  ],
+  "spoken_words": 82,
+  "recorded_lines": 0,
+  "timing_note": "Exact editorial allocation. Existing takes use measured file durations; unrecorded lines use 150 wpm estimates. Action plays under dialogue where indicated. No time stretching or blank padding.",
+  "remaining_work": [
+    "Record and review new/unrecorded dialogue in ElevenLabs.",
+    "Build camera-specific stills from established references; review identity and geography.",
+    "Animate approved shots outside Higgsfield, then conform to this timeline.",
+    "Mix room tone, foley, music and dialogue; verify a full-speed table read and animatic."
+  ],
+  "continuity": "Uncut photo/video proves exchange of money only; purpose remains unproven.",
+  "generation_references": [
+    {
+      "id": "dd6578af9636b86a",
+      "title": "LOC12 - Steak & Bone private dining room",
+      "filename": "LOC12-steak-bone-private-dining-room-gpt26-v001.png",
+      "kind": "Location",
+      "purpose": "Set geography, doors, windows and camera axis.",
+      "url": "/library/dd6578af9636b86a.jpg",
+      "thumbnail": "/library/dd6578af9636b86a.webp",
+      "source": "Locations\\Dogs\\LOC12 - Steak & Bone private dining room\\Reference Sheets\\LOC12-steak-bone-private-dining-room-gpt26-v001.png",
+      "status": "existing reference; review before generation"
+    },
+    {
+      "id": "51c0358d041cc3ba",
+      "title": "Trixie - CatGirl",
+      "filename": "CREW01-trixie-character-master-gpt26-v001.png",
+      "kind": "Character",
+      "purpose": "Preserve identity, proportions, outfit and accessories. Include only actors visible in the shot.",
+      "url": "/library/51c0358d041cc3ba.jpg",
+      "thumbnail": "/library/51c0358d041cc3ba.webp",
+      "source": "Characters\\Cats - Resistance\\Trixie - CatGirl\\Reference Sheets\\CREW01-trixie-character-master-gpt26-v001.png",
+      "status": "existing reference; review before generation"
+    },
+    {
+      "id": "61dc338e08cb2385",
+      "title": "Ghost",
+      "filename": "CREW03-ghost-character-master-gpt26-v001.png",
+      "kind": "Character",
+      "purpose": "Preserve identity, proportions, outfit and accessories. Include only actors visible in the shot.",
+      "url": "/library/61dc338e08cb2385.jpg",
+      "thumbnail": "/library/61dc338e08cb2385.webp",
+      "source": "Characters\\Cats - Resistance\\Ghost\\Reference Sheets\\CREW03-ghost-character-master-gpt26-v001.png",
+      "status": "existing reference; review before generation"
+    },
+    {
+      "id": "c59f876dfb3540bb",
+      "title": "Neon",
+      "filename": "CREW05-neon-character-master-gpt26-v001.png",
+      "kind": "Character",
+      "purpose": "Preserve identity, proportions, outfit and accessories. Include only actors visible in the shot.",
+      "url": "/library/c59f876dfb3540bb.jpg",
+      "thumbnail": "/library/c59f876dfb3540bb.webp",
+      "source": "Characters\\Cats - Resistance\\Neon\\Reference Sheets\\CREW05-neon-character-master-gpt26-v001.png",
+      "status": "existing reference; review before generation"
+    },
+    {
+      "id": "562eac0bfb4963cd",
+      "title": "Barkington Orders",
+      "filename": "CHAR06-barkington-character-master-gpt26-v002.png",
+      "kind": "Character",
+      "purpose": "Preserve identity, proportions, outfit and accessories. Include only actors visible in the shot.",
+      "url": "/library/562eac0bfb4963cd.jpg",
+      "thumbnail": "/library/562eac0bfb4963cd.webp",
+      "source": "Characters\\Dogs\\Barkington Orders\\Reference Sheets\\CHAR06-barkington-character-master-gpt26-v002.png",
+      "status": "existing reference; review before generation"
+    },
+    {
+      "id": "9bb47fb0209fc142",
+      "title": "WOOF7 Anchor",
+      "filename": "SUP04-character-master-gpt26-v001.png",
+      "kind": "Character",
+      "purpose": "Preserve identity, proportions, outfit and accessories. Include only actors visible in the shot.",
+      "url": "/library/9bb47fb0209fc142.jpg",
+      "thumbnail": "/library/9bb47fb0209fc142.webp",
+      "source": "Characters\\Dogs\\WOOF7 Anchor\\Reference Sheets\\SUP04-character-master-gpt26-v001.png",
+      "status": "existing reference; review before generation"
+    },
+    {
+      "id": "522b0ca7d3be2688",
+      "title": "ACT02 — Surveillance kit",
+      "filename": "ACT02-prop-master-gpt26-v001.png",
+      "kind": "Prop / graphic",
+      "purpose": "Preserve prop shape, material, controls and scale.",
+      "url": "/library/522b0ca7d3be2688.jpg",
+      "thumbnail": "/library/522b0ca7d3be2688.webp",
+      "source": "Props\\Cats\\Action Props\\ACT02-prop-master-gpt26-v001.png",
+      "status": "existing reference; review before generation"
+    },
+    {
+      "id": "9b44176647eeff64",
+      "title": "ACT03 — Cash bag and banknotes",
+      "filename": "ACT03-prop-master-gpt26-v001.png",
+      "kind": "Prop / graphic",
+      "purpose": "Preserve prop shape, material, controls and scale.",
+      "url": "/library/9b44176647eeff64.jpg",
+      "thumbnail": "/library/9b44176647eeff64.webp",
+      "source": "Props\\Dogs\\Action Props\\ACT03-prop-master-gpt26-v001.png",
+      "status": "existing reference; review before generation"
+    },
+    {
+      "id": "4063749961d7a035",
+      "title": "ACT09 — Private dining tableware",
+      "filename": "ACT09-prop-master-gpt26-v001.png",
+      "kind": "Prop / graphic",
+      "purpose": "Preserve prop shape, material, controls and scale.",
+      "url": "/library/4063749961d7a035.jpg",
+      "thumbnail": "/library/4063749961d7a035.webp",
+      "source": "Props\\Dogs\\Action Props\\ACT09-prop-master-gpt26-v001.png",
+      "status": "existing reference; review before generation"
+    },
+    {
+      "id": "80bf6efb069a71d7",
+      "title": "EVD01 — Restaurant payment photograph",
+      "filename": "EVD01-gpt26-v001.png",
+      "kind": "Prop / graphic",
+      "purpose": "Preserve prop shape, material, controls and scale.",
+      "url": "/library/80bf6efb069a71d7.jpg",
+      "thumbnail": "/library/80bf6efb069a71d7.webp",
+      "source": "Props\\Neutral\\Evidence\\EVD01-gpt26-v001.png",
+      "status": "existing reference; review before generation"
+    }
+  ],
+  "missing_reference_requirements": [
+    "Final shot-specific composed first frame for each timed shot; existing drafts require review."
+  ]
+}

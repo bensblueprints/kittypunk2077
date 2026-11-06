@@ -85,15 +85,15 @@
     {
       "role_id": "chairman_barkington",
       "role": "Chairman Barkington",
-      "voice": "Brian",
-      "voice_id": "nPczCjzI2devNBz1zQrb",
-      "status": "selected_current",
+      "voice": "Matthew Schmitz - Gravel, Deep Anti-Hero",
+      "voice_id": "bwCXcoVxWNYMlC6Esa8u",
+      "status": "selected_current_user_approved",
       "account_access": "confirmed",
-      "notes": "Explicitly selected by user. Existing account access confirmed; no final episode performance approval is implied. Older adult Doberman, polished corporate authority and controlled smugness; Jerry B. is excluded.",
+      "notes": "User approved replacement of Brian. Older villainous authority. Earlier voices and takes archived.",
       "opening_review_line_ids": [
         "S03-D01"
       ],
-      "opening_performance_status": "recorded_review_takes_not_final_approved"
+      "opening_performance_status": "new voice approved; further scene performances require review"
     },
     {
       "role_id": "woof7_anchor",
