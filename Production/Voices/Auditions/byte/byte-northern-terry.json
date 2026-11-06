@@ -1,0 +1,18 @@
+{
+  "role_id": "byte",
+  "option": "northern-terry",
+  "candidate_voice_id": "wo6udizrrtpIxWGp2qJk",
+  "text": "Thirty dollars? Yesterday it was ten! That's not a shortage. That's a fucking robbery. Give me two minutes with those delivery records. I want to know where our salmon went.",
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.5,
+    "similarity_boost": 0.75,
+    "style": 0.15,
+    "use_speaker_boost": true
+  },
+  "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Voices\\Auditions\\byte\\byte-northern-terry.mp3",
+  "request_id": "08NK5fbdP6bt3yRNj1gg",
+  "credits_before": 52975,
+  "credits_after": 52975,
+  "status": "audition_only_not_approved"
+}

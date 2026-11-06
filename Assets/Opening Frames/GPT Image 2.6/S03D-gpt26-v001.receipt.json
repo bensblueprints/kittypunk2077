@@ -1,0 +1,100 @@
+{
+  "asset_id": "S03D",
+  "name": "Extreme close-up of Barkington",
+  "batch": 2,
+  "index": 19,
+  "scene": 3,
+  "editorial_shot_id": "S03-04",
+  "provider": "Higgsfield",
+  "model": "gpt_image_2_6",
+  "media_type": "image",
+  "status": "previs_still_review_pass",
+  "generation_status": "completed",
+  "job_id": "636dd57b-8cdb-44a6-8d86-54924ca2753a",
+  "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3FexRxU2V7FefQUvOnG7eFCKfmw/hf_20261106_195256_636dd57b-8cdb-44a6-8d86-54924ca2753a.png",
+  "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Phase 2\\Opening Frames\\S03D-gpt26-v001.png",
+  "filename": "S03D-gpt26-v001.png",
+  "actual_dimensions": [
+    3840,
+    2160
+  ],
+  "file_format": "PNG",
+  "size_bytes": 13648210,
+  "sha256": "913955c2d7aea9ca8e264496d54b50fc1d3e868300cf572f79af388d0610dfcd",
+  "saved_at": "2026-11-06T19:54:38.808261+00:00",
+  "quote_credits": 4.25,
+  "actual_billed_credits": "not_independently_verified",
+  "batch_lease_credits": 119,
+  "max_authorized_jobs": 28,
+  "no_automatic_paid_retry": true,
+  "reference_paths": [
+    "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Phase 2\\Opening Frames\\S03B-gpt26-v001.png",
+    "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Phase 2\\Character Masters\\CHAR06-barkington-character-master-gpt26-v002.png"
+  ],
+  "reference_media": [
+    {
+      "value": "fddd56a3-05f9-48b7-987c-12e91c8fcbc1",
+      "type": "completed_generation_job",
+      "asset_id": "S03B"
+    },
+    {
+      "value": "3ca7db12-882a-4b9b-89eb-ad9a60690a6d",
+      "type": "completed_generation_job",
+      "asset_id": "CHAR06"
+    }
+  ],
+  "source_hashes": {
+    "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Phase 2\\Opening Frames\\S03B-gpt26-v001.png": "1a6976232ac04b994cb065c428337c164cee2e0e36b89915e893a74e96991a8f",
+    "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Phase 2\\Character Masters\\CHAR06-barkington-character-master-gpt26-v002.png": "562eac0bfb4963cda6cfacb48dfd34dbfbe363c2f7f91cb7d86c27a568ce16c5"
+  },
+  "generation_params": {
+    "model": "gpt_image_2_6",
+    "quality": "high",
+    "resolution": "4k",
+    "aspect_ratio": "16:9",
+    "count": 1,
+    "output_format": "png",
+    "background": "opaque",
+    "prompt": "Create ONE single cinematic16:9 still frame, requested3840x2160, high detail. This is a clean animation start frame, not a contact sheet, grid, storyboard page, split screen or sequence. Use tactile cinematic3D cyberpunk animation: readable fur and fabrics, weathered metal/brick/concrete, restrained cyan/magenta practical light and warm amber lamps, plausible optics and shadows. Keep the supplied established world and physical designs. No title, panel label, shot ID, subtitles, dialogue, timestamp, watermark or production annotation is burned into the image. One natural held pose at the beginning of the described beat; do not try to show a whole shot’s duration or multiple actions in one image. Any dialogue supplied separately is performance context only and must never appear as words in the picture. Use only the specified visible cast; realistic feline/canine paws, no human fingers, extra limbs, merged bodies, duplicate faces or borrowed accessories. Reference sheets provide identity/material evidence only: never copy their panel layout, text or labels into this single frame. Full-frame extreme close-up of the SAME BARKINGTON broadcast face from S03B, same camera side/light/eyewear state, black-and-tan Doberman muzzle and upright ears, gold/red costume hints only at bottom. Tiny smug mouth-corner expression as the claim lands; no large evil grin, cigar newly added, alternate dog, or text. One actor, natural held expression, blurred corporate-blue background. BARKINGTON ORDERS: older black-and-tan Doberman, upright ears, long canine muzzle, exact black/gold executive suit, deep red tie and grey fur collar from CHAR06. Preserve the master’s purple reflective eyewear state where present. Never substitute the Shiba WOOF7 anchor, a wolf, or a human.\n\nREFERENCE SCOPE AND HARD CONTINUITY: Image 1 is the already established S03B broadcast frame. Crop/reframe that same single Doberman face into an extreme close-up, matching its angle, purple glasses, lighting and blue backdrop. Image 2 is current corrected CHAR06 v002 identity authority. No cigar; no extra dog, props or text. Do not expose or invent eyes behind purple reflective glasses. Desk/paws remain out of this face crop.",
+    "medias": [
+      {
+        "role": "image",
+        "value": "fddd56a3-05f9-48b7-987c-12e91c8fcbc1"
+      },
+      {
+        "role": "image",
+        "value": "3ca7db12-882a-4b9b-89eb-ad9a60690a6d"
+      }
+    ]
+  },
+  "dependencies": [
+    "CHAR06",
+    "S03B"
+  ],
+  "dependency_status": "Required files present, parent cleared SET01/SET02 and corrected PROP04v002/CHAR06v002 for previs; input images visually inspected.",
+  "expected_visible_actor_count": 1,
+  "expected_visible_roles": [
+    "CHAR06"
+  ],
+  "audio_alignment_file": "S03D-gpt26-v001.alignment.json",
+  "prompt_file": "S03D-gpt26-v001.prompt.txt",
+  "production_approved": false,
+  "higgsfield_audio_allowed": false,
+  "higgsfield_video_allowed": false,
+  "visual_qa": {
+    "asset_id": "S03D",
+    "visual_reviewed": true,
+    "status": "previs_still_review_pass",
+    "expected_actor_count": 1,
+    "observed_actor_count": 1,
+    "hard_actor_count_pass": true,
+    "anatomy_check": "One Doberman face; ears intentionally partly cropped for extreme close-up; no duplicated anatomy.",
+    "passes": [
+      "Cigar-free muzzle, purple glasses, fur collar and blue map background match the Barkington medium.",
+      "Held expression is suitable for dialogue previs."
+    ],
+    "issues": [],
+    "production_approved": false,
+    "paid_retry_performed": false
+  }
+}

@@ -1,0 +1,88 @@
+{
+  "asset_id": "CHAR06",
+  "name": "Chairman Barkington",
+  "species_group": "dog",
+  "version": "v002",
+  "status": "review_draft_cape_correction_verified",
+  "saved_at": "2026-11-06T19:28:02.808129+00:00",
+  "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Phase 2\\Character Masters\\CHAR06-barkington-character-master-gpt26-v002.png",
+  "job_id": "3ca7db12-882a-4b9b-89eb-ad9a60690a6d",
+  "model": "gpt_image_2_6",
+  "provider": "Higgsfield",
+  "requested_quality": "high",
+  "requested_resolution": "4k",
+  "requested_aspect_ratio": "16:9",
+  "actual_dimensions": [
+    3840,
+    2160
+  ],
+  "file_format": "PNG",
+  "size_bytes": 10237344,
+  "sha256": "562eac0bfb4963cda6cfacb48dfd34dbfbe363c2f7f91cb7d86c27a568ce16c5",
+  "quote_credits": 4.25,
+  "actual_billed_credits": "not_independently_verified",
+  "budget_lease_credits": 4.25,
+  "budget_lease_scope": "Additional single targeted cape correction, separate from original 26-credit six-master lease",
+  "batch_max_jobs": 1,
+  "reference_paths": [
+    "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Phase 2\\Character Masters\\CHAR06-barkington-character-master-gpt26-v001.png"
+  ],
+  "reference_media_ids": [
+    "bcdc18be-947d-4dde-a406-26ade10beceb"
+  ],
+  "voice_metadata_only": "Brian",
+  "voice_printed_on_sheet": false,
+  "prompt_file": "CHAR06-barkington-character-master-gpt26-v002.prompt.txt",
+  "generation_params": {
+    "model": "gpt_image_2_6",
+    "prompt": "Use case: precise-object-edit / identity-preserve. Edit the supplied 3840x2160 Barkington character master sheet with ONE localized correction only. In panel 2 BACK (top middle), remove the small tan tail and its opening at the middle of the black cape. Reconstruct continuous black cape fabric over that tiny area, with natural vertical folds connecting smoothly to the surrounding fabric. The back cape must be uninterrupted, exactly as an ordinary long closed cape; there is no hole, slit, exposed tail, patch, ornament or new seam there. Keep the cape's outer silhouette, grey fur collar, red lining visible at the edges, length and all existing gold details unchanged. Preserve the ENTIRE rest of the image as closely as possible: same 3x3 panel arrangement, same text, same character face, black/tan Doberman markings, purple/gold sunglasses, black/gold suit, red tie, paws, ring/watch, poses, backgrounds and lighting. Do not change the cigar or any other panel. Do not redesign, relabel, crop, move, add or remove anything else. Output 3840x2160 PNG, same 16:9 composition. This is a surgical cape repair, not a new character sheet.",
+    "quality": "high",
+    "resolution": "4k",
+    "aspect_ratio": "16:9",
+    "count": 1,
+    "output_format": "png",
+    "background": "opaque",
+    "medias": [
+      {
+        "role": "image",
+        "value": "bcdc18be-947d-4dde-a406-26ade10beceb"
+      }
+    ]
+  },
+  "generation_status": "completed",
+  "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3FexRxU2V7FefQUvOnG7eFCKfmw/hf_20261106_192639_3ca7db12-882a-4b9b-89eb-ad9a60690a6d.png",
+  "source_hashes": {
+    "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Phase 2\\Character Masters\\CHAR06-barkington-character-master-gpt26-v001.png": "7bd6bd25538e01b41946097869a02d0c6c1f938d8167b94f854e608d1ab5a904"
+  },
+  "edit_scope": "Only remove the invented rear-cape tail opening; preserve every other panel.",
+  "supersedes_filename": "CHAR06-barkington-character-master-gpt26-v001.png",
+  "visual_qa": {
+    "asset_id": "CHAR06",
+    "version": "v002",
+    "status": "review_draft_cape_correction_verified",
+    "visual_reviewed": true,
+    "passes": [
+      "Invented tail and cape opening removed from BACK panel; continuous black cape fabric and folds restored.",
+      "3×3 layout, all labels, face, costume colours, fur collar, sunglasses and other panel content preserved at visual review scale.",
+      "No new character or costume alternative introduced; output verified 3840×2160."
+    ],
+    "issues": [
+      {
+        "severity": "minor",
+        "type": "edit_fidelity",
+        "note": "Generation redraws fine texture details; overall other-panel content is retained visually, but this is not a pixel-identical patch."
+      },
+      {
+        "severity": "minor",
+        "type": "expression",
+        "note": "Neutral/focused expressions remain similar as in v001; use cigar-free expression panels for dialogue, and treat the face-panel cigar as scene-dependent."
+      }
+    ],
+    "resolved_v001_issues": [
+      "Invented rear-cape tail opening"
+    ],
+    "production_approved": false,
+    "retry_performed": false,
+    "additional_authorized_jobs_used": 1
+  }
+}

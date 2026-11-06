@@ -1,0 +1,18 @@
+{
+  "role_id": "woof7_anchor",
+  "option": "eric",
+  "candidate_voice_id": "cjVigY5qzO86Huf0OWal",
+  "text": "We interrupt your programme with a special announcement from Good Dog Global. And you want that to be tonight's headline? I see. Public confidence. Of course.",
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.5,
+    "similarity_boost": 0.75,
+    "style": 0.15,
+    "use_speaker_boost": true
+  },
+  "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Voices\\Auditions\\woof7_anchor\\woof7_anchor-eric.mp3",
+  "request_id": "qx7YkPRzWZyeEPrzKjlS",
+  "credits_before": 52796,
+  "credits_after": 52796,
+  "status": "audition_only_not_approved"
+}

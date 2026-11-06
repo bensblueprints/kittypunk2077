@@ -1,0 +1,30 @@
+{
+  "id": "HQ04",
+  "version": "v002",
+  "status": "preferred_corrected_room_draft",
+  "preferred_over": "v001",
+  "empty_set": true,
+  "dimensions": [
+    3840,
+    2160
+  ],
+  "fixed": [
+    "Hero now faces south cabinets, with east workbench screen-left and west empty chambers screen-right.",
+    "Reverse faces north entry with west chambers screen-left and east bench screen-right.",
+    "North elevation moves entry to east side with collar case west of it.",
+    "All three chambers remain empty and monitors blank."
+  ],
+  "remaining_issues": [
+    {
+      "severity": "minor",
+      "note": "Plan door shifts east but remains approximate rather than exactly x9/12; use the saved x9,y18 coordinate for final geometry."
+    },
+    {
+      "severity": "minor",
+      "note": "A/B compositions remain approximately axial rather than survey-accurate diagonal positions."
+    }
+  ],
+  "usage": "Preferred v002 for room continuity and empty-set design; text coordinates retain exact dimensional authority.",
+  "paid_revision_attempts": 1,
+  "automatic_retry": false
+}

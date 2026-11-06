@@ -1,0 +1,152 @@
+[
+  {
+    "id": "LOC01",
+    "refs": [
+      "ref-01.png",
+      "ref-02.png"
+    ],
+    "name": "Resistance warehouse exterior"
+  },
+  {
+    "id": "LOC02",
+    "refs": [
+      "ref-03.png",
+      "ref-01.png"
+    ],
+    "name": "Resistance warehouse lounge"
+  },
+  {
+    "id": "LOC03",
+    "refs": [
+      "ref-01.png"
+    ],
+    "name": "Hacking operations"
+  },
+  {
+    "id": "LOC04",
+    "refs": [
+      "ref-01.png"
+    ],
+    "name": "Engineering workshop"
+  },
+  {
+    "id": "LOC05",
+    "refs": [
+      "ref-02.png",
+      "ref-04.png"
+    ],
+    "name": "District 7 streets and alleys"
+  },
+  {
+    "id": "LOC06",
+    "refs": [
+      "ref-04.png"
+    ],
+    "name": "7-Catleven exterior"
+  },
+  {
+    "id": "LOC07",
+    "refs": [
+      "ref-04.png"
+    ],
+    "name": "7-Catleven interior and freezer"
+  },
+  {
+    "id": "LOC08",
+    "refs": [
+      "ref-05.png",
+      "ref-02.png"
+    ],
+    "name": "District 7 market"
+  },
+  {
+    "id": "LOC09",
+    "refs": [
+      "ref-06.png",
+      "ref-02.png"
+    ],
+    "name": "District 7 rally stage and plaza"
+  },
+  {
+    "id": "LOC10",
+    "refs": [
+      "ref-07.png",
+      "ref-08.png"
+    ],
+    "name": "Steak & Bone exterior and security"
+  },
+  {
+    "id": "LOC11",
+    "refs": [
+      "ref-07.png",
+      "ref-08.png"
+    ],
+    "name": "Steak & Bone service corridors"
+  },
+  {
+    "id": "LOC12",
+    "refs": [
+      "ref-08.png"
+    ],
+    "name": "Steak & Bone private dining room"
+  },
+  {
+    "id": "LOC13",
+    "refs": [
+      "ref-09.png"
+    ],
+    "name": "WOOF7 news studio"
+  },
+  {
+    "id": "LOC14",
+    "refs": [
+      "ref-10.png"
+    ],
+    "name": "NIP7 investigative newsroom"
+  },
+  {
+    "id": "LOC15",
+    "refs": [
+      "ref-11.png",
+      "ref-12.png"
+    ],
+    "name": "Salmon facility exterior and loading"
+  },
+  {
+    "id": "LOC16",
+    "refs": [
+      "ref-11.png"
+    ],
+    "name": "Salmon cold store and processing hall"
+  },
+  {
+    "id": "LOC17",
+    "refs": [
+      "ref-11.png"
+    ],
+    "name": "Salmon routing control room"
+  },
+  {
+    "id": "LOC18",
+    "refs": [
+      "ref-02.png"
+    ],
+    "name": "Catnip Times pressroom"
+  },
+  {
+    "id": "LOC19",
+    "refs": [
+      "ref-13.png"
+    ],
+    "name": "Game world: Great Dog National Bank"
+  },
+  {
+    "id": "LOC20",
+    "refs": [
+      "ref-14.png",
+      "ref-02.png",
+      "ref-06.png"
+    ],
+    "name": "District 7 market rooftop overlook"
+  }
+]

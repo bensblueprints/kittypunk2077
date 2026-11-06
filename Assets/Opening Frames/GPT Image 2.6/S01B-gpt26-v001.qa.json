@@ -1,0 +1,21 @@
+{
+  "asset_id": "S01B",
+  "visual_reviewed": true,
+  "status": "previs_still_review_with_continuity_notes",
+  "expected_actor_count": 5,
+  "observed_actor_count": 5,
+  "hard_actor_count_pass": true,
+  "anatomy_check": "Five separate cats and five held controllers; no extra limbs observed.",
+  "passes": [
+    "Rear order Neon, Onyx, Trixie, Byte, Ghost.",
+    "Amber blanket left; grey blanket right; banner left, window right; console above blank two-knob CRT."
+  ],
+  "issues": [
+    {
+      "severity": "minor",
+      "note": "Camera is nearly centered rather than slightly southwest; differentiate the coverage through the tighter S01C framing."
+    }
+  ],
+  "production_approved": false,
+  "paid_retry_performed": false
+}

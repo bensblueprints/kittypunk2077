@@ -1,0 +1,18 @@
+{
+  "role_id": "trixie",
+  "option": "lauren",
+  "candidate_voice_id": "DODLEQrClDo8wCz460ld",
+  "text": "Then let's see what's on the menu. We got the payment. Now we need the proof. Nobody gets left behind. We finish this together, then we go home. We saved dinner.",
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.5,
+    "similarity_boost": 0.75,
+    "style": 0.15,
+    "use_speaker_boost": true
+  },
+  "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Voices\\Auditions\\trixie\\trixie-lauren.mp3",
+  "request_id": "wcliid8Z48thxIYjdqDW",
+  "credits_before": 52975,
+  "credits_after": 52975,
+  "status": "audition_only_not_approved"
+}

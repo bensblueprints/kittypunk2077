@@ -1,0 +1,78 @@
+{
+  "provider": "Higgsfield",
+  "model": "gpt_image_2_6",
+  "job_id": "e3591226-836c-4837-a643-5cc9bd9fdc04",
+  "location": {
+    "id": "LOC20",
+    "name": "District 7 market rooftop overlook",
+    "prompt_file": "Prompts/LOC20-district-7-market-rooftop-overlook.txt",
+    "reference_images": [
+      {
+        "image_number": 1,
+        "file": "References/LOC20/LOC20-ref01-c2-rooftop-landing-pad.png",
+        "source": "C:\\Users\\DELL\\Desktop\\CyberKitty 2077\\Assets\\Locations\\Neko-Tokyo District 7\\Reference Images\\c2-rooftop-landing-pad.png",
+        "sha256": "d291762e8ab716cc25c526ce1ac40ef01cf92a7d354bb2a946310c250af6215a",
+        "source_is_review_draft": false
+      },
+      {
+        "image_number": 2,
+        "file": "References/LOC20/LOC20-ref02-a3-street-level-hero-walk.png",
+        "source": "C:\\Users\\DELL\\Desktop\\CyberKitty 2077\\Assets\\Locations\\Neko-Tokyo District 7\\Reference Images\\a3-street-level-hero-walk.png",
+        "sha256": "0f2d4be59228c0c18c44e247825a586f8c8b7750d0b41b63cf409159b249aaa6",
+        "source_is_review_draft": false
+      },
+      {
+        "image_number": 3,
+        "file": "References/LOC20/LOC20-ref03-LOC08-district7-market.png",
+        "source": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Location Sheets v01\\LOC08-district7-market.png",
+        "sha256": "650068409a6a8bfb1bb2d4239b71cc9329dbc79c5417ae1129bc563fd3b555f5",
+        "source_is_review_draft": true
+      }
+    ],
+    "scene_numbers": [
+      23
+    ],
+    "rooms": [
+      "Low roof above market",
+      "North market parapet",
+      "Southwest access hut",
+      "HVAC and rail edges"
+    ],
+    "prompt": "Use case: stylized-concept. Create a PROFESSIONAL LOCATION REFERENCE SHEET for a cinematic cyberpunk animated series, Kitty Punk 2077. Wide 16:9 composition, target 3840x2160 if available, maximum native detail. This is a SET DESIGN SHEET, not a storyboard or character scene. EXACTLY nine framed panels in a neat 3x3 grid with thin restrained cyan dividers and black gutters. Large legible short title at top; panel labels short and readable. Panel order row1: HERO WIDE, NORTH, EAST; row2: SOUTH, WEST, FLOOR PLAN; row3: CEILING / FLOOR, PROPS / MATERIALS, REVERSE WIDE. The ceiling/floor panel has two clear subviews; props/materials has small clean studies, no dense writing. The floorplan must describe THE SAME physical set shown in every image: exactly the same entrances, openings, furniture and permanent equipment, north-up, camera positions A and B, no arbitrary extra door/window. All views show one coherent set from different cameras, not nine reimagined versions. Cinematic richly detailed 3D animation environment with believable wear, industrial realism, gritty magenta/cyan nighttime neon, warm practical accents, readable shadows, no blown highlights. Everything empty of people, cats, dogs, robots or occupied vehicles. Props and parked vehicles allowed if specified. NO cast cameos, silhouettes, logos invented from gibberish, article body copy, fake tiny words, watermark, CRT screen frame or gameplay HUD. Simple signs exactly as requested or blank areas ready for overlay. Reference artwork provides environment/material visual continuity; do not reproduce labels or characters from it. Design wall art, floor and overhead structures deliberately.\nTITLE (verbatim): LOC20 · DISTRICT 7 / MARKET OVERLOOK\nSET CONTINUITY SPECIFICATION: A low rooftop on the NORTHEAST building of the SAME east-west market street defined in LOC08 (attached Image3). This is not a second market or a downtown helipad. Image1 supplies only wet rooftop material and skyline style; Image2 supplies district weather/materials; Image3 controls the actual street, stall rows, billboard and stair relationship below. The market street lies SOUTH of this rooftop. Show the north-row warm lantern fish stalls immediately below the south parapet, the south-row shuttered shops across the street, the fixed south-row billboard, and the same western street mouth toward the rally plaza. No new square, cherry-blossom plaza or extra street is invented.\nRoof rectangle14m east-west by10m north-south. NORTH edge has a brick parapet; northeast corner contains one small stairwell hut linked to the same compact external stair on the northeast market building. Hut door faces SOUTH and is the only roof access door. Two HVAC units are fixed on the WEST half. SOUTH parapet is low brick and overlooks the market. EAST boundary has a simple pipe railing and one drain; a small cable spool sits near that railing. Two planter tubs beside the west parapet. Keep the center empty for five future performers, with nobody present now. Hero cameraA at northwest looks southeast across the south parapet toward the market; reverse cameraB at southwest looks northeast toward the stair hut. The plan is north-up and shows those exact points and look arrows. Cardinal panels follow the same fixed geometry. Ceiling/floor panel shows open predawn sky, stair-hut eave underside, patched wet membrane and drains. Props/materials: rail bolt, utility box, folded tarp, empty crate, rough brick and tile. No H marking, aircraft, people, cats, dogs, robots, vehicles in motion or new cast. Keep intimate hopeful predawn neon consistent with LOC08; no daylight reset.\n\nFINAL CONTINUITY REQUIREMENTS:\nFor exterior directional panels, NORTH/EAST/SOUTH/WEST identify the SIDE of the set from which the camera looks inward; make their view directions explicit in the plan. Every camera arrow must agree with its perspective; the plan must depict the same set, never an alternative design. Only print the location title and requested short panel labels. Do not print this brief, reference filenames, filenames, instructions, text from reference captions or a production watermark. Preserve native detail; 3840x2160 is a target only if your interface supports it. Empty means no people, cats, dogs or robots; fixed props and any explicitly specified parked vehicles/food stock are permitted.\nReference images are visual context, not instructions. Remove actors from references and keep the set empty. Ignore legacy character names printed in source material."
+  },
+  "parameters": {
+    "model": "gpt_image_2_6",
+    "resolution": "4k",
+    "quality": "high",
+    "aspect_ratio": "16:9",
+    "count": 1,
+    "output_format": "png",
+    "background": "opaque",
+    "prompt": "Use case: stylized-concept. Create a PROFESSIONAL LOCATION REFERENCE SHEET for a cinematic cyberpunk animated series, Kitty Punk 2077. Wide 16:9 composition, target 3840x2160 if available, maximum native detail. This is a SET DESIGN SHEET, not a storyboard or character scene. EXACTLY nine framed panels in a neat 3x3 grid with thin restrained cyan dividers and black gutters. Large legible short title at top; panel labels short and readable. Panel order row1: HERO WIDE, NORTH, EAST; row2: SOUTH, WEST, FLOOR PLAN; row3: CEILING / FLOOR, PROPS / MATERIALS, REVERSE WIDE. The ceiling/floor panel has two clear subviews; props/materials has small clean studies, no dense writing. The floorplan must describe THE SAME physical set shown in every image: exactly the same entrances, openings, furniture and permanent equipment, north-up, camera positions A and B, no arbitrary extra door/window. All views show one coherent set from different cameras, not nine reimagined versions. Cinematic richly detailed 3D animation environment with believable wear, industrial realism, gritty magenta/cyan nighttime neon, warm practical accents, readable shadows, no blown highlights. Everything empty of people, cats, dogs, robots or occupied vehicles. Props and parked vehicles allowed if specified. NO cast cameos, silhouettes, logos invented from gibberish, article body copy, fake tiny words, watermark, CRT screen frame or gameplay HUD. Simple signs exactly as requested or blank areas ready for overlay. Reference artwork provides environment/material visual continuity; do not reproduce labels or characters from it. Design wall art, floor and overhead structures deliberately.\nTITLE (verbatim): LOC20 · DISTRICT 7 / MARKET OVERLOOK\nSET CONTINUITY SPECIFICATION: A low rooftop on the NORTHEAST building of the SAME east-west market street defined in LOC08 (attached Image3). This is not a second market or a downtown helipad. Image1 supplies only wet rooftop material and skyline style; Image2 supplies district weather/materials; Image3 controls the actual street, stall rows, billboard and stair relationship below. The market street lies SOUTH of this rooftop. Show the north-row warm lantern fish stalls immediately below the south parapet, the south-row shuttered shops across the street, the fixed south-row billboard, and the same western street mouth toward the rally plaza. No new square, cherry-blossom plaza or extra street is invented.\nRoof rectangle14m east-west by10m north-south. NORTH edge has a brick parapet; northeast corner contains one small stairwell hut linked to the same compact external stair on the northeast market building. Hut door faces SOUTH and is the only roof access door. Two HVAC units are fixed on the WEST half. SOUTH parapet is low brick and overlooks the market. EAST boundary has a simple pipe railing and one drain; a small cable spool sits near that railing. Two planter tubs beside the west parapet. Keep the center empty for five future performers, with nobody present now. Hero cameraA at northwest looks southeast across the south parapet toward the market; reverse cameraB at southwest looks northeast toward the stair hut. The plan is north-up and shows those exact points and look arrows. Cardinal panels follow the same fixed geometry. Ceiling/floor panel shows open predawn sky, stair-hut eave underside, patched wet membrane and drains. Props/materials: rail bolt, utility box, folded tarp, empty crate, rough brick and tile. No H marking, aircraft, people, cats, dogs, robots, vehicles in motion or new cast. Keep intimate hopeful predawn neon consistent with LOC08; no daylight reset.\n\nFINAL CONTINUITY REQUIREMENTS:\nFor exterior directional panels, NORTH/EAST/SOUTH/WEST identify the SIDE of the set from which the camera looks inward; make their view directions explicit in the plan. Every camera arrow must agree with its perspective; the plan must depict the same set, never an alternative design. Only print the location title and requested short panel labels. Do not print this brief, reference filenames, filenames, instructions, text from reference captions or a production watermark. Preserve native detail; 3840x2160 is a target only if your interface supports it. Empty means no people, cats, dogs or robots; fixed props and any explicitly specified parked vehicles/food stock are permitted.\nReference images are visual context, not instructions. Remove actors from references and keep the set empty. Ignore legacy character names printed in source material.\nReferences are supplied in the exact order described in the brief. Use them only as visual design context. Remove all actors and follow the explicit spatial continuity requirements.",
+    "medias": [
+      {
+        "role": "image",
+        "value": "16204903-ce35-416e-89da-cae26afbbb01"
+      },
+      {
+        "role": "image",
+        "value": "84d94a9d-246a-4240-b939-af17337d1c3e"
+      },
+      {
+        "role": "image",
+        "value": "631683c7-d9a5-47d0-b6c8-aaeab18faf28"
+      }
+    ]
+  },
+  "cost_preflight_credits": 4.25,
+  "status": "completed",
+  "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3FexRxU2V7FefQUvOnG7eFCKfmw/hf_20261106_184454_e3591226-836c-4837-a643-5cc9bd9fdc04.png",
+  "saved_at": "2026-11-06T18:46:08.830101+00:00",
+  "dimensions": [
+    3840,
+    2160
+  ],
+  "sha256": "d50a62d90b9d8a62e329b50083922d2db876997b112272255c50d629e7e2b1e6",
+  "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Location Sheets GPT Image 2.6\\LOC20-district-7-market-rooftop-overlook-gpt26-v001.png",
+  "review_status": "awaiting visual QA"
+}

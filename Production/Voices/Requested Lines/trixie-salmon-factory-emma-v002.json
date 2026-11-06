@@ -1,0 +1,23 @@
+{
+  "role_id": "trixie",
+  "option": "salmon-factory-emma-v002",
+  "candidate_voice_id": "dmWfLQZJq7wNPv9WmtiM",
+  "text": "The dogs must be stopped! Tripling the price of our salmon while hard working factory workers starve at the very factory it's made.",
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.35,
+    "similarity_boost": 0.8,
+    "style": 0.55,
+    "use_speaker_boost": true
+  },
+  "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Voices\\Requested Lines\\trixie-salmon-factory-emma-v002.mp3",
+  "request_id": "Zd7hMIngLIzQTKegaZ76",
+  "credits_before": 53227,
+  "credits_after": 53227,
+  "status": "user_selected_replacement_voice_rendered_for_review",
+  "duration_seconds": 7.523265,
+  "voice_name": "Emma - Wry, Gritty Hero",
+  "supersedes_voice": "DODLEQrClDo8wCz460ld",
+  "earlier_recording_preserved": true,
+  "pilot_insertion": "Not assigned."
+}

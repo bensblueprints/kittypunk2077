@@ -1,0 +1,24 @@
+{
+  "id": "HQ05",
+  "version": "v002",
+  "status": "preferred_corrected_room_draft",
+  "preferred_over": "v001",
+  "empty_set": true,
+  "dimensions": [
+    3840,
+    2160
+  ],
+  "fixed": [
+    "Hero now correctly shows east closed mesh communications cabinet screen-left and west lit server rack screen-right.",
+    "Reverse, isolated wall elevations, two operator desks, blank monitors and north entry preserved."
+  ],
+  "remaining_issues": [
+    {
+      "severity": "minor",
+      "note": "A/B markers remain diagonal while wides are approximately axial; physical fixture side consistency is corrected."
+    }
+  ],
+  "usage": "Preferred v002 for security-room design/continuity.",
+  "paid_revision_attempts": 1,
+  "automatic_retry": false
+}

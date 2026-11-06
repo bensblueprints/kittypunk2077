@@ -1,0 +1,4101 @@
+{
+  "updated_utc": "2026-11-06T20:15:11.492763+00:00",
+  "pilot": "The Great Salmon Shortage",
+  "runtime_seconds": 1200,
+  "scene_count": 24,
+  "canon_update": {
+    "leader": "Trixie",
+    "alias": "CatGirl",
+    "gender": "female",
+    "age": 19,
+    "legacy_label": "Catman",
+    "boys": [
+      "Byte",
+      "Ghost",
+      "Onyx",
+      "Neon"
+    ],
+    "original_script": "Original preserved; working24-scene Trixie rename revision saved.",
+    "character_sheet": {
+      "status": "generated_revision_visually_checked",
+      "file": "Characters/Trixie/trixie-catgirl-crew-character-sheet-v001.png",
+      "native_dimensions": [
+        1536,
+        1024
+      ],
+      "original_preserved": true,
+      "scope": "Earlier combined Trixie crew sheet; current individual Phase 2 masters are listed separately."
+    },
+    "active_voice_casting": {
+      "trixie": {
+        "voice": "Emma — Wry, Gritty Hero",
+        "voice_id": "dmWfLQZJq7wNPv9WmtiM"
+      },
+      "byte": {
+        "voice": "Northern Terry",
+        "voice_id": "wo6udizrrtpIxWGp2qJk"
+      },
+      "ghost": {
+        "voice": "Austin — Upbeat",
+        "voice_id": "7fBwqIVI6wI1B4MuKqQi"
+      },
+      "neon": {
+        "voice": "Ryan — Product Reviewer",
+        "voice_id": "4e32WqNVWRquDa1OcRYZ"
+      },
+      "onyx": {
+        "voice": "Harry — Fierce Warrior",
+        "voice_id": "uq0HIbNZKn11Hs5ifEdd"
+      },
+      "nip7_anchor": {
+        "voice": "Daniel",
+        "voice_id": "onwK4e9ZLuTAKqWW03F9"
+      },
+      "chairman_barkington": {
+        "voice": "Brian",
+        "voice_id": "nPczCjzI2devNBz1zQrb"
+      },
+      "woof7_anchor": {
+        "voice": "Eric",
+        "voice_id": "cjVigY5qzO86Huf0OWal"
+      }
+    },
+    "company_name": "Goodboy Global",
+    "cat_crew_count": 5,
+    "phase2_current_character_masters": {
+      "CHAR06": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Phase 2\\Character Masters\\CHAR06-barkington-character-master-gpt26-v002.png",
+      "CREW01": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Phase 2\\Character Masters\\CREW01-trixie-character-master-gpt26-v001.png",
+      "CREW02": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Phase 2\\Character Masters\\CREW02-byte-character-master-gpt26-v001.png",
+      "CREW03": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Phase 2\\Character Masters\\CREW03-ghost-character-master-gpt26-v001.png",
+      "CREW04": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Phase 2\\Character Masters\\CREW04-onyx-character-master-gpt26-v001.png",
+      "CREW05": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Phase 2\\Character Masters\\CREW05-neon-character-master-gpt26-v001.png"
+    },
+    "named_dog_library": [
+      "Barkington",
+      "Fetch",
+      "Muzzle",
+      "Viper",
+      "Frost",
+      "Stone",
+      "Velvet",
+      "Domino"
+    ],
+    "initial_four_cronies": "not assigned by this asset-library update"
+  },
+  "counts": {
+    "location_sheets": 20,
+    "draft_location_sheets": 20,
+    "missing_location_sheets": 0,
+    "character_registry_entries": 21,
+    "deliverable_types_per_entry": 7,
+    "existing_character_prompts": 147,
+    "additional_pilot_entries": [
+      "CHAR_KITTEN_01",
+      "PROP_SERVICE_ROBOT_01"
+    ],
+    "prop_graphic_groups": 23,
+    "audition_mp3s": 7,
+    "original_audition_recordings": 7,
+    "requested_line_versions": 2,
+    "narrator_trial_recordings": 1,
+    "distinct_review_recordings": 22,
+    "mirrored_audio_copies": 3,
+    "original_pilot_voice_plan": 17,
+    "legacy_draft_location_sheets": 16,
+    "current_gpt26_saved_sheets": 20,
+    "current_gpt26_queued_sheets": 0,
+    "location_sheet_png_versions": 36,
+    "unique_locations_with_saved_sheet": 20,
+    "production_approved_locations": 0,
+    "opening_exact_dialogue_takes": 12,
+    "phase2_asset_counts": {
+      "Character Masters": {
+        "planned_unique_assets": 6,
+        "saved_unique_assets": 6,
+        "saved_png_versions": 7
+      },
+      "Dog Masters": {
+        "planned_unique_assets": 5,
+        "saved_unique_assets": 5,
+        "saved_png_versions": 5
+      },
+      "Goodboy HQ": {
+        "planned_unique_assets": 10,
+        "saved_unique_assets": 10,
+        "saved_png_versions": 15
+      },
+      "Props": {
+        "planned_unique_assets": 12,
+        "saved_unique_assets": 12,
+        "saved_png_versions": 15
+      },
+      "Setting Plates": {
+        "planned_unique_assets": 4,
+        "saved_unique_assets": 4,
+        "saved_png_versions": 4
+      },
+      "Opening Frames": {
+        "planned_unique_assets": 28,
+        "saved_unique_assets": 28,
+        "saved_png_versions": 34
+      }
+    }
+  },
+  "production_order": [
+    "Review remaining location and clean-plate continuity against current manifests",
+    "Use five crew masters, Barkington v002 and the expanded dog library without changing the fixed five-cat crew",
+    "Review the 12 recorded opening lines and finish casting/dialogue for the 24-scene working pilot through the user’s ElevenLabs account",
+    "Complete the authorized opening stills; review blocking, props and evidence continuity; build animatic",
+    "Approve any separately selected video route later; never Higgsfield audio/video; composite, mix and QC"
+  ],
+  "locations": [
+    {
+      "id": "LOC01",
+      "name": "Resistance warehouse exterior",
+      "rooms": [
+        "South cargo entrance and staff door",
+        "North service wall",
+        "East workshop side",
+        "West window side",
+        "Loading apron and roof"
+      ],
+      "scene_numbers": [
+        1,
+        4
+      ],
+      "status": "generated_review_required",
+      "filename": "Location Sheets GPT Image 2.6/LOC01-resistance-warehouse-exterior-gpt26-v001.png",
+      "remaining": [
+        "Keep as review draft; annotation and state clarification are sufficient. No full rerender or extra generation retry recommended.",
+        "Approve final geography and derive clean plates"
+      ],
+      "all_required_after_sheet": [
+        "Clean hero/reverse16:9plates",
+        "Separate directional/wall views",
+        "Fixed overhead plan and camera axis",
+        "Screen/sign overlays",
+        "Final continuity approval"
+      ],
+      "qa_notes": [
+        "Roof/site view does not clearly identify south cargo/staff and north service-bay door footprints. A/B/C arrows correspond to south front, north wall and southeast hero, but no arrow represents panel 9's southward apron-to-street reverse.",
+        "Reverse appears under/inside the loading threshold whereas front facade views have a closed shutter."
+      ],
+      "legacy_sheet_status": "draft_needs_qa_and_clean_plates",
+      "legacy_filename": "LOC01-warehouse-exterior.png",
+      "current_batch_saved_output": true,
+      "dimensions": [
+        3840,
+        2160
+      ],
+      "generation_model": "gpt_image_2_6",
+      "production_approved": false,
+      "qa_status": "draft-corrections"
+    },
+    {
+      "id": "LOC02",
+      "name": "Resistance warehouse lounge",
+      "rooms": [
+        "TV wall",
+        "Couch and console area",
+        "Window side",
+        "Entry passage",
+        "Reverse wall"
+      ],
+      "scene_numbers": [
+        1,
+        2,
+        3,
+        24
+      ],
+      "status": "generated_review_required",
+      "filename": "Location Sheets GPT Image 2.6/LOC02-resistance-warehouse-lounge-gpt26-v001.png",
+      "remaining": [
+        "Useful improved hero/TV reference, still a review draft for reverse coverage. Preserve this result; no extra generation retry requested under the current batch budget.",
+        "Approve final geography and derive clean plates"
+      ],
+      "all_required_after_sheet": [
+        "Clean hero/reverse16:9plates",
+        "Separate directional/wall views",
+        "Fixed overhead plan and camera axis",
+        "Screen/sign overlays",
+        "Final continuity approval"
+      ],
+      "qa_notes": [
+        "Panel3 shows a high plain outside-style couch back rather than a clear seat/front view from the TV side. The top-down sofa geometry remains ambiguous about which edge is the open seat, despite putting the emblem on the southern edge.",
+        "South and west panels show substantially the same entry-wall arrangement. In a view facing south the opening on viewer-left reads southeast, while the plan fixes the opening at southwest on the west side."
+      ],
+      "legacy_sheet_status": "draft_needs_qa_and_clean_plates",
+      "legacy_filename": "LOC02-warehouse-lounge.png",
+      "current_batch_saved_output": true,
+      "dimensions": [
+        3840,
+        2160
+      ],
+      "production_approved": false,
+      "qa_status": "draft-corrections"
+    },
+    {
+      "id": "LOC03",
+      "name": "Hacking operations",
+      "rooms": [
+        "Five-position operations desk",
+        "Server rack ends",
+        "Central worktable",
+        "Open warehouse access"
+      ],
+      "scene_numbers": [
+        9,
+        17,
+        19
+      ],
+      "status": "generated_review_required",
+      "filename": "Location Sheets GPT Image 2.6/LOC03-hacking-operations-gpt26-v001.png",
+      "remaining": [
+        "Strong usable operations design. Main counts and anchors pass; plan-camera and reverse-label corrections remain. No regeneration retry requested.",
+        "Approve final geography and derive clean plates"
+      ],
+      "all_required_after_sheet": [
+        "Clean hero/reverse16:9plates",
+        "Separate directional/wall views",
+        "Fixed overhead plan and camera axis",
+        "Screen/sign overlays",
+        "Final continuity approval"
+      ],
+      "qa_notes": [
+        "Camera A is north of the worktable looking north, but hero includes that table in the foreground. That A position cannot produce the shown hero composition.",
+        "Second wide shows the fronts of the north-wall monitors while also presenting itself as the desk-to-south-warehouse reverse. It works as an oblique overview but is not a verified opposite-angle camera plate."
+      ],
+      "legacy_sheet_status": "draft_needs_qa_and_clean_plates",
+      "legacy_filename": "LOC03-hacking-operations.png",
+      "current_batch_saved_output": true,
+      "dimensions": [
+        3840,
+        2160
+      ],
+      "production_approved": false,
+      "qa_status": "draft-corrections"
+    },
+    {
+      "id": "LOC04",
+      "name": "Engineering workshop",
+      "rooms": [
+        "Workbench",
+        "Parts storage",
+        "Equipment locker",
+        "Operations passage"
+      ],
+      "scene_numbers": [
+        10
+      ],
+      "status": "generated_review_required",
+      "filename": "Location Sheets GPT Image 2.6/LOC04-engineering-workshop-gpt26-v001.png",
+      "remaining": [
+        "Usable workshop design reference. Preserve the successful fixed equipment layout. No regeneration retry requested.",
+        "Approve final geography and derive clean plates"
+      ],
+      "all_required_after_sheet": [
+        "Clean hero/reverse16:9plates",
+        "Separate directional/wall views",
+        "Fixed overhead plan and camera axis",
+        "Screen/sign overlays",
+        "Final continuity approval"
+      ],
+      "qa_notes": [
+        "Both south-opening and west-passage views show a similar operations area beyond the workshop; the local plan stops at the bay boundary and does not resolve their relationship to the warehouse-wide operations layout."
+      ],
+      "legacy_sheet_status": "missing_sheet",
+      "legacy_filename": "LOC04-engineering-workshop.png",
+      "current_batch_saved_output": true,
+      "dimensions": [
+        3840,
+        2160
+      ],
+      "production_approved": false,
+      "qa_status": "pass"
+    },
+    {
+      "id": "LOC05",
+      "name": "District 7 streets and alleys",
+      "rooms": [
+        "Main pedestrian street",
+        "East side alley",
+        "Shopfronts",
+        "Utility/fire-escape edge"
+      ],
+      "scene_numbers": [
+        4,
+        8,
+        18
+      ],
+      "status": "generated_review_required",
+      "filename": "Location Sheets GPT Image 2.6/LOC05-district-7-streets-and-alleys-gpt26-v001.png",
+      "remaining": [
+        "Useful empty District7 street design and textures. Alley/store corner and camera annotations remain drafts. No regeneration retry requested.",
+        "Approve final geography and derive clean plates"
+      ],
+      "all_required_after_sheet": [
+        "Clean hero/reverse16:9plates",
+        "Separate directional/wall views",
+        "Fixed overhead plan and camera axis",
+        "Screen/sign overlays",
+        "Final continuity approval"
+      ],
+      "qa_notes": [
+        "Plan camera markers and legend all point north, including B at the north end. The legend says C SOUTH but still shows an upward/N arrow. The north-approach image is another north-looking view, while the reverse view flips storefront/tree sides. Labels and bearings cannot currently define a reliable reverse setup.",
+        "The plan places 7-Catleven south of the east alley, but the east-looking alley view shows its frontage on the left/north side. The alley-mouth reverse also places the store across/right rather than presenting the expected corner relationship from the mapped alley."
+      ],
+      "legacy_sheet_status": "missing_sheet",
+      "legacy_filename": "LOC05-district7-streets-alleys.png",
+      "current_batch_saved_output": true,
+      "dimensions": [
+        3840,
+        2160
+      ],
+      "production_approved": false,
+      "qa_status": "draft-corrections"
+    },
+    {
+      "id": "LOC06",
+      "name": "7-Catleven exterior",
+      "rooms": [
+        "South storefront",
+        "Side alley",
+        "Rear service wall",
+        "Sidewalk and entry"
+      ],
+      "scene_numbers": [
+        4
+      ],
+      "status": "generated_review_required",
+      "filename": "Location Sheets GPT Image 2.6/LOC06-7-catleven-exterior-gpt26-v001.png",
+      "remaining": [
+        "Usable exterior design with strong repeated facade identity. Resolve cross-set street mapping as an annotation, without an automatic image retry.",
+        "Approve final geography and derive clean plates"
+      ],
+      "all_required_after_sheet": [
+        "Clean hero/reverse16:9plates",
+        "Separate directional/wall views",
+        "Fixed overhead plan and camera axis",
+        "Screen/sign overlays",
+        "Final continuity approval"
+      ],
+      "qa_notes": [
+        "The LOC06 local map correctly makes the storefront south-facing with an east-side alley. LOC05 instead embeds the shop facing west on its north-south street. Interior glimpses and the decorative cutaway should also not supersede LOC07 interior blocking."
+      ],
+      "legacy_sheet_status": "missing_sheet",
+      "legacy_filename": "LOC06-7-catleven-exterior.png",
+      "current_batch_saved_output": true,
+      "dimensions": [
+        3840,
+        2160
+      ],
+      "production_approved": false,
+      "qa_status": "pass"
+    },
+    {
+      "id": "LOC07",
+      "name": "7-Catleven interior and freezer",
+      "rooms": [
+        "West freezer bank",
+        "East cashier counter",
+        "Two snack aisles",
+        "Rear service door",
+        "South entry"
+      ],
+      "scene_numbers": [
+        5
+      ],
+      "status": "generated_review_required",
+      "filename": "Location Sheets GPT Image 2.6/LOC07-7-catleven-interior-and-freezer-gpt26-v001.png",
+      "remaining": [
+        "Usable and clear store interior reference. Essential two-pack shortage story content is present. Correct camera annotation and lock small prop/window details when making scene plates; no retry requested.",
+        "Approve final geography and derive clean plates"
+      ],
+      "all_required_after_sheet": [
+        "Clean hero/reverse16:9plates",
+        "Separate directional/wall views",
+        "Fixed overhead plan and camera axis",
+        "Screen/sign overlays",
+        "Final continuity approval"
+      ],
+      "qa_notes": [
+        "Camera C at the north/rear end points north although the rear-to-entrance coverage looks south.",
+        "The salmon pair and notice appear in the same near-front freezer bay in the hero but adjacent bays in the straight freezer view. Interior entrance views also retain the exterior-style pink cat neon on viewer-right, whereas the same east-side window would appear viewer-left when looking south from inside."
+      ],
+      "legacy_sheet_status": "missing_sheet",
+      "legacy_filename": "LOC07-7-catleven-freezer-interior.png",
+      "current_batch_saved_output": true,
+      "dimensions": [
+        3840,
+        2160
+      ],
+      "production_approved": false,
+      "qa_status": "pass"
+    },
+    {
+      "id": "LOC08",
+      "name": "District 7 market",
+      "rooms": [
+        "Market square",
+        "Fish stalls",
+        "Public billboard",
+        "Truck delivery stopping area"
+      ],
+      "scene_numbers": [
+        6,
+        18,
+        23
+      ],
+      "status": "generated_review_required",
+      "filename": "Location Sheets GPT Image 2.6/LOC08-district-7-market-gpt26-v001.png",
+      "remaining": [
+        "Strong usable hero, reverse, plan and material references; preserve this market identity. Directional east coverage remains draft and south label needs correction. No automatic retry requested.",
+        "Approve final geography and derive clean plates"
+      ],
+      "all_required_after_sheet": [
+        "Clean hero/reverse16:9plates",
+        "Separate directional/wall views",
+        "Fixed overhead plan and camera axis",
+        "Screen/sign overlays",
+        "Final continuity approval"
+      ],
+      "qa_notes": [
+        "The panel labeled from east looking west repeats a hero-like view with lantern stalls on the left and the tower vista ahead. A true west-looking view should put the north stalls on the right and reveal the west plaza, as the successful REVERSE WIDE does. The east stair is present but this panel does not establish trustworthy street orientation.",
+        "The panel labeled from south looking north shows the south shuttered shop row and its billboard. It is a south-wall elevation viewed from the north, rather than the stated camera-side convention."
+      ],
+      "legacy_sheet_status": "draft_needs_qa_and_clean_plates",
+      "legacy_filename": "LOC08-district7-market.png",
+      "current_batch_saved_output": true,
+      "dimensions": [
+        3840,
+        2160
+      ],
+      "production_approved": false,
+      "qa_status": "draft-corrections"
+    },
+    {
+      "id": "LOC09",
+      "name": "District 7 rally stage and plaza",
+      "rooms": [
+        "Temporary raised stage",
+        "Crowd plaza",
+        "Access lanes",
+        "Projection backdrop"
+      ],
+      "scene_numbers": [
+        7
+      ],
+      "status": "generated_review_required",
+      "filename": "Location Sheets GPT Image 2.6/LOC09-district-7-rally-stage-and-plaza-gpt26-v001.png",
+      "remaining": [
+        "Usable rally stage design and plaza hero. Rooftop and market-connection coverage are drafts, not geographically verified scene plates. No regeneration retry requested.",
+        "Approve final geography and derive clean plates"
+      ],
+      "all_required_after_sheet": [
+        "Clean hero/reverse16:9plates",
+        "Separate directional/wall views",
+        "Fixed overhead plan and camera axis",
+        "Screen/sign overlays",
+        "Final continuity approval"
+      ],
+      "qa_notes": [
+        "The rooftop view faces north toward the stage with the tree on the left. It therefore reads as a south-side rooftop, not camera B on the north building looking south; from B the stage building could not appear across the plaza.",
+        "The market connection view puts the red-lantern stalls on the right while looking down the market toward the towers. For the established east-looking market axis, the north lantern row should be left. The plaza plan depicts the lantern edge along its east boundary without clearly showing the east-west street continuation.",
+        "SOUTH is a tight shuttered-shop elevation rather than the requested stage POV across the audience space with west steps. Cardinal labels generally describe facade/content rather than the final camera-side convention."
+      ],
+      "legacy_sheet_status": "draft_needs_qa_and_clean_plates",
+      "legacy_filename": "LOC09-rally-stage-plaza.png",
+      "current_batch_saved_output": true,
+      "dimensions": [
+        3840,
+        2160
+      ],
+      "production_approved": false,
+      "qa_status": "draft-corrections"
+    },
+    {
+      "id": "LOC10",
+      "name": "Steak & Bone exterior and security",
+      "rooms": [
+        "Main entrance",
+        "Guard positions",
+        "Service entry",
+        "Service alley",
+        "Restaurant surveillance roof"
+      ],
+      "scene_numbers": [
+        11,
+        12,
+        16
+      ],
+      "status": "generated_review_required",
+      "filename": "Location Sheets GPT Image 2.6/LOC10-steak-bone-exterior-and-security-gpt26-v001.png",
+      "remaining": [
+        "Strong usable restaurant exterior and security fixture reference; rooftop surveillance geography remains draft. Preserve successful facade and material design. No regeneration retry requested.",
+        "Approve final geography and derive clean plates"
+      ],
+      "all_required_after_sheet": [
+        "Clean hero/reverse16:9plates",
+        "Separate directional/wall views",
+        "Fixed overhead plan and camera axis",
+        "Screen/sign overlays",
+        "Final continuity approval"
+      ],
+      "qa_notes": [
+        "The reverse shows the restaurant facade across a street from a foreground rooftop railing. That is an opposite-building surveillance perch, not the mapped camera B on the restaurant northwest roof; the restaurant cannot see its own whole south facade across the lane from that position.",
+        "The overhead is primarily a roof plan. The north service-door footprint and guard/scanner pedestrian route are not clearly marked even though their views are present."
+      ],
+      "legacy_sheet_status": "draft_needs_qa_and_clean_plates",
+      "legacy_filename": "LOC10-steak-bone-exterior-security.png",
+      "current_batch_saved_output": true,
+      "dimensions": [
+        3840,
+        2160
+      ],
+      "production_approved": false,
+      "qa_status": "draft-corrections"
+    },
+    {
+      "id": "LOC11",
+      "name": "Steak & Bone service corridors",
+      "rooms": [
+        "Service entry corridor",
+        "Dining access turn",
+        "Robot patrol route",
+        "Service exit"
+      ],
+      "scene_numbers": [
+        13,
+        16
+      ],
+      "status": "generated_review_required",
+      "filename": "Location Sheets GPT Image 2.6/LOC11-steak-bone-service-corridors-gpt26-v001.png",
+      "remaining": [
+        "Retain material and prop design; rebuild hero and reverse from the L-shaped plan and lock all door/alcove positions before camera blocking.",
+        "Approve final geography and derive clean plates"
+      ],
+      "all_required_after_sheet": [
+        "Clean hero/reverse16:9plates",
+        "Separate directional/wall views",
+        "Fixed overhead plan and camera axis",
+        "Screen/sign overlays",
+        "Final continuity approval"
+      ],
+      "qa_notes": [
+        "Both wides read as a straight corridor with opposite end doors. The plan depicts an L-shaped corridor; the reverse from its northern dining door could not see the west exterior exit directly as rendered.",
+        "Hero places the exterior double exit on the same side wall as the kitchen door/hatch, while the plan and WEST elevation place it at the west end. Burgundy dining door appears at the far east end in the hero rather than around the northward turn.",
+        "The trolley alcove appears near the kitchen-side wall in the hero, while its intended position is the south wall as shown by the SOUTH panel and plan."
+      ],
+      "legacy_sheet_status": "draft_needs_qa_and_clean_plates",
+      "legacy_filename": "LOC11-steak-bone-service-corridors.png",
+      "current_batch_saved_output": true,
+      "dimensions": [
+        3840,
+        2160
+      ],
+      "production_approved": false,
+      "qa_status": "draft_requires_geometry_correction"
+    },
+    {
+      "id": "LOC12",
+      "name": "Steak & Bone private dining room",
+      "rooms": [
+        "Private dining table",
+        "Window/view wall",
+        "Service door",
+        "Hidden surveillance angle"
+      ],
+      "scene_numbers": [
+        14,
+        15
+      ],
+      "status": "generated_review_required",
+      "filename": "Location Sheets GPT Image 2.6/LOC12-steak-bone-private-dining-room-gpt26-v001.png",
+      "remaining": [
+        "Keep the strong luxury material design; lock southwest service door and table/booth axis consistently across plan, south elevation and wides before shooting.",
+        "Approve final geography and derive clean plates"
+      ],
+      "all_required_after_sheet": [
+        "Clean hero/reverse16:9plates",
+        "Separate directional/wall views",
+        "Fixed overhead plan and camera axis",
+        "Screen/sign overlays",
+        "Final continuity approval"
+      ],
+      "qa_notes": [
+        "Plan places the service door at the southwest corner, but SOUTH and REVERSE WIDE show it at screen-left beside the east window wall: the southeast corner.",
+        "Plan places the long table east-west with opposing seats north/south. Hero and reverse instead show the long table running toward the north/south walls, with seats west/east. Table and booth orientation do not match the plan.",
+        "Door has no narrow frosted-glass strip, unlike the adjoining LOC11 burgundy service-door design; cross-set doorway continuity needs reconciliation."
+      ],
+      "legacy_sheet_status": "draft_needs_qa_and_clean_plates",
+      "legacy_filename": "LOC12-steak-bone-private-dining.png",
+      "current_batch_saved_output": true,
+      "dimensions": [
+        3840,
+        2160
+      ],
+      "production_approved": false,
+      "qa_status": "draft_requires_geometry_correction"
+    },
+    {
+      "id": "LOC13",
+      "name": "WOOF7 news studio",
+      "rooms": [
+        "Anchor desk",
+        "Broadcast backdrop",
+        "Camera lane",
+        "Control/screen graphics area"
+      ],
+      "scene_numbers": [
+        2,
+        3
+      ],
+      "status": "generated_review_required",
+      "filename": "Location Sheets GPT Image 2.6/LOC13-woof7-news-studio-gpt26-v001.png",
+      "remaining": [
+        "Strong studio design; resolve south exit location, then verify west newsroom-door position against the plan at production blocking stage.",
+        "Approve final geography and derive clean plates"
+      ],
+      "all_required_after_sheet": [
+        "Clean hero/reverse16:9plates",
+        "Separate directional/wall views",
+        "Fixed overhead plan and camera axis",
+        "Screen/sign overlays",
+        "Final continuity approval"
+      ],
+      "qa_notes": [
+        "Plan and brief put the rear exit at southwest. SOUTH and REVERSE WIDE show that exit at screen-left beside the east control-booth wall, which is southeast. Move the exit consistently to the west side or deliberately revise the plan.",
+        "Screen brief is internally mixed: design section permits quiet WOOF7/blue graphics, while final instruction says keep screens blank. Image follows the graphic version; confirm graphics policy before using as a clean compositing plate."
+      ],
+      "legacy_sheet_status": "draft_needs_qa_and_clean_plates",
+      "legacy_filename": "LOC13-woof7-news-studio.png",
+      "current_batch_saved_output": true,
+      "dimensions": [
+        3840,
+        2160
+      ],
+      "production_approved": false,
+      "qa_status": "draft_requires_door_continuity_correction"
+    },
+    {
+      "id": "LOC14",
+      "name": "NIP7 investigative newsroom",
+      "rooms": [
+        "Presenter desk",
+        "Evidence display",
+        "Newsroom backdrop",
+        "Camera lane"
+      ],
+      "scene_numbers": [
+        17,
+        23
+      ],
+      "status": "generated_review_required",
+      "filename": "Location Sheets GPT Image 2.6/LOC14-nip7-investigative-newsroom-gpt26-v001.png",
+      "remaining": [
+        "Keep design and desk arrangement. Align the single exit wall/corner across plan, SOUTH and reverse before scene blocking.",
+        "Approve final geography and derive clean plates"
+      ],
+      "all_required_after_sheet": [
+        "Clean hero/reverse16:9plates",
+        "Separate directional/wall views",
+        "Fixed overhead plan and camera axis",
+        "Screen/sign overlays",
+        "Final continuity approval"
+      ],
+      "qa_notes": [
+        "Exit location does not agree: brief specifies south wall near southwest; plan appears to put it on the west wall near southwest; SOUTH and REVERSE WIDE place it on the left/east end of the south wall, adjacent to the control-room side."
+      ],
+      "legacy_sheet_status": "draft_needs_qa_and_clean_plates",
+      "legacy_filename": "LOC14-nip7-news-studio.png",
+      "current_batch_saved_output": true,
+      "dimensions": [
+        3840,
+        2160
+      ],
+      "production_approved": false,
+      "qa_status": "draft_requires_exit_location_correction"
+    },
+    {
+      "id": "LOC15",
+      "name": "Salmon facility exterior and loading",
+      "rooms": [
+        "Guarded vehicle gate",
+        "Four loading bays",
+        "Staff/service door",
+        "Cold utility enclosure",
+        "Loading yard"
+      ],
+      "scene_numbers": [
+        20,
+        22
+      ],
+      "status": "generated_review_required",
+      "filename": "Location Sheets GPT Image 2.6/LOC15-salmon-facility-exterior-and-loading-gpt26-v001.png",
+      "remaining": [
+        "Retain industrial design and dock assignment; correct booth side and plan/view labels before production blocking.",
+        "Approve final geography and derive clean plates"
+      ],
+      "all_required_after_sheet": [
+        "Clean hero/reverse16:9plates",
+        "Separate directional/wall views",
+        "Fixed overhead plan and camera axis",
+        "Screen/sign overlays",
+        "Final continuity approval"
+      ],
+      "qa_notes": [
+        "Guard booth is east/right of south gate in the north-up plan, but right of the gate in the south-facing SOUTH and reverse renders, placing it west in those views. This violates the explicit no-mirroring requirement.",
+        "Directional labels disagree with rendered views and the specified exterior convention. NORTH shows the north facade viewed from south; SOUTH says looking north but depicts the south gate from inside looking south.",
+        "Plan camera B is drawn near the southeast portion of the yard rather than the requested northeast reverse position. Camera icons lack clearly readable look arrows; verify against the reverse plate.",
+        "Extra Kitty Punk 2077 wordmark appears in the header despite title/short-label-only instruction."
+      ],
+      "legacy_sheet_status": "draft_needs_qa_and_clean_plates",
+      "legacy_filename": "LOC15-salmon-facility-exterior-loading.png",
+      "current_batch_saved_output": true,
+      "dimensions": [
+        3840,
+        2160
+      ],
+      "production_approved": false,
+      "qa_status": "draft_requires_gate_and_camera_corrections"
+    },
+    {
+      "id": "LOC16",
+      "name": "Salmon cold store and processing hall",
+      "rooms": [
+        "Processing conveyors",
+        "Cold A and Cold B rooms",
+        "Mezzanine access stair",
+        "West wash/mechanical wall",
+        "Loading shutter"
+      ],
+      "scene_numbers": [
+        21
+      ],
+      "status": "generated_review_required",
+      "filename": "Location Sheets GPT Image 2.6/LOC16-salmon-cold-store-and-processing-hall-gpt26-v001.png",
+      "remaining": [
+        "Stockpile reveal is successful. Lock personnel door and arm positions, correct A arrow, and choose whether reverse remains a south-facing architecture plate.",
+        "Approve final geography and derive clean plates"
+      ],
+      "all_required_after_sheet": [
+        "Clean hero/reverse16:9plates",
+        "Separate directional/wall views",
+        "Fixed overhead plan and camera axis",
+        "Screen/sign overlays",
+        "Final continuity approval"
+      ],
+      "qa_notes": [
+        "Personnel door is southwest in plan but appears left of the shutter in SOUTH/reverse views, placing it southeast.",
+        "Yellow arms are near the north/cold-door ends of the conveyors in HERO, but near the south/shutter ends in REVERSE. Their mounting positions move between views.",
+        "Camera A's triangular pointer appears to point southwest out of the room, opposite the hero's required northeast look direction; use an explicit arrow.",
+        "Final brief asks BOTH hero and reverse to reveal north cold-room stockpiles, while the defined reverse camera looks south at the loading shutter. The image reveals stock in the hero only; resolve this incompatible requirement before requesting correction."
+      ],
+      "legacy_sheet_status": "draft_needs_qa_and_clean_plates",
+      "legacy_filename": "LOC16-salmon-cold-store-processing.png",
+      "current_batch_saved_output": true,
+      "dimensions": [
+        3840,
+        2160
+      ],
+      "production_approved": false,
+      "qa_status": "draft_requires_continuity_correction"
+    },
+    {
+      "id": "LOC17",
+      "name": "Salmon routing control room",
+      "rooms": [
+        "East mezzanine control room",
+        "West observation glass",
+        "Routing desks",
+        "Server rack wall",
+        "Separate cooling control"
+      ],
+      "scene_numbers": [
+        21,
+        22
+      ],
+      "status": "generated_review_required",
+      "filename": "Location Sheets GPT Image 2.6/LOC17-salmon-routing-control-room-gpt26-v001.png",
+      "remaining": [
+        "Keep functional control design and cooling/dispatch separation. Reconcile southwest door and northeast shelf across all views before filming.",
+        "Approve final geography and derive clean plates"
+      ],
+      "all_required_after_sheet": [
+        "Clean hero/reverse16:9plates",
+        "Separate directional/wall views",
+        "Fixed overhead plan and camera axis",
+        "Screen/sign overlays",
+        "Final continuity approval"
+      ],
+      "qa_notes": [
+        "Single entry door moves: plan specifies south wall at southwest; HERO places it along the west glass wall; SOUTH and REVERSE show it on the east/left side of the south wall, away from the west-glass corner.",
+        "Document shelf is northeast in plan but on the right/south end of the EAST elevation, so its corner is mirrored.",
+        "Extra Kitty Punk 2077 header wordmark beyond requested title and short labels."
+      ],
+      "legacy_sheet_status": "draft_needs_qa_and_clean_plates",
+      "legacy_filename": "LOC17-salmon-routing-control-room.png",
+      "current_batch_saved_output": true,
+      "dimensions": [
+        3840,
+        2160
+      ],
+      "production_approved": false,
+      "qa_status": "draft_requires_door_and_shelf_continuity_correction"
+    },
+    {
+      "id": "LOC18",
+      "name": "Catnip Times pressroom",
+      "rooms": [
+        "Editorial desk",
+        "Rotary press",
+        "Paper/ink storage",
+        "Freight loading door"
+      ],
+      "scene_numbers": [
+        17
+      ],
+      "status": "generated_review_required",
+      "filename": "Location Sheets GPT Image 2.6/LOC18-catnip-times-pressroom-gpt26-v001.png",
+      "remaining": [
+        "Core pressroom geography is useful. Correct cupboard and trolley sides; use a clean newspaper overlay for close-up inserts.",
+        "Approve final geography and derive clean plates"
+      ],
+      "all_required_after_sheet": [
+        "Clean hero/reverse16:9plates",
+        "Separate directional/wall views",
+        "Fixed overhead plan and camera axis",
+        "Screen/sign overlays",
+        "Final continuity approval"
+      ],
+      "qa_notes": [
+        "Store cupboard is northeast in the plan, but EAST elevation shows its door at the screen-right/south end of the east wall. Fix this mirrored corner.",
+        "Trolley is on the east/right side of south freight doors in plan, but on screen-right/west in the south-facing SOUTH elevation.",
+        "Newspaper prop contains simulated dense article lines/tiny lettering below masthead rather than clean blank column blocks; replace with exact typography during prop finishing."
+      ],
+      "legacy_sheet_status": "draft_needs_qa_and_clean_plates",
+      "legacy_filename": "LOC18-catnip-times-pressroom.png",
+      "current_batch_saved_output": true,
+      "dimensions": [
+        3840,
+        2160
+      ],
+      "production_approved": false,
+      "qa_status": "draft_requires_cupboard_and_prop_correction"
+    },
+    {
+      "id": "LOC19",
+      "name": "Game world: Great Dog National Bank",
+      "rooms": [
+        "Bank facade and steps",
+        "Game street/plaza",
+        "Opposite storefront",
+        "Open east/west street exits"
+      ],
+      "scene_numbers": [
+        1,
+        24
+      ],
+      "status": "generated_review_required",
+      "filename": "Location Sheets GPT Image 2.6/LOC19-game-world-great-dog-national-bank-gpt26-v001.png",
+      "remaining": [
+        "Useful coherent empty game set. Correct B position/arrow and swap north/south captions before treating plan as camera guide.",
+        "Approve final geography and derive clean plates"
+      ],
+      "all_required_after_sheet": [
+        "Clean hero/reverse16:9plates",
+        "Separate directional/wall views",
+        "Fixed overhead plan and camera axis",
+        "Screen/sign overlays",
+        "Final continuity approval"
+      ],
+      "qa_notes": [
+        "Plan B is at the south side and points north toward the bank. Actual reverse is from north/bank steps looking south. Move B to bank steps and reverse its arrow.",
+        "NORTH/SOUTH panel labels use target-wall naming instead of specified exterior camera-side convention. NORTH shows bank from south; SOUTH shows storefront from north. East/west side labels are consistent."
+      ],
+      "legacy_sheet_status": "draft_needs_qa_and_clean_plates",
+      "legacy_filename": "LOC19-game-great-dog-national-bank.png",
+      "current_batch_saved_output": true,
+      "dimensions": [
+        3840,
+        2160
+      ],
+      "production_approved": false,
+      "qa_status": "draft_requires_plan_and_direction_labels"
+    },
+    {
+      "id": "LOC20",
+      "name": "District 7 market rooftop overlook",
+      "rooms": [
+        "Low roof above market",
+        "North market parapet",
+        "Southwest access hut",
+        "HVAC and rail edges"
+      ],
+      "scene_numbers": [
+        23
+      ],
+      "status": "generated_review_required",
+      "filename": "Location Sheets GPT Image 2.6/LOC20-district-7-market-rooftop-overlook-gpt26-v001.png",
+      "remaining": [
+        "Use plan as provisional roof master, rebuild the named elevations and hero/reverse from it, and explicitly match the same LOC08 stall/billboard/stair geometry before scene 23.",
+        "Approve final geography and derive clean plates"
+      ],
+      "all_required_after_sheet": [
+        "Clean hero/reverse16:9plates",
+        "Separate directional/wall views",
+        "Fixed overhead plan and camera axis",
+        "Screen/sign overlays",
+        "Final continuity approval"
+      ],
+      "qa_notes": [
+        "Hut moves to screen-left/northwest in SOUTH view looking north, although plan fixes it northeast. EAST view largely repeats a north-facing hut view instead of looking west from the east edge.",
+        "HERO shows lantern fish stalls across the street from the roof. Plan and SOUTH elevation place those stalls directly beneath this north-row roof. The hero therefore reverses the market-side relationship; the opposite south-row shuttered shops and fixed billboard are not established.",
+        "REVERSE looking northeast puts pipe railing and cable spool at foreground left, although plan fixes them east/right. WEST view also relocates hut/HVAC relative to the north/east corners.",
+        "No clear matching view of LOC08's western street mouth/rally connection or opposite billboard. Market cross-set geography cannot yet be approved from this sheet."
+      ],
+      "legacy_sheet_status": "draft_needs_qa_and_clean_plates",
+      "legacy_filename": "LOC20-district7-rooftop-overlook.png",
+      "current_batch_saved_output": true,
+      "dimensions": [
+        3840,
+        2160
+      ],
+      "production_approved": false,
+      "qa_status": "draft_requires_roof_and_market_geography_correction"
+    }
+  ],
+  "characters": [
+    {
+      "id": "CHAR_TRIXIE",
+      "name": "Trixie / CatGirl",
+      "priority": "P0",
+      "species": "White long-haired cat",
+      "status": "generated_master_visually_checked_review_draft",
+      "required_deliverable_types": [
+        "identity_master",
+        "front",
+        "side",
+        "back",
+        "expressions",
+        "paws",
+        "gear"
+      ],
+      "notes": "Same established white long-haired blue-eyed leader formerly labelled Catman. Female,19. Preserve face,scar side,silhouette,fur and costume; current 4K CREW01 master saved; final production approval remains pending.",
+      "phase2_master_id": "CREW01",
+      "phase2_master_file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Phase 2\\Character Masters\\CREW01-trixie-character-master-gpt26-v001.png"
+    },
+    {
+      "id": "CHAR_BYTE",
+      "name": "Byte",
+      "priority": "P0",
+      "species": "Orange tabby cat",
+      "status": "generated_master_visually_checked_review_draft",
+      "required_deliverable_types": [
+        "identity_master",
+        "front",
+        "side",
+        "back",
+        "expressions",
+        "paws",
+        "gear"
+      ],
+      "notes": "Orange tabby cat; Round black sunglasses, white muzzle, orange tabby striping; Orange-and-black tech jacket; gold/orange paw-print headphones around neck; tac boots",
+      "phase2_master_id": "CREW02",
+      "phase2_master_file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Phase 2\\Character Masters\\CREW02-byte-character-master-gpt26-v001.png"
+    },
+    {
+      "id": "CHAR_GHOST",
+      "name": "Ghost",
+      "priority": "P0",
+      "species": "Grey tabby cat",
+      "status": "generated_master_visually_checked_review_draft",
+      "required_deliverable_types": [
+        "identity_master",
+        "front",
+        "side",
+        "back",
+        "expressions",
+        "paws",
+        "gear"
+      ],
+      "notes": "Grey tabby cat; Green AR visor, dark hood, pale muzzle and striped tail; Dark stealth suit with green light accents",
+      "phase2_master_id": "CREW03",
+      "phase2_master_file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Phase 2\\Character Masters\\CREW03-ghost-character-master-gpt26-v001.png"
+    },
+    {
+      "id": "CHAR_ONYX",
+      "name": "Onyx",
+      "priority": "P0",
+      "species": "Black cat",
+      "status": "generated_master_visually_checked_review_draft",
+      "required_deliverable_types": [
+        "identity_master",
+        "front",
+        "side",
+        "back",
+        "expressions",
+        "paws",
+        "gear"
+      ],
+      "notes": "Black cat; Yellow-gold; Black fur and magenta paw headphones; Hooded black protective outfit and magenta accents",
+      "phase2_master_id": "CREW04",
+      "phase2_master_file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Phase 2\\Character Masters\\CREW04-onyx-character-master-gpt26-v001.png"
+    },
+    {
+      "id": "CHAR_NEON",
+      "name": "Neon",
+      "priority": "P0",
+      "species": "Grey tabby cat",
+      "status": "generated_master_visually_checked_review_draft",
+      "required_deliverable_types": [
+        "identity_master",
+        "front",
+        "side",
+        "back",
+        "expressions",
+        "paws",
+        "gear"
+      ],
+      "notes": "Grey tabby cat; Blue/cyan visor, patterned blue scarf, white muzzle, striped tail; Blue-accented engineer equipment and tool rig",
+      "phase2_master_id": "CREW05",
+      "phase2_master_file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Phase 2\\Character Masters\\CREW05-neon-character-master-gpt26-v001.png"
+    },
+    {
+      "id": "CHAR_CHAIRMAN_BARKINGTON",
+      "name": "Chairman Barkington",
+      "priority": "P0",
+      "species": "Doberman Pinscher",
+      "status": "generated_master_visually_checked_review_draft",
+      "required_deliverable_types": [
+        "identity_master",
+        "front",
+        "side",
+        "back",
+        "expressions",
+        "paws",
+        "gear"
+      ],
+      "notes": "Doberman Pinscher; Black-and-tan, upright ears, long canine muzzle, purple reflective sunglasses; Black gold-trim suit, deep red tie, grey fur collar, black cape with red lining, gold watch/ring; cigar scene-dependent",
+      "phase2_master_id": "CHAR06",
+      "phase2_master_file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Phase 2\\Character Masters\\CHAR06-barkington-character-master-gpt26-v002.png"
+    },
+    {
+      "id": "CHAR_GENERAL_FETCH",
+      "name": "General Fetch",
+      "priority": "P1",
+      "species": "Rottweiler",
+      "status": "existing_usable_multiview_sheet_review_required",
+      "required_deliverable_types": [
+        "identity_master",
+        "front",
+        "side",
+        "back",
+        "expressions",
+        "paws",
+        "gear"
+      ],
+      "notes": "Rottweiler; Black-and-tan, broad square muzzle, folded ears, visible cheek scar; Black tactical armor with gold trim, Goodboy shoulder crest, utility belt, combat boots",
+      "sheet_evidence": "Phase 2/dog-sheet-audit.json"
+    },
+    {
+      "id": "CHAR_DR_MUZZLE",
+      "name": "Dr Muzzle",
+      "priority": "P1",
+      "species": "Siberian Husky",
+      "status": "existing_usable_multiview_sheet_review_required",
+      "required_deliverable_types": [
+        "identity_master",
+        "front",
+        "side",
+        "back",
+        "expressions",
+        "paws",
+        "gear"
+      ],
+      "notes": "Siberian Husky; Bright blue, visible without glasses; Black/grey-and-white fur, upright ears, permanent custom cyberpunk muzzle covering lower snout with cyan vents and magenta circular modules; White lab coat with gold trim, dark underlayer, cyan equipment accents",
+      "sheet_evidence": "Phase 2/dog-sheet-audit.json"
+    },
+    {
+      "id": "CHAR_VIPER",
+      "name": "Viper",
+      "priority": "P1",
+      "species": "German Shepherd",
+      "status": "generated_master_visually_checked_review_draft",
+      "required_deliverable_types": [
+        "identity_master",
+        "front",
+        "side",
+        "back",
+        "expressions",
+        "paws",
+        "gear"
+      ],
+      "notes": "German Shepherd; Tan and black coat, upright ears, long muzzle; Black corporate uniform/coat with gold trim",
+      "phase2_master_id": "DOG01",
+      "phase2_master_file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Phase 2\\Dog Masters\\DOG01-viper-character-master-gpt26-v001.png"
+    },
+    {
+      "id": "CHAR_FROST",
+      "name": "Frost",
+      "priority": "P1",
+      "species": "American Pit Bull",
+      "status": "generated_master_visually_checked_review_draft",
+      "required_deliverable_types": [
+        "identity_master",
+        "front",
+        "side",
+        "back",
+        "expressions",
+        "paws",
+        "gear"
+      ],
+      "notes": "American Pit Bull; Grey coat, broad muzzle, short ears; Dark gold-trim suit and white shirt with dark tie",
+      "phase2_master_id": "DOG02",
+      "phase2_master_file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Phase 2\\Dog Masters\\DOG02-frost-character-master-gpt26-v001.png"
+    },
+    {
+      "id": "CHAR_STONE",
+      "name": "Stone",
+      "priority": "P1",
+      "species": "English Bulldog",
+      "status": "generated_master_visually_checked_review_draft",
+      "required_deliverable_types": [
+        "identity_master",
+        "front",
+        "side",
+        "back",
+        "expressions",
+        "paws",
+        "gear"
+      ],
+      "notes": "English Bulldog; Stocky, wrinkled tan-and-white face, folded ears, heavy jowls; Dark gold-trim suit, white shirt and gold tie",
+      "phase2_master_id": "DOG03",
+      "phase2_master_file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Phase 2\\Dog Masters\\DOG03-stone-character-master-gpt26-v001.png"
+    },
+    {
+      "id": "CHAR_VELVET",
+      "name": "Velvet",
+      "priority": "P1",
+      "species": "Afghan Hound",
+      "status": "generated_master_visually_checked_review_draft",
+      "required_deliverable_types": [
+        "identity_master",
+        "front",
+        "side",
+        "back",
+        "expressions",
+        "paws",
+        "gear"
+      ],
+      "notes": "Afghan Hound; Long silky golden coat, narrow muzzle, dark sunglasses; Black gold-trim corporate suit; group scene shows red tie/accent",
+      "phase2_master_id": "DOG04",
+      "phase2_master_file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Phase 2\\Dog Masters\\DOG04-velvet-character-master-gpt26-v001.png"
+    },
+    {
+      "id": "CHAR_DOMINO",
+      "name": "Domino",
+      "priority": "P1",
+      "species": "Dalmatian",
+      "status": "generated_master_visually_checked_review_draft",
+      "required_deliverable_types": [
+        "identity_master",
+        "front",
+        "side",
+        "back",
+        "expressions",
+        "paws",
+        "gear"
+      ],
+      "notes": "Dalmatian; White coat with distinct black spots; floppy ears; Black gold-trim corporate/military suit",
+      "phase2_master_id": "DOG05",
+      "phase2_master_file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Phase 2\\Dog Masters\\DOG05-domino-character-master-gpt26-v001.png"
+    },
+    {
+      "id": "CHAR_WOOF7_ANCHOR",
+      "name": "WOOF7 Anchor",
+      "priority": "P0",
+      "species": "Shiba Inu dog",
+      "status": "prompts_exist_reference_masters_not_final",
+      "required_deliverable_types": [
+        "identity_master",
+        "front",
+        "side",
+        "back",
+        "expressions",
+        "paws",
+        "gear"
+      ],
+      "notes": "Orange-tan Shiba Inu with cream muzzle/cheeks and upright ears; rectangular black eyeglasses; dark pinstripe suit, white shirt, deep red tie, small gold paw lapel pin. Match the left seated Shiba in restaurant reference, not the right Doberman or inset altered Shiba. Canine paws."
+    },
+    {
+      "id": "CHAR_NIP7_ANCHOR",
+      "name": "NIP7 Anchor",
+      "priority": "P0",
+      "species": "Hairless Sphynx cat",
+      "status": "prompts_exist_reference_masters_not_final",
+      "required_deliverable_types": [
+        "identity_master",
+        "front",
+        "side",
+        "back",
+        "expressions",
+        "paws",
+        "gear"
+      ],
+      "notes": "Pink hairless Sphynx with prominent forehead wrinkles, very large upright ears, gold/olive eyes as depicted, black rectangular eyeglasses and coiled earpiece; navy pinstripe suit, white shirt, burgundy tie and small paw pin. Match the main newscaster only, never the dogs in the inset."
+    },
+    {
+      "id": "CHAR_SEVEN_CATLEVEN_CLERK",
+      "name": "Seven Catleven Clerk",
+      "priority": "P0",
+      "species": "Tabby-and-white cat",
+      "status": "prompts_exist_reference_masters_not_final",
+      "required_deliverable_types": [
+        "identity_master",
+        "front",
+        "side",
+        "back",
+        "expressions",
+        "paws",
+        "gear"
+      ],
+      "notes": "Small tabby-and-white shop cat with white muzzle/chest, dark striped forehead, black shop cap, orange collar/shirt and dark green apron. Match cashier behind counter in store image; do not borrow the five crew costumes. Paw hands."
+    },
+    {
+      "id": "CHAR_DOG_GUARD_A",
+      "name": "Dog Guard A",
+      "priority": "P0",
+      "species": "Rottweiler dog",
+      "status": "prompts_exist_reference_masters_not_final",
+      "required_deliverable_types": [
+        "identity_master",
+        "front",
+        "side",
+        "back",
+        "expressions",
+        "paws",
+        "gear"
+      ],
+      "notes": "Proposed recurring guard based on the restaurant security extras: sturdy black-and-tan Rottweiler, broad muzzle, folded ears, black sunglasses, plain black suit, white shirt and black tie; coiled earpiece, canine paw hands. Give a subtle silver rectangular badge on wearer-left lapel. No gold command armor or red captain tie."
+    },
+    {
+      "id": "CHAR_DOG_GUARD_B",
+      "name": "Dog Guard B",
+      "priority": "P0",
+      "species": "Rottweiler dog",
+      "status": "prompts_exist_reference_masters_not_final",
+      "required_deliverable_types": [
+        "identity_master",
+        "front",
+        "side",
+        "back",
+        "expressions",
+        "paws",
+        "gear"
+      ],
+      "notes": "Proposed second recurring guard based on restaurant extras: leaner black-and-tan Rottweiler, narrower muzzle than Guard A, folded ears, black sunglasses, plain black suit and narrow black tie; coiled earpiece, canine paw hands. Small silver circular badge on wearer-left lapel. Keep separate face and build from Guard A and General Fetch."
+    },
+    {
+      "id": "CHAR_CAT_CIVILIAN_CROWD",
+      "name": "Cat Civilian Crowd",
+      "priority": "P0",
+      "species": "Cats only",
+      "status": "prompts_exist_reference_masters_not_final",
+      "required_deliverable_types": [
+        "identity_master",
+        "front",
+        "side",
+        "back",
+        "expressions",
+        "paws",
+        "gear"
+      ],
+      "notes": "Proposed District7 civilian ensemble: exactly six distinct adult cats, one cream shorthair, one brown mackerel tabby, one calico, one grey shorthair, one ginger-and-white cat, one black-and-white tuxedo. Modest repaired everyday jackets and work clothes; individually consistent stripe/patch maps. No crew signature visors, magenta headphones or branded hacker jackets. All upright anthropomorphic cats with feline paws and tails."
+    },
+    {
+      "id": "CHAR_HUMAN_AI_AVATAR",
+      "name": "Human AI Avatar",
+      "priority": "P1",
+      "species": "Nonphysical human-created AI",
+      "status": "prompts_exist_reference_masters_not_final",
+      "required_deliverable_types": [
+        "identity_master",
+        "front",
+        "side",
+        "back",
+        "expressions",
+        "paws",
+        "gear"
+      ],
+      "notes": "Proposed representation: a clean cyan-white vertical circular interface ring made of seven evenly spaced small segments, centred on a dark screen, tiny warm amber central light, no animal face or body. Projected glyphs remain abstract; its repeated design is identical in every screen shot."
+    },
+    {
+      "id": "CHAR_RETURNING_HUMAN_COMMANDER",
+      "name": "Returning Human Commander",
+      "priority": "P1",
+      "species": "Human",
+      "status": "prompts_exist_reference_masters_not_final",
+      "required_deliverable_types": [
+        "identity_master",
+        "front",
+        "side",
+        "back",
+        "expressions",
+        "paws",
+        "gear"
+      ],
+      "notes": "Proposed adult human mission commander around50, practical unglamorous silver-grey short hair, weathered face, dark slate pressure suit with ivory shoulder panels, plain rectangular mission patch and scuffed boots. Neutral presentation, no weapon in reference master, no recognizable actor likeness. Human hands, not paws. Keep helmet separate, fully visible face."
+    }
+  ],
+  "additional_pilot_entries": [
+    {
+      "id": "CHAR_KITTEN_01",
+      "priority": "P0",
+      "scene_numbers": [
+        8
+      ],
+      "required": "Design master,standing views,expressions,paws,wardrobe and speaking voice",
+      "status": "needed"
+    },
+    {
+      "id": "PROP_SERVICE_ROBOT_01",
+      "priority": "P0",
+      "scene_numbers": [
+        13
+      ],
+      "required": "Front/side/back,tray/wheel details,movement states;silent with mechanical SFX",
+      "status": "needed"
+    }
+  ],
+  "character_deliverable_types": [
+    "identity_master",
+    "front",
+    "side",
+    "back",
+    "expressions",
+    "paws",
+    "gear"
+  ],
+  "prop_graphic_groups": [
+    {
+      "id": "PG01",
+      "asset_ids": [
+        "PROP_CRT",
+        "PROP_CATSTATION5",
+        "PROP_CONTROLLER_A–E"
+      ],
+      "scene_scope": "01–03,24",
+      "required_work": "Exact CRT front/side/back, two right knobs; console top/side/front, controller front/back/grip; console stays above CRT; cable paths and couch layout fixed.",
+      "status": "needs_asset_completion_and_qc"
+    },
+    {
+      "id": "PG02",
+      "asset_ids": [
+        "PROP_COUCH",
+        "PROP_BLANKETS",
+        "PROP_SNACKS"
+      ],
+      "scene_scope": "01–03,24",
+      "required_work": "Couch front/back/side/overhead; wear map, cushions, blankets, bowl and cans with fixed positions.",
+      "status": "needs_asset_completion_and_qc"
+    },
+    {
+      "id": "PG03",
+      "asset_ids": [
+        "GAME_GTKVI_COVER",
+        "GAME_GTKVI_BANK",
+        "GAME_GTKVI_CAR",
+        "GAME_GTKVI_HUD"
+      ],
+      "scene_scope": "01,24",
+      "required_work": "Cover/front/spine; bank environment; game avatar and getaway car; loading screen, frozen state and HUD separate. Game figures never redefine real crew identities.",
+      "status": "needs_asset_completion_and_qc"
+    },
+    {
+      "id": "PG04",
+      "asset_ids": [
+        "GFX_INTERRUPTION",
+        "GFX_CORPORATE_IDENT",
+        "GFX_SHORTAGE_MAP"
+      ],
+      "scene_scope": "02,03,24",
+      "required_work": "Clean 16:9 bulletin layouts, lower thirds and districts7–12 map; confirmed corporate name Goodboy Global; exact typography applied in post.",
+      "status": "needs_asset_completion_and_qc"
+    },
+    {
+      "id": "PG05",
+      "asset_ids": [
+        "PROP_SALMON_PACK",
+        "GFX_PRICE_NOTICE",
+        "GFX_PRICE_HISTORY",
+        "PROP_RECEIPT"
+      ],
+      "scene_scope": "05,06,07",
+      "required_work": "Two sealed packs in freezer, previous $10/current $30 comparison, dated price evidence predating broadcast, receipt/scan display; keep one consistent timestamp logic.",
+      "status": "needs_asset_completion_and_qc"
+    },
+    {
+      "id": "PG06",
+      "asset_ids": [
+        "PROP_SCANNER",
+        "PROP_HACKPAD",
+        "PROP_DATA_DRIVE"
+      ],
+      "scene_scope": "05,09,17,19,21,22",
+      "required_work": "Front/back/side devices, blank screens, ports, paw interaction pose and carry state; no random device swaps.",
+      "status": "needs_asset_completion_and_qc"
+    },
+    {
+      "id": "PG07",
+      "asset_ids": [
+        "PROP_PROJECTOR",
+        "GFX_BILLBOARD_CHART",
+        "PROP_RALLY_MIC",
+        "PROP_PA"
+      ],
+      "scene_scope": "06,07",
+      "required_work": "Projector and public display/chart, microphone/stand, speakers/cables, stage/banners and crowd chant layout.",
+      "status": "needs_asset_completion_and_qc"
+    },
+    {
+      "id": "PG08",
+      "asset_ids": [
+        "GFX_GRAFFITI",
+        "PROP_RALLY_BANNERS"
+      ],
+      "scene_scope": "07,08,18",
+      "required_work": "Repeatable resistance marks; readable slogans and positions; no unexpected character portraits.",
+      "status": "needs_asset_completion_and_qc"
+    },
+    {
+      "id": "PG09",
+      "asset_ids": [
+        "GFX_MEETING_INVITE",
+        "GFX_ENCRYPTED_MESSAGE",
+        "GFX_RESTAURANT_MAP"
+      ],
+      "scene_scope": "09",
+      "required_work": "Evidence screens with exact sender/date/time and map tying the meeting to Steak & Bone; add readable text after rendering.",
+      "status": "needs_asset_completion_and_qc"
+    },
+    {
+      "id": "PG10",
+      "asset_ids": [
+        "PROP_BONE_DECOY_01",
+        "PROP_BONE_REMOTE"
+      ],
+      "scene_scope": "10,12,16",
+      "required_work": "Nonlethal rolling/squeaking bone: front/back/side, wheels, emitter, inactive/active states, last-decoy continuity; not a real injurious trap.",
+      "status": "needs_asset_completion_and_qc"
+    },
+    {
+      "id": "PG11",
+      "asset_ids": [
+        "PROP_CAMERA",
+        "PROP_RECORDER",
+        "GFX_CAMERA_VIEWFINDER"
+      ],
+      "scene_scope": "11,15",
+      "required_work": "Same lens/body/strap and recording device; empty viewfinder overlay and definitive payoff image captured from the actual dining-room setup.",
+      "status": "needs_asset_completion_and_qc"
+    },
+    {
+      "id": "PG12",
+      "asset_ids": [
+        "PROP_LIMO",
+        "PROP_GUARD_RADIO",
+        "PROP_CCTV"
+      ],
+      "scene_scope": "11–16",
+      "required_work": "Corporate limousine multi-view, guard earpieces/radio, security camera housing/POV, patrol path and alarm light.",
+      "status": "needs_asset_completion_and_qc"
+    },
+    {
+      "id": "PG13",
+      "asset_ids": [
+        "PROP_SERVICE_ROBOT_01"
+      ],
+      "scene_scope": "13",
+      "required_work": "Repeatable service robot geometry, tray and wheels; empty-set route, idle/pass/turn reference, silent robot mechanical SFX; no speech in current pilot.",
+      "status": "needs_asset_completion_and_qc"
+    },
+    {
+      "id": "PG14",
+      "asset_ids": [
+        "PROP_DINING_TABLE",
+        "PROP_TABLEWARE",
+        "PROP_CASH_BAG",
+        "PROP_BANKNOTES"
+      ],
+      "scene_scope": "14,15",
+      "required_work": "Table/chair placement; fixed plates/glasses; bag closed/open, cash contents, transfer hand-off frames with furred dog paws.",
+      "status": "needs_asset_completion_and_qc"
+    },
+    {
+      "id": "PG15",
+      "asset_ids": [
+        "GFX_PAYOFF_PHOTO",
+        "GFX_AUDIO_WAVEFORM",
+        "GFX_UPLOAD"
+      ],
+      "scene_scope": "15,17",
+      "required_work": "Preserve exact Barkington and Shiba identities/outfits and table direction; photo proves exchange, never substitute a wolf. Store uncropped evidence image and compositing crop.",
+      "status": "needs_asset_completion_and_qc"
+    },
+    {
+      "id": "PG16",
+      "asset_ids": [
+        "GFX_NIP7_LEAK",
+        "GFX_NIP7_ROUTES",
+        "GFX_WOOF7_IDENT"
+      ],
+      "scene_scope": "03,17,23",
+      "required_work": "Channel identities, blank/source presenter plates, accurate lower thirds, separately verified evidence inset and final shipment report.",
+      "status": "needs_asset_completion_and_qc"
+    },
+    {
+      "id": "PG17",
+      "asset_ids": [
+        "GFX_CATNIP_TIMES_PAYMENT",
+        "GFX_CATNIP_TIMES_ROUTES",
+        "GFX_DAILY_BONE"
+      ],
+      "scene_scope": "17,18,23; P1 Daily Bone",
+      "required_work": "Front-page mastheads, exact headline/body copy, correct payoff photo; Daily Bone is broader universe prop and can follow pilot P0 work.",
+      "status": "needs_asset_completion_and_qc"
+    },
+    {
+      "id": "PG18",
+      "asset_ids": [
+        "GFX_SHIPPING_DB",
+        "GFX_ROUTE_MAP",
+        "PROP_MANIFEST",
+        "GFX_CRATE_LABEL"
+      ],
+      "scene_scope": "19–22",
+      "required_work": "Matching batch IDs, original allocations, signed routing overrides, districts1–6 vs7–12, timestamps and truck labels. Same evidence across monitor/paper/news.",
+      "status": "needs_asset_completion_and_qc"
+    },
+    {
+      "id": "PG19",
+      "asset_ids": [
+        "PROP_SALMON_CARTON",
+        "PROP_SALMON_PALLET",
+        "PROP_REEFER_TRUCK"
+      ],
+      "scene_scope": "20–23",
+      "required_work": "Sealed carton all sides, consistent fish logo/lot labels, pallet stack layouts, refrigerated truck exterior/interior and loading-door states.",
+      "status": "needs_asset_completion_and_qc"
+    },
+    {
+      "id": "PG20",
+      "asset_ids": [
+        "PROP_DISPATCH_SWITCH",
+        "PROP_COOLING_CONTROL",
+        "GFX_COOLING_STATUS"
+      ],
+      "scene_scope": "21,22",
+      "required_work": "Physically separate dispatch shutdown and active cold-chain systems; never show refrigeration disabled or salmon spoiled.",
+      "status": "needs_asset_completion_and_qc"
+    },
+    {
+      "id": "PG21",
+      "asset_ids": [
+        "GFX_PUBLIC_DATA_RELEASE",
+        "GFX_REDIRECTED_ROUTES"
+      ],
+      "scene_scope": "22,23",
+      "required_work": "Exact before/after dispatch visualization and readable publication confirmation, no invented evidence beyond master.",
+      "status": "needs_asset_completion_and_qc"
+    },
+    {
+      "id": "PG22",
+      "asset_ids": [
+        "PROP_NEWS_BUNDLE",
+        "PROP_FISH_STALL",
+        "PROP_VENDOR_SCALE"
+      ],
+      "scene_scope": "18,23",
+      "required_work": "Same newspaper editions, closed/empty and reopened/supplied stall states, crate unloading states, safe food-handling props.",
+      "status": "needs_asset_completion_and_qc"
+    },
+    {
+      "id": "PG23",
+      "asset_ids": [
+        "GFX_SERIES_TITLE",
+        "GFX_CREDITS",
+        "GFX_END_BLACK"
+      ],
+      "scene_scope": "24",
+      "required_work": "Final title/credit styling and timing; fitting credits into 20:00 remains an editorial decision.",
+      "status": "needs_asset_completion_and_qc"
+    }
+  ],
+  "voices": [
+    {
+      "role_id": "trixie",
+      "role": "Trixie / CatGirl",
+      "voice": "Emma — Wry, Gritty Hero",
+      "voice_id": "dmWfLQZJq7wNPv9WmtiM",
+      "status": "selected_current",
+      "account_access": "confirmed",
+      "notes": "Explicitly selected by user. Existing account access confirmed; no final episode performance approval is implied. Female19, youthful wry confidence and dry humor; existing Emma identity."
+    },
+    {
+      "role_id": "byte",
+      "role": "Byte",
+      "voice": "Northern Terry",
+      "voice_id": "wo6udizrrtpIxWGp2qJk",
+      "status": "selected_current",
+      "account_access": "confirmed",
+      "notes": "Explicitly selected by user. Existing account access confirmed; no final episode performance approval is implied. Boy18, youthful northern English voice; precise dry analyst."
+    },
+    {
+      "role_id": "ghost",
+      "role": "Ghost — green visor",
+      "voice": "Austin — Upbeat",
+      "voice_id": "7fBwqIVI6wI1B4MuKqQi",
+      "status": "selected_current",
+      "account_access": "confirmed",
+      "notes": "Explicitly selected by user. Existing account access confirmed; no final episode performance approval is implied. Boy17, quiet clear recon delivery and restrained wit. Distinct from narrator Austin."
+    },
+    {
+      "role_id": "neon",
+      "role": "Neon",
+      "voice": "Ryan — Product Reviewer",
+      "voice_id": "4e32WqNVWRquDa1OcRYZ",
+      "status": "selected_current",
+      "account_access": "confirmed",
+      "notes": "Explicitly selected by user. Existing account access confirmed; no final episode performance approval is implied. Boy16, youthful curious technical enthusiasm, quick intelligible delivery; selected Ryan identity."
+    },
+    {
+      "role_id": "onyx",
+      "role": "Onyx",
+      "voice": "Harry — Fierce Warrior",
+      "voice_id": "uq0HIbNZKn11Hs5ifEdd",
+      "status": "selected_current",
+      "account_access": "confirmed",
+      "notes": "Explicitly selected by user. Existing account access confirmed; no final episode performance approval is implied. Boy19, youthful firm protective delivery; preserve Harry identity without an older action-hero growl."
+    },
+    {
+      "role_id": "nip7_anchor",
+      "role": "NIP7 Anchor",
+      "voice": "Daniel",
+      "voice_id": "onwK4e9ZLuTAKqWW03F9",
+      "status": "selected_current",
+      "account_access": "confirmed",
+      "notes": "Explicitly selected by user. Existing account access confirmed; no final episode performance approval is implied. British adult Sphynx journalist, measured precise report; distinguish suspected payment from proven supply diversion."
+    },
+    {
+      "role_id": "chairman_barkington",
+      "role": "Chairman Barkington",
+      "voice": "Brian",
+      "voice_id": "nPczCjzI2devNBz1zQrb",
+      "status": "selected_current",
+      "account_access": "confirmed",
+      "notes": "Explicitly selected by user. Existing account access confirmed; no final episode performance approval is implied. Older adult Doberman, polished corporate authority and controlled smugness; Jerry B. is excluded."
+    },
+    {
+      "role_id": "woof7_anchor",
+      "role": "WOOF7 Anchor",
+      "voice": "Eric",
+      "voice_id": "cjVigY5qzO86Huf0OWal",
+      "status": "selected_current",
+      "account_access": "confirmed",
+      "notes": "Explicitly selected by user. Existing account access confirmed; no final episode performance approval is implied. Older adult Shiba broadcaster, crisp reassuring public cadence and calculating private conversation; distinct from radio host."
+    },
+    {
+      "role_id": "opening_narrator",
+      "role": "Opening narrator",
+      "voice": "Austin — Deep, Raspy and Authentic",
+      "voice_id": "Bj9UqZbhQsanLzgalpEG",
+      "status": "trial_only",
+      "account_access": "confirmed",
+      "notes": "30.00s trial. Final voice approval, chronology and pilot placement open; excluded from original 17-voice pilot plan."
+    },
+    {
+      "role_id": "dog_unassigned",
+      "role": "Unassigned dog",
+      "voice": "Jerry B. — Gruff and Gritty Commander",
+      "voice_id": "TxWZERZ5Hc6h9dGxVmXa",
+      "status": "reserved_unassigned",
+      "account_access": "confirmed",
+      "excluded_roles": [
+        "Commander",
+        "Barkington",
+        "Returning Human Commander"
+      ],
+      "notes": "Reserve for a dog; not Commander/Barkington. No exact dog assignment and no clip generated."
+    },
+    {
+      "role_id": "radio_host",
+      "role": "Recurring car-radio host",
+      "voice": "Countdown Casey — Radio DJ",
+      "voice_id": "mKoqwDP2laxTdq1gEgU6",
+      "status": "selected_current",
+      "account_access": "confirmed",
+      "notes": "Separate from NIP7, WOOF7 and opening narrator. No radio sample or pilot insertion yet."
+    },
+    {
+      "role_id": "additional_dog_unassigned",
+      "role": "Additional dog — unassigned",
+      "voice": "Hugo — Loyal Henchman",
+      "voice_id": "lAqElvydqyTzitpwAdj6",
+      "status": "reserved_unassigned",
+      "account_access": "confirmed",
+      "notes": "Separate from Jerry B.; exact dog unassigned. No audio requested or generated."
+    },
+    {
+      "role_id": "trixie_superseded_lauren",
+      "role": "Trixie — historical casting",
+      "voice": "Lauren",
+      "voice_id": "DODLEQrClDo8wCz460ld",
+      "status": "superseded",
+      "account_access": "previously_confirmed",
+      "notes": "Replaced by Emma. Preserve original audition and earlier requested line; neither is current casting."
+    }
+  ],
+  "audition_files": [
+    "Voices/Requested Lines/trixie-salmon-factory-emma-v002.mp3",
+    "Voices/Auditions/byte/byte-northern-terry.mp3",
+    "Voices/Auditions/neon/neon-ryan-provisional.mp3",
+    "Voices/Narration/kitty-punks-opening-austin-v001.mp3",
+    "Voices/Auditions/nip7_anchor/nip7_anchor-daniel.mp3",
+    "Voices/Auditions/nip7_anchor/nip7_anchor-george.mp3",
+    "Voices/Auditions/barkington/barkington-brian.mp3",
+    "Voices/Auditions/woof7_anchor/woof7_anchor-eric.mp3",
+    "Voices/Requested Lines/trixie-salmon-factory-v001.mp3",
+    "Voices/Auditions/trixie/trixie-lauren.mp3"
+  ],
+  "voice_account": {
+    "included_characters_remaining_before_tests": 30310,
+    "current_remaining": "recheck before batch;historical pre-test value is not current balance",
+    "custom_voice_slots": "3of3 full;existing accessible voices used",
+    "auditions_are": "Original auditions are test montages; requested lines and narration are separate review recordings. No final take approval implied.",
+    "verified_current_choices": [
+      "Emma — Wry, Gritty Hero — Trixie / CatGirl",
+      "Northern Terry — Byte",
+      "Austin — Upbeat — Ghost — green visor",
+      "Ryan — Product Reviewer — Neon",
+      "Harry — Fierce Warrior — Onyx",
+      "Daniel — NIP7 Anchor",
+      "Brian — Chairman Barkington",
+      "Eric — WOOF7 Anchor",
+      "Austin — Deep, Raspy and Authentic — Opening narrator",
+      "Jerry B. — Gruff and Gritty Commander — Unassigned dog",
+      "Countdown Casey — Radio DJ — Recurring car-radio host",
+      "Hugo — Loyal Henchman — Additional dog — unassigned"
+    ]
+  },
+  "sound": [
+    {
+      "id": "AUDIO_DIALOGUE",
+      "work": "Approved exact lines for the24-scene working script,one speaker per file,transcript,timing and voice metadata.",
+      "status": "12 exact Scene02–04 review takes saved; remaining pilot dialogue/performance approvals pending"
+    },
+    {
+      "id": "AUDIO_AMBIENCE",
+      "work": "Warehouse room tone;rain/neon streets;shop/freezer hum;restaurant room/service corridor;studios;factory refrigeration;market/predawn."
+    },
+    {
+      "id": "AUDIO_FOLEY",
+      "work": "Controllers,paws,clothes,chairs,doors,cash bag,paper,camera shutter,crate handling,truck movement."
+    },
+    {
+      "id": "AUDIO_SFX",
+      "work": "CRT power/flicker,game sirens/engine/impacts,news stings,PA,device beeps,bone squeak/roll,silent robot servos,alarms,press,conveyors."
+    },
+    {
+      "id": "AUDIO_MUSIC",
+      "work": "Original/licensed opening,investigation,infiltration,heist,return cues with stems and room for joke pauses."
+    },
+    {
+      "id": "AUDIO_FINAL",
+      "work": "Dialogue intelligibility,levels,crossfades,room continuity,sync,no clipped words,edit-quality masters and final mix."
+    }
+  ],
+  "scenes": [
+    {
+      "number": 1,
+      "title": "Just One More Mission",
+      "start": "00:00",
+      "end": "01:10",
+      "duration_seconds": 70,
+      "source_location": "Resistance hideout",
+      "location_ids": [
+        "LOC01",
+        "LOC02",
+        "LOC19"
+      ]
+    },
+    {
+      "number": 2,
+      "title": "The Interruption",
+      "start": "01:10",
+      "end": "02:00",
+      "duration_seconds": 50,
+      "source_location": "Resistance hideout",
+      "location_ids": [
+        "LOC02",
+        "LOC13"
+      ]
+    },
+    {
+      "number": 3,
+      "title": "Barkington's Emergency Broadcast",
+      "start": "02:00",
+      "end": "03:05",
+      "duration_seconds": 65,
+      "source_location": "TV broadcast",
+      "location_ids": [
+        "LOC02",
+        "LOC13"
+      ]
+    },
+    {
+      "number": 4,
+      "title": "The Trip to 7-Catleven",
+      "start": "03:05",
+      "end": "04:00",
+      "duration_seconds": 55,
+      "source_location": "District 7 streets",
+      "location_ids": [
+        "LOC01",
+        "LOC05",
+        "LOC06"
+      ]
+    },
+    {
+      "number": 5,
+      "title": "Three Times the Price",
+      "start": "04:00",
+      "end": "05:00",
+      "duration_seconds": 60,
+      "source_location": "7-Catleven freezer aisle",
+      "location_ids": [
+        "LOC07"
+      ]
+    },
+    {
+      "number": 6,
+      "title": "Word Spreads",
+      "start": "05:00",
+      "end": "05:45",
+      "duration_seconds": 45,
+      "source_location": "District 7 market",
+      "location_ids": [
+        "LOC08"
+      ]
+    },
+    {
+      "number": 7,
+      "title": "The District 7 Rally",
+      "start": "05:45",
+      "end": "06:50",
+      "duration_seconds": 65,
+      "source_location": "Slum rally stage",
+      "location_ids": [
+        "LOC09"
+      ]
+    },
+    {
+      "number": 8,
+      "title": "The Cats Are Waking Up",
+      "start": "06:50",
+      "end": "07:30",
+      "duration_seconds": 40,
+      "source_location": "District 7 alleyways",
+      "location_ids": [
+        "LOC05"
+      ]
+    },
+    {
+      "number": 9,
+      "title": "Follow the Money",
+      "start": "07:30",
+      "end": "08:40",
+      "duration_seconds": 70,
+      "source_location": "Resistance hacking lair",
+      "location_ids": [
+        "LOC03"
+      ]
+    },
+    {
+      "number": 10,
+      "title": "Operation Bonehead",
+      "start": "08:40",
+      "end": "09:45",
+      "duration_seconds": 65,
+      "source_location": "Hideout workshop",
+      "location_ids": [
+        "LOC04"
+      ]
+    },
+    {
+      "number": 11,
+      "title": "Steak & Bone Surveillance",
+      "start": "09:45",
+      "end": "11:00",
+      "duration_seconds": 75,
+      "source_location": "Restaurant exterior",
+      "location_ids": [
+        "LOC10"
+      ]
+    },
+    {
+      "number": 12,
+      "title": "The Bone Distraction",
+      "start": "11:00",
+      "end": "11:45",
+      "duration_seconds": 45,
+      "source_location": "Steak & Bone security entrance",
+      "location_ids": [
+        "LOC10"
+      ]
+    },
+    {
+      "number": 13,
+      "title": "Inside the Restaurant",
+      "start": "11:45",
+      "end": "12:35",
+      "duration_seconds": 50,
+      "source_location": "Service corridors",
+      "location_ids": [
+        "LOC11"
+      ]
+    },
+    {
+      "number": 14,
+      "title": "The Secret Dinner",
+      "start": "12:35",
+      "end": "13:35",
+      "duration_seconds": 60,
+      "source_location": "Steak & Bone private dining room",
+      "location_ids": [
+        "LOC12"
+      ]
+    },
+    {
+      "number": 15,
+      "title": "The Payoff Photograph",
+      "start": "13:35",
+      "end": "14:20",
+      "duration_seconds": 45,
+      "source_location": "Private dining room",
+      "location_ids": [
+        "LOC12"
+      ]
+    },
+    {
+      "number": 16,
+      "title": "Get the Hell Out",
+      "start": "14:20",
+      "end": "15:10",
+      "duration_seconds": 50,
+      "source_location": "Restaurant service exit",
+      "location_ids": [
+        "LOC10",
+        "LOC11"
+      ]
+    },
+    {
+      "number": 17,
+      "title": "The Leak",
+      "start": "15:10",
+      "end": "16:00",
+      "duration_seconds": 50,
+      "source_location": "Resistance hideout",
+      "location_ids": [
+        "LOC03",
+        "LOC14",
+        "LOC18"
+      ]
+    },
+    {
+      "number": 18,
+      "title": "Victory? Not Quite",
+      "start": "16:00",
+      "end": "16:35",
+      "duration_seconds": 35,
+      "source_location": "District 7 streets",
+      "location_ids": [
+        "LOC05",
+        "LOC08"
+      ]
+    },
+    {
+      "number": 19,
+      "title": "Follow the Fish",
+      "start": "16:35",
+      "end": "17:10",
+      "duration_seconds": 35,
+      "source_location": "Hacking lair",
+      "location_ids": [
+        "LOC03"
+      ]
+    },
+    {
+      "number": 20,
+      "title": "Salmon Headquarters",
+      "start": "17:10",
+      "end": "17:45",
+      "duration_seconds": 35,
+      "source_location": "Good Dog Global salmon facility",
+      "location_ids": [
+        "LOC15"
+      ]
+    },
+    {
+      "number": 21,
+      "title": "The Great Salmon Heist",
+      "start": "17:45",
+      "end": "18:30",
+      "duration_seconds": 45,
+      "source_location": "Factory interior",
+      "location_ids": [
+        "LOC16",
+        "LOC17"
+      ]
+    },
+    {
+      "number": 22,
+      "title": "Shut It Down",
+      "start": "18:30",
+      "end": "19:05",
+      "duration_seconds": 35,
+      "source_location": "Factory control room",
+      "location_ids": [
+        "LOC15",
+        "LOC17"
+      ]
+    },
+    {
+      "number": 23,
+      "title": "Salmon for Everyone",
+      "start": "19:05",
+      "end": "19:30",
+      "duration_seconds": 25,
+      "source_location": "District 7 market",
+      "location_ids": [
+        "LOC08",
+        "LOC14",
+        "LOC20"
+      ]
+    },
+    {
+      "number": 24,
+      "title": "Back to the Game",
+      "start": "19:30",
+      "end": "20:00",
+      "duration_seconds": 30,
+      "source_location": "Resistance hideout",
+      "location_ids": [
+        "LOC02",
+        "LOC19"
+      ]
+    }
+  ],
+  "provider_block": {
+    "provider": "Orbis GPT Image EE",
+    "model": "gpt-image-2",
+    "attempts": 6,
+    "result": "HTTP403 upstream_error;no image",
+    "verified_charged_usd": 0,
+    "test_cap_usd": 5,
+    "reference_input": "unconfirmed;route listsText only",
+    "trixie_sheet": "Generated with user-approved built-in image editor; visually checked and saved; original preserved.",
+    "status": "historical_failed_route_not_active"
+  },
+  "later_season_work": [
+    "Eight-dog boardroom/seat assignment",
+    "Muzzle lab/implant states",
+    "Council,clinic/shelter,utilities,monorail,checkpoints,archive,welfare center,beacon,landing pad",
+    "AI icon/scout/returning humans/ship",
+    "Daily Bone,director offices and additional districts"
+  ],
+  "external_sync": "Verified: Boardly 20 location cards and final documents; private HF 514 manifest paths; Desktop 291 pack files excluding its own receipt. See synchronization receipts.",
+  "requested_audio": {
+    "character": "Trixie",
+    "voice": "Emma - Wry, Gritty Hero",
+    "voice_id": "dmWfLQZJq7wNPv9WmtiM",
+    "file": "Voices/Requested Lines/trixie-salmon-factory-emma-v002.mp3",
+    "seconds": 7.523265,
+    "status": "user-selected replacement voice rendered for review; pilot insertion unassigned",
+    "superseded_voice": "DODLEQrClDo8wCz460ld",
+    "previous_recording_preserved": "Voices/Requested Lines/trixie-salmon-factory-v001.mp3"
+  },
+  "narrator_trial": {
+    "voice_id": "Bj9UqZbhQsanLzgalpEG",
+    "name": "Austin",
+    "seconds": 30,
+    "file": "Voices/Narration/kitty-punks-opening-austin-v001.mp3",
+    "remaining": [
+      "Performance review",
+      "Pilot placement and20:00timing",
+      "Teen hacking chronology"
+    ],
+    "status": "trial_not_final_casting",
+    "excluded_from_original_17_voice_plan": true,
+    "pilot_inserted": false
+  },
+  "recording_aliases": [
+    {
+      "path": "Auditions/narrator/narrator-austin-opening-v001.mp3",
+      "duplicate_of": "Narration/kitty-punks-opening-austin-v001.mp3",
+      "sha256": "cc42bcfb88d322540570236510147132a303364ca96aefc5f240e07573a29a50"
+    },
+    {
+      "path": "Auditions/trixie/trixie-salmon-factory-emma-v002.mp3",
+      "duplicate_of": "Requested Lines/trixie-salmon-factory-emma-v002.mp3",
+      "sha256": "df3a29233fa464feaf2cae57d963a1435b3f77f1f4991996cb77a94096356c88"
+    },
+    {
+      "path": "Auditions/trixie/trixie-salmon-factory-v001.mp3",
+      "duplicate_of": "Requested Lines/trixie-salmon-factory-v001.mp3",
+      "sha256": "5c0642427fc349be7fab4967d3fc4113c9ebaccfe67c8ea2c4a68d6702cf2109"
+    }
+  ],
+  "casting_overview": "Voices/casting-overview.json",
+  "supplemental_casting": [
+    {
+      "role_id": "opening_narrator",
+      "role": "Opening narrator",
+      "voice": "Austin — Deep, Raspy and Authentic",
+      "voice_id": "Bj9UqZbhQsanLzgalpEG",
+      "status": "trial_only",
+      "account_access": "confirmed",
+      "notes": "30.00s trial. Final voice approval, chronology and pilot placement open; excluded from original 17-voice pilot plan."
+    },
+    {
+      "role_id": "dog_unassigned",
+      "role": "Unassigned dog",
+      "voice": "Jerry B. — Gruff and Gritty Commander",
+      "voice_id": "TxWZERZ5Hc6h9dGxVmXa",
+      "status": "reserved_unassigned",
+      "account_access": "confirmed",
+      "excluded_roles": [
+        "Commander",
+        "Barkington",
+        "Returning Human Commander"
+      ],
+      "notes": "Reserve for a dog; not Commander/Barkington. No exact dog assignment and no clip generated."
+    },
+    {
+      "role_id": "radio_host",
+      "role": "Recurring car-radio host",
+      "voice": "Countdown Casey — Radio DJ",
+      "voice_id": "mKoqwDP2laxTdq1gEgU6",
+      "status": "selected_current",
+      "account_access": "confirmed",
+      "notes": "Separate from NIP7, WOOF7 and opening narrator. No radio sample or pilot insertion yet."
+    },
+    {
+      "role_id": "additional_dog_unassigned",
+      "role": "Additional dog — unassigned",
+      "voice": "Hugo — Loyal Henchman",
+      "voice_id": "lAqElvydqyTzitpwAdj6",
+      "status": "reserved_unassigned",
+      "account_access": "confirmed",
+      "notes": "Separate from Jerry B.; exact dog unassigned. No audio requested or generated."
+    }
+  ],
+  "location_prompt_handoff": {
+    "mode": "historical_user_generates_with_confirmed_GPT_Image_2",
+    "prompt_count": 20,
+    "ordered_reference_copies": 30,
+    "pack": "GPT Image 2 Location Prompt Pack/ALL-20-LOCATION-PROMPTS.md",
+    "zip": "GPT-Image-2-Location-Prompt-Pack.zip",
+    "built_in_generation": "stopped; LOC04 interrupted with no output",
+    "status": "historical_export_preserved; active workflow superseded by generation_workflow"
+  },
+  "generation_workflow": {
+    "provider": "Higgsfield",
+    "model": "gpt_image_2_6",
+    "model_display": "GPT Image 2.6",
+    "media_type": "image",
+    "reference_images_required": true,
+    "parameters": {
+      "resolution": "4k",
+      "quality": "high",
+      "aspect_ratio": "16:9",
+      "count": 1
+    },
+    "execution": "Current Phase 2 jobs follow their authorized queues and budget leases. Original one-at-a-time restriction described the historical 20-location batch.",
+    "authorized_remaining_batch": {
+      "locations": [
+        "LOC02",
+        "LOC03",
+        "LOC04",
+        "LOC05",
+        "LOC06",
+        "LOC07",
+        "LOC08",
+        "LOC09",
+        "LOC10",
+        "LOC11",
+        "LOC12",
+        "LOC13",
+        "LOC14",
+        "LOC15",
+        "LOC16",
+        "LOC17",
+        "LOC18",
+        "LOC19",
+        "LOC20"
+      ],
+      "count": 19,
+      "credit_cap": 81,
+      "credits_spent_this_batch": null,
+      "spend_note": "Track actual provider charges; authorization does not establish spend.",
+      "status": "19 requested image jobs completed; no queued jobs",
+      "preflight_quote_total_credits": 80.75
+    },
+    "higgsfield_video_allowed": false,
+    "video_guardrail": "Never use Higgsfield for videos.",
+    "hf_sync_gate": "Historical location-only sync is recorded in existing receipts. Do not infer current Phase 2 sync until new receipts verify it.",
+    "approval_gate": "Final location/asset/performance approvals remain open. Later user authorization permits Phase 2 opening still generation; saved images do not imply final approval.",
+    "prompt_pack_provenance": "Earlier GPT Image 2 prompt export and ZIP preserved unchanged.",
+    "saved_current_batch": [
+      {
+        "id": "LOC01",
+        "relative_output_path": "Location Sheets GPT Image 2.6/LOC01-resistance-warehouse-exterior-gpt26-v001.png",
+        "dimensions": [
+          3840,
+          2160
+        ],
+        "status": "generated_review_required",
+        "sha256": "c171160ce2dfdaef5437f8b0a4f8aaba6104f4cbd4fefe5fc8ec2531a63e5955"
+      },
+      {
+        "id": "LOC02",
+        "relative_output_path": "Location Sheets GPT Image 2.6/LOC02-resistance-warehouse-lounge-gpt26-v001.png",
+        "dimensions": [
+          3840,
+          2160
+        ],
+        "status": "generated_review_required",
+        "sha256": "9ccf57446d209d871577299a63d67f15f443f7a3f15ced65bed7e3e2bf5d7092"
+      },
+      {
+        "id": "LOC03",
+        "relative_output_path": "Location Sheets GPT Image 2.6/LOC03-hacking-operations-gpt26-v001.png",
+        "dimensions": [
+          3840,
+          2160
+        ],
+        "status": "generated_review_required",
+        "sha256": "678400a023f22df4c452428e414e9c730166f7c871a1bd056f207990056bf088"
+      },
+      {
+        "id": "LOC04",
+        "relative_output_path": "Location Sheets GPT Image 2.6/LOC04-engineering-workshop-gpt26-v001.png",
+        "dimensions": [
+          3840,
+          2160
+        ],
+        "status": "generated_review_required",
+        "sha256": "aafc818847c1406d41f71c4d1c46fa7efe099f5772bfe999493a4d749c40868d"
+      },
+      {
+        "id": "LOC05",
+        "relative_output_path": "Location Sheets GPT Image 2.6/LOC05-district-7-streets-and-alleys-gpt26-v001.png",
+        "dimensions": [
+          3840,
+          2160
+        ],
+        "status": "generated_review_required",
+        "sha256": "3bd909f3e732f8d174409f2255619614b80b381bac7f121496056e92137d071d"
+      },
+      {
+        "id": "LOC06",
+        "relative_output_path": "Location Sheets GPT Image 2.6/LOC06-7-catleven-exterior-gpt26-v001.png",
+        "dimensions": [
+          3840,
+          2160
+        ],
+        "status": "generated_review_required",
+        "sha256": "c857f705f48778a3155682346e3d2aa6f1db919b88dbcdeb553585f7ea0c661f"
+      },
+      {
+        "id": "LOC07",
+        "relative_output_path": "Location Sheets GPT Image 2.6/LOC07-7-catleven-interior-and-freezer-gpt26-v001.png",
+        "dimensions": [
+          3840,
+          2160
+        ],
+        "status": "generated_review_required",
+        "sha256": "050150593760844345f57f0a6efed877b96bdaba55760b1ba08d8bb1c0d1432b"
+      },
+      {
+        "id": "LOC08",
+        "relative_output_path": "Location Sheets GPT Image 2.6/LOC08-district-7-market-gpt26-v001.png",
+        "dimensions": [
+          3840,
+          2160
+        ],
+        "status": "generated_review_required",
+        "sha256": "c0de39fba4f7ec01e0695cfdc5cb7beafec8b671ef9b03c122acb93953396cc0"
+      },
+      {
+        "id": "LOC09",
+        "relative_output_path": "Location Sheets GPT Image 2.6/LOC09-district-7-rally-stage-and-plaza-gpt26-v001.png",
+        "dimensions": [
+          3840,
+          2160
+        ],
+        "status": "generated_review_required",
+        "sha256": "fd5f2c155e04f5a082a5c2cdfca31583dfd65fb43e021d349e629f787888d90e"
+      },
+      {
+        "id": "LOC10",
+        "relative_output_path": "Location Sheets GPT Image 2.6/LOC10-steak-bone-exterior-and-security-gpt26-v001.png",
+        "dimensions": [
+          3840,
+          2160
+        ],
+        "status": "generated_review_required",
+        "sha256": "0046cc574d900e8d950f68731561c295a30cf4660422c54ee5a59e6011771a71"
+      },
+      {
+        "id": "LOC11",
+        "relative_output_path": "Location Sheets GPT Image 2.6/LOC11-steak-bone-service-corridors-gpt26-v001.png",
+        "dimensions": [
+          3840,
+          2160
+        ],
+        "status": "generated_review_required",
+        "sha256": "4392e2bc49cf0b30536796c98a7223d73de922a4c8d3888c2e13d0472f814650"
+      },
+      {
+        "id": "LOC12",
+        "relative_output_path": "Location Sheets GPT Image 2.6/LOC12-steak-bone-private-dining-room-gpt26-v001.png",
+        "dimensions": [
+          3840,
+          2160
+        ],
+        "status": "generated_review_required",
+        "sha256": "dd6578af9636b86a9064b648d85df9a7ee3320d6b604365159d1c3d75004644c"
+      },
+      {
+        "id": "LOC13",
+        "relative_output_path": "Location Sheets GPT Image 2.6/LOC13-woof7-news-studio-gpt26-v001.png",
+        "dimensions": [
+          3840,
+          2160
+        ],
+        "status": "generated_review_required",
+        "sha256": "9929f26bee75cac0271701b617d98ad103294753e47193959026e856adb403cf"
+      },
+      {
+        "id": "LOC14",
+        "relative_output_path": "Location Sheets GPT Image 2.6/LOC14-nip7-investigative-newsroom-gpt26-v001.png",
+        "dimensions": [
+          3840,
+          2160
+        ],
+        "status": "generated_review_required",
+        "sha256": "dc97cfe5c9eba591c21c1ee71485c953ee929ac2e047eec3789e2adc591be12a"
+      },
+      {
+        "id": "LOC15",
+        "relative_output_path": "Location Sheets GPT Image 2.6/LOC15-salmon-facility-exterior-and-loading-gpt26-v001.png",
+        "dimensions": [
+          3840,
+          2160
+        ],
+        "status": "generated_review_required",
+        "sha256": "90038d12ae861fdbe03b92ccd4310a9e68c2861852b0706e45979ab9413a5077"
+      },
+      {
+        "id": "LOC16",
+        "relative_output_path": "Location Sheets GPT Image 2.6/LOC16-salmon-cold-store-and-processing-hall-gpt26-v001.png",
+        "dimensions": [
+          3840,
+          2160
+        ],
+        "status": "generated_review_required",
+        "sha256": "b0d7b5d2e88073c91a77c8da365862a847bf9ebf818d876225b7cabdba4d8b35"
+      },
+      {
+        "id": "LOC17",
+        "relative_output_path": "Location Sheets GPT Image 2.6/LOC17-salmon-routing-control-room-gpt26-v001.png",
+        "dimensions": [
+          3840,
+          2160
+        ],
+        "status": "generated_review_required",
+        "sha256": "addbc3d6819f5434a29f2e15749efb198633a691f7c11e61cec25dc8b9873191"
+      },
+      {
+        "id": "LOC18",
+        "relative_output_path": "Location Sheets GPT Image 2.6/LOC18-catnip-times-pressroom-gpt26-v001.png",
+        "dimensions": [
+          3840,
+          2160
+        ],
+        "status": "generated_review_required",
+        "sha256": "d83c0863676978a24ef96e7b785b3b82999ca3f801b1fb58b6afea489abb59db"
+      },
+      {
+        "id": "LOC19",
+        "relative_output_path": "Location Sheets GPT Image 2.6/LOC19-game-world-great-dog-national-bank-gpt26-v001.png",
+        "dimensions": [
+          3840,
+          2160
+        ],
+        "status": "generated_review_required",
+        "sha256": "bafa979ecdb8e1d13b83edb34a15b04077f7051f625355811add306ab1c5df9d"
+      },
+      {
+        "id": "LOC20",
+        "relative_output_path": "Location Sheets GPT Image 2.6/LOC20-district-7-market-rooftop-overlook-gpt26-v001.png",
+        "dimensions": [
+          3840,
+          2160
+        ],
+        "status": "generated_review_required",
+        "sha256": "d50a62d90b9d8a62e329b50083922d2db876997b112272255c50d629e7e2b1e6"
+      }
+    ],
+    "queued_location_ids": [],
+    "higgsfield_audio_allowed": false,
+    "speech_provider": "ElevenLabs — user account only"
+  },
+  "generation_manifest": "Location Sheets GPT Image 2.6/generation-manifest.json",
+  "qa_document": "Location Sheets GPT Image 2.6/QA-notes.md",
+  "phase2_snapshot": {
+    "snapshot_utc": "2026-11-06T20:15:11.492763+00:00",
+    "phase2_categories": {
+      "Character Masters": {
+        "planned_unique_assets": 6,
+        "saved_unique_assets": 6,
+        "saved_png_versions": 7,
+        "saved_ids": [
+          "CHAR06",
+          "CREW01",
+          "CREW02",
+          "CREW03",
+          "CREW04",
+          "CREW05"
+        ],
+        "all_saved_pngs_4k": true,
+        "status": "saved_reference_drafts_final_approval_not_inferred",
+        "files": [
+          {
+            "asset_id": "CHAR06",
+            "path": "Phase 2/Character Masters/CHAR06-barkington-character-master-gpt26-v001.png",
+            "dimensions": [
+              3840,
+              2160
+            ]
+          },
+          {
+            "asset_id": "CHAR06",
+            "path": "Phase 2/Character Masters/CHAR06-barkington-character-master-gpt26-v002.png",
+            "dimensions": [
+              3840,
+              2160
+            ]
+          },
+          {
+            "asset_id": "CREW01",
+            "path": "Phase 2/Character Masters/CREW01-trixie-character-master-gpt26-v001.png",
+            "dimensions": [
+              3840,
+              2160
+            ]
+          },
+          {
+            "asset_id": "CREW02",
+            "path": "Phase 2/Character Masters/CREW02-byte-character-master-gpt26-v001.png",
+            "dimensions": [
+              3840,
+              2160
+            ]
+          },
+          {
+            "asset_id": "CREW03",
+            "path": "Phase 2/Character Masters/CREW03-ghost-character-master-gpt26-v001.png",
+            "dimensions": [
+              3840,
+              2160
+            ]
+          },
+          {
+            "asset_id": "CREW04",
+            "path": "Phase 2/Character Masters/CREW04-onyx-character-master-gpt26-v001.png",
+            "dimensions": [
+              3840,
+              2160
+            ]
+          },
+          {
+            "asset_id": "CREW05",
+            "path": "Phase 2/Character Masters/CREW05-neon-character-master-gpt26-v001.png",
+            "dimensions": [
+              3840,
+              2160
+            ]
+          }
+        ],
+        "versions_by_id": {
+          "CHAR06": [
+            {
+              "asset_id": "CHAR06",
+              "path": "Phase 2/Character Masters/CHAR06-barkington-character-master-gpt26-v001.png",
+              "dimensions": [
+                3840,
+                2160
+              ]
+            },
+            {
+              "asset_id": "CHAR06",
+              "path": "Phase 2/Character Masters/CHAR06-barkington-character-master-gpt26-v002.png",
+              "dimensions": [
+                3840,
+                2160
+              ]
+            }
+          ],
+          "CREW01": [
+            {
+              "asset_id": "CREW01",
+              "path": "Phase 2/Character Masters/CREW01-trixie-character-master-gpt26-v001.png",
+              "dimensions": [
+                3840,
+                2160
+              ]
+            }
+          ],
+          "CREW02": [
+            {
+              "asset_id": "CREW02",
+              "path": "Phase 2/Character Masters/CREW02-byte-character-master-gpt26-v001.png",
+              "dimensions": [
+                3840,
+                2160
+              ]
+            }
+          ],
+          "CREW03": [
+            {
+              "asset_id": "CREW03",
+              "path": "Phase 2/Character Masters/CREW03-ghost-character-master-gpt26-v001.png",
+              "dimensions": [
+                3840,
+                2160
+              ]
+            }
+          ],
+          "CREW04": [
+            {
+              "asset_id": "CREW04",
+              "path": "Phase 2/Character Masters/CREW04-onyx-character-master-gpt26-v001.png",
+              "dimensions": [
+                3840,
+                2160
+              ]
+            }
+          ],
+          "CREW05": [
+            {
+              "asset_id": "CREW05",
+              "path": "Phase 2/Character Masters/CREW05-neon-character-master-gpt26-v001.png",
+              "dimensions": [
+                3840,
+                2160
+              ]
+            }
+          ]
+        }
+      },
+      "Dog Masters": {
+        "planned_unique_assets": 5,
+        "saved_unique_assets": 5,
+        "saved_png_versions": 5,
+        "saved_ids": [
+          "DOG01",
+          "DOG02",
+          "DOG03",
+          "DOG04",
+          "DOG05"
+        ],
+        "all_saved_pngs_4k": true,
+        "status": "saved_reference_drafts_final_approval_not_inferred",
+        "files": [
+          {
+            "asset_id": "DOG01",
+            "path": "Phase 2/Dog Masters/DOG01-viper-character-master-gpt26-v001.png",
+            "dimensions": [
+              3840,
+              2160
+            ]
+          },
+          {
+            "asset_id": "DOG02",
+            "path": "Phase 2/Dog Masters/DOG02-frost-character-master-gpt26-v001.png",
+            "dimensions": [
+              3840,
+              2160
+            ]
+          },
+          {
+            "asset_id": "DOG03",
+            "path": "Phase 2/Dog Masters/DOG03-stone-character-master-gpt26-v001.png",
+            "dimensions": [
+              3840,
+              2160
+            ]
+          },
+          {
+            "asset_id": "DOG04",
+            "path": "Phase 2/Dog Masters/DOG04-velvet-character-master-gpt26-v001.png",
+            "dimensions": [
+              3840,
+              2160
+            ]
+          },
+          {
+            "asset_id": "DOG05",
+            "path": "Phase 2/Dog Masters/DOG05-domino-character-master-gpt26-v001.png",
+            "dimensions": [
+              3840,
+              2160
+            ]
+          }
+        ],
+        "versions_by_id": {
+          "DOG01": [
+            {
+              "asset_id": "DOG01",
+              "path": "Phase 2/Dog Masters/DOG01-viper-character-master-gpt26-v001.png",
+              "dimensions": [
+                3840,
+                2160
+              ]
+            }
+          ],
+          "DOG02": [
+            {
+              "asset_id": "DOG02",
+              "path": "Phase 2/Dog Masters/DOG02-frost-character-master-gpt26-v001.png",
+              "dimensions": [
+                3840,
+                2160
+              ]
+            }
+          ],
+          "DOG03": [
+            {
+              "asset_id": "DOG03",
+              "path": "Phase 2/Dog Masters/DOG03-stone-character-master-gpt26-v001.png",
+              "dimensions": [
+                3840,
+                2160
+              ]
+            }
+          ],
+          "DOG04": [
+            {
+              "asset_id": "DOG04",
+              "path": "Phase 2/Dog Masters/DOG04-velvet-character-master-gpt26-v001.png",
+              "dimensions": [
+                3840,
+                2160
+              ]
+            }
+          ],
+          "DOG05": [
+            {
+              "asset_id": "DOG05",
+              "path": "Phase 2/Dog Masters/DOG05-domino-character-master-gpt26-v001.png",
+              "dimensions": [
+                3840,
+                2160
+              ]
+            }
+          ]
+        }
+      },
+      "Goodboy HQ": {
+        "planned_unique_assets": 10,
+        "saved_unique_assets": 10,
+        "saved_png_versions": 15,
+        "saved_ids": [
+          "HQ00",
+          "HQ01",
+          "HQ02",
+          "HQ03",
+          "HQ04",
+          "HQ05",
+          "HQ06",
+          "HQ07",
+          "HQ08",
+          "HQ09"
+        ],
+        "all_saved_pngs_4k": true,
+        "status": "saved_reference_drafts_final_approval_not_inferred",
+        "files": [
+          {
+            "asset_id": "HQ00",
+            "path": "Phase 2/Goodboy HQ/HQ00-goodboy-executive-level-master-gpt26-v001.png",
+            "dimensions": [
+              3840,
+              2160
+            ]
+          },
+          {
+            "asset_id": "HQ00",
+            "path": "Phase 2/Goodboy HQ/HQ00-goodboy-executive-level-master-gpt26-v002.png",
+            "dimensions": [
+              3840,
+              2160
+            ]
+          },
+          {
+            "asset_id": "HQ01",
+            "path": "Phase 2/Goodboy HQ/HQ01-goodboy-main-boardroom-gpt26-v001.png",
+            "dimensions": [
+              3840,
+              2160
+            ]
+          },
+          {
+            "asset_id": "HQ02",
+            "path": "Phase 2/Goodboy HQ/HQ02-goodboy-executive-lobby-gpt26-v001.png",
+            "dimensions": [
+              3840,
+              2160
+            ]
+          },
+          {
+            "asset_id": "HQ03",
+            "path": "Phase 2/Goodboy HQ/HQ03-barkington-ceo-office-gpt26-v001.png",
+            "dimensions": [
+              3840,
+              2160
+            ]
+          },
+          {
+            "asset_id": "HQ04",
+            "path": "Phase 2/Goodboy HQ/HQ04-project-obedience-rd-lab-gpt26-v001.png",
+            "dimensions": [
+              3840,
+              2160
+            ]
+          },
+          {
+            "asset_id": "HQ04",
+            "path": "Phase 2/Goodboy HQ/HQ04-project-obedience-rd-lab-gpt26-v002.png",
+            "dimensions": [
+              3840,
+              2160
+            ]
+          },
+          {
+            "asset_id": "HQ05",
+            "path": "Phase 2/Goodboy HQ/HQ05-goodboy-security-control-gpt26-v001.png",
+            "dimensions": [
+              3840,
+              2160
+            ]
+          },
+          {
+            "asset_id": "HQ05",
+            "path": "Phase 2/Goodboy HQ/HQ05-goodboy-security-control-gpt26-v002.png",
+            "dimensions": [
+              3840,
+              2160
+            ]
+          },
+          {
+            "asset_id": "HQ06",
+            "path": "Phase 2/Goodboy HQ/HQ06-goodboy-secure-elevators-gpt26-v001.png",
+            "dimensions": [
+              3840,
+              2160
+            ]
+          },
+          {
+            "asset_id": "HQ06",
+            "path": "Phase 2/Goodboy HQ/HQ06-goodboy-secure-elevators-gpt26-v002.png",
+            "dimensions": [
+              3840,
+              2160
+            ]
+          },
+          {
+            "asset_id": "HQ07",
+            "path": "Phase 2/Goodboy HQ/HQ07-goodboy-server-ai-core-gpt26-v001.png",
+            "dimensions": [
+              3840,
+              2160
+            ]
+          },
+          {
+            "asset_id": "HQ08",
+            "path": "Phase 2/Goodboy HQ/HQ08-goodboy-vip-lounge-gpt26-v001.png",
+            "dimensions": [
+              3840,
+              2160
+            ]
+          },
+          {
+            "asset_id": "HQ09",
+            "path": "Phase 2/Goodboy HQ/HQ09-goodboy-corridor-stairs-gpt26-v001.png",
+            "dimensions": [
+              3840,
+              2160
+            ]
+          },
+          {
+            "asset_id": "HQ09",
+            "path": "Phase 2/Goodboy HQ/HQ09-goodboy-corridor-stairs-gpt26-v002.png",
+            "dimensions": [
+              3840,
+              2160
+            ]
+          }
+        ],
+        "versions_by_id": {
+          "HQ00": [
+            {
+              "asset_id": "HQ00",
+              "path": "Phase 2/Goodboy HQ/HQ00-goodboy-executive-level-master-gpt26-v001.png",
+              "dimensions": [
+                3840,
+                2160
+              ]
+            },
+            {
+              "asset_id": "HQ00",
+              "path": "Phase 2/Goodboy HQ/HQ00-goodboy-executive-level-master-gpt26-v002.png",
+              "dimensions": [
+                3840,
+                2160
+              ]
+            }
+          ],
+          "HQ01": [
+            {
+              "asset_id": "HQ01",
+              "path": "Phase 2/Goodboy HQ/HQ01-goodboy-main-boardroom-gpt26-v001.png",
+              "dimensions": [
+                3840,
+                2160
+              ]
+            }
+          ],
+          "HQ02": [
+            {
+              "asset_id": "HQ02",
+              "path": "Phase 2/Goodboy HQ/HQ02-goodboy-executive-lobby-gpt26-v001.png",
+              "dimensions": [
+                3840,
+                2160
+              ]
+            }
+          ],
+          "HQ03": [
+            {
+              "asset_id": "HQ03",
+              "path": "Phase 2/Goodboy HQ/HQ03-barkington-ceo-office-gpt26-v001.png",
+              "dimensions": [
+                3840,
+                2160
+              ]
+            }
+          ],
+          "HQ04": [
+            {
+              "asset_id": "HQ04",
+              "path": "Phase 2/Goodboy HQ/HQ04-project-obedience-rd-lab-gpt26-v001.png",
+              "dimensions": [
+                3840,
+                2160
+              ]
+            },
+            {
+              "asset_id": "HQ04",
+              "path": "Phase 2/Goodboy HQ/HQ04-project-obedience-rd-lab-gpt26-v002.png",
+              "dimensions": [
+                3840,
+                2160
+              ]
+            }
+          ],
+          "HQ05": [
+            {
+              "asset_id": "HQ05",
+              "path": "Phase 2/Goodboy HQ/HQ05-goodboy-security-control-gpt26-v001.png",
+              "dimensions": [
+                3840,
+                2160
+              ]
+            },
+            {
+              "asset_id": "HQ05",
+              "path": "Phase 2/Goodboy HQ/HQ05-goodboy-security-control-gpt26-v002.png",
+              "dimensions": [
+                3840,
+                2160
+              ]
+            }
+          ],
+          "HQ06": [
+            {
+              "asset_id": "HQ06",
+              "path": "Phase 2/Goodboy HQ/HQ06-goodboy-secure-elevators-gpt26-v001.png",
+              "dimensions": [
+                3840,
+                2160
+              ]
+            },
+            {
+              "asset_id": "HQ06",
+              "path": "Phase 2/Goodboy HQ/HQ06-goodboy-secure-elevators-gpt26-v002.png",
+              "dimensions": [
+                3840,
+                2160
+              ]
+            }
+          ],
+          "HQ07": [
+            {
+              "asset_id": "HQ07",
+              "path": "Phase 2/Goodboy HQ/HQ07-goodboy-server-ai-core-gpt26-v001.png",
+              "dimensions": [
+                3840,
+                2160
+              ]
+            }
+          ],
+          "HQ08": [
+            {
+              "asset_id": "HQ08",
+              "path": "Phase 2/Goodboy HQ/HQ08-goodboy-vip-lounge-gpt26-v001.png",
+              "dimensions": [
+                3840,
+                2160
+              ]
+            }
+          ],
+          "HQ09": [
+            {
+              "asset_id": "HQ09",
+              "path": "Phase 2/Goodboy HQ/HQ09-goodboy-corridor-stairs-gpt26-v001.png",
+              "dimensions": [
+                3840,
+                2160
+              ]
+            },
+            {
+              "asset_id": "HQ09",
+              "path": "Phase 2/Goodboy HQ/HQ09-goodboy-corridor-stairs-gpt26-v002.png",
+              "dimensions": [
+                3840,
+                2160
+              ]
+            }
+          ]
+        }
+      },
+      "Props": {
+        "planned_unique_assets": 12,
+        "saved_unique_assets": 12,
+        "saved_png_versions": 15,
+        "saved_ids": [
+          "PROP01",
+          "PROP02",
+          "PROP03",
+          "PROP04",
+          "PROP05",
+          "PROP06",
+          "PROP07",
+          "PROP08",
+          "PROP09",
+          "PROP10",
+          "PROP11",
+          "PROP12"
+        ],
+        "all_saved_pngs_4k": true,
+        "status": "saved_reference_drafts_final_approval_not_inferred",
+        "files": [
+          {
+            "asset_id": "PROP01",
+            "path": "Phase 2/Props/PROP01-hideout-crt-television-v001.png",
+            "dimensions": [
+              3840,
+              2160
+            ]
+          },
+          {
+            "asset_id": "PROP02",
+            "path": "Phase 2/Props/PROP02-catstation-5-console-v001.png",
+            "dimensions": [
+              3840,
+              2160
+            ]
+          },
+          {
+            "asset_id": "PROP03",
+            "path": "Phase 2/Props/PROP03-five-crew-controllers-gpt26-v001.png",
+            "dimensions": [
+              3840,
+              2160
+            ]
+          },
+          {
+            "asset_id": "PROP04",
+            "path": "Phase 2/Props/PROP04-lounge-couch-six-views-gpt26-v001.png",
+            "dimensions": [
+              3840,
+              2160
+            ]
+          },
+          {
+            "asset_id": "PROP04",
+            "path": "Phase 2/Props/PROP04-lounge-couch-six-views-gpt26-v002.png",
+            "dimensions": [
+              3840,
+              2160
+            ]
+          },
+          {
+            "asset_id": "PROP05",
+            "path": "Phase 2/Props/PROP05-newspaper-blank-physical-master-gpt26-v001.png",
+            "dimensions": [
+              3840,
+              2160
+            ]
+          },
+          {
+            "asset_id": "PROP06",
+            "path": "Phase 2/Props/PROP06-catnip-times-warning-frontpage-gpt26-v001.png",
+            "dimensions": [
+              3840,
+              2160
+            ]
+          },
+          {
+            "asset_id": "PROP07",
+            "path": "Phase 2/Props/PROP07-catnip-times-expose-frontpage-gpt26-v001.png",
+            "dimensions": [
+              3840,
+              2160
+            ]
+          },
+          {
+            "asset_id": "PROP08",
+            "path": "Phase 2/Props/PROP08-salmon-packs-price-notice-gpt26-v001.png",
+            "dimensions": [
+              3840,
+              2160
+            ]
+          },
+          {
+            "asset_id": "PROP09",
+            "path": "Phase 2/Props/PROP09-byte-price-scanner-gpt26-v001.png",
+            "dimensions": [
+              3840,
+              2160
+            ]
+          },
+          {
+            "asset_id": "PROP09",
+            "path": "Phase 2/Props/PROP09-byte-price-scanner-gpt26-v002.png",
+            "dimensions": [
+              3840,
+              2160
+            ]
+          },
+          {
+            "asset_id": "PROP10",
+            "path": "Phase 2/Props/PROP10-bone-decoy-remote-gpt26-v001.png",
+            "dimensions": [
+              3840,
+              2160
+            ]
+          },
+          {
+            "asset_id": "PROP10",
+            "path": "Phase 2/Props/PROP10-bone-decoy-remote-gpt26-v002.png",
+            "dimensions": [
+              3840,
+              2160
+            ]
+          },
+          {
+            "asset_id": "PROP11",
+            "path": "Phase 2/Props/PROP11-goodboy-badge-evidence-docs-gpt26-v001.png",
+            "dimensions": [
+              3840,
+              2160
+            ]
+          },
+          {
+            "asset_id": "PROP12",
+            "path": "Phase 2/Props/PROP12-hackpad-datachip-gpt26-v001.png",
+            "dimensions": [
+              3840,
+              2160
+            ]
+          }
+        ],
+        "versions_by_id": {
+          "PROP01": [
+            {
+              "asset_id": "PROP01",
+              "path": "Phase 2/Props/PROP01-hideout-crt-television-v001.png",
+              "dimensions": [
+                3840,
+                2160
+              ]
+            }
+          ],
+          "PROP02": [
+            {
+              "asset_id": "PROP02",
+              "path": "Phase 2/Props/PROP02-catstation-5-console-v001.png",
+              "dimensions": [
+                3840,
+                2160
+              ]
+            }
+          ],
+          "PROP03": [
+            {
+              "asset_id": "PROP03",
+              "path": "Phase 2/Props/PROP03-five-crew-controllers-gpt26-v001.png",
+              "dimensions": [
+                3840,
+                2160
+              ]
+            }
+          ],
+          "PROP04": [
+            {
+              "asset_id": "PROP04",
+              "path": "Phase 2/Props/PROP04-lounge-couch-six-views-gpt26-v001.png",
+              "dimensions": [
+                3840,
+                2160
+              ]
+            },
+            {
+              "asset_id": "PROP04",
+              "path": "Phase 2/Props/PROP04-lounge-couch-six-views-gpt26-v002.png",
+              "dimensions": [
+                3840,
+                2160
+              ]
+            }
+          ],
+          "PROP05": [
+            {
+              "asset_id": "PROP05",
+              "path": "Phase 2/Props/PROP05-newspaper-blank-physical-master-gpt26-v001.png",
+              "dimensions": [
+                3840,
+                2160
+              ]
+            }
+          ],
+          "PROP06": [
+            {
+              "asset_id": "PROP06",
+              "path": "Phase 2/Props/PROP06-catnip-times-warning-frontpage-gpt26-v001.png",
+              "dimensions": [
+                3840,
+                2160
+              ]
+            }
+          ],
+          "PROP07": [
+            {
+              "asset_id": "PROP07",
+              "path": "Phase 2/Props/PROP07-catnip-times-expose-frontpage-gpt26-v001.png",
+              "dimensions": [
+                3840,
+                2160
+              ]
+            }
+          ],
+          "PROP08": [
+            {
+              "asset_id": "PROP08",
+              "path": "Phase 2/Props/PROP08-salmon-packs-price-notice-gpt26-v001.png",
+              "dimensions": [
+                3840,
+                2160
+              ]
+            }
+          ],
+          "PROP09": [
+            {
+              "asset_id": "PROP09",
+              "path": "Phase 2/Props/PROP09-byte-price-scanner-gpt26-v001.png",
+              "dimensions": [
+                3840,
+                2160
+              ]
+            },
+            {
+              "asset_id": "PROP09",
+              "path": "Phase 2/Props/PROP09-byte-price-scanner-gpt26-v002.png",
+              "dimensions": [
+                3840,
+                2160
+              ]
+            }
+          ],
+          "PROP10": [
+            {
+              "asset_id": "PROP10",
+              "path": "Phase 2/Props/PROP10-bone-decoy-remote-gpt26-v001.png",
+              "dimensions": [
+                3840,
+                2160
+              ]
+            },
+            {
+              "asset_id": "PROP10",
+              "path": "Phase 2/Props/PROP10-bone-decoy-remote-gpt26-v002.png",
+              "dimensions": [
+                3840,
+                2160
+              ]
+            }
+          ],
+          "PROP11": [
+            {
+              "asset_id": "PROP11",
+              "path": "Phase 2/Props/PROP11-goodboy-badge-evidence-docs-gpt26-v001.png",
+              "dimensions": [
+                3840,
+                2160
+              ]
+            }
+          ],
+          "PROP12": [
+            {
+              "asset_id": "PROP12",
+              "path": "Phase 2/Props/PROP12-hackpad-datachip-gpt26-v001.png",
+              "dimensions": [
+                3840,
+                2160
+              ]
+            }
+          ]
+        }
+      },
+      "Setting Plates": {
+        "planned_unique_assets": 4,
+        "saved_unique_assets": 4,
+        "saved_png_versions": 4,
+        "saved_ids": [
+          "SET01",
+          "SET02",
+          "SET03",
+          "SET04"
+        ],
+        "all_saved_pngs_4k": true,
+        "status": "saved_reference_drafts_final_approval_not_inferred",
+        "files": [
+          {
+            "asset_id": "SET01",
+            "path": "Phase 2/Setting Plates/SET01-lounge-rear-master-gpt26-v001.png",
+            "dimensions": [
+              3840,
+              2160
+            ]
+          },
+          {
+            "asset_id": "SET02",
+            "path": "Phase 2/Setting Plates/SET02-lounge-true-front-reverse-gpt26-v001.png",
+            "dimensions": [
+              3840,
+              2160
+            ]
+          },
+          {
+            "asset_id": "SET03",
+            "path": "Phase 2/Setting Plates/SET03-lair-desk-master-gpt26-v001.png",
+            "dimensions": [
+              3840,
+              2160
+            ]
+          },
+          {
+            "asset_id": "SET04",
+            "path": "Phase 2/Setting Plates/SET04-lair-true-reverse-gpt26-v001.png",
+            "dimensions": [
+              3840,
+              2160
+            ]
+          }
+        ],
+        "versions_by_id": {
+          "SET01": [
+            {
+              "asset_id": "SET01",
+              "path": "Phase 2/Setting Plates/SET01-lounge-rear-master-gpt26-v001.png",
+              "dimensions": [
+                3840,
+                2160
+              ]
+            }
+          ],
+          "SET02": [
+            {
+              "asset_id": "SET02",
+              "path": "Phase 2/Setting Plates/SET02-lounge-true-front-reverse-gpt26-v001.png",
+              "dimensions": [
+                3840,
+                2160
+              ]
+            }
+          ],
+          "SET03": [
+            {
+              "asset_id": "SET03",
+              "path": "Phase 2/Setting Plates/SET03-lair-desk-master-gpt26-v001.png",
+              "dimensions": [
+                3840,
+                2160
+              ]
+            }
+          ],
+          "SET04": [
+            {
+              "asset_id": "SET04",
+              "path": "Phase 2/Setting Plates/SET04-lair-true-reverse-gpt26-v001.png",
+              "dimensions": [
+                3840,
+                2160
+              ]
+            }
+          ]
+        }
+      },
+      "Opening Frames": {
+        "planned_unique_assets": 28,
+        "saved_unique_assets": 28,
+        "saved_png_versions": 34,
+        "saved_ids": [
+          "S01A",
+          "S01B",
+          "S01C",
+          "S01D",
+          "S01E",
+          "S01F",
+          "S01G",
+          "S01H",
+          "S02A",
+          "S02B",
+          "S02C",
+          "S02D",
+          "S02E",
+          "S02F",
+          "S02G",
+          "S03A",
+          "S03B",
+          "S03C",
+          "S03D",
+          "S03E",
+          "S03F",
+          "S03G",
+          "S04A",
+          "S04B",
+          "S04C",
+          "S04D",
+          "S04E",
+          "S04F"
+        ],
+        "all_saved_pngs_4k": true,
+        "status": "saved_reference_drafts_final_approval_not_inferred",
+        "files": [
+          {
+            "asset_id": "S01A",
+            "path": "Phase 2/Opening Frames/S01A-gpt26-v001.png",
+            "dimensions": [
+              3840,
+              2160
+            ]
+          },
+          {
+            "asset_id": "S01B",
+            "path": "Phase 2/Opening Frames/S01B-gpt26-v001.png",
+            "dimensions": [
+              3840,
+              2160
+            ]
+          },
+          {
+            "asset_id": "S01C",
+            "path": "Phase 2/Opening Frames/S01C-gpt26-v001.png",
+            "dimensions": [
+              3840,
+              2160
+            ]
+          },
+          {
+            "asset_id": "S01D",
+            "path": "Phase 2/Opening Frames/S01D-gpt26-v001.png",
+            "dimensions": [
+              3840,
+              2160
+            ]
+          },
+          {
+            "asset_id": "S01E",
+            "path": "Phase 2/Opening Frames/S01E-gpt26-v001.png",
+            "dimensions": [
+              3840,
+              2160
+            ]
+          },
+          {
+            "asset_id": "S01E",
+            "path": "Phase 2/Opening Frames/S01E-gpt26-v002.png",
+            "dimensions": [
+              3840,
+              2160
+            ]
+          },
+          {
+            "asset_id": "S01F",
+            "path": "Phase 2/Opening Frames/S01F-gpt26-v001.png",
+            "dimensions": [
+              3840,
+              2160
+            ]
+          },
+          {
+            "asset_id": "S01F",
+            "path": "Phase 2/Opening Frames/S01F-gpt26-v002.png",
+            "dimensions": [
+              3840,
+              2160
+            ]
+          },
+          {
+            "asset_id": "S01G",
+            "path": "Phase 2/Opening Frames/S01G-gpt26-v001.png",
+            "dimensions": [
+              3840,
+              2160
+            ]
+          },
+          {
+            "asset_id": "S01G",
+            "path": "Phase 2/Opening Frames/S01G-gpt26-v002.png",
+            "dimensions": [
+              3840,
+              2160
+            ]
+          },
+          {
+            "asset_id": "S01H",
+            "path": "Phase 2/Opening Frames/S01H-gpt26-v001.png",
+            "dimensions": [
+              3840,
+              2160
+            ]
+          },
+          {
+            "asset_id": "S01H",
+            "path": "Phase 2/Opening Frames/S01H-gpt26-v002.png",
+            "dimensions": [
+              3840,
+              2160
+            ]
+          },
+          {
+            "asset_id": "S02A",
+            "path": "Phase 2/Opening Frames/S02A-gpt26-v001.png",
+            "dimensions": [
+              3840,
+              2160
+            ]
+          },
+          {
+            "asset_id": "S02B",
+            "path": "Phase 2/Opening Frames/S02B-gpt26-v001.png",
+            "dimensions": [
+              3840,
+              2160
+            ]
+          },
+          {
+            "asset_id": "S02C",
+            "path": "Phase 2/Opening Frames/S02C-gpt26-v001.png",
+            "dimensions": [
+              3840,
+              2160
+            ]
+          },
+          {
+            "asset_id": "S02C",
+            "path": "Phase 2/Opening Frames/S02C-gpt26-v002.png",
+            "dimensions": [
+              3840,
+              2160
+            ]
+          },
+          {
+            "asset_id": "S02D",
+            "path": "Phase 2/Opening Frames/S02D-gpt26-v001.png",
+            "dimensions": [
+              3840,
+              2160
+            ]
+          },
+          {
+            "asset_id": "S02E",
+            "path": "Phase 2/Opening Frames/S02E-gpt26-v001.png",
+            "dimensions": [
+              3840,
+              2160
+            ]
+          },
+          {
+            "asset_id": "S02F",
+            "path": "Phase 2/Opening Frames/S02F-gpt26-v001.png",
+            "dimensions": [
+              3840,
+              2160
+            ]
+          },
+          {
+            "asset_id": "S02G",
+            "path": "Phase 2/Opening Frames/S02G-gpt26-v001.png",
+            "dimensions": [
+              3840,
+              2160
+            ]
+          },
+          {
+            "asset_id": "S03A",
+            "path": "Phase 2/Opening Frames/S03A-gpt26-v001.png",
+            "dimensions": [
+              3840,
+              2160
+            ]
+          },
+          {
+            "asset_id": "S03A",
+            "path": "Phase 2/Opening Frames/S03A-gpt26-v002.png",
+            "dimensions": [
+              3840,
+              2160
+            ]
+          },
+          {
+            "asset_id": "S03B",
+            "path": "Phase 2/Opening Frames/S03B-gpt26-v001.png",
+            "dimensions": [
+              3840,
+              2160
+            ]
+          },
+          {
+            "asset_id": "S03C",
+            "path": "Phase 2/Opening Frames/S03C-gpt26-v001.png",
+            "dimensions": [
+              3840,
+              2160
+            ]
+          },
+          {
+            "asset_id": "S03D",
+            "path": "Phase 2/Opening Frames/S03D-gpt26-v001.png",
+            "dimensions": [
+              3840,
+              2160
+            ]
+          },
+          {
+            "asset_id": "S03E",
+            "path": "Phase 2/Opening Frames/S03E-gpt26-v001.png",
+            "dimensions": [
+              3840,
+              2160
+            ]
+          },
+          {
+            "asset_id": "S03F",
+            "path": "Phase 2/Opening Frames/S03F-gpt26-v001.png",
+            "dimensions": [
+              3840,
+              2160
+            ]
+          },
+          {
+            "asset_id": "S03G",
+            "path": "Phase 2/Opening Frames/S03G-gpt26-v001.png",
+            "dimensions": [
+              3840,
+              2160
+            ]
+          },
+          {
+            "asset_id": "S04A",
+            "path": "Phase 2/Opening Frames/S04A-gpt26-v001.png",
+            "dimensions": [
+              3840,
+              2160
+            ]
+          },
+          {
+            "asset_id": "S04B",
+            "path": "Phase 2/Opening Frames/S04B-gpt26-v001.png",
+            "dimensions": [
+              3840,
+              2160
+            ]
+          },
+          {
+            "asset_id": "S04C",
+            "path": "Phase 2/Opening Frames/S04C-gpt26-v001.png",
+            "dimensions": [
+              3840,
+              2160
+            ]
+          },
+          {
+            "asset_id": "S04D",
+            "path": "Phase 2/Opening Frames/S04D-gpt26-v001.png",
+            "dimensions": [
+              3840,
+              2160
+            ]
+          },
+          {
+            "asset_id": "S04E",
+            "path": "Phase 2/Opening Frames/S04E-gpt26-v001.png",
+            "dimensions": [
+              3840,
+              2160
+            ]
+          },
+          {
+            "asset_id": "S04F",
+            "path": "Phase 2/Opening Frames/S04F-gpt26-v001.png",
+            "dimensions": [
+              3840,
+              2160
+            ]
+          }
+        ],
+        "versions_by_id": {
+          "S01A": [
+            {
+              "asset_id": "S01A",
+              "path": "Phase 2/Opening Frames/S01A-gpt26-v001.png",
+              "dimensions": [
+                3840,
+                2160
+              ]
+            }
+          ],
+          "S01B": [
+            {
+              "asset_id": "S01B",
+              "path": "Phase 2/Opening Frames/S01B-gpt26-v001.png",
+              "dimensions": [
+                3840,
+                2160
+              ]
+            }
+          ],
+          "S01C": [
+            {
+              "asset_id": "S01C",
+              "path": "Phase 2/Opening Frames/S01C-gpt26-v001.png",
+              "dimensions": [
+                3840,
+                2160
+              ]
+            }
+          ],
+          "S01D": [
+            {
+              "asset_id": "S01D",
+              "path": "Phase 2/Opening Frames/S01D-gpt26-v001.png",
+              "dimensions": [
+                3840,
+                2160
+              ]
+            }
+          ],
+          "S01E": [
+            {
+              "asset_id": "S01E",
+              "path": "Phase 2/Opening Frames/S01E-gpt26-v001.png",
+              "dimensions": [
+                3840,
+                2160
+              ]
+            },
+            {
+              "asset_id": "S01E",
+              "path": "Phase 2/Opening Frames/S01E-gpt26-v002.png",
+              "dimensions": [
+                3840,
+                2160
+              ]
+            }
+          ],
+          "S01F": [
+            {
+              "asset_id": "S01F",
+              "path": "Phase 2/Opening Frames/S01F-gpt26-v001.png",
+              "dimensions": [
+                3840,
+                2160
+              ]
+            },
+            {
+              "asset_id": "S01F",
+              "path": "Phase 2/Opening Frames/S01F-gpt26-v002.png",
+              "dimensions": [
+                3840,
+                2160
+              ]
+            }
+          ],
+          "S01G": [
+            {
+              "asset_id": "S01G",
+              "path": "Phase 2/Opening Frames/S01G-gpt26-v001.png",
+              "dimensions": [
+                3840,
+                2160
+              ]
+            },
+            {
+              "asset_id": "S01G",
+              "path": "Phase 2/Opening Frames/S01G-gpt26-v002.png",
+              "dimensions": [
+                3840,
+                2160
+              ]
+            }
+          ],
+          "S01H": [
+            {
+              "asset_id": "S01H",
+              "path": "Phase 2/Opening Frames/S01H-gpt26-v001.png",
+              "dimensions": [
+                3840,
+                2160
+              ]
+            },
+            {
+              "asset_id": "S01H",
+              "path": "Phase 2/Opening Frames/S01H-gpt26-v002.png",
+              "dimensions": [
+                3840,
+                2160
+              ]
+            }
+          ],
+          "S02A": [
+            {
+              "asset_id": "S02A",
+              "path": "Phase 2/Opening Frames/S02A-gpt26-v001.png",
+              "dimensions": [
+                3840,
+                2160
+              ]
+            }
+          ],
+          "S02B": [
+            {
+              "asset_id": "S02B",
+              "path": "Phase 2/Opening Frames/S02B-gpt26-v001.png",
+              "dimensions": [
+                3840,
+                2160
+              ]
+            }
+          ],
+          "S02C": [
+            {
+              "asset_id": "S02C",
+              "path": "Phase 2/Opening Frames/S02C-gpt26-v001.png",
+              "dimensions": [
+                3840,
+                2160
+              ]
+            },
+            {
+              "asset_id": "S02C",
+              "path": "Phase 2/Opening Frames/S02C-gpt26-v002.png",
+              "dimensions": [
+                3840,
+                2160
+              ]
+            }
+          ],
+          "S02D": [
+            {
+              "asset_id": "S02D",
+              "path": "Phase 2/Opening Frames/S02D-gpt26-v001.png",
+              "dimensions": [
+                3840,
+                2160
+              ]
+            }
+          ],
+          "S02E": [
+            {
+              "asset_id": "S02E",
+              "path": "Phase 2/Opening Frames/S02E-gpt26-v001.png",
+              "dimensions": [
+                3840,
+                2160
+              ]
+            }
+          ],
+          "S02F": [
+            {
+              "asset_id": "S02F",
+              "path": "Phase 2/Opening Frames/S02F-gpt26-v001.png",
+              "dimensions": [
+                3840,
+                2160
+              ]
+            }
+          ],
+          "S02G": [
+            {
+              "asset_id": "S02G",
+              "path": "Phase 2/Opening Frames/S02G-gpt26-v001.png",
+              "dimensions": [
+                3840,
+                2160
+              ]
+            }
+          ],
+          "S03A": [
+            {
+              "asset_id": "S03A",
+              "path": "Phase 2/Opening Frames/S03A-gpt26-v001.png",
+              "dimensions": [
+                3840,
+                2160
+              ]
+            },
+            {
+              "asset_id": "S03A",
+              "path": "Phase 2/Opening Frames/S03A-gpt26-v002.png",
+              "dimensions": [
+                3840,
+                2160
+              ]
+            }
+          ],
+          "S03B": [
+            {
+              "asset_id": "S03B",
+              "path": "Phase 2/Opening Frames/S03B-gpt26-v001.png",
+              "dimensions": [
+                3840,
+                2160
+              ]
+            }
+          ],
+          "S03C": [
+            {
+              "asset_id": "S03C",
+              "path": "Phase 2/Opening Frames/S03C-gpt26-v001.png",
+              "dimensions": [
+                3840,
+                2160
+              ]
+            }
+          ],
+          "S03D": [
+            {
+              "asset_id": "S03D",
+              "path": "Phase 2/Opening Frames/S03D-gpt26-v001.png",
+              "dimensions": [
+                3840,
+                2160
+              ]
+            }
+          ],
+          "S03E": [
+            {
+              "asset_id": "S03E",
+              "path": "Phase 2/Opening Frames/S03E-gpt26-v001.png",
+              "dimensions": [
+                3840,
+                2160
+              ]
+            }
+          ],
+          "S03F": [
+            {
+              "asset_id": "S03F",
+              "path": "Phase 2/Opening Frames/S03F-gpt26-v001.png",
+              "dimensions": [
+                3840,
+                2160
+              ]
+            }
+          ],
+          "S03G": [
+            {
+              "asset_id": "S03G",
+              "path": "Phase 2/Opening Frames/S03G-gpt26-v001.png",
+              "dimensions": [
+                3840,
+                2160
+              ]
+            }
+          ],
+          "S04A": [
+            {
+              "asset_id": "S04A",
+              "path": "Phase 2/Opening Frames/S04A-gpt26-v001.png",
+              "dimensions": [
+                3840,
+                2160
+              ]
+            }
+          ],
+          "S04B": [
+            {
+              "asset_id": "S04B",
+              "path": "Phase 2/Opening Frames/S04B-gpt26-v001.png",
+              "dimensions": [
+                3840,
+                2160
+              ]
+            }
+          ],
+          "S04C": [
+            {
+              "asset_id": "S04C",
+              "path": "Phase 2/Opening Frames/S04C-gpt26-v001.png",
+              "dimensions": [
+                3840,
+                2160
+              ]
+            }
+          ],
+          "S04D": [
+            {
+              "asset_id": "S04D",
+              "path": "Phase 2/Opening Frames/S04D-gpt26-v001.png",
+              "dimensions": [
+                3840,
+                2160
+              ]
+            }
+          ],
+          "S04E": [
+            {
+              "asset_id": "S04E",
+              "path": "Phase 2/Opening Frames/S04E-gpt26-v001.png",
+              "dimensions": [
+                3840,
+                2160
+              ]
+            }
+          ],
+          "S04F": [
+            {
+              "asset_id": "S04F",
+              "path": "Phase 2/Opening Frames/S04F-gpt26-v001.png",
+              "dimensions": [
+                3840,
+                2160
+              ]
+            }
+          ]
+        }
+      }
+    },
+    "current_character_masters": {
+      "CHAR06": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Phase 2\\Character Masters\\CHAR06-barkington-character-master-gpt26-v002.png",
+      "CREW01": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Phase 2\\Character Masters\\CREW01-trixie-character-master-gpt26-v001.png",
+      "CREW02": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Phase 2\\Character Masters\\CREW02-byte-character-master-gpt26-v001.png",
+      "CREW03": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Phase 2\\Character Masters\\CREW03-ghost-character-master-gpt26-v001.png",
+      "CREW04": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Phase 2\\Character Masters\\CREW04-onyx-character-master-gpt26-v001.png",
+      "CREW05": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Phase 2\\Character Masters\\CREW05-neon-character-master-gpt26-v001.png"
+    },
+    "current_dog_masters": {
+      "DOG01": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Phase 2\\Dog Masters\\DOG01-viper-character-master-gpt26-v001.png",
+      "DOG02": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Phase 2\\Dog Masters\\DOG02-frost-character-master-gpt26-v001.png",
+      "DOG03": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Phase 2\\Dog Masters\\DOG03-stone-character-master-gpt26-v001.png",
+      "DOG04": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Phase 2\\Dog Masters\\DOG04-velvet-character-master-gpt26-v001.png",
+      "DOG05": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Phase 2\\Dog Masters\\DOG05-domino-character-master-gpt26-v001.png"
+    },
+    "audio": {
+      "distinct_recordings": 22,
+      "physical_mp3_files": 25,
+      "mirrored_copies": 3,
+      "original_auditions": 7,
+      "requested_line_versions": 2,
+      "narrator_trials": 1,
+      "opening_exact_dialogue_takes": 12,
+      "opening_text_characters": 629,
+      "opening_duration_sec": 36.501769,
+      "opening_observed_included_credits": 139,
+      "historical_remaining_included_credits": 29711,
+      "historical_usage_checked_utc": "2026-11-06T19:10:52.988095+00:00",
+      "performance_approved": false
+    },
+    "provider_policy": {
+      "still_image_provider": "Higgsfield",
+      "still_image_model": "gpt_image_2_6",
+      "higgsfield_stills_only": true,
+      "higgsfield_audio_allowed": false,
+      "higgsfield_video_allowed": false,
+      "speech_provider": "ElevenLabs",
+      "speech_account": "user account only",
+      "additional_voice_generation": "No additional speech generation authorized by this documentation refresh.",
+      "performance_approval": "Voice selection is confirmed; individual takes remain review performances until explicitly approved."
+    },
+    "source_manifest_paths": [
+      "Phase 2/Character Masters/generation-manifest.json",
+      "Phase 2/Dog Masters/generation-manifest.json",
+      "Phase 2/Goodboy HQ/generation-manifest.json",
+      "Phase 2/Opening Frames/generation-manifest.json"
+    ],
+    "count_semantics": "Unique asset IDs and PNG versions are separate; revisions do not create additional identities or locations. Existence does not imply approval. In-flight outputs not yet saved are not counted.",
+    "external_sync": "No sync is performed or claimed by this refresh."
+  },
+  "provider_policy": {
+    "still_image_provider": "Higgsfield",
+    "still_image_model": "gpt_image_2_6",
+    "higgsfield_stills_only": true,
+    "higgsfield_audio_allowed": false,
+    "higgsfield_video_allowed": false,
+    "speech_provider": "ElevenLabs",
+    "speech_account": "user account only",
+    "additional_voice_generation": "No additional speech generation authorized by this documentation refresh.",
+    "performance_approval": "Voice selection is confirmed; individual takes remain review performances until explicitly approved."
+  },
+  "opening_scene_recordings": {
+    "count": 12,
+    "scenes": [
+      2,
+      3,
+      4
+    ],
+    "duration_sec": 36.501769,
+    "text_characters": 629,
+    "status": "review_takes_not_final_approved",
+    "receipt": "Voices/Opening Scenes/batch-receipt.json",
+    "player": "Voices/Opening Scenes/listen.html",
+    "included_credit_cost_settled": 139,
+    "usage_balance_is_historical": true
+  },
+  "external_sync_scope_note": "Existing external_sync text is the historical completed location snapshot. This helper performs no sync and does not assert newer Phase 2 files were uploaded."
+}

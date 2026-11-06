@@ -1,0 +1,90 @@
+{
+  "asset_id": "DOG03",
+  "name": "Stone",
+  "species": "English Bulldog",
+  "status": "review_draft_visually_checked",
+  "provider": "Higgsfield",
+  "model": "gpt_image_2_6",
+  "requested_quality": "high",
+  "requested_resolution": "4k",
+  "requested_aspect_ratio": "16:9",
+  "actual_dimensions": [
+    3840,
+    2160
+  ],
+  "format": "PNG",
+  "bytes": 10174783,
+  "sha256": "c53f980705f2b3ca678d1db923ba646b3269b060c9066419c9867cb60599cbc9",
+  "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Phase 2\\Dog Masters\\DOG03-stone-character-master-gpt26-v001.png",
+  "project_copy": "C:\\Users\\DELL\\Desktop\\CyberKitty 2077\\Assets\\Dog Masters\\GPT Image 2.6\\DOG03-stone-character-master-gpt26-v001.png",
+  "job_id": "ed7ffbfc-e05c-4a43-a010-8a37e917d0b0",
+  "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3FexRxU2V7FefQUvOnG7eFCKfmw/hf_20261106_193840_ed7ffbfc-e05c-4a43-a010-8a37e917d0b0.png",
+  "saved_at_utc": "2026-11-06T19:40:08.665071+00:00",
+  "quote_credits": 4.25,
+  "actual_billed_credits": "not_independently_verified",
+  "batch_lease_credits": 22,
+  "batch_max_paid_jobs": 5,
+  "paid_retries": 0,
+  "reference_paths": [
+    "C:\\Users\\DELL\\Desktop\\CyberKitty 2077\\Assets\\Character Sheets\\The Dogs\\file_00000000ffc081f59db0af84291190f4.webp"
+  ],
+  "reference_media_ids": [
+    "0a7bc382-00e2-467b-b908-ca03cb04bfe5"
+  ],
+  "reference_sha256": "976d110258bde2e256a2bb3fd4dbae625d49be6b79e7979a2fe2a42637a2caa0",
+  "reference_limit": "Only a low-resolution group reference is available. Preserve visibly established breed, coat and silhouette. Unseen reverse-side seams and exact eye/spot details are proposed, never falsely claimed as recovered canon. Approve the new isolated master before use in scenes.",
+  "generation_params": {
+    "model": "gpt_image_2_6",
+    "prompt": "Use case: stylized-concept / identity-preserve.\nCreate ONE 3840×2160, 16:9 high-quality production character sheet for Stone only, an ADULT anthropomorphic DOG in the established Kitty Punk 2077 / Goodboy Global world. This is one consistent character shown repeatedly as reference views, not a group of different actors.\n\nREFERENCE IMAGE 1: supplied eight-dog council overview, 512×341. Identify ONLY the named STONE card, numbered 6, in the row of eight character cards; use that dog's corresponding boardroom appearance as supplementary outfit evidence. Ignore the other seven identities. The source is low-resolution: preserve the visibly established breed, head silhouette, coat colors, glasses if present and outfit. Resolve unseen reverse construction minimally and consistently as a proposed master for review; do not invent ranks, scars, signature gadgets, jewelry or a new biography.\nIDENTITY LOCK: English Bulldog; Stocky, wrinkled tan-and-white face, folded ears, heavy jowls; Dark gold-trim suit, white shirt and gold tie.\nKeep the shorter, stockier English Bulldog build, heavy folded jowls, forehead wrinkles, folded ears and tan-and-white face. Preserve white shirt and gold tie. This is not the grey Pit Bull Frost.\n\nLAYOUT: Exactly NINE large panels in a neat 3×3 grid on a neutral dark charcoal studio backdrop, thin restrained magenta dividers matching the existing production sheets. Small header across the top reading exactly \"DOG03 — STONE\". Row 1: \"1. FRONT\" (complete standing body), \"2. BACK\" (complete true rear), \"3. LEFT PROFILE\" (complete character's anatomical left side, nose toward frame-left). Row 2: \"4. RIGHT PROFILE\" (complete anatomical right side, nose toward frame-right), \"5. FACE\" (large three-quarter head and shoulders), \"6. EXPRESSIONS\" (four small consistent head views labelled NEUTRAL, FOCUSED, AMUSED, ALARMED). Row 3: \"7. PAWS\" (relaxed outer paw, palm/pads and simple gentle grip close views), \"8. SIGNATURE DETAILS\" (close views of the already established face/fur, collar/trim, existing eyewear if present), \"9. COSTUME / ACCESSORIES\" (the SAME coat or suit, shirt/tie, trousers, footwear and only already visible fixed accessories, with small material/color swatches).\nIn panels 1–4, use matching height and scale, natural neutral standing posture, empty paws, complete ears to soles and clear margin. Tail if naturally visible must attach plausibly and stay consistent; do not create an arbitrary hole through a long coat. No silhouette cropping. Front and back must be truly different directions; do not mirror a three-quarter pose. Face, muzzle length, ears, fur and outfit remain identical in all views. Clothing stays buttoned and businesslike in body views.\nANATOMY: clearly canine muzzle, nose, ears and fur, plausible furry or paw-shaped gloved hands, compact coherent digits and pads/claws where exposed; no bare human hands, human skin, fused fingers, extra limbs or detached heads. Boots are consistent, not human bare feet. No child proportions, cats or other species.\nSTYLE: polished cinematic 3D animated cyberpunk realism consistent with the supplied characters, realistic groomed fur and fabric/metal/leather textures, soft neutral studio key light with restrained cyan/magenta rim. Make markings and garment construction readable; avoid dramatic neon bloom hiding shapes. Same material colors in every tile. This is a clean reference sheet, not a scene, poster, billboard or council room. No speech bubbles, watermark, extra slogans, weapons or invented props. Only requested short labels and header; no voice names or actor names. No final-canon or approval claims printed on the sheet.",
+    "quality": "high",
+    "resolution": "4k",
+    "aspect_ratio": "16:9",
+    "count": 1,
+    "output_format": "png",
+    "background": "opaque",
+    "medias": [
+      {
+        "role": "image",
+        "value": "0a7bc382-00e2-467b-b908-ca03cb04bfe5"
+      }
+    ]
+  },
+  "source_status": "Low-resolution identity evidence; newly resolved hidden details proposed for review.",
+  "initial_crony_assignment": null,
+  "voice_assignment": null,
+  "cat_crew_count": 5,
+  "visual_qa": {
+    "asset_id": "DOG03",
+    "name": "Stone",
+    "status": "review_draft_with_notes",
+    "checked_at_utc": "2026-11-06T19:43:02.594379+00:00",
+    "reviewed": true,
+    "production_approved": false,
+    "review_method": "Visual inspection of each saved full sheet, plus pixel/dimension verification and source comparison.",
+    "nine_main_panels": true,
+    "all_four_full_body_directions_present": true,
+    "no_bare_human_hands_observed": true,
+    "only_target_character_identity": true,
+    "reference_confidence": "Breed, colors and broad costume supported by original council overview; fine hidden details proposed.",
+    "rerun_authorized": false,
+    "paid_retry_performed": false,
+    "passes": [
+      "Stocky tan/white English Bulldog, folded ears, wrinkles and heavy jowls retained.",
+      "Dark/gold suit with white shirt and gold tie retained.",
+      "Nine panels with complete directional bodies, expression changes and paw/costume detail."
+    ],
+    "issues": [
+      {
+        "severity": "continuity_lock_before_paw_closeups",
+        "category": "marking_consistency",
+        "note": "Tan/white paw coloring varies across front, side/back and close-up references. Select one consistent left/right paw mapping before interaction close-ups; do not mix these markings between shots."
+      },
+      {
+        "severity": "review_note",
+        "category": "inferred_design",
+        "note": "Exact rear seam/vent, tail, shoulder hardware and paw marking resolution remain proposed from low-resolution source."
+      }
+    ]
+  },
+  "qa_file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Phase 2\\Dog Masters\\DOG03-stone-character-master-gpt26-v001.qa.json"
+}

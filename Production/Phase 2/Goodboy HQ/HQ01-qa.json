@@ -1,0 +1,26 @@
+{
+  "id": "HQ01",
+  "status": "draft_usable_architecture_review",
+  "dimensions": [
+    3840,
+    2160
+  ],
+  "passes": [
+    "Nine panels, no occupants or portraits",
+    "Eight chairs in plan and consistent main arrangement",
+    "North glazing/logo, solid side walls, centered south double door",
+    "Table north-south; A/B opposite northeast/southwest arrows",
+    "Goodboy Global spelling correct"
+  ],
+  "issues": [
+    {
+      "severity": "minor",
+      "finding": "A/B are indicated diagonally in plan, while rendered wides are closer to centered axes; use as design views rather than precise lens/blocking plates."
+    },
+    {
+      "severity": "minor",
+      "finding": "Floor detail introduces a paw medallion not specified as a fixed floor feature; choose whether it is floor or tabletop material detail before scene plates."
+    }
+  ],
+  "retry_performed": false
+}

@@ -1,0 +1,43 @@
+Next pilot assets
+
+Snapshot: 2026-11-06 20:09 UTC. Checked the current character/location registries, working 24-scene pilot, Phase 2 manifests and QA, Imported/Recovered References, and the Desktop project's source character, location and prop folders. “No standalone sheet found” means absent from this checked inventory; it does not mean the subject has never appeared in existing art.
+
+## Already covered — extend these assets
+
+The five crew members and Barkington have current master sheets. Fetch and Muzzle retain original individual sheets; Viper, Frost, Stone, Velvet and Domino now have [new dog masters](<Dog Masters/README.md>). These eight library dogs do not select the initial four cronies. Keep the hero crew at five.
+
+[PROP01–PROP12](Props/README.md) cover the CRT, console, five controllers, couch, physical newspaper, two newspaper layouts, salmon packs/price notice, scanner, bone/remote, badge/evidence forms, and hackpad/chip. They are review drafts, not missing assets. Use couch/scanner/bone v002. Four setting plates and twenty location sheets also exist.
+
+**Opening batch complete:** all 28 planned Scene 01–04 stills and six targeted corrected versions are saved in the [opening-frame manifest](<Opening Frames/generation-manifest.json>). Use its preferred versions and QA notes. These are review stills, not finished animation. S03C still needs a clean graphic-compositing treatment; minor sticker and close-up motion-margin notes remain. Final gallery and documentation include the completed batch; backup receipts record external synchronization separately.
+
+## Priority 1 — supporting identities before later scene coverage
+
+| Need / scenes | What already exists | Next asset |
+|---|---|---|
+| 7-Catleven clerk · 04–05 | Clerk visible in [store reference](<../Imported References/7-catleven-exterior.png>); identity and seven prompts in [character registry](../character-prompts.json). | **No standalone sheet found.** Isolate the tabby-and-white clerk, cap, orange shirt and green apron; add front/side/back, expressions and counter/paw coverage. Do not add dialogue absent from the working pilot. |
+| Civilians and vendors · 06–08,18,23 | Market/street location art, new S04B shopper frame, and a proposed six-cat ensemble in the registry. | **No recurring civilian identity sheet found.** Lock six repeatable faces/outfits, including the speaking citizen and vendors; add empty-handed, newspaper, banner and unloading poses. Existing shoppers are useful references, not yet a complete recurring cast. |
+| Kitten · 08 | Explicit speaking role in the pilot. No dedicated kitten entry in the 21-entry character registry, and no standalone sheet found. | **New supporting asset:** one kitten identity, size comparison, expressions and upward eyeline to Trixie. Keep separate from the five teenage heroes. |
+| Guard A / Guard B · 10–16,20–21 | Restaurant security extras and proposed distinct guard identities/prompts in the registry; checkpoint/factory art supplies uniform context. | **No standalone sheets found.** Two repeatable older dog guards, paws, earpieces/radios, alert/chase/reaction coverage. They are not General Fetch or an automatic assignment of a named crony. Keep any factory uniform variant tied to the same identity. |
+| WOOF7 Shiba / NIP7 Sphynx · 02–03,14–15,17,23 | [Restaurant Shiba](<../Imported References/steak-and-bone-meeting.png>) and [Sphynx newscaster](<../Imported References/nip7-investigation.png>); both have registry prompts. | **No standalone anchor sheets found.** Lock face, glasses, suit, paws and presenter/dinner poses. The imported interruption's golden retriever is a conflicting presenter version, not the Shiba identity. Retain NIP7's British voice direction. |
+| Service robot · 13 | Scripted restaurant robot and service-corridor location coverage. No dedicated robot sheet/registry asset found. | **New prop/robot sheet:** fixed body, tray, wheels, sensor, dimensions and idle/pass/turn states. No new named character or speaking line is required. |
+
+## Priority 2 — evidence and printed graphics
+
+1. **Payoff photograph, cash exchange and surveillance kit · 11,14–18.** The restaurant meeting image exists, but its duplicate is not the missing payoff. [Recovery status](<../Imported References/discord-pending.json>) still lists the original payoff as unrecovered. Create a definitive scene-derived photograph using the same Doberman Barkington, Shiba, dinner wardrobe, table axis and furry paws; save uncropped image plus news/newspaper crops. It proves an undisclosed payment only. Cash bag/banknotes, camera, recorder and viewfinder need consistent close-up states; no dedicated multi-view sheets were found for those props. Derive designs from existing character gear and restaurant art where visible.
+
+2. **Finish the newspapers · 06,17–18.** PROP05 is the blank physical paper; PROP06 warning and PROP07 payment exposé already have layouts/text. Their QA explicitly says **photo fields are blank**. Add the correct warning image and definitive payoff photograph, finalize legible copy/date/captions, then map each edition onto PROP05's folded/open views. Do not regenerate the paper object or call the layouts absent. A later routes edition is optional unless the selected shot needs one; Scene 23 explicitly requires the NIP7 confirmation.
+
+3. **Shipment evidence and routing graphics · 19–23.** PROP11 already supplies the badge and blank corporate forms. Fill matching fictional shipment/lot/order IDs, timestamps, origin, planned destination, diverted destination, quantity, override record and truck/bay identifiers across paper, database, crate labels, map and news. Districts **7–12** are deprived; **1–6** receive preferential shipments. Produce matching before/after routing and publication-confirmation graphics. Keep dispatch shutdown visually separate from refrigeration continuing to run.
+
+4. **Exact intermediate screens · 05–09,17,19,22.** Existing devices deliberately have blank screens. Still needed as separate readable graphics: scanner receipt/price history showing the increase predating the broadcast, rally chart, encrypted message/meeting invitation, restaurant map, upload/evidence display, shipping database and public release. Reuse $10 → $30 from PROP08; maintain one timestamp sequence and the spelling **Goodboy Global**.
+
+## Priority 3 — action props and continuity polish
+
+- **Rally/market:** microphone/PA, projector, repeatable banners/graffiti, vendor scale and stall supplied/empty states. These have location context; no dedicated close-coverage prop sheets were found.
+- **Restaurant/security:** limousine, CCTV housing, radio, alarm light, cash bag and tableware close coverage. Preserve the existing restaurant design rather than inventing a second set.
+- **Factory/delivery:** refrigerated truck exterior/interior, carton/lot label, pallet stack and loading-door states. Factory sheets already supply the visual context; standalone turnaround/state sheets were not found. Preserve cold storage while rerouting dispatch.
+- **Existing QA:** [HQ00 v002](<Goodboy HQ/HQ00-v002-qa.json>) still contains lab silhouettes and must not seed new generation. HQ04/05/06/09 v002 resolve their main room defects but retain diagram-scale caveats. Couch overhead orientation and held opening frames also need targeted polish, not replacement of completed collections.
+- **Later-season assets:** human AI/avatar, returning commander, ship and additional districts remain proposed follow-on work; they are not dependencies for completing this pilot.
+
+This is the next-pass production scope, not a new permission gate. No image, speech, video or external synchronization was performed for this inventory.
+

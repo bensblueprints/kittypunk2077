@@ -1,0 +1,27 @@
+{
+  "visual_reviewed": true,
+  "status": "previs_still_review_with_continuity_notes",
+  "hard_actor_count_pass": true,
+  "production_approved": false,
+  "paid_retry_performed": false,
+  "asset_id": "S04C",
+  "expected_actor_count": 2,
+  "observed_actor_count": 2,
+  "anatomy_check": "Two separate cats, each with two arms and legs and one tail; no merged or duplicated limbs observed.",
+  "passes": [
+    "Byte remains frame left, Trixie frame right and slightly ahead; both travel to frame right.",
+    "Only two actors; no extra civilians, invented bags or snacks.",
+    "Trixie's circuit remains on anatomical right/viewer-left side; Byte's sunglasses and orange headphones retained.",
+    "Wet street, warm window row, electrical box and magenta cat sign maintain the same travel axis."
+  ],
+  "issues": [
+    {
+      "severity": "minor",
+      "note": "Framing is a full-body walking two-shot rather than the planned medium dialogue coverage. Editorial crop may improve the intended emphasis."
+    },
+    {
+      "severity": "minor",
+      "note": "Trixie's circuit stays on the correct cheek, but fine branch lengths/forehead reach vary slightly from the identity sheet; retain a consistent tracked circuit in final animation."
+    }
+  ]
+}

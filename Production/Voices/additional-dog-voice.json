@@ -1,0 +1,18 @@
+{
+  "voice_id": "lAqElvydqyTzitpwAdj6",
+  "name": "Hugo - Loyal Henchman",
+  "description": "Old fashion lackey for a crime syndicate. Perfect for a lovable dope or a slow on the upkeep character!",
+  "labels": {
+    "descriptive": "raspy",
+    "accent": "american",
+    "language": "en",
+    "use_case": "characters_animation",
+    "gender": "male",
+    "locale": "en-US"
+  },
+  "category": "professional",
+  "role": "Additional dog voice",
+  "status": "reserved by user; exact dog unassigned",
+  "assigned_character": null,
+  "account_access": "confirmed"
+}

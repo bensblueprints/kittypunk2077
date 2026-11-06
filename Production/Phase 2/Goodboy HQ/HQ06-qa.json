@@ -1,0 +1,32 @@
+{
+  "id": "HQ06",
+  "status": "draft_orientation_and_corridor_view_corrections_needed",
+  "dimensions": [
+    3840,
+    2160
+  ],
+  "panels": 9,
+  "empty_set": true,
+  "checks_passed": [
+    "Exactly two closed lift doors on south side and one north corridor entry; no third lift.",
+    "Plan names two shafts behind the lift doors, with 8m by6m vestibule and 8m by18m suite labels.",
+    "Blank reader/display and no people or occupied reflections.",
+    "East elevation has reader; west elevation solid."
+  ],
+  "issues": [
+    {
+      "severity": "major",
+      "note": "Both wide views mirror the east reader: hero facing south shows it screen-right and reverse facing north shows it screen-left. Correct reader wall in wides."
+    },
+    {
+      "severity": "major",
+      "note": "Open north entry looks into a long north-south corridor. The master requires the east-west hall immediately beyond the entrance; replace that background with the across-hall wall/sideways circulation."
+    },
+    {
+      "severity": "minor",
+      "note": "Plan vestibule/shaft visual length ratio is approximate despite correct printed6m/12m dimensions."
+    }
+  ],
+  "topology_authority": "Saved coordinate master and cardinal wall views. Do not derive adjacent corridor geography from the open-door background.",
+  "paid_retry": false
+}

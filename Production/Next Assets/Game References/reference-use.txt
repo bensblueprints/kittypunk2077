@@ -1,0 +1,6 @@
+USER-CONFIRMED GAME REFERENCES
+Grand Theft Kitty VI on CatStation 5.
+grand-theft-kitty-vi-case.png: game packaging and cover artwork.
+living-room-bank-heist-gameplay.png: opening living-room television gameplay, Great Dog National Bank heist, HUD and rusty CRT presentation.
+The onscreen avatars belong to the fictional game. Their incidental differences do not overwrite Trixie and the five-cat real-world crew identity masters.
+Keep these originals intact. Derive clean screen inserts from this gameplay reference when needed, preserving its bank-heist content rather than substituting a generic game.

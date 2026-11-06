@@ -1,0 +1,20 @@
+{
+  "active_model": "gpt-image-2",
+  "route": "GPT Image EE",
+  "model_check": "passed",
+  "generation_attempts": 6,
+  "generation_result": "all returned HTTP 403 upstream_error",
+  "image_generated": false,
+  "timeout_seconds": 600,
+  "listed_usd_per_request": 0.04,
+  "actual_charges_usd": 0,
+  "budget_cap_usd": 5,
+  "reference_images": "Unconfirmed: EE route lists Text input only and documents no image-input field or edit endpoint",
+  "legacy_nano_banana": {
+    "model_check": "passed",
+    "generation_attempts": 4,
+    "result": "HTTP 403 upstream_error; no image"
+  },
+  "offline_checks": "4 passed",
+  "charge_evidence": "Six GPT Image2 failed requests verified in Orbis usage logs"
+}

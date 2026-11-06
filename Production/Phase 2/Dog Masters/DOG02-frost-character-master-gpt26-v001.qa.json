@@ -1,0 +1,38 @@
+{
+  "asset_id": "DOG02",
+  "name": "Frost",
+  "status": "review_draft_with_notes",
+  "checked_at_utc": "2026-11-06T19:43:02.483231+00:00",
+  "reviewed": true,
+  "production_approved": false,
+  "review_method": "Visual inspection of each saved full sheet, plus pixel/dimension verification and source comparison.",
+  "nine_main_panels": true,
+  "all_four_full_body_directions_present": true,
+  "no_bare_human_hands_observed": true,
+  "only_target_character_identity": true,
+  "reference_confidence": "Breed, colors and broad costume supported by original council overview; fine hidden details proposed.",
+  "rerun_authorized": false,
+  "paid_retry_performed": false,
+  "passes": [
+    "Grey American Pit Bull head/build retained, distinct from Stone’s English Bulldog.",
+    "Dark/gold suit, white shirt and dark tie retained.",
+    "Nine panels with complete front/back and both profiles; coherent fur-covered paws."
+  ],
+  "issues": [
+    {
+      "severity": "minor",
+      "category": "layout",
+      "note": "Added source-inspired Kitty Punk/Meowtech/Goodboy branding in the header beyond the requested simple title. It is sheet decoration, not a physical costume marking."
+    },
+    {
+      "severity": "minor",
+      "category": "deliverable_scope",
+      "note": "Panel 9 uses three dressed character figures and color swatches instead of an isolated garment inventory. Main wardrobe is still readable."
+    },
+    {
+      "severity": "review_note",
+      "category": "inferred_design",
+      "note": "Rear tailoring, tail, exact eyes and tiny shoulder/button details are proposed interpretations, not fully resolved source evidence."
+    }
+  ]
+}

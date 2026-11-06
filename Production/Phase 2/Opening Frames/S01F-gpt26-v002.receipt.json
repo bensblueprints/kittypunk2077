@@ -1,0 +1,113 @@
+{
+  "asset_id": "S01F",
+  "name": "Neon reaction and controller grip",
+  "batch": 3,
+  "index": 6,
+  "scene": 1,
+  "editorial_shot_id": "S01-06",
+  "provider": "Higgsfield",
+  "model": "gpt_image_2_6",
+  "media_type": "image",
+  "status": "targeted_correction_pass_review_draft",
+  "generation_status": "completed",
+  "job_id": "58a87e2f-be98-413b-9c21-ead0448b3d86",
+  "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3FexRxU2V7FefQUvOnG7eFCKfmw/hf_20261106_200742_58a87e2f-be98-413b-9c21-ead0448b3d86.png",
+  "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Phase 2\\Opening Frames\\S01F-gpt26-v002.png",
+  "filename": "S01F-gpt26-v002.png",
+  "actual_dimensions": [
+    3840,
+    2160
+  ],
+  "file_format": "PNG",
+  "size_bytes": 14844358,
+  "sha256": "245cc5e4d7c585337a1619854cc1d2cdd17219bb02ecdd3763af8e2605b722fc",
+  "saved_at": "2026-11-06T20:09:10.369061+00:00",
+  "quote_credits": 4.25,
+  "actual_billed_credits": "not_independently_verified",
+  "batch_lease_credits": 21.25,
+  "max_authorized_jobs": 5,
+  "no_automatic_paid_retry": true,
+  "reference_paths": [
+    "E:/MovedFromC/Documents/Codex/2026-11-06/https-chatgpt-com-share-6aedf171-aae8-2/outputs/Phase 2/Opening Frames/S01F-gpt26-v001.png"
+  ],
+  "reference_media": [
+    {
+      "role": "image",
+      "value": "e67d2a81-1cd0-4827-aad4-f6ca09d61d3f"
+    }
+  ],
+  "source_hashes": {
+    "E:/MovedFromC/Documents/Codex/2026-11-06/https-chatgpt-com-share-6aedf171-aae8-2/outputs/Phase 2/Opening Frames/S01F-gpt26-v001.png": "ab3868507e9431f49797dd29b29c161b387bd0a8dec1850addd45264b53f4aa2"
+  },
+  "generation_params": {
+    "model": "gpt_image_2_6",
+    "quality": "high",
+    "resolution": "4k",
+    "aspect_ratio": "16:9",
+    "count": 1,
+    "output_format": "png",
+    "background": "opaque",
+    "prompt": "Use case: identity-preserving targeted shot correction. Return ONE cinematic 3840x2160 16:9 still, not a sheet, collage or storyboard. The first supplied image is the exact EDIT TARGET. Preserve its character identity, fur pattern, wardrobe, lighting, material style and moment. Do not add any character, face, reflection of a character, extra limb, text, watermark or label. No television or console in this front-side shot. No new action, costume or room redesign. PRIMARY CORRECTION: turn the overly wide source into an EXTREME CLOSE-UP portrait. Move the camera close enough that the face, hood/ears and upper shoulders dominate the 16:9 image and the shoulders continue past the left and right frame edges. Frame from just above the ears down to the upper chest. The lower edge is ABOVE the couch-seat level. ALL couch seats, neighboring back cushions, armrests and blankets are completely OUT OF FRAME on both sides. No vacant brown cushion or empty seat may appear. The other four crew members remain seated in their established positions beyond the crop; do not depict them or erase them from a newly visible area. Only a soft unfocused fragment of the existing wall and its original amber/cyan/magenta light may remain behind the head. Do not preserve the wide room/window/doorway composition. Keep the same controller physically in the character's lap below the frame; do not raise it or add a second controller to fit the close-up. If a tiny edge of it happens to remain at the very bottom, retain its original white/black casing and assigned accent, otherwise leave it naturally outside the crop. Do not show knees, lap, seated full body or neighboring furniture. Exactly ONE visible cat: NEON, the same youthful silver-grey tabby with cyan/blue goggles, patterned blue scarf and blue engineer gear from the target. Preserve his subtle skeptical downward/left glance and small head tilt. Keep cyan lens color, fixed striped face and scarf pattern; no green visor, headphones or changes to his face. His existing controller accent is CYAN. Do not introduce a hand or controller in front of his face. Face and scarf are the focus.",
+    "medias": [
+      {
+        "role": "image",
+        "value": "e67d2a81-1cd0-4827-aad4-f6ca09d61d3f"
+      }
+    ]
+  },
+  "dependencies": [
+    "SET02",
+    "PROP03",
+    "PROP04",
+    "CREW05"
+  ],
+  "dependency_status": "Required files present, parent cleared SET01/SET02 and corrected PROP04v002/CHAR06v002 for previs; input images visually inspected.",
+  "expected_visible_actor_count": 1,
+  "expected_visible_roles": [
+    "CREW05"
+  ],
+  "audio_alignment_file": "S01F-gpt26-v002.alignment.json",
+  "prompt_file": "S01F-gpt26-v002.prompt.txt",
+  "production_approved": false,
+  "higgsfield_audio_allowed": false,
+  "higgsfield_video_allowed": false,
+  "visual_qa": {
+    "asset_id": "S01F",
+    "version": "v002",
+    "visual_reviewed": true,
+    "reviewed_at": "2026-11-06T20:11:59.894525+00:00",
+    "status": "targeted_correction_pass_review_draft",
+    "production_approved": false,
+    "actual_dimensions": [
+      3840,
+      2160
+    ],
+    "hard_actor_count_pass": true,
+    "paid_retry_count": 0,
+    "shared_manifest_modified": false,
+    "visible_actor_count": 1,
+    "visible_roles": [
+      "Neon"
+    ],
+    "visible_controller_count": 0,
+    "passes": [
+      "No couch cushions, empty seats, blankets or armrests visible.",
+      "Single Neon retains silver-grey stripes, cyan goggles and patterned blue scarf.",
+      "Skeptical downward/left glance and head tilt retained; original warm/cyan/magenta atmosphere preserved.",
+      "No extra actor, borrowed accessory or raised controller."
+    ],
+    "minor_notes": [
+      "Extreme close-up crops ear tips and leaves little motion margin; use for a held reaction.",
+      "Controller remains below the crop and its physical design is not re-verified in this version."
+    ]
+  },
+  "version": 2,
+  "paid_retries": 0,
+  "supersedes_filename": "S01F-gpt26-v001.png",
+  "edit_scope": "Tighten Neon close-up to exclude all neighboring couch seats.",
+  "shared_generation_manifest_update": "Merged by root after original28-frame batch completed.",
+  "qa_file": "S01F-gpt26-v002.qa.json",
+  "observed_controller_count": 0,
+  "authorization_scope": "Separately authorized targeted revision within500-credit Phase2 allowance; outside original28-frame119-credit lease.",
+  "source_initial_frame_lease_credits": 119
+}

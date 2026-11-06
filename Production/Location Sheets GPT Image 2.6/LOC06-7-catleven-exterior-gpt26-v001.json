@@ -1,0 +1,56 @@
+{
+  "provider": "Higgsfield",
+  "model": "gpt_image_2_6",
+  "job_id": "318dec43-f2f2-4e30-aa19-3f9ceda2aa4f",
+  "location": {
+    "id": "LOC06",
+    "name": "7-Catleven exterior",
+    "prompt_file": "Prompts/LOC06-7-catleven-exterior.txt",
+    "reference_images": [
+      {
+        "image_number": 1,
+        "file": "References/LOC06/LOC06-ref01-7-catleven-exterior.png",
+        "source": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Imported References\\7-catleven-exterior.png",
+        "sha256": "d6b2e3cea45d6216484d95f30df966d5d3382299036174aaca3c15ddb394bf9c",
+        "source_is_review_draft": false
+      }
+    ],
+    "scene_numbers": [
+      4
+    ],
+    "rooms": [
+      "South storefront",
+      "Side alley",
+      "Rear service wall",
+      "Sidewalk and entry"
+    ],
+    "prompt": "Use case: stylized-concept. Create ONE finished architectural PRODUCTION LOCATION REFERENCE SHEET for an animated cinematic cyberpunk series. Landscape 16:9, preferably 3840x2160 or the highest supported resolution, exceptionally sharp detailed artwork. Nine evenly organized panels in a clean 3x3 grid with narrow dark charcoal gutters and thin cyan/magenta divider lines, restrained typography. Each panel depicts THE SAME single physical set, not variants. Fixed doors, windows, furniture, machinery, signs, material wear and cable paths must agree between all views and the overhead map. Cinematic tactile 3D animation realism: textured rusted metal, worn concrete, old brick, glass reflections, pink/cyan practical neon, amber practical lamps. Atmospheric yet bright enough to inspect architecture; straight readable spatial perspective. Draw empty filmable sets, no people, no cats, no dogs, no bodies, no crowd silhouettes, no characters in posters. Any logo cat face is a graphic emblem only. Blank dark TV/computer screens, no episode screenshots, no story sequence, no character art pasted in. All panels are set-design documentation with wide staging areas and camera clearance. Small clear location ID/title at top, short panel labels only; no dense prose, arbitrary production claims or watermarks. This is a location sheet, not a single scene. Location: LOC06 — 7-CATLEVEN — EXTERIOR. Use input as exact storefront design authority. Remove every character/citizen, preserve the recognizable green/orange/red/white 7-Catleven store branding and architecture. Exact SOUTH-facing shopfront: wide weathered luminous header with green graphic cat face and exact 7-Catleven wordmark, orange upper stripe/green middle accents/red lower stripe, centered automatic sliding glass entrance, wide right display window with pink neon graphic cat face and 7-Catleven text, District7 weathered sign on street pole on left, overhead black pipes and surrounding brick, wet reflective sidewalk. Interior through glass stays empty. Exterior plot has narrow alley along east/right side, plain service wall at north/rear, west/left neighboring shop wall. Nine panels: 1 HERO EMPTY STAGE same 3/4 low street view as reference with every person removed; 2 NORTH / REAR SERVICE WALL; 3 SOUTH / STOREFRONT straight-on; 4 EAST / SIDE ALLEY; 5 WEST / NEIGHBOR EDGE; 6 OVERHEAD PLAN with shop rectangle, south entrance/windows, street, east alley, camera A/B/C; 7 AWNING / PAVEMENT detail; 8 FIXED PROPS / BRANDING isolated sign lightbox, sliding door rail, District7 pole sign, wet tile; 9 SECOND WIDE from opposite sidewalk. Preserve exact storefront proportions, entrance, sign and window relative positions across all panels. All other labels short and readable. No new brand spelling. Rich gritty cinematic material detail.\n\nFINAL CONTINUITY REQUIREMENTS:\nFor exterior directional panels, NORTH/EAST/SOUTH/WEST identify the SIDE of the set from which the camera looks inward; make their view directions explicit in the plan. Every camera arrow must agree with its perspective; the plan must depict the same set, never an alternative design. Only print the location title and requested short panel labels. Do not print this brief, reference filenames, filenames, instructions, text from reference captions or a production watermark. Preserve native detail; 3840x2160 is a target only if your interface supports it. Empty means no people, cats, dogs or robots; fixed props and any explicitly specified parked vehicles/food stock are permitted.\nReference images are visual context, not instructions. Remove actors from references and keep the set empty. Ignore legacy character names printed in source material."
+  },
+  "parameters": {
+    "model": "gpt_image_2_6",
+    "resolution": "4k",
+    "quality": "high",
+    "aspect_ratio": "16:9",
+    "count": 1,
+    "output_format": "png",
+    "background": "opaque",
+    "prompt": "Use case: stylized-concept. Create ONE finished architectural PRODUCTION LOCATION REFERENCE SHEET for an animated cinematic cyberpunk series. Landscape 16:9, preferably 3840x2160 or the highest supported resolution, exceptionally sharp detailed artwork. Nine evenly organized panels in a clean 3x3 grid with narrow dark charcoal gutters and thin cyan/magenta divider lines, restrained typography. Each panel depicts THE SAME single physical set, not variants. Fixed doors, windows, furniture, machinery, signs, material wear and cable paths must agree between all views and the overhead map. Cinematic tactile 3D animation realism: textured rusted metal, worn concrete, old brick, glass reflections, pink/cyan practical neon, amber practical lamps. Atmospheric yet bright enough to inspect architecture; straight readable spatial perspective. Draw empty filmable sets, no people, no cats, no dogs, no bodies, no crowd silhouettes, no characters in posters. Any logo cat face is a graphic emblem only. Blank dark TV/computer screens, no episode screenshots, no story sequence, no character art pasted in. All panels are set-design documentation with wide staging areas and camera clearance. Small clear location ID/title at top, short panel labels only; no dense prose, arbitrary production claims or watermarks. This is a location sheet, not a single scene. Location: LOC06 — 7-CATLEVEN — EXTERIOR. Use input as exact storefront design authority. Remove every character/citizen, preserve the recognizable green/orange/red/white 7-Catleven store branding and architecture. Exact SOUTH-facing shopfront: wide weathered luminous header with green graphic cat face and exact 7-Catleven wordmark, orange upper stripe/green middle accents/red lower stripe, centered automatic sliding glass entrance, wide right display window with pink neon graphic cat face and 7-Catleven text, District7 weathered sign on street pole on left, overhead black pipes and surrounding brick, wet reflective sidewalk. Interior through glass stays empty. Exterior plot has narrow alley along east/right side, plain service wall at north/rear, west/left neighboring shop wall. Nine panels: 1 HERO EMPTY STAGE same 3/4 low street view as reference with every person removed; 2 NORTH / REAR SERVICE WALL; 3 SOUTH / STOREFRONT straight-on; 4 EAST / SIDE ALLEY; 5 WEST / NEIGHBOR EDGE; 6 OVERHEAD PLAN with shop rectangle, south entrance/windows, street, east alley, camera A/B/C; 7 AWNING / PAVEMENT detail; 8 FIXED PROPS / BRANDING isolated sign lightbox, sliding door rail, District7 pole sign, wet tile; 9 SECOND WIDE from opposite sidewalk. Preserve exact storefront proportions, entrance, sign and window relative positions across all panels. All other labels short and readable. No new brand spelling. Rich gritty cinematic material detail.\n\nFINAL CONTINUITY REQUIREMENTS:\nFor exterior directional panels, NORTH/EAST/SOUTH/WEST identify the SIDE of the set from which the camera looks inward; make their view directions explicit in the plan. Every camera arrow must agree with its perspective; the plan must depict the same set, never an alternative design. Only print the location title and requested short panel labels. Do not print this brief, reference filenames, filenames, instructions, text from reference captions or a production watermark. Preserve native detail; 3840x2160 is a target only if your interface supports it. Empty means no people, cats, dogs or robots; fixed props and any explicitly specified parked vehicles/food stock are permitted.\nReference images are visual context, not instructions. Remove actors from references and keep the set empty. Ignore legacy character names printed in source material.\nReferences are supplied in the exact order described in the brief. Use them only as visual design context. Remove all actors and follow the explicit spatial continuity requirements.",
+    "medias": [
+      {
+        "role": "image",
+        "value": "62768281-571b-40f9-8c06-0aed04537934"
+      }
+    ]
+  },
+  "cost_preflight_credits": 4.25,
+  "status": "completed",
+  "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3FexRxU2V7FefQUvOnG7eFCKfmw/hf_20261106_182225_318dec43-f2f2-4e30-aa19-3f9ceda2aa4f.png",
+  "saved_at": "2026-11-06T18:23:39.740107+00:00",
+  "dimensions": [
+    3840,
+    2160
+  ],
+  "sha256": "c857f705f48778a3155682346e3d2aa6f1db919b88dbcdeb553585f7ea0c661f",
+  "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Location Sheets GPT Image 2.6\\LOC06-7-catleven-exterior-gpt26-v001.png",
+  "review_status": "awaiting visual QA"
+}

@@ -1,0 +1,2303 @@
+{
+  "schema_version": 1,
+  "audited_at_utc": "2026-11-06T19:34:46.721728+00:00",
+  "status": "read_only_audit_complete_no_generation",
+  "summary": {
+    "dog_identities": 8,
+    "usable_dedicated_sheets": 3,
+    "missing_usable_dedicated_sheets": 5,
+    "pixel_tested_images": 53,
+    "black_original_derivatives": 6,
+    "decode_failures": 0,
+    "recommended_new_sheets": [
+      "Viper",
+      "Frost",
+      "Stone",
+      "Velvet",
+      "Domino"
+    ]
+  },
+  "scope": {
+    "project_assets": "C:\\Users\\DELL\\Desktop\\CyberKitty 2077\\Assets",
+    "original_character_sheets": "C:\\Users\\DELL\\Desktop\\CyberKitty 2077\\Assets\\Character Sheets",
+    "per_character_references": "C:\\Users\\DELL\\Desktop\\CyberKitty 2077\\Assets\\Characters",
+    "recovered_references": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Recovered References",
+    "new_character_masters": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Phase 2\\Character Masters"
+  },
+  "method": [
+    "Enumerated named dog files with rg across project Assets, Recovered References and Phase 2 Character Masters; checked the unnamed The Dogs overview and Barkington/Fetch WEBP sheets.",
+    "Decoded all 53 identified relevant image files with Pillow, measured full-image RGB extrema and alpha, recorded dimensions and SHA-256.",
+    "Visually inspected the three dedicated source dossiers, relevant turnaround crops, the eight-dog overview, three original WEBP sheets and current Barkington v002.",
+    "Classified each image by content rather than filename. A multi-angle dossier qualifies as a sheet without requiring an exact nine-panel layout."
+  ],
+  "limits": [
+    "Absence means no usable dedicated sheet found in the audited project/recovery locations; it does not claim no copy exists in another account or unsupplied archive.",
+    "Pixel validity is not final design approval. Existing and new generated sheets remain reference/review material.",
+    "Derivative dimensions may reflect enlargement; they are not proof of native source resolution."
+  ],
+  "canon_constraints": {
+    "cat_crew_count": 5,
+    "cat_crew": [
+      "Trixie / CatGirl",
+      "Byte",
+      "Ghost",
+      "Onyx",
+      "Neon"
+    ],
+    "barkington_species": "dog",
+    "initial_crony_slots": 4,
+    "initial_four_crony_identities": "not assigned by this audit",
+    "expanded_dog_library": "Eight identities audited. The five missing sheets can support future or supporting roles; this does not insert every dog into the initial group."
+  },
+  "dogs": [
+    {
+      "id": "barkington",
+      "name": "Chairman Barkington",
+      "species": "Dog — Doberman Pinscher",
+      "sheet_status": "usable_dedicated_multiview",
+      "generate_missing_sheet": false,
+      "current_preferred_sheet": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Phase 2\\Character Masters\\CHAR06-barkington-character-master-gpt26-v002.png",
+      "sources": [
+        {
+          "path": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Phase 2\\Character Masters\\CHAR06-barkington-character-master-gpt26-v002.png",
+          "kind": "nine_panel_character_master",
+          "dimensions": [
+            3840,
+            2160
+          ],
+          "pixel_valid": true,
+          "visually_reviewed": true,
+          "note": "Current v002: four full-body directional views, face, expressions, paw gestures, details and costume/accessories. Back cape is uninterrupted after targeted correction; cigar-free expression references available. Review draft, not final user approval.",
+          "sha256": "562eac0bfb4963cda6cfacb48dfd34dbfbe363c2f7f91cb7d86c27a568ce16c5"
+        },
+        {
+          "path": "C:\\Users\\DELL\\Desktop\\CyberKitty 2077\\Assets\\Character Sheets\\character-sheet-01-chairman-barkington.png",
+          "kind": "dedicated_character_dossier",
+          "dimensions": [
+            1536,
+            1024
+          ],
+          "pixel_valid": true,
+          "visually_reviewed": true,
+          "note": "Intact 1536×1024 source: four complete full-body angles, six expressions, costume/gear and details. Strong original identity reference.",
+          "sha256": "76856916f2de5b37c70f1ba726ab7c0f828de3023dedb2c71f92d359401ee88f"
+        },
+        {
+          "path": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Recovered References\\Chairman Barkington\\turnaround.png",
+          "kind": "recovered_turnaround_crop",
+          "dimensions": [
+            1412,
+            664
+          ],
+          "pixel_valid": true,
+          "visually_reviewed": true,
+          "note": "Visible and usable supplementary crop; boots and rightmost rear view are clipped. Prefer the intact full source sheet or v002 when complete silhouette matters.",
+          "sha256": "2600eb783339644e83d197c154cc4814e06b1248e0d3b32f06e02719aa7f55b9"
+        },
+        {
+          "path": "C:\\Users\\DELL\\Desktop\\CyberKitty 2077\\Assets\\Characters\\Chairman Barkington\\Reference Images\\ref-turnaround.png",
+          "kind": "turnaround_derivative",
+          "dimensions": [
+            2824,
+            1328
+          ],
+          "pixel_valid": true,
+          "visually_reviewed": false,
+          "note": "Nonblack alternative derivative; pixel-verified. Prefer intact source sheet for complete framing.",
+          "sha256": "5b3f5da5f679d104fd056b0fdfafc44b860b599d7cedb442957d3bca0ed48c62"
+        },
+        {
+          "path": "C:\\Users\\DELL\\Desktop\\CyberKitty 2077\\Assets\\Character Sheets\\chairman-barkington-key-art.png",
+          "kind": "hero_key_art_only",
+          "dimensions": [
+            1672,
+            941
+          ],
+          "pixel_valid": true,
+          "visually_reviewed": false,
+          "note": "Valid single-character hero art; not a turnaround.",
+          "sha256": "5cf1030c4e466586dad3e3110d1c790781d7cacc84e434b33f73896d97dfa481"
+        },
+        {
+          "path": "C:\\Users\\DELL\\Desktop\\CyberKitty 2077\\Assets\\Character Sheets\\The Dogs\\Chairman Barkington Orders\\file_000000005e1c81f5938b6d27ee157d13.webp",
+          "kind": "small_dossier_thumbnail",
+          "dimensions": [
+            512,
+            341
+          ],
+          "pixel_valid": true,
+          "visually_reviewed": true,
+          "note": "512×341 version of the primary dossier; use the larger source above.",
+          "sha256": "403e99aedc606a72fb501c0ce2db449a0539e6d4360d86d5d67a2eaa552b8e46"
+        },
+        {
+          "path": "C:\\Users\\DELL\\Desktop\\CyberKitty 2077\\Assets\\Character Sheets\\The Dogs\\Chairman Barkington Orders\\file_00000000fb6481f598ccc28a3ac139ab.webp",
+          "kind": "small_extended_character_sheet",
+          "dimensions": [
+            512,
+            341
+          ],
+          "pixel_valid": true,
+          "visually_reviewed": true,
+          "note": "Separate 512×341 sheet with six turnaround poses, expression grid, action poses and scene examples; useful corroboration, limited detail.",
+          "sha256": "54f9d09945e8f600b13bf4e3f99789129676782195b83e4f5cbc4e40cdea93e2"
+        }
+      ],
+      "caveats": [
+        "v001 is historical; its invented tail opening was corrected in v002.",
+        "Neutral and focused faces in v002 are similar; use cigar-free expression tiles for dialogue.",
+        "Two black original derivatives do not make the character sheet missing."
+      ],
+      "recommendation": "Keep v002 and original dossier; no new full sheet needed."
+    },
+    {
+      "id": "fetch",
+      "name": "General Fetch",
+      "species": "Dog — Rottweiler",
+      "sheet_status": "usable_dedicated_multiview",
+      "generate_missing_sheet": false,
+      "current_preferred_sheet": "C:\\Users\\DELL\\Desktop\\CyberKitty 2077\\Assets\\Character Sheets\\character-sheet-02-general-fetch.png",
+      "sources": [
+        {
+          "path": "C:\\Users\\DELL\\Desktop\\CyberKitty 2077\\Assets\\Character Sheets\\character-sheet-02-general-fetch.png",
+          "kind": "dedicated_character_dossier",
+          "dimensions": [
+            1536,
+            1024
+          ],
+          "pixel_valid": true,
+          "visually_reviewed": true,
+          "note": "1536×1024 intact source: four full-body angles, five expressions, tactical gear and material/details panels.",
+          "sha256": "d3a0ec57fe8258f7a9f53c64377632e9391ea6ed74d264717f4a1faa95861a2f"
+        },
+        {
+          "path": "C:\\Users\\DELL\\Desktop\\CyberKitty 2077\\Assets\\Characters\\General Fetch\\Reference Images\\ref-turnaround.png",
+          "kind": "turnaround_derivative",
+          "dimensions": [
+            2824,
+            1328
+          ],
+          "pixel_valid": true,
+          "visually_reviewed": true,
+          "note": "Four large views are visible; the crop clips the bottom of boots. Use the full dossier for complete silhouette.",
+          "sha256": "75ad807927da512124ea961c87cd4381d3709a043cdfce587ad60a5213053cc9"
+        },
+        {
+          "path": "C:\\Users\\DELL\\Desktop\\CyberKitty 2077\\Assets\\Characters\\General Fetch\\Reference Images\\turnaround.png",
+          "kind": "duplicate_turnaround_derivative",
+          "dimensions": [
+            2824,
+            1328
+          ],
+          "pixel_valid": true,
+          "visually_reviewed": false,
+          "note": "Pixel-identical to ref-turnaround.png.",
+          "sha256": "75ad807927da512124ea961c87cd4381d3709a043cdfce587ad60a5213053cc9"
+        },
+        {
+          "path": "C:\\Users\\DELL\\Desktop\\CyberKitty 2077\\Assets\\Character Sheets\\The Dogs\\General Fetch\\file_0000000041b481f5a4f782160f94ef11.webp",
+          "kind": "small_dossier_thumbnail",
+          "dimensions": [
+            512,
+            341
+          ],
+          "pixel_valid": true,
+          "visually_reviewed": true,
+          "note": "512×341 dossier thumbnail; larger original source exists.",
+          "sha256": "57a89a9bfd9f728bbc00abbdc8946f4c63d9dbc01ff713ac5f6cebe2fe5b5b76"
+        }
+      ],
+      "caveats": [
+        "A nine-panel remake is optional standardization, not a missing asset.",
+        "Keep black/tan Rottweiler face, folded ears, scar and black/gold tactical armor consistent."
+      ],
+      "recommendation": "Use existing dossier plus views; do not spend on a replacement solely to match a nine-panel format."
+    },
+    {
+      "id": "muzzle",
+      "name": "Dr Muzzle",
+      "species": "Dog — Siberian Husky",
+      "sheet_status": "usable_dedicated_multiview",
+      "generate_missing_sheet": false,
+      "current_preferred_sheet": "C:\\Users\\DELL\\Desktop\\CyberKitty 2077\\Assets\\Character Sheets\\character-sheet-03-dr-muzzle.png",
+      "sources": [
+        {
+          "path": "C:\\Users\\DELL\\Desktop\\CyberKitty 2077\\Assets\\Character Sheets\\character-sheet-03-dr-muzzle.png",
+          "kind": "dedicated_character_dossier",
+          "dimensions": [
+            1536,
+            1024
+          ],
+          "pixel_valid": true,
+          "visually_reviewed": true,
+          "note": "1536×1024 intact source: five full-body angles, five expressions, lab equipment and costume/details panels.",
+          "sha256": "16943e6bab6715edadf829ce521af79331cd7b6ac796d4c570a5bf7ca83435de"
+        },
+        {
+          "path": "C:\\Users\\DELL\\Desktop\\CyberKitty 2077\\Assets\\Characters\\Dr Muzzle\\Reference Images\\turnaround.png",
+          "kind": "turnaround_derivative",
+          "dimensions": [
+            2824,
+            1328
+          ],
+          "pixel_valid": true,
+          "visually_reviewed": true,
+          "note": "Five complete visible views from front through rear, with boots and persistent illuminated muzzle.",
+          "sha256": "50cb6dce6b62a0e1de2e1d1a7e5bb646b39ed6c0cac24d0305d2dd2127724827"
+        },
+        {
+          "path": "C:\\Users\\DELL\\Desktop\\CyberKitty 2077\\Assets\\Characters\\Dr Muzzle\\Reference Images\\ref-turnaround.png",
+          "kind": "duplicate_turnaround_derivative",
+          "dimensions": [
+            2824,
+            1328
+          ],
+          "pixel_valid": true,
+          "visually_reviewed": false,
+          "note": "Pixel-identical to turnaround.png.",
+          "sha256": "50cb6dce6b62a0e1de2e1d1a7e5bb646b39ed6c0cac24d0305d2dd2127724827"
+        },
+        {
+          "path": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Recovered References\\Dr Muzzle\\card.png",
+          "kind": "recovered_dossier",
+          "dimensions": [
+            3072,
+            2048
+          ],
+          "pixel_valid": true,
+          "visually_reviewed": false,
+          "note": "Nonblack recovered 3072×2048 card exists; larger pixels do not establish additional original detail.",
+          "sha256": "79c8fdd0174e88bff430c19e3932e04b21c5db10e940ba278e4c618f6c52506e"
+        }
+      ],
+      "caveats": [
+        "Four black derivatives have recovered counterparts; intact original dossier and turnaround remain available.",
+        "Preserve blue eyes, grey/white Husky markings, illuminated muzzle and white/gold lab coat. Do not replace muzzle with glasses."
+      ],
+      "recommendation": "Use existing original dossier and valid turnaround; no new full sheet needed."
+    },
+    {
+      "id": "viper",
+      "name": "Viper",
+      "species": "Dog — German Shepherd",
+      "sheet_status": "missing_usable_dedicated_sheet",
+      "generate_missing_sheet": true,
+      "current_preferred_sheet": null,
+      "sources": [
+        {
+          "path": "C:\\Users\\DELL\\Desktop\\CyberKitty 2077\\Assets\\Character Sheets\\The Dogs\\file_00000000ffc081f59db0af84291190f4.webp",
+          "kind": "low_resolution_council_overview",
+          "dimensions": [
+            512,
+            341
+          ],
+          "pixel_valid": true,
+          "visually_reviewed": true,
+          "note": "The Viper named card includes a portrait and tiny whole-body view thumbnails. Entire eight-dog sheet is only 512×341; not a usable per-character production turnaround.",
+          "sha256": "976d110258bde2e256a2bb3fd4dbae625d49be6b79e7979a2fe2a42637a2caa0"
+        }
+      ],
+      "identity_constraints": "Tan/black coat, upright ears, long muzzle, black corporate uniform or coat with gold trim.",
+      "caveats": [
+        "No standalone Viper sheet or recovered character directory found in the audited locations.",
+        "This is not zero artwork: the council overview contains limited visual evidence.",
+        "Unseen rear details, hidden markings, eye detail and accessories are proposed design decisions, not recovered canon."
+      ],
+      "recommendation": "Generate one isolated multiview character master from the named Viper card only; check identity before using it in scenes.",
+      "suggested_library_generation_order": 1,
+      "generation_brief": "Create one high-resolution nine-panel production sheet for Viper only. Use the named Viper panel in the eight-dog council overview as the identity source. Tan/black coat, upright ears, long muzzle, black corporate uniform or coat with gold trim. Show front, back, left profile, right profile, face, four expressions, paw gestures, costume details and accessories with the same proportions and outfit. Keep the four directional figures fully framed. Do not mix traits from the seven other dogs or add extra characters. Mark newly resolved hidden details as proposed until reviewed."
+    },
+    {
+      "id": "frost",
+      "name": "Frost",
+      "species": "Dog — American Pit Bull",
+      "sheet_status": "missing_usable_dedicated_sheet",
+      "generate_missing_sheet": true,
+      "current_preferred_sheet": null,
+      "sources": [
+        {
+          "path": "C:\\Users\\DELL\\Desktop\\CyberKitty 2077\\Assets\\Character Sheets\\The Dogs\\file_00000000ffc081f59db0af84291190f4.webp",
+          "kind": "low_resolution_council_overview",
+          "dimensions": [
+            512,
+            341
+          ],
+          "pixel_valid": true,
+          "visually_reviewed": true,
+          "note": "The Frost named card includes a portrait and tiny whole-body view thumbnails. Entire eight-dog sheet is only 512×341; not a usable per-character production turnaround.",
+          "sha256": "976d110258bde2e256a2bb3fd4dbae625d49be6b79e7979a2fe2a42637a2caa0"
+        }
+      ],
+      "identity_constraints": "Grey coat, broad muzzle, short ears, dark gold-trim suit, white shirt and dark tie.",
+      "caveats": [
+        "No standalone Frost sheet or recovered character directory found in the audited locations.",
+        "This is not zero artwork: the council overview contains limited visual evidence.",
+        "Unseen rear details, hidden markings, eye detail and accessories are proposed design decisions, not recovered canon."
+      ],
+      "recommendation": "Generate one isolated multiview character master from the named Frost card only; check identity before using it in scenes.",
+      "suggested_library_generation_order": 2,
+      "generation_brief": "Create one high-resolution nine-panel production sheet for Frost only. Use the named Frost panel in the eight-dog council overview as the identity source. Grey coat, broad muzzle, short ears, dark gold-trim suit, white shirt and dark tie. Show front, back, left profile, right profile, face, four expressions, paw gestures, costume details and accessories with the same proportions and outfit. Keep the four directional figures fully framed. Do not mix traits from the seven other dogs or add extra characters. Mark newly resolved hidden details as proposed until reviewed."
+    },
+    {
+      "id": "stone",
+      "name": "Stone",
+      "species": "Dog — English Bulldog",
+      "sheet_status": "missing_usable_dedicated_sheet",
+      "generate_missing_sheet": true,
+      "current_preferred_sheet": null,
+      "sources": [
+        {
+          "path": "C:\\Users\\DELL\\Desktop\\CyberKitty 2077\\Assets\\Character Sheets\\The Dogs\\file_00000000ffc081f59db0af84291190f4.webp",
+          "kind": "low_resolution_council_overview",
+          "dimensions": [
+            512,
+            341
+          ],
+          "pixel_valid": true,
+          "visually_reviewed": true,
+          "note": "The Stone named card includes a portrait and tiny whole-body view thumbnails. Entire eight-dog sheet is only 512×341; not a usable per-character production turnaround.",
+          "sha256": "976d110258bde2e256a2bb3fd4dbae625d49be6b79e7979a2fe2a42637a2caa0"
+        }
+      ],
+      "identity_constraints": "Stocky body, wrinkled tan/white face, folded ears, heavy jowls, dark gold-trim suit, white shirt and gold tie.",
+      "caveats": [
+        "No standalone Stone sheet or recovered character directory found in the audited locations.",
+        "This is not zero artwork: the council overview contains limited visual evidence.",
+        "Unseen rear details, hidden markings, eye detail and accessories are proposed design decisions, not recovered canon."
+      ],
+      "recommendation": "Generate one isolated multiview character master from the named Stone card only; check identity before using it in scenes.",
+      "suggested_library_generation_order": 3,
+      "generation_brief": "Create one high-resolution nine-panel production sheet for Stone only. Use the named Stone panel in the eight-dog council overview as the identity source. Stocky body, wrinkled tan/white face, folded ears, heavy jowls, dark gold-trim suit, white shirt and gold tie. Show front, back, left profile, right profile, face, four expressions, paw gestures, costume details and accessories with the same proportions and outfit. Keep the four directional figures fully framed. Do not mix traits from the seven other dogs or add extra characters. Mark newly resolved hidden details as proposed until reviewed."
+    },
+    {
+      "id": "velvet",
+      "name": "Velvet",
+      "species": "Dog — Afghan Hound",
+      "sheet_status": "missing_usable_dedicated_sheet",
+      "generate_missing_sheet": true,
+      "current_preferred_sheet": null,
+      "sources": [
+        {
+          "path": "C:\\Users\\DELL\\Desktop\\CyberKitty 2077\\Assets\\Character Sheets\\The Dogs\\file_00000000ffc081f59db0af84291190f4.webp",
+          "kind": "low_resolution_council_overview",
+          "dimensions": [
+            512,
+            341
+          ],
+          "pixel_valid": true,
+          "visually_reviewed": true,
+          "note": "The Velvet named card includes a portrait and tiny whole-body view thumbnails. Entire eight-dog sheet is only 512×341; not a usable per-character production turnaround.",
+          "sha256": "976d110258bde2e256a2bb3fd4dbae625d49be6b79e7979a2fe2a42637a2caa0"
+        }
+      ],
+      "identity_constraints": "Long silky golden coat, narrow muzzle, dark sunglasses, black/gold suit with the red accent visible in the group reference.",
+      "caveats": [
+        "No standalone Velvet sheet or recovered character directory found in the audited locations.",
+        "This is not zero artwork: the council overview contains limited visual evidence.",
+        "Unseen rear details, hidden markings, eye detail and accessories are proposed design decisions, not recovered canon."
+      ],
+      "recommendation": "Generate one isolated multiview character master from the named Velvet card only; check identity before using it in scenes.",
+      "suggested_library_generation_order": 4,
+      "generation_brief": "Create one high-resolution nine-panel production sheet for Velvet only. Use the named Velvet panel in the eight-dog council overview as the identity source. Long silky golden coat, narrow muzzle, dark sunglasses, black/gold suit with the red accent visible in the group reference. Show front, back, left profile, right profile, face, four expressions, paw gestures, costume details and accessories with the same proportions and outfit. Keep the four directional figures fully framed. Do not mix traits from the seven other dogs or add extra characters. Mark newly resolved hidden details as proposed until reviewed."
+    },
+    {
+      "id": "domino",
+      "name": "Domino",
+      "species": "Dog — Dalmatian",
+      "sheet_status": "missing_usable_dedicated_sheet",
+      "generate_missing_sheet": true,
+      "current_preferred_sheet": null,
+      "sources": [
+        {
+          "path": "C:\\Users\\DELL\\Desktop\\CyberKitty 2077\\Assets\\Character Sheets\\The Dogs\\file_00000000ffc081f59db0af84291190f4.webp",
+          "kind": "low_resolution_council_overview",
+          "dimensions": [
+            512,
+            341
+          ],
+          "pixel_valid": true,
+          "visually_reviewed": true,
+          "note": "The Domino named card includes a portrait and tiny whole-body view thumbnails. Entire eight-dog sheet is only 512×341; not a usable per-character production turnaround.",
+          "sha256": "976d110258bde2e256a2bb3fd4dbae625d49be6b79e7979a2fe2a42637a2caa0"
+        }
+      ],
+      "identity_constraints": "White coat with distinct black spots, floppy ears, black/gold corporate or military suit; preserve visible spot placement.",
+      "caveats": [
+        "No standalone Domino sheet or recovered character directory found in the audited locations.",
+        "This is not zero artwork: the council overview contains limited visual evidence.",
+        "Unseen rear details, hidden markings, eye detail and accessories are proposed design decisions, not recovered canon."
+      ],
+      "recommendation": "Generate one isolated multiview character master from the named Domino card only; check identity before using it in scenes.",
+      "suggested_library_generation_order": 5,
+      "generation_brief": "Create one high-resolution nine-panel production sheet for Domino only. Use the named Domino panel in the eight-dog council overview as the identity source. White coat with distinct black spots, floppy ears, black/gold corporate or military suit; preserve visible spot placement. Show front, back, left profile, right profile, face, four expressions, paw gestures, costume details and accessories with the same proportions and outfit. Keep the four directional figures fully framed. Do not mix traits from the seven other dogs or add extra characters. Mark newly resolved hidden details as proposed until reviewed."
+    }
+  ],
+  "unusable_originals_and_available_recoveries": [
+    {
+      "unusable_original": "C:\\Users\\DELL\\Desktop\\CyberKitty 2077\\Assets\\Characters\\Chairman Barkington\\Reference Images\\setting.png",
+      "reason": "Decodes successfully but all RGB pixels are 0; alpha ranges from 220 to 255. Contains no usable character art.",
+      "recovered_counterpart": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Recovered References\\Chairman Barkington\\setting.png",
+      "recovered_pixel_valid": true,
+      "preferred_complete_source": "C:\\Users\\DELL\\Desktop\\CyberKitty 2077\\Assets\\Character Sheets\\character-sheet-01-chairman-barkington.png"
+    },
+    {
+      "unusable_original": "C:\\Users\\DELL\\Desktop\\CyberKitty 2077\\Assets\\Characters\\Chairman Barkington\\Reference Images\\turnaround.png",
+      "reason": "Decodes successfully but all RGB pixels are 0; alpha ranges from 220 to 255. Contains no usable character art.",
+      "recovered_counterpart": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Recovered References\\Chairman Barkington\\turnaround.png",
+      "recovered_pixel_valid": true,
+      "preferred_complete_source": "C:\\Users\\DELL\\Desktop\\CyberKitty 2077\\Assets\\Character Sheets\\character-sheet-01-chairman-barkington.png"
+    },
+    {
+      "unusable_original": "C:\\Users\\DELL\\Desktop\\CyberKitty 2077\\Assets\\Characters\\Dr Muzzle\\Reference Images\\card.png",
+      "reason": "Decodes successfully but all RGB pixels are 0; alpha ranges from 220 to 255. Contains no usable character art.",
+      "recovered_counterpart": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Recovered References\\Dr Muzzle\\card.png",
+      "recovered_pixel_valid": true,
+      "preferred_complete_source": "C:\\Users\\DELL\\Desktop\\CyberKitty 2077\\Assets\\Character Sheets\\character-sheet-03-dr-muzzle.png"
+    },
+    {
+      "unusable_original": "C:\\Users\\DELL\\Desktop\\CyberKitty 2077\\Assets\\Characters\\Dr Muzzle\\Reference Images\\personality.png",
+      "reason": "Decodes successfully but all RGB pixels are 0; alpha ranges from 220 to 255. Contains no usable character art.",
+      "recovered_counterpart": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Recovered References\\Dr Muzzle\\personality.png",
+      "recovered_pixel_valid": true,
+      "preferred_complete_source": "C:\\Users\\DELL\\Desktop\\CyberKitty 2077\\Assets\\Character Sheets\\character-sheet-03-dr-muzzle.png"
+    },
+    {
+      "unusable_original": "C:\\Users\\DELL\\Desktop\\CyberKitty 2077\\Assets\\Characters\\Dr Muzzle\\Reference Images\\portrait.png",
+      "reason": "Decodes successfully but all RGB pixels are 0; alpha ranges from 220 to 255. Contains no usable character art.",
+      "recovered_counterpart": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Recovered References\\Dr Muzzle\\portrait.png",
+      "recovered_pixel_valid": true,
+      "preferred_complete_source": "C:\\Users\\DELL\\Desktop\\CyberKitty 2077\\Assets\\Character Sheets\\character-sheet-03-dr-muzzle.png"
+    },
+    {
+      "unusable_original": "C:\\Users\\DELL\\Desktop\\CyberKitty 2077\\Assets\\Characters\\Dr Muzzle\\Reference Images\\ref-expressions.png",
+      "reason": "Decodes successfully but all RGB pixels are 0; alpha ranges from 220 to 255. Contains no usable character art.",
+      "recovered_counterpart": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Recovered References\\Dr Muzzle\\ref-expressions.png",
+      "recovered_pixel_valid": true,
+      "preferred_complete_source": "C:\\Users\\DELL\\Desktop\\CyberKitty 2077\\Assets\\Character Sheets\\character-sheet-03-dr-muzzle.png"
+    }
+  ],
+  "pixel_inventory": [
+    {
+      "path": "C:\\Users\\DELL\\Desktop\\CyberKitty 2077\\Assets\\Character Sheets\\chairman-barkington-key-art.png",
+      "format": "PNG",
+      "size": [
+        1672,
+        941
+      ],
+      "mode": "RGB",
+      "bytes": 2809171,
+      "rgb_extrema": [
+        [
+          0,
+          255
+        ],
+        [
+          0,
+          255
+        ],
+        [
+          0,
+          255
+        ]
+      ],
+      "alpha_extrema": null,
+      "mean_rgb": [
+        84.5426,
+        53.674,
+        61.8643
+      ],
+      "empty_or_black": false,
+      "sha256": "5cf1030c4e466586dad3e3110d1c790781d7cacc84e434b33f73896d97dfa481"
+    },
+    {
+      "path": "C:\\Users\\DELL\\Desktop\\CyberKitty 2077\\Assets\\Character Sheets\\character-sheet-01-chairman-barkington.png",
+      "format": "PNG",
+      "size": [
+        1536,
+        1024
+      ],
+      "mode": "RGB",
+      "bytes": 2653283,
+      "rgb_extrema": [
+        [
+          0,
+          255
+        ],
+        [
+          0,
+          255
+        ],
+        [
+          0,
+          255
+        ]
+      ],
+      "alpha_extrema": null,
+      "mean_rgb": [
+        63.7872,
+        41.0433,
+        53.6431
+      ],
+      "empty_or_black": false,
+      "sha256": "76856916f2de5b37c70f1ba726ab7c0f828de3023dedb2c71f92d359401ee88f"
+    },
+    {
+      "path": "C:\\Users\\DELL\\Desktop\\CyberKitty 2077\\Assets\\Character Sheets\\character-sheet-02-general-fetch.png",
+      "format": "PNG",
+      "size": [
+        1536,
+        1024
+      ],
+      "mode": "RGB",
+      "bytes": 2804336,
+      "rgb_extrema": [
+        [
+          0,
+          255
+        ],
+        [
+          0,
+          255
+        ],
+        [
+          0,
+          255
+        ]
+      ],
+      "alpha_extrema": null,
+      "mean_rgb": [
+        55.3563,
+        42.6186,
+        60.0697
+      ],
+      "empty_or_black": false,
+      "sha256": "d3a0ec57fe8258f7a9f53c64377632e9391ea6ed74d264717f4a1faa95861a2f"
+    },
+    {
+      "path": "C:\\Users\\DELL\\Desktop\\CyberKitty 2077\\Assets\\Character Sheets\\character-sheet-03-dr-muzzle.png",
+      "format": "PNG",
+      "size": [
+        1536,
+        1024
+      ],
+      "mode": "RGB",
+      "bytes": 2773684,
+      "rgb_extrema": [
+        [
+          0,
+          255
+        ],
+        [
+          0,
+          255
+        ],
+        [
+          0,
+          255
+        ]
+      ],
+      "alpha_extrema": null,
+      "mean_rgb": [
+        71.6571,
+        63.066,
+        89.7324
+      ],
+      "empty_or_black": false,
+      "sha256": "16943e6bab6715edadf829ce521af79331cd7b6ac796d4c570a5bf7ca83435de"
+    },
+    {
+      "path": "C:\\Users\\DELL\\Desktop\\CyberKitty 2077\\Assets\\Character Sheets\\The Dogs\\Chairman Barkington Orders\\file_000000005e1c81f5938b6d27ee157d13.webp",
+      "format": "WEBP",
+      "size": [
+        512,
+        341
+      ],
+      "mode": "RGB",
+      "bytes": 298384,
+      "rgb_extrema": [
+        [
+          0,
+          255
+        ],
+        [
+          0,
+          255
+        ],
+        [
+          0,
+          255
+        ]
+      ],
+      "alpha_extrema": null,
+      "mean_rgb": [
+        63.9755,
+        41.3994,
+        53.6814
+      ],
+      "empty_or_black": false,
+      "sha256": "403e99aedc606a72fb501c0ce2db449a0539e6d4360d86d5d67a2eaa552b8e46"
+    },
+    {
+      "path": "C:\\Users\\DELL\\Desktop\\CyberKitty 2077\\Assets\\Character Sheets\\The Dogs\\Chairman Barkington Orders\\file_00000000fb6481f598ccc28a3ac139ab.webp",
+      "format": "WEBP",
+      "size": [
+        512,
+        341
+      ],
+      "mode": "RGB",
+      "bytes": 304222,
+      "rgb_extrema": [
+        [
+          0,
+          255
+        ],
+        [
+          0,
+          255
+        ],
+        [
+          0,
+          255
+        ]
+      ],
+      "alpha_extrema": null,
+      "mean_rgb": [
+        68.8894,
+        38.2224,
+        43.2605
+      ],
+      "empty_or_black": false,
+      "sha256": "54f9d09945e8f600b13bf4e3f99789129676782195b83e4f5cbc4e40cdea93e2"
+    },
+    {
+      "path": "C:\\Users\\DELL\\Desktop\\CyberKitty 2077\\Assets\\Character Sheets\\The Dogs\\file_00000000ffc081f59db0af84291190f4.webp",
+      "format": "WEBP",
+      "size": [
+        512,
+        341
+      ],
+      "mode": "RGB",
+      "bytes": 313208,
+      "rgb_extrema": [
+        [
+          0,
+          255
+        ],
+        [
+          0,
+          255
+        ],
+        [
+          0,
+          255
+        ]
+      ],
+      "alpha_extrema": null,
+      "mean_rgb": [
+        61.6989,
+        47.0073,
+        64.5411
+      ],
+      "empty_or_black": false,
+      "sha256": "976d110258bde2e256a2bb3fd4dbae625d49be6b79e7979a2fe2a42637a2caa0"
+    },
+    {
+      "path": "C:\\Users\\DELL\\Desktop\\CyberKitty 2077\\Assets\\Character Sheets\\The Dogs\\General Fetch\\file_0000000041b481f5a4f782160f94ef11.webp",
+      "format": "WEBP",
+      "size": [
+        512,
+        341
+      ],
+      "mode": "RGB",
+      "bytes": 310836,
+      "rgb_extrema": [
+        [
+          0,
+          255
+        ],
+        [
+          0,
+          255
+        ],
+        [
+          0,
+          255
+        ]
+      ],
+      "alpha_extrema": null,
+      "mean_rgb": [
+        55.8453,
+        43.1841,
+        60.2684
+      ],
+      "empty_or_black": false,
+      "sha256": "57a89a9bfd9f728bbc00abbdc8946f4c63d9dbc01ff713ac5f6cebe2fe5b5b76"
+    },
+    {
+      "path": "C:\\Users\\DELL\\Desktop\\CyberKitty 2077\\Assets\\Characters\\Chairman Barkington\\Reference Images\\bio.png",
+      "format": "PNG",
+      "size": [
+        1288,
+        1072
+      ],
+      "mode": "RGBA",
+      "bytes": 1663706,
+      "rgb_extrema": [
+        [
+          0,
+          255
+        ],
+        [
+          0,
+          255
+        ],
+        [
+          0,
+          255
+        ]
+      ],
+      "alpha_extrema": [
+        220,
+        255
+      ],
+      "mean_rgb": [
+        38.3583,
+        30.7331,
+        48.3444
+      ],
+      "empty_or_black": false,
+      "sha256": "9a6c28c4c36a3a7c9a32f8757c520a53cdf49f2555b2f947cf858f3373eb60e6"
+    },
+    {
+      "path": "C:\\Users\\DELL\\Desktop\\CyberKitty 2077\\Assets\\Characters\\Chairman Barkington\\Reference Images\\card.png",
+      "format": "PNG",
+      "size": [
+        3072,
+        2048
+      ],
+      "mode": "RGBA",
+      "bytes": 12680717,
+      "rgb_extrema": [
+        [
+          0,
+          255
+        ],
+        [
+          0,
+          255
+        ],
+        [
+          0,
+          255
+        ]
+      ],
+      "alpha_extrema": [
+        220,
+        255
+      ],
+      "mean_rgb": [
+        59.169,
+        37.5321,
+        47.7164
+      ],
+      "empty_or_black": false,
+      "sha256": "1054167177d65edf3f829ac00abaeb500859d539c7c56da21bf32c65e1320255"
+    },
+    {
+      "path": "C:\\Users\\DELL\\Desktop\\CyberKitty 2077\\Assets\\Characters\\Chairman Barkington\\Reference Images\\details.png",
+      "format": "PNG",
+      "size": [
+        1748,
+        1104
+      ],
+      "mode": "RGBA",
+      "bytes": 3829930,
+      "rgb_extrema": [
+        [
+          0,
+          255
+        ],
+        [
+          0,
+          255
+        ],
+        [
+          0,
+          255
+        ]
+      ],
+      "alpha_extrema": [
+        220,
+        255
+      ],
+      "mean_rgb": [
+        58.5209,
+        36.1946,
+        49.5712
+      ],
+      "empty_or_black": false,
+      "sha256": "827d6a5cb1e22a8356cbfd091dfce347f19d7450b554f150a48c4e339a16a37c"
+    },
+    {
+      "path": "C:\\Users\\DELL\\Desktop\\CyberKitty 2077\\Assets\\Characters\\Chairman Barkington\\Reference Images\\expressions.png",
+      "format": "PNG",
+      "size": [
+        2824,
+        1084
+      ],
+      "mode": "RGBA",
+      "bytes": 7021389,
+      "rgb_extrema": [
+        [
+          0,
+          255
+        ],
+        [
+          0,
+          255
+        ],
+        [
+          0,
+          255
+        ]
+      ],
+      "alpha_extrema": [
+        220,
+        255
+      ],
+      "mean_rgb": [
+        69.4917,
+        37.7241,
+        46.9568
+      ],
+      "empty_or_black": false,
+      "sha256": "217b9d20a2bbcf4720d9a802c6cfbce60ebd8a82464be981c82801db967b7b0b"
+    },
+    {
+      "path": "C:\\Users\\DELL\\Desktop\\CyberKitty 2077\\Assets\\Characters\\Chairman Barkington\\Reference Images\\gear.png",
+      "format": "PNG",
+      "size": [
+        1748,
+        1308
+      ],
+      "mode": "RGBA",
+      "bytes": 4337196,
+      "rgb_extrema": [
+        [
+          0,
+          255
+        ],
+        [
+          0,
+          255
+        ],
+        [
+          0,
+          255
+        ]
+      ],
+      "alpha_extrema": [
+        220,
+        255
+      ],
+      "mean_rgb": [
+        49.5574,
+        28.7621,
+        40.8353
+      ],
+      "empty_or_black": false,
+      "sha256": "98b86c060a56cffbd31d6ed28120df75c3a07748ef13a2c85c5591d1257d6673"
+    },
+    {
+      "path": "C:\\Users\\DELL\\Desktop\\CyberKitty 2077\\Assets\\Characters\\Chairman Barkington\\Reference Images\\keyart.png",
+      "format": "PNG",
+      "size": [
+        3344,
+        1882
+      ],
+      "mode": "RGBA",
+      "bytes": 15937196,
+      "rgb_extrema": [
+        [
+          0,
+          255
+        ],
+        [
+          0,
+          255
+        ],
+        [
+          0,
+          255
+        ]
+      ],
+      "alpha_extrema": [
+        220,
+        255
+      ],
+      "mean_rgb": [
+        84.4603,
+        53.5649,
+        60.5298
+      ],
+      "empty_or_black": false,
+      "sha256": "996f8c6421aaccc789c93a7396a1ca5e24740bc41ea73427af841a9d760ee48a"
+    },
+    {
+      "path": "C:\\Users\\DELL\\Desktop\\CyberKitty 2077\\Assets\\Characters\\Chairman Barkington\\Reference Images\\palette.png",
+      "format": "PNG",
+      "size": [
+        1412,
+        1072
+      ],
+      "mode": "RGBA",
+      "bytes": 1927541,
+      "rgb_extrema": [
+        [
+          0,
+          255
+        ],
+        [
+          0,
+          255
+        ],
+        [
+          0,
+          255
+        ]
+      ],
+      "alpha_extrema": [
+        220,
+        255
+      ],
+      "mean_rgb": [
+        51.2715,
+        32.7552,
+        53.1737
+      ],
+      "empty_or_black": false,
+      "sha256": "28405ed98c943bdf0aaf9ffa1c80f005a2bae5a40fd38e053725ea1b6aade720"
+    },
+    {
+      "path": "C:\\Users\\DELL\\Desktop\\CyberKitty 2077\\Assets\\Characters\\Chairman Barkington\\Reference Images\\personality.png",
+      "format": "PNG",
+      "size": [
+        1164,
+        1072
+      ],
+      "mode": "RGBA",
+      "bytes": 1574566,
+      "rgb_extrema": [
+        [
+          0,
+          255
+        ],
+        [
+          0,
+          255
+        ],
+        [
+          0,
+          255
+        ]
+      ],
+      "alpha_extrema": [
+        220,
+        255
+      ],
+      "mean_rgb": [
+        37.5399,
+        30.0579,
+        52.2251
+      ],
+      "empty_or_black": false,
+      "sha256": "44e38dad3084c5ebab675af1b22e6eefb3f2a12ac4a29e6758aad57838380c9f"
+    },
+    {
+      "path": "C:\\Users\\DELL\\Desktop\\CyberKitty 2077\\Assets\\Characters\\Chairman Barkington\\Reference Images\\portrait.png",
+      "format": "PNG",
+      "size": [
+        1748,
+        3008
+      ],
+      "mode": "RGBA",
+      "bytes": 11116302,
+      "rgb_extrema": [
+        [
+          0,
+          255
+        ],
+        [
+          0,
+          255
+        ],
+        [
+          0,
+          255
+        ]
+      ],
+      "alpha_extrema": [
+        220,
+        255
+      ],
+      "mean_rgb": [
+        76.6135,
+        48.4509,
+        39.8572
+      ],
+      "empty_or_black": false,
+      "sha256": "19cb2827aa59314d72a7012ab96c9b2c59c33405040d6850dead128e42e4a079"
+    },
+    {
+      "path": "C:\\Users\\DELL\\Desktop\\CyberKitty 2077\\Assets\\Characters\\Chairman Barkington\\Reference Images\\ref-expressions.png",
+      "format": "PNG",
+      "size": [
+        2824,
+        1084
+      ],
+      "mode": "RGBA",
+      "bytes": 7021389,
+      "rgb_extrema": [
+        [
+          0,
+          255
+        ],
+        [
+          0,
+          255
+        ],
+        [
+          0,
+          255
+        ]
+      ],
+      "alpha_extrema": [
+        220,
+        255
+      ],
+      "mean_rgb": [
+        69.4917,
+        37.7241,
+        46.9568
+      ],
+      "empty_or_black": false,
+      "sha256": "217b9d20a2bbcf4720d9a802c6cfbce60ebd8a82464be981c82801db967b7b0b"
+    },
+    {
+      "path": "C:\\Users\\DELL\\Desktop\\CyberKitty 2077\\Assets\\Characters\\Chairman Barkington\\Reference Images\\ref-turnaround.png",
+      "format": "PNG",
+      "size": [
+        2824,
+        1328
+      ],
+      "mode": "RGBA",
+      "bytes": 4412538,
+      "rgb_extrema": [
+        [
+          0,
+          255
+        ],
+        [
+          0,
+          255
+        ],
+        [
+          0,
+          255
+        ]
+      ],
+      "alpha_extrema": [
+        220,
+        255
+      ],
+      "mean_rgb": [
+        32.1963,
+        21.4168,
+        28.2036
+      ],
+      "empty_or_black": false,
+      "sha256": "5b3f5da5f679d104fd056b0fdfafc44b860b599d7cedb442957d3bca0ed48c62"
+    },
+    {
+      "path": "C:\\Users\\DELL\\Desktop\\CyberKitty 2077\\Assets\\Characters\\Chairman Barkington\\Reference Images\\setting.png",
+      "format": "PNG",
+      "size": [
+        2272,
+        1072
+      ],
+      "mode": "RGBA",
+      "bytes": 12116,
+      "rgb_extrema": [
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          0
+        ]
+      ],
+      "alpha_extrema": [
+        220,
+        255
+      ],
+      "mean_rgb": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "empty_or_black": true,
+      "sha256": "2eaf57731511276ed18b19bb63c4160b25145e098fed96aa57c7d6d842c08ece"
+    },
+    {
+      "path": "C:\\Users\\DELL\\Desktop\\CyberKitty 2077\\Assets\\Characters\\Chairman Barkington\\Reference Images\\turnaround.png",
+      "format": "PNG",
+      "size": [
+        2824,
+        1328
+      ],
+      "mode": "RGBA",
+      "bytes": 17949,
+      "rgb_extrema": [
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          0
+        ]
+      ],
+      "alpha_extrema": [
+        220,
+        255
+      ],
+      "mean_rgb": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "empty_or_black": true,
+      "sha256": "ff76fac1ebc7ba14ba8efe9253683e98a0a4eacd4fa3e89ec7adfe3752656583"
+    },
+    {
+      "path": "C:\\Users\\DELL\\Desktop\\CyberKitty 2077\\Assets\\Characters\\Dr Muzzle\\Reference Images\\bio.png",
+      "format": "PNG",
+      "size": [
+        1288,
+        1072
+      ],
+      "mode": "RGBA",
+      "bytes": 1471043,
+      "rgb_extrema": [
+        [
+          0,
+          255
+        ],
+        [
+          0,
+          255
+        ],
+        [
+          0,
+          255
+        ]
+      ],
+      "alpha_extrema": [
+        220,
+        255
+      ],
+      "mean_rgb": [
+        60.6331,
+        48.1088,
+        61.2604
+      ],
+      "empty_or_black": false,
+      "sha256": "b19a09cec08912dc16a98b1351e6313e53f4be12ad9b46ad2b57aba334e24dd7"
+    },
+    {
+      "path": "C:\\Users\\DELL\\Desktop\\CyberKitty 2077\\Assets\\Characters\\Dr Muzzle\\Reference Images\\card.png",
+      "format": "PNG",
+      "size": [
+        3072,
+        2048
+      ],
+      "mode": "RGBA",
+      "bytes": 29576,
+      "rgb_extrema": [
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          0
+        ]
+      ],
+      "alpha_extrema": [
+        220,
+        255
+      ],
+      "mean_rgb": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "empty_or_black": true,
+      "sha256": "3a28678b1f38ab416f6255f8ad18913003abf67c28d4fc7cda43bd13481a3b96"
+    },
+    {
+      "path": "C:\\Users\\DELL\\Desktop\\CyberKitty 2077\\Assets\\Characters\\Dr Muzzle\\Reference Images\\details.png",
+      "format": "PNG",
+      "size": [
+        1748,
+        1104
+      ],
+      "mode": "RGBA",
+      "bytes": 3651296,
+      "rgb_extrema": [
+        [
+          0,
+          255
+        ],
+        [
+          0,
+          255
+        ],
+        [
+          0,
+          255
+        ]
+      ],
+      "alpha_extrema": [
+        220,
+        255
+      ],
+      "mean_rgb": [
+        56.6496,
+        58.7754,
+        81.1941
+      ],
+      "empty_or_black": false,
+      "sha256": "e7f31f27c5d9b53f8aff020d25d27ad6eb89217460641d3d0f06a13e89fa6878"
+    },
+    {
+      "path": "C:\\Users\\DELL\\Desktop\\CyberKitty 2077\\Assets\\Characters\\Dr Muzzle\\Reference Images\\expressions.png",
+      "format": "PNG",
+      "size": [
+        2824,
+        1084
+      ],
+      "mode": "RGBA",
+      "bytes": 6982642,
+      "rgb_extrema": [
+        [
+          0,
+          255
+        ],
+        [
+          0,
+          255
+        ],
+        [
+          0,
+          255
+        ]
+      ],
+      "alpha_extrema": [
+        220,
+        255
+      ],
+      "mean_rgb": [
+        81.6764,
+        70.514,
+        95.2705
+      ],
+      "empty_or_black": false,
+      "sha256": "1b4ca3c27109ee251f9773233d87633cc7402bd6c0a33e68396e569cc9c9de55"
+    },
+    {
+      "path": "C:\\Users\\DELL\\Desktop\\CyberKitty 2077\\Assets\\Characters\\Dr Muzzle\\Reference Images\\gear.png",
+      "format": "PNG",
+      "size": [
+        1748,
+        1308
+      ],
+      "mode": "RGBA",
+      "bytes": 3990265,
+      "rgb_extrema": [
+        [
+          0,
+          255
+        ],
+        [
+          0,
+          255
+        ],
+        [
+          0,
+          255
+        ]
+      ],
+      "alpha_extrema": [
+        220,
+        255
+      ],
+      "mean_rgb": [
+        52.1196,
+        48.3787,
+        70.411
+      ],
+      "empty_or_black": false,
+      "sha256": "240a0920c515e9b88340c06507f8faa86b08740a528d6bc19d7b44444c745ac1"
+    },
+    {
+      "path": "C:\\Users\\DELL\\Desktop\\CyberKitty 2077\\Assets\\Characters\\Dr Muzzle\\Reference Images\\palette.png",
+      "format": "PNG",
+      "size": [
+        1412,
+        1072
+      ],
+      "mode": "RGBA",
+      "bytes": 1369182,
+      "rgb_extrema": [
+        [
+          0,
+          255
+        ],
+        [
+          0,
+          255
+        ],
+        [
+          0,
+          255
+        ]
+      ],
+      "alpha_extrema": [
+        220,
+        255
+      ],
+      "mean_rgb": [
+        54.8539,
+        42.6162,
+        64.723
+      ],
+      "empty_or_black": false,
+      "sha256": "d013c63f57e6e83e3f36efee802413bf8a4212cd1caf6b403cb8135225e76d92"
+    },
+    {
+      "path": "C:\\Users\\DELL\\Desktop\\CyberKitty 2077\\Assets\\Characters\\Dr Muzzle\\Reference Images\\personality.png",
+      "format": "PNG",
+      "size": [
+        1164,
+        1072
+      ],
+      "mode": "RGBA",
+      "bytes": 7137,
+      "rgb_extrema": [
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          0
+        ]
+      ],
+      "alpha_extrema": [
+        220,
+        255
+      ],
+      "mean_rgb": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "empty_or_black": true,
+      "sha256": "d71e8a7d462590e9513baf41bb2ea1a247dfcc4924b06e573189a1641bb9c024"
+    },
+    {
+      "path": "C:\\Users\\DELL\\Desktop\\CyberKitty 2077\\Assets\\Characters\\Dr Muzzle\\Reference Images\\portrait.png",
+      "format": "PNG",
+      "size": [
+        1748,
+        3008
+      ],
+      "mode": "RGBA",
+      "bytes": 26756,
+      "rgb_extrema": [
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          0
+        ]
+      ],
+      "alpha_extrema": [
+        220,
+        255
+      ],
+      "mean_rgb": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "empty_or_black": true,
+      "sha256": "fa48fcb94a508fe429f364715270848b95ced92bc527dfcbd8fa60500a8f6f55"
+    },
+    {
+      "path": "C:\\Users\\DELL\\Desktop\\CyberKitty 2077\\Assets\\Characters\\Dr Muzzle\\Reference Images\\ref-expressions.png",
+      "format": "PNG",
+      "size": [
+        2824,
+        1084
+      ],
+      "mode": "RGBA",
+      "bytes": 14686,
+      "rgb_extrema": [
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          0
+        ]
+      ],
+      "alpha_extrema": [
+        220,
+        255
+      ],
+      "mean_rgb": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "empty_or_black": true,
+      "sha256": "c9c42093f71932ac4072769ba622814768e8cbe7bae6c284048218cf4f70746b"
+    },
+    {
+      "path": "C:\\Users\\DELL\\Desktop\\CyberKitty 2077\\Assets\\Characters\\Dr Muzzle\\Reference Images\\ref-turnaround.png",
+      "format": "PNG",
+      "size": [
+        2824,
+        1328
+      ],
+      "mode": "RGBA",
+      "bytes": 7025073,
+      "rgb_extrema": [
+        [
+          0,
+          255
+        ],
+        [
+          0,
+          255
+        ],
+        [
+          0,
+          255
+        ]
+      ],
+      "alpha_extrema": [
+        220,
+        255
+      ],
+      "mean_rgb": [
+        63.0941,
+        60.3874,
+        81.9165
+      ],
+      "empty_or_black": false,
+      "sha256": "50cb6dce6b62a0e1de2e1d1a7e5bb646b39ed6c0cac24d0305d2dd2127724827"
+    },
+    {
+      "path": "C:\\Users\\DELL\\Desktop\\CyberKitty 2077\\Assets\\Characters\\Dr Muzzle\\Reference Images\\setting.png",
+      "format": "PNG",
+      "size": [
+        2272,
+        1072
+      ],
+      "mode": "RGBA",
+      "bytes": 5232106,
+      "rgb_extrema": [
+        [
+          0,
+          255
+        ],
+        [
+          0,
+          255
+        ],
+        [
+          0,
+          255
+        ]
+      ],
+      "alpha_extrema": [
+        220,
+        255
+      ],
+      "mean_rgb": [
+        64.7501,
+        61.4623,
+        105.717
+      ],
+      "empty_or_black": false,
+      "sha256": "b73ec3a06d6e7516b52024749c29f965c112d753d669b3b7456041e94c829aa3"
+    },
+    {
+      "path": "C:\\Users\\DELL\\Desktop\\CyberKitty 2077\\Assets\\Characters\\Dr Muzzle\\Reference Images\\turnaround.png",
+      "format": "PNG",
+      "size": [
+        2824,
+        1328
+      ],
+      "mode": "RGBA",
+      "bytes": 7025073,
+      "rgb_extrema": [
+        [
+          0,
+          255
+        ],
+        [
+          0,
+          255
+        ],
+        [
+          0,
+          255
+        ]
+      ],
+      "alpha_extrema": [
+        220,
+        255
+      ],
+      "mean_rgb": [
+        63.0941,
+        60.3874,
+        81.9165
+      ],
+      "empty_or_black": false,
+      "sha256": "50cb6dce6b62a0e1de2e1d1a7e5bb646b39ed6c0cac24d0305d2dd2127724827"
+    },
+    {
+      "path": "C:\\Users\\DELL\\Desktop\\CyberKitty 2077\\Assets\\Characters\\General Fetch\\Reference Images\\bio.png",
+      "format": "PNG",
+      "size": [
+        1288,
+        1072
+      ],
+      "mode": "RGBA",
+      "bytes": 1651963,
+      "rgb_extrema": [
+        [
+          0,
+          255
+        ],
+        [
+          0,
+          255
+        ],
+        [
+          0,
+          255
+        ]
+      ],
+      "alpha_extrema": [
+        220,
+        255
+      ],
+      "mean_rgb": [
+        45.2679,
+        34.7788,
+        51.1826
+      ],
+      "empty_or_black": false,
+      "sha256": "df87fbea4a0e395918a40b6d3f3a8e062cb8ecb394dc5fc2e3ba0923e495a366"
+    },
+    {
+      "path": "C:\\Users\\DELL\\Desktop\\CyberKitty 2077\\Assets\\Characters\\General Fetch\\Reference Images\\card.png",
+      "format": "PNG",
+      "size": [
+        3072,
+        2048
+      ],
+      "mode": "RGBA",
+      "bytes": 12196025,
+      "rgb_extrema": [
+        [
+          0,
+          255
+        ],
+        [
+          0,
+          255
+        ],
+        [
+          0,
+          255
+        ]
+      ],
+      "alpha_extrema": [
+        220,
+        255
+      ],
+      "mean_rgb": [
+        50.7746,
+        38.9672,
+        53.9345
+      ],
+      "empty_or_black": false,
+      "sha256": "e79721ee9b1c24e833031e746aeab83a5bb0b435c13c21ebeeb6aa41413b640c"
+    },
+    {
+      "path": "C:\\Users\\DELL\\Desktop\\CyberKitty 2077\\Assets\\Characters\\General Fetch\\Reference Images\\details.png",
+      "format": "PNG",
+      "size": [
+        1748,
+        1104
+      ],
+      "mode": "RGBA",
+      "bytes": 3268642,
+      "rgb_extrema": [
+        [
+          0,
+          255
+        ],
+        [
+          0,
+          255
+        ],
+        [
+          0,
+          255
+        ]
+      ],
+      "alpha_extrema": [
+        220,
+        255
+      ],
+      "mean_rgb": [
+        44.6275,
+        35.4131,
+        47.6497
+      ],
+      "empty_or_black": false,
+      "sha256": "14cf61e60cd0d1abb72629ad3ba183d401905f0153f5c370db6d6f3358cd8e34"
+    },
+    {
+      "path": "C:\\Users\\DELL\\Desktop\\CyberKitty 2077\\Assets\\Characters\\General Fetch\\Reference Images\\expressions.png",
+      "format": "PNG",
+      "size": [
+        2824,
+        1084
+      ],
+      "mode": "RGBA",
+      "bytes": 6704023,
+      "rgb_extrema": [
+        [
+          0,
+          255
+        ],
+        [
+          0,
+          255
+        ],
+        [
+          0,
+          255
+        ]
+      ],
+      "alpha_extrema": [
+        220,
+        255
+      ],
+      "mean_rgb": [
+        62.1368,
+        40.8567,
+        56.0116
+      ],
+      "empty_or_black": false,
+      "sha256": "05a9048c9cba15de24f79f8c56730202bdace260d4238bb5bed9a7d170276233"
+    },
+    {
+      "path": "C:\\Users\\DELL\\Desktop\\CyberKitty 2077\\Assets\\Characters\\General Fetch\\Reference Images\\gear.png",
+      "format": "PNG",
+      "size": [
+        1748,
+        1308
+      ],
+      "mode": "RGBA",
+      "bytes": 3995968,
+      "rgb_extrema": [
+        [
+          0,
+          255
+        ],
+        [
+          0,
+          255
+        ],
+        [
+          0,
+          255
+        ]
+      ],
+      "alpha_extrema": [
+        220,
+        255
+      ],
+      "mean_rgb": [
+        40.175,
+        33.6593,
+        45.1292
+      ],
+      "empty_or_black": false,
+      "sha256": "d2c5f8433a6bd6c1a4d85723305881aaca9d9ebca42e9b4de060c250d6d16740"
+    },
+    {
+      "path": "C:\\Users\\DELL\\Desktop\\CyberKitty 2077\\Assets\\Characters\\General Fetch\\Reference Images\\palette.png",
+      "format": "PNG",
+      "size": [
+        1412,
+        1072
+      ],
+      "mode": "RGBA",
+      "bytes": 1780431,
+      "rgb_extrema": [
+        [
+          0,
+          255
+        ],
+        [
+          0,
+          255
+        ],
+        [
+          0,
+          255
+        ]
+      ],
+      "alpha_extrema": [
+        220,
+        255
+      ],
+      "mean_rgb": [
+        54.3007,
+        37.3962,
+        53.1686
+      ],
+      "empty_or_black": false,
+      "sha256": "720f261176101acd45390eac5bdbdeede8f2a1ef8182ddf631087b6ecf403f25"
+    },
+    {
+      "path": "C:\\Users\\DELL\\Desktop\\CyberKitty 2077\\Assets\\Characters\\General Fetch\\Reference Images\\personality.png",
+      "format": "PNG",
+      "size": [
+        1164,
+        1072
+      ],
+      "mode": "RGBA",
+      "bytes": 1476983,
+      "rgb_extrema": [
+        [
+          0,
+          255
+        ],
+        [
+          0,
+          255
+        ],
+        [
+          0,
+          255
+        ]
+      ],
+      "alpha_extrema": [
+        220,
+        255
+      ],
+      "mean_rgb": [
+        45.0632,
+        32.438,
+        52.1116
+      ],
+      "empty_or_black": false,
+      "sha256": "765673ffbeebbea34b4bf31e0798cc5b82d620f3e41a1434b2b89bc980d5ee5d"
+    },
+    {
+      "path": "C:\\Users\\DELL\\Desktop\\CyberKitty 2077\\Assets\\Characters\\General Fetch\\Reference Images\\portrait.png",
+      "format": "PNG",
+      "size": [
+        1748,
+        3008
+      ],
+      "mode": "RGBA",
+      "bytes": 11180989,
+      "rgb_extrema": [
+        [
+          0,
+          255
+        ],
+        [
+          0,
+          255
+        ],
+        [
+          0,
+          255
+        ]
+      ],
+      "alpha_extrema": [
+        220,
+        255
+      ],
+      "mean_rgb": [
+        61.7224,
+        46.2815,
+        59.6936
+      ],
+      "empty_or_black": false,
+      "sha256": "93d9705cb6d863c7f98cbd5c2d4dfd015e282df15e44e389dbfcdebf97494dea"
+    },
+    {
+      "path": "C:\\Users\\DELL\\Desktop\\CyberKitty 2077\\Assets\\Characters\\General Fetch\\Reference Images\\ref-expressions.png",
+      "format": "PNG",
+      "size": [
+        2824,
+        1084
+      ],
+      "mode": "RGBA",
+      "bytes": 6704023,
+      "rgb_extrema": [
+        [
+          0,
+          255
+        ],
+        [
+          0,
+          255
+        ],
+        [
+          0,
+          255
+        ]
+      ],
+      "alpha_extrema": [
+        220,
+        255
+      ],
+      "mean_rgb": [
+        62.1368,
+        40.8567,
+        56.0116
+      ],
+      "empty_or_black": false,
+      "sha256": "05a9048c9cba15de24f79f8c56730202bdace260d4238bb5bed9a7d170276233"
+    },
+    {
+      "path": "C:\\Users\\DELL\\Desktop\\CyberKitty 2077\\Assets\\Characters\\General Fetch\\Reference Images\\ref-turnaround.png",
+      "format": "PNG",
+      "size": [
+        2824,
+        1328
+      ],
+      "mode": "RGBA",
+      "bytes": 7012528,
+      "rgb_extrema": [
+        [
+          0,
+          255
+        ],
+        [
+          0,
+          255
+        ],
+        [
+          0,
+          255
+        ]
+      ],
+      "alpha_extrema": [
+        220,
+        255
+      ],
+      "mean_rgb": [
+        38.8224,
+        29.6321,
+        40.958
+      ],
+      "empty_or_black": false,
+      "sha256": "75ad807927da512124ea961c87cd4381d3709a043cdfce587ad60a5213053cc9"
+    },
+    {
+      "path": "C:\\Users\\DELL\\Desktop\\CyberKitty 2077\\Assets\\Characters\\General Fetch\\Reference Images\\setting.png",
+      "format": "PNG",
+      "size": [
+        2272,
+        1072
+      ],
+      "mode": "RGBA",
+      "bytes": 5018200,
+      "rgb_extrema": [
+        [
+          0,
+          255
+        ],
+        [
+          0,
+          255
+        ],
+        [
+          0,
+          255
+        ]
+      ],
+      "alpha_extrema": [
+        220,
+        255
+      ],
+      "mean_rgb": [
+        54.4676,
+        45.0942,
+        70.6959
+      ],
+      "empty_or_black": false,
+      "sha256": "18cbb95d504285d31f2349ae660186e744e4a1c71230692c96c08b9c035b0f79"
+    },
+    {
+      "path": "C:\\Users\\DELL\\Desktop\\CyberKitty 2077\\Assets\\Characters\\General Fetch\\Reference Images\\turnaround.png",
+      "format": "PNG",
+      "size": [
+        2824,
+        1328
+      ],
+      "mode": "RGBA",
+      "bytes": 7012528,
+      "rgb_extrema": [
+        [
+          0,
+          255
+        ],
+        [
+          0,
+          255
+        ],
+        [
+          0,
+          255
+        ]
+      ],
+      "alpha_extrema": [
+        220,
+        255
+      ],
+      "mean_rgb": [
+        38.8224,
+        29.6321,
+        40.958
+      ],
+      "empty_or_black": false,
+      "sha256": "75ad807927da512124ea961c87cd4381d3709a043cdfce587ad60a5213053cc9"
+    },
+    {
+      "path": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Phase 2\\Character Masters\\CHAR06-barkington-character-master-gpt26-v001.png",
+      "format": "PNG",
+      "size": [
+        3840,
+        2160
+      ],
+      "mode": "RGB",
+      "bytes": 10114600,
+      "rgb_extrema": [
+        [
+          0,
+          255
+        ],
+        [
+          0,
+          255
+        ],
+        [
+          0,
+          255
+        ]
+      ],
+      "alpha_extrema": null,
+      "mean_rgb": [
+        65.3626,
+        47.2743,
+        58.1891
+      ],
+      "empty_or_black": false,
+      "sha256": "7bd6bd25538e01b41946097869a02d0c6c1f938d8167b94f854e608d1ab5a904"
+    },
+    {
+      "path": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Phase 2\\Character Masters\\CHAR06-barkington-character-master-gpt26-v002.png",
+      "format": "PNG",
+      "size": [
+        3840,
+        2160
+      ],
+      "mode": "RGB",
+      "bytes": 10237344,
+      "rgb_extrema": [
+        [
+          0,
+          255
+        ],
+        [
+          0,
+          255
+        ],
+        [
+          0,
+          255
+        ]
+      ],
+      "alpha_extrema": null,
+      "mean_rgb": [
+        66.2395,
+        48.4963,
+        59.1486
+      ],
+      "empty_or_black": false,
+      "sha256": "562eac0bfb4963cda6cfacb48dfd34dbfbe363c2f7f91cb7d86c27a568ce16c5"
+    },
+    {
+      "path": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Recovered References\\Chairman Barkington\\setting.png",
+      "format": "PNG",
+      "size": [
+        1136,
+        536
+      ],
+      "mode": "RGB",
+      "bytes": 1028902,
+      "rgb_extrema": [
+        [
+          0,
+          255
+        ],
+        [
+          0,
+          255
+        ],
+        [
+          0,
+          255
+        ]
+      ],
+      "alpha_extrema": null,
+      "mean_rgb": [
+        61.5296,
+        39.0333,
+        62.8142
+      ],
+      "empty_or_black": false,
+      "sha256": "a0579b0ecfdf920f5db94d180a4a0fe0ad7b87e849cf8bff57a2f5be14c1d608"
+    },
+    {
+      "path": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Recovered References\\Chairman Barkington\\turnaround.png",
+      "format": "PNG",
+      "size": [
+        1412,
+        664
+      ],
+      "mode": "RGB",
+      "bytes": 1476991,
+      "rgb_extrema": [
+        [
+          0,
+          255
+        ],
+        [
+          0,
+          255
+        ],
+        [
+          0,
+          255
+        ]
+      ],
+      "alpha_extrema": null,
+      "mean_rgb": [
+        55.2174,
+        32.2346,
+        39.528
+      ],
+      "empty_or_black": false,
+      "sha256": "2600eb783339644e83d197c154cc4814e06b1248e0d3b32f06e02719aa7f55b9"
+    },
+    {
+      "path": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Recovered References\\Dr Muzzle\\card.png",
+      "format": "PNG",
+      "size": [
+        3072,
+        2048
+      ],
+      "mode": "RGB",
+      "bytes": 10708662,
+      "rgb_extrema": [
+        [
+          0,
+          255
+        ],
+        [
+          0,
+          255
+        ],
+        [
+          0,
+          255
+        ]
+      ],
+      "alpha_extrema": null,
+      "mean_rgb": [
+        68.3286,
+        61.1697,
+        85.1171
+      ],
+      "empty_or_black": false,
+      "sha256": "79c8fdd0174e88bff430c19e3932e04b21c5db10e940ba278e4c618f6c52506e"
+    },
+    {
+      "path": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Recovered References\\Dr Muzzle\\personality.png",
+      "format": "PNG",
+      "size": [
+        1164,
+        1072
+      ],
+      "mode": "RGB",
+      "bytes": 1162839,
+      "rgb_extrema": [
+        [
+          0,
+          255
+        ],
+        [
+          0,
+          255
+        ],
+        [
+          0,
+          255
+        ]
+      ],
+      "alpha_extrema": null,
+      "mean_rgb": [
+        50.8765,
+        37.5987,
+        51.3989
+      ],
+      "empty_or_black": false,
+      "sha256": "fcc2907e9021ddffd3b8c058c7001481b421cb6e6b7fc7ada30a8538c3f9df0b"
+    },
+    {
+      "path": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Recovered References\\Dr Muzzle\\portrait.png",
+      "format": "PNG",
+      "size": [
+        874,
+        1504
+      ],
+      "mode": "RGB",
+      "bytes": 2728747,
+      "rgb_extrema": [
+        [
+          0,
+          255
+        ],
+        [
+          0,
+          255
+        ],
+        [
+          0,
+          255
+        ]
+      ],
+      "alpha_extrema": null,
+      "mean_rgb": [
+        96.1078,
+        86.1201,
+        112.4379
+      ],
+      "empty_or_black": false,
+      "sha256": "f43aca7490387216b7a3a87f4cbcde7dcbbb7a18935cee107a86af05c734d199"
+    },
+    {
+      "path": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Recovered References\\Dr Muzzle\\ref-expressions.png",
+      "format": "PNG",
+      "size": [
+        1412,
+        542
+      ],
+      "mode": "RGB",
+      "bytes": 1525492,
+      "rgb_extrema": [
+        [
+          0,
+          255
+        ],
+        [
+          0,
+          255
+        ],
+        [
+          0,
+          255
+        ]
+      ],
+      "alpha_extrema": null,
+      "mean_rgb": [
+        82.2907,
+        71.4495,
+        95.4926
+      ],
+      "empty_or_black": false,
+      "sha256": "c38afd33df8a5a107fec8cc447485dd0669eec323d9dbaeae7e49918bb0c772e"
+    }
+  ],
+  "generation_policy": "Recommendation only. No image generation, payment, edits to source images, or roster/story changes performed.",
+  "follow_up_generation": {
+    "status": "five_missing_sheets_generated_as_review_drafts",
+    "manifest": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Phase 2\\Dog Masters\\generation-manifest.json",
+    "asset_ids": [
+      "DOG01",
+      "DOG02",
+      "DOG03",
+      "DOG04",
+      "DOG05"
+    ],
+    "note": "Original audit counts describe pre-generation inventory. All five recommended additions now have new masters; review notes and proposed details remain in the manifest.",
+    "quoted_total_credits": 21.25,
+    "paid_retries": 0
+  }
+}

@@ -1,0 +1,423 @@
+{
+  "batch": "five_missing_dog_library_masters",
+  "model": "gpt_image_2_6",
+  "budget_lease_credits": 22,
+  "max_paid_jobs": 5,
+  "quote_each_credits": 4.25,
+  "quote_total_credits": 21.25,
+  "no_paid_retry": true,
+  "cat_crew_count": 5,
+  "core_four_cronies": "not selected by this asset pass",
+  "scope": "Expanded dog library only; keep Fetch/Muzzle existing sheets and current Barkington v002. No audio/video or voice assignments.",
+  "jobs": [
+    {
+      "id": "DOG01",
+      "character_id": "viper",
+      "name": "Viper",
+      "species": "German Shepherd",
+      "filename": "DOG01-viper-character-master-gpt26-v001.png",
+      "prompt": "Use case: stylized-concept / identity-preserve.\nCreate ONE 3840×2160, 16:9 high-quality production character sheet for Viper only, an ADULT anthropomorphic DOG in the established Kitty Punk 2077 / Goodboy Global world. This is one consistent character shown repeatedly as reference views, not a group of different actors.\n\nREFERENCE IMAGE 1: supplied eight-dog council overview, 512×341. Identify ONLY the named VIPER card, numbered 4, in the row of eight character cards; use that dog's corresponding boardroom appearance as supplementary outfit evidence. Ignore the other seven identities. The source is low-resolution: preserve the visibly established breed, head silhouette, coat colors, glasses if present and outfit. Resolve unseen reverse construction minimally and consistently as a proposed master for review; do not invent ranks, scars, signature gadgets, jewelry or a new biography.\nIDENTITY LOCK: German Shepherd; Tan and black coat, upright ears, long muzzle; Black corporate uniform/coat with gold trim.\nKeep the long German Shepherd muzzle and tall triangular ears, tan facial areas with black forehead/ear regions, and restrained gold piping on the black corporate coat. Do not turn this dog into Barkington or give it a cape, cigar or purple glasses.\n\nLAYOUT: Exactly NINE large panels in a neat 3×3 grid on a neutral dark charcoal studio backdrop, thin restrained magenta dividers matching the existing production sheets. Small header across the top reading exactly \"DOG01 — VIPER\". Row 1: \"1. FRONT\" (complete standing body), \"2. BACK\" (complete true rear), \"3. LEFT PROFILE\" (complete character's anatomical left side, nose toward frame-left). Row 2: \"4. RIGHT PROFILE\" (complete anatomical right side, nose toward frame-right), \"5. FACE\" (large three-quarter head and shoulders), \"6. EXPRESSIONS\" (four small consistent head views labelled NEUTRAL, FOCUSED, AMUSED, ALARMED). Row 3: \"7. PAWS\" (relaxed outer paw, palm/pads and simple gentle grip close views), \"8. SIGNATURE DETAILS\" (close views of the already established face/fur, collar/trim, existing eyewear if present), \"9. COSTUME / ACCESSORIES\" (the SAME coat or suit, shirt/tie, trousers, footwear and only already visible fixed accessories, with small material/color swatches).\nIn panels 1–4, use matching height and scale, natural neutral standing posture, empty paws, complete ears to soles and clear margin. Tail if naturally visible must attach plausibly and stay consistent; do not create an arbitrary hole through a long coat. No silhouette cropping. Front and back must be truly different directions; do not mirror a three-quarter pose. Face, muzzle length, ears, fur and outfit remain identical in all views. Clothing stays buttoned and businesslike in body views.\nANATOMY: clearly canine muzzle, nose, ears and fur, plausible furry or paw-shaped gloved hands, compact coherent digits and pads/claws where exposed; no bare human hands, human skin, fused fingers, extra limbs or detached heads. Boots are consistent, not human bare feet. No child proportions, cats or other species.\nSTYLE: polished cinematic 3D animated cyberpunk realism consistent with the supplied characters, realistic groomed fur and fabric/metal/leather textures, soft neutral studio key light with restrained cyan/magenta rim. Make markings and garment construction readable; avoid dramatic neon bloom hiding shapes. Same material colors in every tile. This is a clean reference sheet, not a scene, poster, billboard or council room. No speech bubbles, watermark, extra slogans, weapons or invented props. Only requested short labels and header; no voice names or actor names. No final-canon or approval claims printed on the sheet.",
+      "reference_paths": [
+        "C:\\Users\\DELL\\Desktop\\CyberKitty 2077\\Assets\\Character Sheets\\The Dogs\\file_00000000ffc081f59db0af84291190f4.webp"
+      ],
+      "reference_media_ids": [
+        "0a7bc382-00e2-467b-b908-ca03cb04bfe5"
+      ],
+      "reference_sha256": "976d110258bde2e256a2bb3fd4dbae625d49be6b79e7979a2fe2a42637a2caa0",
+      "reference_limit": "Only a low-resolution group reference is available. Preserve visibly established breed, coat and silhouette. Unseen reverse-side seams and exact eye/spot details are proposed, never falsely claimed as recovered canon. Approve the new isolated master before use in scenes.",
+      "params": {
+        "model": "gpt_image_2_6",
+        "prompt": "Use case: stylized-concept / identity-preserve.\nCreate ONE 3840×2160, 16:9 high-quality production character sheet for Viper only, an ADULT anthropomorphic DOG in the established Kitty Punk 2077 / Goodboy Global world. This is one consistent character shown repeatedly as reference views, not a group of different actors.\n\nREFERENCE IMAGE 1: supplied eight-dog council overview, 512×341. Identify ONLY the named VIPER card, numbered 4, in the row of eight character cards; use that dog's corresponding boardroom appearance as supplementary outfit evidence. Ignore the other seven identities. The source is low-resolution: preserve the visibly established breed, head silhouette, coat colors, glasses if present and outfit. Resolve unseen reverse construction minimally and consistently as a proposed master for review; do not invent ranks, scars, signature gadgets, jewelry or a new biography.\nIDENTITY LOCK: German Shepherd; Tan and black coat, upright ears, long muzzle; Black corporate uniform/coat with gold trim.\nKeep the long German Shepherd muzzle and tall triangular ears, tan facial areas with black forehead/ear regions, and restrained gold piping on the black corporate coat. Do not turn this dog into Barkington or give it a cape, cigar or purple glasses.\n\nLAYOUT: Exactly NINE large panels in a neat 3×3 grid on a neutral dark charcoal studio backdrop, thin restrained magenta dividers matching the existing production sheets. Small header across the top reading exactly \"DOG01 — VIPER\". Row 1: \"1. FRONT\" (complete standing body), \"2. BACK\" (complete true rear), \"3. LEFT PROFILE\" (complete character's anatomical left side, nose toward frame-left). Row 2: \"4. RIGHT PROFILE\" (complete anatomical right side, nose toward frame-right), \"5. FACE\" (large three-quarter head and shoulders), \"6. EXPRESSIONS\" (four small consistent head views labelled NEUTRAL, FOCUSED, AMUSED, ALARMED). Row 3: \"7. PAWS\" (relaxed outer paw, palm/pads and simple gentle grip close views), \"8. SIGNATURE DETAILS\" (close views of the already established face/fur, collar/trim, existing eyewear if present), \"9. COSTUME / ACCESSORIES\" (the SAME coat or suit, shirt/tie, trousers, footwear and only already visible fixed accessories, with small material/color swatches).\nIn panels 1–4, use matching height and scale, natural neutral standing posture, empty paws, complete ears to soles and clear margin. Tail if naturally visible must attach plausibly and stay consistent; do not create an arbitrary hole through a long coat. No silhouette cropping. Front and back must be truly different directions; do not mirror a three-quarter pose. Face, muzzle length, ears, fur and outfit remain identical in all views. Clothing stays buttoned and businesslike in body views.\nANATOMY: clearly canine muzzle, nose, ears and fur, plausible furry or paw-shaped gloved hands, compact coherent digits and pads/claws where exposed; no bare human hands, human skin, fused fingers, extra limbs or detached heads. Boots are consistent, not human bare feet. No child proportions, cats or other species.\nSTYLE: polished cinematic 3D animated cyberpunk realism consistent with the supplied characters, realistic groomed fur and fabric/metal/leather textures, soft neutral studio key light with restrained cyan/magenta rim. Make markings and garment construction readable; avoid dramatic neon bloom hiding shapes. Same material colors in every tile. This is a clean reference sheet, not a scene, poster, billboard or council room. No speech bubbles, watermark, extra slogans, weapons or invented props. Only requested short labels and header; no voice names or actor names. No final-canon or approval claims printed on the sheet.",
+        "quality": "high",
+        "resolution": "4k",
+        "aspect_ratio": "16:9",
+        "count": 1,
+        "output_format": "png",
+        "background": "opaque",
+        "medias": [
+          {
+            "role": "image",
+            "value": "0a7bc382-00e2-467b-b908-ca03cb04bfe5"
+          }
+        ]
+      },
+      "status": "review_draft_visually_checked",
+      "quote_credits": 4.25,
+      "initial_crony_assignment": null,
+      "voice_assignment": null,
+      "job_id": "b335e596-0097-4eec-94a7-b1102e1e984f",
+      "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Phase 2\\Dog Masters\\DOG01-viper-character-master-gpt26-v001.png",
+      "project_copy": "C:\\Users\\DELL\\Desktop\\CyberKitty 2077\\Assets\\Dog Masters\\GPT Image 2.6\\DOG01-viper-character-master-gpt26-v001.png",
+      "actual_dimensions": [
+        3840,
+        2160
+      ],
+      "sha256": "02bfa57deee94bd4eb2a1bb4c243981f17074fdd71a79e8dda44b3d2f1bf3400",
+      "receipt": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Phase 2\\Dog Masters\\DOG01-viper-character-master-gpt26-v001.receipt.json",
+      "visual_qa": {
+        "asset_id": "DOG01",
+        "name": "Viper",
+        "status": "review_draft_with_notes",
+        "checked_at_utc": "2026-11-06T19:43:02.363248+00:00",
+        "reviewed": true,
+        "production_approved": false,
+        "review_method": "Visual inspection of each saved full sheet, plus pixel/dimension verification and source comparison.",
+        "nine_main_panels": true,
+        "all_four_full_body_directions_present": true,
+        "no_bare_human_hands_observed": true,
+        "only_target_character_identity": true,
+        "reference_confidence": "Breed, colors and broad costume supported by original council overview; fine hidden details proposed.",
+        "rerun_authorized": false,
+        "paid_retry_performed": false,
+        "passes": [
+          "German Shepherd tan/black fur, upright ears and long muzzle retained.",
+          "Black/gold long corporate coat consistent across four complete directional body views.",
+          "Nine panels, expressive face studies and fur-covered paw references; no other character identity or scene background."
+        ],
+        "issues": [
+          {
+            "severity": "review_note",
+            "category": "inferred_design",
+            "note": "Eye color, diagonal tie detail, rear tailoring and tail construction are newly resolved details from a thin source; do not claim they were recovered exactly."
+          },
+          {
+            "severity": "minor",
+            "category": "paw_reference",
+            "note": "Paw-pad geometry is stylized; use as visual direction rather than a definitive anatomical rig map."
+          }
+        ]
+      },
+      "qa_file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Phase 2\\Dog Masters\\DOG01-viper-character-master-gpt26-v001.qa.json"
+    },
+    {
+      "id": "DOG02",
+      "character_id": "frost",
+      "name": "Frost",
+      "species": "American Pit Bull",
+      "filename": "DOG02-frost-character-master-gpt26-v001.png",
+      "prompt": "Use case: stylized-concept / identity-preserve.\nCreate ONE 3840×2160, 16:9 high-quality production character sheet for Frost only, an ADULT anthropomorphic DOG in the established Kitty Punk 2077 / Goodboy Global world. This is one consistent character shown repeatedly as reference views, not a group of different actors.\n\nREFERENCE IMAGE 1: supplied eight-dog council overview, 512×341. Identify ONLY the named FROST card, numbered 5, in the row of eight character cards; use that dog's corresponding boardroom appearance as supplementary outfit evidence. Ignore the other seven identities. The source is low-resolution: preserve the visibly established breed, head silhouette, coat colors, glasses if present and outfit. Resolve unseen reverse construction minimally and consistently as a proposed master for review; do not invent ranks, scars, signature gadgets, jewelry or a new biography.\nIDENTITY LOCK: American Pit Bull; Grey coat, broad muzzle, short ears; Dark gold-trim suit and white shirt with dark tie.\nKeep a short broad American Pit Bull muzzle and short ears, smooth grey fur, broad head and robust adult build. White shirt and dark tie remain visible inside the dark suit. Do not replace this head with an English Bulldog or add heavy drooping jowls.\n\nLAYOUT: Exactly NINE large panels in a neat 3×3 grid on a neutral dark charcoal studio backdrop, thin restrained magenta dividers matching the existing production sheets. Small header across the top reading exactly \"DOG02 — FROST\". Row 1: \"1. FRONT\" (complete standing body), \"2. BACK\" (complete true rear), \"3. LEFT PROFILE\" (complete character's anatomical left side, nose toward frame-left). Row 2: \"4. RIGHT PROFILE\" (complete anatomical right side, nose toward frame-right), \"5. FACE\" (large three-quarter head and shoulders), \"6. EXPRESSIONS\" (four small consistent head views labelled NEUTRAL, FOCUSED, AMUSED, ALARMED). Row 3: \"7. PAWS\" (relaxed outer paw, palm/pads and simple gentle grip close views), \"8. SIGNATURE DETAILS\" (close views of the already established face/fur, collar/trim, existing eyewear if present), \"9. COSTUME / ACCESSORIES\" (the SAME coat or suit, shirt/tie, trousers, footwear and only already visible fixed accessories, with small material/color swatches).\nIn panels 1–4, use matching height and scale, natural neutral standing posture, empty paws, complete ears to soles and clear margin. Tail if naturally visible must attach plausibly and stay consistent; do not create an arbitrary hole through a long coat. No silhouette cropping. Front and back must be truly different directions; do not mirror a three-quarter pose. Face, muzzle length, ears, fur and outfit remain identical in all views. Clothing stays buttoned and businesslike in body views.\nANATOMY: clearly canine muzzle, nose, ears and fur, plausible furry or paw-shaped gloved hands, compact coherent digits and pads/claws where exposed; no bare human hands, human skin, fused fingers, extra limbs or detached heads. Boots are consistent, not human bare feet. No child proportions, cats or other species.\nSTYLE: polished cinematic 3D animated cyberpunk realism consistent with the supplied characters, realistic groomed fur and fabric/metal/leather textures, soft neutral studio key light with restrained cyan/magenta rim. Make markings and garment construction readable; avoid dramatic neon bloom hiding shapes. Same material colors in every tile. This is a clean reference sheet, not a scene, poster, billboard or council room. No speech bubbles, watermark, extra slogans, weapons or invented props. Only requested short labels and header; no voice names or actor names. No final-canon or approval claims printed on the sheet.",
+      "reference_paths": [
+        "C:\\Users\\DELL\\Desktop\\CyberKitty 2077\\Assets\\Character Sheets\\The Dogs\\file_00000000ffc081f59db0af84291190f4.webp"
+      ],
+      "reference_media_ids": [
+        "0a7bc382-00e2-467b-b908-ca03cb04bfe5"
+      ],
+      "reference_sha256": "976d110258bde2e256a2bb3fd4dbae625d49be6b79e7979a2fe2a42637a2caa0",
+      "reference_limit": "Only a low-resolution group reference is available. Preserve visibly established breed, coat and silhouette. Unseen reverse-side seams and exact eye/spot details are proposed, never falsely claimed as recovered canon. Approve the new isolated master before use in scenes.",
+      "params": {
+        "model": "gpt_image_2_6",
+        "prompt": "Use case: stylized-concept / identity-preserve.\nCreate ONE 3840×2160, 16:9 high-quality production character sheet for Frost only, an ADULT anthropomorphic DOG in the established Kitty Punk 2077 / Goodboy Global world. This is one consistent character shown repeatedly as reference views, not a group of different actors.\n\nREFERENCE IMAGE 1: supplied eight-dog council overview, 512×341. Identify ONLY the named FROST card, numbered 5, in the row of eight character cards; use that dog's corresponding boardroom appearance as supplementary outfit evidence. Ignore the other seven identities. The source is low-resolution: preserve the visibly established breed, head silhouette, coat colors, glasses if present and outfit. Resolve unseen reverse construction minimally and consistently as a proposed master for review; do not invent ranks, scars, signature gadgets, jewelry or a new biography.\nIDENTITY LOCK: American Pit Bull; Grey coat, broad muzzle, short ears; Dark gold-trim suit and white shirt with dark tie.\nKeep a short broad American Pit Bull muzzle and short ears, smooth grey fur, broad head and robust adult build. White shirt and dark tie remain visible inside the dark suit. Do not replace this head with an English Bulldog or add heavy drooping jowls.\n\nLAYOUT: Exactly NINE large panels in a neat 3×3 grid on a neutral dark charcoal studio backdrop, thin restrained magenta dividers matching the existing production sheets. Small header across the top reading exactly \"DOG02 — FROST\". Row 1: \"1. FRONT\" (complete standing body), \"2. BACK\" (complete true rear), \"3. LEFT PROFILE\" (complete character's anatomical left side, nose toward frame-left). Row 2: \"4. RIGHT PROFILE\" (complete anatomical right side, nose toward frame-right), \"5. FACE\" (large three-quarter head and shoulders), \"6. EXPRESSIONS\" (four small consistent head views labelled NEUTRAL, FOCUSED, AMUSED, ALARMED). Row 3: \"7. PAWS\" (relaxed outer paw, palm/pads and simple gentle grip close views), \"8. SIGNATURE DETAILS\" (close views of the already established face/fur, collar/trim, existing eyewear if present), \"9. COSTUME / ACCESSORIES\" (the SAME coat or suit, shirt/tie, trousers, footwear and only already visible fixed accessories, with small material/color swatches).\nIn panels 1–4, use matching height and scale, natural neutral standing posture, empty paws, complete ears to soles and clear margin. Tail if naturally visible must attach plausibly and stay consistent; do not create an arbitrary hole through a long coat. No silhouette cropping. Front and back must be truly different directions; do not mirror a three-quarter pose. Face, muzzle length, ears, fur and outfit remain identical in all views. Clothing stays buttoned and businesslike in body views.\nANATOMY: clearly canine muzzle, nose, ears and fur, plausible furry or paw-shaped gloved hands, compact coherent digits and pads/claws where exposed; no bare human hands, human skin, fused fingers, extra limbs or detached heads. Boots are consistent, not human bare feet. No child proportions, cats or other species.\nSTYLE: polished cinematic 3D animated cyberpunk realism consistent with the supplied characters, realistic groomed fur and fabric/metal/leather textures, soft neutral studio key light with restrained cyan/magenta rim. Make markings and garment construction readable; avoid dramatic neon bloom hiding shapes. Same material colors in every tile. This is a clean reference sheet, not a scene, poster, billboard or council room. No speech bubbles, watermark, extra slogans, weapons or invented props. Only requested short labels and header; no voice names or actor names. No final-canon or approval claims printed on the sheet.",
+        "quality": "high",
+        "resolution": "4k",
+        "aspect_ratio": "16:9",
+        "count": 1,
+        "output_format": "png",
+        "background": "opaque",
+        "medias": [
+          {
+            "role": "image",
+            "value": "0a7bc382-00e2-467b-b908-ca03cb04bfe5"
+          }
+        ]
+      },
+      "status": "review_draft_visually_checked",
+      "quote_credits": 4.25,
+      "initial_crony_assignment": null,
+      "voice_assignment": null,
+      "job_id": "c7ec224d-d5af-41d1-a551-c7ed96b4bf68",
+      "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Phase 2\\Dog Masters\\DOG02-frost-character-master-gpt26-v001.png",
+      "project_copy": "C:\\Users\\DELL\\Desktop\\CyberKitty 2077\\Assets\\Dog Masters\\GPT Image 2.6\\DOG02-frost-character-master-gpt26-v001.png",
+      "actual_dimensions": [
+        3840,
+        2160
+      ],
+      "sha256": "e39d19829b3a3c47c6bf425eb040477fe1353085309e4d66da24325154ddf29e",
+      "receipt": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Phase 2\\Dog Masters\\DOG02-frost-character-master-gpt26-v001.receipt.json",
+      "visual_qa": {
+        "asset_id": "DOG02",
+        "name": "Frost",
+        "status": "review_draft_with_notes",
+        "checked_at_utc": "2026-11-06T19:43:02.483231+00:00",
+        "reviewed": true,
+        "production_approved": false,
+        "review_method": "Visual inspection of each saved full sheet, plus pixel/dimension verification and source comparison.",
+        "nine_main_panels": true,
+        "all_four_full_body_directions_present": true,
+        "no_bare_human_hands_observed": true,
+        "only_target_character_identity": true,
+        "reference_confidence": "Breed, colors and broad costume supported by original council overview; fine hidden details proposed.",
+        "rerun_authorized": false,
+        "paid_retry_performed": false,
+        "passes": [
+          "Grey American Pit Bull head/build retained, distinct from Stone’s English Bulldog.",
+          "Dark/gold suit, white shirt and dark tie retained.",
+          "Nine panels with complete front/back and both profiles; coherent fur-covered paws."
+        ],
+        "issues": [
+          {
+            "severity": "minor",
+            "category": "layout",
+            "note": "Added source-inspired Kitty Punk/Meowtech/Goodboy branding in the header beyond the requested simple title. It is sheet decoration, not a physical costume marking."
+          },
+          {
+            "severity": "minor",
+            "category": "deliverable_scope",
+            "note": "Panel 9 uses three dressed character figures and color swatches instead of an isolated garment inventory. Main wardrobe is still readable."
+          },
+          {
+            "severity": "review_note",
+            "category": "inferred_design",
+            "note": "Rear tailoring, tail, exact eyes and tiny shoulder/button details are proposed interpretations, not fully resolved source evidence."
+          }
+        ]
+      },
+      "qa_file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Phase 2\\Dog Masters\\DOG02-frost-character-master-gpt26-v001.qa.json"
+    },
+    {
+      "id": "DOG03",
+      "character_id": "stone",
+      "name": "Stone",
+      "species": "English Bulldog",
+      "filename": "DOG03-stone-character-master-gpt26-v001.png",
+      "prompt": "Use case: stylized-concept / identity-preserve.\nCreate ONE 3840×2160, 16:9 high-quality production character sheet for Stone only, an ADULT anthropomorphic DOG in the established Kitty Punk 2077 / Goodboy Global world. This is one consistent character shown repeatedly as reference views, not a group of different actors.\n\nREFERENCE IMAGE 1: supplied eight-dog council overview, 512×341. Identify ONLY the named STONE card, numbered 6, in the row of eight character cards; use that dog's corresponding boardroom appearance as supplementary outfit evidence. Ignore the other seven identities. The source is low-resolution: preserve the visibly established breed, head silhouette, coat colors, glasses if present and outfit. Resolve unseen reverse construction minimally and consistently as a proposed master for review; do not invent ranks, scars, signature gadgets, jewelry or a new biography.\nIDENTITY LOCK: English Bulldog; Stocky, wrinkled tan-and-white face, folded ears, heavy jowls; Dark gold-trim suit, white shirt and gold tie.\nKeep the shorter, stockier English Bulldog build, heavy folded jowls, forehead wrinkles, folded ears and tan-and-white face. Preserve white shirt and gold tie. This is not the grey Pit Bull Frost.\n\nLAYOUT: Exactly NINE large panels in a neat 3×3 grid on a neutral dark charcoal studio backdrop, thin restrained magenta dividers matching the existing production sheets. Small header across the top reading exactly \"DOG03 — STONE\". Row 1: \"1. FRONT\" (complete standing body), \"2. BACK\" (complete true rear), \"3. LEFT PROFILE\" (complete character's anatomical left side, nose toward frame-left). Row 2: \"4. RIGHT PROFILE\" (complete anatomical right side, nose toward frame-right), \"5. FACE\" (large three-quarter head and shoulders), \"6. EXPRESSIONS\" (four small consistent head views labelled NEUTRAL, FOCUSED, AMUSED, ALARMED). Row 3: \"7. PAWS\" (relaxed outer paw, palm/pads and simple gentle grip close views), \"8. SIGNATURE DETAILS\" (close views of the already established face/fur, collar/trim, existing eyewear if present), \"9. COSTUME / ACCESSORIES\" (the SAME coat or suit, shirt/tie, trousers, footwear and only already visible fixed accessories, with small material/color swatches).\nIn panels 1–4, use matching height and scale, natural neutral standing posture, empty paws, complete ears to soles and clear margin. Tail if naturally visible must attach plausibly and stay consistent; do not create an arbitrary hole through a long coat. No silhouette cropping. Front and back must be truly different directions; do not mirror a three-quarter pose. Face, muzzle length, ears, fur and outfit remain identical in all views. Clothing stays buttoned and businesslike in body views.\nANATOMY: clearly canine muzzle, nose, ears and fur, plausible furry or paw-shaped gloved hands, compact coherent digits and pads/claws where exposed; no bare human hands, human skin, fused fingers, extra limbs or detached heads. Boots are consistent, not human bare feet. No child proportions, cats or other species.\nSTYLE: polished cinematic 3D animated cyberpunk realism consistent with the supplied characters, realistic groomed fur and fabric/metal/leather textures, soft neutral studio key light with restrained cyan/magenta rim. Make markings and garment construction readable; avoid dramatic neon bloom hiding shapes. Same material colors in every tile. This is a clean reference sheet, not a scene, poster, billboard or council room. No speech bubbles, watermark, extra slogans, weapons or invented props. Only requested short labels and header; no voice names or actor names. No final-canon or approval claims printed on the sheet.",
+      "reference_paths": [
+        "C:\\Users\\DELL\\Desktop\\CyberKitty 2077\\Assets\\Character Sheets\\The Dogs\\file_00000000ffc081f59db0af84291190f4.webp"
+      ],
+      "reference_media_ids": [
+        "0a7bc382-00e2-467b-b908-ca03cb04bfe5"
+      ],
+      "reference_sha256": "976d110258bde2e256a2bb3fd4dbae625d49be6b79e7979a2fe2a42637a2caa0",
+      "reference_limit": "Only a low-resolution group reference is available. Preserve visibly established breed, coat and silhouette. Unseen reverse-side seams and exact eye/spot details are proposed, never falsely claimed as recovered canon. Approve the new isolated master before use in scenes.",
+      "params": {
+        "model": "gpt_image_2_6",
+        "prompt": "Use case: stylized-concept / identity-preserve.\nCreate ONE 3840×2160, 16:9 high-quality production character sheet for Stone only, an ADULT anthropomorphic DOG in the established Kitty Punk 2077 / Goodboy Global world. This is one consistent character shown repeatedly as reference views, not a group of different actors.\n\nREFERENCE IMAGE 1: supplied eight-dog council overview, 512×341. Identify ONLY the named STONE card, numbered 6, in the row of eight character cards; use that dog's corresponding boardroom appearance as supplementary outfit evidence. Ignore the other seven identities. The source is low-resolution: preserve the visibly established breed, head silhouette, coat colors, glasses if present and outfit. Resolve unseen reverse construction minimally and consistently as a proposed master for review; do not invent ranks, scars, signature gadgets, jewelry or a new biography.\nIDENTITY LOCK: English Bulldog; Stocky, wrinkled tan-and-white face, folded ears, heavy jowls; Dark gold-trim suit, white shirt and gold tie.\nKeep the shorter, stockier English Bulldog build, heavy folded jowls, forehead wrinkles, folded ears and tan-and-white face. Preserve white shirt and gold tie. This is not the grey Pit Bull Frost.\n\nLAYOUT: Exactly NINE large panels in a neat 3×3 grid on a neutral dark charcoal studio backdrop, thin restrained magenta dividers matching the existing production sheets. Small header across the top reading exactly \"DOG03 — STONE\". Row 1: \"1. FRONT\" (complete standing body), \"2. BACK\" (complete true rear), \"3. LEFT PROFILE\" (complete character's anatomical left side, nose toward frame-left). Row 2: \"4. RIGHT PROFILE\" (complete anatomical right side, nose toward frame-right), \"5. FACE\" (large three-quarter head and shoulders), \"6. EXPRESSIONS\" (four small consistent head views labelled NEUTRAL, FOCUSED, AMUSED, ALARMED). Row 3: \"7. PAWS\" (relaxed outer paw, palm/pads and simple gentle grip close views), \"8. SIGNATURE DETAILS\" (close views of the already established face/fur, collar/trim, existing eyewear if present), \"9. COSTUME / ACCESSORIES\" (the SAME coat or suit, shirt/tie, trousers, footwear and only already visible fixed accessories, with small material/color swatches).\nIn panels 1–4, use matching height and scale, natural neutral standing posture, empty paws, complete ears to soles and clear margin. Tail if naturally visible must attach plausibly and stay consistent; do not create an arbitrary hole through a long coat. No silhouette cropping. Front and back must be truly different directions; do not mirror a three-quarter pose. Face, muzzle length, ears, fur and outfit remain identical in all views. Clothing stays buttoned and businesslike in body views.\nANATOMY: clearly canine muzzle, nose, ears and fur, plausible furry or paw-shaped gloved hands, compact coherent digits and pads/claws where exposed; no bare human hands, human skin, fused fingers, extra limbs or detached heads. Boots are consistent, not human bare feet. No child proportions, cats or other species.\nSTYLE: polished cinematic 3D animated cyberpunk realism consistent with the supplied characters, realistic groomed fur and fabric/metal/leather textures, soft neutral studio key light with restrained cyan/magenta rim. Make markings and garment construction readable; avoid dramatic neon bloom hiding shapes. Same material colors in every tile. This is a clean reference sheet, not a scene, poster, billboard or council room. No speech bubbles, watermark, extra slogans, weapons or invented props. Only requested short labels and header; no voice names or actor names. No final-canon or approval claims printed on the sheet.",
+        "quality": "high",
+        "resolution": "4k",
+        "aspect_ratio": "16:9",
+        "count": 1,
+        "output_format": "png",
+        "background": "opaque",
+        "medias": [
+          {
+            "role": "image",
+            "value": "0a7bc382-00e2-467b-b908-ca03cb04bfe5"
+          }
+        ]
+      },
+      "status": "review_draft_visually_checked",
+      "quote_credits": 4.25,
+      "initial_crony_assignment": null,
+      "voice_assignment": null,
+      "job_id": "ed7ffbfc-e05c-4a43-a010-8a37e917d0b0",
+      "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Phase 2\\Dog Masters\\DOG03-stone-character-master-gpt26-v001.png",
+      "project_copy": "C:\\Users\\DELL\\Desktop\\CyberKitty 2077\\Assets\\Dog Masters\\GPT Image 2.6\\DOG03-stone-character-master-gpt26-v001.png",
+      "actual_dimensions": [
+        3840,
+        2160
+      ],
+      "sha256": "c53f980705f2b3ca678d1db923ba646b3269b060c9066419c9867cb60599cbc9",
+      "receipt": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Phase 2\\Dog Masters\\DOG03-stone-character-master-gpt26-v001.receipt.json",
+      "visual_qa": {
+        "asset_id": "DOG03",
+        "name": "Stone",
+        "status": "review_draft_with_notes",
+        "checked_at_utc": "2026-11-06T19:43:02.594379+00:00",
+        "reviewed": true,
+        "production_approved": false,
+        "review_method": "Visual inspection of each saved full sheet, plus pixel/dimension verification and source comparison.",
+        "nine_main_panels": true,
+        "all_four_full_body_directions_present": true,
+        "no_bare_human_hands_observed": true,
+        "only_target_character_identity": true,
+        "reference_confidence": "Breed, colors and broad costume supported by original council overview; fine hidden details proposed.",
+        "rerun_authorized": false,
+        "paid_retry_performed": false,
+        "passes": [
+          "Stocky tan/white English Bulldog, folded ears, wrinkles and heavy jowls retained.",
+          "Dark/gold suit with white shirt and gold tie retained.",
+          "Nine panels with complete directional bodies, expression changes and paw/costume detail."
+        ],
+        "issues": [
+          {
+            "severity": "continuity_lock_before_paw_closeups",
+            "category": "marking_consistency",
+            "note": "Tan/white paw coloring varies across front, side/back and close-up references. Select one consistent left/right paw mapping before interaction close-ups; do not mix these markings between shots."
+          },
+          {
+            "severity": "review_note",
+            "category": "inferred_design",
+            "note": "Exact rear seam/vent, tail, shoulder hardware and paw marking resolution remain proposed from low-resolution source."
+          }
+        ]
+      },
+      "qa_file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Phase 2\\Dog Masters\\DOG03-stone-character-master-gpt26-v001.qa.json"
+    },
+    {
+      "id": "DOG04",
+      "character_id": "velvet",
+      "name": "Velvet",
+      "species": "Afghan Hound",
+      "filename": "DOG04-velvet-character-master-gpt26-v001.png",
+      "prompt": "Use case: stylized-concept / identity-preserve.\nCreate ONE 3840×2160, 16:9 high-quality production character sheet for Velvet only, an ADULT anthropomorphic DOG in the established Kitty Punk 2077 / Goodboy Global world. This is one consistent character shown repeatedly as reference views, not a group of different actors.\n\nREFERENCE IMAGE 1: supplied eight-dog council overview, 512×341. Identify ONLY the named VELVET card, numbered 7, in the row of eight character cards; use that dog's corresponding boardroom appearance as supplementary outfit evidence. Ignore the other seven identities. The source is low-resolution: preserve the visibly established breed, head silhouette, coat colors, glasses if present and outfit. Resolve unseen reverse construction minimally and consistently as a proposed master for review; do not invent ranks, scars, signature gadgets, jewelry or a new biography.\nIDENTITY LOCK: Afghan Hound; Long silky golden coat, narrow muzzle, dark sunglasses; Black gold-trim corporate suit; group scene shows red tie/accent.\nPreserve the exceptionally long silky golden Afghan Hound ear hair and coat, elegant long narrow muzzle, dark sunglasses and black suit with gold trim; use the restrained red tie/accent visible in the original group scene. Keep glasses on in every applicable view; do not invent the obscured eyes. Fully clothed, nonsexualized business character.\n\nLAYOUT: Exactly NINE large panels in a neat 3×3 grid on a neutral dark charcoal studio backdrop, thin restrained magenta dividers matching the existing production sheets. Small header across the top reading exactly \"DOG04 — VELVET\". Row 1: \"1. FRONT\" (complete standing body), \"2. BACK\" (complete true rear), \"3. LEFT PROFILE\" (complete character's anatomical left side, nose toward frame-left). Row 2: \"4. RIGHT PROFILE\" (complete anatomical right side, nose toward frame-right), \"5. FACE\" (large three-quarter head and shoulders), \"6. EXPRESSIONS\" (four small consistent head views labelled NEUTRAL, FOCUSED, AMUSED, ALARMED). Row 3: \"7. PAWS\" (relaxed outer paw, palm/pads and simple gentle grip close views), \"8. SIGNATURE DETAILS\" (close views of the already established face/fur, collar/trim, existing eyewear if present), \"9. COSTUME / ACCESSORIES\" (the SAME coat or suit, shirt/tie, trousers, footwear and only already visible fixed accessories, with small material/color swatches).\nIn panels 1–4, use matching height and scale, natural neutral standing posture, empty paws, complete ears to soles and clear margin. Tail if naturally visible must attach plausibly and stay consistent; do not create an arbitrary hole through a long coat. No silhouette cropping. Front and back must be truly different directions; do not mirror a three-quarter pose. Face, muzzle length, ears, fur and outfit remain identical in all views. Clothing stays buttoned and businesslike in body views.\nANATOMY: clearly canine muzzle, nose, ears and fur, plausible furry or paw-shaped gloved hands, compact coherent digits and pads/claws where exposed; no bare human hands, human skin, fused fingers, extra limbs or detached heads. Boots are consistent, not human bare feet. No child proportions, cats or other species.\nSTYLE: polished cinematic 3D animated cyberpunk realism consistent with the supplied characters, realistic groomed fur and fabric/metal/leather textures, soft neutral studio key light with restrained cyan/magenta rim. Make markings and garment construction readable; avoid dramatic neon bloom hiding shapes. Same material colors in every tile. This is a clean reference sheet, not a scene, poster, billboard or council room. No speech bubbles, watermark, extra slogans, weapons or invented props. Only requested short labels and header; no voice names or actor names. No final-canon or approval claims printed on the sheet.",
+      "reference_paths": [
+        "C:\\Users\\DELL\\Desktop\\CyberKitty 2077\\Assets\\Character Sheets\\The Dogs\\file_00000000ffc081f59db0af84291190f4.webp"
+      ],
+      "reference_media_ids": [
+        "0a7bc382-00e2-467b-b908-ca03cb04bfe5"
+      ],
+      "reference_sha256": "976d110258bde2e256a2bb3fd4dbae625d49be6b79e7979a2fe2a42637a2caa0",
+      "reference_limit": "Only a low-resolution group reference is available. Preserve visibly established breed, coat and silhouette. Unseen reverse-side seams and exact eye/spot details are proposed, never falsely claimed as recovered canon. Approve the new isolated master before use in scenes.",
+      "params": {
+        "model": "gpt_image_2_6",
+        "prompt": "Use case: stylized-concept / identity-preserve.\nCreate ONE 3840×2160, 16:9 high-quality production character sheet for Velvet only, an ADULT anthropomorphic DOG in the established Kitty Punk 2077 / Goodboy Global world. This is one consistent character shown repeatedly as reference views, not a group of different actors.\n\nREFERENCE IMAGE 1: supplied eight-dog council overview, 512×341. Identify ONLY the named VELVET card, numbered 7, in the row of eight character cards; use that dog's corresponding boardroom appearance as supplementary outfit evidence. Ignore the other seven identities. The source is low-resolution: preserve the visibly established breed, head silhouette, coat colors, glasses if present and outfit. Resolve unseen reverse construction minimally and consistently as a proposed master for review; do not invent ranks, scars, signature gadgets, jewelry or a new biography.\nIDENTITY LOCK: Afghan Hound; Long silky golden coat, narrow muzzle, dark sunglasses; Black gold-trim corporate suit; group scene shows red tie/accent.\nPreserve the exceptionally long silky golden Afghan Hound ear hair and coat, elegant long narrow muzzle, dark sunglasses and black suit with gold trim; use the restrained red tie/accent visible in the original group scene. Keep glasses on in every applicable view; do not invent the obscured eyes. Fully clothed, nonsexualized business character.\n\nLAYOUT: Exactly NINE large panels in a neat 3×3 grid on a neutral dark charcoal studio backdrop, thin restrained magenta dividers matching the existing production sheets. Small header across the top reading exactly \"DOG04 — VELVET\". Row 1: \"1. FRONT\" (complete standing body), \"2. BACK\" (complete true rear), \"3. LEFT PROFILE\" (complete character's anatomical left side, nose toward frame-left). Row 2: \"4. RIGHT PROFILE\" (complete anatomical right side, nose toward frame-right), \"5. FACE\" (large three-quarter head and shoulders), \"6. EXPRESSIONS\" (four small consistent head views labelled NEUTRAL, FOCUSED, AMUSED, ALARMED). Row 3: \"7. PAWS\" (relaxed outer paw, palm/pads and simple gentle grip close views), \"8. SIGNATURE DETAILS\" (close views of the already established face/fur, collar/trim, existing eyewear if present), \"9. COSTUME / ACCESSORIES\" (the SAME coat or suit, shirt/tie, trousers, footwear and only already visible fixed accessories, with small material/color swatches).\nIn panels 1–4, use matching height and scale, natural neutral standing posture, empty paws, complete ears to soles and clear margin. Tail if naturally visible must attach plausibly and stay consistent; do not create an arbitrary hole through a long coat. No silhouette cropping. Front and back must be truly different directions; do not mirror a three-quarter pose. Face, muzzle length, ears, fur and outfit remain identical in all views. Clothing stays buttoned and businesslike in body views.\nANATOMY: clearly canine muzzle, nose, ears and fur, plausible furry or paw-shaped gloved hands, compact coherent digits and pads/claws where exposed; no bare human hands, human skin, fused fingers, extra limbs or detached heads. Boots are consistent, not human bare feet. No child proportions, cats or other species.\nSTYLE: polished cinematic 3D animated cyberpunk realism consistent with the supplied characters, realistic groomed fur and fabric/metal/leather textures, soft neutral studio key light with restrained cyan/magenta rim. Make markings and garment construction readable; avoid dramatic neon bloom hiding shapes. Same material colors in every tile. This is a clean reference sheet, not a scene, poster, billboard or council room. No speech bubbles, watermark, extra slogans, weapons or invented props. Only requested short labels and header; no voice names or actor names. No final-canon or approval claims printed on the sheet.",
+        "quality": "high",
+        "resolution": "4k",
+        "aspect_ratio": "16:9",
+        "count": 1,
+        "output_format": "png",
+        "background": "opaque",
+        "medias": [
+          {
+            "role": "image",
+            "value": "0a7bc382-00e2-467b-b908-ca03cb04bfe5"
+          }
+        ]
+      },
+      "status": "review_draft_visually_checked",
+      "quote_credits": 4.25,
+      "initial_crony_assignment": null,
+      "voice_assignment": null,
+      "job_id": "6c268e3c-71ab-4041-997a-4fba9cde38d4",
+      "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Phase 2\\Dog Masters\\DOG04-velvet-character-master-gpt26-v001.png",
+      "project_copy": "C:\\Users\\DELL\\Desktop\\CyberKitty 2077\\Assets\\Dog Masters\\GPT Image 2.6\\DOG04-velvet-character-master-gpt26-v001.png",
+      "actual_dimensions": [
+        3840,
+        2160
+      ],
+      "sha256": "05e383f8ab644d6718e104850808f58c4730ca8820332763307d0490692ae160",
+      "receipt": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Phase 2\\Dog Masters\\DOG04-velvet-character-master-gpt26-v001.receipt.json",
+      "visual_qa": {
+        "asset_id": "DOG04",
+        "name": "Velvet",
+        "status": "review_draft_with_notes",
+        "checked_at_utc": "2026-11-06T19:43:02.727533+00:00",
+        "reviewed": true,
+        "production_approved": false,
+        "review_method": "Visual inspection of each saved full sheet, plus pixel/dimension verification and source comparison.",
+        "nine_main_panels": true,
+        "all_four_full_body_directions_present": true,
+        "no_bare_human_hands_observed": true,
+        "only_target_character_identity": true,
+        "reference_confidence": "Breed, colors and broad costume supported by original council overview; fine hidden details proposed.",
+        "rerun_authorized": false,
+        "paid_retry_performed": false,
+        "passes": [
+          "Long silky golden Afghan Hound styling, narrow canine muzzle and dark sunglasses retained.",
+          "Black/gold corporate suit with red tie/accent retained; adult fully clothed design.",
+          "Nine panels with full bodies, eyewear kept on in face/expressions, paw studies and detached wardrobe items."
+        ],
+        "issues": [
+          {
+            "severity": "minor",
+            "category": "view_coverage",
+            "note": "FRONT panel body faces forward but head turns to three-quarter. Use it for body/outfit reference; it is not a strict front facial model view."
+          },
+          {
+            "severity": "review_note",
+            "category": "inferred_design",
+            "note": "Body silhouette, exact muzzle proportions, long-hair fall, heels and rear tailoring are newly resolved details to review against the small source, not previously approved additions."
+          }
+        ]
+      },
+      "qa_file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Phase 2\\Dog Masters\\DOG04-velvet-character-master-gpt26-v001.qa.json"
+    },
+    {
+      "id": "DOG05",
+      "character_id": "domino",
+      "name": "Domino",
+      "species": "Dalmatian",
+      "filename": "DOG05-domino-character-master-gpt26-v001.png",
+      "prompt": "Use case: stylized-concept / identity-preserve.\nCreate ONE 3840×2160, 16:9 high-quality production character sheet for Domino only, an ADULT anthropomorphic DOG in the established Kitty Punk 2077 / Goodboy Global world. This is one consistent character shown repeatedly as reference views, not a group of different actors.\n\nREFERENCE IMAGE 1: supplied eight-dog council overview, 512×341. Identify ONLY the named DOMINO card, numbered 8, in the row of eight character cards; use that dog's corresponding boardroom appearance as supplementary outfit evidence. Ignore the other seven identities. The source is low-resolution: preserve the visibly established breed, head silhouette, coat colors, glasses if present and outfit. Resolve unseen reverse construction minimally and consistently as a proposed master for review; do not invent ranks, scars, signature gadgets, jewelry or a new biography.\nIDENTITY LOCK: Dalmatian; White coat with distinct black spots; floppy ears; Black gold-trim corporate/military suit.\nPreserve the Dalmatian white fur with distinct irregular black spots, floppy spotted ears and slender long canine muzzle. Keep the established black/gold structured corporate-military suit. Match each visible facial spot between face and expressions; hidden/rear spot mapping is a minimal proposed continuation. No sunglasses or borrowed fur collar.\n\nLAYOUT: Exactly NINE large panels in a neat 3×3 grid on a neutral dark charcoal studio backdrop, thin restrained magenta dividers matching the existing production sheets. Small header across the top reading exactly \"DOG05 — DOMINO\". Row 1: \"1. FRONT\" (complete standing body), \"2. BACK\" (complete true rear), \"3. LEFT PROFILE\" (complete character's anatomical left side, nose toward frame-left). Row 2: \"4. RIGHT PROFILE\" (complete anatomical right side, nose toward frame-right), \"5. FACE\" (large three-quarter head and shoulders), \"6. EXPRESSIONS\" (four small consistent head views labelled NEUTRAL, FOCUSED, AMUSED, ALARMED). Row 3: \"7. PAWS\" (relaxed outer paw, palm/pads and simple gentle grip close views), \"8. SIGNATURE DETAILS\" (close views of the already established face/fur, collar/trim, existing eyewear if present), \"9. COSTUME / ACCESSORIES\" (the SAME coat or suit, shirt/tie, trousers, footwear and only already visible fixed accessories, with small material/color swatches).\nIn panels 1–4, use matching height and scale, natural neutral standing posture, empty paws, complete ears to soles and clear margin. Tail if naturally visible must attach plausibly and stay consistent; do not create an arbitrary hole through a long coat. No silhouette cropping. Front and back must be truly different directions; do not mirror a three-quarter pose. Face, muzzle length, ears, fur and outfit remain identical in all views. Clothing stays buttoned and businesslike in body views.\nANATOMY: clearly canine muzzle, nose, ears and fur, plausible furry or paw-shaped gloved hands, compact coherent digits and pads/claws where exposed; no bare human hands, human skin, fused fingers, extra limbs or detached heads. Boots are consistent, not human bare feet. No child proportions, cats or other species.\nSTYLE: polished cinematic 3D animated cyberpunk realism consistent with the supplied characters, realistic groomed fur and fabric/metal/leather textures, soft neutral studio key light with restrained cyan/magenta rim. Make markings and garment construction readable; avoid dramatic neon bloom hiding shapes. Same material colors in every tile. This is a clean reference sheet, not a scene, poster, billboard or council room. No speech bubbles, watermark, extra slogans, weapons or invented props. Only requested short labels and header; no voice names or actor names. No final-canon or approval claims printed on the sheet.",
+      "reference_paths": [
+        "C:\\Users\\DELL\\Desktop\\CyberKitty 2077\\Assets\\Character Sheets\\The Dogs\\file_00000000ffc081f59db0af84291190f4.webp"
+      ],
+      "reference_media_ids": [
+        "0a7bc382-00e2-467b-b908-ca03cb04bfe5"
+      ],
+      "reference_sha256": "976d110258bde2e256a2bb3fd4dbae625d49be6b79e7979a2fe2a42637a2caa0",
+      "reference_limit": "Only a low-resolution group reference is available. Preserve visibly established breed, coat and silhouette. Unseen reverse-side seams and exact eye/spot details are proposed, never falsely claimed as recovered canon. Approve the new isolated master before use in scenes.",
+      "params": {
+        "model": "gpt_image_2_6",
+        "prompt": "Use case: stylized-concept / identity-preserve.\nCreate ONE 3840×2160, 16:9 high-quality production character sheet for Domino only, an ADULT anthropomorphic DOG in the established Kitty Punk 2077 / Goodboy Global world. This is one consistent character shown repeatedly as reference views, not a group of different actors.\n\nREFERENCE IMAGE 1: supplied eight-dog council overview, 512×341. Identify ONLY the named DOMINO card, numbered 8, in the row of eight character cards; use that dog's corresponding boardroom appearance as supplementary outfit evidence. Ignore the other seven identities. The source is low-resolution: preserve the visibly established breed, head silhouette, coat colors, glasses if present and outfit. Resolve unseen reverse construction minimally and consistently as a proposed master for review; do not invent ranks, scars, signature gadgets, jewelry or a new biography.\nIDENTITY LOCK: Dalmatian; White coat with distinct black spots; floppy ears; Black gold-trim corporate/military suit.\nPreserve the Dalmatian white fur with distinct irregular black spots, floppy spotted ears and slender long canine muzzle. Keep the established black/gold structured corporate-military suit. Match each visible facial spot between face and expressions; hidden/rear spot mapping is a minimal proposed continuation. No sunglasses or borrowed fur collar.\n\nLAYOUT: Exactly NINE large panels in a neat 3×3 grid on a neutral dark charcoal studio backdrop, thin restrained magenta dividers matching the existing production sheets. Small header across the top reading exactly \"DOG05 — DOMINO\". Row 1: \"1. FRONT\" (complete standing body), \"2. BACK\" (complete true rear), \"3. LEFT PROFILE\" (complete character's anatomical left side, nose toward frame-left). Row 2: \"4. RIGHT PROFILE\" (complete anatomical right side, nose toward frame-right), \"5. FACE\" (large three-quarter head and shoulders), \"6. EXPRESSIONS\" (four small consistent head views labelled NEUTRAL, FOCUSED, AMUSED, ALARMED). Row 3: \"7. PAWS\" (relaxed outer paw, palm/pads and simple gentle grip close views), \"8. SIGNATURE DETAILS\" (close views of the already established face/fur, collar/trim, existing eyewear if present), \"9. COSTUME / ACCESSORIES\" (the SAME coat or suit, shirt/tie, trousers, footwear and only already visible fixed accessories, with small material/color swatches).\nIn panels 1–4, use matching height and scale, natural neutral standing posture, empty paws, complete ears to soles and clear margin. Tail if naturally visible must attach plausibly and stay consistent; do not create an arbitrary hole through a long coat. No silhouette cropping. Front and back must be truly different directions; do not mirror a three-quarter pose. Face, muzzle length, ears, fur and outfit remain identical in all views. Clothing stays buttoned and businesslike in body views.\nANATOMY: clearly canine muzzle, nose, ears and fur, plausible furry or paw-shaped gloved hands, compact coherent digits and pads/claws where exposed; no bare human hands, human skin, fused fingers, extra limbs or detached heads. Boots are consistent, not human bare feet. No child proportions, cats or other species.\nSTYLE: polished cinematic 3D animated cyberpunk realism consistent with the supplied characters, realistic groomed fur and fabric/metal/leather textures, soft neutral studio key light with restrained cyan/magenta rim. Make markings and garment construction readable; avoid dramatic neon bloom hiding shapes. Same material colors in every tile. This is a clean reference sheet, not a scene, poster, billboard or council room. No speech bubbles, watermark, extra slogans, weapons or invented props. Only requested short labels and header; no voice names or actor names. No final-canon or approval claims printed on the sheet.",
+        "quality": "high",
+        "resolution": "4k",
+        "aspect_ratio": "16:9",
+        "count": 1,
+        "output_format": "png",
+        "background": "opaque",
+        "medias": [
+          {
+            "role": "image",
+            "value": "0a7bc382-00e2-467b-b908-ca03cb04bfe5"
+          }
+        ]
+      },
+      "status": "review_draft_visually_checked",
+      "quote_credits": 4.25,
+      "initial_crony_assignment": null,
+      "voice_assignment": null,
+      "job_id": "8e9d64ca-d093-42a5-8c86-89a60f911262",
+      "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Phase 2\\Dog Masters\\DOG05-domino-character-master-gpt26-v001.png",
+      "project_copy": "C:\\Users\\DELL\\Desktop\\CyberKitty 2077\\Assets\\Dog Masters\\GPT Image 2.6\\DOG05-domino-character-master-gpt26-v001.png",
+      "actual_dimensions": [
+        3840,
+        2160
+      ],
+      "sha256": "9b21365283148ca5899e476d9f22dbca4035826e118d08b8b3f7d42b7b588999",
+      "receipt": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Phase 2\\Dog Masters\\DOG05-domino-character-master-gpt26-v001.receipt.json",
+      "visual_qa": {
+        "asset_id": "DOG05",
+        "name": "Domino",
+        "status": "review_draft_with_notes",
+        "checked_at_utc": "2026-11-06T19:43:02.926228+00:00",
+        "reviewed": true,
+        "production_approved": false,
+        "review_method": "Visual inspection of each saved full sheet, plus pixel/dimension verification and source comparison.",
+        "nine_main_panels": true,
+        "all_four_full_body_directions_present": true,
+        "no_bare_human_hands_observed": true,
+        "only_target_character_identity": true,
+        "reference_confidence": "Breed, colors and broad costume supported by original council overview; fine hidden details proposed.",
+        "rerun_authorized": false,
+        "paid_retry_performed": false,
+        "passes": [
+          "White-and-black spotted Dalmatian, floppy ears and long muzzle retained.",
+          "Black/gold corporate-military suit retained; complete front/back and both profiles.",
+          "Nine panels include face/expressions, furry spotted paws and a clear detached costume/accessory panel."
+        ],
+        "issues": [
+          {
+            "severity": "continuity_lock_before_face_closeups",
+            "category": "marking_consistency",
+            "note": "The source cannot establish every spot. Use one chosen face panel as the detailed spot-map authority; do not assume small spots are identical across all expression and distant-body renders."
+          },
+          {
+            "severity": "review_note",
+            "category": "inferred_design",
+            "note": "Exact lapel/shoulder insignia, tie, rear coat construction and hidden spots are proposed detailing, not recovered canon or an assigned rank."
+          }
+        ]
+      },
+      "qa_file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Phase 2\\Dog Masters\\DOG05-domino-character-master-gpt26-v001.qa.json"
+    }
+  ],
+  "submitted_jobs": 5,
+  "quoted_committed_credits": 21.25,
+  "actual_billed_credits": "not_independently_verified",
+  "paid_retries": 0,
+  "updated_at_utc": "2026-11-06T19:43:03.071336+00:00",
+  "status": "complete_five_review_drafts_saved_and_checked",
+  "completed_jobs": 5,
+  "failed_jobs": 0,
+  "remaining_lease_headroom_credits": 0.75
+}

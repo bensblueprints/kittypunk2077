@@ -1,0 +1,621 @@
+{
+  "updated_utc": "2026-11-06T18:48:35.871352+00:00",
+  "generation_status": "All 20 Higgsfield GPT Image 2.6 location sheets generated; initial QA recorded; final approval pending.",
+  "workflow": {
+    "provider": "Higgsfield",
+    "model": "gpt_image_2_6",
+    "model_display": "GPT Image 2.6",
+    "media_type": "image",
+    "reference_images_required": true,
+    "parameters": {
+      "resolution": "4k",
+      "quality": "high",
+      "aspect_ratio": "16:9",
+      "count": 1
+    },
+    "execution": "One location request at a time; no parallel image requests.",
+    "authorized_remaining_batch": {
+      "locations": [
+        "LOC02",
+        "LOC03",
+        "LOC04",
+        "LOC05",
+        "LOC06",
+        "LOC07",
+        "LOC08",
+        "LOC09",
+        "LOC10",
+        "LOC11",
+        "LOC12",
+        "LOC13",
+        "LOC14",
+        "LOC15",
+        "LOC16",
+        "LOC17",
+        "LOC18",
+        "LOC19",
+        "LOC20"
+      ],
+      "count": 19,
+      "credit_cap": 81,
+      "credits_spent_this_batch": null,
+      "spend_note": "Track actual provider charges; authorization does not establish spend.",
+      "status": "19 requested image jobs completed; no queued jobs",
+      "preflight_quote_total_credits": 80.75
+    },
+    "higgsfield_video_allowed": false,
+    "video_guardrail": "Never use Higgsfield for videos.",
+    "hf_sync_gate": "Completed location snapshot verified in private HF and Desktop; see hf-sync.json and local-sync.json.",
+    "approval_gate": "All 20 location sheets require layout QA and approval before scenes.",
+    "prompt_pack_provenance": "Earlier GPT Image 2 prompt export and ZIP preserved unchanged.",
+    "saved_current_batch": [
+      {
+        "id": "LOC01",
+        "relative_output_path": "Location Sheets GPT Image 2.6/LOC01-resistance-warehouse-exterior-gpt26-v001.png",
+        "dimensions": [
+          3840,
+          2160
+        ],
+        "status": "generated_review_required",
+        "sha256": "c171160ce2dfdaef5437f8b0a4f8aaba6104f4cbd4fefe5fc8ec2531a63e5955"
+      },
+      {
+        "id": "LOC02",
+        "relative_output_path": "Location Sheets GPT Image 2.6/LOC02-resistance-warehouse-lounge-gpt26-v001.png",
+        "dimensions": [
+          3840,
+          2160
+        ],
+        "status": "generated_review_required",
+        "sha256": "9ccf57446d209d871577299a63d67f15f443f7a3f15ced65bed7e3e2bf5d7092"
+      },
+      {
+        "id": "LOC03",
+        "relative_output_path": "Location Sheets GPT Image 2.6/LOC03-hacking-operations-gpt26-v001.png",
+        "dimensions": [
+          3840,
+          2160
+        ],
+        "status": "generated_review_required",
+        "sha256": "678400a023f22df4c452428e414e9c730166f7c871a1bd056f207990056bf088"
+      },
+      {
+        "id": "LOC04",
+        "relative_output_path": "Location Sheets GPT Image 2.6/LOC04-engineering-workshop-gpt26-v001.png",
+        "dimensions": [
+          3840,
+          2160
+        ],
+        "status": "generated_review_required",
+        "sha256": "aafc818847c1406d41f71c4d1c46fa7efe099f5772bfe999493a4d749c40868d"
+      },
+      {
+        "id": "LOC05",
+        "relative_output_path": "Location Sheets GPT Image 2.6/LOC05-district-7-streets-and-alleys-gpt26-v001.png",
+        "dimensions": [
+          3840,
+          2160
+        ],
+        "status": "generated_review_required",
+        "sha256": "3bd909f3e732f8d174409f2255619614b80b381bac7f121496056e92137d071d"
+      },
+      {
+        "id": "LOC06",
+        "relative_output_path": "Location Sheets GPT Image 2.6/LOC06-7-catleven-exterior-gpt26-v001.png",
+        "dimensions": [
+          3840,
+          2160
+        ],
+        "status": "generated_review_required",
+        "sha256": "c857f705f48778a3155682346e3d2aa6f1db919b88dbcdeb553585f7ea0c661f"
+      },
+      {
+        "id": "LOC07",
+        "relative_output_path": "Location Sheets GPT Image 2.6/LOC07-7-catleven-interior-and-freezer-gpt26-v001.png",
+        "dimensions": [
+          3840,
+          2160
+        ],
+        "status": "generated_review_required",
+        "sha256": "050150593760844345f57f0a6efed877b96bdaba55760b1ba08d8bb1c0d1432b"
+      },
+      {
+        "id": "LOC08",
+        "relative_output_path": "Location Sheets GPT Image 2.6/LOC08-district-7-market-gpt26-v001.png",
+        "dimensions": [
+          3840,
+          2160
+        ],
+        "status": "generated_review_required",
+        "sha256": "c0de39fba4f7ec01e0695cfdc5cb7beafec8b671ef9b03c122acb93953396cc0"
+      },
+      {
+        "id": "LOC09",
+        "relative_output_path": "Location Sheets GPT Image 2.6/LOC09-district-7-rally-stage-and-plaza-gpt26-v001.png",
+        "dimensions": [
+          3840,
+          2160
+        ],
+        "status": "generated_review_required",
+        "sha256": "fd5f2c155e04f5a082a5c2cdfca31583dfd65fb43e021d349e629f787888d90e"
+      },
+      {
+        "id": "LOC10",
+        "relative_output_path": "Location Sheets GPT Image 2.6/LOC10-steak-bone-exterior-and-security-gpt26-v001.png",
+        "dimensions": [
+          3840,
+          2160
+        ],
+        "status": "generated_review_required",
+        "sha256": "0046cc574d900e8d950f68731561c295a30cf4660422c54ee5a59e6011771a71"
+      },
+      {
+        "id": "LOC11",
+        "relative_output_path": "Location Sheets GPT Image 2.6/LOC11-steak-bone-service-corridors-gpt26-v001.png",
+        "dimensions": [
+          3840,
+          2160
+        ],
+        "status": "generated_review_required",
+        "sha256": "4392e2bc49cf0b30536796c98a7223d73de922a4c8d3888c2e13d0472f814650"
+      },
+      {
+        "id": "LOC12",
+        "relative_output_path": "Location Sheets GPT Image 2.6/LOC12-steak-bone-private-dining-room-gpt26-v001.png",
+        "dimensions": [
+          3840,
+          2160
+        ],
+        "status": "generated_review_required",
+        "sha256": "dd6578af9636b86a9064b648d85df9a7ee3320d6b604365159d1c3d75004644c"
+      },
+      {
+        "id": "LOC13",
+        "relative_output_path": "Location Sheets GPT Image 2.6/LOC13-woof7-news-studio-gpt26-v001.png",
+        "dimensions": [
+          3840,
+          2160
+        ],
+        "status": "generated_review_required",
+        "sha256": "9929f26bee75cac0271701b617d98ad103294753e47193959026e856adb403cf"
+      },
+      {
+        "id": "LOC14",
+        "relative_output_path": "Location Sheets GPT Image 2.6/LOC14-nip7-investigative-newsroom-gpt26-v001.png",
+        "dimensions": [
+          3840,
+          2160
+        ],
+        "status": "generated_review_required",
+        "sha256": "dc97cfe5c9eba591c21c1ee71485c953ee929ac2e047eec3789e2adc591be12a"
+      },
+      {
+        "id": "LOC15",
+        "relative_output_path": "Location Sheets GPT Image 2.6/LOC15-salmon-facility-exterior-and-loading-gpt26-v001.png",
+        "dimensions": [
+          3840,
+          2160
+        ],
+        "status": "generated_review_required",
+        "sha256": "90038d12ae861fdbe03b92ccd4310a9e68c2861852b0706e45979ab9413a5077"
+      },
+      {
+        "id": "LOC16",
+        "relative_output_path": "Location Sheets GPT Image 2.6/LOC16-salmon-cold-store-and-processing-hall-gpt26-v001.png",
+        "dimensions": [
+          3840,
+          2160
+        ],
+        "status": "generated_review_required",
+        "sha256": "b0d7b5d2e88073c91a77c8da365862a847bf9ebf818d876225b7cabdba4d8b35"
+      },
+      {
+        "id": "LOC17",
+        "relative_output_path": "Location Sheets GPT Image 2.6/LOC17-salmon-routing-control-room-gpt26-v001.png",
+        "dimensions": [
+          3840,
+          2160
+        ],
+        "status": "generated_review_required",
+        "sha256": "addbc3d6819f5434a29f2e15749efb198633a691f7c11e61cec25dc8b9873191"
+      },
+      {
+        "id": "LOC18",
+        "relative_output_path": "Location Sheets GPT Image 2.6/LOC18-catnip-times-pressroom-gpt26-v001.png",
+        "dimensions": [
+          3840,
+          2160
+        ],
+        "status": "generated_review_required",
+        "sha256": "d83c0863676978a24ef96e7b785b3b82999ca3f801b1fb58b6afea489abb59db"
+      },
+      {
+        "id": "LOC19",
+        "relative_output_path": "Location Sheets GPT Image 2.6/LOC19-game-world-great-dog-national-bank-gpt26-v001.png",
+        "dimensions": [
+          3840,
+          2160
+        ],
+        "status": "generated_review_required",
+        "sha256": "bafa979ecdb8e1d13b83edb34a15b04077f7051f625355811add306ab1c5df9d"
+      },
+      {
+        "id": "LOC20",
+        "relative_output_path": "Location Sheets GPT Image 2.6/LOC20-district-7-market-rooftop-overlook-gpt26-v001.png",
+        "dimensions": [
+          3840,
+          2160
+        ],
+        "status": "generated_review_required",
+        "sha256": "d50a62d90b9d8a62e329b50083922d2db876997b112272255c50d629e7e2b1e6"
+      }
+    ],
+    "queued_location_ids": []
+  },
+  "current_batch": {
+    "total_locations": 20,
+    "saved_review_drafts": 20,
+    "queued": 0,
+    "completed_location_ids": [
+      "LOC01",
+      "LOC02",
+      "LOC03",
+      "LOC04",
+      "LOC05",
+      "LOC06",
+      "LOC07",
+      "LOC08",
+      "LOC09",
+      "LOC10",
+      "LOC11",
+      "LOC12",
+      "LOC13",
+      "LOC14",
+      "LOC15",
+      "LOC16",
+      "LOC17",
+      "LOC18",
+      "LOC19",
+      "LOC20"
+    ],
+    "queued_location_ids": [],
+    "production_approved": 0
+  },
+  "legacy": {
+    "generation_status": "Stopped at user request; user will generate with confirmed GPT Image2",
+    "prompts_exported": 20,
+    "existing_location_drafts": 16,
+    "missing": [
+      "LOC04",
+      "LOC05",
+      "LOC06",
+      "LOC07"
+    ],
+    "interrupted_request": {
+      "location": "LOC04",
+      "saved_output": false
+    },
+    "prompt_pack": "GPT Image 2 Location Prompt Pack/ALL-20-LOCATION-PROMPTS.md"
+  },
+  "locations": [
+    {
+      "id": "LOC01",
+      "status": "generated_review_required",
+      "file": "Location Sheets GPT Image 2.6/LOC01-resistance-warehouse-exterior-gpt26-v001.png",
+      "dimensions": [
+        3840,
+        2160
+      ],
+      "sha256": "c171160ce2dfdaef5437f8b0a4f8aaba6104f4cbd4fefe5fc8ec2531a63e5955",
+      "qa_status": "draft-corrections",
+      "qa_notes": [
+        "Roof/site view does not clearly identify south cargo/staff and north service-bay door footprints. A/B/C arrows correspond to south front, north wall and southeast hero, but no arrow represents panel 9's southward apron-to-street reverse.",
+        "Reverse appears under/inside the loading threshold whereas front facade views have a closed shutter."
+      ]
+    },
+    {
+      "id": "LOC02",
+      "status": "generated_review_required",
+      "file": "Location Sheets GPT Image 2.6/LOC02-resistance-warehouse-lounge-gpt26-v001.png",
+      "dimensions": [
+        3840,
+        2160
+      ],
+      "sha256": "9ccf57446d209d871577299a63d67f15f443f7a3f15ced65bed7e3e2bf5d7092",
+      "qa_status": "draft-corrections",
+      "qa_notes": [
+        "Panel3 shows a high plain outside-style couch back rather than a clear seat/front view from the TV side. The top-down sofa geometry remains ambiguous about which edge is the open seat, despite putting the emblem on the southern edge.",
+        "South and west panels show substantially the same entry-wall arrangement. In a view facing south the opening on viewer-left reads southeast, while the plan fixes the opening at southwest on the west side."
+      ]
+    },
+    {
+      "id": "LOC03",
+      "status": "generated_review_required",
+      "file": "Location Sheets GPT Image 2.6/LOC03-hacking-operations-gpt26-v001.png",
+      "dimensions": [
+        3840,
+        2160
+      ],
+      "sha256": "678400a023f22df4c452428e414e9c730166f7c871a1bd056f207990056bf088",
+      "qa_status": "draft-corrections",
+      "qa_notes": [
+        "Camera A is north of the worktable looking north, but hero includes that table in the foreground. That A position cannot produce the shown hero composition.",
+        "Second wide shows the fronts of the north-wall monitors while also presenting itself as the desk-to-south-warehouse reverse. It works as an oblique overview but is not a verified opposite-angle camera plate."
+      ]
+    },
+    {
+      "id": "LOC04",
+      "status": "generated_review_required",
+      "file": "Location Sheets GPT Image 2.6/LOC04-engineering-workshop-gpt26-v001.png",
+      "dimensions": [
+        3840,
+        2160
+      ],
+      "sha256": "aafc818847c1406d41f71c4d1c46fa7efe099f5772bfe999493a4d749c40868d",
+      "qa_status": "pass",
+      "qa_notes": [
+        "Both south-opening and west-passage views show a similar operations area beyond the workshop; the local plan stops at the bay boundary and does not resolve their relationship to the warehouse-wide operations layout."
+      ]
+    },
+    {
+      "id": "LOC05",
+      "status": "generated_review_required",
+      "file": "Location Sheets GPT Image 2.6/LOC05-district-7-streets-and-alleys-gpt26-v001.png",
+      "dimensions": [
+        3840,
+        2160
+      ],
+      "sha256": "3bd909f3e732f8d174409f2255619614b80b381bac7f121496056e92137d071d",
+      "qa_status": "draft-corrections",
+      "qa_notes": [
+        "Plan camera markers and legend all point north, including B at the north end. The legend says C SOUTH but still shows an upward/N arrow. The north-approach image is another north-looking view, while the reverse view flips storefront/tree sides. Labels and bearings cannot currently define a reliable reverse setup.",
+        "The plan places 7-Catleven south of the east alley, but the east-looking alley view shows its frontage on the left/north side. The alley-mouth reverse also places the store across/right rather than presenting the expected corner relationship from the mapped alley."
+      ]
+    },
+    {
+      "id": "LOC06",
+      "status": "generated_review_required",
+      "file": "Location Sheets GPT Image 2.6/LOC06-7-catleven-exterior-gpt26-v001.png",
+      "dimensions": [
+        3840,
+        2160
+      ],
+      "sha256": "c857f705f48778a3155682346e3d2aa6f1db919b88dbcdeb553585f7ea0c661f",
+      "qa_status": "pass",
+      "qa_notes": [
+        "The LOC06 local map correctly makes the storefront south-facing with an east-side alley. LOC05 instead embeds the shop facing west on its north-south street. Interior glimpses and the decorative cutaway should also not supersede LOC07 interior blocking."
+      ]
+    },
+    {
+      "id": "LOC07",
+      "status": "generated_review_required",
+      "file": "Location Sheets GPT Image 2.6/LOC07-7-catleven-interior-and-freezer-gpt26-v001.png",
+      "dimensions": [
+        3840,
+        2160
+      ],
+      "sha256": "050150593760844345f57f0a6efed877b96bdaba55760b1ba08d8bb1c0d1432b",
+      "qa_status": "pass",
+      "qa_notes": [
+        "Camera C at the north/rear end points north although the rear-to-entrance coverage looks south.",
+        "The salmon pair and notice appear in the same near-front freezer bay in the hero but adjacent bays in the straight freezer view. Interior entrance views also retain the exterior-style pink cat neon on viewer-right, whereas the same east-side window would appear viewer-left when looking south from inside."
+      ]
+    },
+    {
+      "id": "LOC08",
+      "status": "generated_review_required",
+      "file": "Location Sheets GPT Image 2.6/LOC08-district-7-market-gpt26-v001.png",
+      "dimensions": [
+        3840,
+        2160
+      ],
+      "sha256": "c0de39fba4f7ec01e0695cfdc5cb7beafec8b671ef9b03c122acb93953396cc0",
+      "qa_status": "draft-corrections",
+      "qa_notes": [
+        "The panel labeled from east looking west repeats a hero-like view with lantern stalls on the left and the tower vista ahead. A true west-looking view should put the north stalls on the right and reveal the west plaza, as the successful REVERSE WIDE does. The east stair is present but this panel does not establish trustworthy street orientation.",
+        "The panel labeled from south looking north shows the south shuttered shop row and its billboard. It is a south-wall elevation viewed from the north, rather than the stated camera-side convention."
+      ]
+    },
+    {
+      "id": "LOC09",
+      "status": "generated_review_required",
+      "file": "Location Sheets GPT Image 2.6/LOC09-district-7-rally-stage-and-plaza-gpt26-v001.png",
+      "dimensions": [
+        3840,
+        2160
+      ],
+      "sha256": "fd5f2c155e04f5a082a5c2cdfca31583dfd65fb43e021d349e629f787888d90e",
+      "qa_status": "draft-corrections",
+      "qa_notes": [
+        "The rooftop view faces north toward the stage with the tree on the left. It therefore reads as a south-side rooftop, not camera B on the north building looking south; from B the stage building could not appear across the plaza.",
+        "The market connection view puts the red-lantern stalls on the right while looking down the market toward the towers. For the established east-looking market axis, the north lantern row should be left. The plaza plan depicts the lantern edge along its east boundary without clearly showing the east-west street continuation.",
+        "SOUTH is a tight shuttered-shop elevation rather than the requested stage POV across the audience space with west steps. Cardinal labels generally describe facade/content rather than the final camera-side convention."
+      ]
+    },
+    {
+      "id": "LOC10",
+      "status": "generated_review_required",
+      "file": "Location Sheets GPT Image 2.6/LOC10-steak-bone-exterior-and-security-gpt26-v001.png",
+      "dimensions": [
+        3840,
+        2160
+      ],
+      "sha256": "0046cc574d900e8d950f68731561c295a30cf4660422c54ee5a59e6011771a71",
+      "qa_status": "draft-corrections",
+      "qa_notes": [
+        "The reverse shows the restaurant facade across a street from a foreground rooftop railing. That is an opposite-building surveillance perch, not the mapped camera B on the restaurant northwest roof; the restaurant cannot see its own whole south facade across the lane from that position.",
+        "The overhead is primarily a roof plan. The north service-door footprint and guard/scanner pedestrian route are not clearly marked even though their views are present."
+      ]
+    },
+    {
+      "id": "LOC11",
+      "status": "generated_review_required",
+      "file": "Location Sheets GPT Image 2.6/LOC11-steak-bone-service-corridors-gpt26-v001.png",
+      "dimensions": [
+        3840,
+        2160
+      ],
+      "sha256": "4392e2bc49cf0b30536796c98a7223d73de922a4c8d3888c2e13d0472f814650",
+      "qa_status": "draft_requires_geometry_correction",
+      "qa_notes": [
+        "Both wides read as a straight corridor with opposite end doors. The plan depicts an L-shaped corridor; the reverse from its northern dining door could not see the west exterior exit directly as rendered.",
+        "Hero places the exterior double exit on the same side wall as the kitchen door/hatch, while the plan and WEST elevation place it at the west end. Burgundy dining door appears at the far east end in the hero rather than around the northward turn.",
+        "The trolley alcove appears near the kitchen-side wall in the hero, while its intended position is the south wall as shown by the SOUTH panel and plan."
+      ]
+    },
+    {
+      "id": "LOC12",
+      "status": "generated_review_required",
+      "file": "Location Sheets GPT Image 2.6/LOC12-steak-bone-private-dining-room-gpt26-v001.png",
+      "dimensions": [
+        3840,
+        2160
+      ],
+      "sha256": "dd6578af9636b86a9064b648d85df9a7ee3320d6b604365159d1c3d75004644c",
+      "qa_status": "draft_requires_geometry_correction",
+      "qa_notes": [
+        "Plan places the service door at the southwest corner, but SOUTH and REVERSE WIDE show it at screen-left beside the east window wall: the southeast corner.",
+        "Plan places the long table east-west with opposing seats north/south. Hero and reverse instead show the long table running toward the north/south walls, with seats west/east. Table and booth orientation do not match the plan.",
+        "Door has no narrow frosted-glass strip, unlike the adjoining LOC11 burgundy service-door design; cross-set doorway continuity needs reconciliation."
+      ]
+    },
+    {
+      "id": "LOC13",
+      "status": "generated_review_required",
+      "file": "Location Sheets GPT Image 2.6/LOC13-woof7-news-studio-gpt26-v001.png",
+      "dimensions": [
+        3840,
+        2160
+      ],
+      "sha256": "9929f26bee75cac0271701b617d98ad103294753e47193959026e856adb403cf",
+      "qa_status": "draft_requires_door_continuity_correction",
+      "qa_notes": [
+        "Plan and brief put the rear exit at southwest. SOUTH and REVERSE WIDE show that exit at screen-left beside the east control-booth wall, which is southeast. Move the exit consistently to the west side or deliberately revise the plan.",
+        "Screen brief is internally mixed: design section permits quiet WOOF7/blue graphics, while final instruction says keep screens blank. Image follows the graphic version; confirm graphics policy before using as a clean compositing plate."
+      ]
+    },
+    {
+      "id": "LOC14",
+      "status": "generated_review_required",
+      "file": "Location Sheets GPT Image 2.6/LOC14-nip7-investigative-newsroom-gpt26-v001.png",
+      "dimensions": [
+        3840,
+        2160
+      ],
+      "sha256": "dc97cfe5c9eba591c21c1ee71485c953ee929ac2e047eec3789e2adc591be12a",
+      "qa_status": "draft_requires_exit_location_correction",
+      "qa_notes": [
+        "Exit location does not agree: brief specifies south wall near southwest; plan appears to put it on the west wall near southwest; SOUTH and REVERSE WIDE place it on the left/east end of the south wall, adjacent to the control-room side."
+      ]
+    },
+    {
+      "id": "LOC15",
+      "status": "generated_review_required",
+      "file": "Location Sheets GPT Image 2.6/LOC15-salmon-facility-exterior-and-loading-gpt26-v001.png",
+      "dimensions": [
+        3840,
+        2160
+      ],
+      "sha256": "90038d12ae861fdbe03b92ccd4310a9e68c2861852b0706e45979ab9413a5077",
+      "qa_status": "draft_requires_gate_and_camera_corrections",
+      "qa_notes": [
+        "Guard booth is east/right of south gate in the north-up plan, but right of the gate in the south-facing SOUTH and reverse renders, placing it west in those views. This violates the explicit no-mirroring requirement.",
+        "Directional labels disagree with rendered views and the specified exterior convention. NORTH shows the north facade viewed from south; SOUTH says looking north but depicts the south gate from inside looking south.",
+        "Plan camera B is drawn near the southeast portion of the yard rather than the requested northeast reverse position. Camera icons lack clearly readable look arrows; verify against the reverse plate.",
+        "Extra Kitty Punk 2077 wordmark appears in the header despite title/short-label-only instruction."
+      ]
+    },
+    {
+      "id": "LOC16",
+      "status": "generated_review_required",
+      "file": "Location Sheets GPT Image 2.6/LOC16-salmon-cold-store-and-processing-hall-gpt26-v001.png",
+      "dimensions": [
+        3840,
+        2160
+      ],
+      "sha256": "b0d7b5d2e88073c91a77c8da365862a847bf9ebf818d876225b7cabdba4d8b35",
+      "qa_status": "draft_requires_continuity_correction",
+      "qa_notes": [
+        "Personnel door is southwest in plan but appears left of the shutter in SOUTH/reverse views, placing it southeast.",
+        "Yellow arms are near the north/cold-door ends of the conveyors in HERO, but near the south/shutter ends in REVERSE. Their mounting positions move between views.",
+        "Camera A's triangular pointer appears to point southwest out of the room, opposite the hero's required northeast look direction; use an explicit arrow.",
+        "Final brief asks BOTH hero and reverse to reveal north cold-room stockpiles, while the defined reverse camera looks south at the loading shutter. The image reveals stock in the hero only; resolve this incompatible requirement before requesting correction."
+      ]
+    },
+    {
+      "id": "LOC17",
+      "status": "generated_review_required",
+      "file": "Location Sheets GPT Image 2.6/LOC17-salmon-routing-control-room-gpt26-v001.png",
+      "dimensions": [
+        3840,
+        2160
+      ],
+      "sha256": "addbc3d6819f5434a29f2e15749efb198633a691f7c11e61cec25dc8b9873191",
+      "qa_status": "draft_requires_door_and_shelf_continuity_correction",
+      "qa_notes": [
+        "Single entry door moves: plan specifies south wall at southwest; HERO places it along the west glass wall; SOUTH and REVERSE show it on the east/left side of the south wall, away from the west-glass corner.",
+        "Document shelf is northeast in plan but on the right/south end of the EAST elevation, so its corner is mirrored.",
+        "Extra Kitty Punk 2077 header wordmark beyond requested title and short labels."
+      ]
+    },
+    {
+      "id": "LOC18",
+      "status": "generated_review_required",
+      "file": "Location Sheets GPT Image 2.6/LOC18-catnip-times-pressroom-gpt26-v001.png",
+      "dimensions": [
+        3840,
+        2160
+      ],
+      "sha256": "d83c0863676978a24ef96e7b785b3b82999ca3f801b1fb58b6afea489abb59db",
+      "qa_status": "draft_requires_cupboard_and_prop_correction",
+      "qa_notes": [
+        "Store cupboard is northeast in the plan, but EAST elevation shows its door at the screen-right/south end of the east wall. Fix this mirrored corner.",
+        "Trolley is on the east/right side of south freight doors in plan, but on screen-right/west in the south-facing SOUTH elevation.",
+        "Newspaper prop contains simulated dense article lines/tiny lettering below masthead rather than clean blank column blocks; replace with exact typography during prop finishing."
+      ]
+    },
+    {
+      "id": "LOC19",
+      "status": "generated_review_required",
+      "file": "Location Sheets GPT Image 2.6/LOC19-game-world-great-dog-national-bank-gpt26-v001.png",
+      "dimensions": [
+        3840,
+        2160
+      ],
+      "sha256": "bafa979ecdb8e1d13b83edb34a15b04077f7051f625355811add306ab1c5df9d",
+      "qa_status": "draft_requires_plan_and_direction_labels",
+      "qa_notes": [
+        "Plan B is at the south side and points north toward the bank. Actual reverse is from north/bank steps looking south. Move B to bank steps and reverse its arrow.",
+        "NORTH/SOUTH panel labels use target-wall naming instead of specified exterior camera-side convention. NORTH shows bank from south; SOUTH shows storefront from north. East/west side labels are consistent."
+      ]
+    },
+    {
+      "id": "LOC20",
+      "status": "generated_review_required",
+      "file": "Location Sheets GPT Image 2.6/LOC20-district-7-market-rooftop-overlook-gpt26-v001.png",
+      "dimensions": [
+        3840,
+        2160
+      ],
+      "sha256": "d50a62d90b9d8a62e329b50083922d2db876997b112272255c50d629e7e2b1e6",
+      "qa_status": "draft_requires_roof_and_market_geography_correction",
+      "qa_notes": [
+        "Hut moves to screen-left/northwest in SOUTH view looking north, although plan fixes it northeast. EAST view largely repeats a north-facing hut view instead of looking west from the east edge.",
+        "HERO shows lantern fish stalls across the street from the roof. Plan and SOUTH elevation place those stalls directly beneath this north-row roof. The hero therefore reverses the market-side relationship; the opposite south-row shuttered shops and fixed billboard are not established.",
+        "REVERSE looking northeast puts pipe railing and cable spool at foreground left, although plan fixes them east/right. WEST view also relocates hut/HVAC relative to the north/east corners.",
+        "No clear matching view of LOC08's western street mouth/rally connection or opposite billboard. Market cross-set geography cannot yet be approved from this sheet."
+      ]
+    }
+  ],
+  "manifest": "Location Sheets GPT Image 2.6/generation-manifest.json",
+  "qa_document": "Location Sheets GPT Image 2.6/QA-notes.md",
+  "external_sync": {
+    "hf_manifest_paths_verified": 514,
+    "private": true,
+    "desktop_pack_files_verified": 291,
+    "receipts": [
+      "hf-sync.json",
+      "local-sync.json"
+    ]
+  }
+}

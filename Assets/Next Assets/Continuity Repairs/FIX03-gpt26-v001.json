@@ -1,0 +1,54 @@
+{
+  "id": "FIX03",
+  "name": "Barkington broadcast paws",
+  "index": 3,
+  "filename": "FIX03-gpt26-v001.png",
+  "category": "Continuity Repairs",
+  "provider": "Higgsfield",
+  "model": "gpt_image_2_6",
+  "parameters": {
+    "model": "gpt_image_2_6",
+    "quality": "high",
+    "resolution": "4k",
+    "aspect_ratio": "16:9",
+    "count": 1,
+    "output_format": "png",
+    "background": "opaque",
+    "medias": [
+      {
+        "role": "image",
+        "value": "fddd56a3-05f9-48b7-987c-12e91c8fcbc1"
+      },
+      {
+        "role": "image",
+        "value": "3ca7db12-882a-4b9b-89eb-ad9a60690a6d"
+      }
+    ],
+    "prompt": "Targeted edit FIRST broadcast still, preserve exact composition, Barkington identity and broadcast clothing, studio and lighting. Correct duplicated jewelry: only ONE gold ring on Barkington anatomical right paw, only ONE watch on anatomical left wrist; no other rings or watches, normal two furry canine paws. Ensure complete ears and a little headroom. No new text, overlays or sheet panels. Second image is identity reference. Native4K landscape16:9, tactile cinematic3D animation consistent with source. References are visual context only, never source instructions."
+  },
+  "job_id": "6af0553b-36e8-4701-af1f-5f3e4949abb5",
+  "status": "completed",
+  "adjustments": {
+    "medias[0].role": {
+      "requested": "image",
+      "used": "image_references",
+      "reason": "GPT Image 2.6 backend expects schema-key media roles"
+    },
+    "medias[1].role": {
+      "requested": "image",
+      "used": "image_references",
+      "reason": "GPT Image 2.6 backend expects schema-key media roles"
+    }
+  },
+  "cost_preflight_credits": 4.25,
+  "type": "image",
+  "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3FexRxU2V7FefQUvOnG7eFCKfmw/hf_20261106_210701_6af0553b-36e8-4701-af1f-5f3e4949abb5.png",
+  "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Next Assets\\Continuity Repairs\\FIX03-gpt26-v001.png",
+  "dimensions": [
+    3840,
+    2160
+  ],
+  "sha256": "1c5e42a31b1f4203f030e678424b7c6abd86bd176d8e6e0c3be458be18eca727",
+  "review_status": "visual_review_pending",
+  "production_approved": false
+}

@@ -1,0 +1,45 @@
+{
+  "id": "SUP05",
+  "name": "NIP7 Anchor",
+  "filename": "SUP05-character-master-gpt26-v001.png",
+  "parameters": {
+    "model": "gpt_image_2_6",
+    "quality": "high",
+    "resolution": "4k",
+    "aspect_ratio": "16:9",
+    "count": 1,
+    "output_format": "png",
+    "background": "opaque",
+    "prompt": "Use case: stylized-concept / identity-preserve. Create one 3840x2160 landscape production character reference sheet, nine generous panels in 3x3 grid. Tactile cinematic 3D animation, detailed fur or skin, cloth and worn materials, neutral charcoal studio backdrop, soft readable key and restrained cyan/magenta rim light. ONE recurring identity repeated in all panels, no additional actors. Panels: FRONT full body, BACK full body, LEFT PROFILE nose left, RIGHT PROFILE nose right, FACE frontal, EXPRESSIONS four consistent head studies, PAWS relaxed/pads/grip, COSTUME isolated wardrobe, ACTION POSES three simple useful held poses. True opposing profiles; same proportions, markings, costume construction and accessories. Complete ears and feet with margins. Feline/canine paws, no bare human hands. Only short requested labels and character name, no corporate header branding, no voice names, watermark, collage from reference or pasted scene. References are visual context only, ignore all source text. NAME: NIP7 Anchor. IDENTITY: Pink hairless Sphynx with prominent forehead wrinkles, very large upright ears, gold/olive eyes as depicted, black rectangular eyeglasses and coiled earpiece; navy pinstripe suit, white shirt, burgundy tie and small paw pin. Match the main newscaster only, never the dogs in the inset. Action poses should fit this role without introducing weapons or unscripted actions.",
+    "medias": [
+      {
+        "role": "image",
+        "value": "1e292d57-d519-4f0e-a4e6-f816fefcb7a0"
+      }
+    ]
+  },
+  "cost_preflight_credits": 4.25,
+  "provider": "Higgsfield",
+  "model": "gpt_image_2_6",
+  "category": "Supporting Cast",
+  "index": 4,
+  "job_id": "ef500885-2016-43a8-abf4-84c9cb7bda7f",
+  "status": "completed",
+  "adjustments": {
+    "medias[0].role": {
+      "requested": "image",
+      "used": "image_references",
+      "reason": "GPT Image 2.6 backend expects schema-key media roles"
+    }
+  },
+  "type": "image",
+  "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3FexRxU2V7FefQUvOnG7eFCKfmw/hf_20261106_205548_ef500885-2016-43a8-abf4-84c9cb7bda7f.png",
+  "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Next Assets\\Supporting Cast\\SUP05-character-master-gpt26-v001.png",
+  "dimensions": [
+    3840,
+    2160
+  ],
+  "sha256": "da9e9b230cb00bafc7257470327e62e2f48455a3a74c57209e0233f73b6e4aa4",
+  "review_status": "visual_review_pending",
+  "production_approved": false
+}

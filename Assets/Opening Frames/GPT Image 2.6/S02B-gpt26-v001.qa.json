@@ -1,0 +1,16 @@
+{
+  "visual_reviewed": true,
+  "hard_actor_count_pass": true,
+  "production_approved": false,
+  "paid_retry_performed": false,
+  "asset_id": "S02B",
+  "expected_actor_count": 1,
+  "observed_actor_count": 1,
+  "status": "previs_still_review_pass",
+  "anatomy_check": "Exactly two white feline paws with natural grip, attached sleeves and two knees; intentionally no head.",
+  "passes": [
+    "One white/black controller with magenta accent.",
+    "Close insert excludes faces, spare controllers and unrelated actors."
+  ],
+  "issues": []
+}

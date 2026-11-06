@@ -1,0 +1,12 @@
+{
+  "status": "usable_reverse_draft",
+  "passes": [
+    "Backs of five monitors, five chairs, west post right/east toolbox left, central worktable and empty aisle."
+  ],
+  "issues": [
+    "Server racks outside crop; do not infer rack geometry from this frame.",
+    "Previously unseen south warehouse dressing is proposed."
+  ],
+  "production_approved": false,
+  "reviewed_at": "2026-11-06T19:54:20.031512+00:00"
+}

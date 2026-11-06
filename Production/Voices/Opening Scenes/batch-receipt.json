@@ -1,0 +1,605 @@
+{
+  "status": "completed12_review_takes_not_final_approved",
+  "model": "eleven_multilingual_v2",
+  "output_format": "mp3_44100_128",
+  "standard_http_no_sdk": true,
+  "auto_retries": 0,
+  "documentation": "https://elevenlabs.io/docs/api-reference/text-to-speech/convert-with-timestamps",
+  "authorized_credit_cap": 2500,
+  "minimum_included_headroom": 1000,
+  "text_characters": 629,
+  "conservative_3x_estimate": 1887,
+  "subscription_before": {
+    "character_count": 53256,
+    "character_limit": 83106,
+    "remaining_included_credits": 29850
+  },
+  "records": [
+    {
+      "line_id": "S02-D01",
+      "scene": 2,
+      "role_id": "trixie",
+      "voice_id": "dmWfLQZJq7wNPv9WmtiM",
+      "voice_name": "Emma — Wry, Gritty Hero",
+      "text": "What the fuck? We were almost done!",
+      "original_source_text_verbatim": "What the fuck? We were almost done!",
+      "source_text_policy": "Exact current working dialogue; Goodboy Global approved normalization. Original master retained.",
+      "model": "eleven_multilingual_v2",
+      "settings": {
+        "stability": 0.35,
+        "similarity_boost": 0.8,
+        "style": 0.55,
+        "use_speaker_boost": true
+      },
+      "output_format": "mp3_44100_128",
+      "duration_sec": 1.950476,
+      "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Voices\\Opening Scenes\\Scene02\\S02-D01-trixie-take001.mp3",
+      "audio_relative_path": "Scene02/S02-D01-trixie-take001.mp3",
+      "alignment_file": "S02-D01-trixie-take001-alignment.json",
+      "headers": {
+        "request-id": "j44M7PUTF69n8S3NkqeJ",
+        "character-cost": "8"
+      },
+      "subscription_before": {
+        "character_count": 53256,
+        "character_limit": 83106,
+        "remaining_included_credits": 29850
+      },
+      "subscription_after": {
+        "character_count": 53256,
+        "character_limit": 83106,
+        "remaining_included_credits": 29850
+      },
+      "credits_observed_for_request": 0,
+      "text_characters": 35,
+      "sha256": "76bdf0c7a9bbdcb013eb790902ac874443eb1d821fe20eecd6996fc1ff7845b4",
+      "status": "generated_review_take_not_final_approved",
+      "performance_approval": "not_approved",
+      "technical_qa": {
+        "ffprobe_decodes": true,
+        "duration_positive": true,
+        "provider_alignment_present": true,
+        "alignment_reconstructs_input": true
+      },
+      "created_utc": "2026-11-06T19:07:50.972874+00:00"
+    },
+    {
+      "line_id": "S02-D02",
+      "scene": 2,
+      "role_id": "byte",
+      "voice_id": "wo6udizrrtpIxWGp2qJk",
+      "voice_name": "Northern Terry",
+      "text": "Why do the dogs always have to interrupt our fun?",
+      "original_source_text_verbatim": "Why do the dogs always have to interrupt our fun?",
+      "source_text_policy": "Exact current working dialogue; Goodboy Global approved normalization. Original master retained.",
+      "model": "eleven_multilingual_v2",
+      "settings": {
+        "stability": 0.5,
+        "similarity_boost": 0.75,
+        "style": 0.15,
+        "use_speaker_boost": true
+      },
+      "output_format": "mp3_44100_128",
+      "duration_sec": 2.368435,
+      "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Voices\\Opening Scenes\\Scene02\\S02-D02-byte-take001.mp3",
+      "audio_relative_path": "Scene02/S02-D02-byte-take001.mp3",
+      "alignment_file": "S02-D02-byte-take001-alignment.json",
+      "headers": {
+        "request-id": "vcRmF6eMtF98i06EPqhR",
+        "character-cost": "11"
+      },
+      "subscription_before": {
+        "character_count": 53256,
+        "character_limit": 83106,
+        "remaining_included_credits": 29850
+      },
+      "subscription_after": {
+        "character_count": 53256,
+        "character_limit": 83106,
+        "remaining_included_credits": 29850
+      },
+      "credits_observed_for_request": 0,
+      "text_characters": 49,
+      "sha256": "135fa113457eae5347e65f7885f1a4cf2400d9d7588cbe56ae4c1571dff0aa7d",
+      "status": "generated_review_take_not_final_approved",
+      "performance_approval": "not_approved",
+      "technical_qa": {
+        "ffprobe_decodes": true,
+        "duration_positive": true,
+        "provider_alignment_present": true,
+        "alignment_reconstructs_input": true
+      },
+      "created_utc": "2026-11-06T19:07:53.022088+00:00"
+    },
+    {
+      "line_id": "S02-D03",
+      "scene": 2,
+      "role_id": "neon",
+      "voice_id": "4e32WqNVWRquDa1OcRYZ",
+      "voice_name": "Ryan — Product Reviewer",
+      "text": "They're literally stealing our playtime.",
+      "original_source_text_verbatim": "They're literally stealing our playtime.",
+      "source_text_policy": "Exact current working dialogue; Goodboy Global approved normalization. Original master retained.",
+      "model": "eleven_multilingual_v2",
+      "settings": {
+        "stability": 0.5,
+        "similarity_boost": 0.75,
+        "style": 0.15,
+        "use_speaker_boost": true
+      },
+      "output_format": "mp3_44100_128",
+      "duration_sec": 2.229116,
+      "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Voices\\Opening Scenes\\Scene02\\S02-D03-neon-take001.mp3",
+      "audio_relative_path": "Scene02/S02-D03-neon-take001.mp3",
+      "alignment_file": "S02-D03-neon-take001-alignment.json",
+      "headers": {
+        "request-id": "nk0QQ5vYf9YrQKHUxQDS",
+        "character-cost": "9"
+      },
+      "subscription_before": {
+        "character_count": 53256,
+        "character_limit": 83106,
+        "remaining_included_credits": 29850
+      },
+      "subscription_after": {
+        "character_count": 53256,
+        "character_limit": 83106,
+        "remaining_included_credits": 29850
+      },
+      "credits_observed_for_request": 0,
+      "text_characters": 40,
+      "sha256": "c1a02019a3d43be276dcaa802418f9f0818c57a3ab56bdb3a33e09bc98df8dd5",
+      "status": "generated_review_take_not_final_approved",
+      "performance_approval": "not_approved",
+      "technical_qa": {
+        "ffprobe_decodes": true,
+        "duration_positive": true,
+        "provider_alignment_present": true,
+        "alignment_reconstructs_input": true
+      },
+      "created_utc": "2026-11-06T19:07:55.395724+00:00"
+    },
+    {
+      "line_id": "S02-D04",
+      "scene": 2,
+      "role_id": "onyx",
+      "voice_id": "uq0HIbNZKn11Hs5ifEdd",
+      "voice_name": "Harry — Fierce Warrior",
+      "text": "If this is another mandatory obedience announcement, I'm gonna lose my shit.",
+      "original_source_text_verbatim": "If this is another mandatory obedience announcement, I'm gonna lose my shit.",
+      "source_text_policy": "Exact current working dialogue; Goodboy Global approved normalization. Original master retained.",
+      "model": "eleven_multilingual_v2",
+      "settings": {
+        "stability": 0.5,
+        "similarity_boost": 0.75,
+        "style": 0.15,
+        "use_speaker_boost": true
+      },
+      "output_format": "mp3_44100_128",
+      "duration_sec": 4.179592,
+      "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Voices\\Opening Scenes\\Scene02\\S02-D04-onyx-take001.mp3",
+      "audio_relative_path": "Scene02/S02-D04-onyx-take001.mp3",
+      "alignment_file": "S02-D04-onyx-take001-alignment.json",
+      "headers": {
+        "request-id": "BoH0HmIy0X2NwqnVm6wN",
+        "character-cost": "17"
+      },
+      "subscription_before": {
+        "character_count": 53256,
+        "character_limit": 83106,
+        "remaining_included_credits": 29850
+      },
+      "subscription_after": {
+        "character_count": 53256,
+        "character_limit": 83106,
+        "remaining_included_credits": 29850
+      },
+      "credits_observed_for_request": 0,
+      "text_characters": 76,
+      "sha256": "27b8e269d7538438b77678139e7bee5572171273e311fd35346dd5929ee6ed23",
+      "status": "generated_review_take_not_final_approved",
+      "performance_approval": "not_approved",
+      "technical_qa": {
+        "ffprobe_decodes": true,
+        "duration_positive": true,
+        "provider_alignment_present": true,
+        "alignment_reconstructs_input": true
+      },
+      "created_utc": "2026-11-06T19:08:01.227468+00:00"
+    },
+    {
+      "line_id": "S02-D05",
+      "scene": 2,
+      "role_id": "ghost",
+      "voice_id": "7fBwqIVI6wI1B4MuKqQi",
+      "voice_name": "Austin — Upbeat",
+      "text": "Shh. Listen.",
+      "original_source_text_verbatim": "Shh. Listen.",
+      "source_text_policy": "Exact current working dialogue; Goodboy Global approved normalization. Original master retained.",
+      "model": "eleven_multilingual_v2",
+      "settings": {
+        "stability": 0.5,
+        "similarity_boost": 0.75,
+        "style": 0.15,
+        "use_speaker_boost": true
+      },
+      "output_format": "mp3_44100_128",
+      "duration_sec": 1.671837,
+      "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Voices\\Opening Scenes\\Scene02\\S02-D05-ghost-take001.mp3",
+      "audio_relative_path": "Scene02/S02-D05-ghost-take001.mp3",
+      "alignment_file": "S02-D05-ghost-take001-alignment.json",
+      "headers": {
+        "request-id": "E1HSOMTWMWkZprykPclh",
+        "character-cost": "3"
+      },
+      "subscription_before": {
+        "character_count": 53256,
+        "character_limit": 83106,
+        "remaining_included_credits": 29850
+      },
+      "subscription_after": {
+        "character_count": 53256,
+        "character_limit": 83106,
+        "remaining_included_credits": 29850
+      },
+      "credits_observed_for_request": 0,
+      "text_characters": 12,
+      "sha256": "76a032efcdedac1d417b71456fed417a68478be2da231476c4610b335c6edeed",
+      "status": "generated_review_take_not_final_approved",
+      "performance_approval": "not_approved",
+      "technical_qa": {
+        "ffprobe_decodes": true,
+        "duration_positive": true,
+        "provider_alignment_present": true,
+        "alignment_reconstructs_input": true
+      },
+      "created_utc": "2026-11-06T19:08:06.770268+00:00"
+    },
+    {
+      "line_id": "S03-D01",
+      "scene": 3,
+      "role_id": "chairman_barkington",
+      "voice_id": "nPczCjzI2devNBz1zQrb",
+      "voice_name": "Brian",
+      "text": "Citizens of Districts Seven through Twelve. Due to an unprecedented salmon supply emergency, you are advised to acquire no less than thirty days of fresh salmon immediately. Goodboy Global thanks you for your obedience.",
+      "original_source_text_verbatim": "Citizens of Districts Seven through Twelve. Due to an unprecedented salmon supply emergency, you are advised to acquire no less than thirty days of fresh salmon immediately. Good Dog Global thanks you for your obedience.",
+      "source_text_policy": "Exact current working dialogue; Goodboy Global approved normalization. Original master retained.",
+      "model": "eleven_multilingual_v2",
+      "settings": {
+        "stability": 0.5,
+        "similarity_boost": 0.75,
+        "style": 0.15,
+        "use_speaker_boost": true
+      },
+      "output_format": "mp3_44100_128",
+      "duration_sec": 13.467574,
+      "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Voices\\Opening Scenes\\Scene03\\S03-D01-chairman_barkington-take001.mp3",
+      "audio_relative_path": "Scene03/S03-D01-chairman_barkington-take001.mp3",
+      "alignment_file": "S03-D01-chairman_barkington-take001-alignment.json",
+      "headers": {
+        "request-id": "VcadO3mQVhbvRZtrYHPU",
+        "character-cost": "48"
+      },
+      "subscription_before": {
+        "character_count": 53256,
+        "character_limit": 83106,
+        "remaining_included_credits": 29850
+      },
+      "subscription_after": {
+        "character_count": 53256,
+        "character_limit": 83106,
+        "remaining_included_credits": 29850
+      },
+      "credits_observed_for_request": 0,
+      "text_characters": 219,
+      "sha256": "cdc6d5998fc4d7774d97e5ceb819e2d85c8e7d8796c9f7849b64e83cc2635b65",
+      "status": "generated_review_take_not_final_approved",
+      "performance_approval": "not_approved",
+      "technical_qa": {
+        "ffprobe_decodes": true,
+        "duration_positive": true,
+        "provider_alignment_present": true,
+        "alignment_reconstructs_input": true
+      },
+      "created_utc": "2026-11-06T19:08:09.559491+00:00"
+    },
+    {
+      "line_id": "S03-D02",
+      "scene": 3,
+      "role_id": "byte",
+      "voice_id": "wo6udizrrtpIxWGp2qJk",
+      "voice_name": "Northern Terry",
+      "text": "Thirty days? I can't afford thirty minutes.",
+      "original_source_text_verbatim": "Thirty days? I can't afford thirty minutes.",
+      "source_text_policy": "Exact current working dialogue; Goodboy Global approved normalization. Original master retained.",
+      "model": "eleven_multilingual_v2",
+      "settings": {
+        "stability": 0.5,
+        "similarity_boost": 0.75,
+        "style": 0.15,
+        "use_speaker_boost": true
+      },
+      "output_format": "mp3_44100_128",
+      "duration_sec": 2.321995,
+      "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Voices\\Opening Scenes\\Scene03\\S03-D02-byte-take001.mp3",
+      "audio_relative_path": "Scene03/S03-D02-byte-take001.mp3",
+      "alignment_file": "S03-D02-byte-take001-alignment.json",
+      "headers": {
+        "request-id": "36yPCyqmWjesSYlwplqa",
+        "character-cost": "9"
+      },
+      "subscription_before": {
+        "character_count": 53352,
+        "character_limit": 83106,
+        "remaining_included_credits": 29754
+      },
+      "subscription_after": null,
+      "credits_observed_for_request": null,
+      "provider_reported_character_cost": 9,
+      "text_characters": 43,
+      "sha256": "2a856c2ddfb3552aa95fdfaa9c22794216a06fd2f4102255d3def7c6efd6de66",
+      "status": "generated_review_take_not_final_approved",
+      "performance_approval": "not_approved",
+      "technical_qa": {
+        "ffprobe_decodes": true,
+        "duration_positive": true,
+        "provider_alignment_present": true,
+        "alignment_reconstructs_input": true
+      },
+      "created_utc": "2026-11-06T19:09:19.857180+00:00"
+    },
+    {
+      "line_id": "S03-D03",
+      "scene": 3,
+      "role_id": "trixie",
+      "voice_id": "dmWfLQZJq7wNPv9WmtiM",
+      "voice_name": "Emma — Wry, Gritty Hero",
+      "text": "Something smells fishy.",
+      "original_source_text_verbatim": "Something smells fishy.",
+      "source_text_policy": "Exact current working dialogue; Goodboy Global approved normalization. Original master retained.",
+      "model": "eleven_multilingual_v2",
+      "settings": {
+        "stability": 0.35,
+        "similarity_boost": 0.8,
+        "style": 0.55,
+        "use_speaker_boost": true
+      },
+      "output_format": "mp3_44100_128",
+      "duration_sec": 1.393197,
+      "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Voices\\Opening Scenes\\Scene03\\S03-D03-trixie-take001.mp3",
+      "audio_relative_path": "Scene03/S03-D03-trixie-take001.mp3",
+      "alignment_file": "S03-D03-trixie-take001-alignment.json",
+      "headers": {
+        "request-id": "B9FEmKPlVLiyCFyc2tll",
+        "character-cost": "5"
+      },
+      "subscription_before": {
+        "character_count": 53352,
+        "character_limit": 83106,
+        "remaining_included_credits": 29754
+      },
+      "subscription_after": null,
+      "credits_observed_for_request": null,
+      "provider_reported_character_cost": 5,
+      "text_characters": 23,
+      "sha256": "c830331d348befa2676bb29a4f62486b6506c18caa39d44b49cce97bdecc4a0b",
+      "status": "generated_review_take_not_final_approved",
+      "performance_approval": "not_approved",
+      "technical_qa": {
+        "ffprobe_decodes": true,
+        "duration_positive": true,
+        "provider_alignment_present": true,
+        "alignment_reconstructs_input": true
+      },
+      "created_utc": "2026-11-06T19:09:20.407814+00:00"
+    },
+    {
+      "line_id": "S03-D04",
+      "scene": 3,
+      "role_id": "onyx",
+      "voice_id": "uq0HIbNZKn11Hs5ifEdd",
+      "voice_name": "Harry — Fierce Warrior",
+      "text": "It's literally fish.",
+      "original_source_text_verbatim": "It's literally fish.",
+      "source_text_policy": "Exact current working dialogue; Goodboy Global approved normalization. Original master retained.",
+      "model": "eleven_multilingual_v2",
+      "settings": {
+        "stability": 0.5,
+        "similarity_boost": 0.75,
+        "style": 0.15,
+        "use_speaker_boost": true
+      },
+      "output_format": "mp3_44100_128",
+      "duration_sec": 1.393197,
+      "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Voices\\Opening Scenes\\Scene03\\S03-D04-onyx-take001.mp3",
+      "audio_relative_path": "Scene03/S03-D04-onyx-take001.mp3",
+      "alignment_file": "S03-D04-onyx-take001-alignment.json",
+      "headers": {
+        "request-id": "eVqKzuak4DFvB52argDB",
+        "character-cost": "4"
+      },
+      "subscription_before": {
+        "character_count": 53352,
+        "character_limit": 83106,
+        "remaining_included_credits": 29754
+      },
+      "subscription_after": null,
+      "credits_observed_for_request": null,
+      "provider_reported_character_cost": 4,
+      "text_characters": 20,
+      "sha256": "570ba44dbfead2b1a287ace7ffedc2f9613a06318fdf483cdc70f00c2cc7bb63",
+      "status": "generated_review_take_not_final_approved",
+      "performance_approval": "not_approved",
+      "technical_qa": {
+        "ffprobe_decodes": true,
+        "duration_positive": true,
+        "provider_alignment_present": true,
+        "alignment_reconstructs_input": true
+      },
+      "created_utc": "2026-11-06T19:09:20.956112+00:00"
+    },
+    {
+      "line_id": "S04-D01",
+      "scene": 4,
+      "role_id": "byte",
+      "voice_id": "wo6udizrrtpIxWGp2qJk",
+      "voice_name": "Northern Terry",
+      "text": "You think there's really a shortage?",
+      "original_source_text_verbatim": "You think there's really a shortage?",
+      "source_text_policy": "Exact current working dialogue; Goodboy Global approved normalization. Original master retained.",
+      "model": "eleven_multilingual_v2",
+      "settings": {
+        "stability": 0.5,
+        "similarity_boost": 0.75,
+        "style": 0.15,
+        "use_speaker_boost": true
+      },
+      "output_format": "mp3_44100_128",
+      "duration_sec": 1.671837,
+      "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Voices\\Opening Scenes\\Scene04\\S04-D01-byte-take001.mp3",
+      "audio_relative_path": "Scene04/S04-D01-byte-take001.mp3",
+      "alignment_file": "S04-D01-byte-take001-alignment.json",
+      "headers": {
+        "request-id": "7h9mRSyp9CBvz88n8G9F",
+        "character-cost": "8"
+      },
+      "subscription_before": {
+        "character_count": 53352,
+        "character_limit": 83106,
+        "remaining_included_credits": 29754
+      },
+      "subscription_after": null,
+      "credits_observed_for_request": null,
+      "provider_reported_character_cost": 8,
+      "text_characters": 36,
+      "sha256": "6252916fa5ca06c7916b44fdf2b1a278031741d7d98e99bae6f4c937110beebf",
+      "status": "generated_review_take_not_final_approved",
+      "performance_approval": "not_approved",
+      "technical_qa": {
+        "ffprobe_decodes": true,
+        "duration_positive": true,
+        "provider_alignment_present": true,
+        "alignment_reconstructs_input": true
+      },
+      "created_utc": "2026-11-06T19:09:21.510180+00:00"
+    },
+    {
+      "line_id": "S04-D02",
+      "scene": 4,
+      "role_id": "trixie",
+      "voice_id": "dmWfLQZJq7wNPv9WmtiM",
+      "voice_name": "Emma — Wry, Gritty Hero",
+      "text": "I think someone wants us to believe there is.",
+      "original_source_text_verbatim": "I think someone wants us to believe there is.",
+      "source_text_policy": "Exact current working dialogue; Goodboy Global approved normalization. Original master retained.",
+      "model": "eleven_multilingual_v2",
+      "settings": {
+        "stability": 0.35,
+        "similarity_boost": 0.8,
+        "style": 0.55,
+        "use_speaker_boost": true
+      },
+      "output_format": "mp3_44100_128",
+      "duration_sec": 2.136236,
+      "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Voices\\Opening Scenes\\Scene04\\S04-D02-trixie-take001.mp3",
+      "audio_relative_path": "Scene04/S04-D02-trixie-take001.mp3",
+      "alignment_file": "S04-D02-trixie-take001-alignment.json",
+      "headers": {
+        "request-id": "SCKlP3YePvoPgiwbBxVx",
+        "character-cost": "10"
+      },
+      "subscription_before": {
+        "character_count": 53352,
+        "character_limit": 83106,
+        "remaining_included_credits": 29754
+      },
+      "subscription_after": null,
+      "credits_observed_for_request": null,
+      "provider_reported_character_cost": 10,
+      "text_characters": 45,
+      "sha256": "3487a5bc76bab84c613a19538ac1d3bc52cf3188ff5e223af0ed31483f1e8ba1",
+      "status": "generated_review_take_not_final_approved",
+      "performance_approval": "not_approved",
+      "technical_qa": {
+        "ffprobe_decodes": true,
+        "duration_positive": true,
+        "provider_alignment_present": true,
+        "alignment_reconstructs_input": true
+      },
+      "created_utc": "2026-11-06T19:09:22.108846+00:00"
+    },
+    {
+      "line_id": "S04-D03",
+      "scene": 4,
+      "role_id": "byte",
+      "voice_id": "wo6udizrrtpIxWGp2qJk",
+      "voice_name": "Northern Terry",
+      "text": "So... we're not getting snacks?",
+      "original_source_text_verbatim": "So... we're not getting snacks?",
+      "source_text_policy": "Exact current working dialogue; Goodboy Global approved normalization. Original master retained.",
+      "model": "eleven_multilingual_v2",
+      "settings": {
+        "stability": 0.5,
+        "similarity_boost": 0.75,
+        "style": 0.15,
+        "use_speaker_boost": true
+      },
+      "output_format": "mp3_44100_128",
+      "duration_sec": 1.718277,
+      "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Voices\\Opening Scenes\\Scene04\\S04-D03-byte-take001.mp3",
+      "audio_relative_path": "Scene04/S04-D03-byte-take001.mp3",
+      "alignment_file": "S04-D03-byte-take001-alignment.json",
+      "headers": {
+        "request-id": "AWUXlXGqYpaGWSOKIeVv",
+        "character-cost": "7"
+      },
+      "subscription_before": {
+        "character_count": 53352,
+        "character_limit": 83106,
+        "remaining_included_credits": 29754
+      },
+      "subscription_after": null,
+      "credits_observed_for_request": null,
+      "provider_reported_character_cost": 7,
+      "text_characters": 31,
+      "sha256": "f2b3fc3444d12f1ea3432a3a9ba1037b0224628d351bbfd7b611a47db40a1d17",
+      "status": "generated_review_take_not_final_approved",
+      "performance_approval": "not_approved",
+      "technical_qa": {
+        "ffprobe_decodes": true,
+        "duration_positive": true,
+        "provider_alignment_present": true,
+        "alignment_reconstructs_input": true
+      },
+      "created_utc": "2026-11-06T19:09:22.641159+00:00"
+    }
+  ],
+  "errors": [],
+  "performance_approval": "not_approved",
+  "created_utc": "2026-11-06T19:07:47.989667+00:00",
+  "read_only_usage_rate_limit_note": "Six TTS requests completed. Next subscription GET was rate-limited; no TTS failed/retried. Completed only unsubmitted line IDs after fresh headroom check.",
+  "completion_preflight_subscription": {
+    "character_count": 53352,
+    "character_limit": 83106,
+    "remaining_included_credits": 29754
+  },
+  "subscription_after": {
+    "character_count": 53352,
+    "character_limit": 83106,
+    "remaining_included_credits": 29754
+  },
+  "actual_credit_delta": 96,
+  "provider_reported_character_cost_total": 139,
+  "billing_note": "Subscription delta is observed usage and may lag. Each successful response character-cost header is retained; no zero interim delta is claimed as free generation.",
+  "total_audio_duration_sec": 36.501769,
+  "recorded_line_count": 12,
+  "submitted_text_characters": 629,
+  "subscription_settled_check": {
+    "character_count": 53395,
+    "character_limit": 83106,
+    "remaining_included_credits": 29711,
+    "checked_utc": "2026-11-06T19:10:52.988095+00:00"
+  },
+  "actual_credit_delta_settled": 139,
+  "header_cost_matches_settled_delta": true
+}

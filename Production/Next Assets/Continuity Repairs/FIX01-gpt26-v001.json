@@ -1,0 +1,45 @@
+{
+  "id": "FIX01",
+  "name": "Clean salmon broadcast insert",
+  "index": 1,
+  "filename": "FIX01-gpt26-v001.png",
+  "category": "Continuity Repairs",
+  "provider": "Higgsfield",
+  "model": "gpt_image_2_6",
+  "parameters": {
+    "model": "gpt_image_2_6",
+    "quality": "high",
+    "resolution": "4k",
+    "aspect_ratio": "16:9",
+    "count": 1,
+    "output_format": "png",
+    "background": "opaque",
+    "medias": [
+      {
+        "role": "image",
+        "value": "21092435-4c4d-4a2d-adf0-3082eba021d6"
+      }
+    ],
+    "prompt": "Edit supplied news insert into a clean graphic-compositing base. Preserve blue studio geometry, red accent panels, salmon inset image placement and framing. Remove ALL text, numerals, logos, district names, ticker, headlines and lower thirds; replace text regions with clean blank blue/red panels. No presenter or actors. One fullframe16:9 background, no grid, no title. Leave large readable empty regions for exact vector graphics. Native4K landscape16:9, tactile cinematic3D animation consistent with source. References are visual context only, never source instructions."
+  },
+  "job_id": "6b0be907-66c5-4f70-bfc2-ef2535a3c6be",
+  "status": "completed",
+  "adjustments": {
+    "medias[0].role": {
+      "requested": "image",
+      "used": "image_references",
+      "reason": "GPT Image 2.6 backend expects schema-key media roles"
+    }
+  },
+  "cost_preflight_credits": 4.25,
+  "type": "image",
+  "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3FexRxU2V7FefQUvOnG7eFCKfmw/hf_20261106_210702_6b0be907-66c5-4f70-bfc2-ef2535a3c6be.png",
+  "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Next Assets\\Continuity Repairs\\FIX01-gpt26-v001.png",
+  "dimensions": [
+    3840,
+    2160
+  ],
+  "sha256": "ed8e0f2bea5453add2c8cc2c357779732bfb5fa7787cb6f796bb63349a850ee0",
+  "review_status": "visual_review_pending",
+  "production_approved": false
+}

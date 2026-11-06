@@ -1,0 +1,288 @@
+{
+  "title": "The Great Salmon Shortage",
+  "source": "C:\\Users\\DELL\\.codex\\attachments\\1786a3bc-86b7-4aff-8af7-0cba22f2b267\\Pasted text.txt",
+  "runtime_seconds": 1200,
+  "scene_count": 24,
+  "supersedes": "work/pilot.json (18 scenes)",
+  "scenes": [
+    {
+      "number": 1,
+      "title": "Just One More Mission",
+      "start": "00:00",
+      "end": "01:10",
+      "duration_seconds": 70,
+      "source_location": "Resistance hideout",
+      "location_ids": [
+        "LOC01",
+        "LOC02",
+        "LOC19"
+      ]
+    },
+    {
+      "number": 2,
+      "title": "The Interruption",
+      "start": "01:10",
+      "end": "02:00",
+      "duration_seconds": 50,
+      "source_location": "Resistance hideout",
+      "location_ids": [
+        "LOC02",
+        "LOC13"
+      ]
+    },
+    {
+      "number": 3,
+      "title": "Barkington's Emergency Broadcast",
+      "start": "02:00",
+      "end": "03:05",
+      "duration_seconds": 65,
+      "source_location": "TV broadcast",
+      "location_ids": [
+        "LOC02",
+        "LOC13"
+      ]
+    },
+    {
+      "number": 4,
+      "title": "The Trip to 7-Catleven",
+      "start": "03:05",
+      "end": "04:00",
+      "duration_seconds": 55,
+      "source_location": "District 7 streets",
+      "location_ids": [
+        "LOC01",
+        "LOC05",
+        "LOC06"
+      ]
+    },
+    {
+      "number": 5,
+      "title": "Three Times the Price",
+      "start": "04:00",
+      "end": "05:00",
+      "duration_seconds": 60,
+      "source_location": "7-Catleven freezer aisle",
+      "location_ids": [
+        "LOC07"
+      ]
+    },
+    {
+      "number": 6,
+      "title": "Word Spreads",
+      "start": "05:00",
+      "end": "05:45",
+      "duration_seconds": 45,
+      "source_location": "District 7 market",
+      "location_ids": [
+        "LOC08"
+      ]
+    },
+    {
+      "number": 7,
+      "title": "The District 7 Rally",
+      "start": "05:45",
+      "end": "06:50",
+      "duration_seconds": 65,
+      "source_location": "Slum rally stage",
+      "location_ids": [
+        "LOC09"
+      ]
+    },
+    {
+      "number": 8,
+      "title": "The Cats Are Waking Up",
+      "start": "06:50",
+      "end": "07:30",
+      "duration_seconds": 40,
+      "source_location": "District 7 alleyways",
+      "location_ids": [
+        "LOC05"
+      ]
+    },
+    {
+      "number": 9,
+      "title": "Follow the Money",
+      "start": "07:30",
+      "end": "08:40",
+      "duration_seconds": 70,
+      "source_location": "Resistance hacking lair",
+      "location_ids": [
+        "LOC03"
+      ]
+    },
+    {
+      "number": 10,
+      "title": "Operation Bonehead",
+      "start": "08:40",
+      "end": "09:45",
+      "duration_seconds": 65,
+      "source_location": "Hideout workshop",
+      "location_ids": [
+        "LOC04"
+      ]
+    },
+    {
+      "number": 11,
+      "title": "Steak & Bone Surveillance",
+      "start": "09:45",
+      "end": "11:00",
+      "duration_seconds": 75,
+      "source_location": "Restaurant exterior",
+      "location_ids": [
+        "LOC10"
+      ]
+    },
+    {
+      "number": 12,
+      "title": "The Bone Distraction",
+      "start": "11:00",
+      "end": "11:45",
+      "duration_seconds": 45,
+      "source_location": "Steak & Bone security entrance",
+      "location_ids": [
+        "LOC10"
+      ]
+    },
+    {
+      "number": 13,
+      "title": "Inside the Restaurant",
+      "start": "11:45",
+      "end": "12:35",
+      "duration_seconds": 50,
+      "source_location": "Service corridors",
+      "location_ids": [
+        "LOC11"
+      ]
+    },
+    {
+      "number": 14,
+      "title": "The Secret Dinner",
+      "start": "12:35",
+      "end": "13:35",
+      "duration_seconds": 60,
+      "source_location": "Steak & Bone private dining room",
+      "location_ids": [
+        "LOC12"
+      ]
+    },
+    {
+      "number": 15,
+      "title": "The Payoff Photograph",
+      "start": "13:35",
+      "end": "14:20",
+      "duration_seconds": 45,
+      "source_location": "Private dining room",
+      "location_ids": [
+        "LOC12"
+      ]
+    },
+    {
+      "number": 16,
+      "title": "Get the Hell Out",
+      "start": "14:20",
+      "end": "15:10",
+      "duration_seconds": 50,
+      "source_location": "Restaurant service exit",
+      "location_ids": [
+        "LOC10",
+        "LOC11"
+      ]
+    },
+    {
+      "number": 17,
+      "title": "The Leak",
+      "start": "15:10",
+      "end": "16:00",
+      "duration_seconds": 50,
+      "source_location": "Resistance hideout",
+      "location_ids": [
+        "LOC03",
+        "LOC14",
+        "LOC18"
+      ]
+    },
+    {
+      "number": 18,
+      "title": "Victory? Not Quite",
+      "start": "16:00",
+      "end": "16:35",
+      "duration_seconds": 35,
+      "source_location": "District 7 streets",
+      "location_ids": [
+        "LOC05",
+        "LOC08"
+      ]
+    },
+    {
+      "number": 19,
+      "title": "Follow the Fish",
+      "start": "16:35",
+      "end": "17:10",
+      "duration_seconds": 35,
+      "source_location": "Hacking lair",
+      "location_ids": [
+        "LOC03"
+      ]
+    },
+    {
+      "number": 20,
+      "title": "Salmon Headquarters",
+      "start": "17:10",
+      "end": "17:45",
+      "duration_seconds": 35,
+      "source_location": "Good Dog Global salmon facility",
+      "location_ids": [
+        "LOC15"
+      ]
+    },
+    {
+      "number": 21,
+      "title": "The Great Salmon Heist",
+      "start": "17:45",
+      "end": "18:30",
+      "duration_seconds": 45,
+      "source_location": "Factory interior",
+      "location_ids": [
+        "LOC16",
+        "LOC17"
+      ]
+    },
+    {
+      "number": 22,
+      "title": "Shut It Down",
+      "start": "18:30",
+      "end": "19:05",
+      "duration_seconds": 35,
+      "source_location": "Factory control room",
+      "location_ids": [
+        "LOC15",
+        "LOC17"
+      ]
+    },
+    {
+      "number": 23,
+      "title": "Salmon for Everyone",
+      "start": "19:05",
+      "end": "19:30",
+      "duration_seconds": 25,
+      "source_location": "District 7 market",
+      "location_ids": [
+        "LOC08",
+        "LOC14",
+        "LOC20"
+      ]
+    },
+    {
+      "number": 24,
+      "title": "Back to the Game",
+      "start": "19:30",
+      "end": "20:00",
+      "duration_seconds": 30,
+      "source_location": "Resistance hideout",
+      "location_ids": [
+        "LOC02",
+        "LOC19"
+      ]
+    }
+  ]
+}

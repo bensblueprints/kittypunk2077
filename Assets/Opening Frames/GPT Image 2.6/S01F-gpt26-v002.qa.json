@@ -1,0 +1,30 @@
+{
+  "asset_id": "S01F",
+  "version": "v002",
+  "visual_reviewed": true,
+  "reviewed_at": "2026-11-06T20:11:59.894525+00:00",
+  "status": "targeted_correction_pass_review_draft",
+  "production_approved": false,
+  "actual_dimensions": [
+    3840,
+    2160
+  ],
+  "hard_actor_count_pass": true,
+  "paid_retry_count": 0,
+  "shared_manifest_modified": false,
+  "visible_actor_count": 1,
+  "visible_roles": [
+    "Neon"
+  ],
+  "visible_controller_count": 0,
+  "passes": [
+    "No couch cushions, empty seats, blankets or armrests visible.",
+    "Single Neon retains silver-grey stripes, cyan goggles and patterned blue scarf.",
+    "Skeptical downward/left glance and head tilt retained; original warm/cyan/magenta atmosphere preserved.",
+    "No extra actor, borrowed accessory or raised controller."
+  ],
+  "minor_notes": [
+    "Extreme close-up crops ear tips and leaves little motion margin; use for a held reaction.",
+    "Controller remains below the crop and its physical design is not re-verified in this version."
+  ]
+}

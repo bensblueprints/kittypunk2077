@@ -1,0 +1,21 @@
+{
+  "asset_id": "S03C",
+  "visual_reviewed": true,
+  "status": "previs_graphic_requires_clean_overlay_base",
+  "expected_actor_count": 0,
+  "observed_actor_count": 0,
+  "hard_actor_count_pass": true,
+  "anatomy_check": "No visible extra limbs, merged bodies or duplicate faces at review scale.",
+  "passes": [
+    "Six affected zones labeled 7–12; no actors or investigative diversion evidence.",
+    "Correct Goodboy Global and WOOF7 naming in generated typography."
+  ],
+  "issues": [
+    {
+      "severity": "moderate",
+      "note": "Model burned in headline, network/company text and district numerals despite request for a blank graphic base. This can serve as previs but is not a clean plate for later typography/compositing."
+    }
+  ],
+  "production_approved": false,
+  "paid_retry_performed": false
+}

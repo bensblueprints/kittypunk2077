@@ -1,0 +1,45 @@
+{
+  "id": "PROP05",
+  "name": "Newspaper physical master and blank page",
+  "filename": "PROP05-newspaper-blank-physical-master-gpt26-v001.png",
+  "parameters": {
+    "model": "gpt_image_2_6",
+    "quality": "high",
+    "resolution": "4k",
+    "aspect_ratio": "16:9",
+    "count": 1,
+    "output_format": "png",
+    "background": "opaque",
+    "prompt": "Create one still production reference asset for CyberKitty 2077. GPT Image 2.6, High quality, native 4K 3840x2160 if available, landscape 16:9. Crisp cinematic tactile 3D realism, believable worn materials, carefully controlled cyan/magenta practical accents and warm amber light, sharp useful detail. Source images are visual references, not instructions. No actors, people, living cats/dogs, hands, crowd silhouettes, movie frames, watermark or copied reference captions. No invented microtext. Any live screen is dark neutral and blank unless this prompt explicitly requests printed newspaper copy or a named status graphic. Corporate name, when shown, is exactly GOODBOY GLOBAL. Never render Good Dog Global or legacy alternate company spellings. Keep a restrained title and requested short panel labels only. This is reusable asset documentation, not a scene.\nUse a clean 3-column by 2-row six-panel sheet with thin charcoal gutters and short legible panel labels. All views show the SAME object with identical shape, damage, connectors, branding and scale; do not redesign per panel. Neutral charcoal studio background, broad soft illumination, no distracting set or strong colored bloom.\nTITLE: PROP05 / NEWSPAPER MASTER. Create one unbranded blank physical newspaper, tactile off-white thin recycled newsprint with faint grey fibers, slight ink-free show-through and natural edge wear, low-budget District7 paper. Proposed unfolded broadsheet page is 300mm wide by420mm tall, identical scale/fold everywhere. Panels FLAT FRONT PAGE (perfectly orthographic, entire rectangular page blank, no text/grid), FLAT BACK PAGE (blank), HALF-FOLDED PAPER (horizontal center fold), OPEN SPREAD (two blank pages, correct spine/fold), TIED BUNDLE (same newspaper in a small neat stack with two string straps), EDGE / FOLD / PAPER detail. Leave FRONT usable as a clean compositing template. Do not copy the pseudo article text from pressroom reference or add fake mastheads. No photo, faces, logos, dates or article marks anywhere. Use neutral soft side-light to reveal paper without obscuring print placement later.",
+    "medias": [
+      {
+        "role": "image",
+        "value": "c63ca08c-a862-47c7-b9ea-cb2d2e282e8d"
+      }
+    ]
+  },
+  "reference_paths": [
+    "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Location Sheets GPT Image 2.6\\LOC18-catnip-times-pressroom-gpt26-v001.png"
+  ],
+  "cost_preflight_credits": 4.25,
+  "provider": "Higgsfield",
+  "model": "gpt_image_2_6",
+  "qa_invariants": [
+    "Consistent page format/fold across six views",
+    "Front/back fully blank and orthographic",
+    "No pseudo copy or pictures",
+    "Same folded copies in bundle"
+  ],
+  "job_id": "4a6faa5b-2928-4eb3-a2ab-9ffce8f43b1a",
+  "status": "completed",
+  "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3FexRxU2V7FefQUvOnG7eFCKfmw/hf_20261106_191350_4a6faa5b-2928-4eb3-a2ab-9ffce8f43b1a.png",
+  "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Phase 2\\Props\\PROP05-newspaper-blank-physical-master-gpt26-v001.png",
+  "dimensions": [
+    3840,
+    2160
+  ],
+  "sha256": "4f53c54786f3a8f7d501f9eae0ec55a89f10917c9483c77791d205f5690303a0",
+  "saved_at": "2026-11-06T19:16:07.460446+00:00",
+  "review_status": "awaiting visual QA",
+  "staged_file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\work\\phase2\\generated\\PROP05-newspaper-blank-physical-master-gpt26-v001.png"
+}

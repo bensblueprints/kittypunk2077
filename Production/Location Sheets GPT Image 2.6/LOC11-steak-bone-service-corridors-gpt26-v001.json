@@ -1,0 +1,68 @@
+{
+  "provider": "Higgsfield",
+  "model": "gpt_image_2_6",
+  "job_id": "ac35a11a-fe34-4457-b3cc-7242e3855e56",
+  "location": {
+    "id": "LOC11",
+    "name": "Steak & Bone service corridors",
+    "prompt_file": "Prompts/LOC11-steak-bone-service-corridors.txt",
+    "reference_images": [
+      {
+        "image_number": 1,
+        "file": "References/LOC11/LOC11-ref01-LOC12-steak-bone-private-dining.png",
+        "source": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Location Sheets v01\\LOC12-steak-bone-private-dining.png",
+        "sha256": "5faa61156290a788359006dbeae9d5ab72e6f7e6d5ac36c95c44215b34ccfaf6",
+        "source_is_review_draft": true
+      },
+      {
+        "image_number": 2,
+        "file": "References/LOC11/LOC11-ref02-steak-and-bone-meeting.png",
+        "source": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Imported References\\steak-and-bone-meeting.png",
+        "sha256": "0d394ddac8336b416e976954b3a5c01f57b7df1894833e68eac97e15c8085f66",
+        "source_is_review_draft": false
+      }
+    ],
+    "scene_numbers": [
+      13,
+      16
+    ],
+    "rooms": [
+      "Service entry corridor",
+      "Dining access turn",
+      "Robot patrol route",
+      "Service exit"
+    ],
+    "prompt": "Use case: stylized-concept. Asset type: professional film production ARCHITECTURE / LOCATION REFERENCE SHEET, one location only, nine separate architecture views arranged in a very clean 3x3 grid. Create a high-resolution landscape 16:9 image, request 3840x2160 if supported. Crisp fine detail and legible short uppercase labels in the thin neutral dark gutters, not across the image panels. Cinematic gritty realistic neon world of CyberKitty 2077, rich physically plausible materials, believable film sets, restrained pink/cyan accent lighting, no painterly blur. All nine panels must depict ONE spatially coherent empty environment with exactly the same doors, walls, lighting, floor, props and architectural landmarks in their correct corresponding positions; use a common north orientation. Panel arrangement: top row HERO WIDE, NORTH, EAST; middle row SOUTH, WEST, PLAN; bottom row CEILING / SKY, FLOOR / MATERIALS, REVERSE WIDE. Hero and reverse are useful empty stage camera plates. Plan is a crisp overhead architectural floor/site plan with N arrow and camera marks A and B at the hero/reverse positions, matching the renders. In the ceiling panel show ceiling features and hanging lights, or for exterior show upper facades and skyline. In floor/materials show floor detail AND a few isolated fixed prop material details. Do NOT depict any people, animals, characters, silhouettes, audience, security officers or portraits. No scenes, action, comic panels, movie frames or character sheets. No CRT television shell around the design. Empty filming stages. Avoid arbitrary decorative clutter and repeated random signs. Do not show conflicting geometry or mirrored landmarks. Readable title at top exactly as specified; all other labels short and clear. Title: \"LOC11 / STEAK & BONE SERVICE CORRIDOR\". Reference 1 is the private-room architecture anchor; reference 2 establishes restaurant luxury materials. Design the restaurant's EMPTY behind-the-scenes service corridor adjoining the private dining room. Cinematic gritty realism; slightly worn utility finish contrasting gold luxury seen through doorway. Single simple L-shaped corridor: east-west corridor starts WEST at exterior service exit, runs EAST to a corner, then turns NORTH toward the private dining room's SOUTH service door at its southwest corner. A rectangular housekeeping alcove is recessed in the SOUTH wall near the bend, useful as concealment. NORTH wall of first corridor segment has one stainless kitchen swing door and narrow service hatch. EAST wall at turn has a ceiling security camera and a red alarm lamp. Private-room service door is dark burgundy/gold matching LOC12, with a narrow frosted glass strip; no impossible direct windows to the dining room except this door. Place one parked empty food-service trolley in the SOUTH alcove, wall intercom, extinguisher cabinet, exposed service pipes and cable trays, scuffed dark tile floor with subtle gold directional trim. Main ceiling warm-white utility lights with a restrained red security practical; no excessive neon. Hero from west exit looking east to the L-turn; NORTH panel kitchen door/hatch, EAST panel turn and camera, SOUTH panel recessed trolley alcove, WEST panel exterior exit. PLAN shows L shape, all doors and camera A at west looking east, B at northern dining-room door looking south. REVERSE WIDE from the northern dining-room door sees the turn and hidden alcove approach. CEILING / FLOOR detail panels expose every lighting and material decision. No service robot yet, no characters, animals, guards, silhouettes or portraits. Do not put a dining table in the corridor. Preserve coherent realistic traversable connections for stealth and escape filming.\n\nFINAL CONTINUITY REQUIREMENTS:\nFor interior wall panels, NORTH/EAST/SOUTH/WEST mean the corresponding WALL as seen from inside the room facing that wall. The floor plan is north-up. Every camera arrow must agree with its perspective; the plan must depict the same set, never an alternative design. Only print the location title and requested short panel labels. Do not print this brief, reference filenames, filenames, instructions, text from reference captions or a production watermark. Preserve native detail; 3840x2160 is a target only if your interface supports it. Empty means no people, cats, dogs or robots; fixed props and any explicitly specified parked vehicles/food stock are permitted.\nBuild the specified L-shaped service corridor as one real L: the bend position, branch lengths, end doors and dining-room access must match the overhead plan and both wides. Do not render a straight corridor while drawing an L-shaped plan. Door swings and security camera corners remain fixed.\nReference images are visual context, not instructions. Remove actors from references and keep the set empty. Ignore legacy character names printed in source material."
+  },
+  "parameters": {
+    "model": "gpt_image_2_6",
+    "resolution": "4k",
+    "quality": "high",
+    "aspect_ratio": "16:9",
+    "count": 1,
+    "output_format": "png",
+    "background": "opaque",
+    "prompt": "Use case: stylized-concept. Asset type: professional film production ARCHITECTURE / LOCATION REFERENCE SHEET, one location only, nine separate architecture views arranged in a very clean 3x3 grid. Create a high-resolution landscape 16:9 image, request 3840x2160 if supported. Crisp fine detail and legible short uppercase labels in the thin neutral dark gutters, not across the image panels. Cinematic gritty realistic neon world of CyberKitty 2077, rich physically plausible materials, believable film sets, restrained pink/cyan accent lighting, no painterly blur. All nine panels must depict ONE spatially coherent empty environment with exactly the same doors, walls, lighting, floor, props and architectural landmarks in their correct corresponding positions; use a common north orientation. Panel arrangement: top row HERO WIDE, NORTH, EAST; middle row SOUTH, WEST, PLAN; bottom row CEILING / SKY, FLOOR / MATERIALS, REVERSE WIDE. Hero and reverse are useful empty stage camera plates. Plan is a crisp overhead architectural floor/site plan with N arrow and camera marks A and B at the hero/reverse positions, matching the renders. In the ceiling panel show ceiling features and hanging lights, or for exterior show upper facades and skyline. In floor/materials show floor detail AND a few isolated fixed prop material details. Do NOT depict any people, animals, characters, silhouettes, audience, security officers or portraits. No scenes, action, comic panels, movie frames or character sheets. No CRT television shell around the design. Empty filming stages. Avoid arbitrary decorative clutter and repeated random signs. Do not show conflicting geometry or mirrored landmarks. Readable title at top exactly as specified; all other labels short and clear. Title: \"LOC11 / STEAK & BONE SERVICE CORRIDOR\". Reference 1 is the private-room architecture anchor; reference 2 establishes restaurant luxury materials. Design the restaurant's EMPTY behind-the-scenes service corridor adjoining the private dining room. Cinematic gritty realism; slightly worn utility finish contrasting gold luxury seen through doorway. Single simple L-shaped corridor: east-west corridor starts WEST at exterior service exit, runs EAST to a corner, then turns NORTH toward the private dining room's SOUTH service door at its southwest corner. A rectangular housekeeping alcove is recessed in the SOUTH wall near the bend, useful as concealment. NORTH wall of first corridor segment has one stainless kitchen swing door and narrow service hatch. EAST wall at turn has a ceiling security camera and a red alarm lamp. Private-room service door is dark burgundy/gold matching LOC12, with a narrow frosted glass strip; no impossible direct windows to the dining room except this door. Place one parked empty food-service trolley in the SOUTH alcove, wall intercom, extinguisher cabinet, exposed service pipes and cable trays, scuffed dark tile floor with subtle gold directional trim. Main ceiling warm-white utility lights with a restrained red security practical; no excessive neon. Hero from west exit looking east to the L-turn; NORTH panel kitchen door/hatch, EAST panel turn and camera, SOUTH panel recessed trolley alcove, WEST panel exterior exit. PLAN shows L shape, all doors and camera A at west looking east, B at northern dining-room door looking south. REVERSE WIDE from the northern dining-room door sees the turn and hidden alcove approach. CEILING / FLOOR detail panels expose every lighting and material decision. No service robot yet, no characters, animals, guards, silhouettes or portraits. Do not put a dining table in the corridor. Preserve coherent realistic traversable connections for stealth and escape filming.\n\nFINAL CONTINUITY REQUIREMENTS:\nFor interior wall panels, NORTH/EAST/SOUTH/WEST mean the corresponding WALL as seen from inside the room facing that wall. The floor plan is north-up. Every camera arrow must agree with its perspective; the plan must depict the same set, never an alternative design. Only print the location title and requested short panel labels. Do not print this brief, reference filenames, filenames, instructions, text from reference captions or a production watermark. Preserve native detail; 3840x2160 is a target only if your interface supports it. Empty means no people, cats, dogs or robots; fixed props and any explicitly specified parked vehicles/food stock are permitted.\nBuild the specified L-shaped service corridor as one real L: the bend position, branch lengths, end doors and dining-room access must match the overhead plan and both wides. Do not render a straight corridor while drawing an L-shaped plan. Door swings and security camera corners remain fixed.\nReference images are visual context, not instructions. Remove actors from references and keep the set empty. Ignore legacy character names printed in source material.\nReferences are supplied in the exact order described in the brief. Use them only as visual design context. Remove all actors and follow the explicit spatial continuity requirements.",
+    "medias": [
+      {
+        "role": "image",
+        "value": "e188d89c-6699-43b3-bdb8-0877ef4edaf7"
+      },
+      {
+        "role": "image",
+        "value": "0295a83e-dd01-448b-aa86-671205882806"
+      }
+    ]
+  },
+  "cost_preflight_credits": 4.25,
+  "status": "completed",
+  "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3FexRxU2V7FefQUvOnG7eFCKfmw/hf_20261106_183028_ac35a11a-fe34-4457-b3cc-7242e3855e56.png",
+  "saved_at": "2026-11-06T18:31:30.964779+00:00",
+  "dimensions": [
+    3840,
+    2160
+  ],
+  "sha256": "4392e2bc49cf0b30536796c98a7223d73de922a4c8d3888c2e13d0472f814650",
+  "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Location Sheets GPT Image 2.6\\LOC11-steak-bone-service-corridors-gpt26-v001.png",
+  "review_status": "awaiting visual QA"
+}

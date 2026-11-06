@@ -1,0 +1,16 @@
+{
+  "asset_id": "S03D",
+  "visual_reviewed": true,
+  "status": "previs_still_review_pass",
+  "expected_actor_count": 1,
+  "observed_actor_count": 1,
+  "hard_actor_count_pass": true,
+  "anatomy_check": "One Doberman face; ears intentionally partly cropped for extreme close-up; no duplicated anatomy.",
+  "passes": [
+    "Cigar-free muzzle, purple glasses, fur collar and blue map background match the Barkington medium.",
+    "Held expression is suitable for dialogue previs."
+  ],
+  "issues": [],
+  "production_approved": false,
+  "paid_retry_performed": false
+}

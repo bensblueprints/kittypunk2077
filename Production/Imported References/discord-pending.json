@@ -1,0 +1,13 @@
+{
+  "channel": "https://discordapp.com/channels/1505108213492875395/1528291443821641839",
+  "freezer": {
+    "status": "pending",
+    "download_retry": "HTTP 403 Forbidden",
+    "ui": "Repeated user-input block; recovery stopped to avoid interfering"
+  },
+  "payoff": {
+    "status": "unrecovered"
+  },
+  "no_messages_sent": true,
+  "import_manifest_preserved": true
+}

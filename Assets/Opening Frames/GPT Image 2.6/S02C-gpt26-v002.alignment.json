@@ -1,0 +1,28 @@
+{
+  "asset_id": "S02C",
+  "scene": 2,
+  "editorial_shot_id": "S02-03",
+  "dialogue_line_ids": [
+    "S02-D01"
+  ],
+  "dialogue_context": [
+    {
+      "line_id": "S02-D01",
+      "speaker": "Trixie",
+      "text": "What the fuck? We were almost done!",
+      "audio_file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Voices\\Opening Scenes\\Scene02\\S02-D01-trixie-take001.mp3",
+      "audio_duration_sec": 1.950476,
+      "use": "Off-image performance reference only; not a subtitle or prompt to synthesize speech.",
+      "audio_exists": true,
+      "relative_audio_path": "../../Voices/Opening Scenes/Scene02/S02-D01-trixie-take001.mp3"
+    }
+  ],
+  "editorial_duration_estimate_sec": 8,
+  "media_type": "still_image",
+  "video_generated": false,
+  "audio_generated_by_this_job": false,
+  "speech_provider": "ElevenLabs only",
+  "note": "Existing speech is off-image performance/alignment context. No timing or subtitles are burned into this still.",
+  "image_version": 2,
+  "inheritance_note": "Same editorial shot and original dialogue timing context, corrected still image."
+}

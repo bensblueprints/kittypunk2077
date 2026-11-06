@@ -1,0 +1,28 @@
+{
+  "id": "HQ07",
+  "status": "draft_usable_architecture_review",
+  "dimensions": [
+    3840,
+    2160
+  ],
+  "panels": 9,
+  "empty_set": true,
+  "checks_passed": [
+    "Two side server banks, one central cyan geometric helix core with no face/body/avatar.",
+    "South sealed cooling wall; only north entry.",
+    "Hero sees south cooling fans; reverse sees north door/service console.",
+    "Dark service monitor, wall/material coverage, A/B coordinate labels and north arrow present."
+  ],
+  "issues": [
+    {
+      "severity": "minor",
+      "note": "Small north-wall console is omitted from the floor-plan drawing although consistently present in north elevation and reverse."
+    },
+    {
+      "severity": "minor",
+      "note": "Wide camera positions are approximate and the north entry appears slightly off-center in elevation; text coordinates control precise blocking."
+    }
+  ],
+  "topology_authority": "Saved prompt coordinates; add service console to production floor plan before final modeling.",
+  "paid_retry": false
+}

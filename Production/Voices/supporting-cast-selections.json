@@ -1,0 +1,217 @@
+{
+  "selection_date": "2026-11-07",
+  "provider": "user ElevenLabs account only",
+  "new_audio_generated": false,
+  "existing_main_cast_unchanged": true,
+  "roles": [
+    {
+      "role_id": "dog_guard_a",
+      "role": "Dog Guard A",
+      "voice_id": "TxWZERZ5Hc6h9dGxVmXa",
+      "voice_name": "Jerry B. - Gruff and Gritty Commander",
+      "direction": "Gruff older authority; clipped and slow.",
+      "selection_status": "selected_by_assistant_under_user_delegation",
+      "account_access": "listed_in_authenticated_library",
+      "selection_basis": "provider description and existing account library; new performances not yet auditioned",
+      "performance_approved": false
+    },
+    {
+      "role_id": "dog_guard_b",
+      "role": "Dog Guard B",
+      "voice_id": "lAqElvydqyTzitpwAdj6",
+      "voice_name": "Hugo - Loyal Henchman",
+      "direction": "Raspy lackey; worried, quicker responses.",
+      "selection_status": "selected_by_assistant_under_user_delegation",
+      "account_access": "listed_in_authenticated_library",
+      "selection_basis": "provider description and existing account library; new performances not yet auditioned",
+      "performance_approved": false
+    },
+    {
+      "role_id": "district7_kitten",
+      "role": "District 7 Kitten",
+      "voice_id": "FGY2WhTYpPnrIDTdsKH5",
+      "voice_name": "Laura - Enthusiast, Quirky Attitude",
+      "direction": "Gentle, small, sincere performance. Adult performer voice selected for kitten role; audition childlike delivery without baby talk.",
+      "selection_status": "selected_by_assistant_under_user_delegation",
+      "account_access": "listed_in_authenticated_library",
+      "selection_basis": "provider description and existing account library; new performances not yet auditioned",
+      "performance_approved": false
+    },
+    {
+      "role_id": "general_fetch",
+      "role": "General Fetch",
+      "voice_id": "pNInz6obpgDQGcFmaJgB",
+      "voice_name": "Adam - Dominant, Firm",
+      "direction": "Firm military command, contained volume.",
+      "selection_status": "selected_by_assistant_under_user_delegation",
+      "account_access": "listed_in_authenticated_library",
+      "selection_basis": "provider description and existing account library; new performances not yet auditioned",
+      "performance_approved": false
+    },
+    {
+      "role_id": "dr_muzzle",
+      "role": "Dr Muzzle",
+      "voice_id": "26OmzLQMdT4z7VEPURkY",
+      "voice_name": "Mature Joe - Neutral, Considered, Mature British male",
+      "direction": "Measured clinical British precision; dry and controlled.",
+      "selection_status": "selected_by_assistant_under_user_delegation",
+      "account_access": "listed_in_authenticated_library",
+      "selection_basis": "provider description and existing account library; new performances not yet auditioned",
+      "performance_approved": false
+    },
+    {
+      "role_id": "viper",
+      "role": "Viper",
+      "voice_id": "NYC9WEgkq1u4jiqBseQ9",
+      "voice_name": "Russell - Dramatic British TV",
+      "direction": "Brisk serious British logistics delivery.",
+      "selection_status": "selected_by_assistant_under_user_delegation",
+      "account_access": "listed_in_authenticated_library",
+      "selection_basis": "provider description and existing account library; new performances not yet auditioned",
+      "performance_approved": false
+    },
+    {
+      "role_id": "frost",
+      "role": "Frost",
+      "voice_id": "N2lVS1w4EtoT3dr4eOWO",
+      "voice_name": "Callum - Husky Trickster",
+      "direction": "Low, patient, unsettling restraint.",
+      "selection_status": "selected_by_assistant_under_user_delegation",
+      "account_access": "listed_in_authenticated_library",
+      "selection_basis": "provider description and existing account library; new performances not yet auditioned",
+      "performance_approved": false
+    },
+    {
+      "role_id": "stone",
+      "role": "Stone",
+      "voice_id": "pqHfZKP75CvOlQylNhV4",
+      "voice_name": "Bill - Wise, Mature, Balanced",
+      "direction": "Older weighty delivery with dry humor.",
+      "selection_status": "selected_by_assistant_under_user_delegation",
+      "account_access": "listed_in_authenticated_library",
+      "selection_basis": "provider description and existing account library; new performances not yet auditioned",
+      "performance_approved": false
+    },
+    {
+      "role_id": "velvet",
+      "role": "Velvet",
+      "voice_id": "JBFqnCBsd6RMkjVDRZzb",
+      "voice_name": "George - Warm, Captivating Storyteller",
+      "direction": "Polished mature British charm; cool private threats.",
+      "selection_status": "selected_by_assistant_under_user_delegation",
+      "account_access": "listed_in_authenticated_library",
+      "selection_basis": "provider description and existing account library; new performances not yet auditioned",
+      "performance_approved": false
+    },
+    {
+      "role_id": "domino",
+      "role": "Domino",
+      "voice_id": "iP95p4xoKVk53GoZ742B",
+      "voice_name": "Chris - Charming, Down-to-Earth",
+      "direction": "Mature conversational voice; concise, efficient urgency.",
+      "selection_status": "selected_by_assistant_under_user_delegation",
+      "account_access": "listed_in_authenticated_library",
+      "selection_basis": "provider description and existing account library; new performances not yet auditioned",
+      "performance_approved": false
+    },
+    {
+      "role_id": "seven_catleven_clerk",
+      "role": "7-Catleven Clerk",
+      "voice_id": "CwhRBWXzGAHq8TQ4Fs17",
+      "voice_name": "Roger - Laid-Back, Casual, Resonant",
+      "direction": "Tired practical warmth; future dialogue only.",
+      "selection_status": "selected_by_assistant_under_user_delegation",
+      "account_access": "listed_in_authenticated_library",
+      "selection_basis": "provider description and existing account library; new performances not yet auditioned",
+      "performance_approved": false
+    },
+    {
+      "role_id": "human_ai_avatar",
+      "role": "Human AI interface",
+      "voice_id": "SAz9YHcvj6GT2YYXdXww",
+      "voice_name": "River - Relaxed, Neutral, Informative",
+      "direction": "Calm neutral interface; future dialogue only.",
+      "selection_status": "selected_by_assistant_under_user_delegation",
+      "account_access": "listed_in_authenticated_library",
+      "selection_basis": "provider description and existing account library; new performances not yet auditioned",
+      "performance_approved": false
+    },
+    {
+      "role_id": "returning_human_commander",
+      "role": "Returning Human Commander",
+      "voice_id": "FF7KdobWPaiR0vkcALHF",
+      "voice_name": "David - Epic Movie Trailer",
+      "direction": "Grounded mature authority; avoid trailer exaggeration.",
+      "selection_status": "selected_by_assistant_under_user_delegation",
+      "account_access": "listed_in_authenticated_library",
+      "selection_basis": "provider description and existing account library; new performances not yet auditioned",
+      "performance_approved": false
+    },
+    {
+      "role_id": "civilian_1",
+      "role": "Cream shorthair / foreground citizen",
+      "voice_id": "DODLEQrClDo8wCz460ld",
+      "voice_name": "Lauren - Friendly, Comforting and Soft",
+      "direction": "Natural distinct adult civilian; record chant layers separately.",
+      "selection_status": "selected_by_assistant_under_user_delegation",
+      "account_access": "listed_in_authenticated_library",
+      "selection_basis": "provider description and existing account library; new performances not yet auditioned",
+      "performance_approved": false
+    },
+    {
+      "role_id": "civilian_2",
+      "role": "Brown tabby worker",
+      "voice_id": "b5RPB35vTODb3BEmR3Fc",
+      "voice_name": "Serein - Friendly, Casual and Balanced",
+      "direction": "Natural distinct adult civilian; record chant layers separately.",
+      "selection_status": "selected_by_assistant_under_user_delegation",
+      "account_access": "listed_in_authenticated_library",
+      "selection_basis": "provider description and existing account library; new performances not yet auditioned",
+      "performance_approved": false
+    },
+    {
+      "role_id": "civilian_3",
+      "role": "Calico vendor",
+      "voice_id": "56AoDkrOh6qfVPDXZ7Pt",
+      "voice_name": "Cassidy",
+      "direction": "Natural distinct adult civilian; record chant layers separately.",
+      "selection_status": "selected_by_assistant_under_user_delegation",
+      "account_access": "listed_in_authenticated_library",
+      "selection_basis": "provider description and existing account library; new performances not yet auditioned",
+      "performance_approved": false
+    },
+    {
+      "role_id": "civilian_4",
+      "role": "Grey shorthair worker",
+      "voice_id": "cdnpdcqt2HW1XtKv2f3V",
+      "voice_name": "Clamon - Warm, Crisp, Lively & Friendly",
+      "direction": "Natural distinct adult civilian; record chant layers separately.",
+      "selection_status": "selected_by_assistant_under_user_delegation",
+      "account_access": "listed_in_authenticated_library",
+      "selection_basis": "provider description and existing account library; new performances not yet auditioned",
+      "performance_approved": false
+    },
+    {
+      "role_id": "civilian_5",
+      "role": "Ginger-and-white resident",
+      "voice_id": "bIHbv24MWmeRgasZH58o",
+      "voice_name": "Will - Relaxed Optimist",
+      "direction": "Natural distinct adult civilian; record chant layers separately.",
+      "selection_status": "selected_by_assistant_under_user_delegation",
+      "account_access": "listed_in_authenticated_library",
+      "selection_basis": "provider description and existing account library; new performances not yet auditioned",
+      "performance_approved": false
+    },
+    {
+      "role_id": "civilian_6",
+      "role": "Tuxedo resident",
+      "voice_id": "UgBBYS2sOqTuMpoF3BR0",
+      "voice_name": "Mark - Natural Conversations",
+      "direction": "Natural distinct adult civilian; record chant layers separately.",
+      "selection_status": "selected_by_assistant_under_user_delegation",
+      "account_access": "listed_in_authenticated_library",
+      "selection_basis": "provider description and existing account library; new performances not yet auditioned",
+      "performance_approved": false
+    }
+  ]
+}

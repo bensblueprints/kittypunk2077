@@ -1,0 +1,26 @@
+{
+  "id": "HQ02",
+  "status": "draft_usable_architecture_review",
+  "dimensions": [
+    3840,
+    2160
+  ],
+  "passes": [
+    "Nine panels, no living occupants; statues clearly metallic sculpture",
+    "Single north entry and south city glazing/desk correct",
+    "Reception and paired statue locations consistent",
+    "No elevator bank copied into lobby",
+    "Goodboy Global spelling correct"
+  ],
+  "issues": [
+    {
+      "severity": "minor",
+      "finding": "Reverse B is centered on south edge with a northward arrow rather than specified southwest/northeast diagonal. Render and adjusted plan agree broadly but differ from exact written camera coordinate."
+    },
+    {
+      "severity": "minor",
+      "finding": "Benches subdivide into two units on each side elevation while plan simplifies each side; lock exact module counts before close coverage."
+    }
+  ],
+  "retry_performed": false
+}

@@ -1,0 +1,1061 @@
+{
+  "title": "Location correction queue — existing 16-sheet audit",
+  "created_utc": "2026-11-06T17:56:41.821210+00:00",
+  "scope": "Read-only visual audit and reusable manual correction prompts. No image generation or editing performed. Core README and location-registry unchanged.",
+  "authorization_status": "User stopped generation pending verified provider and requested prompts for self-generation. This queue is guidance only, not authorization to execute.",
+  "reviewed_location_ids": [
+    "LOC01",
+    "LOC02",
+    "LOC03",
+    "LOC08",
+    "LOC09",
+    "LOC10",
+    "LOC11",
+    "LOC12",
+    "LOC13",
+    "LOC14",
+    "LOC15",
+    "LOC16",
+    "LOC17",
+    "LOC18",
+    "LOC19",
+    "LOC20"
+  ],
+  "not_in_this_snapshot": [
+    "LOC04",
+    "LOC05",
+    "LOC06",
+    "LOC07"
+  ],
+  "snapshot_note": "These four lacked sheets in the starting 16-sheet registry snapshot. LOC04 was assigned to another agent; any newly completed file requires its own review. Do not overwrite live status from this snapshot.",
+  "classification_counts": {
+    "annotation_or_prop_lock": 7,
+    "conditional_panel_fix": 2,
+    "keep_for_review": 1,
+    "targeted_geometry_or_content": 6
+  },
+  "targeted_image_correction_order": [
+    "LOC02",
+    "LOC16",
+    "LOC17",
+    "LOC11",
+    "LOC15",
+    "LOC20"
+  ],
+  "conditional_panel_fixes": [
+    "LOC12",
+    "LOC18"
+  ],
+  "annotation_or_prop_locks": [
+    "LOC03",
+    "LOC08",
+    "LOC09",
+    "LOC10",
+    "LOC13",
+    "LOC14",
+    "LOC19"
+  ],
+  "keep_without_image_change": [
+    "LOC01"
+  ],
+  "key_decision": "Six sheets justify targeted geometry/content corrections, two need limited panels only if used, seven mainly need plan/prop annotations, one can remain as-is for review. No sheet needs a cosmetic redesign.",
+  "common_constraints": [
+    "All sheets remain review drafts; the audit does not grant production approval.",
+    "Preserve successful images and save corrections as new versions. Do not overwrite originals or historical prompt/result metadata.",
+    "One north-up plan; every camera mark states both physical position and look direction. A viewpoint name is not a wall name.",
+    "Correct only identified panels/geometry. Keep identity, materials, door counts, fixed props, lighting and room scale.",
+    "Empty architecture: no people, cats, dogs, silhouettes or robot actors. No CRT shell around studios or game-world sheets.",
+    "Use clean short location/panel labels. Compose exact news, price, routing and newspaper text separately.",
+    "Current native sheet size is 1672x941, not 4K. Do not call prompt-requested resolution an actual output. No cosmetic upscaling is required for this review.",
+    "A nine-panel sheet is not a substitute for individual clean shooting plates. Separate plate delivery remains a global later requirement, not a reason to rerender every sheet now.",
+    "Keep all locations complete and reviewed before scene generation, per user production order."
+  ],
+  "layout_decisions_for_prompt_pack": [
+    "Lounge: north CRT, west banner, east window, couch faces north; rear emblem only on outside south-facing couch back.",
+    "Market: north lantern stalls, south shops/loading and fixed south-row billboard; LOC20 uses the NORTHEAST building with street SOUTH below its parapet, matching the latest exported prompt pack.",
+    "Restaurant: south public entrance, east dining windows, north service exit; corridor has a real L bend and a solid private-room door matching LOC12.",
+    "Factory: east mezzanine/control room looks west across processing hall; south-west personnel doors; cold-chain operation remains independent from dispatch."
+  ],
+  "entries": [
+    {
+      "location_id": "LOC01",
+      "name": "Resistance warehouse exterior",
+      "existing_file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Location Sheets v01\\LOC01-warehouse-exterior.png",
+      "existing_file_relative": "Location Sheets v01/LOC01-warehouse-exterior.png",
+      "existing_sha256": "e72890a5ceb749681d67d1bf08f1f7f9df3a6d7e724da384c84f112c548148cf",
+      "actual_dimensions": [
+        1672,
+        941
+      ],
+      "scene_numbers": [
+        1,
+        4
+      ],
+      "review_status": "independent_visual_review_complete_not_user_approved",
+      "review_method": "Original-resolution view_image inspection plus supplied canonical references and registry QA; LOC15–20 independently inspected by story_bible sub-agent.",
+      "correction_class": "keep_for_review",
+      "recommended_order": null,
+      "decision": "Usable location design reference. No image correction justified by this audit. Record measured doorway dimensions and camera bearings when deriving separate plates; do not rerender for cosmetics.",
+      "required_fixes": [],
+      "keep_constraints": [
+        "Brick industrial warehouse, south cargo shutter and smaller staff door to its east/right when viewed from south.",
+        "North service wall, east mechanical wall, west window wall, central pink-lit roof clerestory.",
+        "Wet loading apron, drains, utility meters, worn hazard markings and restrained cyan/magenta city light."
+      ],
+      "canonical_references": [
+        "C:\\Users\\DELL\\Desktop\\CyberKitty 2077\\Assets\\Locations\\Resistance Base Warehouse\\Reference Images\\location-sheet-03-resistance-base-warehouse.png",
+        "C:\\Users\\DELL\\Desktop\\CyberKitty 2077\\Assets\\Locations\\Neko-Tokyo District 7\\Reference Images\\a3-street-level-hero-walk.png"
+      ],
+      "existing_registry_qa": [
+        "Generated sheets are review drafts, not production-approved camera or geometry masters."
+      ],
+      "dependencies": [],
+      "prompt_draft": null,
+      "execution_status": "NOT_EXECUTED — user is generating manually; no generation authorized by this queue"
+    },
+    {
+      "location_id": "LOC02",
+      "name": "Resistance warehouse lounge",
+      "existing_file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Location Sheets v01\\LOC02-warehouse-lounge.png",
+      "existing_file_relative": "Location Sheets v01/LOC02-warehouse-lounge.png",
+      "existing_sha256": "6d52924ce78f858390294e0365adbe016d157f966544264bb2bb90a0d6d6ebc1",
+      "actual_dimensions": [
+        1672,
+        941
+      ],
+      "scene_numbers": [
+        1,
+        2,
+        3,
+        24
+      ],
+      "review_status": "independent_visual_review_complete_not_user_approved",
+      "review_method": "Original-resolution view_image inspection plus supplied canonical references and registry QA; LOC15–20 independently inspected by story_bible sub-agent.",
+      "correction_class": "targeted_geometry_or_content",
+      "recommended_order": 1,
+      "decision": "Targeted correction required before lounge coverage. Do not regenerate the successful TV and warehouse design.",
+      "required_fixes": [
+        {
+          "issue_id": "LOC02-COUCH-FRONT",
+          "affected_panels": [
+            "SOUTH / REVERSE WALL",
+            "FIXED PROPS detail"
+          ],
+          "observation": "The rear cat emblem from the canonical couch appears on the front-facing cushion/backrest view and prop detail.",
+          "required_fix": "Keep the worn emblem on the OUTSIDE REAR center panel only. Front/seat-facing cushions are worn tufted brown leather without the rear emblem. Preserve the original patch/tear and blanket identities.",
+          "severity": "blocking_before_affected_scene",
+          "confidence": "high"
+        },
+        {
+          "issue_id": "LOC02-PLAN-FACING",
+          "affected_panels": [
+            "OVERHEAD PLAN"
+          ],
+          "observation": "The top view reads as a couch facing south, away from the north TV; camera B points north instead of showing a reverse toward the couch.",
+          "required_fix": "Couch seat/open side must face NORTH toward the TV; outside couch back is SOUTH. A behind couch faces north; B at TV side faces south. Match the existing east/window side view.",
+          "severity": "blocking_before_affected_scene",
+          "confidence": "high"
+        },
+        {
+          "issue_id": "LOC02-CONTROLLERS",
+          "affected_panels": [
+            "FIXED PROPS detail"
+          ],
+          "observation": "The sheet does not establish the required five-controller inventory.",
+          "required_fix": "Record five consistent controllers as separate prop assets; no need to clutter every empty location angle.",
+          "severity": "minor_prop_inventory",
+          "confidence": "high"
+        }
+      ],
+      "keep_constraints": [
+        "Canonical reference couch-rear-blank-tv.png overrides conflicting generated furniture views.",
+        "Rusty CRT: exactly two knobs vertically on its right, blank screen; dusty CatStation 5 above it.",
+        "TV on north wall, District 7 banner screen-left/west of TV, window screen-right/east, west-side warehouse entry.",
+        "Rear-view seating for later scenes: Neon / Onyx / Trixie / Byte / Ghost, but no characters in the empty sheet.",
+        "Keep five-seat patched brown couch, blanket placement, cans, snack bowl and worn warehouse palette."
+      ],
+      "canonical_references": [
+        "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Imported References\\couch-rear-blank-tv.png",
+        "C:\\Users\\DELL\\Desktop\\CyberKitty 2077\\Assets\\Locations\\Resistance Base Warehouse\\Reference Images\\location-sheet-03-resistance-base-warehouse.png"
+      ],
+      "existing_registry_qa": [
+        "Generated sheets are review drafts, not production-approved camera or geometry masters.",
+        "Couch reverse/front emblem and overhead couch orientation require correction against canonical rear-couch reference."
+      ],
+      "dependencies": [],
+      "prompt_draft": "Targeted correction of existing LOC02 sheet. Use the supplied blank-TV rear-couch reference as authority. Preserve all successful room architecture, TV, banner, windows, props and lighting. Change only the SOUTH reverse/front-couch panel, couch detail in FIXED PROPS, and OVERHEAD PLAN: the cat emblem belongs only to the outside REAR couch back, never the front cushion; front cushions remain plain worn tufted brown leather. In the north-up plan rotate/rebuild couch geometry so the open seats face NORTH toward the CRT and the outside rear faces SOUTH. Camera A is south behind couch looking north; B is near TV looking south. Match all furniture angles to this. Keep CRT blank with exactly two right-side knobs, console above, banner left of TV and window right. Empty environment, no cats, no people. Keep the existing sheet layout and labels. Do not redesign the couch or reverse the room.",
+      "execution_status": "NOT_EXECUTED — user is generating manually; no generation authorized by this queue"
+    },
+    {
+      "location_id": "LOC03",
+      "name": "Hacking operations",
+      "existing_file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Location Sheets v01\\LOC03-hacking-operations.png",
+      "existing_file_relative": "Location Sheets v01/LOC03-hacking-operations.png",
+      "existing_sha256": "ede2de8e2b944563c7884e9f028b5eec1848a16cf08a46bbbc666951e5614d3d",
+      "actual_dimensions": [
+        1672,
+        941
+      ],
+      "scene_numbers": [
+        9,
+        17,
+        19
+      ],
+      "review_status": "independent_visual_review_complete_not_user_approved",
+      "review_method": "Original-resolution view_image inspection plus supplied canonical references and registry QA; LOC15–20 independently inspected by story_bible sub-agent.",
+      "correction_class": "annotation_or_prop_lock",
+      "recommended_order": 7,
+      "decision": "Usable imagery. Correct the plan legend before blocking; a full image rerender is not justified.",
+      "required_fixes": [
+        {
+          "issue_id": "LOC03-BC-LABEL",
+          "affected_panels": [
+            "OVERHEAD PLAN legend"
+          ],
+          "observation": "B is placed west of the table and points east, but its label says East Angle; C is placed east and points west but says West Angle. This can describe view direction rather than camera position, so the issue is ambiguous naming.",
+          "required_fix": "Use explicit position and bearing: B = WEST camera position, looking EAST; C = EAST position, looking WEST. A = SOUTH position looking NORTH. Keep camera positions and images.",
+          "severity": "minor_annotation",
+          "confidence": "high"
+        }
+      ],
+      "keep_constraints": [
+        "Exactly five workstations, five blank monitors and five chairs across north window wall.",
+        "Two end server racks, one central worktable, open south warehouse access, east rack/tool area and west windows.",
+        "Preserve all rendered architecture and the successful no-character design."
+      ],
+      "canonical_references": [
+        "C:\\Users\\DELL\\Desktop\\CyberKitty 2077\\Assets\\Locations\\Resistance Base Warehouse\\Reference Images\\location-sheet-03-resistance-base-warehouse.png"
+      ],
+      "existing_registry_qa": [
+        "Generated sheets are review drafts, not production-approved camera or geometry masters.",
+        "Floor-plan camera B/C east/west descriptions require correction."
+      ],
+      "dependencies": [],
+      "prompt_draft": "Annotation-only correction to LOC03. Keep every rendered room panel unchanged. In the plan legend replace ambiguous labels with: A — SOUTH POSITION / LOOK NORTH; B — WEST POSITION / LOOK EAST; C — EAST POSITION / LOOK WEST. Match arrows to the existing positions. Do not swap or redesign furniture, monitors or walls.",
+      "execution_status": "NOT_EXECUTED — user is generating manually; no generation authorized by this queue"
+    },
+    {
+      "location_id": "LOC08",
+      "name": "District 7 market",
+      "existing_file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Location Sheets v01\\LOC08-district7-market.png",
+      "existing_file_relative": "Location Sheets v01/LOC08-district7-market.png",
+      "existing_sha256": "650068409a6a8bfb1bb2d4239b71cc9329dbc79c5417ae1129bc563fd3b555f5",
+      "actual_dimensions": [
+        1672,
+        941
+      ],
+      "scene_numbers": [
+        6,
+        18,
+        23
+      ],
+      "review_status": "independent_visual_review_complete_not_user_approved",
+      "review_method": "Original-resolution view_image inspection plus supplied canonical references and registry QA; LOC15–20 independently inspected by story_bible sub-agent.",
+      "correction_class": "annotation_or_prop_lock",
+      "recommended_order": 8,
+      "decision": "Usable for location review. Plan and billboard placement need resolution before Scene 06/23 plates. Joint plan is prerequisite for LOC20 background correction.",
+      "required_fixes": [
+        {
+          "issue_id": "LOC08-AB",
+          "affected_panels": [
+            "PLAN"
+          ],
+          "observation": "Hero looks east along northern lantern stalls, but plan A is on the east end looking west; reverse looks west toward blossom plaza but B is shown west looking east.",
+          "required_fix": "A should be west end looking east; B should be east end looking west. Keep north up and the plaza west of the market lane.",
+          "severity": "minor_annotation",
+          "confidence": "high"
+        },
+        {
+          "issue_id": "LOC08-BILLBOARD",
+          "affected_panels": [
+            "HERO / PLAN / future Scene 06 plate"
+          ],
+          "observation": "No clearly anchored public billboard/evidence display is established despite Scene 06 projecting pricing data onto it.",
+          "required_fix": "Latest prompt pack locks one blank public billboard above the middle of the SOUTH shop row, facing north into the market. Repeat it in hero/plan/reverse as visible; its content is a separate price-chart overlay.",
+          "severity": "required_prop_lock_before_scene06",
+          "confidence": "high"
+        },
+        {
+          "issue_id": "LOC08-RETURN-STATE",
+          "affected_panels": [
+            "Scene 23 derivatives"
+          ],
+          "observation": "Current set is a closed-stall shortage state; scene 23 needs delivery and renewed activity.",
+          "required_fix": "Keep this base sheet. Create reversible open-stall/delivery dressing for the scene, with one approved truck stopping position and access lane shared with LOC20.",
+          "severity": "minor_state_variant",
+          "confidence": "high"
+        }
+      ],
+      "keep_constraints": [
+        "Continuous fish-stall row on NORTH side with warm red lanterns and cat sign.",
+        "Opposing SOUTH frontage with D7 loading shutter; cherry-blossom round plaza at WEST end.",
+        "Wet east-west lane, narrow neon district scale and existing stair/roof geometry."
+      ],
+      "canonical_references": [
+        "C:/Users/DELL/Desktop/CyberKitty 2077/Assets/Locations/Neko-Tokyo District 7/Reference Images/b1-neko-market-night.png",
+        "C:/Users/DELL/Desktop/CyberKitty 2077/Assets/Locations/Neko-Tokyo District 7/Reference Images/a3-street-level-hero-walk.png"
+      ],
+      "existing_registry_qa": [
+        "Generated sheets are review drafts, not production-approved camera or geometry masters.",
+        "Clear empty market, warm lantern stalls, shuttered shops, plaza connection, overhead plan and materials.",
+        "Camera A/B in generated site plan are not a reliable match to hero/reverse orientation; use images as visual references and redraw authoritative camera marks before blocking."
+      ],
+      "dependencies": [],
+      "prompt_draft": "Keep existing LOC08 materials and east-west market geography. Correct camera annotations with explicit positions and look directions. Add the fixed blank public billboard ABOVE THE MIDDLE OF THE SOUTH SHOP ROW, facing NORTH into the street, as specified by the latest prompt pack. North row remains warm lantern fish stalls, south row shuttered shops/loading, west mouth leads toward the existing rally plaza, east end frames neon towers. Preserve the compact external stair on the NORTHEAST building; that building supports LOC20. No vehicles, food stock, characters or chart text in this base sheet.",
+      "execution_status": "NOT_EXECUTED — user is generating manually; no generation authorized by this queue"
+    },
+    {
+      "location_id": "LOC09",
+      "name": "District 7 rally stage and plaza",
+      "existing_file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Location Sheets v01\\LOC09-rally-stage-plaza.png",
+      "existing_file_relative": "Location Sheets v01/LOC09-rally-stage-plaza.png",
+      "existing_sha256": "0329bbe2e536fa60ac12331bed2cea5ce6d3870e3315608d716d4c61ada967bc",
+      "actual_dimensions": [
+        1672,
+        941
+      ],
+      "scene_numbers": [
+        7
+      ],
+      "review_status": "independent_visual_review_complete_not_user_approved",
+      "review_method": "Original-resolution view_image inspection plus supplied canonical references and registry QA; LOC15–20 independently inspected by story_bible sub-agent.",
+      "correction_class": "annotation_or_prop_lock",
+      "recommended_order": 9,
+      "decision": "Usable stage sheet. Fix camera marks rather than rerendering the stage.",
+      "required_fixes": [
+        {
+          "issue_id": "LOC09-ROOF-B",
+          "affected_panels": [
+            "PLAN",
+            "ROOFTOP OVERLOOK"
+          ],
+          "observation": "B is on north roof looking south, whereas the rendered elevated shot faces the front of the north-wall stage from the opposite/southeast side.",
+          "required_fix": "Keep the useful elevated image. Move B to a southeast/opposite-roof position with a northwest bearing that reproduces it; distinguish A ground hero and C stage-front camera.",
+          "severity": "minor_annotation",
+          "confidence": "high"
+        }
+      ],
+      "keep_constraints": [
+        "North-wall low pallet stage, two PA speakers and one central microphone.",
+        "Blossom steps west/left; lantern market east/right; south D7 loading facade.",
+        "Preserve clear crowd floor, blank projection wall and all existing stage geography."
+      ],
+      "canonical_references": [
+        "E:/MovedFromC/Documents/Codex/2026-11-06/https-chatgpt-com-share-6aedf171-aae8-2/outputs/Location Sheets v01/LOC08-district7-market.png",
+        "C:/Users/DELL/Desktop/CyberKitty 2077/Assets/Locations/Neko-Tokyo District 7/Reference Images/a3-street-level-hero-walk.png"
+      ],
+      "existing_registry_qa": [
+        "Generated sheets are review drafts, not production-approved camera or geometry masters.",
+        "Empty pallet stage, two speakers, center microphone, cherry-blossom steps, adjoining market and rooftop overlook included.",
+        "Rooftop image is a useful elevated reverse angle but its shown viewpoint is not exactly the north-roof B position indicated in the plan; fix blocking marks before scene generation."
+      ],
+      "dependencies": [
+        "LOC08 market site plan"
+      ],
+      "prompt_draft": "Annotation-only LOC09 update: retain all stage and plaza images. Redraw plan B as the southeast/opposite rooftop camera looking northwest at the front of the north-wall stage, matching ROOFTOP OVERLOOK. A stays on south plaza looking north; C is a distinct stage-front position. Keep LOC08 market connection, west blossom steps, two speakers and center microphone. No people and no changed architecture.",
+      "execution_status": "NOT_EXECUTED — user is generating manually; no generation authorized by this queue"
+    },
+    {
+      "location_id": "LOC10",
+      "name": "Steak & Bone exterior and security",
+      "existing_file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Location Sheets v01\\LOC10-steak-bone-exterior-security.png",
+      "existing_file_relative": "Location Sheets v01/LOC10-steak-bone-exterior-security.png",
+      "existing_sha256": "424c3d201e6e7dbe7bc2b3e997d8bfbf14d9bb438ea13fa7aee753b1c318abc5",
+      "actual_dimensions": [
+        1672,
+        941
+      ],
+      "scene_numbers": [
+        11,
+        12,
+        16
+      ],
+      "review_status": "independent_visual_review_complete_not_user_approved",
+      "review_method": "Original-resolution view_image inspection plus supplied canonical references and registry QA; LOC15–20 independently inspected by story_bible sub-agent.",
+      "correction_class": "annotation_or_prop_lock",
+      "recommended_order": 10,
+      "decision": "Usable exterior design. Needs explicit surveillance viewpoint and connecting-door annotation before sequence blocking.",
+      "required_fixes": [
+        {
+          "issue_id": "LOC10-ROOF-SIGHTLINE",
+          "affected_panels": [
+            "PLAN",
+            "REVERSE WIDE"
+          ],
+          "observation": "Plan places B on the restaurant roof interior, but the rendered reverse sees its full south facade from a viewpoint across/above the arrival lane.",
+          "required_fix": "Either label the existing shot as an opposite-roof surveillance angle and move B outside the south/east frontage, or later produce a true on-building roof view. Prefer preserving the existing useful image and correcting plan meaning.",
+          "severity": "minor_annotation",
+          "confidence": "high"
+        },
+        {
+          "issue_id": "LOC10-INTERIOR-LINK",
+          "affected_panels": [
+            "NORTH rear service entry",
+            "LOC11 connection"
+          ],
+          "observation": "Exterior is a proposed expansion; the exact rear-door-to-corridor link has not been fixed across sets.",
+          "required_fix": "Mark a single service door link to LOC11 and keep its hinge, opening width and route consistent in escape plates.",
+          "severity": "required_connection_lock_before_escape",
+          "confidence": "high"
+        }
+      ],
+      "keep_constraints": [
+        "South main entrance/security scanners/kiosk, east tall dining windows and side alley.",
+        "North rear service exit and loading nook; west maintenance stair; black/gold stone and burgundy canopy.",
+        "Warm chandelier interior, wet street, empty arrival lane; no guards or limousine baked into plate."
+      ],
+      "canonical_references": [
+        "E:/MovedFromC/Documents/Codex/2026-11-06/https-chatgpt-com-share-6aedf171-aae8-2/outputs/Location Sheets v01/LOC12-steak-bone-private-dining.png",
+        "E:/MovedFromC/Documents/Codex/2026-11-06/https-chatgpt-com-share-6aedf171-aae8-2/outputs/Imported References/steak-and-bone-meeting.png"
+      ],
+      "existing_registry_qa": [
+        "Generated sheets are review drafts, not production-approved camera or geometry masters.",
+        "Empty luxury restaurant facade, security kiosk/scanners, rear service loading exit, side windows, maintenance stair and rooftop included.",
+        "Exterior is a proposed expansion from the approved interior, not a recovered original location. Camera plan is conceptual rather than measured architectural geometry."
+      ],
+      "dependencies": [],
+      "prompt_draft": "Retain LOC10 exterior images. Correct PLAN B to the opposite elevated surveillance viewpoint that actually sees the south facade in REVERSE WIDE; do not claim it is a camera inside the restaurant roof footprint. Lock north rear service-door connection to LOC11 in the plan. Preserve south entrance, east dining windows, north loading exit, west maintenance stair, security kiosk, scanner posts and materials. No full design rerender.",
+      "execution_status": "NOT_EXECUTED — user is generating manually; no generation authorized by this queue"
+    },
+    {
+      "location_id": "LOC11",
+      "name": "Steak & Bone service corridors",
+      "existing_file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Location Sheets v01\\LOC11-steak-bone-service-corridors.png",
+      "existing_file_relative": "Location Sheets v01/LOC11-steak-bone-service-corridors.png",
+      "existing_sha256": "a2f7ff575683467ef35a5614764cf2de48be6816fa7ab42ee405b984c1a042f4",
+      "actual_dimensions": [
+        1672,
+        941
+      ],
+      "scene_numbers": [
+        13,
+        16
+      ],
+      "review_status": "independent_visual_review_complete_not_user_approved",
+      "review_method": "Original-resolution view_image inspection plus supplied canonical references and registry QA; LOC15–20 independently inspected by story_bible sub-agent.",
+      "correction_class": "targeted_geometry_or_content",
+      "recommended_order": 4,
+      "decision": "Targeted repair required before infiltration/escape camera continuity. Keep the design; reconcile the path and doorway.",
+      "required_fixes": [
+        {
+          "issue_id": "LOC11-L-BEND",
+          "affected_panels": [
+            "HERO WIDE",
+            "EAST / private-door view",
+            "REVERSE WIDE",
+            "PLAN"
+          ],
+          "observation": "Plan is an L: west-east leg turns north at its east end, but hero/reverse read as a continuous straight corridor with the private-room door directly ahead.",
+          "required_fix": "Use one L-shaped route in all images. West-origin hero looks east to a corner turning left/north; it must not see a private-room door straight through the corner. North-origin reverse looks south to the corner turning right/west. Show one turn coverage panel and label the private-door view by its true wall direction.",
+          "severity": "blocking_before_affected_scene",
+          "confidence": "high"
+        },
+        {
+          "issue_id": "LOC11-PRIVATE-DOOR",
+          "affected_panels": [
+            "EAST private-door detail",
+            "LOC12 SOUTH"
+          ],
+          "observation": "Corridor has a burgundy private-room door with a tall frosted strip, while LOC12 shows a solid service door.",
+          "required_fix": "Use one solid dark/burgundy service door with the same gold handle/frame as LOC12; remove the invented frosted strip. Lock its connection to LOC12’s southwest south-wall entry.",
+          "severity": "blocking_before_affected_scene",
+          "confidence": "high"
+        },
+        {
+          "issue_id": "LOC11-HATCH",
+          "affected_panels": [
+            "NORTH elevation",
+            "PLAN"
+          ],
+          "observation": "North elevation shows kitchen hatch by a steel door, while plan places a wide recess/hatch on the south side.",
+          "required_fix": "Fix one north-wall kitchen-door/hatch position and one south-wall trolley alcove; label both in plan and repeat them in all corresponding views.",
+          "severity": "blocking_before_affected_scene",
+          "confidence": "high"
+        }
+      ],
+      "keep_constraints": [
+        "Keep black/gold marble lower wall, warm industrial ceiling lamps, exposed copper/utility pipes and dark stone floor.",
+        "West service exit with push bar, kitchen service hatch, south trolley alcove, CCTV and alarm remain.",
+        "Private dining connection must match LOC12; exterior exit must map to LOC10.",
+        "Empty route with room for later characters and robot movement; no actual robot or cast on architecture sheet."
+      ],
+      "canonical_references": [
+        "E:/MovedFromC/Documents/Codex/2026-11-06/https-chatgpt-com-share-6aedf171-aae8-2/outputs/Location Sheets v01/LOC12-steak-bone-private-dining.png",
+        "E:/MovedFromC/Documents/Codex/2026-11-06/https-chatgpt-com-share-6aedf171-aae8-2/outputs/Imported References/steak-and-bone-meeting.png"
+      ],
+      "existing_registry_qa": [
+        "Generated sheets are review drafts, not production-approved camera or geometry masters.",
+        "Empty utility corridor, kitchen hatch, trolley alcove, rear exit, security camera/alarm and floor/ceiling details included.",
+        "L-shaped plan is explicit but hero/reverse visuals partly read as a straight corridor; use one approved camera path and reconcile the bend before action/escape clips. Private-room service-door frosted strip is a proposed detail and must match LOC12 in later renders."
+      ],
+      "dependencies": [
+        "LOC12 service-door construction and south-wall position",
+        "LOC10 rear service-door connection"
+      ],
+      "prompt_draft": "Targeted geometry repair of LOC11, preserving materials, lighting and props. Make its existing L-shaped PLAN authoritative: horizontal west-to-east service leg turns NORTH at the east end. Hero A at west looks east and sees the corner turning LEFT, not a private-room door directly ahead. Reverse B at north looks south and sees the same corner turning RIGHT toward west. Include a clear bend/turn view. Put kitchen steel door and hatch on NORTH wall of the west-east leg, trolley alcove on SOUTH, and push-bar service exit at WEST end. The private-room door at the north end is SOLID dark burgundy/brown with gold handle/frame matching LOC12, with no frosted strip. Its connection leads to LOC12 southwest south-wall entry. Repeat these fixed positions in plan and wall views. Keep CCTV, red alarm, pipes, black/gold lower wall and clear route. No characters or robot; do not straighten the L.",
+      "execution_status": "NOT_EXECUTED — user is generating manually; no generation authorized by this queue"
+    },
+    {
+      "location_id": "LOC12",
+      "name": "Steak & Bone private dining room",
+      "existing_file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Location Sheets v01\\LOC12-steak-bone-private-dining.png",
+      "existing_file_relative": "Location Sheets v01/LOC12-steak-bone-private-dining.png",
+      "existing_sha256": "5faa61156290a788359006dbeae9d5ab72e6f7e6d5ac36c95c44215b34ccfaf6",
+      "actual_dimensions": [
+        1672,
+        941
+      ],
+      "scene_numbers": [
+        14,
+        15
+      ],
+      "review_status": "independent_visual_review_complete_not_user_approved",
+      "review_method": "Original-resolution view_image inspection plus supplied canonical references and registry QA; LOC15–20 independently inspected by story_bible sub-agent.",
+      "correction_class": "conditional_panel_fix",
+      "recommended_order": 11,
+      "decision": "Primary meeting composition is usable. Limited doorway correction is conditional on using south/reverse coverage; not a reason to rerender all luxury interiors.",
+      "required_fixes": [
+        {
+          "issue_id": "LOC12-SOUTH-DOOR",
+          "affected_panels": [
+            "SOUTH elevation",
+            "REVERSE WIDE perspective",
+            "PLAN"
+          ],
+          "observation": "Prompt and north-up plan place the service door near the southwest corner, but the straight SOUTH-facing elevation puts it on viewer-left, which corresponds to east.",
+          "required_fix": "Keep the specified southwest position. In the straight view looking south, door must be viewer-right/west. Check its perspective in reverse and keep LOC11 connection consistent. Correct only affected doorway panels or annotate as unreliable until used.",
+          "severity": "conditional_before_south_or_doorway_plate",
+          "confidence": "high"
+        }
+      ],
+      "keep_constraints": [
+        "Original restaurant reference controls black/gold marble, one gold crystal chandelier, burgundy tufted opposing seats and crystal tumblers.",
+        "NORTH Steak & Bone sign; EAST tall windows on hero screen-right; WEST sideboard.",
+        "Centered east-west table; solid SOUTH service door near west corner; no food, cash bag or characters in empty sheet."
+      ],
+      "canonical_references": [
+        "E:/MovedFromC/Documents/Codex/2026-11-06/https-chatgpt-com-share-6aedf171-aae8-2/outputs/Imported References/steak-and-bone-meeting.png"
+      ],
+      "existing_registry_qa": [
+        "Generated sheets are review drafts, not production-approved camera or geometry masters.",
+        "Empty room closely matches source luxury: black/gold marble, crystal chandelier, burgundy seating, Steak & Bone sign, right-hand windows, service door and sideboard.",
+        "Room is a reference expansion with approximate plan; verify precise door projection against chosen master shot before reverse-angle scene rendering."
+      ],
+      "dependencies": [],
+      "prompt_draft": "If producing a SOUTH-wall or doorway plate from LOC12, correct the service door to the southwest corner shown in its plan and original prompt. A camera looking SOUTH sees west on viewer-RIGHT: place the door there, not left. Match the door construction to LOC11, keeping it solid dark with gold handle. Preserve the successful north sign, east windows, west sideboard, central table, two opposing burgundy seats and one chandelier. No full restaurant redesign.",
+      "execution_status": "NOT_EXECUTED — user is generating manually; no generation authorized by this queue"
+    },
+    {
+      "location_id": "LOC13",
+      "name": "WOOF7 news studio",
+      "existing_file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Location Sheets v01\\LOC13-woof7-news-studio.png",
+      "existing_file_relative": "Location Sheets v01/LOC13-woof7-news-studio.png",
+      "existing_sha256": "9644c52bc2c55e4eab57ead8eeb6562882725ca9b75a7ff49f0bf87dac58769c",
+      "actual_dimensions": [
+        1672,
+        941
+      ],
+      "scene_numbers": [
+        2,
+        3
+      ],
+      "review_status": "independent_visual_review_complete_not_user_approved",
+      "review_method": "Original-resolution view_image inspection plus supplied canonical references and registry QA; LOC15–20 independently inspected by story_bible sub-agent.",
+      "correction_class": "annotation_or_prop_lock",
+      "recommended_order": 12,
+      "decision": "Usable studio imagery. Correct labels, not the entire room.",
+      "required_fixes": [
+        {
+          "issue_id": "LOC13-DUPLICATE-B",
+          "affected_panels": [
+            "PLAN",
+            "SOUTH floor camera marks"
+          ],
+          "observation": "The plan duplicates B for both floor cameras and rear position; the north panel omits desk because it is a backdrop-only view.",
+          "required_fix": "Use unique camera IDs/positions, such as A south hero, B north behind desk reverse, C/D physical floor cameras. Label NORTH explicitly BACKDROP ELEVATION — DESK OMITTED FOR CLARITY.",
+          "severity": "minor_annotation",
+          "confidence": "high"
+        }
+      ],
+      "keep_constraints": [
+        "Corporate WOOF7 blue/red/gold studio, dog paw branding, curved desk, north world-map display.",
+        "East control booth, west newsroom door, south camera lane, lighting grid and clear no-presenter stage.",
+        "No CRT shell; exact news text and footage remain separate overlays."
+      ],
+      "canonical_references": [
+        "E:/MovedFromC/Documents/Codex/2026-11-06/https-chatgpt-com-share-6aedf171-aae8-2/outputs/Imported References/interrupting-broadcast.png"
+      ],
+      "existing_registry_qa": [
+        "Generated sheets are review drafts, not production-approved camera or geometry masters.",
+        "Full empty physical WOOF7 studio, blue world-map backdrop, red/gold trim, canine paw mark, desk, cameras, control booth and lighting grid. CRT and presenter removed.",
+        "Camera-letter marks duplicate B in generated plan. Correct A/B map before shot blocking; north panel is a backdrop elevation without foreground desk, not a desk continuity variant."
+      ],
+      "dependencies": [],
+      "prompt_draft": "Annotation-only correction to LOC13: retain all architecture and studio images. Give each plan camera a unique ID with explicit position/bearing: A south hero looking north, B north behind desk looking south, C/D physical studio camera positions. Remove duplicate B marks. Label NORTH as a backdrop elevation with foreground desk intentionally omitted. Preserve WOOF7 branding, blue/red/gold palette, east control booth and west newsroom door.",
+      "execution_status": "NOT_EXECUTED — user is generating manually; no generation authorized by this queue"
+    },
+    {
+      "location_id": "LOC14",
+      "name": "NIP7 investigative newsroom",
+      "existing_file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Location Sheets v01\\LOC14-nip7-news-studio.png",
+      "existing_file_relative": "Location Sheets v01/LOC14-nip7-news-studio.png",
+      "existing_sha256": "bebe90aed36fcbb1a40a52d8b20c703e0cbd01763f47ec89c7c4bd5ebbb8dce2",
+      "actual_dimensions": [
+        1672,
+        941
+      ],
+      "scene_numbers": [
+        17,
+        23
+      ],
+      "review_status": "independent_visual_review_complete_not_user_approved",
+      "review_method": "Original-resolution view_image inspection plus supplied canonical references and registry QA; LOC15–20 independently inspected by story_bible sub-agent.",
+      "correction_class": "annotation_or_prop_lock",
+      "recommended_order": 13,
+      "decision": "Usable newsroom reference; camera-plan annotation is sufficient.",
+      "required_fixes": [
+        {
+          "issue_id": "LOC14-AB",
+          "affected_panels": [
+            "PLAN"
+          ],
+          "observation": "A is near the desk pointing south while B is southeast pointing northwest; these do not match hero/reverse labeling.",
+          "required_fix": "Set A at southwest/south side looking north-northeast toward desk and backdrop; set B north behind desk looking south toward camera wall, matching reverse. Keep physical tripod distinct from editorial camera markers.",
+          "severity": "minor_annotation",
+          "confidence": "high"
+        }
+      ],
+      "keep_constraints": [
+        "Modest independent NIP7 brick studio, cyan desk edge, red practical lights and cat branding.",
+        "North display/desk, east control-room window and noticeboard, west two editing stations, south exit/camera wall.",
+        "No host and no CRT shell; evidence screen graphics composited separately."
+      ],
+      "canonical_references": [
+        "E:/MovedFromC/Documents/Codex/2026-11-06/https-chatgpt-com-share-6aedf171-aae8-2/outputs/Imported References/nip7-investigation.png"
+      ],
+      "existing_registry_qa": [
+        "Generated sheets are review drafts, not production-approved camera or geometry masters.",
+        "Full empty modest NIP7 studio, cat icon branding, repaired desk, two editing stations, control booth, paper board, tripod and ceiling/floor details. No CRT or host.",
+        "Generated A/B plan markers do not match requested hero/reverse definitions. Use rendered hero/reverse as references and replace marker positions in production plan."
+      ],
+      "dependencies": [],
+      "prompt_draft": "Keep LOC14 rendered room. Correct only plan A/B position and bearing to match hero and reverse: A south/southwest looking north-northeast at desk and NIP7 backdrop; B behind desk at north looking south toward tripod and exit. Keep the physical camera symbol distinct. Preserve north desk, east control booth, west editing stations, south exit and all material/lighting choices.",
+      "execution_status": "NOT_EXECUTED — user is generating manually; no generation authorized by this queue"
+    },
+    {
+      "location_id": "LOC15",
+      "name": "Salmon facility exterior and loading",
+      "existing_file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Location Sheets v01\\LOC15-salmon-facility-exterior-loading.png",
+      "existing_file_relative": "Location Sheets v01/LOC15-salmon-facility-exterior-loading.png",
+      "existing_sha256": "75ed374c490e5c9936c20c0ee2b28981b1e295e3946f14555aee58ef1e524ee8",
+      "actual_dimensions": [
+        1672,
+        941
+      ],
+      "scene_numbers": [
+        20,
+        22
+      ],
+      "review_status": "independent_visual_review_complete_not_user_approved",
+      "review_method": "Original-resolution view_image inspection plus supplied canonical references and registry QA; LOC15–20 independently inspected by story_bible sub-agent.",
+      "correction_class": "targeted_geometry_or_content",
+      "recommended_order": 5,
+      "decision": "Security-route continuity fix required before gate/entry shots; no full factory exterior redesign.",
+      "required_fixes": [
+        {
+          "issue_id": "LOC15-BOOTH-SIDE",
+          "affected_panels": [
+            "SOUTH view",
+            "REVERSE WIDE",
+            "PLAN"
+          ],
+          "observation": "North-up plan fixes guard booth east of the south gate, but south-facing views put it viewer-right, implying west.",
+          "required_fix": "Keep authoritative booth east of south gate. In views looking SOUTH, place it viewer-left/east. Correct only affected security-route panels and preserve gate/booth connection.",
+          "severity": "blocking_before_affected_scene",
+          "confidence": "high"
+        },
+        {
+          "issue_id": "LOC15-LANES",
+          "affected_panels": [
+            "PLAN",
+            "ground lane arrows"
+          ],
+          "observation": "Ground arrows and camera bearings are not consistently specified.",
+          "required_fix": "Redraw inbound/outbound route arrows and camera bearings after booth side is locked.",
+          "severity": "minor_annotation",
+          "confidence": "high"
+        }
+      ],
+      "keep_constraints": [
+        "Four dock bays; trucks at bays 1/2; fish sign over 1/2; dispatch glazing over 3/4.",
+        "Cyan cold-utility compound east, guarded south gate, personnel access and industrial site envelope.",
+        "No change to refrigerated truck paths, cold-chain assets or security design."
+      ],
+      "canonical_references": [
+        "C:/Users/DELL/Desktop/CyberKitty 2077/Assets/Locations/The Salmon Factory/Reference Images/location-sheet-the-salmon-factory.png",
+        "C:/Users/DELL/Desktop/CyberKitty 2077/Assets/Locations/Neko-Tokyo District 7/Reference Images/b4-salmon-factory-exterior.png"
+      ],
+      "existing_registry_qa": [
+        "Generated sheets are review drafts, not production-approved camera or geometry masters.",
+        "Architectural design draft; hero dock layout, utility area, gate/booth and floorplan broadly agree. Check all ground-lane arrows against camera-specific continuity before final shot plates."
+      ],
+      "dependencies": [],
+      "prompt_draft": "Targeted panel correction for LOC15. Preserve the four docks, trucks at 1/2, fish sign over 1/2, dispatch glazing over 3/4 and eastern cyan utility enclosure. Keep the guard booth EAST of the SOUTH vehicle gate as shown in the north-up plan. Therefore cameras looking SOUTH must see the booth on viewer-LEFT; repair SOUTH and REVERSE WIDE without moving the entire gate or redesigning the facility. Redraw lane arrows and A/B bearings consistently. Keep refrigeration active and all spaces empty of characters.",
+      "execution_status": "NOT_EXECUTED — user is generating manually; no generation authorized by this queue"
+    },
+    {
+      "location_id": "LOC16",
+      "name": "Salmon cold store and processing hall",
+      "existing_file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Location Sheets v01\\LOC16-salmon-cold-store-processing.png",
+      "existing_file_relative": "Location Sheets v01/LOC16-salmon-cold-store-processing.png",
+      "existing_sha256": "bfd65bf0279f17b87d43045527544f500e8e0a5d2bfff5da2c85706bfdeaaaad",
+      "actual_dimensions": [
+        1672,
+        941
+      ],
+      "scene_numbers": [
+        21
+      ],
+      "review_status": "independent_visual_review_complete_not_user_approved",
+      "review_method": "Original-resolution view_image inspection plus supplied canonical references and registry QA; LOC15–20 independently inspected by story_bible sub-agent.",
+      "correction_class": "targeted_geometry_or_content",
+      "recommended_order": 2,
+      "decision": "Highest story-content correction: stockpile reveal cannot use the current closed-door sheet as its final reference.",
+      "required_fixes": [
+        {
+          "issue_id": "LOC16-STOCKPILE",
+          "affected_panels": [
+            "HERO",
+            "NORTH / COLD A-B",
+            "PLAN"
+          ],
+          "observation": "COLD A/B shutters are closed, hiding the stocked refrigerated aisles needed to establish Scene 21’s diverted salmon.",
+          "required_fix": "Open the insulated doors for reveal coverage and show deep refrigerated aisles of sealed salmon cartons. Plan must include real stock-room depth, not flat pasted openings. Keep a separately named closed-door state if needed.",
+          "severity": "blocking_before_affected_scene",
+          "confidence": "high"
+        },
+        {
+          "issue_id": "LOC16-SOUTH-DOOR",
+          "affected_panels": [
+            "SOUTH",
+            "REVERSE WIDE",
+            "PLAN"
+          ],
+          "observation": "Personnel door appears viewer-left while facing south, contrary to southwest door in plan.",
+          "required_fix": "Keep the southwest door and put it viewer-right/west in south-facing views; match reverse orientation.",
+          "severity": "blocking_before_affected_scene",
+          "confidence": "high"
+        },
+        {
+          "issue_id": "LOC16-HEADER",
+          "affected_panels": [
+            "top-right header"
+          ],
+          "observation": "A fragment of prompt instruction appears in the sheet heading.",
+          "required_fix": "Remove instruction fragment and leave only short location title/panel labels.",
+          "severity": "minor_text_cleanup",
+          "confidence": "high"
+        }
+      ],
+      "keep_constraints": [
+        "Existing conveyors, parked industrial arms, east mezzanine stair and control-room connection.",
+        "Cold A/B room locations, insulated cartons and industrial palette; keep the floor route walkable.",
+        "Blue cooling pipes and refrigeration remain powered independently of dispatch.",
+        "Keep empty stage and no implied refrigeration shutdown or magically redistributed stock."
+      ],
+      "canonical_references": [
+        "C:/Users/DELL/Desktop/CyberKitty 2077/Assets/Locations/The Salmon Factory/Reference Images/location-sheet-the-salmon-factory.png"
+      ],
+      "existing_registry_qa": [
+        "Generated sheets are review drafts, not production-approved camera or geometry masters.",
+        "COLD A/B shutters rendered CLOSED instead of the requested open views into stocked refrigerated aisles. Needs targeted revision revealing the stockpile for scene21.",
+        "Top-right header accidentally contains part of prompt text; remove this in the next render.",
+        "Floorplan indicates southwest personnel door but south elevation puts it on the viewer-left (east) side of shutter; fix camera direction/door side against approved plan."
+      ],
+      "dependencies": [
+        "LOC17 entry/window correspondence"
+      ],
+      "prompt_draft": "Targeted LOC16 repair. Preserve the factory shell, conveyors, machinery, east stair/mezzanine and materials. OPEN COLD A and COLD B insulated doors in hero/north reveal views and show genuine deep refrigerated aisles full of sealed salmon cartons. Draw that room depth in the overhead plan; no flat image pasted into doorway. Keep cool blue light and refrigeration operating. South personnel door stays SOUTHWEST: when looking south it must be viewer-RIGHT, not left; fix south and reverse panels accordingly. Remove the leaked instruction sentence in top-right header, retaining only the title. Maintain east mezzanine connection to LOC17 and separate refrigeration from dispatch. Empty architecture sheet, no cast.",
+      "execution_status": "NOT_EXECUTED — user is generating manually; no generation authorized by this queue"
+    },
+    {
+      "location_id": "LOC17",
+      "name": "Salmon routing control room",
+      "existing_file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Location Sheets v01\\LOC17-salmon-routing-control-room.png",
+      "existing_file_relative": "Location Sheets v01/LOC17-salmon-routing-control-room.png",
+      "existing_sha256": "65385304e63106e89b182de3df27b73601855347cdaa96b14eadd9f5d426178c",
+      "actual_dimensions": [
+        1672,
+        941
+      ],
+      "scene_numbers": [
+        21,
+        22
+      ],
+      "review_status": "independent_visual_review_complete_not_user_approved",
+      "review_method": "Original-resolution view_image inspection plus supplied canonical references and registry QA; LOC15–20 independently inspected by story_bible sub-agent.",
+      "correction_class": "targeted_geometry_or_content",
+      "recommended_order": 3,
+      "decision": "More than a label issue: targeted entry/background correction required before windowed heist/control-room shots.",
+      "required_fixes": [
+        {
+          "issue_id": "LOC17-ENTRY",
+          "affected_panels": [
+            "HERO",
+            "SOUTH",
+            "REVERSE",
+            "PLAN"
+          ],
+          "observation": "Southwest entry differs across plan/elevations; hero appears to put the entry in west observation glass while other views change its side.",
+          "required_fix": "Fix a SOUTH-wall entry near southwest corner reached by the east-mezzanine catwalk from LOC16. From inside looking south it is viewer-right/west; keep west glass intact apart from its frame.",
+          "severity": "blocking_before_affected_scene",
+          "confidence": "high"
+        },
+        {
+          "issue_id": "LOC17-VIEW",
+          "affected_panels": [
+            "WEST observation glass",
+            "hero/reverse window backgrounds"
+          ],
+          "observation": "West-facing glass appears to look across at another copy of the elevated control room/stairs instead of the west wash/equipment wall of LOC16.",
+          "required_fix": "Replace the window background with the view from LOC16’s EAST mezzanine looking WEST across processing conveyors to the west wash/equipment wall. Do not duplicate the control room on the opposite side.",
+          "severity": "blocking_before_affected_scene",
+          "confidence": "high"
+        },
+        {
+          "issue_id": "LOC17-TEXT",
+          "affected_panels": [
+            "DISPATCH label",
+            "PLAN bearings"
+          ],
+          "observation": "Small DISPATCH lettering is imperfect and plan bearings need cleanup.",
+          "required_fix": "Use exact separate DISPATCH overlay; keep COLD ON visibly separate. Redraw bearings after entry is fixed.",
+          "severity": "minor_annotation",
+          "confidence": "high"
+        }
+      ],
+      "keep_constraints": [
+        "Two-chair routing desk, server rack wall, west observation glazing and east mezzanine location.",
+        "Independent COLD ON / cooling status; dispatch-stop control cannot turn off cooling.",
+        "Preserve room scale, industrial materials, blank routing screens for exact graphics and catwalk access."
+      ],
+      "canonical_references": [
+        "C:/Users/DELL/Desktop/CyberKitty 2077/Assets/Locations/The Salmon Factory/Reference Images/location-sheet-the-salmon-factory.png"
+      ],
+      "existing_registry_qa": [
+        "Generated sheets are review drafts, not production-approved camera or geometry masters.",
+        "West glass looks into processing hall; cold status is separate from dispatch as required.",
+        "Check southwest entry orientation: floorplan door swing and south elevation glazing need architectural reconciliation before final plates.",
+        "Small DISPATCH wall label is imperfect; use planned text overlay for final inserts."
+      ],
+      "dependencies": [
+        "Corrected LOC16 architecture and mezzanine route"
+      ],
+      "prompt_draft": "Targeted LOC17 geometry and window-background repair, using corrected LOC16 as strict spatial reference. This room sits on the EAST mezzanine. Its WEST glass looks across the processing hall to LOC16 WEST wash/equipment wall, not to a duplicate control room or second matching stair. Put the only entry in the SOUTH wall near SOUTHWEST corner, reached by the east-mezzanine catwalk. Looking south from inside, entry is viewer-RIGHT. Repeat this in hero, south, reverse and plan. Keep two routing chairs, desk, servers and west glazing design. Keep COLD ON refrigeration status independent from DISPATCH controls. Leave detailed screen data blank; exact text is a separate overlay. No room redesign and no characters.",
+      "execution_status": "NOT_EXECUTED — user is generating manually; no generation authorized by this queue"
+    },
+    {
+      "location_id": "LOC18",
+      "name": "Catnip Times pressroom",
+      "existing_file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Location Sheets v01\\LOC18-catnip-times-pressroom.png",
+      "existing_file_relative": "Location Sheets v01/LOC18-catnip-times-pressroom.png",
+      "existing_sha256": "e57f562b9cd36a9793a664f045303173215433c040d356cb32410bd29b3b888e",
+      "actual_dimensions": [
+        1672,
+        941
+      ],
+      "scene_numbers": [
+        17
+      ],
+      "review_status": "independent_visual_review_complete_not_user_approved",
+      "review_method": "Original-resolution view_image inspection plus supplied canonical references and registry QA; LOC15–20 independently inspected by story_bible sub-agent.",
+      "correction_class": "conditional_panel_fix",
+      "recommended_order": 14,
+      "decision": "Existing press and newspaper inserts are usable. Defer cupboard panel repair unless the shot exposes that wall.",
+      "required_fixes": [
+        {
+          "issue_id": "LOC18-CUPBOARD",
+          "affected_panels": [
+            "EAST",
+            "HERO",
+            "PLAN"
+          ],
+          "observation": "Cupboard is at the southern end in rendered east/hero views but northeast in the specified layout/plan.",
+          "required_fix": "If using a wide east-wall view, keep the specified northeast cupboard position and repair only affected panels.",
+          "severity": "conditional_before_east_wall_plate",
+          "confidence": "high"
+        },
+        {
+          "issue_id": "LOC18-TROLLEY",
+          "affected_panels": [
+            "SOUTH",
+            "PLAN"
+          ],
+          "observation": "Portable trolley parking position differs.",
+          "required_fix": "Select and record one parked position per shot; a movable prop difference does not require a whole-sheet rerender.",
+          "severity": "minor_prop_state",
+          "confidence": "high"
+        },
+        {
+          "issue_id": "LOC18-PAPER",
+          "affected_panels": [
+            "newspaper props"
+          ],
+          "observation": "Tiny generated newspaper body lines are texture, not approved article content.",
+          "required_fix": "Composite approved headline/article graphics for close-ups.",
+          "severity": "minor_graphic_overlay",
+          "confidence": "high"
+        }
+      ],
+      "keep_constraints": [
+        "Central rotary press, south feed rolls and north delivery bundles.",
+        "North windows and editorial desk, west pinboards, south double freight door.",
+        "Preserve paper/ink materials, modest industrial pressroom and clean empty environment."
+      ],
+      "canonical_references": [
+        "C:/Users/DELL/Desktop/CyberKitty 2077/Assets/Locations/Neko-Tokyo District 7/Reference Images/a3-street-level-hero-walk.png"
+      ],
+      "existing_registry_qa": [
+        "Generated sheets are review drafts, not production-approved camera or geometry masters.",
+        "Pressroom is a proposed new set. Central press, north windows and masthead, south freight door and west pinboards recur consistently.",
+        "East storage-cupboard opening is not in exactly the same corner across panel/plan; choose northeast position and correct next render.",
+        "Newspaper prop includes tiny line-like body copy; treat it as texture only and composite actual headline/article when required."
+      ],
+      "dependencies": [],
+      "prompt_draft": "Only if a wide east-wall/hero pressroom shot is needed: keep LOC18 central press and all major architecture, but move the east-wall storage cupboard to the NORTHEAST position shown in the plan, consistently across affected panels. Do not alter north windows/editorial desk, west pinboards or south freight doors. Mark a consistent trolley parking spot and leave newspaper faces ready for exact composited graphics. No full rerender for close press/newspaper inserts.",
+      "execution_status": "NOT_EXECUTED — user is generating manually; no generation authorized by this queue"
+    },
+    {
+      "location_id": "LOC19",
+      "name": "Game world: Great Dog National Bank",
+      "existing_file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Location Sheets v01\\LOC19-game-great-dog-national-bank.png",
+      "existing_file_relative": "Location Sheets v01/LOC19-game-great-dog-national-bank.png",
+      "existing_sha256": "191fa2121d0e740f44c40c4ca3deb0410940c8260a9355a67431d87cdaa0c267",
+      "actual_dimensions": [
+        1672,
+        941
+      ],
+      "scene_numbers": [
+        1,
+        24
+      ],
+      "review_status": "independent_visual_review_complete_not_user_approved",
+      "review_method": "Original-resolution view_image inspection plus supplied canonical references and registry QA; LOC15–20 independently inspected by story_bible sub-agent.",
+      "correction_class": "annotation_or_prop_lock",
+      "recommended_order": 15,
+      "decision": "Usable game environment. Camera/stair lock belongs in blocking; no plot-critical image failure.",
+      "required_fixes": [
+        {
+          "issue_id": "LOC19-B",
+          "affected_panels": [
+            "PLAN"
+          ],
+          "observation": "Reverse camera B is drawn at east-middle rather than on the bank entrance/steps looking south.",
+          "required_fix": "Move B to bank steps/entrance with a south bearing that matches REVERSE WIDE.",
+          "severity": "minor_annotation",
+          "confidence": "high"
+        },
+        {
+          "issue_id": "LOC19-STEPS",
+          "affected_panels": [
+            "entrance/steps"
+          ],
+          "observation": "Riser count varies in appearance across views versus the proposed three-step access.",
+          "required_fix": "Lock one measured stair profile before foot-contact action; no need to rerender the architecture sheet for game inserts.",
+          "severity": "conditional_before_close_foot_contact",
+          "confidence": "high"
+        }
+      ],
+      "keep_constraints": [
+        "Game-world Great Dog National Bank wordmark, gold dog crest, stone/gold entrance and plaza.",
+        "Clear east/west street exits and opposite storefront.",
+        "No CRT shell, HUD or characters baked into the location image; those are separate game layers."
+      ],
+      "canonical_references": [
+        "E:/MovedFromC/Documents/Codex/2026-11-06/https-chatgpt-com-share-6aedf171-aae8-2/outputs/Imported References/game-bank-heist-tv.png"
+      ],
+      "existing_registry_qa": [
+        "Generated sheets are review drafts, not production-approved camera or geometry masters.",
+        "Correct GAME WORLD separation and Great Dog National Bank identity; no CRT shell, HUD or cast.",
+        "Reverse camera marker B in plan is near east side instead of stated bank steps; reconcile camera marks to approved shoot plan."
+      ],
+      "dependencies": [],
+      "prompt_draft": "Annotation-only LOC19 correction: move plan camera B to the bank entrance/steps looking SOUTH, matching REVERSE WIDE. Preserve sign, dog medallion, facade, plaza and street exits. Record one stair riser profile before close game-character foot contact. Do not add CRT shell, HUD, animals or game action; no whole-sheet rerender.",
+      "execution_status": "NOT_EXECUTED — user is generating manually; no generation authorized by this queue"
+    },
+    {
+      "location_id": "LOC20",
+      "name": "District 7 market rooftop overlook",
+      "existing_file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Location Sheets v01\\LOC20-district7-rooftop-overlook.png",
+      "existing_file_relative": "Location Sheets v01/LOC20-district7-rooftop-overlook.png",
+      "existing_sha256": "57ffb3455844a5c7f3ab595519ebd1e06ce84151fc63b43629d4ae5a599c6b9f",
+      "actual_dimensions": [
+        1672,
+        941
+      ],
+      "scene_numbers": [
+        23
+      ],
+      "review_status": "independent_visual_review_complete_not_user_approved",
+      "review_method": "Original-resolution view_image inspection plus supplied canonical references and registry QA; LOC15–20 independently inspected by story_bible sub-agent.",
+      "correction_class": "targeted_geometry_or_content",
+      "recommended_order": 6,
+      "decision": "Targeted cross-location repair required. Use the latest exported LOC20 prompt, which supersedes the audit’s earlier optional south-frontage roof suggestion. Match the northeast market building and look south over LOC08; do not generate a second market.",
+      "required_fixes": [
+        {
+          "issue_id": "LOC20-MARKET-CONTINUITY",
+          "affected_panels": [
+            "HERO",
+            "NORTH",
+            "EAST",
+            "PLAN"
+          ],
+          "observation": "Background shows detached stalls around a U-shaped open square, unlike LOC08’s continuous northern red-lantern row, opposite southern D7 loading frontage and western blossom plaza.",
+          "required_fix": "Use the latest prompt-pack joint plan: roof on the NORTHEAST market building, with market street SOUTH of roof. Show north-row lantern fish stalls immediately below south parapet, south-row shops and fixed billboard across the street, and the same western street mouth toward the rally plaza. Remove the invented U-shaped stall square.",
+          "severity": "blocking_before_affected_scene",
+          "confidence": "high"
+        },
+        {
+          "issue_id": "LOC20-SIGHTLINE",
+          "affected_panels": [
+            "PLAN",
+            "HERO"
+          ],
+          "observation": "Rooftop relation to truck delivery point and route has not been established.",
+          "required_fix": "Mark roof location, parapet height, access hut route, camera sightline to delivery stopping point and truck approach. Preserve clear standing area for five cats.",
+          "severity": "required_blocking_lock_before_scene23",
+          "confidence": "high"
+        }
+      ],
+      "keep_constraints": [
+        "Reuse existing wet low-rooftop materials, intimate neighborhood scale and hopeful predawn neon. Do not preserve old background geography where it conflicts with LOC08.",
+        "Latest layout: 14m east-west by 10m north-south roof on northeast market building; northeast stair hut with south-facing only access door; west-half HVAC; low south parapet; east pipe rail/drain; center empty for five future performers.",
+        "No helipad, new plaza, extra street, daylight reset or characters. Existing LOC20 foreground must be adjusted only where required by the new common plan."
+      ],
+      "canonical_references": [
+        "C:/Users/DELL/Desktop/CyberKitty 2077/Assets/Locations/Neko-Tokyo District 7/Reference Images/c2-rooftop-landing-pad.png",
+        "C:/Users/DELL/Desktop/CyberKitty 2077/Assets/Locations/Neko-Tokyo District 7/Reference Images/a3-street-level-hero-walk.png"
+      ],
+      "existing_registry_qa": [
+        "Generated sheets are review drafts, not production-approved camera or geometry masters.",
+        "No characters. Low neighborhood rooftop, market view, access hut, HVAC and neon palette match intended staging.",
+        "Confirm market square below against other LOC market sheet before shot production; this generation was based on supplied city references, not another generated location master."
+      ],
+      "dependencies": [
+        "LOC08 shared site plan and delivery stop",
+        "LOC09 neighborhood alignment"
+      ],
+      "prompt_draft": "Use case: stylized-concept. Create a PROFESSIONAL LOCATION REFERENCE SHEET for a cinematic cyberpunk animated series, Kitty Punk 2077. Wide 16:9 composition, target 3840x2160 if available, maximum native detail. This is a SET DESIGN SHEET, not a storyboard or character scene. EXACTLY nine framed panels in a neat 3x3 grid with thin restrained cyan dividers and black gutters. Large legible short title at top; panel labels short and readable. Panel order row1: HERO WIDE, NORTH, EAST; row2: SOUTH, WEST, FLOOR PLAN; row3: CEILING / FLOOR, PROPS / MATERIALS, REVERSE WIDE. The ceiling/floor panel has two clear subviews; props/materials has small clean studies, no dense writing. The floorplan must describe THE SAME physical set shown in every image: exactly the same entrances, openings, furniture and permanent equipment, north-up, camera positions A and B, no arbitrary extra door/window. All views show one coherent set from different cameras, not nine reimagined versions. Cinematic richly detailed 3D animation environment with believable wear, industrial realism, gritty magenta/cyan nighttime neon, warm practical accents, readable shadows, no blown highlights. Everything empty of people, cats, dogs, robots or occupied vehicles. Props and parked vehicles allowed if specified. NO cast cameos, silhouettes, logos invented from gibberish, article body copy, fake tiny words, watermark, CRT screen frame or gameplay HUD. Simple signs exactly as requested or blank areas ready for overlay. Reference artwork provides environment/material visual continuity; do not reproduce labels or characters from it. Design wall art, floor and overhead structures deliberately.\nTITLE (verbatim): LOC20 · DISTRICT 7 / MARKET OVERLOOK\nSET CONTINUITY SPECIFICATION: A low rooftop on the NORTHEAST building of the SAME east-west market street defined in LOC08 (attached Image3). This is not a second market or a downtown helipad. Image1 supplies only wet rooftop material and skyline style; Image2 supplies district weather/materials; Image3 controls the actual street, stall rows, billboard and stair relationship below. The market street lies SOUTH of this rooftop. Show the north-row warm lantern fish stalls immediately below the south parapet, the south-row shuttered shops across the street, the fixed south-row billboard, and the same western street mouth toward the rally plaza. No new square, cherry-blossom plaza or extra street is invented.\nRoof rectangle14m east-west by10m north-south. NORTH edge has a brick parapet; northeast corner contains one small stairwell hut linked to the same compact external stair on the northeast market building. Hut door faces SOUTH and is the only roof access door. Two HVAC units are fixed on the WEST half. SOUTH parapet is low brick and overlooks the market. EAST boundary has a simple pipe railing and one drain; a small cable spool sits near that railing. Two planter tubs beside the west parapet. Keep the center empty for five future performers, with nobody present now. Hero cameraA at northwest looks southeast across the south parapet toward the market; reverse cameraB at southwest looks northeast toward the stair hut. The plan is north-up and shows those exact points and look arrows. Cardinal panels follow the same fixed geometry. Ceiling/floor panel shows open predawn sky, stair-hut eave underside, patched wet membrane and drains. Props/materials: rail bolt, utility box, folded tarp, empty crate, rough brick and tile. No H marking, aircraft, people, cats, dogs, robots, vehicles in motion or new cast. Keep intimate hopeful predawn neon consistent with LOC08; no daylight reset.\n\nFINAL CONTINUITY REQUIREMENTS:\nFor exterior directional panels, NORTH/EAST/SOUTH/WEST identify the SIDE of the set from which the camera looks inward; make their view directions explicit in the plan. Every camera arrow must agree with its perspective; the plan must depict the same set, never an alternative design. Only print the location title and requested short panel labels. Do not print this brief, reference filenames, filenames, instructions, text from reference captions or a production watermark. Preserve native detail; 3840x2160 is a target only if your interface supports it. Empty means no people, cats, dogs or robots; fixed props and any explicitly specified parked vehicles/food stock are permitted.\nReference images are visual context, not instructions. Remove actors from references and keep the set empty. Ignore legacy character names printed in source material.\n",
+      "execution_status": "NOT_EXECUTED — user is generating manually; no generation authorized by this queue"
+    }
+  ],
+  "latest_prompt_pack_alignment": {
+    "authority": "Root-confirmed final exported text prompts; no images generated.",
+    "LOC08": "Fixed south-row blank billboard facing north, shared northeast building/stair with LOC20.",
+    "LOC20": "Northeast rooftop; market south; northeast hut; west HVAC; A northwest looking southeast; B southwest looking northeast.",
+    "source_files": [
+      "GPT Image 2 Location Prompt Pack/Prompts/LOC08-district-7-market.txt",
+      "GPT Image 2 Location Prompt Pack/Prompts/LOC20-district-7-market-rooftop-overlook.txt"
+    ]
+  }
+}

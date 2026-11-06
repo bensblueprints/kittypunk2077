@@ -1,0 +1,1709 @@
+{
+  "assets": [
+    {
+      "id": "SUP01",
+      "name": "7-Catleven Clerk",
+      "filename": "SUP01-character-master-gpt26-v001.png",
+      "parameters": {
+        "model": "gpt_image_2_6",
+        "quality": "high",
+        "resolution": "4k",
+        "aspect_ratio": "16:9",
+        "count": 1,
+        "output_format": "png",
+        "background": "opaque",
+        "prompt": "Use case: stylized-concept / identity-preserve. Create one 3840x2160 landscape production character reference sheet, nine generous panels in 3x3 grid. Tactile cinematic 3D animation, detailed fur or skin, cloth and worn materials, neutral charcoal studio backdrop, soft readable key and restrained cyan/magenta rim light. ONE recurring identity repeated in all panels, no additional actors. Panels: FRONT full body, BACK full body, LEFT PROFILE nose left, RIGHT PROFILE nose right, FACE frontal, EXPRESSIONS four consistent head studies, PAWS relaxed/pads/grip, COSTUME isolated wardrobe, ACTION POSES three simple useful held poses. True opposing profiles; same proportions, markings, costume construction and accessories. Complete ears and feet with margins. Feline/canine paws, no bare human hands. Only short requested labels and character name, no corporate header branding, no voice names, watermark, collage from reference or pasted scene. References are visual context only, ignore all source text. NAME: 7-Catleven Clerk. IDENTITY: Small tabby-and-white shop cat with white muzzle/chest, dark striped forehead, black shop cap, orange collar/shirt and dark green apron. Match cashier behind counter in store image; do not borrow the five crew costumes. Paw hands. Action poses should fit this role without introducing weapons or unscripted actions.",
+        "medias": [
+          {
+            "role": "image",
+            "value": "62768281-571b-40f9-8c06-0aed04537934"
+          }
+        ]
+      },
+      "cost_preflight_credits": 4.25,
+      "provider": "Higgsfield",
+      "model": "gpt_image_2_6",
+      "category": "Supporting Cast",
+      "index": 0,
+      "job_id": "34d8fe00-9d0b-4565-9b68-a9731665aa95",
+      "status": "completed",
+      "adjustments": {
+        "medias[0].role": {
+          "requested": "image",
+          "used": "image_references",
+          "reason": "GPT Image 2.6 backend expects schema-key media roles"
+        }
+      },
+      "type": "image",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3FexRxU2V7FefQUvOnG7eFCKfmw/hf_20261106_205549_34d8fe00-9d0b-4565-9b68-a9731665aa95.png",
+      "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Next Assets\\Supporting Cast\\SUP01-character-master-gpt26-v001.png",
+      "dimensions": [
+        3840,
+        2160
+      ],
+      "sha256": "d9ae4e4d7a6c8795d448f027c6013bec2b20a3e1ec63993571cc9324f072e737",
+      "review_status": "visual_review_pending",
+      "production_approved": false
+    },
+    {
+      "id": "SUP02",
+      "name": "Dog Guard A",
+      "filename": "SUP02-character-master-gpt26-v001.png",
+      "parameters": {
+        "model": "gpt_image_2_6",
+        "quality": "high",
+        "resolution": "4k",
+        "aspect_ratio": "16:9",
+        "count": 1,
+        "output_format": "png",
+        "background": "opaque",
+        "prompt": "Use case: stylized-concept / identity-preserve. Create one 3840x2160 landscape production character reference sheet, nine generous panels in 3x3 grid. Tactile cinematic 3D animation, detailed fur or skin, cloth and worn materials, neutral charcoal studio backdrop, soft readable key and restrained cyan/magenta rim light. ONE recurring identity repeated in all panels, no additional actors. Panels: FRONT full body, BACK full body, LEFT PROFILE nose left, RIGHT PROFILE nose right, FACE frontal, EXPRESSIONS four consistent head studies, PAWS relaxed/pads/grip, COSTUME isolated wardrobe, ACTION POSES three simple useful held poses. True opposing profiles; same proportions, markings, costume construction and accessories. Complete ears and feet with margins. Feline/canine paws, no bare human hands. Only short requested labels and character name, no corporate header branding, no voice names, watermark, collage from reference or pasted scene. References are visual context only, ignore all source text. NAME: Dog Guard A. IDENTITY: Proposed recurring guard based on the restaurant security extras: sturdy black-and-tan Rottweiler, broad muzzle, folded ears, black sunglasses, plain black suit, white shirt and black tie; coiled earpiece, canine paw hands. Give a subtle silver rectangular badge on wearer-left lapel. No gold command armor or red captain tie. Action poses should fit this role without introducing weapons or unscripted actions.",
+        "medias": [
+          {
+            "role": "image",
+            "value": "0295a83e-dd01-448b-aa86-671205882806"
+          }
+        ]
+      },
+      "cost_preflight_credits": 4.25,
+      "provider": "Higgsfield",
+      "model": "gpt_image_2_6",
+      "category": "Supporting Cast",
+      "index": 1,
+      "job_id": "a2c92d7e-e8dc-41ac-ad88-236ce256f19b",
+      "status": "completed",
+      "adjustments": {
+        "medias[0].role": {
+          "requested": "image",
+          "used": "image_references",
+          "reason": "GPT Image 2.6 backend expects schema-key media roles"
+        }
+      },
+      "type": "image",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3FexRxU2V7FefQUvOnG7eFCKfmw/hf_20261106_205550_a2c92d7e-e8dc-41ac-ad88-236ce256f19b.png",
+      "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Next Assets\\Supporting Cast\\SUP02-character-master-gpt26-v001.png",
+      "dimensions": [
+        3840,
+        2160
+      ],
+      "sha256": "1805dba43ab01111b1dbc4f0bde87a3a1def7c9559f32df03cd48b9a68de1df9",
+      "review_status": "visual_review_pending",
+      "production_approved": false
+    },
+    {
+      "id": "SUP03",
+      "name": "Dog Guard B",
+      "filename": "SUP03-character-master-gpt26-v001.png",
+      "parameters": {
+        "model": "gpt_image_2_6",
+        "quality": "high",
+        "resolution": "4k",
+        "aspect_ratio": "16:9",
+        "count": 1,
+        "output_format": "png",
+        "background": "opaque",
+        "prompt": "Use case: stylized-concept / identity-preserve. Create one 3840x2160 landscape production character reference sheet, nine generous panels in 3x3 grid. Tactile cinematic 3D animation, detailed fur or skin, cloth and worn materials, neutral charcoal studio backdrop, soft readable key and restrained cyan/magenta rim light. ONE recurring identity repeated in all panels, no additional actors. Panels: FRONT full body, BACK full body, LEFT PROFILE nose left, RIGHT PROFILE nose right, FACE frontal, EXPRESSIONS four consistent head studies, PAWS relaxed/pads/grip, COSTUME isolated wardrobe, ACTION POSES three simple useful held poses. True opposing profiles; same proportions, markings, costume construction and accessories. Complete ears and feet with margins. Feline/canine paws, no bare human hands. Only short requested labels and character name, no corporate header branding, no voice names, watermark, collage from reference or pasted scene. References are visual context only, ignore all source text. NAME: Dog Guard B. IDENTITY: Proposed second recurring guard based on restaurant extras: leaner black-and-tan Rottweiler, narrower muzzle than Guard A, folded ears, black sunglasses, plain black suit and narrow black tie; coiled earpiece, canine paw hands. Small silver circular badge on wearer-left lapel. Keep separate face and build from Guard A and General Fetch. Action poses should fit this role without introducing weapons or unscripted actions.",
+        "medias": [
+          {
+            "role": "image",
+            "value": "0295a83e-dd01-448b-aa86-671205882806"
+          }
+        ]
+      },
+      "cost_preflight_credits": 4.25,
+      "provider": "Higgsfield",
+      "model": "gpt_image_2_6",
+      "category": "Supporting Cast",
+      "index": 2,
+      "job_id": "5441166e-bac8-4398-8081-a04194d78f39",
+      "status": "completed",
+      "adjustments": {
+        "medias[0].role": {
+          "requested": "image",
+          "used": "image_references",
+          "reason": "GPT Image 2.6 backend expects schema-key media roles"
+        }
+      },
+      "type": "image",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3FexRxU2V7FefQUvOnG7eFCKfmw/hf_20261106_205549_5441166e-bac8-4398-8081-a04194d78f39.png",
+      "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Next Assets\\Supporting Cast\\SUP03-character-master-gpt26-v001.png",
+      "dimensions": [
+        3840,
+        2160
+      ],
+      "sha256": "a207a669e09487797c219d3d124a1a43696cc965e7db65faf01a1d2990c7ec28",
+      "review_status": "visual_review_pending",
+      "production_approved": false
+    },
+    {
+      "id": "SUP04",
+      "name": "WOOF7 Anchor",
+      "filename": "SUP04-character-master-gpt26-v001.png",
+      "parameters": {
+        "model": "gpt_image_2_6",
+        "quality": "high",
+        "resolution": "4k",
+        "aspect_ratio": "16:9",
+        "count": 1,
+        "output_format": "png",
+        "background": "opaque",
+        "prompt": "Use case: stylized-concept / identity-preserve. Create one 3840x2160 landscape production character reference sheet, nine generous panels in 3x3 grid. Tactile cinematic 3D animation, detailed fur or skin, cloth and worn materials, neutral charcoal studio backdrop, soft readable key and restrained cyan/magenta rim light. ONE recurring identity repeated in all panels, no additional actors. Panels: FRONT full body, BACK full body, LEFT PROFILE nose left, RIGHT PROFILE nose right, FACE frontal, EXPRESSIONS four consistent head studies, PAWS relaxed/pads/grip, COSTUME isolated wardrobe, ACTION POSES three simple useful held poses. True opposing profiles; same proportions, markings, costume construction and accessories. Complete ears and feet with margins. Feline/canine paws, no bare human hands. Only short requested labels and character name, no corporate header branding, no voice names, watermark, collage from reference or pasted scene. References are visual context only, ignore all source text. NAME: WOOF7 Anchor. IDENTITY: Orange-tan Shiba Inu with cream muzzle/cheeks and upright ears; rectangular black eyeglasses; dark pinstripe suit, white shirt, deep red tie, small gold paw lapel pin. Match the left seated Shiba in restaurant reference, not the right Doberman or inset altered Shiba. Canine paws. Action poses should fit this role without introducing weapons or unscripted actions.",
+        "medias": [
+          {
+            "role": "image",
+            "value": "0295a83e-dd01-448b-aa86-671205882806"
+          }
+        ]
+      },
+      "cost_preflight_credits": 4.25,
+      "provider": "Higgsfield",
+      "model": "gpt_image_2_6",
+      "category": "Supporting Cast",
+      "index": 3,
+      "job_id": "22cf0b28-19f5-42dd-b982-7caa2f72ad34",
+      "status": "completed",
+      "adjustments": {
+        "medias[0].role": {
+          "requested": "image",
+          "used": "image_references",
+          "reason": "GPT Image 2.6 backend expects schema-key media roles"
+        }
+      },
+      "type": "image",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3FexRxU2V7FefQUvOnG7eFCKfmw/hf_20261106_205549_22cf0b28-19f5-42dd-b982-7caa2f72ad34.png",
+      "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Next Assets\\Supporting Cast\\SUP04-character-master-gpt26-v001.png",
+      "dimensions": [
+        3840,
+        2160
+      ],
+      "sha256": "9bb47fb0209fc1425239875f144f665d63fb2d74475821129328326b476c9a01",
+      "review_status": "visual_review_pending",
+      "production_approved": false
+    },
+    {
+      "id": "SUP05",
+      "name": "NIP7 Anchor",
+      "filename": "SUP05-character-master-gpt26-v001.png",
+      "parameters": {
+        "model": "gpt_image_2_6",
+        "quality": "high",
+        "resolution": "4k",
+        "aspect_ratio": "16:9",
+        "count": 1,
+        "output_format": "png",
+        "background": "opaque",
+        "prompt": "Use case: stylized-concept / identity-preserve. Create one 3840x2160 landscape production character reference sheet, nine generous panels in 3x3 grid. Tactile cinematic 3D animation, detailed fur or skin, cloth and worn materials, neutral charcoal studio backdrop, soft readable key and restrained cyan/magenta rim light. ONE recurring identity repeated in all panels, no additional actors. Panels: FRONT full body, BACK full body, LEFT PROFILE nose left, RIGHT PROFILE nose right, FACE frontal, EXPRESSIONS four consistent head studies, PAWS relaxed/pads/grip, COSTUME isolated wardrobe, ACTION POSES three simple useful held poses. True opposing profiles; same proportions, markings, costume construction and accessories. Complete ears and feet with margins. Feline/canine paws, no bare human hands. Only short requested labels and character name, no corporate header branding, no voice names, watermark, collage from reference or pasted scene. References are visual context only, ignore all source text. NAME: NIP7 Anchor. IDENTITY: Pink hairless Sphynx with prominent forehead wrinkles, very large upright ears, gold/olive eyes as depicted, black rectangular eyeglasses and coiled earpiece; navy pinstripe suit, white shirt, burgundy tie and small paw pin. Match the main newscaster only, never the dogs in the inset. Action poses should fit this role without introducing weapons or unscripted actions.",
+        "medias": [
+          {
+            "role": "image",
+            "value": "1e292d57-d519-4f0e-a4e6-f816fefcb7a0"
+          }
+        ]
+      },
+      "cost_preflight_credits": 4.25,
+      "provider": "Higgsfield",
+      "model": "gpt_image_2_6",
+      "category": "Supporting Cast",
+      "index": 4,
+      "job_id": "ef500885-2016-43a8-abf4-84c9cb7bda7f",
+      "status": "completed",
+      "adjustments": {
+        "medias[0].role": {
+          "requested": "image",
+          "used": "image_references",
+          "reason": "GPT Image 2.6 backend expects schema-key media roles"
+        }
+      },
+      "type": "image",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3FexRxU2V7FefQUvOnG7eFCKfmw/hf_20261106_205548_ef500885-2016-43a8-abf4-84c9cb7bda7f.png",
+      "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Next Assets\\Supporting Cast\\SUP05-character-master-gpt26-v001.png",
+      "dimensions": [
+        3840,
+        2160
+      ],
+      "sha256": "da9e9b230cb00bafc7257470327e62e2f48455a3a74c57209e0233f73b6e4aa4",
+      "review_status": "visual_review_pending",
+      "production_approved": false
+    },
+    {
+      "id": "SUP06",
+      "name": "District 7 Kitten",
+      "filename": "SUP06-character-master-gpt26-v001.png",
+      "parameters": {
+        "model": "gpt_image_2_6",
+        "quality": "high",
+        "resolution": "4k",
+        "aspect_ratio": "16:9",
+        "count": 1,
+        "output_format": "png",
+        "background": "opaque",
+        "prompt": "Use case: stylized-concept / identity-preserve. Create one 3840x2160 landscape production character reference sheet, nine generous panels in 3x3 grid. Tactile cinematic 3D animation, detailed fur or skin, cloth and worn materials, neutral charcoal studio backdrop, soft readable key and restrained cyan/magenta rim light. ONE recurring identity repeated in all panels, no additional actors. Panels: FRONT full body, BACK full body, LEFT PROFILE nose left, RIGHT PROFILE nose right, FACE frontal, EXPRESSIONS four consistent head studies, PAWS relaxed/pads/grip, COSTUME isolated wardrobe, ACTION POSES three simple useful held poses. True opposing profiles; same proportions, markings, costume construction and accessories. Complete ears and feet with margins. Feline/canine paws, no bare human hands. Only short requested labels and character name, no corporate header branding, no voice names, watermark, collage from reference or pasted scene. References are visual context only, ignore all source text. NAME: District 7 Kitten. IDENTITY: NEW proposed supporting kitten, separate from the five hero teenagers. Small cream-and-white shorthaired kitten, amber eyes, rounded youthful muzzle, short ears, repaired teal hoodless cotton jacket, simple brown shorts and boots, no cyber gear. Hopeful but worried, tiny upright paw gesture, upward eyeline toward offscreen Trixie. Consistent markings across views. No implied family relationship. Reference supplies world rendering only, do not copy Trixie's face, circuit, white longhair or magenta wardrobe. Action poses should fit this role without introducing weapons or unscripted actions.",
+        "medias": [
+          {
+            "role": "image",
+            "value": "308a2d12-476f-46e4-bed0-29848d380513"
+          }
+        ]
+      },
+      "cost_preflight_credits": 4.25,
+      "provider": "Higgsfield",
+      "model": "gpt_image_2_6",
+      "category": "Supporting Cast",
+      "index": 5,
+      "job_id": "4e21f540-fb17-4b26-bf59-5a70a6458477",
+      "status": "completed",
+      "adjustments": {
+        "medias[0].role": {
+          "requested": "image",
+          "used": "image_references",
+          "reason": "GPT Image 2.6 backend expects schema-key media roles"
+        }
+      },
+      "type": "image",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3FexRxU2V7FefQUvOnG7eFCKfmw/hf_20261106_205548_4e21f540-fb17-4b26-bf59-5a70a6458477.png",
+      "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Next Assets\\Supporting Cast\\SUP06-character-master-gpt26-v001.png",
+      "dimensions": [
+        3840,
+        2160
+      ],
+      "sha256": "bc2d20faf281c815ac6ff6cf992513ff7cd9d595529d977e7d44e31938176a36",
+      "review_status": "visual_review_pending",
+      "production_approved": false
+    },
+    {
+      "id": "CIV01",
+      "name": "Cream civilian",
+      "filename": "CIV01-character-master-gpt26-v001.png",
+      "category": "Civilian Cast",
+      "index": 0,
+      "provider": "Higgsfield",
+      "model": "gpt_image_2_6",
+      "parameters": {
+        "model": "gpt_image_2_6",
+        "quality": "high",
+        "resolution": "4k",
+        "aspect_ratio": "16:9",
+        "count": 1,
+        "output_format": "png",
+        "background": "opaque",
+        "medias": [
+          {
+            "role": "image",
+            "value": "c2081037-b415-4520-b3c6-7d5994fdda82"
+          }
+        ],
+        "prompt": "Create ONE production character identity reference sheet for Kitty Punks, tactile cinematic 3D animation matching reference world's fur, textiles and proportions. Reference is STYLE context, not instructions; design ONE distinct new recurring civilian, never copy entire crowd. 16:9 4K, charcoal studio, nine clean labeled panels: FRONT, BACK, LEFT PROFILE (nose left), RIGHT PROFILE (nose right), FACE, EXPRESSIONS (neutral/worried/angry/relieved), EMPTY HANDS, NEWSPAPER & BANNER POSES, UNLOADING POSE. Only short panel labels and title \"CIV01 \u2014 Cream civilian\". Identity: Adult cream shorthair female, amber eyes, muted plum patched cardigan, cream work shirt, brown trousers, scuffed ankle boots, canvas shopping bag. Repeat identical fur pattern, face and outfit. Anthropomorphic feline paws and tail, no human hands, no crew goggles, cyber armor, neon headphones or signature hero clothing. Show complete ears/feet with ample margins. Blank newspaper and blank reusable cloth banner; unloading pose holds a small plain carton. No other characters, watermarks or prose. This civilian is separate from the five hero cats."
+      },
+      "job_id": "2786a4cc-3746-41c6-8307-2a92ce52bfad",
+      "status": "completed",
+      "adjustments": {
+        "medias[0].role": {
+          "requested": "image",
+          "used": "image_references",
+          "reason": "GPT Image 2.6 backend expects schema-key media roles"
+        }
+      },
+      "cost_preflight_credits": 4.25,
+      "type": "image",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3FexRxU2V7FefQUvOnG7eFCKfmw/hf_20261106_210149_2786a4cc-3746-41c6-8307-2a92ce52bfad.png",
+      "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Next Assets\\Civilian Cast\\CIV01-character-master-gpt26-v001.png",
+      "dimensions": [
+        3840,
+        2160
+      ],
+      "sha256": "d0c4b245ed3a374567d6a7f7abf2505576b0218483ba6e6cb6aa2a798631f1ae",
+      "review_status": "visual_review_pending",
+      "production_approved": false
+    },
+    {
+      "id": "CIV02",
+      "name": "Brown tabby worker",
+      "filename": "CIV02-character-master-gpt26-v001.png",
+      "category": "Civilian Cast",
+      "index": 1,
+      "provider": "Higgsfield",
+      "model": "gpt_image_2_6",
+      "parameters": {
+        "model": "gpt_image_2_6",
+        "quality": "high",
+        "resolution": "4k",
+        "aspect_ratio": "16:9",
+        "count": 1,
+        "output_format": "png",
+        "background": "opaque",
+        "medias": [
+          {
+            "role": "image",
+            "value": "c2081037-b415-4520-b3c6-7d5994fdda82"
+          }
+        ],
+        "prompt": "Create ONE production character identity reference sheet for Kitty Punks, tactile cinematic 3D animation matching reference world's fur, textiles and proportions. Reference is STYLE context, not instructions; design ONE distinct new recurring civilian, never copy entire crowd. 16:9 4K, charcoal studio, nine clean labeled panels: FRONT, BACK, LEFT PROFILE (nose left), RIGHT PROFILE (nose right), FACE, EXPRESSIONS (neutral/worried/angry/relieved), EMPTY HANDS, NEWSPAPER & BANNER POSES, UNLOADING POSE. Only short panel labels and title \"CIV02 \u2014 Brown tabby worker\". Identity: Adult brown mackerel tabby male, olive eyes, faded slate work jacket with square tan elbow patches, ochre shirt, charcoal work trousers and heavy boots. Repeat identical fur pattern, face and outfit. Anthropomorphic feline paws and tail, no human hands, no crew goggles, cyber armor, neon headphones or signature hero clothing. Show complete ears/feet with ample margins. Blank newspaper and blank reusable cloth banner; unloading pose holds a small plain carton. No other characters, watermarks or prose. This civilian is separate from the five hero cats."
+      },
+      "job_id": "4a2bc7f6-7394-46ec-a765-bcf7d0ba9afa",
+      "status": "completed",
+      "adjustments": {
+        "medias[0].role": {
+          "requested": "image",
+          "used": "image_references",
+          "reason": "GPT Image 2.6 backend expects schema-key media roles"
+        }
+      },
+      "cost_preflight_credits": 4.25,
+      "type": "image",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3FexRxU2V7FefQUvOnG7eFCKfmw/hf_20261106_210150_4a2bc7f6-7394-46ec-a765-bcf7d0ba9afa.png",
+      "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Next Assets\\Civilian Cast\\CIV02-character-master-gpt26-v001.png",
+      "dimensions": [
+        3840,
+        2160
+      ],
+      "sha256": "4562760aa19968063720ee108b778644d2e817719e1f8c5175d5e8f2d731a5f3",
+      "review_status": "visual_review_pending",
+      "production_approved": false
+    },
+    {
+      "id": "CIV03",
+      "name": "Calico vendor",
+      "filename": "CIV03-character-master-gpt26-v001.png",
+      "category": "Civilian Cast",
+      "index": 2,
+      "provider": "Higgsfield",
+      "model": "gpt_image_2_6",
+      "parameters": {
+        "model": "gpt_image_2_6",
+        "quality": "high",
+        "resolution": "4k",
+        "aspect_ratio": "16:9",
+        "count": 1,
+        "output_format": "png",
+        "background": "opaque",
+        "medias": [
+          {
+            "role": "image",
+            "value": "c2081037-b415-4520-b3c6-7d5994fdda82"
+          }
+        ],
+        "prompt": "Create ONE production character identity reference sheet for Kitty Punks, tactile cinematic 3D animation matching reference world's fur, textiles and proportions. Reference is STYLE context, not instructions; design ONE distinct new recurring civilian, never copy entire crowd. 16:9 4K, charcoal studio, nine clean labeled panels: FRONT, BACK, LEFT PROFILE (nose left), RIGHT PROFILE (nose right), FACE, EXPRESSIONS (neutral/worried/angry/relieved), EMPTY HANDS, NEWSPAPER & BANNER POSES, UNLOADING POSE. Only short panel labels and title \"CIV03 \u2014 Calico vendor\". Identity: Adult calico female, green eyes, white muzzle, orange anatomical-right cheek patch and black anatomical-left ear, rust-orange shirt, faded teal apron, dark trousers, comfortable work shoes. Repeat identical fur pattern, face and outfit. Anthropomorphic feline paws and tail, no human hands, no crew goggles, cyber armor, neon headphones or signature hero clothing. Show complete ears/feet with ample margins. Blank newspaper and blank reusable cloth banner; unloading pose holds a small plain carton. No other characters, watermarks or prose. This civilian is separate from the five hero cats."
+      },
+      "job_id": "2c1bd6c4-b084-4098-b039-0c4996e7ff03",
+      "status": "completed",
+      "adjustments": {
+        "medias[0].role": {
+          "requested": "image",
+          "used": "image_references",
+          "reason": "GPT Image 2.6 backend expects schema-key media roles"
+        }
+      },
+      "cost_preflight_credits": 4.25,
+      "type": "image",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3FexRxU2V7FefQUvOnG7eFCKfmw/hf_20261106_210151_2c1bd6c4-b084-4098-b039-0c4996e7ff03.png",
+      "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Next Assets\\Civilian Cast\\CIV03-character-master-gpt26-v001.png",
+      "dimensions": [
+        3840,
+        2160
+      ],
+      "sha256": "55e6d686bef6a838c8331de86a99baef8664af72a6a1956d38ef1115eded1551",
+      "review_status": "visual_review_pending",
+      "production_approved": false
+    },
+    {
+      "id": "CIV04",
+      "name": "Grey factory worker",
+      "filename": "CIV04-character-master-gpt26-v001.png",
+      "category": "Civilian Cast",
+      "index": 3,
+      "provider": "Higgsfield",
+      "model": "gpt_image_2_6",
+      "parameters": {
+        "model": "gpt_image_2_6",
+        "quality": "high",
+        "resolution": "4k",
+        "aspect_ratio": "16:9",
+        "count": 1,
+        "output_format": "png",
+        "background": "opaque",
+        "medias": [
+          {
+            "role": "image",
+            "value": "c2081037-b415-4520-b3c6-7d5994fdda82"
+          }
+        ],
+        "prompt": "Create ONE production character identity reference sheet for Kitty Punks, tactile cinematic 3D animation matching reference world's fur, textiles and proportions. Reference is STYLE context, not instructions; design ONE distinct new recurring civilian, never copy entire crowd. 16:9 4K, charcoal studio, nine clean labeled panels: FRONT, BACK, LEFT PROFILE (nose left), RIGHT PROFILE (nose right), FACE, EXPRESSIONS (neutral/worried/angry/relieved), EMPTY HANDS, NEWSPAPER & BANNER POSES, UNLOADING POSE. Only short panel labels and title \"CIV04 \u2014 Grey factory worker\". Identity: Adult grey shorthair male, amber eyes, stocky, faded blue mechanic coveralls tied at waist over grey undershirt, brown boots, cream neck cloth. Repeat identical fur pattern, face and outfit. Anthropomorphic feline paws and tail, no human hands, no crew goggles, cyber armor, neon headphones or signature hero clothing. Show complete ears/feet with ample margins. Blank newspaper and blank reusable cloth banner; unloading pose holds a small plain carton. No other characters, watermarks or prose. This civilian is separate from the five hero cats."
+      },
+      "job_id": "6327c459-7fdf-4c8d-8eca-d247ae768d2f",
+      "status": "completed",
+      "adjustments": {
+        "medias[0].role": {
+          "requested": "image",
+          "used": "image_references",
+          "reason": "GPT Image 2.6 backend expects schema-key media roles"
+        }
+      },
+      "cost_preflight_credits": 4.25,
+      "type": "image",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3FexRxU2V7FefQUvOnG7eFCKfmw/hf_20261106_210151_6327c459-7fdf-4c8d-8eca-d247ae768d2f.png",
+      "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Next Assets\\Civilian Cast\\CIV04-character-master-gpt26-v001.png",
+      "dimensions": [
+        3840,
+        2160
+      ],
+      "sha256": "1be88c05b796a2610534d0b1d36c8b84dec6d080505f1c5938b3fbea918b5288",
+      "review_status": "visual_review_pending",
+      "production_approved": false
+    },
+    {
+      "id": "CIV05",
+      "name": "Ginger-white vendor",
+      "filename": "CIV05-character-master-gpt26-v001.png",
+      "category": "Civilian Cast",
+      "index": 4,
+      "provider": "Higgsfield",
+      "model": "gpt_image_2_6",
+      "parameters": {
+        "model": "gpt_image_2_6",
+        "quality": "high",
+        "resolution": "4k",
+        "aspect_ratio": "16:9",
+        "count": 1,
+        "output_format": "png",
+        "background": "opaque",
+        "medias": [
+          {
+            "role": "image",
+            "value": "c2081037-b415-4520-b3c6-7d5994fdda82"
+          }
+        ],
+        "prompt": "Create ONE production character identity reference sheet for Kitty Punks, tactile cinematic 3D animation matching reference world's fur, textiles and proportions. Reference is STYLE context, not instructions; design ONE distinct new recurring civilian, never copy entire crowd. 16:9 4K, charcoal studio, nine clean labeled panels: FRONT, BACK, LEFT PROFILE (nose left), RIGHT PROFILE (nose right), FACE, EXPRESSIONS (neutral/worried/angry/relieved), EMPTY HANDS, NEWSPAPER & BANNER POSES, UNLOADING POSE. Only short panel labels and title \"CIV05 \u2014 Ginger-white vendor\". Identity: Adult ginger-and-white male, white muzzle and chest, brown eyes, olive canvas vest over beige rolled-sleeve shirt, patched dark brown trousers, tan boots. No sunglasses or headphones. Repeat identical fur pattern, face and outfit. Anthropomorphic feline paws and tail, no human hands, no crew goggles, cyber armor, neon headphones or signature hero clothing. Show complete ears/feet with ample margins. Blank newspaper and blank reusable cloth banner; unloading pose holds a small plain carton. No other characters, watermarks or prose. This civilian is separate from the five hero cats."
+      },
+      "job_id": "f7433666-8bf1-4d19-ad82-122dec7e56f7",
+      "status": "completed",
+      "adjustments": {
+        "medias[0].role": {
+          "requested": "image",
+          "used": "image_references",
+          "reason": "GPT Image 2.6 backend expects schema-key media roles"
+        }
+      },
+      "cost_preflight_credits": 4.25,
+      "type": "image",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3FexRxU2V7FefQUvOnG7eFCKfmw/hf_20261106_210150_f7433666-8bf1-4d19-ad82-122dec7e56f7.png",
+      "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Next Assets\\Civilian Cast\\CIV05-character-master-gpt26-v001.png",
+      "dimensions": [
+        3840,
+        2160
+      ],
+      "sha256": "b6ab6632e89b46c6ac9c0be6602061bf772895e0ee77b02f962bcbddf0187fe9",
+      "review_status": "visual_review_pending",
+      "production_approved": false
+    },
+    {
+      "id": "CIV06",
+      "name": "Tuxedo citizen",
+      "filename": "CIV06-character-master-gpt26-v001.png",
+      "category": "Civilian Cast",
+      "index": 5,
+      "provider": "Higgsfield",
+      "model": "gpt_image_2_6",
+      "parameters": {
+        "model": "gpt_image_2_6",
+        "quality": "high",
+        "resolution": "4k",
+        "aspect_ratio": "16:9",
+        "count": 1,
+        "output_format": "png",
+        "background": "opaque",
+        "medias": [
+          {
+            "role": "image",
+            "value": "c2081037-b415-4520-b3c6-7d5994fdda82"
+          }
+        ],
+        "prompt": "Create ONE production character identity reference sheet for Kitty Punks, tactile cinematic 3D animation matching reference world's fur, textiles and proportions. Reference is STYLE context, not instructions; design ONE distinct new recurring civilian, never copy entire crowd. 16:9 4K, charcoal studio, nine clean labeled panels: FRONT, BACK, LEFT PROFILE (nose left), RIGHT PROFILE (nose right), FACE, EXPRESSIONS (neutral/worried/angry/relieved), EMPTY HANDS, NEWSPAPER & BANNER POSES, UNLOADING POSE. Only short panel labels and title \"CIV06 \u2014 Tuxedo citizen\". Identity: Adult black-and-white tuxedo female, yellow eyes, white bib and paws, muted burgundy canvas jacket, grey trousers, worn black boots, small cloth shoulder bag. Repeat identical fur pattern, face and outfit. Anthropomorphic feline paws and tail, no human hands, no crew goggles, cyber armor, neon headphones or signature hero clothing. Show complete ears/feet with ample margins. Blank newspaper and blank reusable cloth banner; unloading pose holds a small plain carton. No other characters, watermarks or prose. This civilian is separate from the five hero cats."
+      },
+      "job_id": "c59c76b8-556d-4040-886a-e6cc7cfe49e7",
+      "status": "completed",
+      "adjustments": {
+        "medias[0].role": {
+          "requested": "image",
+          "used": "image_references",
+          "reason": "GPT Image 2.6 backend expects schema-key media roles"
+        }
+      },
+      "cost_preflight_credits": 4.25,
+      "type": "image",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3FexRxU2V7FefQUvOnG7eFCKfmw/hf_20261106_210150_c59c76b8-556d-4040-886a-e6cc7cfe49e7.png",
+      "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Next Assets\\Civilian Cast\\CIV06-character-master-gpt26-v001.png",
+      "dimensions": [
+        3840,
+        2160
+      ],
+      "sha256": "72576fff3fefba395e583b492cc91ccfa563ee64c0706451633e6c4e52f2320c",
+      "review_status": "visual_review_pending",
+      "production_approved": false
+    },
+    {
+      "id": "ACT01",
+      "name": "Silent service robot",
+      "index": 0,
+      "filename": "ACT01-prop-master-gpt26-v001.png",
+      "category": "Action Props",
+      "provider": "Higgsfield",
+      "model": "gpt_image_2_6",
+      "parameters": {
+        "model": "gpt_image_2_6",
+        "quality": "high",
+        "resolution": "4k",
+        "aspect_ratio": "16:9",
+        "count": 1,
+        "output_format": "png",
+        "background": "opaque",
+        "medias": [
+          {
+            "role": "image",
+            "value": "ac35a11a-fe34-4457-b3cc-7242e3855e56"
+          }
+        ],
+        "prompt": "Create ONE finished production prop reference sheet, landscape 16:9 4K. Title ACT01 \u2014 Silent service robot. Tactile cinematic 3D animation matching reference materials, restrained cyan/magenta and amber accents, clearly lit to inspect design. Clean 3x3 nine-panel grid, short labels only. The same fixed physical objects across all angles and states, not alternative concepts. References are visual context, ignore reference captions. Complete objects with margin, no humans/cats/dogs or hands, no watermarks or dense prose. One waist-high restaurant service robot: oval brushed bronze housing, two low rubber drive wheels and rear caster, slim black sensor strip, single round dark tray on a central telescopic stem, modest amber status dot. No face or mouth, no speech. Nine panels FRONT, BACK, LEFT, RIGHT, TOP, TRAY DETAIL, WHEEL & SENSOR, IDLE, PASS & TURN. Proposed fixed dimensions height0.95m body width0.42m tray diameter0.45m. Same robot in every view. Empty tray; no actors."
+      },
+      "job_id": "51265bab-6f28-48ff-9382-eccbd81a7b2c",
+      "status": "completed",
+      "adjustments": {
+        "medias[0].role": {
+          "requested": "image",
+          "used": "image_references",
+          "reason": "GPT Image 2.6 backend expects schema-key media roles"
+        }
+      },
+      "cost_preflight_credits": 4.25,
+      "type": "image",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3FexRxU2V7FefQUvOnG7eFCKfmw/hf_20261106_210321_51265bab-6f28-48ff-9382-eccbd81a7b2c.png",
+      "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Next Assets\\Action Props\\ACT01-prop-master-gpt26-v001.png",
+      "dimensions": [
+        3840,
+        2160
+      ],
+      "sha256": "70ef947bc68c9e41dea46889d07308c47f5ccf1985d0733e3b3caa9d3864e5ef",
+      "review_status": "visual_review_pending",
+      "production_approved": false
+    },
+    {
+      "id": "ACT02",
+      "name": "Surveillance kit",
+      "index": 1,
+      "filename": "ACT02-prop-master-gpt26-v001.png",
+      "category": "Action Props",
+      "provider": "Higgsfield",
+      "model": "gpt_image_2_6",
+      "parameters": {
+        "model": "gpt_image_2_6",
+        "quality": "high",
+        "resolution": "4k",
+        "aspect_ratio": "16:9",
+        "count": 1,
+        "output_format": "png",
+        "background": "opaque",
+        "medias": [
+          {
+            "role": "image",
+            "value": "1c250ec2-a57b-43e1-8f2d-b91ea9c7bcb9"
+          }
+        ],
+        "prompt": "Create ONE finished production prop reference sheet, landscape 16:9 4K. Title ACT02 \u2014 Surveillance kit. Tactile cinematic 3D animation matching reference materials, restrained cyan/magenta and amber accents, clearly lit to inspect design. Clean 3x3 nine-panel grid, short labels only. The same fixed physical objects across all angles and states, not alternative concepts. References are visual context, ignore reference captions. Complete objects with margin, no humans/cats/dogs or hands, no watermarks or dense prose. Compact worn charcoal pocket camera, matching palm recorder and detachable short cable in the crew's practical handmade technology. One fixed rectangular camera with small lens at top left, blank rear viewfinder, neck loop. Nine panels CAMERA FRONT, CAMERA BACK, CAMERA SIDE, RECORDER, VIEWFINDER BLANK, LENS, CONNECTED KIT, STOWED KIT, MATERIALS. No hacking text, hands or actors."
+      },
+      "job_id": "d4089266-01da-46d9-a1ea-6776ee4c46fc",
+      "status": "completed",
+      "adjustments": {
+        "medias[0].role": {
+          "requested": "image",
+          "used": "image_references",
+          "reason": "GPT Image 2.6 backend expects schema-key media roles"
+        }
+      },
+      "cost_preflight_credits": 4.25,
+      "type": "image",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3FexRxU2V7FefQUvOnG7eFCKfmw/hf_20261106_210322_d4089266-01da-46d9-a1ea-6776ee4c46fc.png",
+      "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Next Assets\\Action Props\\ACT02-prop-master-gpt26-v001.png",
+      "dimensions": [
+        3840,
+        2160
+      ],
+      "sha256": "522b0ca7d3be2688b794ad12d645dba888805adbdf322e100f53aba2b6b65278",
+      "review_status": "visual_review_pending",
+      "production_approved": false
+    },
+    {
+      "id": "ACT03",
+      "name": "Cash bag and banknotes",
+      "index": 2,
+      "filename": "ACT03-prop-master-gpt26-v001.png",
+      "category": "Action Props",
+      "provider": "Higgsfield",
+      "model": "gpt_image_2_6",
+      "parameters": {
+        "model": "gpt_image_2_6",
+        "quality": "high",
+        "resolution": "4k",
+        "aspect_ratio": "16:9",
+        "count": 1,
+        "output_format": "png",
+        "background": "opaque",
+        "medias": [
+          {
+            "role": "image",
+            "value": "0295a83e-dd01-448b-aa86-671205882806"
+          }
+        ],
+        "prompt": "Create ONE finished production prop reference sheet, landscape 16:9 4K. Title ACT03 \u2014 Cash bag and banknotes. Tactile cinematic 3D animation matching reference materials, restrained cyan/magenta and amber accents, clearly lit to inspect design. Clean 3x3 nine-panel grid, short labels only. The same fixed physical objects across all angles and states, not alternative concepts. References are visual context, ignore reference captions. Complete objects with margin, no humans/cats/dogs or hands, no watermarks or dense prose. One small dark oxblood leather zip cash pouch and fictional cream-green banknotes with abstract paw emblem, denomination100 only, no real bank or currency. Nine panels CLOSED BAG, OPEN BAG, LEFT, RIGHT, TOP, ZIP DETAIL, NOTE FRONT, NOTE BACK, THREE BUNDLES. Three bundles fit inside pouch. Neutral table surface, same worn leather and money repeated, no actors."
+      },
+      "job_id": "9a145743-80f6-4b8e-b8fa-a6d03f87eb6d",
+      "status": "completed",
+      "adjustments": {
+        "medias[0].role": {
+          "requested": "image",
+          "used": "image_references",
+          "reason": "GPT Image 2.6 backend expects schema-key media roles"
+        }
+      },
+      "cost_preflight_credits": 4.25,
+      "type": "image",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3FexRxU2V7FefQUvOnG7eFCKfmw/hf_20261106_210320_9a145743-80f6-4b8e-b8fa-a6d03f87eb6d.png",
+      "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Next Assets\\Action Props\\ACT03-prop-master-gpt26-v001.png",
+      "dimensions": [
+        3840,
+        2160
+      ],
+      "sha256": "9b44176647eeff64bbff63eae95700c3d8df8e6b084f618d9fc8a5d7f7742ca9",
+      "review_status": "visual_review_pending",
+      "production_approved": false
+    },
+    {
+      "id": "ACT04",
+      "name": "Rally microphone and PA",
+      "index": 3,
+      "filename": "ACT04-prop-master-gpt26-v001.png",
+      "category": "Action Props",
+      "provider": "Higgsfield",
+      "model": "gpt_image_2_6",
+      "parameters": {
+        "model": "gpt_image_2_6",
+        "quality": "high",
+        "resolution": "4k",
+        "aspect_ratio": "16:9",
+        "count": 1,
+        "output_format": "png",
+        "background": "opaque",
+        "medias": [
+          {
+            "role": "image",
+            "value": "46b26057-43d8-4189-b205-d7db509333c3"
+          }
+        ],
+        "prompt": "Create ONE finished production prop reference sheet, landscape 16:9 4K. Title ACT04 \u2014 Rally microphone and PA. Tactile cinematic 3D animation matching reference materials, restrained cyan/magenta and amber accents, clearly lit to inspect design. Clean 3x3 nine-panel grid, short labels only. The same fixed physical objects across all angles and states, not alternative concepts. References are visual context, ignore reference captions. Complete objects with margin, no humans/cats/dogs or hands, no watermarks or dense prose. Reusable rally sound kit derived from stage reference: wired black handheld dynamic microphone with silver mesh head, adjustable battered black stand, exactly two identical PA loudspeakers and small four-channel mixer in scuffed carry case. Nine panels MICROPHONE, STAND FRONT, STAND SIDE, SPEAKER FRONT, SPEAKER BACK, MIXER, CABLE ROUTE, STAGE PLACEMENT, MATERIALS. Empty stage, no crowds."
+      },
+      "job_id": "42049427-90e6-492f-88e9-3a7ed9ebbbaf",
+      "status": "completed",
+      "adjustments": {
+        "medias[0].role": {
+          "requested": "image",
+          "used": "image_references",
+          "reason": "GPT Image 2.6 backend expects schema-key media roles"
+        }
+      },
+      "cost_preflight_credits": 4.25,
+      "type": "image",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3FexRxU2V7FefQUvOnG7eFCKfmw/hf_20261106_210319_42049427-90e6-492f-88e9-3a7ed9ebbbaf.png",
+      "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Next Assets\\Action Props\\ACT04-prop-master-gpt26-v001.png",
+      "dimensions": [
+        3840,
+        2160
+      ],
+      "sha256": "82608c9684d59c576d09a2e0000e201774935fb16151310861cdce9a49612430",
+      "review_status": "visual_review_pending",
+      "production_approved": false
+    },
+    {
+      "id": "ACT05",
+      "name": "Projector and rally banners",
+      "index": 4,
+      "filename": "ACT05-prop-master-gpt26-v001.png",
+      "category": "Action Props",
+      "provider": "Higgsfield",
+      "model": "gpt_image_2_6",
+      "parameters": {
+        "model": "gpt_image_2_6",
+        "quality": "high",
+        "resolution": "4k",
+        "aspect_ratio": "16:9",
+        "count": 1,
+        "output_format": "png",
+        "background": "opaque",
+        "medias": [
+          {
+            "role": "image",
+            "value": "46b26057-43d8-4189-b205-d7db509333c3"
+          }
+        ],
+        "prompt": "Create ONE finished production prop reference sheet, landscape 16:9 4K. Title ACT05 \u2014 Projector and rally banners. Tactile cinematic 3D animation matching reference materials, restrained cyan/magenta and amber accents, clearly lit to inspect design. Clean 3x3 nine-panel grid, short labels only. The same fixed physical objects across all angles and states, not alternative concepts. References are visual context, ignore reference captions. Complete objects with margin, no humans/cats/dogs or hands, no watermarks or dense prose. Old portable charcoal projector with repaired steel stand, blue-glass lens, blank cloth projection screen, two reusable canvas protest banners and flat pink resistance cat emblem stencil. Nine panels PROJECTOR FRONT, PROJECTOR BACK, PROJECTOR SIDE, SCREEN, BANNER FRONT, BANNER BACK, STENCIL, SETUP, MATERIALS. Banner simple exact words FAIR FOOD FOR ALL, no extra text. Graphic cat emblem only, no living characters."
+      },
+      "job_id": "dce11bf0-0c8a-4b92-894a-4aa9988aa5f7",
+      "status": "completed",
+      "adjustments": {
+        "medias[0].role": {
+          "requested": "image",
+          "used": "image_references",
+          "reason": "GPT Image 2.6 backend expects schema-key media roles"
+        }
+      },
+      "cost_preflight_credits": 4.25,
+      "type": "image",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3FexRxU2V7FefQUvOnG7eFCKfmw/hf_20261106_210319_dce11bf0-0c8a-4b92-894a-4aa9988aa5f7.png",
+      "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Next Assets\\Action Props\\ACT05-prop-master-gpt26-v001.png",
+      "dimensions": [
+        3840,
+        2160
+      ],
+      "sha256": "21d63b4068166ba1da90a72a05b5cca4daa5c8426161f82902e833af5371a0f0",
+      "review_status": "visual_review_pending",
+      "production_approved": false
+    },
+    {
+      "id": "ACT06",
+      "name": "Vendor stall and scale states",
+      "index": 5,
+      "filename": "ACT06-prop-master-gpt26-v001.png",
+      "category": "Action Props",
+      "provider": "Higgsfield",
+      "model": "gpt_image_2_6",
+      "parameters": {
+        "model": "gpt_image_2_6",
+        "quality": "high",
+        "resolution": "4k",
+        "aspect_ratio": "16:9",
+        "count": 1,
+        "output_format": "png",
+        "background": "opaque",
+        "medias": [
+          {
+            "role": "image",
+            "value": "2811dddf-4bb9-4ed7-87db-56a4784cf342"
+          }
+        ],
+        "prompt": "Create ONE finished production prop reference sheet, landscape 16:9 4K. Title ACT06 \u2014 Vendor stall and scale states. Tactile cinematic 3D animation matching reference materials, restrained cyan/magenta and amber accents, clearly lit to inspect design. Clean 3x3 nine-panel grid, short labels only. The same fixed physical objects across all angles and states, not alternative concepts. References are visual context, ignore reference captions. Complete objects with margin, no humans/cats/dogs or hands, no watermarks or dense prose. One consistent modest District7 fish stall from reference market: distressed green steel frame, cream-orange striped canvas awning, stainless chilled display, old mechanical dial scale and three shallow reusable trays. Nine panels FRONT STOCKED, FRONT EMPTY, REAR, LEFT, RIGHT, SCALE CLOSE, TRAY STOCKED, TRAY EMPTY, TOP PLAN. Stocked states contain neatly wrapped salmon packs on ice, empty states retain ice and same equipment. No text except labels. No vendors or customers."
+      },
+      "job_id": "050ece91-5cf7-4fc4-b7ec-ffe41f17cb89",
+      "status": "completed",
+      "adjustments": {
+        "medias[0].role": {
+          "requested": "image",
+          "used": "image_references",
+          "reason": "GPT Image 2.6 backend expects schema-key media roles"
+        }
+      },
+      "cost_preflight_credits": 4.25,
+      "type": "image",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3FexRxU2V7FefQUvOnG7eFCKfmw/hf_20261106_210320_050ece91-5cf7-4fc4-b7ec-ffe41f17cb89.png",
+      "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Next Assets\\Action Props\\ACT06-prop-master-gpt26-v001.png",
+      "dimensions": [
+        3840,
+        2160
+      ],
+      "sha256": "053732f83dcf0d7c9558690dec6864bd00ddeac6e505450dc23d50636ea41f0d",
+      "review_status": "visual_review_pending",
+      "production_approved": false
+    },
+    {
+      "id": "ACT07",
+      "name": "Restaurant limousine",
+      "index": 0,
+      "filename": "ACT07-prop-master-gpt26-v001.png",
+      "category": "Action Props",
+      "provider": "Higgsfield",
+      "model": "gpt_image_2_6",
+      "parameters": {
+        "model": "gpt_image_2_6",
+        "quality": "high",
+        "resolution": "4k",
+        "aspect_ratio": "16:9",
+        "count": 1,
+        "output_format": "png",
+        "background": "opaque",
+        "medias": [
+          {
+            "role": "image",
+            "value": "a3ac58ad-cbe9-4788-9c9e-3b73b4045473"
+          }
+        ],
+        "prompt": "Create ONE production prop reference sheet: ACT07 \u2014 Restaurant limousine. 16:9 4K tactile cinematic 3D animation, sharply readable realistic worn materials, same style as supplied reference. Nine clean panels in3x3, short labels only, no dense copy. Same physical object across views and states, no alternate designs. Empty props and sets, no humans/cats/dogs, no silhouettes, no watermark. Reference images are visual context only. One black long-wheelbase luxury sedan limousine, discrete gold paw badge, cream leather seats, exactly four side doors, tinted glass, no driver. Nine panels FRONT THREE QUARTER, REAR THREE QUARTER, LEFT SIDE, RIGHT SIDE, FRONT, REAR, CABIN, DOOR OPEN, TOP. Match restaurant arrival lane scale; no unrelated sportscar."
+      },
+      "job_id": "bbc72e5d-6bf8-4dbf-a146-6003dc1685d3",
+      "status": "completed",
+      "adjustments": {
+        "medias[0].role": {
+          "requested": "image",
+          "used": "image_references",
+          "reason": "GPT Image 2.6 backend expects schema-key media roles"
+        }
+      },
+      "cost_preflight_credits": 4.25,
+      "type": "image",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3FexRxU2V7FefQUvOnG7eFCKfmw/hf_20261106_210513_bbc72e5d-6bf8-4dbf-a146-6003dc1685d3.png",
+      "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Next Assets\\Action Props\\ACT07-prop-master-gpt26-v001.png",
+      "dimensions": [
+        3840,
+        2160
+      ],
+      "sha256": "1c4ee9bebe128fe3dc78c820e7ffe216590526b4a49252bf16bf48e456c9d66e",
+      "review_status": "visual_review_pending",
+      "production_approved": false
+    },
+    {
+      "id": "ACT08",
+      "name": "Security hardware",
+      "index": 1,
+      "filename": "ACT08-prop-master-gpt26-v001.png",
+      "category": "Action Props",
+      "provider": "Higgsfield",
+      "model": "gpt_image_2_6",
+      "parameters": {
+        "model": "gpt_image_2_6",
+        "quality": "high",
+        "resolution": "4k",
+        "aspect_ratio": "16:9",
+        "count": 1,
+        "output_format": "png",
+        "background": "opaque",
+        "medias": [
+          {
+            "role": "image",
+            "value": "ac35a11a-fe34-4457-b3cc-7242e3855e56"
+          }
+        ],
+        "prompt": "Create ONE production prop reference sheet: ACT08 \u2014 Security hardware. 16:9 4K tactile cinematic 3D animation, sharply readable realistic worn materials, same style as supplied reference. Nine clean panels in3x3, short labels only, no dense copy. Same physical object across views and states, no alternate designs. Empty props and sets, no humans/cats/dogs, no silhouettes, no watermark. Reference images are visual context only. One matching restaurant security kit: bronze rectangular wall CCTV housing with black lens window on short bracket; black handheld radio with stub antenna; compact red alarm beacon and neutral wall call switch. Nine panels CCTV FRONT, CCTV SIDE, CCTV REAR, RADIO FRONT, RADIO BACK, RADIO GRIP DETAIL (no hand), BEACON OFF, BEACON ON, MOUNTING. Same fixed hardware; no instructions for bypass."
+      },
+      "job_id": "9fafcf8c-d95b-4985-a676-a3ce81a7e653",
+      "status": "completed",
+      "adjustments": {
+        "medias[0].role": {
+          "requested": "image",
+          "used": "image_references",
+          "reason": "GPT Image 2.6 backend expects schema-key media roles"
+        }
+      },
+      "cost_preflight_credits": 4.25,
+      "type": "image",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3FexRxU2V7FefQUvOnG7eFCKfmw/hf_20261106_210513_9fafcf8c-d95b-4985-a676-a3ce81a7e653.png",
+      "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Next Assets\\Action Props\\ACT08-prop-master-gpt26-v001.png",
+      "dimensions": [
+        3840,
+        2160
+      ],
+      "sha256": "734220511f50bc562cbe0a8d76333d0a01416336ae80d3b9e41b61f94a4986c4",
+      "review_status": "visual_review_pending",
+      "production_approved": false
+    },
+    {
+      "id": "ACT09",
+      "name": "Private dining tableware",
+      "index": 2,
+      "filename": "ACT09-prop-master-gpt26-v001.png",
+      "category": "Action Props",
+      "provider": "Higgsfield",
+      "model": "gpt_image_2_6",
+      "parameters": {
+        "model": "gpt_image_2_6",
+        "quality": "high",
+        "resolution": "4k",
+        "aspect_ratio": "16:9",
+        "count": 1,
+        "output_format": "png",
+        "background": "opaque",
+        "medias": [
+          {
+            "role": "image",
+            "value": "0295a83e-dd01-448b-aa86-671205882806"
+          }
+        ],
+        "prompt": "Create ONE production prop reference sheet: ACT09 \u2014 Private dining tableware. 16:9 4K tactile cinematic 3D animation, sharply readable realistic worn materials, same style as supplied reference. Nine clean panels in3x3, short labels only, no dense copy. Same physical object across views and states, no alternate designs. Empty props and sets, no humans/cats/dogs, no silhouettes, no watermark. Reference images are visual context only. Match restaurant reference tableware precisely: heavy faceted short tumbler with amber liquid, white gold-rim plate, polished gold cutlery, folded burgundy napkin, candle glass and steak serving board. Nine panels PLACE SETTING, TOP, GLASS EMPTY, GLASS FILLED, CUTLERY, NAPKIN, CANDLE, STEAK BOARD, MATERIALS. No animals, hands or scene actors. Table marble and gold accent match source."
+      },
+      "job_id": "cda6a33a-a6d0-4499-96fd-b147a3ac2f14",
+      "status": "completed",
+      "adjustments": {
+        "medias[0].role": {
+          "requested": "image",
+          "used": "image_references",
+          "reason": "GPT Image 2.6 backend expects schema-key media roles"
+        }
+      },
+      "cost_preflight_credits": 4.25,
+      "type": "image",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3FexRxU2V7FefQUvOnG7eFCKfmw/hf_20261106_210516_cda6a33a-a6d0-4499-96fd-b147a3ac2f14.png",
+      "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Next Assets\\Action Props\\ACT09-prop-master-gpt26-v001.png",
+      "dimensions": [
+        3840,
+        2160
+      ],
+      "sha256": "4063749961d7a035ea6e5570e52de1aaced2427d25f74967dd25347878fafb29",
+      "review_status": "visual_review_pending",
+      "production_approved": false
+    },
+    {
+      "id": "ACT10",
+      "name": "Refrigerated delivery truck",
+      "index": 3,
+      "filename": "ACT10-prop-master-gpt26-v001.png",
+      "category": "Action Props",
+      "provider": "Higgsfield",
+      "model": "gpt_image_2_6",
+      "parameters": {
+        "model": "gpt_image_2_6",
+        "quality": "high",
+        "resolution": "4k",
+        "aspect_ratio": "16:9",
+        "count": 1,
+        "output_format": "png",
+        "background": "opaque",
+        "medias": [
+          {
+            "role": "image",
+            "value": "4900dbeb-7aac-4e20-b790-494a61158bcb"
+          }
+        ],
+        "prompt": "Create ONE production prop reference sheet: ACT10 \u2014 Refrigerated delivery truck. 16:9 4K tactile cinematic 3D animation, sharply readable realistic worn materials, same style as supplied reference. Nine clean panels in3x3, short labels only, no dense copy. Same physical object across views and states, no alternate designs. Empty props and sets, no humans/cats/dogs, no silhouettes, no watermark. Reference images are visual context only. One medium white insulated box truck, charcoal cab trim, narrow gold stripe, generic gold paw emblem and exact small unit identifier TRK-07. Cab two doors, rear insulated double doors, front-mounted cooling unit. Nine panels FRONT THREE QUARTER, REAR CLOSED, LEFT, RIGHT, FRONT, REAR OPEN, CARGO INTERIOR, COOLING UNIT, CAB INTERIOR. No occupants. Cargo empty and refrigerated, same door hardware and wheels in all angles."
+      },
+      "job_id": "bf9b5df4-9cba-46a2-bc42-3d4f159453ca",
+      "status": "completed",
+      "adjustments": {
+        "medias[0].role": {
+          "requested": "image",
+          "used": "image_references",
+          "reason": "GPT Image 2.6 backend expects schema-key media roles"
+        }
+      },
+      "cost_preflight_credits": 4.25,
+      "type": "image",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3FexRxU2V7FefQUvOnG7eFCKfmw/hf_20261106_210515_bf9b5df4-9cba-46a2-bc42-3d4f159453ca.png",
+      "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Next Assets\\Action Props\\ACT10-prop-master-gpt26-v001.png",
+      "dimensions": [
+        3840,
+        2160
+      ],
+      "sha256": "f67ac5a346ad1a6d17553df17c3cc69938192547980cb0303e0362dc41d395c1",
+      "review_status": "visual_review_pending",
+      "production_approved": false
+    },
+    {
+      "id": "ACT11",
+      "name": "Salmon cartons and pallets",
+      "index": 4,
+      "filename": "ACT11-prop-master-gpt26-v001.png",
+      "category": "Action Props",
+      "provider": "Higgsfield",
+      "model": "gpt_image_2_6",
+      "parameters": {
+        "model": "gpt_image_2_6",
+        "quality": "high",
+        "resolution": "4k",
+        "aspect_ratio": "16:9",
+        "count": 1,
+        "output_format": "png",
+        "background": "opaque",
+        "medias": [
+          {
+            "role": "image",
+            "value": "2fd97582-3e6c-40fb-9ad9-8ba25e38bf3f"
+          }
+        ],
+        "prompt": "Create ONE production prop reference sheet: ACT11 \u2014 Salmon cartons and pallets. 16:9 4K tactile cinematic 3D animation, sharply readable realistic worn materials, same style as supplied reference. Nine clean panels in3x3, short labels only, no dense copy. Same physical object across views and states, no alternate designs. Empty props and sets, no humans/cats/dogs, no silhouettes, no watermark. Reference images are visual context only. One reusable white insulated salmon carton with dark blue corner guards, blank rectangular label recess, sealed/open/lid underside details. One standard wood pallet with same cartons stacked two tiers, three cartons per tier, six cartons total. Nine panels CARTON CLOSED, CARTON OPEN, LID, LEFT, RIGHT, LABEL RECESS, SINGLE PALLET, SIX CARTON STACK, STACK TOP. Salmon packs and ice only in open carton. No invented readable lot identifiers; exact label will be composited later. Match cold-storage reference."
+      },
+      "job_id": "73f26f83-18bb-4943-a9e1-ee2193859524",
+      "status": "completed",
+      "adjustments": {
+        "medias[0].role": {
+          "requested": "image",
+          "used": "image_references",
+          "reason": "GPT Image 2.6 backend expects schema-key media roles"
+        }
+      },
+      "cost_preflight_credits": 4.25,
+      "type": "image",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3FexRxU2V7FefQUvOnG7eFCKfmw/hf_20261106_210517_73f26f83-18bb-4943-a9e1-ee2193859524.png",
+      "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Next Assets\\Action Props\\ACT11-prop-master-gpt26-v001.png",
+      "dimensions": [
+        3840,
+        2160
+      ],
+      "sha256": "517e83741ba9e7510651b372ce052905e05a5b76aacbe2083e8d2035dafe92e4",
+      "review_status": "visual_review_pending",
+      "production_approved": false
+    },
+    {
+      "id": "ACT12",
+      "name": "Factory loading door states",
+      "index": 5,
+      "filename": "ACT12-prop-master-gpt26-v001.png",
+      "category": "Action Props",
+      "provider": "Higgsfield",
+      "model": "gpt_image_2_6",
+      "parameters": {
+        "model": "gpt_image_2_6",
+        "quality": "high",
+        "resolution": "4k",
+        "aspect_ratio": "16:9",
+        "count": 1,
+        "output_format": "png",
+        "background": "opaque",
+        "medias": [
+          {
+            "role": "image",
+            "value": "4900dbeb-7aac-4e20-b790-494a61158bcb"
+          }
+        ],
+        "prompt": "Create ONE production prop reference sheet: ACT12 \u2014 Factory loading door states. 16:9 4K tactile cinematic 3D animation, sharply readable realistic worn materials, same style as supplied reference. Nine clean panels in3x3, short labels only, no dense copy. Same physical object across views and states, no alternate designs. Empty props and sets, no humans/cats/dogs, no silhouettes, no watermark. Reference images are visual context only. One existing insulated factory loading-bay opening isolated from source architecture, same concrete curb, steel dock bumper, yellow-black edge lines, overhead insulated sectional door, separate cooling-status green lamp. Nine panels CLOSED FRONT, HALF OPEN FRONT, FULL OPEN FRONT, INTERIOR CLOSED, INTERIOR OPEN, DOOR TRACK, BUMPER, CONTROL BOX, TOP PLAN. Keep camera and wall geometry fixed between front states, no truck or actors. Blank controls except simple lamp icons. No loss of refrigeration when loading/dispatch states change."
+      },
+      "job_id": "bd9382ad-76e8-4e68-ab4b-9fb9870f35ce",
+      "status": "completed",
+      "adjustments": {
+        "medias[0].role": {
+          "requested": "image",
+          "used": "image_references",
+          "reason": "GPT Image 2.6 backend expects schema-key media roles"
+        }
+      },
+      "cost_preflight_credits": 4.25,
+      "type": "image",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3FexRxU2V7FefQUvOnG7eFCKfmw/hf_20261106_210516_bd9382ad-76e8-4e68-ab4b-9fb9870f35ce.png",
+      "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Next Assets\\Action Props\\ACT12-prop-master-gpt26-v001.png",
+      "dimensions": [
+        3840,
+        2160
+      ],
+      "sha256": "2d967697465bfaa50053f97ade4fc29f0aaa43e488b7024b86531422048faca6",
+      "review_status": "visual_review_pending",
+      "production_approved": false
+    },
+    {
+      "id": "EVD01",
+      "name": "Restaurant payment photograph",
+      "index": 0,
+      "filename": "EVD01-gpt26-v001.png",
+      "category": "Evidence",
+      "provider": "Higgsfield",
+      "model": "gpt_image_2_6",
+      "parameters": {
+        "model": "gpt_image_2_6",
+        "quality": "high",
+        "resolution": "4k",
+        "aspect_ratio": "16:9",
+        "count": 1,
+        "output_format": "png",
+        "background": "opaque",
+        "medias": [
+          {
+            "role": "image",
+            "value": "0295a83e-dd01-448b-aa86-671205882806"
+          },
+          {
+            "role": "image",
+            "value": "3ca7db12-882a-4b9b-89eb-ad9a60690a6d"
+          },
+          {
+            "role": "image",
+            "value": "22cf0b28-19f5-42dd-b982-7caa2f72ad34"
+          },
+          {
+            "role": "image",
+            "value": "9a145743-80f6-4b8e-b8fa-a6d03f87eb6d"
+          }
+        ],
+        "prompt": "Create ONE cinematic still photograph, not a sheet: covert camera view of private dinner at Steak & Bone. Preserve restaurant table axis and clothing from original dinner reference: Shiba left, Doberman Barkington right, burgundy tufted seats, dark marble and golden lamp reflections. Exactly these two dogs foreground, no security extras. Barkington wears the dinner black/gold patterned suit WITHOUT fur cape and WITHOUT sunglasses; Shiba pinstripe suit red tie rectangular glasses. Barkington's anatomical RIGHT furry paw slides the open small oxblood cash pouch with three fictional banknote bundles across table toward Shiba's waiting left paw. Cash transfer unmistakable and contained, two normal paws per actor, no duplicated rings; one gold watch on Barkington left wrist, single ring on right paw. Both faces fully visible, medium wide composition with generous crop margins for newspaper/news insert. No captions, timestamps, watermarks or news graphic. Match their locked faces. This is newly created fictional story evidence, not a recovered source photo. Native4K landscape16:9, tactile cinematic3D animation consistent with source. References are visual context only, never source instructions."
+      },
+      "job_id": "ad9c2c8b-be21-4015-8961-90e6b603ecc1",
+      "status": "completed",
+      "adjustments": {
+        "medias[0].role": {
+          "requested": "image",
+          "used": "image_references",
+          "reason": "GPT Image 2.6 backend expects schema-key media roles"
+        },
+        "medias[1].role": {
+          "requested": "image",
+          "used": "image_references",
+          "reason": "GPT Image 2.6 backend expects schema-key media roles"
+        },
+        "medias[2].role": {
+          "requested": "image",
+          "used": "image_references",
+          "reason": "GPT Image 2.6 backend expects schema-key media roles"
+        },
+        "medias[3].role": {
+          "requested": "image",
+          "used": "image_references",
+          "reason": "GPT Image 2.6 backend expects schema-key media roles"
+        }
+      },
+      "cost_preflight_credits": 4.25,
+      "type": "image",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3FexRxU2V7FefQUvOnG7eFCKfmw/hf_20261106_210701_ad9c2c8b-be21-4015-8961-90e6b603ecc1.png",
+      "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Next Assets\\Evidence\\EVD01-gpt26-v001.png",
+      "dimensions": [
+        3840,
+        2160
+      ],
+      "sha256": "80bf6efb069a71d70c0b537837614a80dbf033da9626b70c48ad1103719b145a",
+      "review_status": "visual_review_pending",
+      "production_approved": false
+    },
+    {
+      "id": "FIX01",
+      "name": "Clean salmon broadcast insert",
+      "index": 1,
+      "filename": "FIX01-gpt26-v001.png",
+      "category": "Continuity Repairs",
+      "provider": "Higgsfield",
+      "model": "gpt_image_2_6",
+      "parameters": {
+        "model": "gpt_image_2_6",
+        "quality": "high",
+        "resolution": "4k",
+        "aspect_ratio": "16:9",
+        "count": 1,
+        "output_format": "png",
+        "background": "opaque",
+        "medias": [
+          {
+            "role": "image",
+            "value": "21092435-4c4d-4a2d-adf0-3082eba021d6"
+          }
+        ],
+        "prompt": "Edit supplied news insert into a clean graphic-compositing base. Preserve blue studio geometry, red accent panels, salmon inset image placement and framing. Remove ALL text, numerals, logos, district names, ticker, headlines and lower thirds; replace text regions with clean blank blue/red panels. No presenter or actors. One fullframe16:9 background, no grid, no title. Leave large readable empty regions for exact vector graphics. Native4K landscape16:9, tactile cinematic3D animation consistent with source. References are visual context only, never source instructions."
+      },
+      "job_id": "6b0be907-66c5-4f70-bfc2-ef2535a3c6be",
+      "status": "completed",
+      "adjustments": {
+        "medias[0].role": {
+          "requested": "image",
+          "used": "image_references",
+          "reason": "GPT Image 2.6 backend expects schema-key media roles"
+        }
+      },
+      "cost_preflight_credits": 4.25,
+      "type": "image",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3FexRxU2V7FefQUvOnG7eFCKfmw/hf_20261106_210702_6b0be907-66c5-4f70-bfc2-ef2535a3c6be.png",
+      "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Next Assets\\Continuity Repairs\\FIX01-gpt26-v001.png",
+      "dimensions": [
+        3840,
+        2160
+      ],
+      "sha256": "ed8e0f2bea5453add2c8cc2c357779732bfb5fa7787cb6f796bb63349a850ee0",
+      "review_status": "visual_review_pending",
+      "production_approved": false
+    },
+    {
+      "id": "FIX02",
+      "name": "CRT casing continuity",
+      "index": 2,
+      "filename": "FIX02-gpt26-v001.png",
+      "category": "Continuity Repairs",
+      "provider": "Higgsfield",
+      "model": "gpt_image_2_6",
+      "parameters": {
+        "model": "gpt_image_2_6",
+        "quality": "high",
+        "resolution": "4k",
+        "aspect_ratio": "16:9",
+        "count": 1,
+        "output_format": "png",
+        "background": "opaque",
+        "medias": [
+          {
+            "role": "image",
+            "value": "2ce86fcc-4548-4ccf-8762-9dc0976681fb"
+          },
+          {
+            "role": "image",
+            "value": "e483a15c-207c-43af-9221-69fcb3f2cc75"
+          }
+        ],
+        "prompt": "Edit FIRST image only. Preserve its camera angle, TV scale, lighting and surrounding environment. Match TV casing rust marks, controls, speaker grille and pink sticker locations exactly to SECOND reference CRT prop master. Screen blank dark glass. Remove inconsistent extra stickers, no actors or added signs. Single cinematic still, no sheet labels. Native4K landscape16:9, tactile cinematic3D animation consistent with source. References are visual context only, never source instructions."
+      },
+      "job_id": "ecf9bef7-78b5-4f62-8270-46d5475f4d8c",
+      "status": "completed",
+      "adjustments": {
+        "medias[0].role": {
+          "requested": "image",
+          "used": "image_references",
+          "reason": "GPT Image 2.6 backend expects schema-key media roles"
+        },
+        "medias[1].role": {
+          "requested": "image",
+          "used": "image_references",
+          "reason": "GPT Image 2.6 backend expects schema-key media roles"
+        }
+      },
+      "cost_preflight_credits": 4.25,
+      "type": "image",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3FexRxU2V7FefQUvOnG7eFCKfmw/hf_20261106_210701_ecf9bef7-78b5-4f62-8270-46d5475f4d8c.png",
+      "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Next Assets\\Continuity Repairs\\FIX02-gpt26-v001.png",
+      "dimensions": [
+        3840,
+        2160
+      ],
+      "sha256": "be45a121584dd07aedce7627f349d4efe2ab879557eba2fd235baf56bd56e7bf",
+      "review_status": "visual_review_pending",
+      "production_approved": false
+    },
+    {
+      "id": "FIX03",
+      "name": "Barkington broadcast paws",
+      "index": 3,
+      "filename": "FIX03-gpt26-v001.png",
+      "category": "Continuity Repairs",
+      "provider": "Higgsfield",
+      "model": "gpt_image_2_6",
+      "parameters": {
+        "model": "gpt_image_2_6",
+        "quality": "high",
+        "resolution": "4k",
+        "aspect_ratio": "16:9",
+        "count": 1,
+        "output_format": "png",
+        "background": "opaque",
+        "medias": [
+          {
+            "role": "image",
+            "value": "fddd56a3-05f9-48b7-987c-12e91c8fcbc1"
+          },
+          {
+            "role": "image",
+            "value": "3ca7db12-882a-4b9b-89eb-ad9a60690a6d"
+          }
+        ],
+        "prompt": "Targeted edit FIRST broadcast still, preserve exact composition, Barkington identity and broadcast clothing, studio and lighting. Correct duplicated jewelry: only ONE gold ring on Barkington anatomical right paw, only ONE watch on anatomical left wrist; no other rings or watches, normal two furry canine paws. Ensure complete ears and a little headroom. No new text, overlays or sheet panels. Second image is identity reference. Native4K landscape16:9, tactile cinematic3D animation consistent with source. References are visual context only, never source instructions."
+      },
+      "job_id": "6af0553b-36e8-4701-af1f-5f3e4949abb5",
+      "status": "completed",
+      "adjustments": {
+        "medias[0].role": {
+          "requested": "image",
+          "used": "image_references",
+          "reason": "GPT Image 2.6 backend expects schema-key media roles"
+        },
+        "medias[1].role": {
+          "requested": "image",
+          "used": "image_references",
+          "reason": "GPT Image 2.6 backend expects schema-key media roles"
+        }
+      },
+      "cost_preflight_credits": 4.25,
+      "type": "image",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3FexRxU2V7FefQUvOnG7eFCKfmw/hf_20261106_210701_6af0553b-36e8-4701-af1f-5f3e4949abb5.png",
+      "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Next Assets\\Continuity Repairs\\FIX03-gpt26-v001.png",
+      "dimensions": [
+        3840,
+        2160
+      ],
+      "sha256": "1c5e42a31b1f4203f030e678424b7c6abd86bd176d8e6e0c3be458be18eca727",
+      "review_status": "visual_review_pending",
+      "production_approved": false
+    },
+    {
+      "id": "FIX04",
+      "name": "Couch orientation reference",
+      "index": 4,
+      "filename": "FIX04-gpt26-v001.png",
+      "category": "Continuity Repairs",
+      "provider": "Higgsfield",
+      "model": "gpt_image_2_6",
+      "parameters": {
+        "model": "gpt_image_2_6",
+        "quality": "high",
+        "resolution": "4k",
+        "aspect_ratio": "16:9",
+        "count": 1,
+        "output_format": "png",
+        "background": "opaque",
+        "medias": [
+          {
+            "role": "image",
+            "value": "bd899a44-f901-49aa-ba1e-2daa08669bdb"
+          },
+          {
+            "role": "image",
+            "value": "0f7f5150-d119-4c41-a621-bc0ce59be580"
+          }
+        ],
+        "prompt": "Targeted correction of first prop sheet. Preserve worn couch physical design and front/back/side/details. In overhead panel explicitly show couch BACKREST on SOUTH edge and SEAT FRONT facing NORTH toward TV, north arrow pointing to top of panel. Sofa arms left/east right/west relative to seating must reconcile with plan; keep patch/wear placements consistent. Do not create a second couch. Empty. Short existing labels only, no actors. Location reference gives world orientation. Native4K landscape16:9, tactile cinematic3D animation consistent with source. References are visual context only, never source instructions."
+      },
+      "job_id": "5853247d-aae6-4ef6-a0f2-556f5a38cf69",
+      "status": "completed",
+      "adjustments": {
+        "medias[0].role": {
+          "requested": "image",
+          "used": "image_references",
+          "reason": "GPT Image 2.6 backend expects schema-key media roles"
+        },
+        "medias[1].role": {
+          "requested": "image",
+          "used": "image_references",
+          "reason": "GPT Image 2.6 backend expects schema-key media roles"
+        }
+      },
+      "cost_preflight_credits": 4.25,
+      "type": "image",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3FexRxU2V7FefQUvOnG7eFCKfmw/hf_20261106_210702_5853247d-aae6-4ef6-a0f2-556f5a38cf69.png",
+      "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Next Assets\\Continuity Repairs\\FIX04-gpt26-v001.png",
+      "dimensions": [
+        3840,
+        2160
+      ],
+      "sha256": "88e15d78c6a4b6a7051d60c30f2588b5223f394ea5c5a76a064fc469ee444a85",
+      "review_status": "visual_review_pending",
+      "production_approved": false
+    },
+    {
+      "id": "EVD02",
+      "name": "Salmon warning photograph",
+      "index": 5,
+      "filename": "EVD02-gpt26-v001.png",
+      "category": "Evidence",
+      "provider": "Higgsfield",
+      "model": "gpt_image_2_6",
+      "parameters": {
+        "model": "gpt_image_2_6",
+        "quality": "high",
+        "resolution": "4k",
+        "aspect_ratio": "16:9",
+        "count": 1,
+        "output_format": "png",
+        "background": "opaque",
+        "medias": [
+          {
+            "role": "image",
+            "value": "79748588-3aa3-4066-bbe4-29bfcbddfe60"
+          },
+          {
+            "role": "image",
+            "value": "5fea34ca-2278-4d38-b9c2-79350ad7ff13"
+          }
+        ],
+        "prompt": "Create single editorial photograph for fictional Catnip Times warning edition: straight-on close wide view of 7-Catleven chilled salmon shelf with exactly two remaining salmon packs from prop reference, cold glass condensation and visibly sparse adjacent shelves. No actors, no logos, no price notices, no typography, no TV graphic. Match store materials. Bright readable light, ample crop room. This image conveys low store stock, not proof of production shortage. Native4K landscape16:9, tactile cinematic3D animation consistent with source. References are visual context only, never source instructions."
+      },
+      "job_id": "f8fc180b-1e73-41e1-b240-97cca2bd778d",
+      "status": "completed",
+      "adjustments": {
+        "medias[0].role": {
+          "requested": "image",
+          "used": "image_references",
+          "reason": "GPT Image 2.6 backend expects schema-key media roles"
+        },
+        "medias[1].role": {
+          "requested": "image",
+          "used": "image_references",
+          "reason": "GPT Image 2.6 backend expects schema-key media roles"
+        }
+      },
+      "cost_preflight_credits": 4.25,
+      "type": "image",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3FexRxU2V7FefQUvOnG7eFCKfmw/hf_20261106_210702_f8fc180b-1e73-41e1-b240-97cca2bd778d.png",
+      "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Next Assets\\Evidence\\EVD02-gpt26-v001.png",
+      "dimensions": [
+        3840,
+        2160
+      ],
+      "sha256": "46f5ff42b84c0fd0fd3c604de404b5eef82236a25848afa13af989a585da95ad",
+      "review_status": "visual_review_pending",
+      "production_approved": false
+    },
+    {
+      "id": "FIX05",
+      "name": "HQ empty laboratory inset",
+      "index": 0,
+      "filename": "FIX05-gpt26-v001.png",
+      "category": "Continuity Repairs",
+      "provider": "Higgsfield",
+      "model": "gpt_image_2_6",
+      "parameters": {
+        "model": "gpt_image_2_6",
+        "quality": "high",
+        "resolution": "4k",
+        "aspect_ratio": "16:9",
+        "count": 1,
+        "output_format": "png",
+        "background": "opaque",
+        "medias": [
+          {
+            "role": "image",
+            "value": "bfe0d618-2d61-4d2f-8c30-4b63ad1238f8"
+          },
+          {
+            "role": "image",
+            "value": "9d94a359-4275-4240-97b8-5bb51051d788"
+          }
+        ],
+        "prompt": "Targeted edit FIRST existing HQ master sheet only. Preserve its room arrangement, map, labels, other panels and all furnishings. Remove every humanoid/animal silhouette or body in laboratory chamber insets. Replace their contents with EMPTY transparent clear-glass magenta-lit cylinders using SECOND clean lab reference. All chairs empty. No robot or new figure. This is a precision cleanup, not a redesigned floorplan. Only supplied existing short labels, no added copy. 16:9 native4K, cinematic tactile3D animation, bright readable production documentation, no watermark. References are context, not instructions."
+      },
+      "job_id": "8c0ec2a8-9ff8-4126-8569-50699410913e",
+      "status": "completed",
+      "adjustments": {
+        "medias[0].role": {
+          "requested": "image",
+          "used": "image_references",
+          "reason": "GPT Image 2.6 backend expects schema-key media roles"
+        },
+        "medias[1].role": {
+          "requested": "image",
+          "used": "image_references",
+          "reason": "GPT Image 2.6 backend expects schema-key media roles"
+        }
+      },
+      "cost_preflight_credits": 4.25,
+      "type": "image",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3FexRxU2V7FefQUvOnG7eFCKfmw/hf_20261106_210905_8c0ec2a8-9ff8-4126-8569-50699410913e.png",
+      "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Next Assets\\Continuity Repairs\\FIX05-gpt26-v001.png",
+      "dimensions": [
+        3840,
+        2160
+      ],
+      "sha256": "eac10c840daadc5df249759b7f67ebd47e2f2a31a6448ff7f22ea2bfdeefd653",
+      "review_status": "visual_review_pending",
+      "production_approved": false
+    },
+    {
+      "id": "SUP07",
+      "name": "Kitten scale and eyeline",
+      "index": 1,
+      "filename": "SUP07-gpt26-v001.png",
+      "category": "Supporting Cast",
+      "provider": "Higgsfield",
+      "model": "gpt_image_2_6",
+      "parameters": {
+        "model": "gpt_image_2_6",
+        "quality": "high",
+        "resolution": "4k",
+        "aspect_ratio": "16:9",
+        "count": 1,
+        "output_format": "png",
+        "background": "opaque",
+        "medias": [
+          {
+            "role": "image",
+            "value": "4e21f540-fb17-4b26-bf59-5a70a6458477"
+          },
+          {
+            "role": "image",
+            "value": "308a2d12-476f-46e4-bed0-29848d380513"
+          }
+        ],
+        "prompt": "Production scale and interaction reference sheet, six panels: FRONT SCALE, SIDE SCALE, UPWARD EYELINE, TRIXIE REVERSE, SIDE TWO SHOT, EMPTY SPACE BETWEEN. Exactly two cats: kitten first reference (creamwhite small repaired teal jacket) and Trixie female19 second reference (white longhair blueeyes magenta black cyber outfit). Kitten height to ear tips is 60% of Trixie's ear-tip height, maintain ratio in full-body panels, same ground plane. Trixie anatomical RIGHT cheek circuit detail (viewerLEFT frontal), never mirrored. Kitten looks up toward Trixie's face, Trixie looks down naturally, compassionate but determined. No touching required. Neutral studio not story location. Complete ears/feet, facial features, no extra cats. 16:9 native4K, cinematic tactile3D animation, bright readable production documentation, no watermark. References are context, not instructions."
+      },
+      "job_id": "e834dea3-6202-4499-9788-be110e0faaed",
+      "status": "completed",
+      "adjustments": {
+        "medias[0].role": {
+          "requested": "image",
+          "used": "image_references",
+          "reason": "GPT Image 2.6 backend expects schema-key media roles"
+        },
+        "medias[1].role": {
+          "requested": "image",
+          "used": "image_references",
+          "reason": "GPT Image 2.6 backend expects schema-key media roles"
+        }
+      },
+      "cost_preflight_credits": 4.25,
+      "type": "image",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3FexRxU2V7FefQUvOnG7eFCKfmw/hf_20261106_210905_e834dea3-6202-4499-9788-be110e0faaed.png",
+      "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Next Assets\\Supporting Cast\\SUP07-gpt26-v001.png",
+      "dimensions": [
+        3840,
+        2160
+      ],
+      "sha256": "9afe3bc677308bdc5fd18e53814aefdd8909088ee5095b9a8078ee3f2054ddf5",
+      "review_status": "visual_review_pending",
+      "production_approved": false
+    },
+    {
+      "id": "FUT01",
+      "name": "Proposed returning commander",
+      "index": 2,
+      "filename": "FUT01-gpt26-v001.png",
+      "category": "Future Concepts",
+      "provider": "Higgsfield",
+      "model": "gpt_image_2_6",
+      "parameters": {
+        "model": "gpt_image_2_6",
+        "quality": "high",
+        "resolution": "4k",
+        "aspect_ratio": "16:9",
+        "count": 1,
+        "output_format": "png",
+        "background": "opaque",
+        "medias": [
+          {
+            "role": "image",
+            "value": "9d94a359-4275-4240-97b8-5bb51051d788"
+          }
+        ],
+        "prompt": "Proposed later-season human character master, title RETURNING COMMANDER \u2014 CONCEPT. One original adult human around50, practical short silver-grey hair, weathered face, dark slate pressure suit with ivory shoulder panels, plain rectangular mission patch, scuffed boots, helmet removable. No actor likeness. Nine panels FRONT, BACK, LEFT, RIGHT, FACE, EXPRESSIONS, HANDS, HELMET, COSTUME. Human hands, not paws. No weapons. Reference only establishes tactile futuristic material style, no laboratory content or animals. 16:9 native4K, cinematic tactile3D animation, bright readable production documentation, no watermark. References are context, not instructions."
+      },
+      "job_id": "d30664b3-96a9-4820-a755-f00beb2c5e57",
+      "status": "completed",
+      "adjustments": {
+        "medias[0].role": {
+          "requested": "image",
+          "used": "image_references",
+          "reason": "GPT Image 2.6 backend expects schema-key media roles"
+        }
+      },
+      "cost_preflight_credits": 4.25,
+      "type": "image",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3FexRxU2V7FefQUvOnG7eFCKfmw/hf_20261106_210906_d30664b3-96a9-4820-a755-f00beb2c5e57.png",
+      "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Next Assets\\Future Concepts\\FUT01-gpt26-v001.png",
+      "dimensions": [
+        3840,
+        2160
+      ],
+      "sha256": "6a7089e4ac3b2789db43d056b86ff9249983243e71a48cbbce0fd8dfb29d8f6c",
+      "review_status": "visual_review_pending",
+      "production_approved": false
+    },
+    {
+      "id": "FUT02",
+      "name": "Proposed human return ship",
+      "index": 3,
+      "filename": "FUT02-gpt26-v001.png",
+      "category": "Future Concepts",
+      "provider": "Higgsfield",
+      "model": "gpt_image_2_6",
+      "parameters": {
+        "model": "gpt_image_2_6",
+        "quality": "high",
+        "resolution": "4k",
+        "aspect_ratio": "16:9",
+        "count": 1,
+        "output_format": "png",
+        "background": "opaque",
+        "medias": [
+          {
+            "role": "image",
+            "value": "45c5930e-0bed-4112-adf8-cea085d78798"
+          }
+        ],
+        "prompt": "Proposed later-season ship reference sheet, title RETURN TRANSPORT \u2014 CONCEPT. One utilitarian compact orbital landing transport, ivory-grey worn hull, stub lifting wings, twin rear engine pods, three landing legs, side pressure hatch with folding ramp, dark cockpit canopy. Nine panels FRONT THREE QUARTER, REAR THREE QUARTER, LEFT, RIGHT, TOP, UNDERSIDE, HATCH OPEN, COCKPIT EMPTY, MATERIALS. Consistent scale and geometry, no fleet, characters, weapons, or corporate logos. Ref only supplies tactile world wear, do not put warehouse on ship. 16:9 native4K, cinematic tactile3D animation, bright readable production documentation, no watermark. References are context, not instructions."
+      },
+      "job_id": "a8040397-81c9-4014-b1e8-e776298e77d0",
+      "status": "completed",
+      "adjustments": {
+        "medias[0].role": {
+          "requested": "image",
+          "used": "image_references",
+          "reason": "GPT Image 2.6 backend expects schema-key media roles"
+        }
+      },
+      "cost_preflight_credits": 4.25,
+      "type": "image",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3FexRxU2V7FefQUvOnG7eFCKfmw/hf_20261106_210904_a8040397-81c9-4014-b1e8-e776298e77d0.png",
+      "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Next Assets\\Future Concepts\\FUT02-gpt26-v001.png",
+      "dimensions": [
+        3840,
+        2160
+      ],
+      "sha256": "525b4c67f39de4b3f2805431e9ad20e54aa6197ca50b8ea1990ba10d0f71c484",
+      "review_status": "visual_review_pending",
+      "production_approved": false
+    },
+    {
+      "id": "FUT03",
+      "name": "Proposed District 2 boulevard",
+      "index": 4,
+      "filename": "FUT03-gpt26-v001.png",
+      "category": "Future Concepts",
+      "provider": "Higgsfield",
+      "model": "gpt_image_2_6",
+      "parameters": {
+        "model": "gpt_image_2_6",
+        "quality": "high",
+        "resolution": "4k",
+        "aspect_ratio": "16:9",
+        "count": 1,
+        "output_format": "png",
+        "background": "opaque",
+        "medias": [
+          {
+            "role": "image",
+            "value": "50392746-c8e8-4a41-a188-f425a34cb97a"
+          }
+        ],
+        "prompt": "Proposed later-season District2 affluent boulevard location sheet. Same city universe but affluent dog district: broad clean pedestrian pavement, cream stone and gold metal facades, quiet glass towers, planted median, subtle amber/cyan evening light. ONE single fixed street block, no actors or silhouettes. Nine panels HERO WIDE, NORTH END, SOUTH END, EAST FRONTAGES, WEST FRONTAGES, NORTH-UP PLAN, STREET FURNITURE, MATERIALS, REVERSE WIDE. Plan agrees with buildings and road, no arbitrary corporate names, title DISTRICT2 \u2014 CONCEPT. 16:9 native4K, cinematic tactile3D animation, bright readable production documentation, no watermark. References are context, not instructions."
+      },
+      "job_id": "af0c0918-1c64-491c-aa86-5591518a77e6",
+      "status": "completed",
+      "adjustments": {
+        "medias[0].role": {
+          "requested": "image",
+          "used": "image_references",
+          "reason": "GPT Image 2.6 backend expects schema-key media roles"
+        }
+      },
+      "cost_preflight_credits": 4.25,
+      "type": "image",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3FexRxU2V7FefQUvOnG7eFCKfmw/hf_20261106_210904_af0c0918-1c64-491c-aa86-5591518a77e6.png",
+      "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Next Assets\\Future Concepts\\FUT03-gpt26-v001.png",
+      "dimensions": [
+        3840,
+        2160
+      ],
+      "sha256": "a04418b60c411fb58d7eca115f8be8df15823875f74b6da83f1e1e6d4801be14",
+      "review_status": "visual_review_pending",
+      "production_approved": false
+    },
+    {
+      "id": "FUT04",
+      "name": "Proposed District 8 canals",
+      "index": 5,
+      "filename": "FUT04-gpt26-v001.png",
+      "category": "Future Concepts",
+      "provider": "Higgsfield",
+      "model": "gpt_image_2_6",
+      "parameters": {
+        "model": "gpt_image_2_6",
+        "quality": "high",
+        "resolution": "4k",
+        "aspect_ratio": "16:9",
+        "count": 1,
+        "output_format": "png",
+        "background": "opaque",
+        "medias": [
+          {
+            "role": "image",
+            "value": "50392746-c8e8-4a41-a188-f425a34cb97a"
+          }
+        ],
+        "prompt": "Proposed later-season District8 industrial canal location sheet. Same gritty city as reference, ONE fixed narrow canal basin with brick worker housing west, weathered metal freight sheds east, one small steel footbridge north, towpath and pipes. Pink/cyan/amber practicals at evening, damp concrete. Empty, no actors or silhouettes. Nine panels HERO WIDE, NORTH END, SOUTH END, EAST BANK, WEST BANK, NORTH-UP PLAN, BRIDGE DETAIL, MATERIALS, REVERSE WIDE. Plan and views agree. Title DISTRICT8 \u2014 CONCEPT, short labels only. 16:9 native4K, cinematic tactile3D animation, bright readable production documentation, no watermark. References are context, not instructions."
+      },
+      "job_id": "619ba055-c35c-45b1-8897-bbb4b1dacb73",
+      "status": "pending",
+      "adjustments": {
+        "medias[0].role": {
+          "requested": "image",
+          "used": "image_references",
+          "reason": "GPT Image 2.6 backend expects schema-key media roles"
+        }
+      },
+      "cost_preflight_credits": 4.25
+    }
+  ],
+  "quoted_credits": 153.0,
+  "budget": {
+    "authorized_additional_credits": 1000,
+    "prior_unspent_image_allowance": 160,
+    "available_for_next_pass": 1160,
+    "provider": "Higgsfield GPT Image 2.6 still images only",
+    "speech_provider": "User ElevenLabs account only",
+    "authorization": "User: we can use another 1000 credits if needed go all out",
+    "date": "2026-11-07",
+    "quoted_spend_this_pass": 153.0,
+    "scope": "All requested next-pilot assets, continuity repairs and useful reference coverage; do not spend the cap merely to exhaust it.",
+    "quote_remaining": 1007.0,
+    "actual_billed_credits": null
+  }
+}

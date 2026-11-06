@@ -1,0 +1,396 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="color-scheme" content="dark">
+<title>Location sheets · CyberKitty 2077</title>
+<style>
+:root{--bg:#0b0d13;--surface:#131722;--line:#293041;--text:#edf0f8;--muted:#a3aec4;--cyan:#78e9e1;--pink:#ec8eca;--amber:#e6bd77}
+*{box-sizing:border-box}html{scroll-behavior:smooth}body{margin:0;background:radial-gradient(ellipse at 10% 0%,#12242c 0,transparent 38%),radial-gradient(ellipse at 95% 8%,#24172c 0,transparent 30%),var(--bg);color:var(--text);font-family:Inter,ui-sans-serif,system-ui,-apple-system,"Segoe UI",sans-serif;line-height:1.55}
+a{color:inherit;text-decoration:none}button,input{font:inherit}button,a,input{-webkit-tap-highlight-color:transparent}:focus-visible{outline:2px solid var(--cyan);outline-offset:5px}
+.wrap{width:min(1600px,100%);margin:auto;padding:56px clamp(20px,4vw,64px) 48px}
+.eyebrow{color:var(--cyan);font-size:.75rem;font-weight:750;letter-spacing:.22em;margin:0 0 12px}
+header{display:flex;justify-content:space-between;gap:36px;align-items:flex-start;border-bottom:1px solid var(--line);padding-bottom:30px}
+h1{font-size:clamp(2.2rem,4.3vw,4.2rem);letter-spacing:-.055em;line-height:1.08;margin:0 0 18px;font-weight:720}
+.intro{color:var(--muted);max-width:680px;font-size:1rem;margin:0}
+.header-mark{border:1px solid #4b4150;border-radius:99px;color:var(--pink);white-space:nowrap;font-size:.78rem;letter-spacing:.06em;padding:10px 16px;margin-top:28px}
+.summary{display:flex;align-items:center;flex-wrap:wrap;gap:12px 24px;color:var(--muted);font-size:.82rem;margin-top:26px}
+.summary strong{color:var(--text);font-weight:600}.dot{color:#566079}
+.toolbar{display:flex;align-items:center;justify-content:space-between;gap:16px;margin:28px 0 24px}
+.search{position:relative;flex:1;max-width:440px}.search input{width:100%;background:#10151e;border:1px solid var(--line);border-radius:8px;color:var(--text);padding:12px 16px 12px 42px;outline-offset:3px}.search span{position:absolute;left:15px;top:11px;color:var(--muted)}input::placeholder{color:#7e8aa2}
+.toolbar-right{display:flex;gap:20px;align-items:center}.results{font-size:.8rem;color:var(--muted)}.refresh{border:1px solid var(--line);background:transparent;color:var(--text);padding:10px 14px;border-radius:8px;cursor:pointer}.refresh:hover{background:#1b2430;border-color:#4d6378}
+.grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:24px}
+.card{overflow:hidden;background:linear-gradient(150deg,#151b27,#121620);border:1px solid var(--line);border-radius:12px;transition:border-color .18s,transform .18s;min-width:0}
+.card:hover{border-color:#4b6673;transform:translateY(-2px)}
+.preview{display:block;position:relative;aspect-ratio:16/9;background:#10151c;overflow:hidden;border-bottom:1px solid var(--line)}
+.preview img{display:block;width:100%;height:100%;object-fit:contain;position:relative;opacity:0;transition:opacity .25s}.card.loaded .preview img{opacity:1}.card.missing .preview img{visibility:hidden}
+.placeholder{position:absolute;inset:0;display:flex;flex-direction:column;align-items:center;justify-content:center;gap:10px;background:linear-gradient(135deg,#121d25,#151824);color:#8999ae;font-size:.8rem}.placeholder-symbol{font-size:2.2rem;font-weight:200;color:#395466}.card.loaded .placeholder{display:none}
+.open-hint{position:absolute;right:10px;bottom:10px;background:#070b13d9;color:#ecf7fb;border:1px solid #ffffff22;border-radius:5px;padding:4px 8px;font-size:.7rem;opacity:0;transition:opacity .18s}.card.loaded:hover .open-hint,.card.loaded .preview:focus-visible .open-hint{opacity:1}
+.card-content{padding:20px}.card-top{display:flex;align-items:center;justify-content:space-between;gap:8px}.location-id{font-size:.75rem;font-weight:750;letter-spacing:.12em;color:var(--cyan)}.review-label{font-size:.7rem;color:var(--amber);display:flex;align-items:center;gap:6px}.review-label i{display:block;width:5px;height:5px;background:var(--amber);border-radius:50%}
+h2{font-size:1.12rem;letter-spacing:-.02em;line-height:1.35;margin:10px 0 16px;min-height:2.7em;font-weight:650}h2 a:hover{color:var(--cyan)}
+.scenes{font-size:.65rem;letter-spacing:.1em;color:#8693ab;margin:0 0 9px}.scenes span{letter-spacing:.03em;color:#c3cede;margin-left:6px;font-size:.73rem}
+.rooms{font-size:.77rem;color:var(--muted);line-height:1.6;margin:0;min-height:3.2em}
+.card-footer{border-top:1px solid var(--line);margin-top:18px;padding-top:14px;display:flex;align-items:center;justify-content:space-between;gap:12px}.dimensions{font-size:.67rem;color:#8190aa;line-height:1.4}.dimensions.verified{color:#83cdbb}.download{font-size:.73rem;font-weight:700;border:1px solid #3c4a60;border-radius:6px;padding:7px 10px;white-space:nowrap;color:#d5dfed}.download span{color:var(--cyan);margin-left:8px}.download:hover{border-color:var(--cyan);background:#1a2c34}.missing .download{opacity:.4}
+.empty{padding:50px 20px;text-align:center;border:1px dashed var(--line);color:var(--muted);border-radius:12px}
+footer{margin-top:36px;border-top:1px solid var(--line);padding-top:20px;display:flex;justify-content:space-between;gap:20px;flex-wrap:wrap;color:#8794ac;font-size:.75rem}
+[hidden]{display:none!important}
+@media(min-width:1500px){.grid{grid-template-columns:repeat(4,minmax(0,1fr));gap:22px}}
+@media(max-width:1050px){.grid{grid-template-columns:repeat(2,minmax(0,1fr))}}
+@media(max-width:620px){.wrap{padding-top:32px}.grid{grid-template-columns:1fr;gap:20px}header{display:block}.header-mark{display:inline-block;margin-top:22px}.toolbar{align-items:stretch;flex-direction:column}.search{max-width:none}.toolbar-right{justify-content:space-between}h2{min-height:0}.rooms{min-height:0}.summary{gap:8px 14px}}
+@media(prefers-reduced-motion:reduce){*{scroll-behavior:auto!important;transition:none!important}.card:hover{transform:none}}
+.qa-details{margin-top:14px;border-top:1px solid var(--line);padding-top:12px;font-size:.75rem;color:var(--muted)}.qa-details summary{cursor:pointer;color:var(--cyan);font-weight:600}.qa-details ul{padding-left:18px}.qa-details li{margin:10px 0}.qa-details p{margin:12px 0}.qa-details a{color:var(--cyan);text-decoration:underline;text-underline-offset:3px}.qa-details strong{color:#d8e3ef}.qa-report{color:var(--cyan);font-size:.8rem;white-space:nowrap}
+</style>
+</head>
+<body>
+<main class="wrap">
+<header>
+  <div><p class="eyebrow">CYBERKITTY 2077 / PRODUCTION LIBRARY</p><h1>Twenty places.<br>One consistent world.</h1><p class="intro">The location-sheet collection for <em>The Great Salmon Shortage</em>. Open any sheet to inspect the full image, or download its PNG for review.</p>
+  <div class="summary"><strong>20 locations</strong><span class="dot">/</span><span>GPT Image 2.6</span><span class="dot">/</span><span>Verified 3840 × 2160 · 16:9</span></div></div>
+  <span class="header-mark">REVIEW DRAFTS · APPROVAL PENDING</span>
+</header>
+<div class="toolbar">
+  <label class="search"><span aria-hidden="true">⌕</span><input id="search" type="search" placeholder="Find a location, room or ID…" aria-label="Search locations"></label>
+  <div class="toolbar-right"><a class="qa-report" href="QA-notes.md" target="_blank" rel="noopener">QA report ↗</a><span class="results" id="results" role="status">20 locations</span><button class="refresh" id="refresh" type="button">Refresh previews ↻</button></div>
+</div>
+<section class="grid" id="gallery" aria-label="Location reference sheets">
+<article class="card" data-search="loc01 resistance warehouse exterior south cargo entrance and staff door · north service wall · east workshop side · west window side · loading apron and roof" data-location="LOC01">
+  <a class="preview image-link" href="LOC01-resistance-warehouse-exterior-gpt26-v001.png" target="_blank" rel="noopener" aria-label="Open LOC01: Resistance warehouse exterior full-size sheet">
+    <div class="placeholder"><span class="placeholder-symbol" aria-hidden="true">▧</span><span class="placeholder-label">Preview loads as you browse</span></div>
+    <img src="LOC01-resistance-warehouse-exterior-gpt26-v001.png" width="3840" height="2160" loading="lazy" decoding="async" alt="LOC01 — Resistance warehouse exterior, nine-panel empty location reference sheet">
+    <span class="open-hint">Open full size ↗</span>
+  </a>
+  <div class="card-content">
+    <div class="card-top"><span class="location-id">LOC01</span><span class="review-label"><i aria-hidden="true"></i>Approval pending</span></div>
+    <h2><a class="image-link" href="LOC01-resistance-warehouse-exterior-gpt26-v001.png" target="_blank" rel="noopener">Resistance warehouse exterior</a></h2>
+    <p class="scenes">PILOT SCENES <span>01, 04</span></p>
+    <p class="rooms">South cargo entrance and staff door · North service wall · East workshop side · West window side · Loading apron and roof</p>
+    <details class="qa-details"><summary>QA notes · 2 findings</summary><p>Initial reviewer result: <strong>draft-corrections</strong>. Production approval remains pending.</p><ul><li><strong>annotation_required_before_blocking · 6 OVERHEAD PLAN</strong><br>Roof/site view does not clearly identify south cargo/staff and north service-bay door footprints. A/B/C arrows correspond to south front, north wall and southeast hero, but no arrow represents panel 9&#x27;s southward apron-to-street reverse.<br><em>Correction:</em> Annotate door footprints. Use an explicit legend such as A hero southeast looking northwest, B north looking south, C at south loading apron looking south to street. Keep the rendered architecture.</li><li><strong>minor_state_note · 9 REVERSE WIDE</strong><br>Reverse appears under/inside the loading threshold whereas front facade views have a closed shutter.<br><em>Correction:</em> When extracting plates, label open/closed shutter state explicitly; do not treat these as simultaneous door states.</li></ul><p>Keep as review draft; annotation and state clarification are sufficient. No full rerender or extra generation retry recommended.</p><a href="QA-notes.md#loc01" target="_blank" rel="noopener">Open full QA report ↗</a></details>
+<div class="card-footer"><span class="dimensions">Dimensions checked on preview load</span><a class="download image-link" href="LOC01-resistance-warehouse-exterior-gpt26-v001.png" download="LOC01-resistance-warehouse-exterior-gpt26-v001.png" aria-label="Download LOC01 PNG">PNG <span aria-hidden="true">↓</span></a></div>
+  </div>
+</article>
+<article class="card" data-search="loc02 resistance warehouse lounge tv wall · couch and console area · window side · entry passage · reverse wall" data-location="LOC02">
+  <a class="preview image-link" href="LOC02-resistance-warehouse-lounge-gpt26-v001.png" target="_blank" rel="noopener" aria-label="Open LOC02: Resistance warehouse lounge full-size sheet">
+    <div class="placeholder"><span class="placeholder-symbol" aria-hidden="true">▧</span><span class="placeholder-label">Preview loads as you browse</span></div>
+    <img src="LOC02-resistance-warehouse-lounge-gpt26-v001.png" width="3840" height="2160" loading="lazy" decoding="async" alt="LOC02 — Resistance warehouse lounge, nine-panel empty location reference sheet">
+    <span class="open-hint">Open full size ↗</span>
+  </a>
+  <div class="card-content">
+    <div class="card-top"><span class="location-id">LOC02</span><span class="review-label"><i aria-hidden="true"></i>Approval pending</span></div>
+    <h2><a class="image-link" href="LOC02-resistance-warehouse-lounge-gpt26-v001.png" target="_blank" rel="noopener">Resistance warehouse lounge</a></h2>
+    <p class="scenes">PILOT SCENES <span>01, 02, 03, 24</span></p>
+    <p class="rooms">TV wall · Couch and console area · Window side · Entry passage · Reverse wall</p>
+    <details class="qa-details"><summary>QA notes · 2 findings</summary><p>Initial reviewer result: <strong>draft-corrections</strong>. Production approval remains pending.</p><ul><li><strong>required_before_reverse_dialogue_plates · 3 SOUTH / REVERSE WALL; 6 OVERHEAD PLAN</strong><br>Panel3 shows a high plain outside-style couch back rather than a clear seat/front view from the TV side. The top-down sofa geometry remains ambiguous about which edge is the open seat, despite putting the emblem on the southern edge.<br><em>Correction:</em> Use hero/north anchors, but derive a true front seating view before reverse dialogue. Mark the seat-facing edge NORTH and outside back SOUTH explicitly in the authoritative furniture plan. Do not assume the current reverse is a verified front-couch master.</li><li><strong>required_geometry_lock_before_coverage · 3 SOUTH / REVERSE WALL; 5 WEST / ENTRY SIDE; 6 OVERHEAD PLAN</strong><br>South and west panels show substantially the same entry-wall arrangement. In a view facing south the opening on viewer-left reads southeast, while the plan fixes the opening at southwest on the west side.<br><em>Correction:</em> Keep one southwest west-side passage. A true south-wall view must not mirror it to the southeast; resolve with a clean south elevation when making plates.</li></ul><p>Useful improved hero/TV reference, still a review draft for reverse coverage. Preserve this result; no extra generation retry requested under the current batch budget.</p><a href="QA-notes.md#loc02" target="_blank" rel="noopener">Open full QA report ↗</a></details>
+<div class="card-footer"><span class="dimensions">Dimensions checked on preview load</span><a class="download image-link" href="LOC02-resistance-warehouse-lounge-gpt26-v001.png" download="LOC02-resistance-warehouse-lounge-gpt26-v001.png" aria-label="Download LOC02 PNG">PNG <span aria-hidden="true">↓</span></a></div>
+  </div>
+</article>
+<article class="card" data-search="loc03 hacking operations five-position operations desk · server rack ends · central worktable · open warehouse access" data-location="LOC03">
+  <a class="preview image-link" href="LOC03-hacking-operations-gpt26-v001.png" target="_blank" rel="noopener" aria-label="Open LOC03: Hacking operations full-size sheet">
+    <div class="placeholder"><span class="placeholder-symbol" aria-hidden="true">▧</span><span class="placeholder-label">Preview loads as you browse</span></div>
+    <img src="LOC03-hacking-operations-gpt26-v001.png" width="3840" height="2160" loading="lazy" decoding="async" alt="LOC03 — Hacking operations, nine-panel empty location reference sheet">
+    <span class="open-hint">Open full size ↗</span>
+  </a>
+  <div class="card-content">
+    <div class="card-top"><span class="location-id">LOC03</span><span class="review-label"><i aria-hidden="true"></i>Approval pending</span></div>
+    <h2><a class="image-link" href="LOC03-hacking-operations-gpt26-v001.png" target="_blank" rel="noopener">Hacking operations</a></h2>
+    <p class="scenes">PILOT SCENES <span>09, 17, 19</span></p>
+    <p class="rooms">Five-position operations desk · Server rack ends · Central worktable · Open warehouse access</p>
+    <details class="qa-details"><summary>QA notes · 2 findings</summary><p>Initial reviewer result: <strong>draft-corrections</strong>. Production approval remains pending.</p><ul><li><strong>minor_annotation_before_blocking · 6 OVERHEAD PLAN; 1 HERO</strong><br>Camera A is north of the worktable looking north, but hero includes that table in the foreground. That A position cannot produce the shown hero composition.<br><em>Correction:</em> Move the hero camera marker south of the worktable and state its northward bearing. Give B/C explicit position-plus-direction labels.</li><li><strong>viewpoint_needs_blocking_confirmation · 9 SECOND WIDE (DESK TO WAREHOUSE)</strong><br>Second wide shows the fronts of the north-wall monitors while also presenting itself as the desk-to-south-warehouse reverse. It works as an oblique overview but is not a verified opposite-angle camera plate.<br><em>Correction:</em> Retain as an oblique overview. Derive the true southward reverse from the approved plan if the edit needs matching reverses; do not use its label alone as camera authority.</li></ul><p>Strong usable operations design. Main counts and anchors pass; plan-camera and reverse-label corrections remain. No regeneration retry requested.</p><a href="QA-notes.md#loc03" target="_blank" rel="noopener">Open full QA report ↗</a></details>
+<div class="card-footer"><span class="dimensions">Dimensions checked on preview load</span><a class="download image-link" href="LOC03-hacking-operations-gpt26-v001.png" download="LOC03-hacking-operations-gpt26-v001.png" aria-label="Download LOC03 PNG">PNG <span aria-hidden="true">↓</span></a></div>
+  </div>
+</article>
+<article class="card" data-search="loc04 engineering workshop workbench · parts storage · equipment locker · operations passage" data-location="LOC04">
+  <a class="preview image-link" href="LOC04-engineering-workshop-gpt26-v001.png" target="_blank" rel="noopener" aria-label="Open LOC04: Engineering workshop full-size sheet">
+    <div class="placeholder"><span class="placeholder-symbol" aria-hidden="true">▧</span><span class="placeholder-label">Preview loads as you browse</span></div>
+    <img src="LOC04-engineering-workshop-gpt26-v001.png" width="3840" height="2160" loading="lazy" decoding="async" alt="LOC04 — Engineering workshop, nine-panel empty location reference sheet">
+    <span class="open-hint">Open full size ↗</span>
+  </a>
+  <div class="card-content">
+    <div class="card-top"><span class="location-id">LOC04</span><span class="review-label"><i aria-hidden="true"></i>Approval pending</span></div>
+    <h2><a class="image-link" href="LOC04-engineering-workshop-gpt26-v001.png" target="_blank" rel="noopener">Engineering workshop</a></h2>
+    <p class="scenes">PILOT SCENES <span>10</span></p>
+    <p class="rooms">Workbench · Parts storage · Equipment locker · Operations passage</p>
+    <details class="qa-details"><summary>QA notes · 1 finding</summary><p>Initial reviewer result: <strong>pass</strong>. Production approval remains pending.</p><ul><li><strong>minor_annotation_before_blocking · 3, 5, 6</strong><br>Both south-opening and west-passage views show a similar operations area beyond the workshop; the local plan stops at the bay boundary and does not resolve their relationship to the warehouse-wide operations layout.<br><em>Correction:</em> When joining LOC03 and LOC04 for a walk-through, annotate the shared warehouse plan and choose matching passage directions. This is not a reason to rerender this sheet.</li></ul><p>Usable workshop design reference. Preserve the successful fixed equipment layout. No regeneration retry requested.</p><a href="QA-notes.md#loc04" target="_blank" rel="noopener">Open full QA report ↗</a></details>
+<div class="card-footer"><span class="dimensions">Dimensions checked on preview load</span><a class="download image-link" href="LOC04-engineering-workshop-gpt26-v001.png" download="LOC04-engineering-workshop-gpt26-v001.png" aria-label="Download LOC04 PNG">PNG <span aria-hidden="true">↓</span></a></div>
+  </div>
+</article>
+<article class="card" data-search="loc05 district 7 streets and alleys main pedestrian street · east side alley · shopfronts · utility/fire-escape edge" data-location="LOC05">
+  <a class="preview image-link" href="LOC05-district-7-streets-and-alleys-gpt26-v001.png" target="_blank" rel="noopener" aria-label="Open LOC05: District 7 streets and alleys full-size sheet">
+    <div class="placeholder"><span class="placeholder-symbol" aria-hidden="true">▧</span><span class="placeholder-label">Preview loads as you browse</span></div>
+    <img src="LOC05-district-7-streets-and-alleys-gpt26-v001.png" width="3840" height="2160" loading="lazy" decoding="async" alt="LOC05 — District 7 streets and alleys, nine-panel empty location reference sheet">
+    <span class="open-hint">Open full size ↗</span>
+  </a>
+  <div class="card-content">
+    <div class="card-top"><span class="location-id">LOC05</span><span class="review-label"><i aria-hidden="true"></i>Approval pending</span></div>
+    <h2><a class="image-link" href="LOC05-district-7-streets-and-alleys-gpt26-v001.png" target="_blank" rel="noopener">District 7 streets and alleys</a></h2>
+    <p class="scenes">PILOT SCENES <span>04, 08, 18</span></p>
+    <p class="rooms">Main pedestrian street · East side alley · Shopfronts · Utility/fire-escape edge</p>
+    <details class="qa-details"><summary>QA notes · 2 findings</summary><p>Initial reviewer result: <strong>draft-corrections</strong>. Production approval remains pending.</p><ul><li><strong>minor_annotation_before_blocking · 2, 3, 6</strong><br>Plan camera markers and legend all point north, including B at the north end. The legend says C SOUTH but still shows an upward/N arrow. The north-approach image is another north-looking view, while the reverse view flips storefront/tree sides. Labels and bearings cannot currently define a reliable reverse setup.<br><em>Correction:</em> Choose the actual north-looking and south-looking plates, label them by camera position plus viewing direction, and redraw B/C bearings. Do not treat all arrows as valid.</li><li><strong>required_geometry_lock_before_coverage · 4, 6, 9</strong><br>The plan places 7-Catleven south of the east alley, but the east-looking alley view shows its frontage on the left/north side. The alley-mouth reverse also places the store across/right rather than presenting the expected corner relationship from the mapped alley.<br><em>Correction:</em> Lock the store and alley corner with LOC06 before any continuous street-to-alley move. Retain the main-street design and establish one coherent east-alley corner for scene plates; do not use panel 9 as proven geographic coverage.</li></ul><p>Useful empty District7 street design and textures. Alley/store corner and camera annotations remain drafts. No regeneration retry requested.</p><a href="QA-notes.md#loc05" target="_blank" rel="noopener">Open full QA report ↗</a></details>
+<div class="card-footer"><span class="dimensions">Dimensions checked on preview load</span><a class="download image-link" href="LOC05-district-7-streets-and-alleys-gpt26-v001.png" download="LOC05-district-7-streets-and-alleys-gpt26-v001.png" aria-label="Download LOC05 PNG">PNG <span aria-hidden="true">↓</span></a></div>
+  </div>
+</article>
+<article class="card" data-search="loc06 7-catleven exterior south storefront · side alley · rear service wall · sidewalk and entry" data-location="LOC06">
+  <a class="preview image-link" href="LOC06-7-catleven-exterior-gpt26-v001.png" target="_blank" rel="noopener" aria-label="Open LOC06: 7-Catleven exterior full-size sheet">
+    <div class="placeholder"><span class="placeholder-symbol" aria-hidden="true">▧</span><span class="placeholder-label">Preview loads as you browse</span></div>
+    <img src="LOC06-7-catleven-exterior-gpt26-v001.png" width="3840" height="2160" loading="lazy" decoding="async" alt="LOC06 — 7-Catleven exterior, nine-panel empty location reference sheet">
+    <span class="open-hint">Open full size ↗</span>
+  </a>
+  <div class="card-content">
+    <div class="card-top"><span class="location-id">LOC06</span><span class="review-label"><i aria-hidden="true"></i>Approval pending</span></div>
+    <h2><a class="image-link" href="LOC06-7-catleven-exterior-gpt26-v001.png" target="_blank" rel="noopener">7-Catleven exterior</a></h2>
+    <p class="scenes">PILOT SCENES <span>04</span></p>
+    <p class="rooms">South storefront · Side alley · Rear service wall · Sidewalk and entry</p>
+    <details class="qa-details"><summary>QA notes · 1 finding</summary><p>Initial reviewer result: <strong>pass</strong>. Production approval remains pending.</p><ul><li><strong>minor_annotation_before_blocking · 6; cross-set LOC05/LOC07</strong><br>The LOC06 local map correctly makes the storefront south-facing with an east-side alley. LOC05 instead embeds the shop facing west on its north-south street. Interior glimpses and the decorative cutaway should also not supersede LOC07 interior blocking.<br><em>Correction:</em> Declare whether local storefront axes rotate within the district map or place this shop on an east-west cross street. Use LOC07 as interior authority before an uninterrupted entrance shot; keep LOC06 exterior architecture.</li></ul><p>Usable exterior design with strong repeated facade identity. Resolve cross-set street mapping as an annotation, without an automatic image retry.</p><a href="QA-notes.md#loc06" target="_blank" rel="noopener">Open full QA report ↗</a></details>
+<div class="card-footer"><span class="dimensions">Dimensions checked on preview load</span><a class="download image-link" href="LOC06-7-catleven-exterior-gpt26-v001.png" download="LOC06-7-catleven-exterior-gpt26-v001.png" aria-label="Download LOC06 PNG">PNG <span aria-hidden="true">↓</span></a></div>
+  </div>
+</article>
+<article class="card" data-search="loc07 7-catleven interior and freezer west freezer bank · east cashier counter · two snack aisles · rear service door · south entry" data-location="LOC07">
+  <a class="preview image-link" href="LOC07-7-catleven-interior-and-freezer-gpt26-v001.png" target="_blank" rel="noopener" aria-label="Open LOC07: 7-Catleven interior and freezer full-size sheet">
+    <div class="placeholder"><span class="placeholder-symbol" aria-hidden="true">▧</span><span class="placeholder-label">Preview loads as you browse</span></div>
+    <img src="LOC07-7-catleven-interior-and-freezer-gpt26-v001.png" width="3840" height="2160" loading="lazy" decoding="async" alt="LOC07 — 7-Catleven interior and freezer, nine-panel empty location reference sheet">
+    <span class="open-hint">Open full size ↗</span>
+  </a>
+  <div class="card-content">
+    <div class="card-top"><span class="location-id">LOC07</span><span class="review-label"><i aria-hidden="true"></i>Approval pending</span></div>
+    <h2><a class="image-link" href="LOC07-7-catleven-interior-and-freezer-gpt26-v001.png" target="_blank" rel="noopener">7-Catleven interior and freezer</a></h2>
+    <p class="scenes">PILOT SCENES <span>05</span></p>
+    <p class="rooms">West freezer bank · East cashier counter · Two snack aisles · Rear service door · South entry</p>
+    <details class="qa-details"><summary>QA notes · 2 findings</summary><p>Initial reviewer result: <strong>pass</strong>. Production approval remains pending.</p><ul><li><strong>minor_annotation_before_blocking · 6</strong><br>Camera C at the north/rear end points north although the rear-to-entrance coverage looks south.<br><em>Correction:</em> Turn C south to match panel 9 before using the map for blocking.</li><li><strong>minor_prop_continuity_before_closeups · 1, 5; cross-set LOC06 south glazing</strong><br>The salmon pair and notice appear in the same near-front freezer bay in the hero but adjacent bays in the straight freezer view. Interior entrance views also retain the exterior-style pink cat neon on viewer-right, whereas the same east-side window would appear viewer-left when looking south from inside.<br><em>Correction:</em> Use the straight WEST freezer view as the authoritative pair/notice placement for inserts; lock the entrance window graphics to the LOC06 east window for matching inside/outside views.</li></ul><p>Usable and clear store interior reference. Essential two-pack shortage story content is present. Correct camera annotation and lock small prop/window details when making scene plates; no retry requested.</p><a href="QA-notes.md#loc07" target="_blank" rel="noopener">Open full QA report ↗</a></details>
+<div class="card-footer"><span class="dimensions">Dimensions checked on preview load</span><a class="download image-link" href="LOC07-7-catleven-interior-and-freezer-gpt26-v001.png" download="LOC07-7-catleven-interior-and-freezer-gpt26-v001.png" aria-label="Download LOC07 PNG">PNG <span aria-hidden="true">↓</span></a></div>
+  </div>
+</article>
+<article class="card" data-search="loc08 district 7 market market square · fish stalls · public billboard · truck delivery stopping area" data-location="LOC08">
+  <a class="preview image-link" href="LOC08-district-7-market-gpt26-v001.png" target="_blank" rel="noopener" aria-label="Open LOC08: District 7 market full-size sheet">
+    <div class="placeholder"><span class="placeholder-symbol" aria-hidden="true">▧</span><span class="placeholder-label">Preview loads as you browse</span></div>
+    <img src="LOC08-district-7-market-gpt26-v001.png" width="3840" height="2160" loading="lazy" decoding="async" alt="LOC08 — District 7 market, nine-panel empty location reference sheet">
+    <span class="open-hint">Open full size ↗</span>
+  </a>
+  <div class="card-content">
+    <div class="card-top"><span class="location-id">LOC08</span><span class="review-label"><i aria-hidden="true"></i>Approval pending</span></div>
+    <h2><a class="image-link" href="LOC08-district-7-market-gpt26-v001.png" target="_blank" rel="noopener">District 7 market</a></h2>
+    <p class="scenes">PILOT SCENES <span>06, 18, 23</span></p>
+    <p class="rooms">Market square · Fish stalls · Public billboard · Truck delivery stopping area</p>
+    <details class="qa-details"><summary>QA notes · 2 findings</summary><p>Initial reviewer result: <strong>draft-corrections</strong>. Production approval remains pending.</p><ul><li><strong>required_geometry_lock_before_coverage · EAST</strong><br>The panel labeled from east looking west repeats a hero-like view with lantern stalls on the left and the tower vista ahead. A true west-looking view should put the north stalls on the right and reveal the west plaza, as the successful REVERSE WIDE does. The east stair is present but this panel does not establish trustworthy street orientation.<br><em>Correction:</em> Use PLAN plus HERO/REVERSE as the geographic authority, and derive a later east-end/stair plate from them. Keep the northeast stair relationship when joining LOC20.</li><li><strong>minor_annotation_before_blocking · SOUTH</strong><br>The panel labeled from south looking north shows the south shuttered shop row and its billboard. It is a south-wall elevation viewed from the north, rather than the stated camera-side convention.<br><em>Correction:</em> Relabel this panel SOUTH SHOP ROW / VIEW SOUTH, or otherwise give the actual camera side and bearing.</li></ul><p>Strong usable hero, reverse, plan and material references; preserve this market identity. Directional east coverage remains draft and south label needs correction. No automatic retry requested.</p><a href="QA-notes.md#loc08" target="_blank" rel="noopener">Open full QA report ↗</a></details>
+<div class="card-footer"><span class="dimensions">Dimensions checked on preview load</span><a class="download image-link" href="LOC08-district-7-market-gpt26-v001.png" download="LOC08-district-7-market-gpt26-v001.png" aria-label="Download LOC08 PNG">PNG <span aria-hidden="true">↓</span></a></div>
+  </div>
+</article>
+<article class="card" data-search="loc09 district 7 rally stage and plaza temporary raised stage · crowd plaza · access lanes · projection backdrop" data-location="LOC09">
+  <a class="preview image-link" href="LOC09-district-7-rally-stage-and-plaza-gpt26-v001.png" target="_blank" rel="noopener" aria-label="Open LOC09: District 7 rally stage and plaza full-size sheet">
+    <div class="placeholder"><span class="placeholder-symbol" aria-hidden="true">▧</span><span class="placeholder-label">Preview loads as you browse</span></div>
+    <img src="LOC09-district-7-rally-stage-and-plaza-gpt26-v001.png" width="3840" height="2160" loading="lazy" decoding="async" alt="LOC09 — District 7 rally stage and plaza, nine-panel empty location reference sheet">
+    <span class="open-hint">Open full size ↗</span>
+  </a>
+  <div class="card-content">
+    <div class="card-top"><span class="location-id">LOC09</span><span class="review-label"><i aria-hidden="true"></i>Approval pending</span></div>
+    <h2><a class="image-link" href="LOC09-district-7-rally-stage-and-plaza-gpt26-v001.png" target="_blank" rel="noopener">District 7 rally stage and plaza</a></h2>
+    <p class="scenes">PILOT SCENES <span>07</span></p>
+    <p class="rooms">Temporary raised stage · Crowd plaza · Access lanes · Projection backdrop</p>
+    <details class="qa-details"><summary>QA notes · 3 findings</summary><p>Initial reviewer result: <strong>draft-corrections</strong>. Production approval remains pending.</p><ul><li><strong>required_geometry_lock_before_coverage · ROOFTOP OVERLOOK, PLAN</strong><br>The rooftop view faces north toward the stage with the tree on the left. It therefore reads as a south-side rooftop, not camera B on the north building looking south; from B the stage building could not appear across the plaza.<br><em>Correction:</em> Keep the hero and site plan as authority. Do not use this roof view as the specified north/northeast perch; derive the eventual roof scene plate from an agreed joint LOC08/09/20 plan.</li><li><strong>required_geometry_lock_before_coverage · EAST; cross-set LOC08</strong><br>The market connection view puts the red-lantern stalls on the right while looking down the market toward the towers. For the established east-looking market axis, the north lantern row should be left. The plaza plan depicts the lantern edge along its east boundary without clearly showing the east-west street continuation.<br><em>Correction:</em> Annotate the market mouth and north-row continuation on the shared site plan and use LOC08 hero/reverse as authority for market-facing scene plates.</li><li><strong>minor_coverage_annotation · SOUTH, cardinal labels</strong><br>SOUTH is a tight shuttered-shop elevation rather than the requested stage POV across the audience space with west steps. Cardinal labels generally describe facade/content rather than the final camera-side convention.<br><em>Correction:</em> Treat the shop image as material/elevation reference; label actual viewpoint bearings before blocking. A later stage-POV scene plate must include the open audience area.</li></ul><p>Usable rally stage design and plaza hero. Rooftop and market-connection coverage are drafts, not geographically verified scene plates. No regeneration retry requested.</p><a href="QA-notes.md#loc09" target="_blank" rel="noopener">Open full QA report ↗</a></details>
+<div class="card-footer"><span class="dimensions">Dimensions checked on preview load</span><a class="download image-link" href="LOC09-district-7-rally-stage-and-plaza-gpt26-v001.png" download="LOC09-district-7-rally-stage-and-plaza-gpt26-v001.png" aria-label="Download LOC09 PNG">PNG <span aria-hidden="true">↓</span></a></div>
+  </div>
+</article>
+<article class="card" data-search="loc10 steak &amp; bone exterior and security main entrance · guard positions · service entry · service alley · restaurant surveillance roof" data-location="LOC10">
+  <a class="preview image-link" href="LOC10-steak-bone-exterior-and-security-gpt26-v001.png" target="_blank" rel="noopener" aria-label="Open LOC10: Steak &amp; Bone exterior and security full-size sheet">
+    <div class="placeholder"><span class="placeholder-symbol" aria-hidden="true">▧</span><span class="placeholder-label">Preview loads as you browse</span></div>
+    <img src="LOC10-steak-bone-exterior-and-security-gpt26-v001.png" width="3840" height="2160" loading="lazy" decoding="async" alt="LOC10 — Steak &amp; Bone exterior and security, nine-panel empty location reference sheet">
+    <span class="open-hint">Open full size ↗</span>
+  </a>
+  <div class="card-content">
+    <div class="card-top"><span class="location-id">LOC10</span><span class="review-label"><i aria-hidden="true"></i>Approval pending</span></div>
+    <h2><a class="image-link" href="LOC10-steak-bone-exterior-and-security-gpt26-v001.png" target="_blank" rel="noopener">Steak &amp; Bone exterior and security</a></h2>
+    <p class="scenes">PILOT SCENES <span>11, 12, 16</span></p>
+    <p class="rooms">Main entrance · Guard positions · Service entry · Service alley · Restaurant surveillance roof</p>
+    <details class="qa-details"><summary>QA notes · 2 findings</summary><p>Initial reviewer result: <strong>draft-corrections</strong>. Production approval remains pending.</p><ul><li><strong>required_geometry_lock_before_coverage · REVERSE WIDE, PLAN B</strong><br>The reverse shows the restaurant facade across a street from a foreground rooftop railing. That is an opposite-building surveillance perch, not the mapped camera B on the restaurant northwest roof; the restaurant cannot see its own whole south facade across the lane from that position.<br><em>Correction:</em> Keep the exterior design. Either document a separate opposite-roof camera position, or derive a later south-looking plate from the restaurant roof that looks down on its own arrival lane. Do not use this panel as proven camera B coverage.</li><li><strong>minor_annotation_before_blocking · PLAN</strong><br>The overhead is primarily a roof plan. The north service-door footprint and guard/scanner pedestrian route are not clearly marked even though their views are present.<br><em>Correction:</em> Annotate those ground-level access points and lock the west stair landing before planning the infiltration path.</li></ul><p>Strong usable restaurant exterior and security fixture reference; rooftop surveillance geography remains draft. Preserve successful facade and material design. No regeneration retry requested.</p><a href="QA-notes.md#loc10" target="_blank" rel="noopener">Open full QA report ↗</a></details>
+<div class="card-footer"><span class="dimensions">Dimensions checked on preview load</span><a class="download image-link" href="LOC10-steak-bone-exterior-and-security-gpt26-v001.png" download="LOC10-steak-bone-exterior-and-security-gpt26-v001.png" aria-label="Download LOC10 PNG">PNG <span aria-hidden="true">↓</span></a></div>
+  </div>
+</article>
+<article class="card" data-search="loc11 steak &amp; bone service corridors service entry corridor · dining access turn · robot patrol route · service exit" data-location="LOC11">
+  <a class="preview image-link" href="LOC11-steak-bone-service-corridors-gpt26-v001.png" target="_blank" rel="noopener" aria-label="Open LOC11: Steak &amp; Bone service corridors full-size sheet">
+    <div class="placeholder"><span class="placeholder-symbol" aria-hidden="true">▧</span><span class="placeholder-label">Preview loads as you browse</span></div>
+    <img src="LOC11-steak-bone-service-corridors-gpt26-v001.png" width="3840" height="2160" loading="lazy" decoding="async" alt="LOC11 — Steak &amp; Bone service corridors, nine-panel empty location reference sheet">
+    <span class="open-hint">Open full size ↗</span>
+  </a>
+  <div class="card-content">
+    <div class="card-top"><span class="location-id">LOC11</span><span class="review-label"><i aria-hidden="true"></i>Approval pending</span></div>
+    <h2><a class="image-link" href="LOC11-steak-bone-service-corridors-gpt26-v001.png" target="_blank" rel="noopener">Steak &amp; Bone service corridors</a></h2>
+    <p class="scenes">PILOT SCENES <span>13, 16</span></p>
+    <p class="rooms">Service entry corridor · Dining access turn · Robot patrol route · Service exit</p>
+    <details class="qa-details"><summary>QA notes · 3 findings</summary><p>Initial reviewer result: <strong>draft_requires_geometry_correction</strong>. Production approval remains pending.</p><ul><li><strong>major · Layout / continuity</strong><br>Both wides read as a straight corridor with opposite end doors. The plan depicts an L-shaped corridor; the reverse from its northern dining door could not see the west exterior exit directly as rendered.</li><li><strong>major · Layout / continuity</strong><br>Hero places the exterior double exit on the same side wall as the kitchen door/hatch, while the plan and WEST elevation place it at the west end. Burgundy dining door appears at the far east end in the hero rather than around the northward turn.</li><li><strong>minor · Layout / continuity</strong><br>The trolley alcove appears near the kitchen-side wall in the hero, while its intended position is the south wall as shown by the SOUTH panel and plan.</li></ul><p>Retain material and prop design; rebuild hero and reverse from the L-shaped plan and lock all door/alcove positions before camera blocking.</p><a href="QA-notes.md#loc11" target="_blank" rel="noopener">Open full QA report ↗</a></details>
+<div class="card-footer"><span class="dimensions">Dimensions checked on preview load</span><a class="download image-link" href="LOC11-steak-bone-service-corridors-gpt26-v001.png" download="LOC11-steak-bone-service-corridors-gpt26-v001.png" aria-label="Download LOC11 PNG">PNG <span aria-hidden="true">↓</span></a></div>
+  </div>
+</article>
+<article class="card" data-search="loc12 steak &amp; bone private dining room private dining table · window/view wall · service door · hidden surveillance angle" data-location="LOC12">
+  <a class="preview image-link" href="LOC12-steak-bone-private-dining-room-gpt26-v001.png" target="_blank" rel="noopener" aria-label="Open LOC12: Steak &amp; Bone private dining room full-size sheet">
+    <div class="placeholder"><span class="placeholder-symbol" aria-hidden="true">▧</span><span class="placeholder-label">Preview loads as you browse</span></div>
+    <img src="LOC12-steak-bone-private-dining-room-gpt26-v001.png" width="3840" height="2160" loading="lazy" decoding="async" alt="LOC12 — Steak &amp; Bone private dining room, nine-panel empty location reference sheet">
+    <span class="open-hint">Open full size ↗</span>
+  </a>
+  <div class="card-content">
+    <div class="card-top"><span class="location-id">LOC12</span><span class="review-label"><i aria-hidden="true"></i>Approval pending</span></div>
+    <h2><a class="image-link" href="LOC12-steak-bone-private-dining-room-gpt26-v001.png" target="_blank" rel="noopener">Steak &amp; Bone private dining room</a></h2>
+    <p class="scenes">PILOT SCENES <span>14, 15</span></p>
+    <p class="rooms">Private dining table · Window/view wall · Service door · Hidden surveillance angle</p>
+    <details class="qa-details"><summary>QA notes · 3 findings</summary><p>Initial reviewer result: <strong>draft_requires_geometry_correction</strong>. Production approval remains pending.</p><ul><li><strong>major · Layout / continuity</strong><br>Plan places the service door at the southwest corner, but SOUTH and REVERSE WIDE show it at screen-left beside the east window wall: the southeast corner.</li><li><strong>major · Layout / continuity</strong><br>Plan places the long table east-west with opposing seats north/south. Hero and reverse instead show the long table running toward the north/south walls, with seats west/east. Table and booth orientation do not match the plan.</li><li><strong>minor · Layout / continuity</strong><br>Door has no narrow frosted-glass strip, unlike the adjoining LOC11 burgundy service-door design; cross-set doorway continuity needs reconciliation.</li></ul><p>Keep the strong luxury material design; lock southwest service door and table/booth axis consistently across plan, south elevation and wides before shooting.</p><a href="QA-notes.md#loc12" target="_blank" rel="noopener">Open full QA report ↗</a></details>
+<div class="card-footer"><span class="dimensions">Dimensions checked on preview load</span><a class="download image-link" href="LOC12-steak-bone-private-dining-room-gpt26-v001.png" download="LOC12-steak-bone-private-dining-room-gpt26-v001.png" aria-label="Download LOC12 PNG">PNG <span aria-hidden="true">↓</span></a></div>
+  </div>
+</article>
+<article class="card" data-search="loc13 woof7 news studio anchor desk · broadcast backdrop · camera lane · control/screen graphics area" data-location="LOC13">
+  <a class="preview image-link" href="LOC13-woof7-news-studio-gpt26-v001.png" target="_blank" rel="noopener" aria-label="Open LOC13: WOOF7 news studio full-size sheet">
+    <div class="placeholder"><span class="placeholder-symbol" aria-hidden="true">▧</span><span class="placeholder-label">Preview loads as you browse</span></div>
+    <img src="LOC13-woof7-news-studio-gpt26-v001.png" width="3840" height="2160" loading="lazy" decoding="async" alt="LOC13 — WOOF7 news studio, nine-panel empty location reference sheet">
+    <span class="open-hint">Open full size ↗</span>
+  </a>
+  <div class="card-content">
+    <div class="card-top"><span class="location-id">LOC13</span><span class="review-label"><i aria-hidden="true"></i>Approval pending</span></div>
+    <h2><a class="image-link" href="LOC13-woof7-news-studio-gpt26-v001.png" target="_blank" rel="noopener">WOOF7 news studio</a></h2>
+    <p class="scenes">PILOT SCENES <span>02, 03</span></p>
+    <p class="rooms">Anchor desk · Broadcast backdrop · Camera lane · Control/screen graphics area</p>
+    <details class="qa-details"><summary>QA notes · 2 findings</summary><p>Initial reviewer result: <strong>draft_requires_door_continuity_correction</strong>. Production approval remains pending.</p><ul><li><strong>major · Layout / continuity</strong><br>Plan and brief put the rear exit at southwest. SOUTH and REVERSE WIDE show that exit at screen-left beside the east control-booth wall, which is southeast. Move the exit consistently to the west side or deliberately revise the plan.</li><li><strong>minor · Layout / continuity</strong><br>Screen brief is internally mixed: design section permits quiet WOOF7/blue graphics, while final instruction says keep screens blank. Image follows the graphic version; confirm graphics policy before using as a clean compositing plate.</li></ul><p>Strong studio design; resolve south exit location, then verify west newsroom-door position against the plan at production blocking stage.</p><a href="QA-notes.md#loc13" target="_blank" rel="noopener">Open full QA report ↗</a></details>
+<div class="card-footer"><span class="dimensions">Dimensions checked on preview load</span><a class="download image-link" href="LOC13-woof7-news-studio-gpt26-v001.png" download="LOC13-woof7-news-studio-gpt26-v001.png" aria-label="Download LOC13 PNG">PNG <span aria-hidden="true">↓</span></a></div>
+  </div>
+</article>
+<article class="card" data-search="loc14 nip7 investigative newsroom presenter desk · evidence display · newsroom backdrop · camera lane" data-location="LOC14">
+  <a class="preview image-link" href="LOC14-nip7-investigative-newsroom-gpt26-v001.png" target="_blank" rel="noopener" aria-label="Open LOC14: NIP7 investigative newsroom full-size sheet">
+    <div class="placeholder"><span class="placeholder-symbol" aria-hidden="true">▧</span><span class="placeholder-label">Preview loads as you browse</span></div>
+    <img src="LOC14-nip7-investigative-newsroom-gpt26-v001.png" width="3840" height="2160" loading="lazy" decoding="async" alt="LOC14 — NIP7 investigative newsroom, nine-panel empty location reference sheet">
+    <span class="open-hint">Open full size ↗</span>
+  </a>
+  <div class="card-content">
+    <div class="card-top"><span class="location-id">LOC14</span><span class="review-label"><i aria-hidden="true"></i>Approval pending</span></div>
+    <h2><a class="image-link" href="LOC14-nip7-investigative-newsroom-gpt26-v001.png" target="_blank" rel="noopener">NIP7 investigative newsroom</a></h2>
+    <p class="scenes">PILOT SCENES <span>17, 23</span></p>
+    <p class="rooms">Presenter desk · Evidence display · Newsroom backdrop · Camera lane</p>
+    <details class="qa-details"><summary>QA notes · 1 finding</summary><p>Initial reviewer result: <strong>draft_requires_exit_location_correction</strong>. Production approval remains pending.</p><ul><li><strong>major · Layout / continuity</strong><br>Exit location does not agree: brief specifies south wall near southwest; plan appears to put it on the west wall near southwest; SOUTH and REVERSE WIDE place it on the left/east end of the south wall, adjacent to the control-room side.</li></ul><p>Keep design and desk arrangement. Align the single exit wall/corner across plan, SOUTH and reverse before scene blocking.</p><a href="QA-notes.md#loc14" target="_blank" rel="noopener">Open full QA report ↗</a></details>
+<div class="card-footer"><span class="dimensions">Dimensions checked on preview load</span><a class="download image-link" href="LOC14-nip7-investigative-newsroom-gpt26-v001.png" download="LOC14-nip7-investigative-newsroom-gpt26-v001.png" aria-label="Download LOC14 PNG">PNG <span aria-hidden="true">↓</span></a></div>
+  </div>
+</article>
+<article class="card" data-search="loc15 salmon facility exterior and loading guarded vehicle gate · four loading bays · staff/service door · cold utility enclosure · loading yard" data-location="LOC15">
+  <a class="preview image-link" href="LOC15-salmon-facility-exterior-and-loading-gpt26-v001.png" target="_blank" rel="noopener" aria-label="Open LOC15: Salmon facility exterior and loading full-size sheet">
+    <div class="placeholder"><span class="placeholder-symbol" aria-hidden="true">▧</span><span class="placeholder-label">Preview loads as you browse</span></div>
+    <img src="LOC15-salmon-facility-exterior-and-loading-gpt26-v001.png" width="3840" height="2160" loading="lazy" decoding="async" alt="LOC15 — Salmon facility exterior and loading, nine-panel empty location reference sheet">
+    <span class="open-hint">Open full size ↗</span>
+  </a>
+  <div class="card-content">
+    <div class="card-top"><span class="location-id">LOC15</span><span class="review-label"><i aria-hidden="true"></i>Approval pending</span></div>
+    <h2><a class="image-link" href="LOC15-salmon-facility-exterior-and-loading-gpt26-v001.png" target="_blank" rel="noopener">Salmon facility exterior and loading</a></h2>
+    <p class="scenes">PILOT SCENES <span>20, 22</span></p>
+    <p class="rooms">Guarded vehicle gate · Four loading bays · Staff/service door · Cold utility enclosure · Loading yard</p>
+    <details class="qa-details"><summary>QA notes · 4 findings</summary><p>Initial reviewer result: <strong>draft_requires_gate_and_camera_corrections</strong>. Production approval remains pending.</p><ul><li><strong>major · Layout / continuity</strong><br>Guard booth is east/right of south gate in the north-up plan, but right of the gate in the south-facing SOUTH and reverse renders, placing it west in those views. This violates the explicit no-mirroring requirement.</li><li><strong>major · Layout / continuity</strong><br>Directional labels disagree with rendered views and the specified exterior convention. NORTH shows the north facade viewed from south; SOUTH says looking north but depicts the south gate from inside looking south.</li><li><strong>moderate · Layout / continuity</strong><br>Plan camera B is drawn near the southeast portion of the yard rather than the requested northeast reverse position. Camera icons lack clearly readable look arrows; verify against the reverse plate.</li><li><strong>minor · Layout / continuity</strong><br>Extra Kitty Punk 2077 wordmark appears in the header despite title/short-label-only instruction.</li></ul><p>Retain industrial design and dock assignment; correct booth side and plan/view labels before production blocking.</p><a href="QA-notes.md#loc15" target="_blank" rel="noopener">Open full QA report ↗</a></details>
+<div class="card-footer"><span class="dimensions">Dimensions checked on preview load</span><a class="download image-link" href="LOC15-salmon-facility-exterior-and-loading-gpt26-v001.png" download="LOC15-salmon-facility-exterior-and-loading-gpt26-v001.png" aria-label="Download LOC15 PNG">PNG <span aria-hidden="true">↓</span></a></div>
+  </div>
+</article>
+<article class="card" data-search="loc16 salmon cold store and processing hall processing conveyors · cold a and cold b rooms · mezzanine access stair · west wash/mechanical wall · loading shutter" data-location="LOC16">
+  <a class="preview image-link" href="LOC16-salmon-cold-store-and-processing-hall-gpt26-v001.png" target="_blank" rel="noopener" aria-label="Open LOC16: Salmon cold store and processing hall full-size sheet">
+    <div class="placeholder"><span class="placeholder-symbol" aria-hidden="true">▧</span><span class="placeholder-label">Preview loads as you browse</span></div>
+    <img src="LOC16-salmon-cold-store-and-processing-hall-gpt26-v001.png" width="3840" height="2160" loading="lazy" decoding="async" alt="LOC16 — Salmon cold store and processing hall, nine-panel empty location reference sheet">
+    <span class="open-hint">Open full size ↗</span>
+  </a>
+  <div class="card-content">
+    <div class="card-top"><span class="location-id">LOC16</span><span class="review-label"><i aria-hidden="true"></i>Approval pending</span></div>
+    <h2><a class="image-link" href="LOC16-salmon-cold-store-and-processing-hall-gpt26-v001.png" target="_blank" rel="noopener">Salmon cold store and processing hall</a></h2>
+    <p class="scenes">PILOT SCENES <span>21</span></p>
+    <p class="rooms">Processing conveyors · Cold A and Cold B rooms · Mezzanine access stair · West wash/mechanical wall · Loading shutter</p>
+    <details class="qa-details"><summary>QA notes · 4 findings</summary><p>Initial reviewer result: <strong>draft_requires_continuity_correction</strong>. Production approval remains pending.</p><ul><li><strong>major · Layout / continuity</strong><br>Personnel door is southwest in plan but appears left of the shutter in SOUTH/reverse views, placing it southeast.</li><li><strong>major · Layout / continuity</strong><br>Yellow arms are near the north/cold-door ends of the conveyors in HERO, but near the south/shutter ends in REVERSE. Their mounting positions move between views.</li><li><strong>moderate · Layout / continuity</strong><br>Camera A&#x27;s triangular pointer appears to point southwest out of the room, opposite the hero&#x27;s required northeast look direction; use an explicit arrow.</li><li><strong>prompt_conflict · Layout / continuity</strong><br>Final brief asks BOTH hero and reverse to reveal north cold-room stockpiles, while the defined reverse camera looks south at the loading shutter. The image reveals stock in the hero only; resolve this incompatible requirement before requesting correction.</li></ul><p>Stockpile reveal is successful. Lock personnel door and arm positions, correct A arrow, and choose whether reverse remains a south-facing architecture plate.</p><a href="QA-notes.md#loc16" target="_blank" rel="noopener">Open full QA report ↗</a></details>
+<div class="card-footer"><span class="dimensions">Dimensions checked on preview load</span><a class="download image-link" href="LOC16-salmon-cold-store-and-processing-hall-gpt26-v001.png" download="LOC16-salmon-cold-store-and-processing-hall-gpt26-v001.png" aria-label="Download LOC16 PNG">PNG <span aria-hidden="true">↓</span></a></div>
+  </div>
+</article>
+<article class="card" data-search="loc17 salmon routing control room east mezzanine control room · west observation glass · routing desks · server rack wall · separate cooling control" data-location="LOC17">
+  <a class="preview image-link" href="LOC17-salmon-routing-control-room-gpt26-v001.png" target="_blank" rel="noopener" aria-label="Open LOC17: Salmon routing control room full-size sheet">
+    <div class="placeholder"><span class="placeholder-symbol" aria-hidden="true">▧</span><span class="placeholder-label">Preview loads as you browse</span></div>
+    <img src="LOC17-salmon-routing-control-room-gpt26-v001.png" width="3840" height="2160" loading="lazy" decoding="async" alt="LOC17 — Salmon routing control room, nine-panel empty location reference sheet">
+    <span class="open-hint">Open full size ↗</span>
+  </a>
+  <div class="card-content">
+    <div class="card-top"><span class="location-id">LOC17</span><span class="review-label"><i aria-hidden="true"></i>Approval pending</span></div>
+    <h2><a class="image-link" href="LOC17-salmon-routing-control-room-gpt26-v001.png" target="_blank" rel="noopener">Salmon routing control room</a></h2>
+    <p class="scenes">PILOT SCENES <span>21, 22</span></p>
+    <p class="rooms">East mezzanine control room · West observation glass · Routing desks · Server rack wall · Separate cooling control</p>
+    <details class="qa-details"><summary>QA notes · 3 findings</summary><p>Initial reviewer result: <strong>draft_requires_door_and_shelf_continuity_correction</strong>. Production approval remains pending.</p><ul><li><strong>major · Layout / continuity</strong><br>Single entry door moves: plan specifies south wall at southwest; HERO places it along the west glass wall; SOUTH and REVERSE show it on the east/left side of the south wall, away from the west-glass corner.</li><li><strong>moderate · Layout / continuity</strong><br>Document shelf is northeast in plan but on the right/south end of the EAST elevation, so its corner is mirrored.</li><li><strong>minor · Layout / continuity</strong><br>Extra Kitty Punk 2077 header wordmark beyond requested title and short labels.</li></ul><p>Keep functional control design and cooling/dispatch separation. Reconcile southwest door and northeast shelf across all views before filming.</p><a href="QA-notes.md#loc17" target="_blank" rel="noopener">Open full QA report ↗</a></details>
+<div class="card-footer"><span class="dimensions">Dimensions checked on preview load</span><a class="download image-link" href="LOC17-salmon-routing-control-room-gpt26-v001.png" download="LOC17-salmon-routing-control-room-gpt26-v001.png" aria-label="Download LOC17 PNG">PNG <span aria-hidden="true">↓</span></a></div>
+  </div>
+</article>
+<article class="card" data-search="loc18 catnip times pressroom editorial desk · rotary press · paper/ink storage · freight loading door" data-location="LOC18">
+  <a class="preview image-link" href="LOC18-catnip-times-pressroom-gpt26-v001.png" target="_blank" rel="noopener" aria-label="Open LOC18: Catnip Times pressroom full-size sheet">
+    <div class="placeholder"><span class="placeholder-symbol" aria-hidden="true">▧</span><span class="placeholder-label">Preview loads as you browse</span></div>
+    <img src="LOC18-catnip-times-pressroom-gpt26-v001.png" width="3840" height="2160" loading="lazy" decoding="async" alt="LOC18 — Catnip Times pressroom, nine-panel empty location reference sheet">
+    <span class="open-hint">Open full size ↗</span>
+  </a>
+  <div class="card-content">
+    <div class="card-top"><span class="location-id">LOC18</span><span class="review-label"><i aria-hidden="true"></i>Approval pending</span></div>
+    <h2><a class="image-link" href="LOC18-catnip-times-pressroom-gpt26-v001.png" target="_blank" rel="noopener">Catnip Times pressroom</a></h2>
+    <p class="scenes">PILOT SCENES <span>17</span></p>
+    <p class="rooms">Editorial desk · Rotary press · Paper/ink storage · Freight loading door</p>
+    <details class="qa-details"><summary>QA notes · 3 findings</summary><p>Initial reviewer result: <strong>draft_requires_cupboard_and_prop_correction</strong>. Production approval remains pending.</p><ul><li><strong>major · Layout / continuity</strong><br>Store cupboard is northeast in the plan, but EAST elevation shows its door at the screen-right/south end of the east wall. Fix this mirrored corner.</li><li><strong>moderate · Layout / continuity</strong><br>Trolley is on the east/right side of south freight doors in plan, but on screen-right/west in the south-facing SOUTH elevation.</li><li><strong>minor · Layout / continuity</strong><br>Newspaper prop contains simulated dense article lines/tiny lettering below masthead rather than clean blank column blocks; replace with exact typography during prop finishing.</li></ul><p>Core pressroom geography is useful. Correct cupboard and trolley sides; use a clean newspaper overlay for close-up inserts.</p><a href="QA-notes.md#loc18" target="_blank" rel="noopener">Open full QA report ↗</a></details>
+<div class="card-footer"><span class="dimensions">Dimensions checked on preview load</span><a class="download image-link" href="LOC18-catnip-times-pressroom-gpt26-v001.png" download="LOC18-catnip-times-pressroom-gpt26-v001.png" aria-label="Download LOC18 PNG">PNG <span aria-hidden="true">↓</span></a></div>
+  </div>
+</article>
+<article class="card" data-search="loc19 game world: great dog national bank bank facade and steps · game street/plaza · opposite storefront · open east/west street exits" data-location="LOC19">
+  <a class="preview image-link" href="LOC19-game-world-great-dog-national-bank-gpt26-v001.png" target="_blank" rel="noopener" aria-label="Open LOC19: Game world: Great Dog National Bank full-size sheet">
+    <div class="placeholder"><span class="placeholder-symbol" aria-hidden="true">▧</span><span class="placeholder-label">Preview loads as you browse</span></div>
+    <img src="LOC19-game-world-great-dog-national-bank-gpt26-v001.png" width="3840" height="2160" loading="lazy" decoding="async" alt="LOC19 — Game world: Great Dog National Bank, nine-panel empty location reference sheet">
+    <span class="open-hint">Open full size ↗</span>
+  </a>
+  <div class="card-content">
+    <div class="card-top"><span class="location-id">LOC19</span><span class="review-label"><i aria-hidden="true"></i>Approval pending</span></div>
+    <h2><a class="image-link" href="LOC19-game-world-great-dog-national-bank-gpt26-v001.png" target="_blank" rel="noopener">Game world: Great Dog National Bank</a></h2>
+    <p class="scenes">PILOT SCENES <span>01, 24</span></p>
+    <p class="rooms">Bank facade and steps · Game street/plaza · Opposite storefront · Open east/west street exits</p>
+    <details class="qa-details"><summary>QA notes · 2 findings</summary><p>Initial reviewer result: <strong>draft_requires_plan_and_direction_labels</strong>. Production approval remains pending.</p><ul><li><strong>major · Layout / continuity</strong><br>Plan B is at the south side and points north toward the bank. Actual reverse is from north/bank steps looking south. Move B to bank steps and reverse its arrow.</li><li><strong>moderate · Layout / continuity</strong><br>NORTH/SOUTH panel labels use target-wall naming instead of specified exterior camera-side convention. NORTH shows bank from south; SOUTH shows storefront from north. East/west side labels are consistent.</li></ul><p>Useful coherent empty game set. Correct B position/arrow and swap north/south captions before treating plan as camera guide.</p><a href="QA-notes.md#loc19" target="_blank" rel="noopener">Open full QA report ↗</a></details>
+<div class="card-footer"><span class="dimensions">Dimensions checked on preview load</span><a class="download image-link" href="LOC19-game-world-great-dog-national-bank-gpt26-v001.png" download="LOC19-game-world-great-dog-national-bank-gpt26-v001.png" aria-label="Download LOC19 PNG">PNG <span aria-hidden="true">↓</span></a></div>
+  </div>
+</article>
+<article class="card" data-search="loc20 district 7 market rooftop overlook low roof above market · north market parapet · southwest access hut · hvac and rail edges" data-location="LOC20">
+  <a class="preview image-link" href="LOC20-district-7-market-rooftop-overlook-gpt26-v001.png" target="_blank" rel="noopener" aria-label="Open LOC20: District 7 market rooftop overlook full-size sheet">
+    <div class="placeholder"><span class="placeholder-symbol" aria-hidden="true">▧</span><span class="placeholder-label">Preview loads as you browse</span></div>
+    <img src="LOC20-district-7-market-rooftop-overlook-gpt26-v001.png" width="3840" height="2160" loading="lazy" decoding="async" alt="LOC20 — District 7 market rooftop overlook, nine-panel empty location reference sheet">
+    <span class="open-hint">Open full size ↗</span>
+  </a>
+  <div class="card-content">
+    <div class="card-top"><span class="location-id">LOC20</span><span class="review-label"><i aria-hidden="true"></i>Approval pending</span></div>
+    <h2><a class="image-link" href="LOC20-district-7-market-rooftop-overlook-gpt26-v001.png" target="_blank" rel="noopener">District 7 market rooftop overlook</a></h2>
+    <p class="scenes">PILOT SCENES <span>23</span></p>
+    <p class="rooms">Low roof above market · North market parapet · Southwest access hut · HVAC and rail edges</p>
+    <details class="qa-details"><summary>QA notes · 4 findings</summary><p>Initial reviewer result: <strong>draft_requires_roof_and_market_geography_correction</strong>. Production approval remains pending.</p><ul><li><strong>major · Layout / continuity</strong><br>Hut moves to screen-left/northwest in SOUTH view looking north, although plan fixes it northeast. EAST view largely repeats a north-facing hut view instead of looking west from the east edge.</li><li><strong>major · Layout / continuity</strong><br>HERO shows lantern fish stalls across the street from the roof. Plan and SOUTH elevation place those stalls directly beneath this north-row roof. The hero therefore reverses the market-side relationship; the opposite south-row shuttered shops and fixed billboard are not established.</li><li><strong>major · Layout / continuity</strong><br>REVERSE looking northeast puts pipe railing and cable spool at foreground left, although plan fixes them east/right. WEST view also relocates hut/HVAC relative to the north/east corners.</li><li><strong>moderate · Layout / continuity</strong><br>No clear matching view of LOC08&#x27;s western street mouth/rally connection or opposite billboard. Market cross-set geography cannot yet be approved from this sheet.</li></ul><p>Use plan as provisional roof master, rebuild the named elevations and hero/reverse from it, and explicitly match the same LOC08 stall/billboard/stair geometry before scene 23.</p><a href="QA-notes.md#loc20" target="_blank" rel="noopener">Open full QA report ↗</a></details>
+<div class="card-footer"><span class="dimensions">Dimensions checked on preview load</span><a class="download image-link" href="LOC20-district-7-market-rooftop-overlook-gpt26-v001.png" download="LOC20-district-7-market-rooftop-overlook-gpt26-v001.png" aria-label="Download LOC20 PNG">PNG <span aria-hidden="true">↓</span></a></div>
+  </div>
+</article>
+</section>
+<p class="empty" id="empty" hidden>No locations match. Try another room name or location ID.</p>
+<footer><span>Initial QA recorded for all 20 review drafts. Corrections, clean plates and final approval remain pending.</span><span>Dimensions are read from each loaded image. Refresh after new files are saved.</span></footer>
+<noscript><p>JavaScript is off. Image and download links still open the local PNGs; dimensions and availability will not update.</p></noscript>
+</main>
+<script>
+(function(){
+  const cards=Array.from(document.querySelectorAll('.card'));
+  function state(card,img){
+    if(img.naturalWidth>0){
+      card.classList.add('loaded');card.classList.remove('missing');
+      const label=card.querySelector('.dimensions');
+      label.textContent=img.naturalWidth.toLocaleString()+' × '+img.naturalHeight.toLocaleString()+' px';
+      label.classList.toggle('verified',img.naturalWidth===3840&&img.naturalHeight===2160);
+      card.querySelectorAll('.image-link').forEach(a=>a.removeAttribute('aria-disabled'));
+    }else{
+      card.classList.add('missing');card.classList.remove('loaded');
+      card.querySelector('.placeholder-label').textContent='Image not yet available';
+      card.querySelector('.dimensions').textContent='Awaiting local PNG';
+      card.querySelectorAll('.image-link').forEach(a=>a.setAttribute('aria-disabled','true'));
+    }
+  }
+  cards.forEach(card=>{
+    const img=card.querySelector('img');
+    img.addEventListener('load',()=>state(card,img));
+    img.addEventListener('error',()=>state(card,img));
+    if(img.complete)state(card,img);
+    card.querySelectorAll('.image-link').forEach(a=>a.addEventListener('click',e=>{if(card.classList.contains('missing'))e.preventDefault();}));
+  });
+  document.querySelector('#search').addEventListener('input',e=>{
+    const query=e.target.value.trim().toLowerCase();let visible=0;
+    cards.forEach(card=>{card.hidden=!card.dataset.search.includes(query);if(!card.hidden)visible++;});
+    document.querySelector('#results').textContent=visible+' of 20 locations';
+    document.querySelector('#empty').hidden=visible!==0;
+  });
+  document.querySelector('#refresh').addEventListener('click',()=>location.reload());
+})();
+</script>
+</body>
+</html>

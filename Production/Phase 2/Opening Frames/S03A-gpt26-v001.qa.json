@@ -1,0 +1,24 @@
+{
+  "asset_id": "S03A",
+  "visual_reviewed": true,
+  "status": "previs_still_hold_continuity_correction",
+  "expected_actor_count": 0,
+  "observed_actor_count": 0,
+  "hard_actor_count_pass": true,
+  "anatomy_check": "No actors; unoccupied couch-back tops enter the intended tight television insert.",
+  "passes": [
+    "One two-knob CRT with a clean blue field and red/gold composite edges."
+  ],
+  "issues": [
+    {
+      "severity": "moderate",
+      "note": "Hold for continuity correction: a sixth spare controller appears on the TV/console although all five units are held by the crew in the surrounding wide shots. Do not propagate this controller."
+    },
+    {
+      "severity": "minor",
+      "note": "Canonical NIP7 and paw casing stickers are absent; unoccupied couch-back tops also weaken the intended tight insert."
+    }
+  ],
+  "production_approved": false,
+  "paid_retry_performed": false
+}

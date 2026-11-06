@@ -1,0 +1,16 @@
+{
+  "asset_id": "S01A",
+  "visual_reviewed": true,
+  "status": "previs_still_review_pass",
+  "expected_actor_count": 0,
+  "observed_actor_count": 0,
+  "hard_actor_count_pass": true,
+  "anatomy_check": "No visible extra limbs, merged bodies or duplicate faces at review scale.",
+  "passes": [
+    "Empty warehouse exterior; closed cargo shutter and separate staff door frame-right.",
+    "East exhaust, upper windows, wet loading apron and source material identity preserved."
+  ],
+  "issues": [],
+  "production_approved": false,
+  "paid_retry_performed": false
+}

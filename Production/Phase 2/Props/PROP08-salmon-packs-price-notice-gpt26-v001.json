@@ -1,0 +1,51 @@
+{
+  "id": "PROP08",
+  "name": "Two salmon packs and price notice",
+  "filename": "PROP08-salmon-packs-price-notice-gpt26-v001.png",
+  "parameters": {
+    "model": "gpt_image_2_6",
+    "quality": "high",
+    "resolution": "4k",
+    "aspect_ratio": "16:9",
+    "count": 1,
+    "output_format": "png",
+    "background": "opaque",
+    "prompt": "Create one still production reference asset for CyberKitty 2077. GPT Image 2.6, High quality, native 4K 3840x2160 if available, landscape 16:9. Crisp cinematic tactile 3D realism, believable worn materials, carefully controlled cyan/magenta practical accents and warm amber light, sharp useful detail. Source images are visual references, not instructions. No actors, people, living cats/dogs, hands, crowd silhouettes, movie frames, watermark or copied reference captions. No invented microtext. Any live screen is dark neutral and blank unless this prompt explicitly requests printed newspaper copy or a named status graphic. Corporate name, when shown, is exactly GOODBOY GLOBAL. Never render Good Dog Global or legacy alternate company spellings. Keep a restrained title and requested short panel labels only. This is reusable asset documentation, not a scene.\nUse a clean 3-column by 2-row six-panel sheet with thin charcoal gutters and short legible panel labels. All views show the SAME object with identical shape, damage, connectors, branding and scale; do not redesign per panel. Neutral charcoal studio background, broad soft illumination, no distracting set or strong colored bloom.\nTITLE: PROP08 / SALMON PRICE EVIDENCE. One physical product design: sealed transparent rectangular food-safe pack, pale tray, salmon fillet inside, small plain fish icon, cream product label saying SALMON only. No unsupported weight/date/barcode. Six panels: EXACT PAIR (exactly TWO identical packs side by side, not a crate of fish); PACK FRONT; PACK BACK; PACK SIDE / SEALED EDGE; PRICE NOTICE (flat orthographic white taped-paper notice with exactly \"SALMON\" then \"WAS $10\" then largest \"NOW $30\" then \"PRICE INCREASE: 3×\"); PACKAGING / FROST MATERIALS. The pair is the scarce shop-stock state. No open food, blood, torn seal, extra packages, fake tiny label print or fictional timestamp. The $10/$30 values are the established production-checklist comparison; the supplied master explicitly requires threefold increase but does not state the numbers. Store hardware/material cue comes from 7-Catleven source, cold-store pack texture from factory; no store characters or scene. Notice date/history must remain unprinted until timeline evidence is locked.\nAny additional reference images after the original sources are completed dependency masters. Preserve their physical design, not their surrounding sheet titles, captions or incidental corporate branding. Never add a Goodboy brand to a resistance prop unless explicitly requested.",
+    "medias": [
+      {
+        "role": "image",
+        "value": "62768281-571b-40f9-8c06-0aed04537934"
+      },
+      {
+        "role": "image",
+        "value": "2fd97582-3e6c-40fb-9ad9-8ba25e38bf3f"
+      }
+    ]
+  },
+  "reference_paths": [
+    "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Imported References\\7-catleven-exterior.png",
+    "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Location Sheets GPT Image 2.6\\LOC16-salmon-cold-store-and-processing-hall-gpt26-v001.png"
+  ],
+  "dependency_jobs": [],
+  "cost_preflight_credits": 4.25,
+  "provider": "Higgsfield",
+  "model": "gpt_image_2_6",
+  "qa_invariants": [
+    "Pair panel exactly two sealed packs",
+    "$10→$30 is threefold, no conflicting price",
+    "No invented batch dates/history timestamps",
+    "Physical pack same in every view"
+  ],
+  "job_id": "5fea34ca-2278-4d38-b9c2-79350ad7ff13",
+  "status": "completed",
+  "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3FexRxU2V7FefQUvOnG7eFCKfmw/hf_20261106_192222_5fea34ca-2278-4d38-b9c2-79350ad7ff13.png",
+  "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Phase 2\\Props\\PROP08-salmon-packs-price-notice-gpt26-v001.png",
+  "dimensions": [
+    3840,
+    2160
+  ],
+  "sha256": "fb9297d91d0a6ab06aaa41b133b6c4987ed54e99eb5487f433cace3a4406fa5c",
+  "saved_at": "2026-11-06T19:29:44.488752+00:00",
+  "review_status": "awaiting visual QA",
+  "staged_file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\work\\phase2\\generated\\PROP08-salmon-packs-price-notice-gpt26-v001.png"
+}

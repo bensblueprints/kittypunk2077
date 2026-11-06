@@ -1,0 +1,17 @@
+{
+  "asset_id": "S04A",
+  "visual_reviewed": true,
+  "status": "previs_still_review_pass",
+  "expected_actor_count": 6,
+  "observed_actor_count": 6,
+  "hard_actor_count_pass": true,
+  "anatomy_check": "No visible extra limbs, merged bodies or duplicate faces at review scale.",
+  "passes": [
+    "Exactly six cats: Trixie/Byte foreground plus four distinct anonymous civilian shoppers.",
+    "Byte frame-left, Trixie frame-right ahead; correct sunglasses/headphones, white face marking, wardrobes and street materials.",
+    "No dogs, humans, merged bodies or extra visible limbs at review scale."
+  ],
+  "issues": [],
+  "production_approved": false,
+  "paid_retry_performed": false
+}

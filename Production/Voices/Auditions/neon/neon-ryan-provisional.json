@@ -1,0 +1,18 @@
+{
+  "role_id": "neon",
+  "option": "ryan-provisional",
+  "candidate_voice_id": "4e32WqNVWRquDa1OcRYZ",
+  "text": "The same network telling everyone to panic-buy salmon. That's interesting. Very interesting. The decoy is ready. Just try not to step on it before we reach the restaurant.",
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.5,
+    "similarity_boost": 0.75,
+    "style": 0.15,
+    "use_speaker_boost": true
+  },
+  "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Voices\\Auditions\\neon\\neon-ryan-provisional.mp3",
+  "request_id": "tLS7LSYsOgbSwjbI5UBj",
+  "credits_before": 52975,
+  "credits_after": 52975,
+  "status": "audition_only_not_approved"
+}

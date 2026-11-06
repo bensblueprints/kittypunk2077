@@ -1,0 +1,28 @@
+{
+  "id": "HQ05",
+  "status": "draft_hero_orientation_correction_needed",
+  "dimensions": [
+    3840,
+    2160
+  ],
+  "panels": 9,
+  "empty_set": true,
+  "checks_passed": [
+    "Blank monitor matrix and blank desktop displays; no CCTV figures.",
+    "Two operator stations, north single opening with red alarm, south screen wall, opaque side walls.",
+    "Plan and isolated elevations put rack west, communications cabinet east.",
+    "Reverse facing north correctly shows west rack on screen-left and east cabinet on screen-right."
+  ],
+  "issues": [
+    {
+      "severity": "major",
+      "note": "South-facing hero shows west rack screen-left and east cabinet screen-right, mirrored relative to the text, plan and reverse. Correct hero side fixtures before using it for scene continuity."
+    },
+    {
+      "severity": "minor",
+      "note": "A/B wide compositions are nearly axial instead of the stated diagonal camera coordinates."
+    }
+  ],
+  "topology_authority": "Saved text coordinates and cardinal wall elevations; no paid revision submitted.",
+  "paid_retry": false
+}

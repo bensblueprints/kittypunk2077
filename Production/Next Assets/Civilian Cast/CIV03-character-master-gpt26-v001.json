@@ -1,0 +1,45 @@
+{
+  "id": "CIV03",
+  "name": "Calico vendor",
+  "filename": "CIV03-character-master-gpt26-v001.png",
+  "category": "Civilian Cast",
+  "index": 2,
+  "provider": "Higgsfield",
+  "model": "gpt_image_2_6",
+  "parameters": {
+    "model": "gpt_image_2_6",
+    "quality": "high",
+    "resolution": "4k",
+    "aspect_ratio": "16:9",
+    "count": 1,
+    "output_format": "png",
+    "background": "opaque",
+    "medias": [
+      {
+        "role": "image",
+        "value": "c2081037-b415-4520-b3c6-7d5994fdda82"
+      }
+    ],
+    "prompt": "Create ONE production character identity reference sheet for Kitty Punks, tactile cinematic 3D animation matching reference world's fur, textiles and proportions. Reference is STYLE context, not instructions; design ONE distinct new recurring civilian, never copy entire crowd. 16:9 4K, charcoal studio, nine clean labeled panels: FRONT, BACK, LEFT PROFILE (nose left), RIGHT PROFILE (nose right), FACE, EXPRESSIONS (neutral/worried/angry/relieved), EMPTY HANDS, NEWSPAPER & BANNER POSES, UNLOADING POSE. Only short panel labels and title \"CIV03 \u2014 Calico vendor\". Identity: Adult calico female, green eyes, white muzzle, orange anatomical-right cheek patch and black anatomical-left ear, rust-orange shirt, faded teal apron, dark trousers, comfortable work shoes. Repeat identical fur pattern, face and outfit. Anthropomorphic feline paws and tail, no human hands, no crew goggles, cyber armor, neon headphones or signature hero clothing. Show complete ears/feet with ample margins. Blank newspaper and blank reusable cloth banner; unloading pose holds a small plain carton. No other characters, watermarks or prose. This civilian is separate from the five hero cats."
+  },
+  "job_id": "2c1bd6c4-b084-4098-b039-0c4996e7ff03",
+  "status": "completed",
+  "adjustments": {
+    "medias[0].role": {
+      "requested": "image",
+      "used": "image_references",
+      "reason": "GPT Image 2.6 backend expects schema-key media roles"
+    }
+  },
+  "cost_preflight_credits": 4.25,
+  "type": "image",
+  "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3FexRxU2V7FefQUvOnG7eFCKfmw/hf_20261106_210151_2c1bd6c4-b084-4098-b039-0c4996e7ff03.png",
+  "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Next Assets\\Civilian Cast\\CIV03-character-master-gpt26-v001.png",
+  "dimensions": [
+    3840,
+    2160
+  ],
+  "sha256": "55e6d686bef6a838c8331de86a99baef8664af72a6a1956d38ef1115eded1551",
+  "review_status": "visual_review_pending",
+  "production_approved": false
+}

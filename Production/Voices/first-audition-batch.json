@@ -1,0 +1,78 @@
+{
+  "status": "unapproved_candidates",
+  "crew_casting": "pending gender direction; no crew samples submitted",
+  "results": [
+    {
+      "role_id": "nip7_anchor",
+      "option": "daniel",
+      "candidate_voice_id": "onwK4e9ZLuTAKqWW03F9",
+      "text": "Exclusive tonight: leaked footage shows Chairman Barkington Orders making an undisclosed cash payment to a senior Woof Seven journalist. Newly released records confirm that Good Dog Global diverted salmon shipments away from feline neighborhoods.",
+      "model": "eleven_multilingual_v2",
+      "settings": {
+        "stability": 0.5,
+        "similarity_boost": 0.75,
+        "style": 0.15,
+        "use_speaker_boost": true
+      },
+      "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Voices\\Auditions\\nip7_anchor\\nip7_anchor-daniel.mp3",
+      "request_id": "NswSM3HxlTLoP6MJRDj7",
+      "credits_before": 52796,
+      "credits_after": 52796,
+      "status": "audition_only_not_approved"
+    },
+    {
+      "role_id": "nip7_anchor",
+      "option": "george",
+      "candidate_voice_id": "JBFqnCBsd6RMkjVDRZzb",
+      "text": "Exclusive tonight: leaked footage shows Chairman Barkington Orders making an undisclosed cash payment to a senior Woof Seven journalist. Newly released records confirm that Good Dog Global diverted salmon shipments away from feline neighborhoods.",
+      "model": "eleven_multilingual_v2",
+      "settings": {
+        "stability": 0.5,
+        "similarity_boost": 0.75,
+        "style": 0.15,
+        "use_speaker_boost": true
+      },
+      "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Voices\\Auditions\\nip7_anchor\\nip7_anchor-george.mp3",
+      "request_id": "dIIxD0oUi7crlvbwmUQ7",
+      "credits_before": 52796,
+      "credits_after": 52796,
+      "status": "audition_only_not_approved"
+    },
+    {
+      "role_id": "barkington",
+      "option": "brian",
+      "candidate_voice_id": "nPczCjzI2devNBz1zQrb",
+      "text": "The public needs reassurance that our supply measures are necessary. The city depends on steady leadership. I trust your coverage will help everyone understand that.",
+      "model": "eleven_multilingual_v2",
+      "settings": {
+        "stability": 0.5,
+        "similarity_boost": 0.75,
+        "style": 0.15,
+        "use_speaker_boost": true
+      },
+      "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Voices\\Auditions\\barkington\\barkington-brian.mp3",
+      "request_id": "htv9AmblNHWIUcaiD5cd",
+      "credits_before": 52796,
+      "credits_after": 52796,
+      "status": "audition_only_not_approved"
+    },
+    {
+      "role_id": "woof7_anchor",
+      "option": "eric",
+      "candidate_voice_id": "cjVigY5qzO86Huf0OWal",
+      "text": "We interrupt your programme with a special announcement from Good Dog Global. And you want that to be tonight's headline? I see. Public confidence. Of course.",
+      "model": "eleven_multilingual_v2",
+      "settings": {
+        "stability": 0.5,
+        "similarity_boost": 0.75,
+        "style": 0.15,
+        "use_speaker_boost": true
+      },
+      "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Voices\\Auditions\\woof7_anchor\\woof7_anchor-eric.mp3",
+      "request_id": "qx7YkPRzWZyeEPrzKjlS",
+      "credits_before": 52796,
+      "credits_after": 52796,
+      "status": "audition_only_not_approved"
+    }
+  ]
+}

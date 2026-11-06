@@ -1,0 +1,16 @@
+{
+  "asset_id": "S01C",
+  "visual_reviewed": true,
+  "status": "previs_still_review_pass",
+  "expected_actor_count": 5,
+  "observed_actor_count": 5,
+  "hard_actor_count_pass": true,
+  "anatomy_check": "Five separate seated cats, each with one controller held in two paws; no extra heads or limbs observed.",
+  "passes": [
+    "Correct rear seating order and immutable fur/accessory palettes.",
+    "Tighter rear coverage retains banner left, window right, blank CRT with two right knobs, console above and both blanket sides."
+  ],
+  "issues": [],
+  "production_approved": false,
+  "paid_retry_performed": false
+}

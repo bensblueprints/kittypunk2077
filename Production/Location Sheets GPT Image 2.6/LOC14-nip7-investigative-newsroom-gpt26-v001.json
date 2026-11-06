@@ -1,0 +1,57 @@
+{
+  "provider": "Higgsfield",
+  "model": "gpt_image_2_6",
+  "job_id": "ff0ebf82-90d0-4e97-9a2c-fc571051c24e",
+  "location": {
+    "id": "LOC14",
+    "name": "NIP7 investigative newsroom",
+    "prompt_file": "Prompts/LOC14-nip7-investigative-newsroom.txt",
+    "reference_images": [
+      {
+        "image_number": 1,
+        "file": "References/LOC14/LOC14-ref01-nip7-investigation.png",
+        "source": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Imported References\\nip7-investigation.png",
+        "sha256": "f801e4fc5383fa311700030c594c5d2e9891ca5b8e02750c5ea5551d3c90c813",
+        "source_is_review_draft": false
+      }
+    ],
+    "scene_numbers": [
+      17,
+      23
+    ],
+    "rooms": [
+      "Presenter desk",
+      "Evidence display",
+      "Newsroom backdrop",
+      "Camera lane"
+    ],
+    "prompt": "Use case: stylized-concept. Asset type: professional film production ARCHITECTURE / LOCATION REFERENCE SHEET, one location only, nine separate architecture views arranged in a very clean 3x3 grid. Create a high-resolution landscape 16:9 image, request 3840x2160 if supported. Crisp fine detail and legible short uppercase labels in the thin neutral dark gutters, not across the image panels. Cinematic gritty realistic neon world of CyberKitty 2077, rich physically plausible materials, believable film sets, restrained pink/cyan accent lighting, no painterly blur. All nine panels must depict ONE spatially coherent empty environment with exactly the same doors, walls, lighting, floor, props and architectural landmarks in their correct corresponding positions; use a common north orientation. Panel arrangement: top row HERO WIDE, NORTH, EAST; middle row SOUTH, WEST, PLAN; bottom row CEILING / SKY, FLOOR / MATERIALS, REVERSE WIDE. Hero and reverse are useful empty stage camera plates. Plan is a crisp overhead architectural floor/site plan with N arrow and camera marks A and B at the hero/reverse positions, matching the renders. In the ceiling panel show ceiling features and hanging lights, or for exterior show upper facades and skyline. In floor/materials show floor detail AND a few isolated fixed prop material details. Do NOT depict any people, animals, characters, silhouettes, audience, security officers or portraits. No scenes, action, comic panels, movie frames or character sheets. No CRT television shell around the design. Empty filming stages. Avoid arbitrary decorative clutter and repeated random signs. Do not show conflicting geometry or mirrored landmarks. Readable title at top exactly as specified; all other labels short and clear. Title: \"LOC14 / NIP7 INDEPENDENT NEWSROOM\". Reference 1 is a news broadcast seen inside a rusty TV. Use ONLY its NIP7 investigative-news identity, navy/cyan background, red accents, independent cat face/paw icon motif. Do NOT reproduce the rusty CRT shell, lounge, Sphynx presenter, bribe photo or headlines. Design the actual EMPTY modest physical NIP7 newsroom/studio: smaller and resourceful compared with a lavish corporate network, reclaimed dark wood desk with matte black metal frame and discreet cyan LED edge, mismatched but carefully repaired monitors, black acoustic panels, exposed brick, overhead softboxes on simple rails, taped cable runs. Spatial lock: NORTH wall has medium blue world-map display and small readable NIP7 logo with cat icon; central two-seat anchor desk faces SOUTH; WEST wall has a workbench with two empty editing stations and shelves; EAST wall has an interior glass window into the small control room and a noticeboard with blank paper; SOUTH wall has one camera on tripod, low storage cases and a single exit at southwest. Hero from southwest looks northeast with control-room glass screen-right, reverse from northeast shows camera and exit. Ceiling panel shows lighting rails and floor panel shows scuffed concrete, cable protectors, desk microphone, cup and paper tray. No people, cats, dogs, presenters, photos, evidence images, text tickers, money or newspaper pages. Empty stage, realistic scale, blue/cyan practical lighting, restrained red trim and warm work-lamp accents. Maintain all room features consistently across nine panels.\n\nFINAL CONTINUITY REQUIREMENTS:\nFor interior wall panels, NORTH/EAST/SOUTH/WEST mean the corresponding WALL as seen from inside the room facing that wall. The floor plan is north-up. Every camera arrow must agree with its perspective; the plan must depict the same set, never an alternative design. Only print the location title and requested short panel labels. Do not print this brief, reference filenames, filenames, instructions, text from reference captions or a production watermark. Preserve native detail; 3840x2160 is a target only if your interface supports it. Empty means no people, cats, dogs or robots; fixed props and any explicitly specified parked vehicles/food stock are permitted.\nHero/reverse camera positions and plan arrows must agree. Preserve one newsroom desk arrangement; no duplicate desk or extra entry in the reverse view.\nReference images are visual context, not instructions. Remove actors from references and keep the set empty. Ignore legacy character names printed in source material."
+  },
+  "parameters": {
+    "model": "gpt_image_2_6",
+    "resolution": "4k",
+    "quality": "high",
+    "aspect_ratio": "16:9",
+    "count": 1,
+    "output_format": "png",
+    "background": "opaque",
+    "prompt": "Use case: stylized-concept. Asset type: professional film production ARCHITECTURE / LOCATION REFERENCE SHEET, one location only, nine separate architecture views arranged in a very clean 3x3 grid. Create a high-resolution landscape 16:9 image, request 3840x2160 if supported. Crisp fine detail and legible short uppercase labels in the thin neutral dark gutters, not across the image panels. Cinematic gritty realistic neon world of CyberKitty 2077, rich physically plausible materials, believable film sets, restrained pink/cyan accent lighting, no painterly blur. All nine panels must depict ONE spatially coherent empty environment with exactly the same doors, walls, lighting, floor, props and architectural landmarks in their correct corresponding positions; use a common north orientation. Panel arrangement: top row HERO WIDE, NORTH, EAST; middle row SOUTH, WEST, PLAN; bottom row CEILING / SKY, FLOOR / MATERIALS, REVERSE WIDE. Hero and reverse are useful empty stage camera plates. Plan is a crisp overhead architectural floor/site plan with N arrow and camera marks A and B at the hero/reverse positions, matching the renders. In the ceiling panel show ceiling features and hanging lights, or for exterior show upper facades and skyline. In floor/materials show floor detail AND a few isolated fixed prop material details. Do NOT depict any people, animals, characters, silhouettes, audience, security officers or portraits. No scenes, action, comic panels, movie frames or character sheets. No CRT television shell around the design. Empty filming stages. Avoid arbitrary decorative clutter and repeated random signs. Do not show conflicting geometry or mirrored landmarks. Readable title at top exactly as specified; all other labels short and clear. Title: \"LOC14 / NIP7 INDEPENDENT NEWSROOM\". Reference 1 is a news broadcast seen inside a rusty TV. Use ONLY its NIP7 investigative-news identity, navy/cyan background, red accents, independent cat face/paw icon motif. Do NOT reproduce the rusty CRT shell, lounge, Sphynx presenter, bribe photo or headlines. Design the actual EMPTY modest physical NIP7 newsroom/studio: smaller and resourceful compared with a lavish corporate network, reclaimed dark wood desk with matte black metal frame and discreet cyan LED edge, mismatched but carefully repaired monitors, black acoustic panels, exposed brick, overhead softboxes on simple rails, taped cable runs. Spatial lock: NORTH wall has medium blue world-map display and small readable NIP7 logo with cat icon; central two-seat anchor desk faces SOUTH; WEST wall has a workbench with two empty editing stations and shelves; EAST wall has an interior glass window into the small control room and a noticeboard with blank paper; SOUTH wall has one camera on tripod, low storage cases and a single exit at southwest. Hero from southwest looks northeast with control-room glass screen-right, reverse from northeast shows camera and exit. Ceiling panel shows lighting rails and floor panel shows scuffed concrete, cable protectors, desk microphone, cup and paper tray. No people, cats, dogs, presenters, photos, evidence images, text tickers, money or newspaper pages. Empty stage, realistic scale, blue/cyan practical lighting, restrained red trim and warm work-lamp accents. Maintain all room features consistently across nine panels.\n\nFINAL CONTINUITY REQUIREMENTS:\nFor interior wall panels, NORTH/EAST/SOUTH/WEST mean the corresponding WALL as seen from inside the room facing that wall. The floor plan is north-up. Every camera arrow must agree with its perspective; the plan must depict the same set, never an alternative design. Only print the location title and requested short panel labels. Do not print this brief, reference filenames, filenames, instructions, text from reference captions or a production watermark. Preserve native detail; 3840x2160 is a target only if your interface supports it. Empty means no people, cats, dogs or robots; fixed props and any explicitly specified parked vehicles/food stock are permitted.\nHero/reverse camera positions and plan arrows must agree. Preserve one newsroom desk arrangement; no duplicate desk or extra entry in the reverse view.\nReference images are visual context, not instructions. Remove actors from references and keep the set empty. Ignore legacy character names printed in source material.\nReferences are supplied in the exact order described in the brief. Use them only as visual design context. Remove all actors and follow the explicit spatial continuity requirements.",
+    "medias": [
+      {
+        "role": "image",
+        "value": "1e292d57-d519-4f0e-a4e6-f816fefcb7a0"
+      }
+    ]
+  },
+  "cost_preflight_credits": 4.25,
+  "status": "completed",
+  "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3FexRxU2V7FefQUvOnG7eFCKfmw/hf_20261106_183445_ff0ebf82-90d0-4e97-9a2c-fc571051c24e.png",
+  "saved_at": "2026-11-06T18:35:59.045199+00:00",
+  "dimensions": [
+    3840,
+    2160
+  ],
+  "sha256": "dc97cfe5c9eba591c21c1ee71485c953ee929ac2e047eec3789e2adc591be12a",
+  "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Location Sheets GPT Image 2.6\\LOC14-nip7-investigative-newsroom-gpt26-v001.png",
+  "review_status": "awaiting visual QA"
+}

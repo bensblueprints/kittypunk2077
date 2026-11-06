@@ -1,0 +1,45 @@
+{
+  "id": "SUP01",
+  "name": "7-Catleven Clerk",
+  "filename": "SUP01-character-master-gpt26-v001.png",
+  "parameters": {
+    "model": "gpt_image_2_6",
+    "quality": "high",
+    "resolution": "4k",
+    "aspect_ratio": "16:9",
+    "count": 1,
+    "output_format": "png",
+    "background": "opaque",
+    "prompt": "Use case: stylized-concept / identity-preserve. Create one 3840x2160 landscape production character reference sheet, nine generous panels in 3x3 grid. Tactile cinematic 3D animation, detailed fur or skin, cloth and worn materials, neutral charcoal studio backdrop, soft readable key and restrained cyan/magenta rim light. ONE recurring identity repeated in all panels, no additional actors. Panels: FRONT full body, BACK full body, LEFT PROFILE nose left, RIGHT PROFILE nose right, FACE frontal, EXPRESSIONS four consistent head studies, PAWS relaxed/pads/grip, COSTUME isolated wardrobe, ACTION POSES three simple useful held poses. True opposing profiles; same proportions, markings, costume construction and accessories. Complete ears and feet with margins. Feline/canine paws, no bare human hands. Only short requested labels and character name, no corporate header branding, no voice names, watermark, collage from reference or pasted scene. References are visual context only, ignore all source text. NAME: 7-Catleven Clerk. IDENTITY: Small tabby-and-white shop cat with white muzzle/chest, dark striped forehead, black shop cap, orange collar/shirt and dark green apron. Match cashier behind counter in store image; do not borrow the five crew costumes. Paw hands. Action poses should fit this role without introducing weapons or unscripted actions.",
+    "medias": [
+      {
+        "role": "image",
+        "value": "62768281-571b-40f9-8c06-0aed04537934"
+      }
+    ]
+  },
+  "cost_preflight_credits": 4.25,
+  "provider": "Higgsfield",
+  "model": "gpt_image_2_6",
+  "category": "Supporting Cast",
+  "index": 0,
+  "job_id": "34d8fe00-9d0b-4565-9b68-a9731665aa95",
+  "status": "completed",
+  "adjustments": {
+    "medias[0].role": {
+      "requested": "image",
+      "used": "image_references",
+      "reason": "GPT Image 2.6 backend expects schema-key media roles"
+    }
+  },
+  "type": "image",
+  "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3FexRxU2V7FefQUvOnG7eFCKfmw/hf_20261106_205549_34d8fe00-9d0b-4565-9b68-a9731665aa95.png",
+  "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Next Assets\\Supporting Cast\\SUP01-character-master-gpt26-v001.png",
+  "dimensions": [
+    3840,
+    2160
+  ],
+  "sha256": "d9ae4e4d7a6c8795d448f027c6013bec2b20a3e1ec63993571cc9324f072e737",
+  "review_status": "visual_review_pending",
+  "production_approved": false
+}

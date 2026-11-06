@@ -1,0 +1,20 @@
+{
+  "voice_id": "7fBwqIVI6wI1B4MuKqQi",
+  "name": "Austin - Upbeat",
+  "description": "A Detroit male, tough cut in his prime.",
+  "labels": {
+    "gender": "male",
+    "accent": "american",
+    "use_case": "characters_animation",
+    "age": "young",
+    "descriptive": "serious",
+    "language": "en",
+    "locale": "en-US"
+  },
+  "category": "professional",
+  "role": "Ghost",
+  "character_id": "ghost",
+  "status": "selected by user for the cat with green shades",
+  "identity_mapping": "Green visor uniquely identifies Ghost in the current crew sheet.",
+  "account_access": "confirmed"
+}

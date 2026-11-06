@@ -1,0 +1,113 @@
+{
+  "asset_id": "S01G",
+  "name": "Onyx reaction",
+  "batch": 3,
+  "index": 7,
+  "scene": 1,
+  "editorial_shot_id": "S01-07",
+  "provider": "Higgsfield",
+  "model": "gpt_image_2_6",
+  "media_type": "image",
+  "status": "targeted_correction_pass_review_draft",
+  "generation_status": "completed",
+  "job_id": "67e57774-1a59-4c47-834e-4b99ca6a2f9f",
+  "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3FexRxU2V7FefQUvOnG7eFCKfmw/hf_20261106_200800_67e57774-1a59-4c47-834e-4b99ca6a2f9f.png",
+  "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Phase 2\\Opening Frames\\S01G-gpt26-v002.png",
+  "filename": "S01G-gpt26-v002.png",
+  "actual_dimensions": [
+    3840,
+    2160
+  ],
+  "file_format": "PNG",
+  "size_bytes": 12498807,
+  "sha256": "e39163b80bbae2b63adbfd9243b5286074848598b8ca8f8f09d3b8cb0a43e76e",
+  "saved_at": "2026-11-06T20:10:24.469823+00:00",
+  "quote_credits": 4.25,
+  "actual_billed_credits": "not_independently_verified",
+  "batch_lease_credits": 21.25,
+  "max_authorized_jobs": 5,
+  "no_automatic_paid_retry": true,
+  "reference_paths": [
+    "E:/MovedFromC/Documents/Codex/2026-11-06/https-chatgpt-com-share-6aedf171-aae8-2/outputs/Phase 2/Opening Frames/S01G-gpt26-v001.png"
+  ],
+  "reference_media": [
+    {
+      "role": "image",
+      "value": "7b719e27-f9a5-4e37-8525-7b31d3898be1"
+    }
+  ],
+  "source_hashes": {
+    "E:/MovedFromC/Documents/Codex/2026-11-06/https-chatgpt-com-share-6aedf171-aae8-2/outputs/Phase 2/Opening Frames/S01G-gpt26-v001.png": "2e677d57c090367cbcd937bcedfdb382e44799de8f4fee7e0b10b9da8bd24de2"
+  },
+  "generation_params": {
+    "model": "gpt_image_2_6",
+    "quality": "high",
+    "resolution": "4k",
+    "aspect_ratio": "16:9",
+    "count": 1,
+    "output_format": "png",
+    "background": "opaque",
+    "prompt": "Use case: identity-preserving targeted shot correction. Return ONE cinematic 3840x2160 16:9 still, not a sheet, collage or storyboard. The first supplied image is the exact EDIT TARGET. Preserve its character identity, fur pattern, wardrobe, lighting, material style and moment. Do not add any character, face, reflection of a character, extra limb, text, watermark or label. No television or console in this front-side shot. No new action, costume or room redesign. PRIMARY CORRECTION: turn the overly wide source into an EXTREME CLOSE-UP portrait. Move the camera close enough that the face, hood/ears and upper shoulders dominate the 16:9 image and the shoulders continue past the left and right frame edges. Frame from just above the ears down to the upper chest. The lower edge is ABOVE the couch-seat level. ALL couch seats, neighboring back cushions, armrests and blankets are completely OUT OF FRAME on both sides. No vacant brown cushion or empty seat may appear. The other four crew members remain seated in their established positions beyond the crop; do not depict them or erase them from a newly visible area. Only a soft unfocused fragment of the existing wall and its original amber/cyan/magenta light may remain behind the head. Do not preserve the wide room/window/doorway composition. Keep the same controller physically in the character's lap below the frame; do not raise it or add a second controller to fit the close-up. If a tiny edge of it happens to remain at the very bottom, retain its original white/black casing and assigned accent, otherwise leave it naturally outside the crop. Do not show knees, lap, seated full body or neighboring furniture. Exactly ONE visible cat: ONYX, the same youthful BLACK-furred cat with amber eyes, purple/magenta paw headphones around the neck, black hood and matching accents from the target. Preserve his jaw-set irritated look toward FRAME LEFT. Keep the hood silhouette, black fur and golden eyes. No visor, scarf or borrowed accessories. His existing controller accent is PURPLE. Headphones and face remain readable in the portrait.",
+    "medias": [
+      {
+        "role": "image",
+        "value": "7b719e27-f9a5-4e37-8525-7b31d3898be1"
+      }
+    ]
+  },
+  "dependencies": [
+    "SET02",
+    "PROP03",
+    "PROP04",
+    "CREW04"
+  ],
+  "dependency_status": "Required files present, parent cleared SET01/SET02 and corrected PROP04v002/CHAR06v002 for previs; input images visually inspected.",
+  "expected_visible_actor_count": 1,
+  "expected_visible_roles": [
+    "CREW04"
+  ],
+  "audio_alignment_file": "S01G-gpt26-v002.alignment.json",
+  "prompt_file": "S01G-gpt26-v002.prompt.txt",
+  "production_approved": false,
+  "higgsfield_audio_allowed": false,
+  "higgsfield_video_allowed": false,
+  "visual_qa": {
+    "asset_id": "S01G",
+    "version": "v002",
+    "visual_reviewed": true,
+    "reviewed_at": "2026-11-06T20:11:59.926665+00:00",
+    "status": "targeted_correction_pass_review_draft",
+    "production_approved": false,
+    "actual_dimensions": [
+      3840,
+      2160
+    ],
+    "hard_actor_count_pass": true,
+    "paid_retry_count": 0,
+    "shared_manifest_modified": false,
+    "visible_actor_count": 1,
+    "visible_roles": [
+      "Onyx"
+    ],
+    "visible_controller_count": 0,
+    "passes": [
+      "No couch cushions, empty seats, blankets or armrests visible.",
+      "Single Onyx retains black fur, amber eyes, hood and purple/magenta paw headphones.",
+      "Irritated frame-left glance retained; no visor, scarf or other borrowed identity.",
+      "No extra actor or raised controller."
+    ],
+    "minor_notes": [
+      "Extreme close-up crops ear tips and lower headphones; little motion margin.",
+      "Controller remains below the crop and its physical design is not re-verified in this version."
+    ]
+  },
+  "version": 2,
+  "paid_retries": 0,
+  "supersedes_filename": "S01G-gpt26-v001.png",
+  "edit_scope": "Tighten Onyx close-up to exclude all neighboring couch seats.",
+  "shared_generation_manifest_update": "Merged by root after original28-frame batch completed.",
+  "qa_file": "S01G-gpt26-v002.qa.json",
+  "observed_controller_count": 0,
+  "authorization_scope": "Separately authorized targeted revision within500-credit Phase2 allowance; outside original28-frame119-credit lease.",
+  "source_initial_frame_lease_credits": 119
+}

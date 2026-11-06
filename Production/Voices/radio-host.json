@@ -1,0 +1,23 @@
+{
+  "voice_id": "mKoqwDP2laxTdq1gEgU6",
+  "name": "Countdown Casey - Radio DJ",
+  "description": "Vintage FM radio disc jockey character. Old school, throwback, parody content. Comedy, animation, video games or background voice to add ambience to a scene. American male voice by Hey Its Brad.",
+  "labels": {
+    "accent": "american",
+    "language": "en",
+    "descriptive": "classy",
+    "use_case": "characters_animation",
+    "age": "old",
+    "gender": "male",
+    "locale": "en-US"
+  },
+  "category": "professional",
+  "role": "Recurring radio host / car-radio presenter",
+  "status": "selected_by_user; account access confirmed",
+  "separate_from": [
+    "NIP7 presenter",
+    "WOOF7 presenter",
+    "opening narrator"
+  ],
+  "sample_generated": false
+}

@@ -1,0 +1,5 @@
+{
+  "model": "gpt-image-2",
+  "prompt": "Generate one simple solid blue square centered on a white background.",
+  "n": 1
+}

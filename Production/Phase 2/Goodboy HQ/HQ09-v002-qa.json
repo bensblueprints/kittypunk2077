@@ -1,0 +1,26 @@
+{
+  "id": "HQ09",
+  "version": "v002",
+  "status": "preferred_corrected_corridor_draft",
+  "preferred_over": "v001",
+  "empty_set": true,
+  "dimensions": [
+    3840,
+    2160
+  ],
+  "fixed": [
+    "North-up south labels now read R&D, SERVER, LOBBY, SECURITY, ELEVATORS west-to-east with correct x9,17,27,36,44 annotations.",
+    "North labels retain OFFICE x7, BOARDROOM x24, VIP LOUNGE x41.",
+    "South elevation and nearest reverse-left access now show ordinary hinged vestibule doors, not direct lifts.",
+    "Solid east wall and west stair access retained; no actors/windows."
+  ],
+  "remaining_issues": [
+    {
+      "severity": "minor",
+      "note": "Diagram door spacing and A position are approximate despite correct coordinate labels. In actual blocking OFFICE x7 lies behind hero A x8; use the numeric text rather than pixel distances."
+    }
+  ],
+  "usage": "Preferred v002 for corridor identities and door continuity. Numeric master coordinates govern exact positions.",
+  "paid_revision_attempts": 1,
+  "automatic_retry": false
+}

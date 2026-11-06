@@ -1,0 +1,1478 @@
+{
+  "generated_at": "2026-11-06T18:48:35.871352+00:00",
+  "provider": "Higgsfield",
+  "model": "gpt_image_2_6",
+  "parameters": {
+    "quality": "high",
+    "resolution": "4k",
+    "aspect_ratio": "16:9",
+    "count_per_request": 1
+  },
+  "execution": "Serial, one location at a time",
+  "image_count": 20,
+  "verified_dimensions": [
+    3840,
+    2160
+  ],
+  "all_hashes_match_receipts": true,
+  "production_approved_count": 0,
+  "status": "20_generated_review_drafts",
+  "higgsfield_video_allowed": false,
+  "video_guardrail": "Never use Higgsfield for videos.",
+  "budget": {
+    "loc02_to_loc20_authorized_cap_credits": 81,
+    "loc02_to_loc20_preflight_quote_total_credits": 80.75,
+    "all20_preflight_quote_total_credits": 85.0,
+    "actual_billed_credits": null,
+    "billing_note": "Receipts provide preflight quotes; these totals are not asserted as verified final charges.",
+    "preflight_quote_remainder_under_cap_credits": 0.25
+  },
+  "legacy_drafts_preserved": 16,
+  "prompt_export_provenance_unchanged": true,
+  "locations": [
+    {
+      "id": "LOC01",
+      "name": "Resistance warehouse exterior",
+      "file": "LOC01-resistance-warehouse-exterior-gpt26-v001.png",
+      "relative_output_path": "Location Sheets GPT Image 2.6/LOC01-resistance-warehouse-exterior-gpt26-v001.png",
+      "dimensions": [
+        3840,
+        2160
+      ],
+      "bytes": 15912187,
+      "sha256": "c171160ce2dfdaef5437f8b0a4f8aaba6104f4cbd4fefe5fc8ec2531a63e5955",
+      "receipt_file": "LOC01-resistance-warehouse-exterior-gpt26-v001.json",
+      "receipt_sha256": "02227feb59e183611403688e2efbcc36cbd6d725916c0523bb1628aa7a164af4",
+      "prompt_file": "LOC01-resistance-warehouse-exterior-gpt26-v001-prompt.txt",
+      "prompt_sha256": "0c3565d1454f0716656c9f51957621e6b2f8f14befc8d8c0c3438d9f0e5b3868",
+      "provider": "Higgsfield",
+      "model": "gpt_image_2_6",
+      "job_id": "45c5930e-0bed-4112-adf8-cea085d78798",
+      "saved_at": "2026-11-06T18:10:40.761744+00:00",
+      "cost_preflight_credits": 4.25,
+      "parameters": {
+        "quality": "high",
+        "resolution": "4k",
+        "aspect_ratio": "16:9",
+        "count": 1,
+        "output_format": "png"
+      },
+      "reference_images": [
+        {
+          "image_number": 1,
+          "file": "References/LOC01/LOC01-ref01-location-sheet-03-resistance-base-warehouse.png",
+          "source": "C:\\Users\\DELL\\Desktop\\CyberKitty 2077\\Assets\\Locations\\Resistance Base Warehouse\\Reference Images\\location-sheet-03-resistance-base-warehouse.png",
+          "sha256": "827d8f9d8799592c0c4152c86ea654f72a7ce711331ad18818d3c646d62dd3f3",
+          "source_is_review_draft": false
+        },
+        {
+          "image_number": 2,
+          "file": "References/LOC01/LOC01-ref02-a3-street-level-hero-walk.png",
+          "source": "C:\\Users\\DELL\\Desktop\\CyberKitty 2077\\Assets\\Locations\\Neko-Tokyo District 7\\Reference Images\\a3-street-level-hero-walk.png",
+          "sha256": "0f2d4be59228c0c18c44e247825a586f8c8b7750d0b41b63cf409159b249aaa6",
+          "source_is_review_draft": false
+        }
+      ],
+      "scene_numbers": [
+        1,
+        4
+      ],
+      "rooms": [
+        "South cargo entrance and staff door",
+        "North service wall",
+        "East workshop side",
+        "West window side",
+        "Loading apron and roof"
+      ],
+      "status": "generated_review_required",
+      "production_approved": false,
+      "qa_status": "draft-corrections",
+      "qa_findings": [
+        {
+          "panel": "6 OVERHEAD PLAN",
+          "severity": "annotation_required_before_blocking",
+          "issue": "Roof/site view does not clearly identify south cargo/staff and north service-bay door footprints. A/B/C arrows correspond to south front, north wall and southeast hero, but no arrow represents panel 9's southward apron-to-street reverse.",
+          "suggestion": "Annotate door footprints. Use an explicit legend such as A hero southeast looking northwest, B north looking south, C at south loading apron looking south to street. Keep the rendered architecture."
+        },
+        {
+          "panel": "9 REVERSE WIDE",
+          "severity": "minor_state_note",
+          "issue": "Reverse appears under/inside the loading threshold whereas front facade views have a closed shutter.",
+          "suggestion": "When extracting plates, label open/closed shutter state explicitly; do not treat these as simultaneous door states."
+        }
+      ],
+      "qa_recommendation": "Keep as review draft; annotation and state clarification are sufficient. No full rerender or extra generation retry recommended.",
+      "qa_notes_file": "QA-notes.md#loc01"
+    },
+    {
+      "id": "LOC02",
+      "name": "Resistance warehouse lounge",
+      "file": "LOC02-resistance-warehouse-lounge-gpt26-v001.png",
+      "relative_output_path": "Location Sheets GPT Image 2.6/LOC02-resistance-warehouse-lounge-gpt26-v001.png",
+      "dimensions": [
+        3840,
+        2160
+      ],
+      "bytes": 14023927,
+      "sha256": "9ccf57446d209d871577299a63d67f15f443f7a3f15ced65bed7e3e2bf5d7092",
+      "receipt_file": "LOC02-resistance-warehouse-lounge-gpt26-v001.json",
+      "receipt_sha256": "3b1157b6ccffb202de80f832497b6643a050e611d7cfbae4fa3e967c8e175230",
+      "prompt_file": "LOC02-resistance-warehouse-lounge-gpt26-v001-prompt.txt",
+      "prompt_sha256": "3fc4bd02cdeaffa406007e56799e9373350265a3b6d2449b0d712ffcd5bfbb0a",
+      "provider": "Higgsfield",
+      "model": "gpt_image_2_6",
+      "job_id": "0f7f5150-d119-4c41-a621-bc0ce59be580",
+      "saved_at": "2026-11-06T18:16:34.305345+00:00",
+      "cost_preflight_credits": 4.25,
+      "parameters": {
+        "quality": "high",
+        "resolution": "4k",
+        "aspect_ratio": "16:9",
+        "count": 1,
+        "output_format": "png"
+      },
+      "reference_images": [
+        {
+          "image_number": 1,
+          "file": "References/LOC02/LOC02-ref01-couch-rear-blank-tv.png",
+          "source": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Imported References\\couch-rear-blank-tv.png",
+          "sha256": "9c4d8315f9d514981ffe76231ec30d56ebdb511ebc44733750a4e3fdc90e41fa",
+          "source_is_review_draft": false
+        },
+        {
+          "image_number": 2,
+          "file": "References/LOC02/LOC02-ref02-location-sheet-03-resistance-base-warehouse.png",
+          "source": "C:\\Users\\DELL\\Desktop\\CyberKitty 2077\\Assets\\Locations\\Resistance Base Warehouse\\Reference Images\\location-sheet-03-resistance-base-warehouse.png",
+          "sha256": "827d8f9d8799592c0c4152c86ea654f72a7ce711331ad18818d3c646d62dd3f3",
+          "source_is_review_draft": false
+        }
+      ],
+      "scene_numbers": [
+        1,
+        2,
+        3,
+        24
+      ],
+      "rooms": [
+        "TV wall",
+        "Couch and console area",
+        "Window side",
+        "Entry passage",
+        "Reverse wall"
+      ],
+      "status": "generated_review_required",
+      "production_approved": false,
+      "qa_status": "draft-corrections",
+      "qa_findings": [
+        {
+          "panel": "3 SOUTH / REVERSE WALL; 6 OVERHEAD PLAN",
+          "severity": "required_before_reverse_dialogue_plates",
+          "issue": "Panel3 shows a high plain outside-style couch back rather than a clear seat/front view from the TV side. The top-down sofa geometry remains ambiguous about which edge is the open seat, despite putting the emblem on the southern edge.",
+          "suggestion": "Use hero/north anchors, but derive a true front seating view before reverse dialogue. Mark the seat-facing edge NORTH and outside back SOUTH explicitly in the authoritative furniture plan. Do not assume the current reverse is a verified front-couch master."
+        },
+        {
+          "panel": "3 SOUTH / REVERSE WALL; 5 WEST / ENTRY SIDE; 6 OVERHEAD PLAN",
+          "severity": "required_geometry_lock_before_coverage",
+          "issue": "South and west panels show substantially the same entry-wall arrangement. In a view facing south the opening on viewer-left reads southeast, while the plan fixes the opening at southwest on the west side.",
+          "suggestion": "Keep one southwest west-side passage. A true south-wall view must not mirror it to the southeast; resolve with a clean south elevation when making plates."
+        }
+      ],
+      "qa_recommendation": "Useful improved hero/TV reference, still a review draft for reverse coverage. Preserve this result; no extra generation retry requested under the current batch budget.",
+      "qa_notes_file": "QA-notes.md#loc02"
+    },
+    {
+      "id": "LOC03",
+      "name": "Hacking operations",
+      "file": "LOC03-hacking-operations-gpt26-v001.png",
+      "relative_output_path": "Location Sheets GPT Image 2.6/LOC03-hacking-operations-gpt26-v001.png",
+      "dimensions": [
+        3840,
+        2160
+      ],
+      "bytes": 14219407,
+      "sha256": "678400a023f22df4c452428e414e9c730166f7c871a1bd056f207990056bf088",
+      "receipt_file": "LOC03-hacking-operations-gpt26-v001.json",
+      "receipt_sha256": "64fa6110abda5a1604b712bf36a128da2ac703658e9b57f4f2231f7c4b0a1315",
+      "prompt_file": "LOC03-hacking-operations-gpt26-v001-prompt.txt",
+      "prompt_sha256": "9cea038a411d6e165e5d356c4d838dbd3b634cc0bc225b76cc08a26c425b227d",
+      "provider": "Higgsfield",
+      "model": "gpt_image_2_6",
+      "job_id": "6f450946-c84c-48d9-a960-589e1720bf85",
+      "saved_at": "2026-11-06T18:18:58.800751+00:00",
+      "cost_preflight_credits": 4.25,
+      "parameters": {
+        "quality": "high",
+        "resolution": "4k",
+        "aspect_ratio": "16:9",
+        "count": 1,
+        "output_format": "png"
+      },
+      "reference_images": [
+        {
+          "image_number": 1,
+          "file": "References/LOC03/LOC03-ref01-location-sheet-03-resistance-base-warehouse.png",
+          "source": "C:\\Users\\DELL\\Desktop\\CyberKitty 2077\\Assets\\Locations\\Resistance Base Warehouse\\Reference Images\\location-sheet-03-resistance-base-warehouse.png",
+          "sha256": "827d8f9d8799592c0c4152c86ea654f72a7ce711331ad18818d3c646d62dd3f3",
+          "source_is_review_draft": false
+        }
+      ],
+      "scene_numbers": [
+        9,
+        17,
+        19
+      ],
+      "rooms": [
+        "Five-position operations desk",
+        "Server rack ends",
+        "Central worktable",
+        "Open warehouse access"
+      ],
+      "status": "generated_review_required",
+      "production_approved": false,
+      "qa_status": "draft-corrections",
+      "qa_findings": [
+        {
+          "panel": "6 OVERHEAD PLAN; 1 HERO",
+          "severity": "minor_annotation_before_blocking",
+          "issue": "Camera A is north of the worktable looking north, but hero includes that table in the foreground. That A position cannot produce the shown hero composition.",
+          "suggestion": "Move the hero camera marker south of the worktable and state its northward bearing. Give B/C explicit position-plus-direction labels."
+        },
+        {
+          "panel": "9 SECOND WIDE (DESK TO WAREHOUSE)",
+          "severity": "viewpoint_needs_blocking_confirmation",
+          "issue": "Second wide shows the fronts of the north-wall monitors while also presenting itself as the desk-to-south-warehouse reverse. It works as an oblique overview but is not a verified opposite-angle camera plate.",
+          "suggestion": "Retain as an oblique overview. Derive the true southward reverse from the approved plan if the edit needs matching reverses; do not use its label alone as camera authority."
+        }
+      ],
+      "qa_recommendation": "Strong usable operations design. Main counts and anchors pass; plan-camera and reverse-label corrections remain. No regeneration retry requested.",
+      "qa_notes_file": "QA-notes.md#loc03"
+    },
+    {
+      "id": "LOC04",
+      "name": "Engineering workshop",
+      "file": "LOC04-engineering-workshop-gpt26-v001.png",
+      "relative_output_path": "Location Sheets GPT Image 2.6/LOC04-engineering-workshop-gpt26-v001.png",
+      "dimensions": [
+        3840,
+        2160
+      ],
+      "bytes": 14287186,
+      "sha256": "aafc818847c1406d41f71c4d1c46fa7efe099f5772bfe999493a4d749c40868d",
+      "receipt_file": "LOC04-engineering-workshop-gpt26-v001.json",
+      "receipt_sha256": "8f8b41a08a47674845765761c3838d99839f4e87ec62cd4c3d85a37282a7cf87",
+      "prompt_file": "LOC04-engineering-workshop-gpt26-v001-prompt.txt",
+      "prompt_sha256": "2b304ea114f5f0bb86d08d5d79196311efc17061628b694e9bab1b6505b74cdb",
+      "provider": "Higgsfield",
+      "model": "gpt_image_2_6",
+      "job_id": "041969d4-ae6b-4bf0-bee6-39bebac3c74b",
+      "saved_at": "2026-11-06T18:20:32.428146+00:00",
+      "cost_preflight_credits": 4.25,
+      "parameters": {
+        "quality": "high",
+        "resolution": "4k",
+        "aspect_ratio": "16:9",
+        "count": 1,
+        "output_format": "png"
+      },
+      "reference_images": [
+        {
+          "image_number": 1,
+          "file": "References/LOC04/LOC04-ref01-location-sheet-03-resistance-base-warehouse.png",
+          "source": "C:\\Users\\DELL\\Desktop\\CyberKitty 2077\\Assets\\Locations\\Resistance Base Warehouse\\Reference Images\\location-sheet-03-resistance-base-warehouse.png",
+          "sha256": "827d8f9d8799592c0c4152c86ea654f72a7ce711331ad18818d3c646d62dd3f3",
+          "source_is_review_draft": false
+        }
+      ],
+      "scene_numbers": [
+        10
+      ],
+      "rooms": [
+        "Workbench",
+        "Parts storage",
+        "Equipment locker",
+        "Operations passage"
+      ],
+      "status": "generated_review_required",
+      "production_approved": false,
+      "qa_status": "pass",
+      "qa_findings": [
+        {
+          "panel": "3, 5, 6",
+          "severity": "minor_annotation_before_blocking",
+          "issue": "Both south-opening and west-passage views show a similar operations area beyond the workshop; the local plan stops at the bay boundary and does not resolve their relationship to the warehouse-wide operations layout.",
+          "suggestion": "When joining LOC03 and LOC04 for a walk-through, annotate the shared warehouse plan and choose matching passage directions. This is not a reason to rerender this sheet."
+        }
+      ],
+      "qa_recommendation": "Usable workshop design reference. Preserve the successful fixed equipment layout. No regeneration retry requested.",
+      "qa_notes_file": "QA-notes.md#loc04"
+    },
+    {
+      "id": "LOC05",
+      "name": "District 7 streets and alleys",
+      "file": "LOC05-district-7-streets-and-alleys-gpt26-v001.png",
+      "relative_output_path": "Location Sheets GPT Image 2.6/LOC05-district-7-streets-and-alleys-gpt26-v001.png",
+      "dimensions": [
+        3840,
+        2160
+      ],
+      "bytes": 16245939,
+      "sha256": "3bd909f3e732f8d174409f2255619614b80b381bac7f121496056e92137d071d",
+      "receipt_file": "LOC05-district-7-streets-and-alleys-gpt26-v001.json",
+      "receipt_sha256": "dd0918f9f2678b6062a0f4c62332918aa06db95f86aee4fbf5ca9022d5fbceb9",
+      "prompt_file": "LOC05-district-7-streets-and-alleys-gpt26-v001-prompt.txt",
+      "prompt_sha256": "318f388a96fcba1bbb3bf3c04ed2cc4a310c1dcfae5ac995d81d1a1490a4696a",
+      "provider": "Higgsfield",
+      "model": "gpt_image_2_6",
+      "job_id": "50392746-c8e8-4a41-a188-f425a34cb97a",
+      "saved_at": "2026-11-06T18:22:09.969042+00:00",
+      "cost_preflight_credits": 4.25,
+      "parameters": {
+        "quality": "high",
+        "resolution": "4k",
+        "aspect_ratio": "16:9",
+        "count": 1,
+        "output_format": "png"
+      },
+      "reference_images": [
+        {
+          "image_number": 1,
+          "file": "References/LOC05/LOC05-ref01-a3-street-level-hero-walk.png",
+          "source": "C:\\Users\\DELL\\Desktop\\CyberKitty 2077\\Assets\\Locations\\Neko-Tokyo District 7\\Reference Images\\a3-street-level-hero-walk.png",
+          "sha256": "0f2d4be59228c0c18c44e247825a586f8c8b7750d0b41b63cf409159b249aaa6",
+          "source_is_review_draft": false
+        },
+        {
+          "image_number": 2,
+          "file": "References/LOC05/LOC05-ref02-7-catleven-exterior.png",
+          "source": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Imported References\\7-catleven-exterior.png",
+          "sha256": "d6b2e3cea45d6216484d95f30df966d5d3382299036174aaca3c15ddb394bf9c",
+          "source_is_review_draft": false
+        }
+      ],
+      "scene_numbers": [
+        4,
+        8,
+        18
+      ],
+      "rooms": [
+        "Main pedestrian street",
+        "East side alley",
+        "Shopfronts",
+        "Utility/fire-escape edge"
+      ],
+      "status": "generated_review_required",
+      "production_approved": false,
+      "qa_status": "draft-corrections",
+      "qa_findings": [
+        {
+          "panel": "2, 3, 6",
+          "severity": "minor_annotation_before_blocking",
+          "issue": "Plan camera markers and legend all point north, including B at the north end. The legend says C SOUTH but still shows an upward/N arrow. The north-approach image is another north-looking view, while the reverse view flips storefront/tree sides. Labels and bearings cannot currently define a reliable reverse setup.",
+          "suggestion": "Choose the actual north-looking and south-looking plates, label them by camera position plus viewing direction, and redraw B/C bearings. Do not treat all arrows as valid."
+        },
+        {
+          "panel": "4, 6, 9",
+          "severity": "required_geometry_lock_before_coverage",
+          "issue": "The plan places 7-Catleven south of the east alley, but the east-looking alley view shows its frontage on the left/north side. The alley-mouth reverse also places the store across/right rather than presenting the expected corner relationship from the mapped alley.",
+          "suggestion": "Lock the store and alley corner with LOC06 before any continuous street-to-alley move. Retain the main-street design and establish one coherent east-alley corner for scene plates; do not use panel 9 as proven geographic coverage."
+        }
+      ],
+      "qa_recommendation": "Useful empty District7 street design and textures. Alley/store corner and camera annotations remain drafts. No regeneration retry requested.",
+      "qa_notes_file": "QA-notes.md#loc05"
+    },
+    {
+      "id": "LOC06",
+      "name": "7-Catleven exterior",
+      "file": "LOC06-7-catleven-exterior-gpt26-v001.png",
+      "relative_output_path": "Location Sheets GPT Image 2.6/LOC06-7-catleven-exterior-gpt26-v001.png",
+      "dimensions": [
+        3840,
+        2160
+      ],
+      "bytes": 15868274,
+      "sha256": "c857f705f48778a3155682346e3d2aa6f1db919b88dbcdeb553585f7ea0c661f",
+      "receipt_file": "LOC06-7-catleven-exterior-gpt26-v001.json",
+      "receipt_sha256": "6d05f378a1626b20a9e40ab63c1f3f0cd17933e63057c6209cc387ab28763680",
+      "prompt_file": "LOC06-7-catleven-exterior-gpt26-v001-prompt.txt",
+      "prompt_sha256": "609ef412cda76fb5c94c35e3bb879b61e093cba85264f5736e833e23893d8983",
+      "provider": "Higgsfield",
+      "model": "gpt_image_2_6",
+      "job_id": "318dec43-f2f2-4e30-aa19-3f9ceda2aa4f",
+      "saved_at": "2026-11-06T18:23:39.740107+00:00",
+      "cost_preflight_credits": 4.25,
+      "parameters": {
+        "quality": "high",
+        "resolution": "4k",
+        "aspect_ratio": "16:9",
+        "count": 1,
+        "output_format": "png"
+      },
+      "reference_images": [
+        {
+          "image_number": 1,
+          "file": "References/LOC06/LOC06-ref01-7-catleven-exterior.png",
+          "source": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Imported References\\7-catleven-exterior.png",
+          "sha256": "d6b2e3cea45d6216484d95f30df966d5d3382299036174aaca3c15ddb394bf9c",
+          "source_is_review_draft": false
+        }
+      ],
+      "scene_numbers": [
+        4
+      ],
+      "rooms": [
+        "South storefront",
+        "Side alley",
+        "Rear service wall",
+        "Sidewalk and entry"
+      ],
+      "status": "generated_review_required",
+      "production_approved": false,
+      "qa_status": "pass",
+      "qa_findings": [
+        {
+          "panel": "6; cross-set LOC05/LOC07",
+          "severity": "minor_annotation_before_blocking",
+          "issue": "The LOC06 local map correctly makes the storefront south-facing with an east-side alley. LOC05 instead embeds the shop facing west on its north-south street. Interior glimpses and the decorative cutaway should also not supersede LOC07 interior blocking.",
+          "suggestion": "Declare whether local storefront axes rotate within the district map or place this shop on an east-west cross street. Use LOC07 as interior authority before an uninterrupted entrance shot; keep LOC06 exterior architecture."
+        }
+      ],
+      "qa_recommendation": "Usable exterior design with strong repeated facade identity. Resolve cross-set street mapping as an annotation, without an automatic image retry.",
+      "qa_notes_file": "QA-notes.md#loc06"
+    },
+    {
+      "id": "LOC07",
+      "name": "7-Catleven interior and freezer",
+      "file": "LOC07-7-catleven-interior-and-freezer-gpt26-v001.png",
+      "relative_output_path": "Location Sheets GPT Image 2.6/LOC07-7-catleven-interior-and-freezer-gpt26-v001.png",
+      "dimensions": [
+        3840,
+        2160
+      ],
+      "bytes": 14063656,
+      "sha256": "050150593760844345f57f0a6efed877b96bdaba55760b1ba08d8bb1c0d1432b",
+      "receipt_file": "LOC07-7-catleven-interior-and-freezer-gpt26-v001.json",
+      "receipt_sha256": "e1b6b4a14b71f9384b7d3114716ded4c9a2309cbcb32a82d7e18f473f5f8dc8f",
+      "prompt_file": "LOC07-7-catleven-interior-and-freezer-gpt26-v001-prompt.txt",
+      "prompt_sha256": "c9435b0c5d93af8406331297d85ecc85c45961beb8b3016850ca8a0846f38142",
+      "provider": "Higgsfield",
+      "model": "gpt_image_2_6",
+      "job_id": "79748588-3aa3-4066-bbe4-29bfcbddfe60",
+      "saved_at": "2026-11-06T18:25:12.624676+00:00",
+      "cost_preflight_credits": 4.25,
+      "parameters": {
+        "quality": "high",
+        "resolution": "4k",
+        "aspect_ratio": "16:9",
+        "count": 1,
+        "output_format": "png"
+      },
+      "reference_images": [
+        {
+          "image_number": 1,
+          "file": "References/LOC07/LOC07-ref01-7-catleven-exterior.png",
+          "source": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Imported References\\7-catleven-exterior.png",
+          "sha256": "d6b2e3cea45d6216484d95f30df966d5d3382299036174aaca3c15ddb394bf9c",
+          "source_is_review_draft": false
+        }
+      ],
+      "scene_numbers": [
+        5
+      ],
+      "rooms": [
+        "West freezer bank",
+        "East cashier counter",
+        "Two snack aisles",
+        "Rear service door",
+        "South entry"
+      ],
+      "status": "generated_review_required",
+      "production_approved": false,
+      "qa_status": "pass",
+      "qa_findings": [
+        {
+          "panel": "6",
+          "severity": "minor_annotation_before_blocking",
+          "issue": "Camera C at the north/rear end points north although the rear-to-entrance coverage looks south.",
+          "suggestion": "Turn C south to match panel 9 before using the map for blocking."
+        },
+        {
+          "panel": "1, 5; cross-set LOC06 south glazing",
+          "severity": "minor_prop_continuity_before_closeups",
+          "issue": "The salmon pair and notice appear in the same near-front freezer bay in the hero but adjacent bays in the straight freezer view. Interior entrance views also retain the exterior-style pink cat neon on viewer-right, whereas the same east-side window would appear viewer-left when looking south from inside.",
+          "suggestion": "Use the straight WEST freezer view as the authoritative pair/notice placement for inserts; lock the entrance window graphics to the LOC06 east window for matching inside/outside views."
+        }
+      ],
+      "qa_recommendation": "Usable and clear store interior reference. Essential two-pack shortage story content is present. Correct camera annotation and lock small prop/window details when making scene plates; no retry requested.",
+      "qa_notes_file": "QA-notes.md#loc07"
+    },
+    {
+      "id": "LOC08",
+      "name": "District 7 market",
+      "file": "LOC08-district-7-market-gpt26-v001.png",
+      "relative_output_path": "Location Sheets GPT Image 2.6/LOC08-district-7-market-gpt26-v001.png",
+      "dimensions": [
+        3840,
+        2160
+      ],
+      "bytes": 16364650,
+      "sha256": "c0de39fba4f7ec01e0695cfdc5cb7beafec8b671ef9b03c122acb93953396cc0",
+      "receipt_file": "LOC08-district-7-market-gpt26-v001.json",
+      "receipt_sha256": "a63b9d377d5e3a35fdfd9e5f0b404bee18f83df0872f551fdacb7a620bd56e9d",
+      "prompt_file": "LOC08-district-7-market-gpt26-v001-prompt.txt",
+      "prompt_sha256": "5a42e48152e97cabfcd0755c21464885a99cef525af617651e52fc1d3045dace",
+      "provider": "Higgsfield",
+      "model": "gpt_image_2_6",
+      "job_id": "2811dddf-4bb9-4ed7-87db-56a4784cf342",
+      "saved_at": "2026-11-06T18:26:50.034647+00:00",
+      "cost_preflight_credits": 4.25,
+      "parameters": {
+        "quality": "high",
+        "resolution": "4k",
+        "aspect_ratio": "16:9",
+        "count": 1,
+        "output_format": "png"
+      },
+      "reference_images": [
+        {
+          "image_number": 1,
+          "file": "References/LOC08/LOC08-ref01-b1-neko-market-night.png",
+          "source": "C:\\Users\\DELL\\Desktop\\CyberKitty 2077\\Assets\\Locations\\Neko-Tokyo District 7\\Reference Images\\b1-neko-market-night.png",
+          "sha256": "328e9a5f8d413464c145fc38c9a772a2d94fdf0fd3cb058f8c00c1868c40733f",
+          "source_is_review_draft": false
+        },
+        {
+          "image_number": 2,
+          "file": "References/LOC08/LOC08-ref02-a3-street-level-hero-walk.png",
+          "source": "C:\\Users\\DELL\\Desktop\\CyberKitty 2077\\Assets\\Locations\\Neko-Tokyo District 7\\Reference Images\\a3-street-level-hero-walk.png",
+          "sha256": "0f2d4be59228c0c18c44e247825a586f8c8b7750d0b41b63cf409159b249aaa6",
+          "source_is_review_draft": false
+        }
+      ],
+      "scene_numbers": [
+        6,
+        18,
+        23
+      ],
+      "rooms": [
+        "Market square",
+        "Fish stalls",
+        "Public billboard",
+        "Truck delivery stopping area"
+      ],
+      "status": "generated_review_required",
+      "production_approved": false,
+      "qa_status": "draft-corrections",
+      "qa_findings": [
+        {
+          "panel": "EAST",
+          "severity": "required_geometry_lock_before_coverage",
+          "issue": "The panel labeled from east looking west repeats a hero-like view with lantern stalls on the left and the tower vista ahead. A true west-looking view should put the north stalls on the right and reveal the west plaza, as the successful REVERSE WIDE does. The east stair is present but this panel does not establish trustworthy street orientation.",
+          "suggestion": "Use PLAN plus HERO/REVERSE as the geographic authority, and derive a later east-end/stair plate from them. Keep the northeast stair relationship when joining LOC20."
+        },
+        {
+          "panel": "SOUTH",
+          "severity": "minor_annotation_before_blocking",
+          "issue": "The panel labeled from south looking north shows the south shuttered shop row and its billboard. It is a south-wall elevation viewed from the north, rather than the stated camera-side convention.",
+          "suggestion": "Relabel this panel SOUTH SHOP ROW / VIEW SOUTH, or otherwise give the actual camera side and bearing."
+        }
+      ],
+      "qa_recommendation": "Strong usable hero, reverse, plan and material references; preserve this market identity. Directional east coverage remains draft and south label needs correction. No automatic retry requested.",
+      "qa_notes_file": "QA-notes.md#loc08"
+    },
+    {
+      "id": "LOC09",
+      "name": "District 7 rally stage and plaza",
+      "file": "LOC09-district-7-rally-stage-and-plaza-gpt26-v001.png",
+      "relative_output_path": "Location Sheets GPT Image 2.6/LOC09-district-7-rally-stage-and-plaza-gpt26-v001.png",
+      "dimensions": [
+        3840,
+        2160
+      ],
+      "bytes": 15096921,
+      "sha256": "fd5f2c155e04f5a082a5c2cdfca31583dfd65fb43e021d349e629f787888d90e",
+      "receipt_file": "LOC09-district-7-rally-stage-and-plaza-gpt26-v001.json",
+      "receipt_sha256": "bdeaaa520a5cf640e6246e2e0c128320af828164576f1eba9652d19ead98e0ff",
+      "prompt_file": "LOC09-district-7-rally-stage-and-plaza-gpt26-v001-prompt.txt",
+      "prompt_sha256": "269a14e89472efb9f11b04a86b0f1d239644bc58dafd0ecfa916f81a8a0ec18a",
+      "provider": "Higgsfield",
+      "model": "gpt_image_2_6",
+      "job_id": "46b26057-43d8-4189-b205-d7db509333c3",
+      "saved_at": "2026-11-06T18:28:32.341524+00:00",
+      "cost_preflight_credits": 4.25,
+      "parameters": {
+        "quality": "high",
+        "resolution": "4k",
+        "aspect_ratio": "16:9",
+        "count": 1,
+        "output_format": "png"
+      },
+      "reference_images": [
+        {
+          "image_number": 1,
+          "file": "References/LOC09/LOC09-ref01-LOC08-district7-market.png",
+          "source": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Location Sheets v01\\LOC08-district7-market.png",
+          "sha256": "650068409a6a8bfb1bb2d4239b71cc9329dbc79c5417ae1129bc563fd3b555f5",
+          "source_is_review_draft": true
+        },
+        {
+          "image_number": 2,
+          "file": "References/LOC09/LOC09-ref02-a3-street-level-hero-walk.png",
+          "source": "C:\\Users\\DELL\\Desktop\\CyberKitty 2077\\Assets\\Locations\\Neko-Tokyo District 7\\Reference Images\\a3-street-level-hero-walk.png",
+          "sha256": "0f2d4be59228c0c18c44e247825a586f8c8b7750d0b41b63cf409159b249aaa6",
+          "source_is_review_draft": false
+        }
+      ],
+      "scene_numbers": [
+        7
+      ],
+      "rooms": [
+        "Temporary raised stage",
+        "Crowd plaza",
+        "Access lanes",
+        "Projection backdrop"
+      ],
+      "status": "generated_review_required",
+      "production_approved": false,
+      "qa_status": "draft-corrections",
+      "qa_findings": [
+        {
+          "panel": "ROOFTOP OVERLOOK, PLAN",
+          "severity": "required_geometry_lock_before_coverage",
+          "issue": "The rooftop view faces north toward the stage with the tree on the left. It therefore reads as a south-side rooftop, not camera B on the north building looking south; from B the stage building could not appear across the plaza.",
+          "suggestion": "Keep the hero and site plan as authority. Do not use this roof view as the specified north/northeast perch; derive the eventual roof scene plate from an agreed joint LOC08/09/20 plan."
+        },
+        {
+          "panel": "EAST; cross-set LOC08",
+          "severity": "required_geometry_lock_before_coverage",
+          "issue": "The market connection view puts the red-lantern stalls on the right while looking down the market toward the towers. For the established east-looking market axis, the north lantern row should be left. The plaza plan depicts the lantern edge along its east boundary without clearly showing the east-west street continuation.",
+          "suggestion": "Annotate the market mouth and north-row continuation on the shared site plan and use LOC08 hero/reverse as authority for market-facing scene plates."
+        },
+        {
+          "panel": "SOUTH, cardinal labels",
+          "severity": "minor_coverage_annotation",
+          "issue": "SOUTH is a tight shuttered-shop elevation rather than the requested stage POV across the audience space with west steps. Cardinal labels generally describe facade/content rather than the final camera-side convention.",
+          "suggestion": "Treat the shop image as material/elevation reference; label actual viewpoint bearings before blocking. A later stage-POV scene plate must include the open audience area."
+        }
+      ],
+      "qa_recommendation": "Usable rally stage design and plaza hero. Rooftop and market-connection coverage are drafts, not geographically verified scene plates. No regeneration retry requested.",
+      "qa_notes_file": "QA-notes.md#loc09"
+    },
+    {
+      "id": "LOC10",
+      "name": "Steak & Bone exterior and security",
+      "file": "LOC10-steak-bone-exterior-and-security-gpt26-v001.png",
+      "relative_output_path": "Location Sheets GPT Image 2.6/LOC10-steak-bone-exterior-and-security-gpt26-v001.png",
+      "dimensions": [
+        3840,
+        2160
+      ],
+      "bytes": 12477104,
+      "sha256": "0046cc574d900e8d950f68731561c295a30cf4660422c54ee5a59e6011771a71",
+      "receipt_file": "LOC10-steak-bone-exterior-and-security-gpt26-v001.json",
+      "receipt_sha256": "754e8c61cc940b5181de3f25a4c5d98e546d95022a0a09414349f6b3215f19de",
+      "prompt_file": "LOC10-steak-bone-exterior-and-security-gpt26-v001-prompt.txt",
+      "prompt_sha256": "04e5dc43efa02b71cac5f15d58f842d0b9bb6c8416cda3c3641653caf8131aad",
+      "provider": "Higgsfield",
+      "model": "gpt_image_2_6",
+      "job_id": "a3ac58ad-cbe9-4788-9c9e-3b73b4045473",
+      "saved_at": "2026-11-06T18:30:11.983017+00:00",
+      "cost_preflight_credits": 4.25,
+      "parameters": {
+        "quality": "high",
+        "resolution": "4k",
+        "aspect_ratio": "16:9",
+        "count": 1,
+        "output_format": "png"
+      },
+      "reference_images": [
+        {
+          "image_number": 1,
+          "file": "References/LOC10/LOC10-ref01-LOC12-steak-bone-private-dining.png",
+          "source": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Location Sheets v01\\LOC12-steak-bone-private-dining.png",
+          "sha256": "5faa61156290a788359006dbeae9d5ab72e6f7e6d5ac36c95c44215b34ccfaf6",
+          "source_is_review_draft": true
+        },
+        {
+          "image_number": 2,
+          "file": "References/LOC10/LOC10-ref02-steak-and-bone-meeting.png",
+          "source": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Imported References\\steak-and-bone-meeting.png",
+          "sha256": "0d394ddac8336b416e976954b3a5c01f57b7df1894833e68eac97e15c8085f66",
+          "source_is_review_draft": false
+        }
+      ],
+      "scene_numbers": [
+        11,
+        12,
+        16
+      ],
+      "rooms": [
+        "Main entrance",
+        "Guard positions",
+        "Service entry",
+        "Service alley",
+        "Restaurant surveillance roof"
+      ],
+      "status": "generated_review_required",
+      "production_approved": false,
+      "qa_status": "draft-corrections",
+      "qa_findings": [
+        {
+          "panel": "REVERSE WIDE, PLAN B",
+          "severity": "required_geometry_lock_before_coverage",
+          "issue": "The reverse shows the restaurant facade across a street from a foreground rooftop railing. That is an opposite-building surveillance perch, not the mapped camera B on the restaurant northwest roof; the restaurant cannot see its own whole south facade across the lane from that position.",
+          "suggestion": "Keep the exterior design. Either document a separate opposite-roof camera position, or derive a later south-looking plate from the restaurant roof that looks down on its own arrival lane. Do not use this panel as proven camera B coverage."
+        },
+        {
+          "panel": "PLAN",
+          "severity": "minor_annotation_before_blocking",
+          "issue": "The overhead is primarily a roof plan. The north service-door footprint and guard/scanner pedestrian route are not clearly marked even though their views are present.",
+          "suggestion": "Annotate those ground-level access points and lock the west stair landing before planning the infiltration path."
+        }
+      ],
+      "qa_recommendation": "Strong usable restaurant exterior and security fixture reference; rooftop surveillance geography remains draft. Preserve successful facade and material design. No regeneration retry requested.",
+      "qa_notes_file": "QA-notes.md#loc10"
+    },
+    {
+      "id": "LOC11",
+      "name": "Steak & Bone service corridors",
+      "file": "LOC11-steak-bone-service-corridors-gpt26-v001.png",
+      "relative_output_path": "Location Sheets GPT Image 2.6/LOC11-steak-bone-service-corridors-gpt26-v001.png",
+      "dimensions": [
+        3840,
+        2160
+      ],
+      "bytes": 11759773,
+      "sha256": "4392e2bc49cf0b30536796c98a7223d73de922a4c8d3888c2e13d0472f814650",
+      "receipt_file": "LOC11-steak-bone-service-corridors-gpt26-v001.json",
+      "receipt_sha256": "555ccad3cf0ecd370c594ccbe71d5de61b8c4148cd1e7d17f89c1e0e3402dc40",
+      "prompt_file": "LOC11-steak-bone-service-corridors-gpt26-v001-prompt.txt",
+      "prompt_sha256": "35a7b1f69ed3e25fcac69661f73e3b2e3cee585ef8c1378c79602b9ca28296e2",
+      "provider": "Higgsfield",
+      "model": "gpt_image_2_6",
+      "job_id": "ac35a11a-fe34-4457-b3cc-7242e3855e56",
+      "saved_at": "2026-11-06T18:31:30.964779+00:00",
+      "cost_preflight_credits": 4.25,
+      "parameters": {
+        "quality": "high",
+        "resolution": "4k",
+        "aspect_ratio": "16:9",
+        "count": 1,
+        "output_format": "png"
+      },
+      "reference_images": [
+        {
+          "image_number": 1,
+          "file": "References/LOC11/LOC11-ref01-LOC12-steak-bone-private-dining.png",
+          "source": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Location Sheets v01\\LOC12-steak-bone-private-dining.png",
+          "sha256": "5faa61156290a788359006dbeae9d5ab72e6f7e6d5ac36c95c44215b34ccfaf6",
+          "source_is_review_draft": true
+        },
+        {
+          "image_number": 2,
+          "file": "References/LOC11/LOC11-ref02-steak-and-bone-meeting.png",
+          "source": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Imported References\\steak-and-bone-meeting.png",
+          "sha256": "0d394ddac8336b416e976954b3a5c01f57b7df1894833e68eac97e15c8085f66",
+          "source_is_review_draft": false
+        }
+      ],
+      "scene_numbers": [
+        13,
+        16
+      ],
+      "rooms": [
+        "Service entry corridor",
+        "Dining access turn",
+        "Robot patrol route",
+        "Service exit"
+      ],
+      "status": "generated_review_required",
+      "production_approved": false,
+      "qa_status": "draft_requires_geometry_correction",
+      "qa_findings": [
+        {
+          "panel": "Layout / continuity",
+          "severity": "major",
+          "issue": "Both wides read as a straight corridor with opposite end doors. The plan depicts an L-shaped corridor; the reverse from its northern dining door could not see the west exterior exit directly as rendered.",
+          "suggestion": ""
+        },
+        {
+          "panel": "Layout / continuity",
+          "severity": "major",
+          "issue": "Hero places the exterior double exit on the same side wall as the kitchen door/hatch, while the plan and WEST elevation place it at the west end. Burgundy dining door appears at the far east end in the hero rather than around the northward turn.",
+          "suggestion": ""
+        },
+        {
+          "panel": "Layout / continuity",
+          "severity": "minor",
+          "issue": "The trolley alcove appears near the kitchen-side wall in the hero, while its intended position is the south wall as shown by the SOUTH panel and plan.",
+          "suggestion": ""
+        }
+      ],
+      "qa_recommendation": "Retain material and prop design; rebuild hero and reverse from the L-shaped plan and lock all door/alcove positions before camera blocking.",
+      "qa_notes_file": "QA-notes.md#loc11"
+    },
+    {
+      "id": "LOC12",
+      "name": "Steak & Bone private dining room",
+      "file": "LOC12-steak-bone-private-dining-room-gpt26-v001.png",
+      "relative_output_path": "Location Sheets GPT Image 2.6/LOC12-steak-bone-private-dining-room-gpt26-v001.png",
+      "dimensions": [
+        3840,
+        2160
+      ],
+      "bytes": 12237469,
+      "sha256": "dd6578af9636b86a9064b648d85df9a7ee3320d6b604365159d1c3d75004644c",
+      "receipt_file": "LOC12-steak-bone-private-dining-room-gpt26-v001.json",
+      "receipt_sha256": "f690e64c9d76fe8a259730a8432e7ff397deca113aedf8ab88de128ad70590c1",
+      "prompt_file": "LOC12-steak-bone-private-dining-room-gpt26-v001-prompt.txt",
+      "prompt_sha256": "563e2142b41fcfc6ee0310141b7dd6e23fbd2093fac1ad4d67e8f42250a351f0",
+      "provider": "Higgsfield",
+      "model": "gpt_image_2_6",
+      "job_id": "0a9fde31-cd79-4250-bc0b-a3307aca342c",
+      "saved_at": "2026-11-06T18:32:41.920705+00:00",
+      "cost_preflight_credits": 4.25,
+      "parameters": {
+        "quality": "high",
+        "resolution": "4k",
+        "aspect_ratio": "16:9",
+        "count": 1,
+        "output_format": "png"
+      },
+      "reference_images": [
+        {
+          "image_number": 1,
+          "file": "References/LOC12/LOC12-ref01-steak-and-bone-meeting.png",
+          "source": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Imported References\\steak-and-bone-meeting.png",
+          "sha256": "0d394ddac8336b416e976954b3a5c01f57b7df1894833e68eac97e15c8085f66",
+          "source_is_review_draft": false
+        }
+      ],
+      "scene_numbers": [
+        14,
+        15
+      ],
+      "rooms": [
+        "Private dining table",
+        "Window/view wall",
+        "Service door",
+        "Hidden surveillance angle"
+      ],
+      "status": "generated_review_required",
+      "production_approved": false,
+      "qa_status": "draft_requires_geometry_correction",
+      "qa_findings": [
+        {
+          "panel": "Layout / continuity",
+          "severity": "major",
+          "issue": "Plan places the service door at the southwest corner, but SOUTH and REVERSE WIDE show it at screen-left beside the east window wall: the southeast corner.",
+          "suggestion": ""
+        },
+        {
+          "panel": "Layout / continuity",
+          "severity": "major",
+          "issue": "Plan places the long table east-west with opposing seats north/south. Hero and reverse instead show the long table running toward the north/south walls, with seats west/east. Table and booth orientation do not match the plan.",
+          "suggestion": ""
+        },
+        {
+          "panel": "Layout / continuity",
+          "severity": "minor",
+          "issue": "Door has no narrow frosted-glass strip, unlike the adjoining LOC11 burgundy service-door design; cross-set doorway continuity needs reconciliation.",
+          "suggestion": ""
+        }
+      ],
+      "qa_recommendation": "Keep the strong luxury material design; lock southwest service door and table/booth axis consistently across plan, south elevation and wides before shooting.",
+      "qa_notes_file": "QA-notes.md#loc12"
+    },
+    {
+      "id": "LOC13",
+      "name": "WOOF7 news studio",
+      "file": "LOC13-woof7-news-studio-gpt26-v001.png",
+      "relative_output_path": "Location Sheets GPT Image 2.6/LOC13-woof7-news-studio-gpt26-v001.png",
+      "dimensions": [
+        3840,
+        2160
+      ],
+      "bytes": 11890760,
+      "sha256": "9929f26bee75cac0271701b617d98ad103294753e47193959026e856adb403cf",
+      "receipt_file": "LOC13-woof7-news-studio-gpt26-v001.json",
+      "receipt_sha256": "20078dd8340201cc66eec3dc65bbe3c3f523532c2296b5a95ba4b73a0ff9d369",
+      "prompt_file": "LOC13-woof7-news-studio-gpt26-v001-prompt.txt",
+      "prompt_sha256": "218c1cc11de72eca3c8ed9bc47f25d25e05c9fc1365c117e5d52db2e0163d0b1",
+      "provider": "Higgsfield",
+      "model": "gpt_image_2_6",
+      "job_id": "a7ded282-736c-4689-96eb-2c6b2560e2da",
+      "saved_at": "2026-11-06T18:34:21.364826+00:00",
+      "cost_preflight_credits": 4.25,
+      "parameters": {
+        "quality": "high",
+        "resolution": "4k",
+        "aspect_ratio": "16:9",
+        "count": 1,
+        "output_format": "png"
+      },
+      "reference_images": [
+        {
+          "image_number": 1,
+          "file": "References/LOC13/LOC13-ref01-interrupting-broadcast.png",
+          "source": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Imported References\\interrupting-broadcast.png",
+          "sha256": "9296ea9eb9e0af71bf0b41deb08ad18eea95843bcd59bfc4475c15609d8a400d",
+          "source_is_review_draft": false
+        }
+      ],
+      "scene_numbers": [
+        2,
+        3
+      ],
+      "rooms": [
+        "Anchor desk",
+        "Broadcast backdrop",
+        "Camera lane",
+        "Control/screen graphics area"
+      ],
+      "status": "generated_review_required",
+      "production_approved": false,
+      "qa_status": "draft_requires_door_continuity_correction",
+      "qa_findings": [
+        {
+          "panel": "Layout / continuity",
+          "severity": "major",
+          "issue": "Plan and brief put the rear exit at southwest. SOUTH and REVERSE WIDE show that exit at screen-left beside the east control-booth wall, which is southeast. Move the exit consistently to the west side or deliberately revise the plan.",
+          "suggestion": ""
+        },
+        {
+          "panel": "Layout / continuity",
+          "severity": "minor",
+          "issue": "Screen brief is internally mixed: design section permits quiet WOOF7/blue graphics, while final instruction says keep screens blank. Image follows the graphic version; confirm graphics policy before using as a clean compositing plate.",
+          "suggestion": ""
+        }
+      ],
+      "qa_recommendation": "Strong studio design; resolve south exit location, then verify west newsroom-door position against the plan at production blocking stage.",
+      "qa_notes_file": "QA-notes.md#loc13"
+    },
+    {
+      "id": "LOC14",
+      "name": "NIP7 investigative newsroom",
+      "file": "LOC14-nip7-investigative-newsroom-gpt26-v001.png",
+      "relative_output_path": "Location Sheets GPT Image 2.6/LOC14-nip7-investigative-newsroom-gpt26-v001.png",
+      "dimensions": [
+        3840,
+        2160
+      ],
+      "bytes": 12954922,
+      "sha256": "dc97cfe5c9eba591c21c1ee71485c953ee929ac2e047eec3789e2adc591be12a",
+      "receipt_file": "LOC14-nip7-investigative-newsroom-gpt26-v001.json",
+      "receipt_sha256": "8806c62c96001b0825d445b49a6a157e79ed3af0210357ab2fe7d3812133adee",
+      "prompt_file": "LOC14-nip7-investigative-newsroom-gpt26-v001-prompt.txt",
+      "prompt_sha256": "16f99d4665cfeb8d8c6aed6953761d406886826979289456d2ee5ccbf62a0934",
+      "provider": "Higgsfield",
+      "model": "gpt_image_2_6",
+      "job_id": "ff0ebf82-90d0-4e97-9a2c-fc571051c24e",
+      "saved_at": "2026-11-06T18:35:59.045199+00:00",
+      "cost_preflight_credits": 4.25,
+      "parameters": {
+        "quality": "high",
+        "resolution": "4k",
+        "aspect_ratio": "16:9",
+        "count": 1,
+        "output_format": "png"
+      },
+      "reference_images": [
+        {
+          "image_number": 1,
+          "file": "References/LOC14/LOC14-ref01-nip7-investigation.png",
+          "source": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Imported References\\nip7-investigation.png",
+          "sha256": "f801e4fc5383fa311700030c594c5d2e9891ca5b8e02750c5ea5551d3c90c813",
+          "source_is_review_draft": false
+        }
+      ],
+      "scene_numbers": [
+        17,
+        23
+      ],
+      "rooms": [
+        "Presenter desk",
+        "Evidence display",
+        "Newsroom backdrop",
+        "Camera lane"
+      ],
+      "status": "generated_review_required",
+      "production_approved": false,
+      "qa_status": "draft_requires_exit_location_correction",
+      "qa_findings": [
+        {
+          "panel": "Layout / continuity",
+          "severity": "major",
+          "issue": "Exit location does not agree: brief specifies south wall near southwest; plan appears to put it on the west wall near southwest; SOUTH and REVERSE WIDE place it on the left/east end of the south wall, adjacent to the control-room side.",
+          "suggestion": ""
+        }
+      ],
+      "qa_recommendation": "Keep design and desk arrangement. Align the single exit wall/corner across plan, SOUTH and reverse before scene blocking.",
+      "qa_notes_file": "QA-notes.md#loc14"
+    },
+    {
+      "id": "LOC15",
+      "name": "Salmon facility exterior and loading",
+      "file": "LOC15-salmon-facility-exterior-and-loading-gpt26-v001.png",
+      "relative_output_path": "Location Sheets GPT Image 2.6/LOC15-salmon-facility-exterior-and-loading-gpt26-v001.png",
+      "dimensions": [
+        3840,
+        2160
+      ],
+      "bytes": 13693393,
+      "sha256": "90038d12ae861fdbe03b92ccd4310a9e68c2861852b0706e45979ab9413a5077",
+      "receipt_file": "LOC15-salmon-facility-exterior-and-loading-gpt26-v001.json",
+      "receipt_sha256": "64fe7b80da8dd1b89067edddfe2101b0cbde97bb01931587268d16f10d8f4070",
+      "prompt_file": "LOC15-salmon-facility-exterior-and-loading-gpt26-v001-prompt.txt",
+      "prompt_sha256": "32c7b0c2968a2f3f735ffe3a8735a73347d134ec68bf3e636f82fd32adc5737c",
+      "provider": "Higgsfield",
+      "model": "gpt_image_2_6",
+      "job_id": "4900dbeb-7aac-4e20-b790-494a61158bcb",
+      "saved_at": "2026-11-06T18:38:36.393965+00:00",
+      "cost_preflight_credits": 4.25,
+      "parameters": {
+        "quality": "high",
+        "resolution": "4k",
+        "aspect_ratio": "16:9",
+        "count": 1,
+        "output_format": "png"
+      },
+      "reference_images": [
+        {
+          "image_number": 1,
+          "file": "References/LOC15/LOC15-ref01-location-sheet-the-salmon-factory.png",
+          "source": "C:\\Users\\DELL\\Desktop\\CyberKitty 2077\\Assets\\Locations\\The Salmon Factory\\Reference Images\\location-sheet-the-salmon-factory.png",
+          "sha256": "7197b6dee873940ddac8be1043456822221cbe7578d5ce32835026e530c6ec4e",
+          "source_is_review_draft": false
+        },
+        {
+          "image_number": 2,
+          "file": "References/LOC15/LOC15-ref02-b4-salmon-factory-exterior.png",
+          "source": "C:\\Users\\DELL\\Desktop\\CyberKitty 2077\\Assets\\Locations\\Neko-Tokyo District 7\\Reference Images\\b4-salmon-factory-exterior.png",
+          "sha256": "3609e924abfd861c5ef183974042ce9f31e8188b3d47c7172d3c37c47d14140b",
+          "source_is_review_draft": false
+        }
+      ],
+      "scene_numbers": [
+        20,
+        22
+      ],
+      "rooms": [
+        "Guarded vehicle gate",
+        "Four loading bays",
+        "Staff/service door",
+        "Cold utility enclosure",
+        "Loading yard"
+      ],
+      "status": "generated_review_required",
+      "production_approved": false,
+      "qa_status": "draft_requires_gate_and_camera_corrections",
+      "qa_findings": [
+        {
+          "panel": "Layout / continuity",
+          "severity": "major",
+          "issue": "Guard booth is east/right of south gate in the north-up plan, but right of the gate in the south-facing SOUTH and reverse renders, placing it west in those views. This violates the explicit no-mirroring requirement.",
+          "suggestion": ""
+        },
+        {
+          "panel": "Layout / continuity",
+          "severity": "major",
+          "issue": "Directional labels disagree with rendered views and the specified exterior convention. NORTH shows the north facade viewed from south; SOUTH says looking north but depicts the south gate from inside looking south.",
+          "suggestion": ""
+        },
+        {
+          "panel": "Layout / continuity",
+          "severity": "moderate",
+          "issue": "Plan camera B is drawn near the southeast portion of the yard rather than the requested northeast reverse position. Camera icons lack clearly readable look arrows; verify against the reverse plate.",
+          "suggestion": ""
+        },
+        {
+          "panel": "Layout / continuity",
+          "severity": "minor",
+          "issue": "Extra Kitty Punk 2077 wordmark appears in the header despite title/short-label-only instruction.",
+          "suggestion": ""
+        }
+      ],
+      "qa_recommendation": "Retain industrial design and dock assignment; correct booth side and plan/view labels before production blocking.",
+      "qa_notes_file": "QA-notes.md#loc15"
+    },
+    {
+      "id": "LOC16",
+      "name": "Salmon cold store and processing hall",
+      "file": "LOC16-salmon-cold-store-and-processing-hall-gpt26-v001.png",
+      "relative_output_path": "Location Sheets GPT Image 2.6/LOC16-salmon-cold-store-and-processing-hall-gpt26-v001.png",
+      "dimensions": [
+        3840,
+        2160
+      ],
+      "bytes": 13610779,
+      "sha256": "b0d7b5d2e88073c91a77c8da365862a847bf9ebf818d876225b7cabdba4d8b35",
+      "receipt_file": "LOC16-salmon-cold-store-and-processing-hall-gpt26-v001.json",
+      "receipt_sha256": "cb58aba85c7ae455dcab0004ad08de69d91ba4dd94a22359ffc65dc74e2af221",
+      "prompt_file": "LOC16-salmon-cold-store-and-processing-hall-gpt26-v001-prompt.txt",
+      "prompt_sha256": "dd7a3d20af38a587ca193d598ec3c8e37f61d96442138a616de4ab8c12aad2f6",
+      "provider": "Higgsfield",
+      "model": "gpt_image_2_6",
+      "job_id": "2fd97582-3e6c-40fb-9ad9-8ba25e38bf3f",
+      "saved_at": "2026-11-06T18:40:03.478740+00:00",
+      "cost_preflight_credits": 4.25,
+      "parameters": {
+        "quality": "high",
+        "resolution": "4k",
+        "aspect_ratio": "16:9",
+        "count": 1,
+        "output_format": "png"
+      },
+      "reference_images": [
+        {
+          "image_number": 1,
+          "file": "References/LOC16/LOC16-ref01-location-sheet-the-salmon-factory.png",
+          "source": "C:\\Users\\DELL\\Desktop\\CyberKitty 2077\\Assets\\Locations\\The Salmon Factory\\Reference Images\\location-sheet-the-salmon-factory.png",
+          "sha256": "7197b6dee873940ddac8be1043456822221cbe7578d5ce32835026e530c6ec4e",
+          "source_is_review_draft": false
+        }
+      ],
+      "scene_numbers": [
+        21
+      ],
+      "rooms": [
+        "Processing conveyors",
+        "Cold A and Cold B rooms",
+        "Mezzanine access stair",
+        "West wash/mechanical wall",
+        "Loading shutter"
+      ],
+      "status": "generated_review_required",
+      "production_approved": false,
+      "qa_status": "draft_requires_continuity_correction",
+      "qa_findings": [
+        {
+          "panel": "Layout / continuity",
+          "severity": "major",
+          "issue": "Personnel door is southwest in plan but appears left of the shutter in SOUTH/reverse views, placing it southeast.",
+          "suggestion": ""
+        },
+        {
+          "panel": "Layout / continuity",
+          "severity": "major",
+          "issue": "Yellow arms are near the north/cold-door ends of the conveyors in HERO, but near the south/shutter ends in REVERSE. Their mounting positions move between views.",
+          "suggestion": ""
+        },
+        {
+          "panel": "Layout / continuity",
+          "severity": "moderate",
+          "issue": "Camera A's triangular pointer appears to point southwest out of the room, opposite the hero's required northeast look direction; use an explicit arrow.",
+          "suggestion": ""
+        },
+        {
+          "panel": "Layout / continuity",
+          "severity": "prompt_conflict",
+          "issue": "Final brief asks BOTH hero and reverse to reveal north cold-room stockpiles, while the defined reverse camera looks south at the loading shutter. The image reveals stock in the hero only; resolve this incompatible requirement before requesting correction.",
+          "suggestion": ""
+        }
+      ],
+      "qa_recommendation": "Stockpile reveal is successful. Lock personnel door and arm positions, correct A arrow, and choose whether reverse remains a south-facing architecture plate.",
+      "qa_notes_file": "QA-notes.md#loc16"
+    },
+    {
+      "id": "LOC17",
+      "name": "Salmon routing control room",
+      "file": "LOC17-salmon-routing-control-room-gpt26-v001.png",
+      "relative_output_path": "Location Sheets GPT Image 2.6/LOC17-salmon-routing-control-room-gpt26-v001.png",
+      "dimensions": [
+        3840,
+        2160
+      ],
+      "bytes": 13140992,
+      "sha256": "addbc3d6819f5434a29f2e15749efb198633a691f7c11e61cec25dc8b9873191",
+      "receipt_file": "LOC17-salmon-routing-control-room-gpt26-v001.json",
+      "receipt_sha256": "780260d7cddd6ac98f8bb10979c6bc029041efeda0db99f0d76f91dc34d0eeb5",
+      "prompt_file": "LOC17-salmon-routing-control-room-gpt26-v001-prompt.txt",
+      "prompt_sha256": "893aec7bf003b7ff989cd451ead6af5a316b370285952665f84dded8fefc01de",
+      "provider": "Higgsfield",
+      "model": "gpt_image_2_6",
+      "job_id": "1ff30d51-ee41-4522-83f9-e31fdf86d234",
+      "saved_at": "2026-11-06T18:41:31.525255+00:00",
+      "cost_preflight_credits": 4.25,
+      "parameters": {
+        "quality": "high",
+        "resolution": "4k",
+        "aspect_ratio": "16:9",
+        "count": 1,
+        "output_format": "png"
+      },
+      "reference_images": [
+        {
+          "image_number": 1,
+          "file": "References/LOC17/LOC17-ref01-location-sheet-the-salmon-factory.png",
+          "source": "C:\\Users\\DELL\\Desktop\\CyberKitty 2077\\Assets\\Locations\\The Salmon Factory\\Reference Images\\location-sheet-the-salmon-factory.png",
+          "sha256": "7197b6dee873940ddac8be1043456822221cbe7578d5ce32835026e530c6ec4e",
+          "source_is_review_draft": false
+        }
+      ],
+      "scene_numbers": [
+        21,
+        22
+      ],
+      "rooms": [
+        "East mezzanine control room",
+        "West observation glass",
+        "Routing desks",
+        "Server rack wall",
+        "Separate cooling control"
+      ],
+      "status": "generated_review_required",
+      "production_approved": false,
+      "qa_status": "draft_requires_door_and_shelf_continuity_correction",
+      "qa_findings": [
+        {
+          "panel": "Layout / continuity",
+          "severity": "major",
+          "issue": "Single entry door moves: plan specifies south wall at southwest; HERO places it along the west glass wall; SOUTH and REVERSE show it on the east/left side of the south wall, away from the west-glass corner.",
+          "suggestion": ""
+        },
+        {
+          "panel": "Layout / continuity",
+          "severity": "moderate",
+          "issue": "Document shelf is northeast in plan but on the right/south end of the EAST elevation, so its corner is mirrored.",
+          "suggestion": ""
+        },
+        {
+          "panel": "Layout / continuity",
+          "severity": "minor",
+          "issue": "Extra Kitty Punk 2077 header wordmark beyond requested title and short labels.",
+          "suggestion": ""
+        }
+      ],
+      "qa_recommendation": "Keep functional control design and cooling/dispatch separation. Reconcile southwest door and northeast shelf across all views before filming.",
+      "qa_notes_file": "QA-notes.md#loc17"
+    },
+    {
+      "id": "LOC18",
+      "name": "Catnip Times pressroom",
+      "file": "LOC18-catnip-times-pressroom-gpt26-v001.png",
+      "relative_output_path": "Location Sheets GPT Image 2.6/LOC18-catnip-times-pressroom-gpt26-v001.png",
+      "dimensions": [
+        3840,
+        2160
+      ],
+      "bytes": 15327345,
+      "sha256": "d83c0863676978a24ef96e7b785b3b82999ca3f801b1fb58b6afea489abb59db",
+      "receipt_file": "LOC18-catnip-times-pressroom-gpt26-v001.json",
+      "receipt_sha256": "4373d5bd6521525c390ef608d89b1ce361d5708d3e449a1f6ae2b54ce5c5eea6",
+      "prompt_file": "LOC18-catnip-times-pressroom-gpt26-v001-prompt.txt",
+      "prompt_sha256": "6bbf4175c5a4ea9de42f3b5b3e9efb22918417c3a66986d82e7c52865f02a502",
+      "provider": "Higgsfield",
+      "model": "gpt_image_2_6",
+      "job_id": "c63ca08c-a862-47c7-b9ea-cb2d2e282e8d",
+      "saved_at": "2026-11-06T18:43:03.441848+00:00",
+      "cost_preflight_credits": 4.25,
+      "parameters": {
+        "quality": "high",
+        "resolution": "4k",
+        "aspect_ratio": "16:9",
+        "count": 1,
+        "output_format": "png"
+      },
+      "reference_images": [
+        {
+          "image_number": 1,
+          "file": "References/LOC18/LOC18-ref01-a3-street-level-hero-walk.png",
+          "source": "C:\\Users\\DELL\\Desktop\\CyberKitty 2077\\Assets\\Locations\\Neko-Tokyo District 7\\Reference Images\\a3-street-level-hero-walk.png",
+          "sha256": "0f2d4be59228c0c18c44e247825a586f8c8b7750d0b41b63cf409159b249aaa6",
+          "source_is_review_draft": false
+        }
+      ],
+      "scene_numbers": [
+        17
+      ],
+      "rooms": [
+        "Editorial desk",
+        "Rotary press",
+        "Paper/ink storage",
+        "Freight loading door"
+      ],
+      "status": "generated_review_required",
+      "production_approved": false,
+      "qa_status": "draft_requires_cupboard_and_prop_correction",
+      "qa_findings": [
+        {
+          "panel": "Layout / continuity",
+          "severity": "major",
+          "issue": "Store cupboard is northeast in the plan, but EAST elevation shows its door at the screen-right/south end of the east wall. Fix this mirrored corner.",
+          "suggestion": ""
+        },
+        {
+          "panel": "Layout / continuity",
+          "severity": "moderate",
+          "issue": "Trolley is on the east/right side of south freight doors in plan, but on screen-right/west in the south-facing SOUTH elevation.",
+          "suggestion": ""
+        },
+        {
+          "panel": "Layout / continuity",
+          "severity": "minor",
+          "issue": "Newspaper prop contains simulated dense article lines/tiny lettering below masthead rather than clean blank column blocks; replace with exact typography during prop finishing.",
+          "suggestion": ""
+        }
+      ],
+      "qa_recommendation": "Core pressroom geography is useful. Correct cupboard and trolley sides; use a clean newspaper overlay for close-up inserts.",
+      "qa_notes_file": "QA-notes.md#loc18"
+    },
+    {
+      "id": "LOC19",
+      "name": "Game world: Great Dog National Bank",
+      "file": "LOC19-game-world-great-dog-national-bank-gpt26-v001.png",
+      "relative_output_path": "Location Sheets GPT Image 2.6/LOC19-game-world-great-dog-national-bank-gpt26-v001.png",
+      "dimensions": [
+        3840,
+        2160
+      ],
+      "bytes": 13865585,
+      "sha256": "bafa979ecdb8e1d13b83edb34a15b04077f7051f625355811add306ab1c5df9d",
+      "receipt_file": "LOC19-game-world-great-dog-national-bank-gpt26-v001.json",
+      "receipt_sha256": "f32ba05ef82c08389d2214bcb290d7d87c1253aff34c7324ec39c05430edc4c1",
+      "prompt_file": "LOC19-game-world-great-dog-national-bank-gpt26-v001-prompt.txt",
+      "prompt_sha256": "01754bffd9e96d0a5814657d500b21c26039d6a3fc3dc14d666f075a33946e19",
+      "provider": "Higgsfield",
+      "model": "gpt_image_2_6",
+      "job_id": "3125b8da-3299-489c-8851-777f9c759db8",
+      "saved_at": "2026-11-06T18:44:35.451527+00:00",
+      "cost_preflight_credits": 4.25,
+      "parameters": {
+        "quality": "high",
+        "resolution": "4k",
+        "aspect_ratio": "16:9",
+        "count": 1,
+        "output_format": "png"
+      },
+      "reference_images": [
+        {
+          "image_number": 1,
+          "file": "References/LOC19/LOC19-ref01-game-bank-heist-tv.png",
+          "source": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Imported References\\game-bank-heist-tv.png",
+          "sha256": "216ce352ce3ba0a8e55c9e554da1c4efff44690601684970b42bcf28d747d0f3",
+          "source_is_review_draft": false
+        }
+      ],
+      "scene_numbers": [
+        1,
+        24
+      ],
+      "rooms": [
+        "Bank facade and steps",
+        "Game street/plaza",
+        "Opposite storefront",
+        "Open east/west street exits"
+      ],
+      "status": "generated_review_required",
+      "production_approved": false,
+      "qa_status": "draft_requires_plan_and_direction_labels",
+      "qa_findings": [
+        {
+          "panel": "Layout / continuity",
+          "severity": "major",
+          "issue": "Plan B is at the south side and points north toward the bank. Actual reverse is from north/bank steps looking south. Move B to bank steps and reverse its arrow.",
+          "suggestion": ""
+        },
+        {
+          "panel": "Layout / continuity",
+          "severity": "moderate",
+          "issue": "NORTH/SOUTH panel labels use target-wall naming instead of specified exterior camera-side convention. NORTH shows bank from south; SOUTH shows storefront from north. East/west side labels are consistent.",
+          "suggestion": ""
+        }
+      ],
+      "qa_recommendation": "Useful coherent empty game set. Correct B position/arrow and swap north/south captions before treating plan as camera guide.",
+      "qa_notes_file": "QA-notes.md#loc19"
+    },
+    {
+      "id": "LOC20",
+      "name": "District 7 market rooftop overlook",
+      "file": "LOC20-district-7-market-rooftop-overlook-gpt26-v001.png",
+      "relative_output_path": "Location Sheets GPT Image 2.6/LOC20-district-7-market-rooftop-overlook-gpt26-v001.png",
+      "dimensions": [
+        3840,
+        2160
+      ],
+      "bytes": 14787171,
+      "sha256": "d50a62d90b9d8a62e329b50083922d2db876997b112272255c50d629e7e2b1e6",
+      "receipt_file": "LOC20-district-7-market-rooftop-overlook-gpt26-v001.json",
+      "receipt_sha256": "0a20ba43d5dae6ff4b83fe0a588004c1c297cc23c5419722e874399967c6017c",
+      "prompt_file": "LOC20-district-7-market-rooftop-overlook-gpt26-v001-prompt.txt",
+      "prompt_sha256": "6a182b90fd8601afc8206ca80526d197959d47fc83e79f43b7cf5737f1bb07f7",
+      "provider": "Higgsfield",
+      "model": "gpt_image_2_6",
+      "job_id": "e3591226-836c-4837-a643-5cc9bd9fdc04",
+      "saved_at": "2026-11-06T18:46:08.830101+00:00",
+      "cost_preflight_credits": 4.25,
+      "parameters": {
+        "quality": "high",
+        "resolution": "4k",
+        "aspect_ratio": "16:9",
+        "count": 1,
+        "output_format": "png"
+      },
+      "reference_images": [
+        {
+          "image_number": 1,
+          "file": "References/LOC20/LOC20-ref01-c2-rooftop-landing-pad.png",
+          "source": "C:\\Users\\DELL\\Desktop\\CyberKitty 2077\\Assets\\Locations\\Neko-Tokyo District 7\\Reference Images\\c2-rooftop-landing-pad.png",
+          "sha256": "d291762e8ab716cc25c526ce1ac40ef01cf92a7d354bb2a946310c250af6215a",
+          "source_is_review_draft": false
+        },
+        {
+          "image_number": 2,
+          "file": "References/LOC20/LOC20-ref02-a3-street-level-hero-walk.png",
+          "source": "C:\\Users\\DELL\\Desktop\\CyberKitty 2077\\Assets\\Locations\\Neko-Tokyo District 7\\Reference Images\\a3-street-level-hero-walk.png",
+          "sha256": "0f2d4be59228c0c18c44e247825a586f8c8b7750d0b41b63cf409159b249aaa6",
+          "source_is_review_draft": false
+        },
+        {
+          "image_number": 3,
+          "file": "References/LOC20/LOC20-ref03-LOC08-district7-market.png",
+          "source": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Location Sheets v01\\LOC08-district7-market.png",
+          "sha256": "650068409a6a8bfb1bb2d4239b71cc9329dbc79c5417ae1129bc563fd3b555f5",
+          "source_is_review_draft": true
+        }
+      ],
+      "scene_numbers": [
+        23
+      ],
+      "rooms": [
+        "Low roof above market",
+        "North market parapet",
+        "Southwest access hut",
+        "HVAC and rail edges"
+      ],
+      "status": "generated_review_required",
+      "production_approved": false,
+      "qa_status": "draft_requires_roof_and_market_geography_correction",
+      "qa_findings": [
+        {
+          "panel": "Layout / continuity",
+          "severity": "major",
+          "issue": "Hut moves to screen-left/northwest in SOUTH view looking north, although plan fixes it northeast. EAST view largely repeats a north-facing hut view instead of looking west from the east edge.",
+          "suggestion": ""
+        },
+        {
+          "panel": "Layout / continuity",
+          "severity": "major",
+          "issue": "HERO shows lantern fish stalls across the street from the roof. Plan and SOUTH elevation place those stalls directly beneath this north-row roof. The hero therefore reverses the market-side relationship; the opposite south-row shuttered shops and fixed billboard are not established.",
+          "suggestion": ""
+        },
+        {
+          "panel": "Layout / continuity",
+          "severity": "major",
+          "issue": "REVERSE looking northeast puts pipe railing and cable spool at foreground left, although plan fixes them east/right. WEST view also relocates hut/HVAC relative to the north/east corners.",
+          "suggestion": ""
+        },
+        {
+          "panel": "Layout / continuity",
+          "severity": "moderate",
+          "issue": "No clear matching view of LOC08's western street mouth/rally connection or opposite billboard. Market cross-set geography cannot yet be approved from this sheet.",
+          "suggestion": ""
+        }
+      ],
+      "qa_recommendation": "Use plan as provisional roof master, rebuild the named elevations and hero/reverse from it, and explicitly match the same LOC08 stall/billboard/stair geometry before scene 23.",
+      "qa_notes_file": "QA-notes.md#loc20"
+    }
+  ]
+}

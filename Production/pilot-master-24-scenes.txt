@@ -1,0 +1,601 @@
+### KITTY PUNK 2077
+
+### Season 1, Episode 1 — The Great Salmon Shortage
+
+Pilot episode
+
+20:00 runtime · 16:9 · Cinematic cyberpunk animation
+
+We're going to structure this as a proper animated television episode, with individual scenes, shot compositions, character dialogue, camera directions, transitions, and timing.
+
+The goal is to make the storyboard usable for AI video generation later, without changing character appearances or inventing new locations halfway through production.
+
+EPISODE TIMELINE
+
+Act 1
+
+0–5 min
+
+Act 2
+
+5–11 min
+
+Act 3
+
+11–16 min
+
+Act 4
+
+16–20 min
+
+Character continuity is mandatory. Catman is the white, blue-eyed, magenta-equipped leader; Byte is the orange tabby with sunglasses and orange headphones; Ghost is the gray tabby with a green visor; Onyx is the black cat with amber eyes and purple equipment; Neon is the silver-gray cat with blue goggles and scarf. Barkington Orders is the black-and-tan Doberman in his black-and-gold executive suit and fur-trimmed coat.
+
+The first episode contains 24 scenes, averaging 50 seconds each, with longer dialogue scenes and shorter action sequences. The individual shots can later be rendered as shorter AI video clips and assembled into the final episode.
+
+### Act 1 — Playtime Interrupted
+
+![Stylish Cats in Colorful Gaming Room with Controllers, Digital Illustration | SplitShire](https://images.openai.com/static-rsc-4/lWQqNk91ClrHVNUuCXp9waTYfpnZ0OW3q1kxQ_VR0XOft3vPoqqFcmcWl45NkhN-nqurOg-JANNezVD_AzcEAAnQygj_2V1-Ewpc3VhWdK5oI94qfWMWpo7h-ktMX1Ycrp0FPO8ux9iybelPrbxhWkHPPyNNmqT92uJhbNtuT9vnPaofhIntpBvCcGJ7WPmC?purpose=fullsize)
+
+Scene 01 — Just One More Mission
+
+00:00–01:10 · 70 sec · Resistance hideout
+
+Establish the five cats playing Grand Theft Kitty VI on CatStation 5. Begin with an exterior view of their dilapidated building, then move inside to reveal the couch and the game.
+
+Shots: Wide room establishing → over-the-shoulder couch → TV gameplay showing the Great Dog National Bank heist → individual reactions.
+
+Dialogue: Byte screams at Catman for crashing their getaway car. Neon insists the controller has input lag. Onyx threatens to throw someone through the window. Ghost quietly reveals he has been winning the entire time.
+
+Sound: Controller clicks, game gunfire, sirens, cats shouting over each other.
+
+![绝区零：这又是一款什么游戏呢？-小米游戏中心](https://images.openai.com/static-rsc-4/jYQ2Fr4BreYR2NmADfRcycZOiv4SSs8Uojsr0EZY0VxKUEBKzzUPzCNfxZ1LZVElxkVuHivgEBPNN-wCB8Zz1zkdDHuCXPDf3SCBDfcVBsEPCdlyvkoyNiXRup_1EBh8TDo-qbOmmOIuS6NItpg1YCMVKxCG6Wxh7N6_9e3kMf1LN--6GH6E7kCcf7FHErC8?purpose=fullsize)
+
+Scene 02 — The Interruption
+
+01:10–02:00 · 50 sec · Resistance hideout
+
+The game freezes during a critical mission. A loud corporate announcement overrides the screen.
+
+Shots: TV glitch close-up → controller button-mashing → Catman's irritated face → entire crew reacting.
+
+Dialogue:
+
+Catman: "What the fuck? We were almost done!"
+
+Byte: "Why do the dogs always have to interrupt our fun?"
+
+Neon: "They're literally stealing our playtime."
+
+Onyx: "If this is another mandatory obedience announcement, I'm gonna lose my shit."
+
+Ghost: "Shh. Listen."
+
+![Batman the animated animated character of a man in a suit and tie - SeaArt AI](https://images.openai.com/static-rsc-4/x0gFCLZ-llE4loPsTDBLKaROAYDh2-j8iE0oL-sv0wjmxFWtLIYjHimWPL7NQogMp6BC9wpRUk0MtUmprTJp8LRqEjoV2eIN5KuL9Me7P8YH2eXZhTLdfPYJV7i8ZajfxFDJ_gfoDFBVFVWlbiaShzHpEI4NSD6wqOQaWbxUURSRWsa_GUTISWwM-Y6lvGLv?purpose=fullsize)
+
+Scene 03 — Barkington's Emergency Broadcast
+
+02:00–03:05 · 65 sec · TV broadcast
+
+Chief Barkington Orders appears, declaring a national salmon emergency affecting Districts 7–12. The corporate broadcast advises cats to secure a month's worth of fresh salmon immediately.
+
+Shots: CRT news graphic → Barkington medium shot → salmon shortage map → extreme close-up of his smug expression → crew reaction inserts.
+
+Dialogue: Barkington: "Citizens of Districts Seven through Twelve. Due to an unprecedented salmon supply emergency, you are advised to acquire no less than thirty days of fresh salmon immediately. Good Dog Global thanks you for your obedience."
+
+Byte: "Thirty days? I can't afford thirty minutes."
+
+Catman: "Something smells fishy."
+
+Onyx: "It's literally fish."
+
+![This item is unavailable - Etsy](https://images.openai.com/static-rsc-4/FVRyBpG6X2lBDCx6O_2neJttgXBrZwHQ9z0vc1CipKyAsHKsxp-I5a5ZnDCS86WxRFFOvZyOS3p53qkcOybARVaxKKior8NB9qH5J-TwYMyED5qnKoQFfA8PWVIrzbppDc8pcpke2d8VOScq32vucsXe1dkShL-54mjBMNWIllKaVtSrkN_fbjb5KShIsLVT?purpose=fullsize)
+
+Scene 04 — The Trip to 7-Catleven
+
+03:05–04:00 · 55 sec · District 7 streets
+
+Catman and Byte leave the hideout and walk through the dirty slums. Crowds of worried cats rush toward stores. A small argument breaks out over a can of tuna.
+
+Shots: Street-wide tracking → close-up of desperate shoppers → Catman and Byte walking → storefront reveal.
+
+Dialogue: Byte: "You think there's really a shortage?"
+
+Catman: "I think someone wants us to believe there is."
+
+Byte: "So... we're not getting snacks?"
+
+![Cashew 🔜 FURUM (@MintCashew) on X](https://images.openai.com/static-rsc-4/No2En3-BBsK_8-YN2RlW61deOeVlDWPunMVUNbaZQBx8BPbNtKoA8z26I84EHV7W2j9cDTCdZb4iHTqIiiPhieEPFbhwBgHRmnJw1A0eXcx7DXyjBKFaXq-_pKRv-btQaRoy9VwW-Um7wNJo0C6KriTepwQ9DFfkE9vdjk1qh5Ge-PpHB19majYLiWybFQTg?purpose=fullsize)
+
+Scene 05 — Three Times the Price
+
+04:00–05:00 · 60 sec · 7-Catleven freezer aisle
+
+Only two packages of salmon remain. A notice says prices have increased threefold. Byte scans the price history and finds the increase began before the emergency broadcast.
+
+Shots: Freezer aisle wide → two lonely salmon packs → price notice → Byte's handheld scanner → Catman's shocked reaction.
+
+Dialogue:
+
+Byte: "Thirty bucks for a piece of fish? Last week it was ten!"
+
+Catman: "They're manufacturing panic."
+
+Byte: "Well, it's working. I'm panicking."
+
+Catman: "We're going to tell the whole district."
+
+### Act 2 — The Resistance Fights Back
+
+![【サイバー小説】一枚のAI画像からストーリーが生まれた・・記憶の旋律：チップが繋ぐ未来｜ロッキー松尾](https://images.openai.com/static-rsc-4/1QQ2kSBEH2TtPQCHtvA7YI-Ea6Lqtazj4JljGQfOS92Dnj7s_A6tOmt_OxUGIrJzoqIq9Lratsi8Cru4nZ1Q67KvYft0X610NCwe_blvuU_05lN2m1g6Ono-cM1CkLb2fT2Jw79C6hqAdERtaDEUBgu1gdJ95iDdWrTnw7ZpqnT8vwxe2gbpoIZWOtK_o0eq?purpose=fullsize)
+
+Scene 06 — Word Spreads
+
+05:00–05:45 · 45 sec · District 7 market
+
+Catman and Byte return to the slums. Byte shares the suspicious pricing data with the crew. Neon projects the price increases onto a public billboard. Curious cats gather.
+
+Shots: Crowded market wide → price-history hologram → shocked citizens → Catman climbing onto a crate.
+
+Dialogue:
+
+Catman: "They tripled the price before they announced the shortage!"
+
+Random citizen: "Those bastards! I sold my litter box to buy dinner!"
+
+Byte: "Okay, that's a personal budgeting problem."
+
+![Nana Korobi Ya Oki - Joshi Riot Ai Anime Music Video | Devpost](https://images.openai.com/static-rsc-4/povUAquF2nWxLXCrmOClr54mRZYhj8cLVuoKxrj0oSD4pSCqIj9uIYyH00ccFE7jWHqka4e_ucWnSHhcQNK8armEWfV7L9ALyRRa7_TeOPxwFqNtrxuk6JbnnXARmCCtID3tGoP7SvBg_eHg46eUimFR3xHoBztX3BSjTyOb-sQldN1AYhzVbkMAJ275kg1W?purpose=fullsize)
+
+Scene 07 — The District 7 Rally
+
+05:45–06:50 · 65 sec · Slum rally stage
+
+All five crew members address hundreds of angry cats. Catman demands transparency about salmon supplies. Byte presents the price evidence. The crowd starts chanting.
+
+Shots: Crane over crowd → low-angle Catman at microphone → Byte's projected chart → crowd reaction → overhead rally shot.
+
+Dialogue:
+
+Catman: "They think we're stupid! They think they can take our food, triple the price, and tell us to be grateful!"
+
+Crowd: "NO MORE BONES! GIVE US SALMON!"
+
+Onyx: "That's the dumbest chant I've ever heard."
+
+Neon: "It's trending."
+
+Transition: The crowd erupts into applause as Catman raises his paw.
+
+![Miami Theme | Nomade | Anarcute](https://images.openai.com/static-rsc-4/yST9GOMcoW-3EukcbRqoDVT1asaQgnhG9ZfZUSmzYwMqOuSUxJPLlMU0qeg4ESKObhPMTjxErOEynwN4ZC_EvbNqBV3lKLazVmAj1rxa5vonzo7I5Fb1yeyKjTr_GY2DcG-jnLIp4vYpbpTzx_d7X9YIrpV6aWMAxtvO6oTTw9QwxBWyi-xEWmds-H8M_qyw?purpose=fullsize)
+
+Scene 08 — The Cats Are Waking Up
+
+06:50–07:30 · 40 sec · District 7 alleyways
+
+Excited cats leave the rally, spreading the news throughout the neighborhood. Resistance graffiti appears on walls. A young kitten asks whether the crew can actually fix the shortage.
+
+Shots: Forward tracking through cheering crowd → banners → kitten looking up → Catman's thoughtful expression.
+
+Dialogue:
+
+Kitten: "Are you really going to bring the salmon back?"
+
+Catman: "We're going to find out where it went."
+
+Byte, quietly: "You realize we have no fucking idea where it went?"
+
+Catman: "Working on that."
+
+![cyberpunk hacker room full of RGB screens and holograms — Nicepixels.net](https://images.openai.com/static-rsc-4/_pKSl0Jckpjoy6YtGenAEguyeGOaApQsbhtZuqUxghPx2chqWpuZhl4OuU9Lyk96Ad1c4vKYSVPiCf4w0Dhzd85bCuH0EUCPPBrFnyE9-ARuQNr_yDH83B8abpz7zSsd61i9uU95qjfmGoQkGOCzsu4s-ubYxIclxrPCcYVHXg364UcMLkADEUbBy9Hrqvjt?purpose=fullsize)
+
+Scene 09 — Follow the Money
+
+07:30–08:40 · 70 sec · Resistance hacking lair
+
+The crew analyzes the price data. Ghost identifies unusual encrypted communications between Good Dog Global and WOOF7. Neon traces the meeting invitation to the luxury restaurant Steak & Bone.
+
+Shots: Monitor close-ups → Ghost's green visor → rotating encrypted message hologram → restaurant location map.
+
+Dialogue:
+
+Ghost: "Barkington has a private dinner tonight."
+
+Byte: "With the WOOF7 news anchor."
+
+Neon: "The same network telling everyone to panic-buy salmon."
+
+Catman: "Then let's see what's on the menu."
+
+![Futuristic Cat with Robotics in High-Tech Workspace | Deep Dream Generator](https://images.openai.com/static-rsc-4/oZ0V-VoV_ShKdfIrQGfTT9voxJHsWBJ6meeRaKLfG3UJGzA6Khg4yPkEDdCyhAl2m9-1dTLK02X1iRRSusI4Rm1R8Oa5AUbVCXil_3utGBvyPCjavwxRc3e_CNWEasJYgKv0muWZP-QOgEQsowSabX76LEBzngQIOKT1fbySqHGokV2TPuYpWxH-VnZxCoL4?purpose=fullsize)
+
+Scene 10 — Operation Bonehead
+
+08:40–09:45 · 65 sec · Hideout workshop
+
+Neon constructs electronic bone-shaped decoys that squeak, roll, and project irresistible animated chew toys. Ghost tests the distraction system while Byte questions its reliability.
+
+Shots: Overhead workbench → rotating bone device → Neon testing remote → Ghost checking stealth equipment → comedy test.
+
+Dialogue:
+
+Neon: "The guards will chase these instead of us."
+
+Byte: "What if they don't?"
+
+Neon: "Then we have a very expensive collection of dog toys."
+
+A test device squeaks. A distant dog guard immediately starts barking.
+
+Onyx: "Holy shit. It works."
+
+![Киберпанк в сердце Японии. Фоторепортаж](https://images.openai.com/static-rsc-4/B_U6cRWhUwlALXhdZncIdofFFe4Hq7w8cPgkipwx60Ge0DJivgsPdGXtF3KovljNYjz-4E_gyUvMDjLO5oXKyE80IkPxajNl8SoYw8pDke47xCG2nUiKln_-ql3HJd1SSKm_Kt2--mGn_Iw_Lc84Agu1a7N9bapDUyfjXmtIIRwjqXA_KJCjGRjdkXR-DJ__?purpose=fullsize)
+
+Scene 11 — Steak & Bone Surveillance
+
+09:45–11:00 · 75 sec · Restaurant exterior
+
+The crew arrives at Steak & Bone. Dog security guards patrol the entrances. Ghost identifies a service access route while Catman spots Barkington's limousine arriving.
+
+Shots: Restaurant establishing → security positions → Barkington arriving → rooftop surveillance perspective → close-up of Catman's camera.
+
+Dialogue:
+
+Byte: "That restaurant costs more per meal than our entire building."
+
+Onyx: "Can we eat first?"
+
+Ghost: "Target's inside."
+
+Catman: "Nobody touches anything until we have evidence."
+
+End beat: Barkington enters the restaurant. The camera pushes toward a gold-lit private dining room.
+
+### Act 3 — The Bribe
+
+![RealtyJuggler Real Estate Software Upgraded](https://images.openai.com/static-rsc-4/ysETDJ0ILUx7fX3wW0VcODN4QQpIj68jJ1wWlBIxYCCywmniqjVKceS0PRqslM1wJvUXN4LMXtWolNmHgnWOP9-EGFcTGhRljbEOe9WV4qegmQLfD-gXnYv0qGt2M521ulVm-IWaG7SIVPsix2LGwX3SlyexC1CetFBj2ChkilXqpNnVCUyP48BDrbTeE4Mr?purpose=fullsize)
+
+Scene 12 — The Bone Distraction
+
+11:00–11:45 · 45 sec · Steak & Bone security entrance
+
+Neon activates the decoys. Several dog guards abandon their posts to chase squeaking mechanical bones. One guard tries to maintain discipline but immediately loses control when a decoy bounces past.
+
+Shots: Guard close-up → bone rolling across floor → ears perking → chaotic chase → Ghost slipping through the unguarded entrance.
+
+Dialogue:
+
+Guard: "Maintain your positions!"
+
+SQUEAK!
+
+Guard: "...Is that a bacon-flavored bone?"
+
+Another guard: "MINE!"
+
+![](https://images.openai.com/static-rsc-4/9eoY04zx9PXrUd0k5NoOBc7lKwqv6GdpWwEMeWLfwTDRc7re-aXy37XhlVHfvmHgr9ihJF_MeZ2AwGXXtR105sn46rVh-RF8K4ClH1xY7v4U4Ld4mWoAJgI_YXxoTiHfVGd_GjJk-OU2Nqmv2jHEPsm8XYlgMpeNBdvXn-nWtnRfdpzRCxzbD7qredhqMplF?purpose=fullsize)
+
+Scene 13 — Inside the Restaurant
+
+11:45–12:35 · 50 sec · Service corridors
+
+Ghost leads Catman and Neon through the service entrance. Onyx monitors the guards outside while Byte coordinates remotely. A service robot nearly catches Ghost, who freezes motionless.
+
+Shots: Corridor wide → security-camera POV → cat-eye close-up → robot passing → silent hand signals.
+
+Dialogue:
+
+Byte, over comms: "You have forty seconds before patrol returns."
+
+Catman: "Ghost, move."
+
+Ghost: "I am moving."
+
+Catman: "You're literally standing still."
+
+Ghost: "That's why I'm good."
+
+![The Dogs Corleone – Iunick Design](https://images.openai.com/static-rsc-4/NMdlziqVKjxPHwovwFOwQa6wHIvDyHAKY9BIpvNTT5j0s6AWjpsWHjrrCaoVcltLTiDHOFlIreCnGJJpXVCrXHcOx0LUEdbkLkyCWRKaj4m3spa00BtAgmQhf31shkaln0B190ptzoe5RpueB6OP9ZZHVsmPk5Qk2mOq9EKrnPL1pJ3WPW6mMqChooqkNmh8?purpose=fullsize)
+
+Scene 14 — The Secret Dinner
+
+12:35–13:35 · 60 sec · Steak & Bone private dining room
+
+Barkington meets the Shiba Inu WOOF7 news anchor. The two discuss public confidence, news coverage, and the shortage. Barkington speaks indirectly, never openly admitting to controlling the salmon supply.
+
+Shots: Dining-room wide → two-shot across table → close-up of Shiba anchor → Barkington's gold ring and paw → hidden surveillance angle.
+
+Dialogue:
+
+Barkington: "The public needs reassurance that our supply measures are necessary."
+
+Anchor: "And you want that to be tonight's headline?"
+
+Barkington: "I want the public to hear the correct story."
+
+Anchor: "That kind of coverage isn't cheap."
+
+Barkington: "Neither is loyalty."
+
+![I Tested Vidu Q2's New Turbo and Pro Modes: Encouraging Results with Notable Strengths | Pollo AI](https://images.openai.com/static-rsc-4/Q6c30mamh33ZkGcg4k3qzH5bezu7MBpfin0LWpLoeqWFnZ3JUI0ktOz2HoP0WyoUNOK5cnLj04n_AhOTO0QiZvbJBDPZOdj47OtWT4iR4t5UEJc_9205q4hZ9eyDhaeUweOas9QeT-NXewOkgszFpPh3WzK-nuR0WMDPdQc8loYql-RSRIJFp0RDn5fqMKCE?purpose=fullsize)
+
+Scene 15 — The Payoff Photograph
+
+13:35–14:20 · 45 sec · Private dining room
+
+Barkington passes a money bag across the table. Catman captures a clear photograph of the exchange while Neon records the conversation. The exact purpose of the payment remains unclear.
+
+Shots: Close-up money bag → Barkington's fur-covered paw → Shiba accepting payment → camera viewfinder → shutter click → Catman's reaction.
+
+Dialogue:
+
+Byte, over comms: "Please tell me you got that."
+
+Catman: "Every pixel."
+
+Neon: "The audio's ambiguous."
+
+Catman: "The photograph isn't."
+
+Important continuity: This proves a suspicious cash exchange, not yet that Barkington engineered the salmon shortage.
+
+![Distopia Carioca: O que esperar do filme Corrida dos Bichos - Espiaaqui](https://images.openai.com/static-rsc-4/S6II-TSYzHGz3ROYzWvYYB3eQ5_ptj78xIbGRMa4woqhheQXwKipuOU89_dJ5bZS0e5849wFw4FPUkWXu6b-4unDImw2-NuHraMhoOQpWNeKgo5qiPy-Za1QlVMw_uYRHhHMaVEaphhHx19RiCNwPtm_zDS0LfEt8waoknve7LlW4Uju8akyKiXxYEyw9aGF?purpose=fullsize)
+
+Scene 16 — Get the Hell Out
+
+14:20–15:10 · 50 sec · Restaurant service exit
+
+A guard discovers the security breach. Onyx intercepts the pursuing guards while Neon activates the last bone decoy. The cats escape through the rain-soaked service alley.
+
+Shots: Alarm light → fast corridor tracking → Onyx blocking a doorway → bone decoy bouncing → rooftop escape wide.
+
+Dialogue:
+
+Guard: "STOP THOSE CATS!"
+
+Neon: "Emergency bone!"
+
+Byte: "Why do you call it that?"
+
+Neon: "Because it's for emergencies, dumbass!"
+
+SQUEAK!
+
+![How Analyzing JavaScript Files Can Uncover Multiple Bugs | by L0da | Medium](https://images.openai.com/static-rsc-4/uGABvWtAddeV1_csP1mlZpHdJXTs2PfgwmUgDMQha9DNnIVLOn3mH07Q66jJOC0Six0xS7nw0IIFXYJt_zBoNqSfvi6EuWM1EZ1F-2YwGzlQfe7NrGC9LviTvzGHkCy9glxUwNQkBg27yEM1eLwEcg6Q5-HvGOMYBpeKo0TzUNwvjQfQwhLyboEkFCq5ln8g?purpose=fullsize)
+
+Scene 17 — The Leak
+
+15:10–16:00 · 50 sec · Resistance hideout
+
+The crew sends the footage and photograph to NIP7 investigative news. A hairless Sphynx cat journalist reports the scandal. The Catnip Times prepares a front-page exposé.
+
+Shots: Upload progress → NIP7 newsroom → Sphynx anchor → evidence image → newspaper printing.
+
+Dialogue:
+
+NIP7 Anchor: "Exclusive tonight: leaked footage shows Chairman Barkington Orders making an undisclosed cash payment to a senior WOOF7 journalist."
+
+Byte: "We fucking got him!"
+
+Ghost: "We got the payment. Not the reason."
+
+Catman: "Then we keep digging."
+
+### Act 4 — The Salmon Conspiracy
+
+![Security Check](https://images.openai.com/static-rsc-4/YXC118t34qtPpHCaL8aH5KvVs_jYCM5DcRN5fA0AlgATy9zYxU7AUKzdsrlPcjaG55RmTw4TO_vERZR0wUR6PcsUOSFuWdOU1LNaECSeW4nkJ8Pvq-DJOo0jZOy5UzZmmGsT2Yp6I7wEQikiHfspuBErTOxsSAO2FlJIAgVFGoEUeTcqC5zVJUFlARVLM8XN?purpose=fullsize)
+
+Scene 18 — Victory? Not Quite
+
+16:00–16:35 · 35 sec · District 7 streets
+
+Cats read the Catnip Times. News of the suspicious payment spreads across the district. But the salmon shortage remains unresolved.
+
+Shots: Newspaper close-up → street reactions → empty fish market → Catman reading the report.
+
+Dialogue:
+
+Byte: "We exposed the bastard!"
+
+Catman: "Then why are the stores still empty?"
+
+Ghost: "Because we exposed a payment. Not the supply chain."
+
+Neon: "Wait. I've got something."
+
+![Global Logistics Network Dashboard in Control Room | Stock Image & Design Asset – Aura](https://images.openai.com/static-rsc-4/Tnd4YNWibnM22lBpYBnnw8GxmEvoApxYxWpP5K12HGRnBNcqjv6xMnh7ItwsbC1iVpJ1IMRqjWhE22btICezkVPbatBYQLMtMbYeRYBd5BbzDtH2f0ARl8cRKC4mjcyPZYow3xx0u6X4nXmEudv0SYNmIpPexRrRQqkZRIRUf43Iqv0THIxaZ-yFRFUPjFxB?purpose=fullsize)
+
+Scene 19 — Follow the Fish
+
+16:35–17:10 · 35 sec · Hacking lair
+
+Neon discovers that Good Dog Global's salmon shipments are being diverted away from Districts 7–12 and toward wealthy Districts 1–6. The alleged shortage is actually a distribution restriction.
+
+Shots: Shipping database → district map → redirection arrows → close-up of salmon shipment records.
+
+Dialogue:
+
+Neon: "There isn't a salmon shortage."
+
+Byte: "What?"
+
+Neon: "There's a salmon shortage for cats."
+
+Onyx: "Those sons of bitches."
+
+![The Logistics of Food Service: Cold Chain Integrity and JIT Restaurant Delivery | Runink](https://images.openai.com/static-rsc-4/7PIzpv8hTLL2cO9pbikXjlR1vL_jgP3fPKd8K-t0y5_JFIeS3OItwlwFxJqdVqW0sUVw7zETCX-ONnddNNjeQYZB43d7cXiNp3kv-yvbH2u8kmEd4h6n33152JEYQoUF3F_XL8RNR_hEZVhwUpjcZ1xFmV0kSDkOLXD289aNqvvEHqGW4E541F0Q38m47yXZ?purpose=fullsize)
+
+Scene 20 — Salmon Headquarters
+
+17:10–17:45 · 35 sec · Good Dog Global salmon facility
+
+The crew reaches the heavily guarded distribution center. Refrigerated trucks marked for Districts 1–6 leave the compound while loading bays designated for feline districts remain empty.
+
+Shots: Factory exterior → guarded gates → truck destination labels → overhead security map → crew preparing entry.
+
+Dialogue:
+
+Catman: "They've been sitting on our food."
+
+Byte: "Technically, they've been shipping it."
+
+Catman: "Not helping, Byte."
+
+![This is the world's largest salmon factory](https://images.openai.com/static-rsc-4/vif9i5TEiAIT1VHDA7MOHYMgCRqPTgtvfbxxufKK7VCY48t5daEkLyjh7vJz9G7YjbdqdpC-SLIkeM0R4krly-06GhRNrc-xPJuLV2fiJ_YQ_enbyipiL-Jzhvy22t8xbeRICNruvNa88Fti8wLm9RbTgZnKiLDf8vJD37U1kX-vltqUetJRnePLcQVY4jEZ?purpose=fullsize)
+
+Scene 21 — The Great Salmon Heist
+
+17:45–18:30 · 45 sec · Factory interior
+
+Ghost bypasses the security system. Onyx holds off pursuing guards. Neon and Byte access the shipping controls while Catman discovers an enormous refrigerated salmon stockpile.
+
+Shots: Stealth entry → massive salmon tanks → guard confrontation → hacking terminal → enormous warehouse reveal.
+
+Dialogue:
+
+Byte: "That's enough salmon to feed half the city!"
+
+Catman: "And they told us there was none."
+
+Onyx: "Can I punch something now?"
+
+Catman: "You have my permission."
+
+![Is Your Factory Next? How Cybercriminals Exploit This System | by Redfox Security | Feb, 2026 | Medium](https://images.openai.com/static-rsc-4/pn-OjICabPYd5Ant86SZ3u2SCSN7pqrj5SVnFfM86q-WVz820VLVQNr5gCU5If1Io6mTQ_FBb1tLUZFXSmWQvQMIR_ymsX3koYN2Duaghbs7v0DS_q2UalbmbzqfYS-o2IWgZEMviN6V_O88CdwMNjtngJe3Zx1c9dLphXq6tcd6KZ8clU3vF6d4kuTqoXqp?purpose=fullsize)
+
+Scene 22 — Shut It Down
+
+18:30–19:05 · 35 sec · Factory control room
+
+The crew stops the automated distribution lines, preserves the refrigerated salmon, releases the shipment records publicly, and reroutes available trucks to the neglected districts.
+
+Shots: Hacking screen → conveyor belts stopping → routing map changing → trucks redirected → public data release.
+
+Dialogue:
+
+Neon: "Corporate routing disabled."
+
+Ghost: "Shipping records released."
+
+Byte: "Salmon is going back to the cats!"
+
+Catman: "Now that's what I call a hostile takeover."
+
+Important: The crew stops the discriminatory distribution system, not the refrigeration or food preservation systems.
+
+![Nano Banana 2 (Gemini 3.1 Flash Image Preview) • AI Image Generation Explorer | Artificial Analysis](https://images.openai.com/static-rsc-4/qtzUj6u-ZMqpv-w5lZpxWaciRbbQBwocgmc0hyzZixmJBm-h4bOIMeahHcTKWLWLozoY4p9K-Pl7v5FdqdchLpqAq8OPqnqXHLNZGly1wDrsuUfwDKU6nhgwuvkhyQGFDstt4cqkhRDAYKLxI5wZT62IZuciGh7F0FllVBgaaiQnsC1hSTi3IDt1cKks_GzS?purpose=fullsize)
+
+Scene 23 — Salmon for Everyone
+
+19:05–19:30 · 25 sec · District 7 market
+
+The first redirected salmon shipments arrive. Cats cheer as vendors reopen their stalls. NIP7 reports that the distribution records confirm preferential treatment for wealthy dog districts.
+
+Shots: Truck arrival → salmon crates → cheering citizens → NIP7 news broadcast → crew watching from a rooftop.
+
+Dialogue:
+
+NIP7 Anchor: "Newly released records confirm that Good Dog Global diverted salmon shipments away from feline neighborhoods."
+
+Byte: "We saved the fucking city!"
+
+Catman: "We saved dinner."
+
+Ghost: "For now."
+
+![17 Best VSCode Themes](https://images.openai.com/static-rsc-4/2rGZBNUdelOhs3dtb0OgR3pLt2iYItbHd00mDQQzaLZUXi_cggqdDQGwKo5ngxU20nhC8qbR-giZR3wDlViuvUdI2LYrGq9witiEKBDpUr1VXFUqFZ7GAi6j27k3uiHx0CkOtTtHBSugwOe4Ns7wtHeuU2ydFwyGBCTWd7mEzIOBthSlxaAvEn76svpXTiT2?purpose=fullsize)
+
+Scene 24 — Back to the Game
+
+19:30–20:00 · 30 sec · Resistance hideout
+
+The crew returns home, collapses onto the couch, and turns on CatStation 5. Grand Theft Kitty VI resumes at the Great Dog National Bank heist.
+
+Shots: Wide hideout → controllers being picked up → TV loading screen → Catman's face → group couch wide → final TV close-up.
+
+Dialogue:
+
+Catman: "All right. Now it's time to finish this mission."
+
+Byte: "We've been trying to finish this shit all day."
+
+Neon: "At least nobody can interrupt us now."
+
+The television flickers.
+
+TV: "GOOD DOG GLOBAL HAS AN IMPORTANT ANNOUNCEMENT—"
+
+Onyx: "OH, FUCK OFF!"
+
+SMASH CUT TO BLACK.
+
+End credits.
+
+### Production storyboard index
+
+This is the master timing reference for generating the individual scene plates and clips.
+
+| Scene | Story beat                | Start | End   |
+| ----- | ------------------------- | ----- | ----- |
+| 01    | Just One More Mission     | 00:00 | 01:10 |
+| 02    | The Interruption          | 01:10 | 02:00 |
+| 03    | Barkington's Broadcast    | 02:00 | 03:05 |
+| 04    | Trip to 7-Catleven        | 03:05 | 04:00 |
+| 05    | Three Times the Price     | 04:00 | 05:00 |
+| 06    | Word Spreads              | 05:00 | 05:45 |
+| 07    | District 7 Rally          | 05:45 | 06:50 |
+| 08    | The Cats Are Waking Up    | 06:50 | 07:30 |
+| 09    | Follow the Money          | 07:30 | 08:40 |
+| 10    | Operation Bonehead        | 08:40 | 09:45 |
+| 11    | Steak & Bone Surveillance | 09:45 | 11:00 |
+| 12    | The Bone Distraction      | 11:00 | 11:45 |
+| 13    | Inside the Restaurant     | 11:45 | 12:35 |
+| 14    | The Secret Dinner         | 12:35 | 13:35 |
+| 15    | The Payoff Photograph     | 13:35 | 14:20 |
+| 16    | Get the Hell Out          | 14:20 | 15:10 |
+| 17    | The Leak                  | 15:10 | 16:00 |
+| 18    | Victory? Not Quite        | 16:00 | 16:35 |
+| 19    | Follow the Fish           | 16:35 | 17:10 |
+| 20    | Salmon Headquarters       | 17:10 | 17:45 |
+| 21    | The Great Salmon Heist    | 17:45 | 18:30 |
+| 22    | Shut It Down              | 18:30 | 19:05 |
+| 23    | Salmon for Everyone       | 19:05 | 19:30 |
+| 24    | Back to the Game          | 19:30 | 20:00 |
+
+### AI video production requirements
+
+Total runtime
+
+### 1,200s
+
+20 minutes
+
+5-second clips
+
+### 240
+
+Before editing and reuse
+
+Base generation cost
+
+### $96
+
+At $0.08 per second
+
+With 20% failed renders
+
+### $120
+
+Expected generation cost
+
+These figures assume all 20 minutes are generated footage, independent attempts with an 80% success rate, and no extra editorial retakes, audio, or upscaling charges.
+
+### How we'll turn this into production-ready storyboards
+
+The 24-scene breakdown is the narrative storyboard. Before rendering, each scene should be divided into numbered camera shots with an individual reference frame, exact dialogue timing, character identities, camera movement, audio, and a start/end-frame continuity description.
+
+For example, Scene 01's 70 seconds might become 12–16 shots covering the building exterior, couch, controllers, gameplay, reactions, and the moment before the interruption. This is how we avoid generating long clips where the characters, furniture, or costumes randomly change.
+
+We should also keep the pilot's ending deliberately unresolved: the cats prove the distribution discrimination and restore immediate access, but they have not discovered who authorized the larger conspiracy or why Barkington wanted the shortage in the first place. That mystery carries into Episode 2.
+
+The next production stage is Scene 01 — Just One More Mission, with individual cinematic storyboard frames, shot numbers, and image-to-video prompts, followed by Scene 02 and onward in order.
+

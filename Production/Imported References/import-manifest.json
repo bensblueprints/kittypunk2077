@@ -1,0 +1,127 @@
+[
+  {
+    "name": "game-cover",
+    "file": "game-cover.png",
+    "source": "C:\\Users\\DELL\\AppData\\Local\\Temp\\codex-clipboard-af8d25ce-b162-4dee-bdc1-774a5e0a81ea.png",
+    "sha256": "d5cb529e34fc9cafeef312684b8fdb2fd88e01803bea9bad05f3a31182c3428c",
+    "size": [
+      1161,
+      1354
+    ],
+    "pixel_duplicate_of": null,
+    "note": "Game prop only; Catman is grey here and game Barkington is a Shiba. Do not use as real-world character identity."
+  },
+  {
+    "name": "barkington-shortage-broadcast",
+    "file": "barkington-shortage-broadcast.png",
+    "source": "C:\\Users\\DELL\\AppData\\Local\\Temp\\codex-clipboard-917c8b95-53d9-4a84-b06f-d9042f3b09c0.png",
+    "sha256": "814e50d864d56a03d2f835f5b42258ad4cacf52115903be7778c5dab8a0712b4",
+    "size": [
+      1670,
+      941
+    ],
+    "pixel_duplicate_of": null,
+    "note": "Keep Doberman and CRT; change NIP7 to WOOF7, districts to 7\u201312; use consistent Chairman Barkington Orders title."
+  },
+  {
+    "name": "interrupting-broadcast",
+    "file": "interrupting-broadcast.png",
+    "source": "C:\\Users\\DELL\\AppData\\Local\\Temp\\codex-clipboard-5610197d-66df-4fb6-a1a8-b691295f997e.png",
+    "sha256": "9296ea9eb9e0af71bf0b41deb08ad18eea95843bcd59bfc4475c15609d8a400d",
+    "size": [
+      1672,
+      941
+    ],
+    "pixel_duplicate_of": null,
+    "note": "Golden retriever presenter differs from WOOF7 Shiba anchor. Treat as separate continuity announcer or replace with canonical Shiba. Normalize Good Dog Global to Goodboy Global."
+  },
+  {
+    "name": "game-bank-heist-tv",
+    "file": "game-bank-heist-tv.png",
+    "source": "C:\\Users\\DELL\\AppData\\Local\\Temp\\codex-clipboard-fb3a016f-2ca6-4fce-a421-ab41af964e3a.png",
+    "sha256": "216ce352ce3ba0a8e55c9e554da1c4efff44690601684970b42bcf28d747d0f3",
+    "size": [
+      1671,
+      941
+    ],
+    "pixel_duplicate_of": null,
+    "note": "In-universe game footage; CRT shell reference. Game avatars are not crew identity references."
+  },
+  {
+    "name": "nip7-investigation",
+    "file": "nip7-investigation.png",
+    "source": "C:\\Users\\DELL\\AppData\\Local\\Temp\\codex-clipboard-32810d32-17c1-413f-9af7-498c4e168ad8.png",
+    "sha256": "f801e4fc5383fa311700030c594c5d2e9891ca5b8e02750c5ea5551d3c90c813",
+    "size": [
+      1672,
+      941
+    ],
+    "pixel_duplicate_of": null,
+    "note": "Sphynx anchor reference; initial report should say suspected payoff, salmon link unproven. Inset needs same restaurant still and Barkington wardrobe."
+  },
+  {
+    "name": "steak-and-bone-meeting",
+    "file": "steak-and-bone-meeting.png",
+    "source": "C:\\Users\\DELL\\AppData\\Local\\Temp\\codex-clipboard-f6bf8d32-c787-4591-b206-b931db20dd5e.png",
+    "sha256": "0d394ddac8336b416e976954b3a5c01f57b7df1894833e68eac97e15c8085f66",
+    "size": [
+      1672,
+      941
+    ],
+    "pixel_duplicate_of": null,
+    "note": "Restaurant layout and Shiba anchor reference. Barkington restaurant waistcoat variant must be treated as a distinct wardrobe, furry paws."
+  },
+  {
+    "name": "steak-and-bone-meeting-duplicate",
+    "file": "steak-and-bone-meeting-duplicate.png",
+    "source": "C:\\Users\\DELL\\AppData\\Local\\Temp\\codex-clipboard-d370b717-5654-4771-a3a5-c49a47bf5e19.png",
+    "sha256": "0d394ddac8336b416e976954b3a5c01f57b7df1894833e68eac97e15c8085f66",
+    "size": [
+      1672,
+      941
+    ],
+    "pixel_duplicate_of": "steak-and-bone-meeting.png",
+    "note": "Possible duplicate; compare hash and pixels, preserve provenance."
+  },
+  {
+    "name": "couch-rear-blank-tv",
+    "file": "couch-rear-blank-tv.png",
+    "source": "C:\\Users\\DELL\\AppData\\Local\\Temp\\codex-clipboard-3c269a0f-61c8-437a-8c44-76b1d0a30ce4.png",
+    "sha256": "9c4d8315f9d514981ffe76231ec30d56ebdb511ebc44733750a4e3fdc90e41fa",
+    "size": [
+      1672,
+      941
+    ],
+    "pixel_duplicate_of": null,
+    "note": "Preferred pilot lounge layout: rear-view screen-left Neon, Onyx, Catman, Byte, Ghost. Rusted CRT; console above TV."
+  },
+  {
+    "name": "7-catleven-exterior",
+    "file": "7-catleven-exterior.png",
+    "source": "C:\\Users\\DELL\\AppData\\Local\\Temp\\codex-clipboard-082a7eb9-02f3-4d6d-8482-80aa74e467dc.png",
+    "sha256": "d6b2e3cea45d6216484d95f30df966d5d3382299036174aaca3c15ddb394bf9c",
+    "size": [
+      1671,
+      941
+    ],
+    "pixel_duplicate_of": null,
+    "note": "Good location reference; retain white Catman, orange Byte; shop clerk new supporting identity."
+  },
+  {
+    "name": "couch-playing-alternate",
+    "file": "couch-playing-alternate.png",
+    "source": "C:\\Users\\DELL\\AppData\\Local\\Temp\\codex-clipboard-25cf2d36-c851-4d5a-9757-d14a9bffd1bc.png",
+    "sha256": "03bd326b8e91e5d5767cef09d1b6bdae2b6901a5e891e83ed0f95021a1a1eaae",
+    "size": [
+      1672,
+      941
+    ],
+    "pixel_duplicate_of": null,
+    "note": "Alternate concept: flat-screen, different seating order and grey Catman. Needs regeneration to preferred CRT scene continuity."
+  },
+  {
+    "name": "discord-freezer-shortage",
+    "status": "download_failed",
+    "error": "HTTP Error 403: Forbidden"
+  }
+]

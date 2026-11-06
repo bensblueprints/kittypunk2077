@@ -1,0 +1,84 @@
+{
+  "asset_id": "S01A",
+  "name": "Exterior wide",
+  "batch": 1,
+  "index": 1,
+  "scene": 1,
+  "editorial_shot_id": "S01-01",
+  "provider": "Higgsfield",
+  "model": "gpt_image_2_6",
+  "media_type": "image",
+  "status": "previs_still_review_pass",
+  "generation_status": "completed",
+  "job_id": "07364241-980c-44ef-96b7-6cc3cdae209e",
+  "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3FexRxU2V7FefQUvOnG7eFCKfmw/hf_20261106_194305_07364241-980c-44ef-96b7-6cc3cdae209e.png",
+  "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Phase 2\\Opening Frames\\S01A-gpt26-v001.png",
+  "filename": "S01A-gpt26-v001.png",
+  "actual_dimensions": [
+    3840,
+    2160
+  ],
+  "file_format": "PNG",
+  "size_bytes": 16837214,
+  "sha256": "9ee54471c3f2c7e5c6b5d999a76985c63d8eace35ad0ce124c6bb596a450fa4e",
+  "saved_at": "2026-11-06T19:44:13.949430+00:00",
+  "quote_credits": 4.25,
+  "actual_billed_credits": "not_independently_verified",
+  "batch_lease_credits": 119,
+  "max_authorized_jobs": 28,
+  "no_automatic_paid_retry": true,
+  "reference_paths": [
+    "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Location Sheets GPT Image 2.6\\LOC01-resistance-warehouse-exterior-gpt26-v001.png"
+  ],
+  "reference_media": [
+    {
+      "value": "45c5930e-0bed-4112-adf8-cea085d78798",
+      "type": "completed_generation_job",
+      "asset_id": "LOC01"
+    }
+  ],
+  "source_hashes": {
+    "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Location Sheets GPT Image 2.6\\LOC01-resistance-warehouse-exterior-gpt26-v001.png": "c171160ce2dfdaef5437f8b0a4f8aaba6104f4cbd4fefe5fc8ec2531a63e5955"
+  },
+  "generation_params": {
+    "model": "gpt_image_2_6",
+    "quality": "high",
+    "resolution": "4k",
+    "aspect_ratio": "16:9",
+    "count": 1,
+    "output_format": "png",
+    "background": "opaque",
+    "prompt": "Create ONE single cinematic16:9 still frame, requested3840x2160, high detail. This is a clean animation start frame, not a contact sheet, grid, storyboard page, split screen or sequence. Use tactile cinematic3D cyberpunk animation: readable fur and fabrics, weathered metal/brick/concrete, restrained cyan/magenta practical light and warm amber lamps, plausible optics and shadows. Keep the supplied established world and physical designs. No title, panel label, shot ID, subtitles, dialogue, timestamp, watermark or production annotation is burned into the image. One natural held pose at the beginning of the described beat; do not try to show a whole shot’s duration or multiple actions in one image. Any dialogue supplied separately is performance context only and must never appear as words in the picture. Use only the specified visible cast; realistic feline/canine paws, no human fingers, extra limbs, merged bodies, duplicate faces or borrowed accessories. Reference sheets provide identity/material evidence only: never copy their panel layout, text or labels into this single frame. Wide exterior establishing frame of the resistance warehouse at night, from its southeast approach looking toward the south frontage. Cargo shutter closed; separate staff door immediately to its east appears FRAME RIGHT of the cargo opening. Keep east exhaust duct, west high windows, wet loading apron and dilapidated materials from LOC01 hero. Empty foreground, no cats/dogs/vehicles. This is one pre-entry frame, not a moving camera montage. \n\nREFERENCE SCOPE: Input 1: use the upper-left HERO and upper-right SOUTH ENTRANCE panels only for this single facade frame. No source sheet borders or labels.",
+    "medias": [
+      {
+        "role": "image",
+        "value": "45c5930e-0bed-4112-adf8-cea085d78798"
+      }
+    ]
+  },
+  "dependencies": [],
+  "dependency_status": "all_required_files_present_and_visually_inspected",
+  "expected_visible_actor_count": 0,
+  "expected_visible_roles": [],
+  "audio_alignment_file": "S01A-gpt26-v001.alignment.json",
+  "prompt_file": "S01A-gpt26-v001.prompt.txt",
+  "production_approved": false,
+  "higgsfield_audio_allowed": false,
+  "higgsfield_video_allowed": false,
+  "visual_qa": {
+    "asset_id": "S01A",
+    "visual_reviewed": true,
+    "status": "previs_still_review_pass",
+    "expected_actor_count": 0,
+    "observed_actor_count": 0,
+    "hard_actor_count_pass": true,
+    "anatomy_check": "No visible extra limbs, merged bodies or duplicate faces at review scale.",
+    "passes": [
+      "Empty warehouse exterior; closed cargo shutter and separate staff door frame-right.",
+      "East exhaust, upper windows, wet loading apron and source material identity preserved."
+    ],
+    "issues": [],
+    "production_approved": false,
+    "paid_retry_performed": false
+  }
+}

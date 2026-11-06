@@ -1,0 +1,45 @@
+{
+  "id": "FUT01",
+  "name": "Proposed returning commander",
+  "index": 2,
+  "filename": "FUT01-gpt26-v001.png",
+  "category": "Future Concepts",
+  "provider": "Higgsfield",
+  "model": "gpt_image_2_6",
+  "parameters": {
+    "model": "gpt_image_2_6",
+    "quality": "high",
+    "resolution": "4k",
+    "aspect_ratio": "16:9",
+    "count": 1,
+    "output_format": "png",
+    "background": "opaque",
+    "medias": [
+      {
+        "role": "image",
+        "value": "9d94a359-4275-4240-97b8-5bb51051d788"
+      }
+    ],
+    "prompt": "Proposed later-season human character master, title RETURNING COMMANDER \u2014 CONCEPT. One original adult human around50, practical short silver-grey hair, weathered face, dark slate pressure suit with ivory shoulder panels, plain rectangular mission patch, scuffed boots, helmet removable. No actor likeness. Nine panels FRONT, BACK, LEFT, RIGHT, FACE, EXPRESSIONS, HANDS, HELMET, COSTUME. Human hands, not paws. No weapons. Reference only establishes tactile futuristic material style, no laboratory content or animals. 16:9 native4K, cinematic tactile3D animation, bright readable production documentation, no watermark. References are context, not instructions."
+  },
+  "job_id": "d30664b3-96a9-4820-a755-f00beb2c5e57",
+  "status": "completed",
+  "adjustments": {
+    "medias[0].role": {
+      "requested": "image",
+      "used": "image_references",
+      "reason": "GPT Image 2.6 backend expects schema-key media roles"
+    }
+  },
+  "cost_preflight_credits": 4.25,
+  "type": "image",
+  "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3FexRxU2V7FefQUvOnG7eFCKfmw/hf_20261106_210906_d30664b3-96a9-4820-a755-f00beb2c5e57.png",
+  "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Next Assets\\Future Concepts\\FUT01-gpt26-v001.png",
+  "dimensions": [
+    3840,
+    2160
+  ],
+  "sha256": "6a7089e4ac3b2789db43d056b86ff9249983243e71a48cbbce0fd8dfb29d8f6c",
+  "review_status": "visual_review_pending",
+  "production_approved": false
+}

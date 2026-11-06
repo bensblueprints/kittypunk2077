@@ -1,0 +1,32 @@
+{
+  "id": "HQ09",
+  "status": "draft_floorplan_label_correction_needed",
+  "dimensions": [
+    3840,
+    2160
+  ],
+  "panels": 9,
+  "empty_set": true,
+  "checks_passed": [
+    "Long east-west corridor, three north and five south openings in elevations.",
+    "East end solid; west end single stair opening; no windows or cast.",
+    "Hero faces east to solid logo wall and reverse west to stairs.",
+    "A/B arrows east/west and north arrow present."
+  ],
+  "issues": [
+    {
+      "severity": "major",
+      "note": "North-up plan incorrectly copies the south-facing elevation's screen order: south labels left-to-right ELEVATORS, SECURITY, LOBBY, SERVER, R&D. In the north-up plan these must instead be R&D, SERVER, LOBBY, SECURITY, ELEVATORS at x9,17,27,36,44. Correct labels and their identities before any route blocking."
+    },
+    {
+      "severity": "major",
+      "note": "Elevator access is rendered as a lift-style door directly on corridor rather than a normal entrance into the dedicated elevator vestibule. Use the master suite connection, not a direct third lift."
+    },
+    {
+      "severity": "minor",
+      "note": "Door spacing and number visible in hero are approximate; OFFICE x7 is behind camera A x8 and must not be moved forward into that view."
+    }
+  ],
+  "topology_authority": "Saved master coordinates; this plan image is not topology authority.",
+  "paid_retry": false
+}

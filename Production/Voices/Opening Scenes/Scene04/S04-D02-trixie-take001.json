@@ -1,0 +1,45 @@
+{
+  "line_id": "S04-D02",
+  "scene": 4,
+  "role_id": "trixie",
+  "voice_id": "dmWfLQZJq7wNPv9WmtiM",
+  "voice_name": "Emma — Wry, Gritty Hero",
+  "text": "I think someone wants us to believe there is.",
+  "original_source_text_verbatim": "I think someone wants us to believe there is.",
+  "source_text_policy": "Exact current working dialogue; Goodboy Global approved normalization. Original master retained.",
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.35,
+    "similarity_boost": 0.8,
+    "style": 0.55,
+    "use_speaker_boost": true
+  },
+  "output_format": "mp3_44100_128",
+  "duration_sec": 2.136236,
+  "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Voices\\Opening Scenes\\Scene04\\S04-D02-trixie-take001.mp3",
+  "audio_relative_path": "Scene04/S04-D02-trixie-take001.mp3",
+  "alignment_file": "S04-D02-trixie-take001-alignment.json",
+  "headers": {
+    "request-id": "SCKlP3YePvoPgiwbBxVx",
+    "character-cost": "10"
+  },
+  "subscription_before": {
+    "character_count": 53352,
+    "character_limit": 83106,
+    "remaining_included_credits": 29754
+  },
+  "subscription_after": null,
+  "credits_observed_for_request": null,
+  "provider_reported_character_cost": 10,
+  "text_characters": 45,
+  "sha256": "3487a5bc76bab84c613a19538ac1d3bc52cf3188ff5e223af0ed31483f1e8ba1",
+  "status": "generated_review_take_not_final_approved",
+  "performance_approval": "not_approved",
+  "technical_qa": {
+    "ffprobe_decodes": true,
+    "duration_positive": true,
+    "provider_alignment_present": true,
+    "alignment_reconstructs_input": true
+  },
+  "created_utc": "2026-11-06T19:09:22.108846+00:00"
+}

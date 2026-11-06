@@ -1,0 +1,48 @@
+{
+  "line_id": "S02-D02",
+  "scene": 2,
+  "role_id": "byte",
+  "voice_id": "wo6udizrrtpIxWGp2qJk",
+  "voice_name": "Northern Terry",
+  "text": "Why do the dogs always have to interrupt our fun?",
+  "original_source_text_verbatim": "Why do the dogs always have to interrupt our fun?",
+  "source_text_policy": "Exact current working dialogue; Goodboy Global approved normalization. Original master retained.",
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.5,
+    "similarity_boost": 0.75,
+    "style": 0.15,
+    "use_speaker_boost": true
+  },
+  "output_format": "mp3_44100_128",
+  "duration_sec": 2.368435,
+  "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Voices\\Opening Scenes\\Scene02\\S02-D02-byte-take001.mp3",
+  "audio_relative_path": "Scene02/S02-D02-byte-take001.mp3",
+  "alignment_file": "S02-D02-byte-take001-alignment.json",
+  "headers": {
+    "request-id": "vcRmF6eMtF98i06EPqhR",
+    "character-cost": "11"
+  },
+  "subscription_before": {
+    "character_count": 53256,
+    "character_limit": 83106,
+    "remaining_included_credits": 29850
+  },
+  "subscription_after": {
+    "character_count": 53256,
+    "character_limit": 83106,
+    "remaining_included_credits": 29850
+  },
+  "credits_observed_for_request": 0,
+  "text_characters": 49,
+  "sha256": "135fa113457eae5347e65f7885f1a4cf2400d9d7588cbe56ae4c1571dff0aa7d",
+  "status": "generated_review_take_not_final_approved",
+  "performance_approval": "not_approved",
+  "technical_qa": {
+    "ffprobe_decodes": true,
+    "duration_positive": true,
+    "provider_alignment_present": true,
+    "alignment_reconstructs_input": true
+  },
+  "created_utc": "2026-11-06T19:07:53.022088+00:00"
+}

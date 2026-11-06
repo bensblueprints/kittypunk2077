@@ -1,0 +1,19 @@
+{
+  "voice_id": "TxWZERZ5Hc6h9dGxVmXa",
+  "name": "Jerry B. - Gruff and Gritty Commander",
+  "description": "A gruff, gritty, and authoritative military commander voice ideal for video games, trailers, simulations, and animation. Perfect for barking battlefield orders, delivering gritty motivational speeches, or commanding radio comms with raw intensity. This voice embodies toughness, discipline, and leadership \u2014 making it a strong fit for combat games, tactical strategy, war stories, and post-apocalyptic action settings.",
+  "labels": {
+    "accent": "american",
+    "use_case": "characters_animation",
+    "language": "en",
+    "age": "middle_aged",
+    "gender": "male",
+    "descriptive": "intense",
+    "locale": "en-US"
+  },
+  "category": "professional",
+  "status": "user_reserved_for_a_dog_character; assignment later",
+  "excluded_role": "Commander / Barkington",
+  "assigned_character": null,
+  "account_access": "confirmed"
+}

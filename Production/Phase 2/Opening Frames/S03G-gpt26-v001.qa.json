@@ -1,0 +1,16 @@
+{
+  "visual_reviewed": true,
+  "status": "previs_still_review_pass",
+  "hard_actor_count_pass": true,
+  "production_approved": false,
+  "paid_retry_performed": false,
+  "asset_id": "S03G",
+  "expected_actor_count": 1,
+  "observed_actor_count": 1,
+  "anatomy_check": "One Onyx face and upper shoulders; no extra anatomy.",
+  "passes": [
+    "Black fur, amber eyes, purple headphones and hood retained.",
+    "Deadpan glance to frame left; tight crop excludes neighboring places and controllers."
+  ],
+  "issues": []
+}

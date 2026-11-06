@@ -1,0 +1,33 @@
+{
+  "asset_id": "DOG05",
+  "name": "Domino",
+  "status": "review_draft_with_notes",
+  "checked_at_utc": "2026-11-06T19:43:02.926228+00:00",
+  "reviewed": true,
+  "production_approved": false,
+  "review_method": "Visual inspection of each saved full sheet, plus pixel/dimension verification and source comparison.",
+  "nine_main_panels": true,
+  "all_four_full_body_directions_present": true,
+  "no_bare_human_hands_observed": true,
+  "only_target_character_identity": true,
+  "reference_confidence": "Breed, colors and broad costume supported by original council overview; fine hidden details proposed.",
+  "rerun_authorized": false,
+  "paid_retry_performed": false,
+  "passes": [
+    "White-and-black spotted Dalmatian, floppy ears and long muzzle retained.",
+    "Black/gold corporate-military suit retained; complete front/back and both profiles.",
+    "Nine panels include face/expressions, furry spotted paws and a clear detached costume/accessory panel."
+  ],
+  "issues": [
+    {
+      "severity": "continuity_lock_before_face_closeups",
+      "category": "marking_consistency",
+      "note": "The source cannot establish every spot. Use one chosen face panel as the detailed spot-map authority; do not assume small spots are identical across all expression and distant-body renders."
+    },
+    {
+      "severity": "review_note",
+      "category": "inferred_design",
+      "note": "Exact lapel/shoulder insignia, tie, rear coat construction and hidden spots are proposed detailing, not recovered canon or an assigned rank."
+    }
+  ]
+}

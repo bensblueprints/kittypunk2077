@@ -1,0 +1,93 @@
+{
+  "updated_at": "2026-11-06T19:54:20.031815+00:00",
+  "category": "Setting Plates",
+  "provider": "Higgsfield",
+  "model": "gpt_image_2_6",
+  "media_type": "still_images_only",
+  "unique_asset_count": 4,
+  "saved_image_versions": 4,
+  "preflight_quote_credits": 17.0,
+  "actual_billed_credits": "not_independently_verified",
+  "production_approved_count": 0,
+  "jobs": [
+    {
+      "id": "SET01",
+      "filename": "SET01-lounge-rear-master-gpt26-v001.png",
+      "job_id": "33f0565d-8a2d-48a1-b9fc-06e3126aae62",
+      "cost_preflight_credits": 4.25,
+      "sha256": "6d9497f21b49b0e86be8fe1a5d2342adf92f8a90e87c2eb95f12888abe5addbd",
+      "dimensions": [
+        3840,
+        2160
+      ],
+      "qa": {
+        "status": "usable_composition_draft",
+        "passes": [
+          "Rear view: amber blanket left, grey right, five seat spaces, TV and console on north wall."
+        ],
+        "issues": [
+          "Console retains small legacy glyph; replace with PROP02 CatStation identity in scene close-ups."
+        ]
+      }
+    },
+    {
+      "id": "SET02",
+      "filename": "SET02-lounge-true-front-reverse-gpt26-v001.png",
+      "job_id": "a8de5630-f81b-4f05-b584-c87e28597935",
+      "cost_preflight_credits": 4.25,
+      "sha256": "4bc4255b44e8a0c5e81250a2d8c11c68ffeea3966be2f0a748cf4f23e27abb62",
+      "dimensions": [
+        3840,
+        2160
+      ],
+      "qa": {
+        "status": "usable_reverse_draft",
+        "passes": [
+          "Actual front five-cushion couch view, grey left/amber right, passage right, window left, TV behind camera absent."
+        ],
+        "issues": [
+          "Storage objects on previously unseen south wall are proposed set dressing."
+        ]
+      }
+    },
+    {
+      "id": "SET03",
+      "filename": "SET03-lair-desk-master-gpt26-v001.png",
+      "job_id": "2fc598ec-6515-4833-8193-b73c824c4562",
+      "cost_preflight_credits": 4.25,
+      "sha256": "2b6b1c23635fe1c4348105c395fd2bea8f4b8e6f456636155e839c74f83888e0",
+      "dimensions": [
+        3840,
+        2160
+      ],
+      "qa": {
+        "status": "usable_composition_draft",
+        "passes": [
+          "Five monitors and five chairs, two end racks, west post left/east toolbox right, empty."
+        ],
+        "issues": []
+      }
+    },
+    {
+      "id": "SET04",
+      "filename": "SET04-lair-true-reverse-gpt26-v001.png",
+      "job_id": "7988c00d-92a9-4e73-831e-6ac5fa13160f",
+      "cost_preflight_credits": 4.25,
+      "sha256": "6f89189f932c41109b4e9e13393b8d868a3d8d9b8eabef78bc827dd0a96423db",
+      "dimensions": [
+        3840,
+        2160
+      ],
+      "qa": {
+        "status": "usable_reverse_draft",
+        "passes": [
+          "Backs of five monitors, five chairs, west post right/east toolbox left, central worktable and empty aisle."
+        ],
+        "issues": [
+          "Server racks outside crop; do not infer rack geometry from this frame.",
+          "Previously unseen south warehouse dressing is proposed."
+        ]
+      }
+    }
+  ]
+}

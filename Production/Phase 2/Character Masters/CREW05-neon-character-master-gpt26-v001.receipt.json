@@ -1,0 +1,86 @@
+{
+  "asset_id": "CREW05",
+  "name": "Neon",
+  "status": "review_draft_identity_preserved",
+  "saved_at": "2026-11-06T19:20:27.210687+00:00",
+  "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Phase 2\\Character Masters\\CREW05-neon-character-master-gpt26-v001.png",
+  "job_id": "0c466b0b-44c3-41d7-bd9b-d67f481fffad",
+  "model": "gpt_image_2_6",
+  "provider": "Higgsfield",
+  "requested_quality": "high",
+  "requested_resolution": "4k",
+  "requested_aspect_ratio": "16:9",
+  "actual_dimensions": [
+    3840,
+    2160
+  ],
+  "file_format": "PNG",
+  "size_bytes": 9959096,
+  "sha256": "c59f876dfb3540bb9dcad40e9e2c5b03b252d6ac28e38604dec10416e53d298e",
+  "quote_credits": 4.25,
+  "actual_billed_credits": "not_independently_verified",
+  "budget_lease_credits": 26,
+  "batch_max_jobs": 6,
+  "reference_paths": [
+    "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Characters\\Trixie\\trixie-catgirl-crew-character-sheet-v001.png",
+    "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Recovered References\\Neon\\portrait.png"
+  ],
+  "reference_media_ids": [
+    "39642dd3-bdb7-4c07-9a18-9495fd1e4106",
+    "978d860e-a193-47a1-843c-a8aec05157af"
+  ],
+  "voice_metadata_only": "Ryan",
+  "voice_printed_on_sheet": false,
+  "prompt_file": "CREW05-neon-character-master-gpt26-v001.prompt.txt",
+  "generation_params": {
+    "model": "gpt_image_2_6",
+    "prompt": "Create a reusable animation production CHARACTER IDENTITY MASTER reference sheet, 3840 x 2160 landscape 16:9, exactly nine clearly separated panels in a regular 3 x 3 grid. Short clean header: \"CREW05 — NEON\". This is ONE established individual shown repeatedly, not a group, not a new design. Character age 16, youthful fully clothed anthropomorphic cat. Preserve the supplied original identity and costume exactly. IDENTITY LOCK: Male silver-grey tabby with white muzzle, pink nose, striped grey tail, amber eyes visible through the cyan/blue AR visor, blue patterned scarf, blue/cyan engineer equipment and tool rig with dark utility clothes and boots. Match exact existing compact youth proportions, fur stripes, scarf pattern, visor outline and backpack/tool rig. Reference 1 ONLY NEON section at bottom right is authoritative; Reference 2 is his same close-up. No borrowed hood or headphones.\n\nVISUAL STYLE: rich realistic fur, expressive stylized cinematic cyberpunk character rendering and physically convincing worn fabric, leather, metal, glass. Neutral charcoal-grey studio backdrop and soft balanced key/fill lighting in ALL panels; small palette-correct practical glow, restrained rim light so all surfaces and fur are readable. No city backgrounds, no neon architecture, no dramatic scene, no cinematic cropping.\n\nLAYOUT / DELIVERABLES, read left-to-right:\n1 FRONT: full body neutral relaxed A-pose, straight frontal orthographic-like view, ears to boots with ample margins.\n2 BACK: matching full body directly from rear, show exact tail attachment, back seams, equipment, boots. Same scale and outfit.\n3 LEFT PROFILE: character's left side, head faces image left, exact side view full body.\n4 RIGHT PROFILE: character's right side, head faces image right, exact opposite profile full body; rotate the actual design, NEVER mirror asymmetric markings/equipment.\n5 FACE: large three-quarter head-and-shoulders identity close-up, signature eyewear or headphones and face clearly readable.\n6 EXPRESSIONS: four clean bust close-ups of this same face: neutral, focused, amused, alarmed. Keep costume and worn eyewear unchanged. No new face design.\n7 CONTROLLER GRIP: close-up of both correctly articulated feline paws holding a simple black twin-stick game controller, readable claw/finger placement, wrists continue into correct costume sleeves.\n8 LAPTOP GRIP: waist-up view and paw close-up, one paw supporting a slim black closed/partly-open laptop while other paw uses keyboard/trackpad. Screen blank. Maintain same physical paw anatomy and costume.\n9 COSTUME / ACCESSORIES: isolated laid-out fixed outfit and exact signature accessories, reference-matched front/back garment details, material/colour swatches. This is a breakdown of the SAME outfit worn in panels 1-8, NOT wardrobe alternatives.\n\nOnly short panel labels. No biographies, no voice names/IDs, no product slogans, no watermarks, no other characters. Every full body shows both arms, both legs, both ears and the complete tail if present. Preserve species, fur pattern, eye colour, cheek markings, goggle/headphone geometry and faction palette, fixed costume seam placement and accessories in all nine panels. Keep anatomical left/right consistent. No human skin or human hands, no extra digits/limbs, no duplicate tails, no alternate clothing, no sexualization.",
+    "quality": "high",
+    "resolution": "4k",
+    "aspect_ratio": "16:9",
+    "count": 1,
+    "output_format": "png",
+    "background": "opaque",
+    "medias": [
+      {
+        "role": "image",
+        "value": "39642dd3-bdb7-4c07-9a18-9495fd1e4106"
+      },
+      {
+        "role": "image",
+        "value": "978d860e-a193-47a1-843c-a8aec05157af"
+      }
+    ]
+  },
+  "generation_status": "completed",
+  "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3FexRxU2V7FefQUvOnG7eFCKfmw/hf_20261106_191850_0c466b0b-44c3-41d7-bd9b-d67f481fffad.png",
+  "source_hashes": {
+    "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Characters\\Trixie\\trixie-catgirl-crew-character-sheet-v001.png": "92693b403069684c8f692d567ce0f6145e8b42f66c488269e0c3610221082f10",
+    "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Recovered References\\Neon\\portrait.png": "41579a6723f00792120f57ce0c8dfd4de49cb1206afc62bbfb0748ebfa267f67"
+  },
+  "visual_qa": {
+    "asset_id": "CREW05",
+    "status": "review_draft_identity_preserved",
+    "visual_reviewed": true,
+    "passes": [
+      "Silver-grey tabby identity, white muzzle, amber eyes, blue visor and patterned blue scarf retained.",
+      "Regular 3×3 layout with all nine requested sections.",
+      "Four full-body orientations, engineer backpack/tool rig, matching utility outfit and striped tail.",
+      "Expressions and controller/laptop grips readable; youth design remains fully clothed and unsexualized."
+    ],
+    "issues": [
+      {
+        "severity": "minor",
+        "type": "prop_dependency",
+        "note": "Controller/laptop are grip proxies. Use PROP03 for exact five-controller scene identity."
+      },
+      {
+        "severity": "minor",
+        "type": "continuity",
+        "note": "Scarf pattern, visor micrographics and small toolkit seams vary; use the clean face and fixed front/back views when building a stable model."
+      }
+    ],
+    "production_approved": false,
+    "rerender_requested": false
+  }
+}

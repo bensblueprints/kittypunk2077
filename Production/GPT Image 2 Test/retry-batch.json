@@ -1,0 +1,32 @@
+{
+  "max_requests": 5,
+  "listed_price_usd": 0.04,
+  "maximum_list_price_usd": 0.2,
+  "attempts": [
+    {
+      "attempt": 1,
+      "status": "error",
+      "error": "HTTP 403: {\"error\":{\"message\":\"Upstream request failed. Please try again later. (request id: 202611061655315806211688268d9d6GBiJc0CR)\",\"type\":\"upstream_error\",\"param\":\"\",\"code\":\"upstream_error\"}}"
+    },
+    {
+      "attempt": 2,
+      "status": "error",
+      "error": "HTTP 403: {\"error\":{\"message\":\"Upstream request failed. Please try again later. (request id: 202611061655339577310368268d9d6YB89sFhy)\",\"type\":\"upstream_error\",\"param\":\"\",\"code\":\"upstream_error\"}}"
+    },
+    {
+      "attempt": 3,
+      "status": "error",
+      "error": "HTTP 403: {\"error\":{\"message\":\"Upstream request failed. Please try again later. (request id: 202611061655364030835638268d9d6NywdBQcB)\",\"type\":\"upstream_error\",\"param\":\"\",\"code\":\"upstream_error\"}}"
+    },
+    {
+      "attempt": 4,
+      "status": "error",
+      "error": "HTTP 403: {\"error\":{\"message\":\"Upstream request failed. Please try again later. (request id: 202611061655387504739218268d9d6YEz36XCZ)\",\"type\":\"upstream_error\",\"param\":\"\",\"code\":\"upstream_error\"}}"
+    },
+    {
+      "attempt": 5,
+      "status": "error",
+      "error": "HTTP 403: {\"error\":{\"message\":\"Upstream request failed. Please try again later. (request id: 202611061655411231027158268d9d6eTU21kpv)\",\"type\":\"upstream_error\",\"param\":\"\",\"code\":\"upstream_error\"}}"
+    }
+  ]
+}

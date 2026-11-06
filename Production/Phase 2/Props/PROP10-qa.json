@@ -1,0 +1,11 @@
+{
+  "status": "usable_review_draft_v002",
+  "passes": [
+    "Bone has two wheels, lens, speaker, cyan accent and remote."
+  ],
+  "issues": [
+    "v002 removes corporate logos from bone, remote and header. v001 retained as historical only."
+  ],
+  "production_approved": false,
+  "reviewed_at": "2026-11-06T19:54:19.775962+00:00"
+}

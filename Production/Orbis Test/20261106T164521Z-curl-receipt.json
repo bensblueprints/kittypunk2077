@@ -1,0 +1,7 @@
+{
+  "http_status": "403",
+  "client": "curl documented request",
+  "images": [],
+  "actual_usd": null,
+  "error": "{\"error\": {\"message\": \"Upstream request failed. Please try again later. (request id: 202611061645311398454408268d9d6iHpwxyhO)\", \"type\": \"upstream_error\", \"param\": \"\", \"code\": \"upstream_error\"}}"
+}

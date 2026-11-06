@@ -1,0 +1,33 @@
+{
+  "asset_id": "DOG03",
+  "name": "Stone",
+  "status": "review_draft_with_notes",
+  "checked_at_utc": "2026-11-06T19:43:02.594379+00:00",
+  "reviewed": true,
+  "production_approved": false,
+  "review_method": "Visual inspection of each saved full sheet, plus pixel/dimension verification and source comparison.",
+  "nine_main_panels": true,
+  "all_four_full_body_directions_present": true,
+  "no_bare_human_hands_observed": true,
+  "only_target_character_identity": true,
+  "reference_confidence": "Breed, colors and broad costume supported by original council overview; fine hidden details proposed.",
+  "rerun_authorized": false,
+  "paid_retry_performed": false,
+  "passes": [
+    "Stocky tan/white English Bulldog, folded ears, wrinkles and heavy jowls retained.",
+    "Dark/gold suit with white shirt and gold tie retained.",
+    "Nine panels with complete directional bodies, expression changes and paw/costume detail."
+  ],
+  "issues": [
+    {
+      "severity": "continuity_lock_before_paw_closeups",
+      "category": "marking_consistency",
+      "note": "Tan/white paw coloring varies across front, side/back and close-up references. Select one consistent left/right paw mapping before interaction close-ups; do not mix these markings between shots."
+    },
+    {
+      "severity": "review_note",
+      "category": "inferred_design",
+      "note": "Exact rear seam/vent, tail, shoulder hardware and paw marking resolution remain proposed from low-resolution source."
+    }
+  ]
+}

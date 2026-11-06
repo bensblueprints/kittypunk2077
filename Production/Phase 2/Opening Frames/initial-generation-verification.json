@@ -1,0 +1,35 @@
+{
+  "verified_at": "2026-11-06T20:13:40.510552+00:00",
+  "scope": "Original 28 v001 opening stills only; separately authorized v002 corrections are not charged to this lease and await root reconciliation.",
+  "files_verified": 28,
+  "dimensions": [
+    3840,
+    2160
+  ],
+  "unique_provider_jobs": 28,
+  "quoted_credits": 119,
+  "lease_credits": 119,
+  "paid_retries_in_this_lease": 0,
+  "hashes_prompts_sources_and_sidecars_verified": true,
+  "existing_audio_paths_verified": 12,
+  "visual_status_counts": {
+    "previs_still_review_pass": 15,
+    "previs_still_review_with_accessory_note": 1,
+    "previs_graphic_requires_clean_overlay_base": 1,
+    "previs_still_review_with_continuity_notes": 5,
+    "previs_still_hold_continuity_correction": 1,
+    "previs_still_hold_identity_correction": 1,
+    "previs_still_hold_framing_continuity": 4
+  },
+  "held_original_ids": [
+    "S03A",
+    "S01E",
+    "S01F",
+    "S01G",
+    "S01H",
+    "S02C"
+  ],
+  "production_approved_count": 0,
+  "higgsfield_video_or_audio_generated": false,
+  "actual_billed_credits": "not independently verified"
+}

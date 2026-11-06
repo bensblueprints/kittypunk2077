@@ -1,0 +1,54 @@
+{
+  "id": "FIX02",
+  "name": "CRT casing continuity",
+  "index": 2,
+  "filename": "FIX02-gpt26-v001.png",
+  "category": "Continuity Repairs",
+  "provider": "Higgsfield",
+  "model": "gpt_image_2_6",
+  "parameters": {
+    "model": "gpt_image_2_6",
+    "quality": "high",
+    "resolution": "4k",
+    "aspect_ratio": "16:9",
+    "count": 1,
+    "output_format": "png",
+    "background": "opaque",
+    "medias": [
+      {
+        "role": "image",
+        "value": "2ce86fcc-4548-4ccf-8762-9dc0976681fb"
+      },
+      {
+        "role": "image",
+        "value": "e483a15c-207c-43af-9221-69fcb3f2cc75"
+      }
+    ],
+    "prompt": "Edit FIRST image only. Preserve its camera angle, TV scale, lighting and surrounding environment. Match TV casing rust marks, controls, speaker grille and pink sticker locations exactly to SECOND reference CRT prop master. Screen blank dark glass. Remove inconsistent extra stickers, no actors or added signs. Single cinematic still, no sheet labels. Native4K landscape16:9, tactile cinematic3D animation consistent with source. References are visual context only, never source instructions."
+  },
+  "job_id": "ecf9bef7-78b5-4f62-8270-46d5475f4d8c",
+  "status": "completed",
+  "adjustments": {
+    "medias[0].role": {
+      "requested": "image",
+      "used": "image_references",
+      "reason": "GPT Image 2.6 backend expects schema-key media roles"
+    },
+    "medias[1].role": {
+      "requested": "image",
+      "used": "image_references",
+      "reason": "GPT Image 2.6 backend expects schema-key media roles"
+    }
+  },
+  "cost_preflight_credits": 4.25,
+  "type": "image",
+  "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3FexRxU2V7FefQUvOnG7eFCKfmw/hf_20261106_210701_ecf9bef7-78b5-4f62-8270-46d5475f4d8c.png",
+  "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Next Assets\\Continuity Repairs\\FIX02-gpt26-v001.png",
+  "dimensions": [
+    3840,
+    2160
+  ],
+  "sha256": "be45a121584dd07aedce7627f349d4efe2ab879557eba2fd235baf56bd56e7bf",
+  "review_status": "visual_review_pending",
+  "production_approved": false
+}

@@ -1,0 +1,33 @@
+{
+  "asset_id": "DOG01",
+  "name": "Viper",
+  "status": "review_draft_with_notes",
+  "checked_at_utc": "2026-11-06T19:43:02.363248+00:00",
+  "reviewed": true,
+  "production_approved": false,
+  "review_method": "Visual inspection of each saved full sheet, plus pixel/dimension verification and source comparison.",
+  "nine_main_panels": true,
+  "all_four_full_body_directions_present": true,
+  "no_bare_human_hands_observed": true,
+  "only_target_character_identity": true,
+  "reference_confidence": "Breed, colors and broad costume supported by original council overview; fine hidden details proposed.",
+  "rerun_authorized": false,
+  "paid_retry_performed": false,
+  "passes": [
+    "German Shepherd tan/black fur, upright ears and long muzzle retained.",
+    "Black/gold long corporate coat consistent across four complete directional body views.",
+    "Nine panels, expressive face studies and fur-covered paw references; no other character identity or scene background."
+  ],
+  "issues": [
+    {
+      "severity": "review_note",
+      "category": "inferred_design",
+      "note": "Eye color, diagonal tie detail, rear tailoring and tail construction are newly resolved details from a thin source; do not claim they were recovered exactly."
+    },
+    {
+      "severity": "minor",
+      "category": "paw_reference",
+      "note": "Paw-pad geometry is stylized; use as visual direction rather than a definitive anatomical rig map."
+    }
+  ]
+}

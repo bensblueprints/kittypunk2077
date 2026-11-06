@@ -1,0 +1,13 @@
+{
+  "authorized_additional_credits": 1000,
+  "prior_unspent_image_allowance": 160,
+  "available_for_next_pass": 1160,
+  "provider": "Higgsfield GPT Image 2.6 still images only",
+  "speech_provider": "User ElevenLabs account only",
+  "authorization": "User: we can use another 1000 credits if needed go all out",
+  "date": "2026-11-07",
+  "quoted_spend_this_pass": 153.0,
+  "scope": "All requested next-pilot assets, continuity repairs and useful reference coverage; do not spend the cap merely to exhaust it.",
+  "quote_remaining": 1007.0,
+  "actual_billed_credits": null
+}

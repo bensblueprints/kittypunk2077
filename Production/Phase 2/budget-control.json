@@ -1,0 +1,156 @@
+{
+  "phase": "Phase 2",
+  "authorized_cap_credits": 500,
+  "previous_location_phase_separate": true,
+  "provider_rules": {
+    "images": "Higgsfield GPT Image 2.6",
+    "speech": "User ElevenLabs account only",
+    "higgsfield_audio_allowed": false,
+    "higgsfield_video_allowed": false
+  },
+  "root_submitted_quote": 80.75,
+  "root_unallocated_remaining": 160.0,
+  "reserved_agent_credit_caps": {},
+  "root_jobs": [
+    {
+      "id": "PROP01",
+      "job_id": "e483a15c-207c-43af-9221-69fcb3f2cc75",
+      "status": "completed",
+      "quoted_credits": 4.25,
+      "filename": "PROP01-hideout-crt-television-v001.png"
+    },
+    {
+      "id": "PROP02",
+      "job_id": "23aca75c-f31d-44b6-9357-70c57ec0aa7b",
+      "status": "completed",
+      "quoted_credits": 4.25,
+      "filename": "PROP02-catstation-5-console-v001.png"
+    },
+    {
+      "id": "PROP03",
+      "job_id": "b52eeb43-35ec-4697-b57f-ae853fd80b1d",
+      "status": "completed",
+      "quoted_credits": 4.25,
+      "filename": "PROP03-five-crew-controllers-gpt26-v001.png"
+    },
+    {
+      "id": "PROP04",
+      "job_id": "1a046e54-c3a8-4e64-bbe4-ef4474c50980",
+      "status": "completed",
+      "quoted_credits": 4.25,
+      "filename": "PROP04-lounge-couch-six-views-gpt26-v001.png"
+    },
+    {
+      "id": "PROP05",
+      "job_id": "4a6faa5b-2928-4eb3-a2ab-9ffce8f43b1a",
+      "status": "completed",
+      "quoted_credits": 4.25,
+      "filename": "PROP05-newspaper-blank-physical-master-gpt26-v001.png"
+    },
+    {
+      "id": "PROP06",
+      "job_id": "c11466e2-3ccc-4b63-b87c-82cf67d20451",
+      "status": "completed",
+      "quoted_credits": 4.25,
+      "filename": "PROP06-catnip-times-warning-frontpage-gpt26-v001.png"
+    },
+    {
+      "id": "PROP08",
+      "job_id": "5fea34ca-2278-4d38-b9c2-79350ad7ff13",
+      "status": "completed",
+      "quoted_credits": 4.25,
+      "filename": "PROP08-salmon-packs-price-notice-gpt26-v001.png"
+    },
+    {
+      "id": "PROP09",
+      "job_id": "1504fbbc-11c7-4c74-a88e-3c00084d4515",
+      "status": "completed",
+      "quoted_credits": 4.25,
+      "filename": "PROP09-byte-price-scanner-gpt26-v001.png"
+    },
+    {
+      "id": "PROP10",
+      "job_id": "7b12ccbe-3e6b-4c57-94c6-37815b94f724",
+      "status": "completed",
+      "quoted_credits": 4.25,
+      "filename": "PROP10-bone-decoy-remote-gpt26-v001.png"
+    },
+    {
+      "id": "PROP11",
+      "job_id": "c9a1e54d-3b4f-469c-96d2-27950a7eb350",
+      "status": "completed",
+      "quoted_credits": 4.25,
+      "filename": "PROP11-goodboy-badge-evidence-docs-gpt26-v001.png"
+    },
+    {
+      "id": "PROP12",
+      "job_id": "1c250ec2-a57b-43e1-8f2d-b91ea9c7bcb9",
+      "status": "completed",
+      "quoted_credits": 4.25,
+      "filename": "PROP12-hackpad-datachip-gpt26-v001.png"
+    },
+    {
+      "id": "PROP04",
+      "job_id": "bd899a44-f901-49aa-ba1e-2daa08669bdb",
+      "status": "completed",
+      "quoted_credits": 4.25,
+      "filename": "PROP04-lounge-couch-six-views-gpt26-v002.png"
+    },
+    {
+      "id": "SET01",
+      "job_id": "33f0565d-8a2d-48a1-b9fc-06e3126aae62",
+      "status": "completed",
+      "quoted_credits": 4.25,
+      "filename": "SET01-lounge-rear-master-gpt26-v001.png"
+    },
+    {
+      "id": "SET03",
+      "job_id": "2fc598ec-6515-4833-8193-b73c824c4562",
+      "status": "completed",
+      "quoted_credits": 4.25,
+      "filename": "SET03-lair-desk-master-gpt26-v001.png"
+    },
+    {
+      "id": "PROP07",
+      "job_id": "6b5a3e04-4df3-4e24-9d49-38cd320eaca6",
+      "status": "completed",
+      "quoted_credits": 4.25,
+      "filename": "PROP07-catnip-times-expose-frontpage-gpt26-v001.png"
+    },
+    {
+      "id": "SET02",
+      "job_id": "a8de5630-f81b-4f05-b584-c87e28597935",
+      "status": "completed",
+      "quoted_credits": 4.25,
+      "filename": "SET02-lounge-true-front-reverse-gpt26-v001.png"
+    },
+    {
+      "id": "SET04",
+      "job_id": "7988c00d-92a9-4e73-831e-6ac5fa13160f",
+      "status": "completed",
+      "quoted_credits": 4.25,
+      "filename": "SET04-lair-true-reverse-gpt26-v001.png"
+    },
+    {
+      "id": "PROP09",
+      "job_id": "839d8434-569a-453c-b512-754a869c35b4",
+      "status": "completed",
+      "quoted_credits": 4.25,
+      "filename": "PROP09-byte-price-scanner-gpt26-v002.png"
+    },
+    {
+      "id": "PROP10",
+      "job_id": "26c82ed5-b981-4a81-8ed7-fea4484b8c76",
+      "status": "completed",
+      "quoted_credits": 4.25,
+      "filename": "PROP10-bone-decoy-remote-gpt26-v002.png"
+    }
+  ],
+  "note": "All phase jobs completed and reservations released; the total includes saved historical revisions. Preflight quotes, not verified account billing.",
+  "final_snapshot_utc": "2026-11-06T20:15:10.331979+00:00",
+  "all_saved_jobs_quoted": 340.0,
+  "remaining_against_authorization": 160.0,
+  "final_billing_independently_verified": false,
+  "ledger_source": "production-snapshot.json",
+  "reservations_reconciled": true
+}

@@ -1,0 +1,34 @@
+{
+  "asset_id": "S01E",
+  "version": "v002",
+  "visual_reviewed": true,
+  "reviewed_at": "2026-11-06T20:11:59.869238+00:00",
+  "status": "targeted_correction_pass_review_draft",
+  "production_approved": false,
+  "actual_dimensions": [
+    3840,
+    2160
+  ],
+  "hard_actor_count_pass": true,
+  "paid_retry_count": 0,
+  "shared_manifest_modified": false,
+  "visible_actor_count": 2,
+  "visible_roles": [
+    "Byte",
+    "Trixie"
+  ],
+  "visible_controller_count": 2,
+  "passes": [
+    "Exactly two cats: Byte frame-left and Trixie frame-right; original mutual eyelines retained.",
+    "Trixie circuit only on anatomical RIGHT, the picture-left/far cheek toward Byte, matching the inspected master orientation.",
+    "Anatomical left/picture-right cheek is clean white fur; duplicated near-cheek circuit removed.",
+    "Blue eyes, white fur, pink nose and black/magenta jacket retained; Byte sunglasses, orange fur and headphones retained.",
+    "Two controllers remain in paws with amber and magenta accents; no additional actor or controller.",
+    "Both end blankets excluded."
+  ],
+  "minor_notes": [
+    "A narrow outer couch-back area remains beside each cat; the two-shot was not converted to an extreme portrait.",
+    "Far-cheek circuit is foreshortened by the existing head turn; only the visible portion can be assessed.",
+    "Generative edit is not a pixel-identical local patch."
+  ]
+}

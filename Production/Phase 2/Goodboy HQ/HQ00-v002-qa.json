@@ -1,0 +1,29 @@
+{
+  "id": "HQ00",
+  "version": "v002",
+  "status": "preferred_partial_correction_not_empty_set_approved",
+  "preferred_over": "v001",
+  "empty_set": false,
+  "dimensions": [
+    3840,
+    2160
+  ],
+  "fixed": [
+    "CEO portraits replaced by blank framed backing in main inset/cutaways.",
+    "Corridor elevator link now shows ordinary vestibule entrance.",
+    "Master plan adds vestibule distinction and A/B east-west arrows."
+  ],
+  "remaining_issues": [
+    {
+      "severity": "major",
+      "note": "R&D inset still contains unmistakable animal silhouettes inside at least the first two cylinders. Do not use this sheet as an empty-set or character reference."
+    },
+    {
+      "severity": "moderate",
+      "note": "Some small lab/security screens remain lit blue instead of uniformly blank."
+    }
+  ],
+  "usage": "Preferred v002 for overview/materials only. Exact text coordinates govern. Use separate empty HQ04 chamber design for any lab imagery. Do not propagate HQ00 into further generation.",
+  "paid_revision_attempts": 1,
+  "automatic_retry": false
+}

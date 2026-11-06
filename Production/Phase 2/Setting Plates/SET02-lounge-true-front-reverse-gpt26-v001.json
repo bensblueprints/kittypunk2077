@@ -1,0 +1,57 @@
+{
+  "id": "SET02",
+  "name": "Lounge true front reverse",
+  "filename": "SET02-lounge-true-front-reverse-gpt26-v001.png",
+  "category": "Setting Plates",
+  "parameters": {
+    "model": "gpt_image_2_6",
+    "quality": "high",
+    "resolution": "4k",
+    "aspect_ratio": "16:9",
+    "count": 1,
+    "output_format": "png",
+    "background": "opaque",
+    "prompt": "Create ONE single cinematic16:9 still frame, requested3840x2160, high detail. This is a clean animation start frame, not a contact sheet, grid, storyboard page, split screen or sequence. Use tactile cinematic3D cyberpunk animation: readable fur and fabrics, weathered metal/brick/concrete, restrained cyan/magenta practical light and warm amber lamps, plausible optics and shadows. Keep the supplied established world and physical designs. No title, panel label, shot ID, subtitles, dialogue, timestamp, watermark or production annotation is burned into the image. One natural held pose at the beginning of the described beat; do not try to show a whole shot’s duration or multiple actions in one image. Any dialogue supplied separately is performance context only and must never appear as words in the picture. Use only the specified visible cast; realistic feline/canine paws, no human fingers, extra limbs, merged bodies, duplicate faces or borrowed accessories. Reference sheets provide identity/material evidence only: never copy their panel layout, text or labels into this single frame. Physical continuity: north wall has the ONE CRT with exactly two knobs on its own right and ONE CatStation5 above it. The patched brown couch faces north toward that television. The outside/emblem back is south. The west-side southwest passage is fixed. There are exactly FIVE seat cushions. The AMBER blanket is physically WEST, and the GREY blanket physically EAST: rear view amber FRAME LEFT/grey FRAME RIGHT; true front reverse grey FRAME LEFT/amber FRAME RIGHT. Keep the resistance cat emblem on the outside couch back only; no Goodboy Global branding on the couch. In the rear view toward the TV, banner is frame-left and the industrial window frame-right. In the true front reverse from the TV looking south, west/southwest passage is frame-RIGHT, east/window side frame-LEFT, and the TV/console are behind the camera, absent from the image. EMPTY SET, genuine opposite camera. Place camera at the TV position north of the sofa, looking SOUTH directly toward the FRONT of the same couch. See the open seat cushion surfaces, front seat edge and inner front of both armrests; the outside rear emblem is on the far side and cannot be visible. The couch front sits centrally, large enough for five later actors. The southwest passage MUST be at FRAME RIGHT on the west side. A narrow portion of the original east window wall may enter far FRAME LEFT; do not place that window behind the couch on the south wall. No television, TV screen, second console or north-wall banner anywhere in this reverse; they are all behind the lens. Offscreen TV light can fall softly on the cushions from camera direction. Preserve the same fixed wear/blanket positions and plain south brick surface. Derive geometry from SET01 plus PROP04 front/back views and the canonical rear source. Do not mirror the rear photograph; do not reuse LOC02’s defective SOUTH panel.\nFor PROP04 couch use only corrected FRONT/BACK/SIDE views; ignore the top-view north arrow. Use explicit camera-relative LEFT and RIGHT in the brief. This reverse sees the actual opposite side, not a horizontal mirror of the original view.",
+    "medias": [
+      {
+        "role": "image",
+        "value": "2d5dc750-c647-48b9-8ea9-347fca4f10cd"
+      },
+      {
+        "role": "image",
+        "value": "0f7f5150-d119-4c41-a621-bc0ce59be580"
+      },
+      {
+        "role": "image",
+        "value": "33f0565d-8a2d-48a1-b9fc-06e3126aae62"
+      },
+      {
+        "role": "image",
+        "value": "bd899a44-f901-49aa-ba1e-2daa08669bdb"
+      }
+    ]
+  },
+  "reference_paths": [
+    "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Imported References\\couch-rear-blank-tv.png",
+    "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Location Sheets GPT Image 2.6\\LOC02-resistance-warehouse-lounge-gpt26-v001.png",
+    "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Phase 2\\Setting Plates\\SET01-lounge-rear-master-gpt26-v001.png",
+    "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Phase 2\\Props\\PROP04-lounge-couch-six-views-gpt26-v002.png"
+  ],
+  "cost_preflight_credits": 4.25,
+  "provider": "Higgsfield",
+  "model": "gpt_image_2_6",
+  "job_id": "a8de5630-f81b-4f05-b584-c87e28597935",
+  "status": "completed",
+  "index": 0,
+  "type": "image",
+  "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3FexRxU2V7FefQUvOnG7eFCKfmw/hf_20261106_194124_a8de5630-f81b-4f05-b584-c87e28597935.png",
+  "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Phase 2\\Setting Plates\\SET02-lounge-true-front-reverse-gpt26-v001.png",
+  "dimensions": [
+    3840,
+    2160
+  ],
+  "sha256": "4bc4255b44e8a0c5e81250a2d8c11c68ffeea3966be2f0a748cf4f23e27abb62",
+  "saved_at": "2026-11-06T19:47:23.860211+00:00",
+  "review_status": "awaiting visual QA",
+  "staged_file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\work\\phase2\\generated\\SET02-lounge-true-front-reverse-gpt26-v001.png"
+}

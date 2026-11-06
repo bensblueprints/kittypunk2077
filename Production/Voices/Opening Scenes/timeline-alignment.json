@@ -1,0 +1,175 @@
+{
+  "status": "measured_audio_to_existing_shot_plan",
+  "placements": [
+    {
+      "line_id": "S02-D01",
+      "scene": 2,
+      "shot_ids": [
+        "S02-03"
+      ],
+      "audio_file": "Scene02/S02-D01-trixie-take001.mp3",
+      "duration_sec": 1.950476,
+      "suggested_scene_start_sec": 11.5,
+      "suggested_scene_end_sec": 13.450476,
+      "fits_primary_shot_estimate": true,
+      "placement_status": "provisional_edit_position_not_final_picture_sync",
+      "note": "Shared shot references are alternate coverage of one performance, not repeated playback."
+    },
+    {
+      "line_id": "S02-D02",
+      "scene": 2,
+      "shot_ids": [
+        "S02-04"
+      ],
+      "audio_file": "Scene02/S02-D02-byte-take001.mp3",
+      "duration_sec": 2.368435,
+      "suggested_scene_start_sec": 19.5,
+      "suggested_scene_end_sec": 21.868434999999998,
+      "fits_primary_shot_estimate": true,
+      "placement_status": "provisional_edit_position_not_final_picture_sync",
+      "note": "Shared shot references are alternate coverage of one performance, not repeated playback."
+    },
+    {
+      "line_id": "S02-D03",
+      "scene": 2,
+      "shot_ids": [
+        "S02-05"
+      ],
+      "audio_file": "Scene02/S02-D03-neon-take001.mp3",
+      "duration_sec": 2.229116,
+      "suggested_scene_start_sec": 26.5,
+      "suggested_scene_end_sec": 28.729116,
+      "fits_primary_shot_estimate": true,
+      "placement_status": "provisional_edit_position_not_final_picture_sync",
+      "note": "Shared shot references are alternate coverage of one performance, not repeated playback."
+    },
+    {
+      "line_id": "S02-D04",
+      "scene": 2,
+      "shot_ids": [
+        "S02-06"
+      ],
+      "audio_file": "Scene02/S02-D04-onyx-take001.mp3",
+      "duration_sec": 4.179592,
+      "suggested_scene_start_sec": 33.5,
+      "suggested_scene_end_sec": 37.679592,
+      "fits_primary_shot_estimate": true,
+      "placement_status": "provisional_edit_position_not_final_picture_sync",
+      "note": "Shared shot references are alternate coverage of one performance, not repeated playback."
+    },
+    {
+      "line_id": "S02-D05",
+      "scene": 2,
+      "shot_ids": [
+        "S02-07"
+      ],
+      "audio_file": "Scene02/S02-D05-ghost-take001.mp3",
+      "duration_sec": 1.671837,
+      "suggested_scene_start_sec": 43.5,
+      "suggested_scene_end_sec": 45.171837,
+      "fits_primary_shot_estimate": true,
+      "placement_status": "provisional_edit_position_not_final_picture_sync",
+      "note": "Shared shot references are alternate coverage of one performance, not repeated playback."
+    },
+    {
+      "line_id": "S03-D01",
+      "scene": 3,
+      "shot_ids": [
+        "S03-02",
+        "S03-03"
+      ],
+      "audio_file": "Scene03/S03-D01-chairman_barkington-take001.mp3",
+      "duration_sec": 13.467574,
+      "suggested_scene_start_sec": 5.5,
+      "suggested_scene_end_sec": 18.967574,
+      "fits_primary_shot_estimate": true,
+      "placement_status": "provisional_edit_position_not_final_picture_sync",
+      "note": "Shared shot references are alternate coverage of one performance, not repeated playback."
+    },
+    {
+      "line_id": "S03-D02",
+      "scene": 3,
+      "shot_ids": [
+        "S03-05"
+      ],
+      "audio_file": "Scene03/S03-D02-byte-take001.mp3",
+      "duration_sec": 2.321995,
+      "suggested_scene_start_sec": 46.5,
+      "suggested_scene_end_sec": 48.821995,
+      "fits_primary_shot_estimate": true,
+      "placement_status": "provisional_edit_position_not_final_picture_sync",
+      "note": "Shared shot references are alternate coverage of one performance, not repeated playback."
+    },
+    {
+      "line_id": "S03-D03",
+      "scene": 3,
+      "shot_ids": [
+        "S03-06"
+      ],
+      "audio_file": "Scene03/S03-D03-trixie-take001.mp3",
+      "duration_sec": 1.393197,
+      "suggested_scene_start_sec": 52.5,
+      "suggested_scene_end_sec": 53.893197,
+      "fits_primary_shot_estimate": true,
+      "placement_status": "provisional_edit_position_not_final_picture_sync",
+      "note": "Shared shot references are alternate coverage of one performance, not repeated playback."
+    },
+    {
+      "line_id": "S03-D04",
+      "scene": 3,
+      "shot_ids": [
+        "S03-07"
+      ],
+      "audio_file": "Scene03/S03-D04-onyx-take001.mp3",
+      "duration_sec": 1.393197,
+      "suggested_scene_start_sec": 59.5,
+      "suggested_scene_end_sec": 60.893197,
+      "fits_primary_shot_estimate": true,
+      "placement_status": "provisional_edit_position_not_final_picture_sync",
+      "note": "Shared shot references are alternate coverage of one performance, not repeated playback."
+    },
+    {
+      "line_id": "S04-D01",
+      "scene": 4,
+      "shot_ids": [
+        "S04-03"
+      ],
+      "audio_file": "Scene04/S04-D01-byte-take001.mp3",
+      "duration_sec": 1.671837,
+      "suggested_scene_start_sec": 18.5,
+      "suggested_scene_end_sec": 20.171837,
+      "fits_primary_shot_estimate": true,
+      "placement_status": "provisional_edit_position_not_final_picture_sync",
+      "note": "Shared shot references are alternate coverage of one performance, not repeated playback."
+    },
+    {
+      "line_id": "S04-D02",
+      "scene": 4,
+      "shot_ids": [
+        "S04-04"
+      ],
+      "audio_file": "Scene04/S04-D02-trixie-take001.mp3",
+      "duration_sec": 2.136236,
+      "suggested_scene_start_sec": 26.5,
+      "suggested_scene_end_sec": 28.636236,
+      "fits_primary_shot_estimate": true,
+      "placement_status": "provisional_edit_position_not_final_picture_sync",
+      "note": "Shared shot references are alternate coverage of one performance, not repeated playback."
+    },
+    {
+      "line_id": "S04-D03",
+      "scene": 4,
+      "shot_ids": [
+        "S04-05"
+      ],
+      "audio_file": "Scene04/S04-D03-byte-take001.mp3",
+      "duration_sec": 1.718277,
+      "suggested_scene_start_sec": 35.5,
+      "suggested_scene_end_sec": 37.218277,
+      "fits_primary_shot_estimate": true,
+      "placement_status": "provisional_edit_position_not_final_picture_sync",
+      "note": "Shared shot references are alternate coverage of one performance, not repeated playback."
+    }
+  ],
+  "note": "Character-level timing lives beside each take. Scene positions are edit suggestions; no video, lip sync or final mix was produced."
+}

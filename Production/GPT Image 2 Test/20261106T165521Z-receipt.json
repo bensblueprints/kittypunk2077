@@ -1,0 +1,10 @@
+{
+  "model": "gpt-image-2",
+  "documentation": "https://orbiorbi.com/api/developer-docs/published/gpt-image-2-ee",
+  "submitted_requests": 1,
+  "timeout_seconds": 600,
+  "actual_charge_usd": null,
+  "images": [],
+  "status": "failed_or_unconfirmed",
+  "error": "HTTP 403: {\"error\":{\"message\":\"Upstream request failed. Please try again later. (request id: 202611061655315806211688268d9d6GBiJc0CR)\",\"type\":\"upstream_error\",\"param\":\"\",\"code\":\"upstream_error\"}}"
+}

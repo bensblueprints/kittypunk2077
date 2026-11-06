@@ -1,0 +1,30 @@
+{
+  "id": "HQ00",
+  "status": "draft_not_empty_set_approved",
+  "dimensions": [
+    3840,
+    2160
+  ],
+  "passes": [
+    "Eight room types appear once in corrected north/south bands",
+    "Plan puts stair west and elevator suite southeast",
+    "Corporate spelling correct",
+    "Nine major panels"
+  ],
+  "issues": [
+    {
+      "severity": "major",
+      "finding": "R&D room insets/cutaways contain cat silhouettes inside chambers despite explicit empty-set requirement."
+    },
+    {
+      "severity": "major",
+      "finding": "CEO panel contains Barkington portrait despite no-portraits instruction."
+    },
+    {
+      "severity": "moderate",
+      "finding": "Plan omits A/B camera marks and directions; rendered hall elevator doors appear directly on corridor, unlike dedicated-suite doorway topology."
+    }
+  ],
+  "reference_decision": "Do not feed this image into further room generations. Text coordinate master governs; original architecture is used only for selected-room material reference.",
+  "retry_performed": false
+}

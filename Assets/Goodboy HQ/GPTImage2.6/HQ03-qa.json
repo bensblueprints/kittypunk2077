@@ -1,0 +1,28 @@
+{
+  "id": "HQ03",
+  "status": "draft_usable_architecture_review",
+  "dimensions": [
+    3840,
+    2160
+  ],
+  "panels": 9,
+  "empty_set": true,
+  "checks_passed": [
+    "Blank framed backing replaces the source portrait; no cast.",
+    "North city glazing, west partial glazing and trophy, east bar/empty frame, and south entry retain correct relative orientation.",
+    "Desk faces south with empty CEO chair behind and two visitor chairs in front.",
+    "Plan A southwest to northeast and B northeast to southwest agree with wide compositions."
+  ],
+  "issues": [
+    {
+      "severity": "minor",
+      "note": "Plan perimeter symbols along the south edge resemble window segments despite the south wall render being solid; treat south wall as opaque per text and rendered wall."
+    },
+    {
+      "severity": "minor",
+      "note": "Plan camera arrows and fixture placement are approximate rather than survey-grade coordinates."
+    }
+  ],
+  "topology_authority": "Text coordinates in saved prompt, not uncertain plan linework.",
+  "paid_retry": false
+}

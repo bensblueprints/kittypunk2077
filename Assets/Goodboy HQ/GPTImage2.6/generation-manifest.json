@@ -1,0 +1,557 @@
+{
+  "provider": "Higgsfield",
+  "model": "gpt_image_2_6",
+  "quality": "high",
+  "resolution": "4k",
+  "aspect_ratio": "16:9",
+  "media_type": "image",
+  "paid_jobs_submitted": 15,
+  "paid_retries": 0,
+  "videos_submitted": 0,
+  "lease_cap_credits": 65.25,
+  "total_preflight_credits": 63.75,
+  "generation_status": "all15_completed_including5_authorized_revisions",
+  "review_status": "preferred_versions_with_individual_QA_HQ00_still_not_empty",
+  "topology_authority": "Exact saved text coordinates govern; generated plans are not survey drawings. HQ00 was used only as its own correction target, never as a room-generation reference.",
+  "desktop_project_copy": "C:\\Users\\DELL\\Desktop\\CyberKitty 2077\\Assets\\Goodboy HQ\\GPTImage2.6",
+  "copy_verification": "All PNG hashes, prompts, receipts and QA files match their project copies.",
+  "records": [
+    {
+      "id": "HQ00",
+      "file": "HQ00-goodboy-executive-level-master-gpt26-v001.png",
+      "dimensions": [
+        3840,
+        2160
+      ],
+      "sha256": "455d58efffc8002d26520294bb9e7ecf3f6c01f10350b8b50cc50d51e6ed65a1",
+      "job_id": "ec655739-dcce-42b0-8233-cf70db7dea38",
+      "cost_preflight_credits": 4.25,
+      "qa_status": "draft_not_empty_set_approved",
+      "qa_file": "HQ00-qa.json",
+      "receipt_file": "HQ00-goodboy-executive-level-master-gpt26-v001.json",
+      "prompt_file": "HQ00-goodboy-executive-level-master-gpt26-v001-prompt.txt",
+      "issues": [
+        {
+          "severity": "major",
+          "finding": "R&D room insets/cutaways contain cat silhouettes inside chambers despite explicit empty-set requirement."
+        },
+        {
+          "severity": "major",
+          "finding": "CEO panel contains Barkington portrait despite no-portraits instruction."
+        },
+        {
+          "severity": "moderate",
+          "finding": "Plan omits A/B camera marks and directions; rendered hall elevator doors appear directly on corridor, unlike dedicated-suite doorway topology."
+        }
+      ]
+    },
+    {
+      "id": "HQ01",
+      "file": "HQ01-goodboy-main-boardroom-gpt26-v001.png",
+      "dimensions": [
+        3840,
+        2160
+      ],
+      "sha256": "6decc48ff17be7707ade480c8701a214cc3401ecc857374811638bb9e6022faa",
+      "job_id": "598785e7-f1f9-4a87-bb46-f5204df2606e",
+      "cost_preflight_credits": 4.25,
+      "qa_status": "draft_usable_architecture_review",
+      "qa_file": "HQ01-qa.json",
+      "receipt_file": "HQ01-goodboy-main-boardroom-gpt26-v001.json",
+      "prompt_file": "HQ01-goodboy-main-boardroom-gpt26-v001-prompt.txt",
+      "issues": [
+        {
+          "severity": "minor",
+          "finding": "A/B are indicated diagonally in plan, while rendered wides are closer to centered axes; use as design views rather than precise lens/blocking plates."
+        },
+        {
+          "severity": "minor",
+          "finding": "Floor detail introduces a paw medallion not specified as a fixed floor feature; choose whether it is floor or tabletop material detail before scene plates."
+        }
+      ]
+    },
+    {
+      "id": "HQ02",
+      "file": "HQ02-goodboy-executive-lobby-gpt26-v001.png",
+      "dimensions": [
+        3840,
+        2160
+      ],
+      "sha256": "94f45fdcb08a9f2bcd68534caf2634dc7cbec361b5e8a42fa41a1761fef0e728",
+      "job_id": "1d5ac72c-d4da-4329-ad26-053f154db342",
+      "cost_preflight_credits": 4.25,
+      "qa_status": "draft_usable_architecture_review",
+      "qa_file": "HQ02-qa.json",
+      "receipt_file": "HQ02-goodboy-executive-lobby-gpt26-v001.json",
+      "prompt_file": "HQ02-goodboy-executive-lobby-gpt26-v001-prompt.txt",
+      "issues": [
+        {
+          "severity": "minor",
+          "finding": "Reverse B is centered on south edge with a northward arrow rather than specified southwest/northeast diagonal. Render and adjusted plan agree broadly but differ from exact written camera coordinate."
+        },
+        {
+          "severity": "minor",
+          "finding": "Benches subdivide into two units on each side elevation while plan simplifies each side; lock exact module counts before close coverage."
+        }
+      ]
+    },
+    {
+      "id": "HQ03",
+      "file": "HQ03-barkington-ceo-office-gpt26-v001.png",
+      "dimensions": [
+        3840,
+        2160
+      ],
+      "sha256": "f8486a01c351cbe698b3a0489f326a0d15a50bfe65681e4af9a15cfde8e5d629",
+      "job_id": "4542b6d5-e815-4a56-9434-b45d4d017d6b",
+      "cost_preflight_credits": 4.25,
+      "qa_status": "draft_usable_architecture_review",
+      "qa_file": "HQ03-qa.json",
+      "receipt_file": "HQ03-barkington-ceo-office-gpt26-v001.json",
+      "prompt_file": "HQ03-barkington-ceo-office-gpt26-v001-prompt.txt",
+      "issues": [
+        {
+          "severity": "minor",
+          "note": "Plan perimeter symbols along the south edge resemble window segments despite the south wall render being solid; treat south wall as opaque per text and rendered wall."
+        },
+        {
+          "severity": "minor",
+          "note": "Plan camera arrows and fixture placement are approximate rather than survey-grade coordinates."
+        }
+      ]
+    },
+    {
+      "id": "HQ04",
+      "file": "HQ04-project-obedience-rd-lab-gpt26-v001.png",
+      "dimensions": [
+        3840,
+        2160
+      ],
+      "sha256": "7551033583d4d5c779f2c90ce1613307860df0cd434e7d082b547541468bdcb3",
+      "job_id": "23dc4d31-0b18-4d1a-a529-3707b6c16f88",
+      "cost_preflight_credits": 4.25,
+      "qa_status": "draft_camera_topology_corrections_needed",
+      "qa_file": "HQ04-qa.json",
+      "receipt_file": "HQ04-project-obedience-rd-lab-gpt26-v001.json",
+      "prompt_file": "HQ04-project-obedience-rd-lab-gpt26-v001-prompt.txt",
+      "issues": [
+        {
+          "severity": "major",
+          "note": "Hero A shows the north entry as the far wall although A should look southwest to the south cabinets. Do not use hero A as the approved camera angle."
+        },
+        {
+          "severity": "major",
+          "note": "Reverse B shows north entry but mirrors east workbench to screen-left and west chambers to screen-right. The wall views and text coordinate map govern."
+        },
+        {
+          "severity": "major",
+          "note": "Plan north door is near center; authoritative north entry is x9 within 12m width (three-quarters from west)."
+        }
+      ]
+    },
+    {
+      "id": "HQ05",
+      "file": "HQ05-goodboy-security-control-gpt26-v001.png",
+      "dimensions": [
+        3840,
+        2160
+      ],
+      "sha256": "5bfdc7a8837c9d679b3f42e1c41af65474426c2363bdb0a81a96c384abef51d3",
+      "job_id": "d413312e-280a-4001-aaaf-a41a8be803e6",
+      "cost_preflight_credits": 4.25,
+      "qa_status": "draft_hero_orientation_correction_needed",
+      "qa_file": "HQ05-qa.json",
+      "receipt_file": "HQ05-goodboy-security-control-gpt26-v001.json",
+      "prompt_file": "HQ05-goodboy-security-control-gpt26-v001-prompt.txt",
+      "issues": [
+        {
+          "severity": "major",
+          "note": "South-facing hero shows west rack screen-left and east cabinet screen-right, mirrored relative to the text, plan and reverse. Correct hero side fixtures before using it for scene continuity."
+        },
+        {
+          "severity": "minor",
+          "note": "A/B wide compositions are nearly axial instead of the stated diagonal camera coordinates."
+        }
+      ]
+    },
+    {
+      "id": "HQ06",
+      "file": "HQ06-goodboy-secure-elevators-gpt26-v001.png",
+      "dimensions": [
+        3840,
+        2160
+      ],
+      "sha256": "b1c797bd3e64a81aed4dcaeecd41b96ebb0e0ae88bba69d962cbe409174862f6",
+      "job_id": "d33ef514-4283-4041-8431-a1638214fff1",
+      "cost_preflight_credits": 4.25,
+      "qa_status": "draft_orientation_and_corridor_view_corrections_needed",
+      "qa_file": "HQ06-qa.json",
+      "receipt_file": "HQ06-goodboy-secure-elevators-gpt26-v001.json",
+      "prompt_file": "HQ06-goodboy-secure-elevators-gpt26-v001-prompt.txt",
+      "issues": [
+        {
+          "severity": "major",
+          "note": "Both wide views mirror the east reader: hero facing south shows it screen-right and reverse facing north shows it screen-left. Correct reader wall in wides."
+        },
+        {
+          "severity": "major",
+          "note": "Open north entry looks into a long north-south corridor. The master requires the east-west hall immediately beyond the entrance; replace that background with the across-hall wall/sideways circulation."
+        },
+        {
+          "severity": "minor",
+          "note": "Plan vestibule/shaft visual length ratio is approximate despite correct printed6m/12m dimensions."
+        }
+      ]
+    },
+    {
+      "id": "HQ07",
+      "file": "HQ07-goodboy-server-ai-core-gpt26-v001.png",
+      "dimensions": [
+        3840,
+        2160
+      ],
+      "sha256": "41680dd1c02befc1f142fe39c1f1a4d7669ddbd1cbea3637297af42daf3c04eb",
+      "job_id": "848bf833-197d-4cdd-8e1f-e95bdb6bb318",
+      "cost_preflight_credits": 4.25,
+      "qa_status": "draft_usable_architecture_review",
+      "qa_file": "HQ07-qa.json",
+      "receipt_file": "HQ07-goodboy-server-ai-core-gpt26-v001.json",
+      "prompt_file": "HQ07-goodboy-server-ai-core-gpt26-v001-prompt.txt",
+      "issues": [
+        {
+          "severity": "minor",
+          "note": "Small north-wall console is omitted from the floor-plan drawing although consistently present in north elevation and reverse."
+        },
+        {
+          "severity": "minor",
+          "note": "Wide camera positions are approximate and the north entry appears slightly off-center in elevation; text coordinates control precise blocking."
+        }
+      ]
+    },
+    {
+      "id": "HQ08",
+      "file": "HQ08-goodboy-vip-lounge-gpt26-v001.png",
+      "dimensions": [
+        3840,
+        2160
+      ],
+      "sha256": "6f9fc4ce9167a4024621de02daaa2a2959f6fee65aa0e0fc36ea9692a8324647",
+      "job_id": "4a78ceed-421d-4355-b3bd-567db6baa6e1",
+      "cost_preflight_credits": 4.25,
+      "qa_status": "draft_usable_architecture_review",
+      "qa_file": "HQ08-qa.json",
+      "receipt_file": "HQ08-goodboy-vip-lounge-gpt26-v001.json",
+      "prompt_file": "HQ08-goodboy-vip-lounge-gpt26-v001-prompt.txt",
+      "issues": [
+        {
+          "severity": "minor",
+          "note": "Plan pool table sits nearer room center than the specified southern placement y29; use exact text coordinates during production modeling."
+        },
+        {
+          "severity": "minor",
+          "note": "Blank south-wall display is visible in elevations/reverse but omitted from plan symbol coverage."
+        }
+      ]
+    },
+    {
+      "id": "HQ09",
+      "file": "HQ09-goodboy-corridor-stairs-gpt26-v001.png",
+      "dimensions": [
+        3840,
+        2160
+      ],
+      "sha256": "c76e0d9c764bdaee9cb61d93128444398ac73af825946e3c10e389bff76721ab",
+      "job_id": "119db381-2a95-4bc8-9f7e-f6d1c7cb6295",
+      "cost_preflight_credits": 4.25,
+      "qa_status": "draft_floorplan_label_correction_needed",
+      "qa_file": "HQ09-qa.json",
+      "receipt_file": "HQ09-goodboy-corridor-stairs-gpt26-v001.json",
+      "prompt_file": "HQ09-goodboy-corridor-stairs-gpt26-v001-prompt.txt",
+      "issues": [
+        {
+          "severity": "major",
+          "note": "North-up plan incorrectly copies the south-facing elevation's screen order: south labels left-to-right ELEVATORS, SECURITY, LOBBY, SERVER, R&D. In the north-up plan these must instead be R&D, SERVER, LOBBY, SECURITY, ELEVATORS at x9,17,27,36,44. Correct labels and their identities before any route blocking."
+        },
+        {
+          "severity": "major",
+          "note": "Elevator access is rendered as a lift-style door directly on corridor rather than a normal entrance into the dedicated elevator vestibule. Use the master suite connection, not a direct third lift."
+        },
+        {
+          "severity": "minor",
+          "note": "Door spacing and number visible in hero are approximate; OFFICE x7 is behind camera A x8 and must not be moved forward into that view."
+        }
+      ]
+    }
+  ],
+  "original_generation_totals": {
+    "paid_jobs": 10,
+    "total_preflight_credits": 42.5,
+    "reservation_cap_credits": 44
+  },
+  "revision_generation_totals": {
+    "paid_jobs": 5,
+    "total_preflight_credits": 21.25,
+    "reservation_cap_credits": 21.25,
+    "automatic_retries": 0,
+    "videos": 0
+  },
+  "paid_revision_jobs": 5,
+  "revisions": [
+    {
+      "id": "HQ00",
+      "version": "v002",
+      "file": "HQ00-goodboy-executive-level-master-gpt26-v002.png",
+      "dimensions": [
+        3840,
+        2160
+      ],
+      "sha256": "1f5e1611b3acfdbc99c774f2aca5cd0da107e7c06d8430afc57dfc24728c037a",
+      "job_id": "bfe0d618-2d61-4d2f-8c30-4b63ad1238f8",
+      "cost_preflight_credits": 4.25,
+      "qa_status": "preferred_partial_correction_not_empty_set_approved",
+      "qa_file": "HQ00-v002-qa.json",
+      "receipt_file": "HQ00-goodboy-executive-level-master-gpt26-v002.json",
+      "prompt_file": "HQ00-goodboy-executive-level-master-gpt26-v002-prompt.txt",
+      "empty_set": false,
+      "fixed": [
+        "CEO portraits replaced by blank framed backing in main inset/cutaways.",
+        "Corridor elevator link now shows ordinary vestibule entrance.",
+        "Master plan adds vestibule distinction and A/B east-west arrows."
+      ],
+      "remaining_issues": [
+        {
+          "severity": "major",
+          "note": "R&D inset still contains unmistakable animal silhouettes inside at least the first two cylinders. Do not use this sheet as an empty-set or character reference."
+        },
+        {
+          "severity": "moderate",
+          "note": "Some small lab/security screens remain lit blue instead of uniformly blank."
+        }
+      ],
+      "usage": "Preferred v002 for overview/materials only. Exact text coordinates govern. Use separate empty HQ04 chamber design for any lab imagery. Do not propagate HQ00 into further generation."
+    },
+    {
+      "id": "HQ04",
+      "version": "v002",
+      "file": "HQ04-project-obedience-rd-lab-gpt26-v002.png",
+      "dimensions": [
+        3840,
+        2160
+      ],
+      "sha256": "0994ed8f1106ef589649fb10edfb187499ce7a6bf0be6a42d595303cfa6cc9e6",
+      "job_id": "9d94a359-4275-4240-97b8-5bb51051d788",
+      "cost_preflight_credits": 4.25,
+      "qa_status": "preferred_corrected_room_draft",
+      "qa_file": "HQ04-v002-qa.json",
+      "receipt_file": "HQ04-project-obedience-rd-lab-gpt26-v002.json",
+      "prompt_file": "HQ04-project-obedience-rd-lab-gpt26-v002-prompt.txt",
+      "empty_set": true,
+      "fixed": [
+        "Hero now faces south cabinets, with east workbench screen-left and west empty chambers screen-right.",
+        "Reverse faces north entry with west chambers screen-left and east bench screen-right.",
+        "North elevation moves entry to east side with collar case west of it.",
+        "All three chambers remain empty and monitors blank."
+      ],
+      "remaining_issues": [
+        {
+          "severity": "minor",
+          "note": "Plan door shifts east but remains approximate rather than exactly x9/12; use the saved x9,y18 coordinate for final geometry."
+        },
+        {
+          "severity": "minor",
+          "note": "A/B compositions remain approximately axial rather than survey-accurate diagonal positions."
+        }
+      ],
+      "usage": "Preferred v002 for room continuity and empty-set design; text coordinates retain exact dimensional authority."
+    },
+    {
+      "id": "HQ05",
+      "version": "v002",
+      "file": "HQ05-goodboy-security-control-gpt26-v002.png",
+      "dimensions": [
+        3840,
+        2160
+      ],
+      "sha256": "c3708c1c2a68799144798d575d80baeeed11c5949fb12f7f2ede9878ddc340e0",
+      "job_id": "2a03cc44-4ba8-4835-bbd1-88a03e57ba8f",
+      "cost_preflight_credits": 4.25,
+      "qa_status": "preferred_corrected_room_draft",
+      "qa_file": "HQ05-v002-qa.json",
+      "receipt_file": "HQ05-goodboy-security-control-gpt26-v002.json",
+      "prompt_file": "HQ05-goodboy-security-control-gpt26-v002-prompt.txt",
+      "empty_set": true,
+      "fixed": [
+        "Hero now correctly shows east closed mesh communications cabinet screen-left and west lit server rack screen-right.",
+        "Reverse, isolated wall elevations, two operator desks, blank monitors and north entry preserved."
+      ],
+      "remaining_issues": [
+        {
+          "severity": "minor",
+          "note": "A/B markers remain diagonal while wides are approximately axial; physical fixture side consistency is corrected."
+        }
+      ],
+      "usage": "Preferred v002 for security-room design/continuity."
+    },
+    {
+      "id": "HQ06",
+      "version": "v002",
+      "file": "HQ06-goodboy-secure-elevators-gpt26-v002.png",
+      "dimensions": [
+        3840,
+        2160
+      ],
+      "sha256": "49c2eb280ec7eba1194446cc9584fa95170e467c5f609124333d3cd49cf5ccda",
+      "job_id": "f3740c4b-da8b-419a-85a4-abbc7eebab5b",
+      "cost_preflight_credits": 4.25,
+      "qa_status": "preferred_corrected_room_draft",
+      "qa_file": "HQ06-v002-qa.json",
+      "receipt_file": "HQ06-goodboy-secure-elevators-gpt26-v002.json",
+      "prompt_file": "HQ06-goodboy-secure-elevators-gpt26-v002-prompt.txt",
+      "empty_set": true,
+      "fixed": [
+        "Hero south-facing reader now screen-left/east; reverse north-facing reader now screen-right/east.",
+        "North opening closed with a visibly hinged access door pair; incorrect corridor vista removed.",
+        "Two south lifts, one ordinary north access, solid west wall and east reader remain consistent across views."
+      ],
+      "remaining_issues": [
+        {
+          "severity": "minor",
+          "note": "Plan graphic still compresses12m shafts relative to6m vestibule despite correct labels. Use numeric dimensions rather than drawing scale."
+        }
+      ],
+      "usage": "Preferred v002 for elevator-suite architecture and physical continuity."
+    },
+    {
+      "id": "HQ09",
+      "version": "v002",
+      "file": "HQ09-goodboy-corridor-stairs-gpt26-v002.png",
+      "dimensions": [
+        3840,
+        2160
+      ],
+      "sha256": "80961d6d3b4ead69cdb2239350efad2b65e2725f7b8eb8630f464a657f18a4df",
+      "job_id": "ad602717-e9b9-4097-8ec5-fe3d368b043d",
+      "cost_preflight_credits": 4.25,
+      "qa_status": "preferred_corrected_corridor_draft",
+      "qa_file": "HQ09-v002-qa.json",
+      "receipt_file": "HQ09-goodboy-corridor-stairs-gpt26-v002.json",
+      "prompt_file": "HQ09-goodboy-corridor-stairs-gpt26-v002-prompt.txt",
+      "empty_set": true,
+      "fixed": [
+        "North-up south labels now read R&D, SERVER, LOBBY, SECURITY, ELEVATORS west-to-east with correct x9,17,27,36,44 annotations.",
+        "North labels retain OFFICE x7, BOARDROOM x24, VIP LOUNGE x41.",
+        "South elevation and nearest reverse-left access now show ordinary hinged vestibule doors, not direct lifts.",
+        "Solid east wall and west stair access retained; no actors/windows."
+      ],
+      "remaining_issues": [
+        {
+          "severity": "minor",
+          "note": "Diagram door spacing and A position are approximate despite correct coordinate labels. In actual blocking OFFICE x7 lies behind hero A x8; use the numeric text rather than pixel distances."
+        }
+      ],
+      "usage": "Preferred v002 for corridor identities and door continuity. Numeric master coordinates govern exact positions."
+    }
+  ],
+  "preferred_versions": [
+    {
+      "id": "HQ00",
+      "version": "v002",
+      "file": "HQ00-goodboy-executive-level-master-gpt26-v002.png",
+      "qa_file": "HQ00-v002-qa.json",
+      "qa_status": "preferred_partial_correction_not_empty_set_approved",
+      "production_ready": false,
+      "empty_set": false,
+      "note": "Preferred v002 for overview/materials only. Exact text coordinates govern. Use separate empty HQ04 chamber design for any lab imagery. Do not propagate HQ00 into further generation."
+    },
+    {
+      "id": "HQ01",
+      "version": "v001",
+      "file": "HQ01-goodboy-main-boardroom-gpt26-v001.png",
+      "qa_file": "HQ01-qa.json",
+      "qa_status": "draft_usable_architecture_review",
+      "production_ready": false,
+      "empty_set": true,
+      "note": "Usable architecture draft; retain documented minor QA and text-coordinate authority."
+    },
+    {
+      "id": "HQ02",
+      "version": "v001",
+      "file": "HQ02-goodboy-executive-lobby-gpt26-v001.png",
+      "qa_file": "HQ02-qa.json",
+      "qa_status": "draft_usable_architecture_review",
+      "production_ready": false,
+      "empty_set": true,
+      "note": "Usable architecture draft; retain documented minor QA and text-coordinate authority."
+    },
+    {
+      "id": "HQ03",
+      "version": "v001",
+      "file": "HQ03-barkington-ceo-office-gpt26-v001.png",
+      "qa_file": "HQ03-qa.json",
+      "qa_status": "draft_usable_architecture_review",
+      "production_ready": false,
+      "empty_set": true,
+      "note": "Usable architecture draft; retain documented minor QA and text-coordinate authority."
+    },
+    {
+      "id": "HQ04",
+      "version": "v002",
+      "file": "HQ04-project-obedience-rd-lab-gpt26-v002.png",
+      "qa_file": "HQ04-v002-qa.json",
+      "qa_status": "preferred_corrected_room_draft",
+      "production_ready": false,
+      "empty_set": true,
+      "note": "Preferred v002 for room continuity and empty-set design; text coordinates retain exact dimensional authority."
+    },
+    {
+      "id": "HQ05",
+      "version": "v002",
+      "file": "HQ05-goodboy-security-control-gpt26-v002.png",
+      "qa_file": "HQ05-v002-qa.json",
+      "qa_status": "preferred_corrected_room_draft",
+      "production_ready": false,
+      "empty_set": true,
+      "note": "Preferred v002 for security-room design/continuity."
+    },
+    {
+      "id": "HQ06",
+      "version": "v002",
+      "file": "HQ06-goodboy-secure-elevators-gpt26-v002.png",
+      "qa_file": "HQ06-v002-qa.json",
+      "qa_status": "preferred_corrected_room_draft",
+      "production_ready": false,
+      "empty_set": true,
+      "note": "Preferred v002 for elevator-suite architecture and physical continuity."
+    },
+    {
+      "id": "HQ07",
+      "version": "v001",
+      "file": "HQ07-goodboy-server-ai-core-gpt26-v001.png",
+      "qa_file": "HQ07-qa.json",
+      "qa_status": "draft_usable_architecture_review",
+      "production_ready": false,
+      "empty_set": true,
+      "note": "Usable architecture draft; retain documented minor QA and text-coordinate authority."
+    },
+    {
+      "id": "HQ08",
+      "version": "v001",
+      "file": "HQ08-goodboy-vip-lounge-gpt26-v001.png",
+      "qa_file": "HQ08-qa.json",
+      "qa_status": "draft_usable_architecture_review",
+      "production_ready": false,
+      "empty_set": true,
+      "note": "Usable architecture draft; retain documented minor QA and text-coordinate authority."
+    },
+    {
+      "id": "HQ09",
+      "version": "v002",
+      "file": "HQ09-goodboy-corridor-stairs-gpt26-v002.png",
+      "qa_file": "HQ09-v002-qa.json",
+      "qa_status": "preferred_corrected_corridor_draft",
+      "production_ready": false,
+      "empty_set": true,
+      "note": "Preferred v002 for corridor identities and door continuity. Numeric master coordinates govern exact positions."
+    }
+  ]
+}

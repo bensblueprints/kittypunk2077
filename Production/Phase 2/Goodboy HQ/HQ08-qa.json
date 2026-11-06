@@ -1,0 +1,28 @@
+{
+  "id": "HQ08",
+  "status": "draft_usable_architecture_review",
+  "dimensions": [
+    3840,
+    2160
+  ],
+  "panels": 9,
+  "empty_set": true,
+  "checks_passed": [
+    "North city glazing only; south entry and blank TV, west bar, east burgundy couch.",
+    "Hero and reverse correctly swap bar/couch screen sides; no mirrored room.",
+    "One pool table and two fixed fishbone cues; no players, portraits or people.",
+    "A/B north-up arrows point northeast/southwest and only one corridor connection shown."
+  ],
+  "issues": [
+    {
+      "severity": "minor",
+      "note": "Plan pool table sits nearer room center than the specified southern placement y29; use exact text coordinates during production modeling."
+    },
+    {
+      "severity": "minor",
+      "note": "Blank south-wall display is visible in elevations/reverse but omitted from plan symbol coverage."
+    }
+  ],
+  "topology_authority": "Saved text coordinates and consistent cardinal elevations.",
+  "paid_retry": false
+}

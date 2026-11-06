@@ -1,0 +1,44 @@
+{
+  "id": "PROP02",
+  "name": "CatStation 5 console",
+  "filename": "PROP02-catstation-5-console-v001.png",
+  "provider": "Higgsfield",
+  "model": "gpt_image_2_6",
+  "status": "completed",
+  "job_id": "23aca75c-f31d-44b6-9357-70c57ec0aa7b",
+  "cost_preflight_credits": 4.25,
+  "parameters": {
+    "model": "gpt_image_2_6",
+    "resolution": "4k",
+    "quality": "high",
+    "aspect_ratio": "16:9",
+    "count": 1,
+    "output_format": "png",
+    "background": "opaque",
+    "prompt": "Use case: stylized-concept. Create ONE finished 4K landscape 16:9 cinematic 3D production PROP REFERENCE SHEET: PROP02 — CATSTATION 5 CONSOLE. Reconstruct the tall white-and-black game console sitting ON TOP of the rusty CRT in the supplied living-room reference. This is the authority for its silhouette: vertical tall asymmetric white wing-like outer shell plates around a black central spine, flat stable black base, fine ventilation grooves, subtle blue status light. Preserve its slightly dusty used appearance and scuffs, never turn it into a neon futuristic tower. Use the secondary gaming-room reference for casing materials only; the rear-couch reference is absolute authority for shape and proportions. Console object only on neutral dark charcoal studio ground, no TV, room, controllers, characters or hands. Six clean evenly sized 3x2 panels: FRONT; THREE-QUARTER; REAR; LEFT SIDE; RIGHT SIDE; PORTS & MATERIALS. All views show the same single object with fixed shell shapes, seams, vent positions, rear ports and power cable socket. White shell has a discreet small black paw emblem and text CatStation 5 in one consistent placement; no PlayStation, Sony, other brand or watermark. Front must not become a mirror of back, asymmetric shell and black core remain consistent. Fine realistic matte plastic, vent mesh, shallow grime in seams, small scratches; soft white inspection light with restrained blue edge accent. Exact text only PROP02 — CATSTATION 5 CONSOLE plus six panel labels and small CatStation 5 wordmark. No extra instructions or filenames printed. Reference images show cats and a TV; exclude all those elements. Deliver one reusable prop sheet, not a scene or variants.",
+    "medias": [
+      {
+        "role": "image",
+        "value": "2d5dc750-c647-48b9-8ea9-347fca4f10cd"
+      },
+      {
+        "role": "image",
+        "value": "3ed528a1-35db-4fc1-8255-955a26ae66b1"
+      }
+    ]
+  },
+  "reference_paths": [
+    "outputs/Imported References/couch-rear-blank-tv.png",
+    "outputs/Imported References/couch-playing-alternate.png"
+  ],
+  "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3FexRxU2V7FefQUvOnG7eFCKfmw/hf_20261106_190621_23aca75c-f31d-44b6-9357-70c57ec0aa7b.png",
+  "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Phase 2\\Props\\PROP02-catstation-5-console-v001.png",
+  "dimensions": [
+    3840,
+    2160
+  ],
+  "sha256": "62d2d3a7f4eea1b1065841150df306e34e12623500e8bb263fb46595cb7f8d4d",
+  "saved_at": "2026-11-06T19:08:30.341098+00:00",
+  "review_status": "awaiting visual QA",
+  "staged_file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\work\\phase2\\generated\\PROP02-catstation-5-console-v001.png"
+}

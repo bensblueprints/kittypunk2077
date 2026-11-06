@@ -1,0 +1,48 @@
+{
+  "id": "PROP10",
+  "name": "Neon bone decoy branding correction",
+  "filename": "PROP10-bone-decoy-remote-gpt26-v002.png",
+  "source": "7b12ccbe-3e6b-4c57-94c6-37815b94f724",
+  "prompt": "Edit the supplied production prop reference sheet. Make only the specified branding correction; preserve the six-panel layout, every camera view, object design, wear, lighting, dimensions, colors, screws, ports, typography of the existing panel labels, and blank screens. Native 3840x2160 landscape16:9. No people, animals, characters, new logos or added labels. This is Neon's homemade resistance electronic bone decoy and remote. Erase ALL GOODBOY GLOBAL words and their associated gold hexagonal company emblems from EVERY view: bone TOP panel, bone scale/material view, remote BACK and header upper-right. Replace physical marks with uninterrupted matching worn white plastic on the bone and dark scratched casing on the remote; the header becomes continuous dark background. Keep all cyan lights, lens, speaker holes, two wheels, screw placements, yellow warning stripes, BONE-01 underside label, remote buttons and wrist cord intact. Keep PROP10 / ELECTRONIC BONE DECOY title and all panel labels exactly. Do not add replacement branding.",
+  "parameters": {
+    "model": "gpt_image_2_6",
+    "quality": "high",
+    "resolution": "4k",
+    "aspect_ratio": "16:9",
+    "count": 1,
+    "output_format": "png",
+    "background": "opaque",
+    "prompt": "Edit the supplied production prop reference sheet. Make only the specified branding correction; preserve the six-panel layout, every camera view, object design, wear, lighting, dimensions, colors, screws, ports, typography of the existing panel labels, and blank screens. Native 3840x2160 landscape16:9. No people, animals, characters, new logos or added labels. This is Neon's homemade resistance electronic bone decoy and remote. Erase ALL GOODBOY GLOBAL words and their associated gold hexagonal company emblems from EVERY view: bone TOP panel, bone scale/material view, remote BACK and header upper-right. Replace physical marks with uninterrupted matching worn white plastic on the bone and dark scratched casing on the remote; the header becomes continuous dark background. Keep all cyan lights, lens, speaker holes, two wheels, screw placements, yellow warning stripes, BONE-01 underside label, remote buttons and wrist cord intact. Keep PROP10 / ELECTRONIC BONE DECOY title and all panel labels exactly. Do not add replacement branding.",
+    "medias": [
+      {
+        "role": "image",
+        "value": "7b12ccbe-3e6b-4c57-94c6-37815b94f724"
+      }
+    ]
+  },
+  "cost_preflight_credits": 4.25,
+  "provider": "Higgsfield",
+  "model": "gpt_image_2_6",
+  "category": "Props",
+  "parent_job_id": "7b12ccbe-3e6b-4c57-94c6-37815b94f724",
+  "index": 1,
+  "job_id": "26c82ed5-b981-4a81-8ed7-fea4484b8c76",
+  "status": "completed",
+  "adjustments": {
+    "medias[0].role": {
+      "requested": "image",
+      "used": "image_references",
+      "reason": "GPT Image 2.6 backend expects schema-key media roles"
+    }
+  },
+  "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3FexRxU2V7FefQUvOnG7eFCKfmw/hf_20261106_194957_26c82ed5-b981-4a81-8ed7-fea4484b8c76.png",
+  "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Phase 2\\Props\\PROP10-bone-decoy-remote-gpt26-v002.png",
+  "dimensions": [
+    3840,
+    2160
+  ],
+  "sha256": "d006767f6e8dd0f957e0a0386b3e710635594544cae9f05761a93c3a823b7757",
+  "saved_at": "2026-11-06T19:53:16.066740+00:00",
+  "review_status": "awaiting visual QA",
+  "staged_file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\work\\phase2\\generated\\PROP10-bone-decoy-remote-gpt26-v002.png"
+}

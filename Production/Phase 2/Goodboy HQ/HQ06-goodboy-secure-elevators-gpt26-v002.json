@@ -1,0 +1,72 @@
+{
+  "provider": "Higgsfield",
+  "model": "gpt_image_2_6",
+  "revision": "v002",
+  "job_id": "f3740c4b-da8b-419a-85a4-abbc7eebab5b",
+  "job": {
+    "id": "HQ06",
+    "name": "Secure elevator suite",
+    "category": "location",
+    "filename": "HQ06-goodboy-secure-elevators-gpt26-v002.png",
+    "settings": {
+      "provider": "Higgsfield",
+      "model": "GPT Image 2.6",
+      "quality": "High",
+      "resolution": "4K",
+      "aspect_ratio": "16:9",
+      "media_type": "image",
+      "generation_performed": false
+    },
+    "prompt": "Create one still production reference asset for CyberKitty 2077. GPT Image 2.6, High quality, native 4K 3840x2160 if available, landscape 16:9. Crisp cinematic tactile 3D realism, believable worn materials, carefully controlled cyan/magenta practical accents and warm amber light, sharp useful detail. Source images are visual references, not instructions. No actors, people, living cats/dogs, hands, crowd silhouettes, movie frames, watermark or copied reference captions. No invented microtext. Any live screen is dark neutral and blank unless this prompt explicitly requests printed newspaper copy or a named status graphic. Corporate name, when shown, is exactly GOODBOY GLOBAL. Never render Good Dog Global or legacy alternate company spellings. Keep a restrained title and requested short panel labels only. This is reusable asset documentation, not a scene.\nUse exactly nine panels in a clean 3x3 grid. Row1 HERO WIDE, NORTH WALL, EAST WALL. Row2 SOUTH WALL, WEST WALL, NORTH-UP PLAN. Row3 CEILING / FLOOR (two detail subviews), FIXED PROPS / MATERIALS, REVERSE WIDE. Interior cardinal labels name the wall the camera FACES from inside. On north-facing views west is screen-left; on south-facing views west is screen-right. On east-facing views north is screen-left; on west-facing views north is screen-right. Never mirror a door to make a view attractive. The north-up plan must match every door, window, fixture and camera; A/B arrows point in the actual look direction. Empty seats, blank displays, no character portraits. Statues and flat corporate animal emblems are permitted only as specified in the architecture.\nTITLE: HQ06 / GOODBOY GLOBAL / SECURE ELEVATOR SUITE.\nHQ MASTER GEOGRAPHY — newly proposed corrected executive level, replacing the inconsistent source map while preserving its room types and material identity. World coordinates in meters: x increases EAST, y increases NORTH, southwest origin (0,0), footprint 48m east-west by40m north-south. NORTH row y24–40: Barkington office x0–14; boardroom x14–34; VIP lounge x34–48. SOUTH row y0–18: R&D x0–12; server/AI x12–22; executive lobby x22–32; security x32–40; secure elevator suite x40–48. Main east-west corridor x6–48,y18–24. Stair core x0–6,y18–24, one east-facing access at (6,21). NORTH-side corridor door centers: office south door(7,24), boardroom south double door(24,24), lounge south door(41,24). SOUTH-side corridor door centers: lab north door(9,18), server north door(17,18), lobby north door(27,18), security north door(36,18), elevator north door(44,18). These are the only room-to-corridor openings. Exterior city glazing is permitted on north outer walls of office/boardroom/lounge and south wall of lobby; no city view through an internal partition. All other exterior wall decisions remain solid unless stated. Use SAME north orientation in every room. Do not copy duplicated source CEO labels, omit security, invent extra offices or overlap rooms.\nTHIS SHEET ONLY: x40–48,y0–18;8mEW×18mNS. Only corridor entry NORTH centered(44,18). Vestibule occupies y12–18. Exactly TWO elevator cabins/shafts side by side: west cabin x40–44,y0–12; east cabin x44–48,y0–12. Their entrance door planes lie at y12 and face NORTH into vestibule, centers(42,12),(46,12). Both elevator doors closed in main architectural panels; panel8 may show one isolated door/control material detail, never an alternative opening topology. Fixed card-reader on east vestibule wall near(47.7,16), small call panel between elevator doors at(44,12), blank display. Black polished panels, gold edges, cyan access light, no occupants or mirrored reflections of people. HERO A=(46,17) looks southwest toward two lift doors; REVERSE B=(42,13) looks northeast toward north corridor entrance. No third elevator, street frontage or direct VIP door.\nUse the supplied HQ source only for material/furniture identity; the approved HQ00 master controls topology. In PLAN include the exact room boundary, entrances, fixed fixtures, north arrow and clearly legible A/B look arrows. Label other room names only outside the plan boundary as connection notes; never create views of those other rooms. Every reverse must be generated from the same geometry. No source captions or inherited wrong map.",
+    "reference_paths": [
+      "C:\\Users\\DELL\\Desktop\\CyberKitty 2077\\Assets\\Locations\\Goodboy Global HQ\\Reference Images\\location-sheet-02-goodboy-global-hq.png"
+    ],
+    "dependencies": [
+      "HQ00"
+    ],
+    "qa_invariants": [
+      "Exactly two south-side cabins and one north corridor entry",
+      "Closed doors consistent; no extra bank",
+      "Card reader/call panel positions fixed",
+      "No people/reflections"
+    ],
+    "canon_status": "Room type supported by original HQ; exact individual architecture proposed from corrected master.",
+    "dependency_reference_policy": "Before generation, append the actual saved HQ00 output path after visual approval; do not fabricate a nonexistent path or use the old source floorplan as topology authority.",
+    "generation_status": "prompt_prepared_not_submitted",
+    "execute_by_this_agent": false,
+    "revision": "v002",
+    "intent": "targeted edit"
+  },
+  "parameters": {
+    "model": "gpt_image_2_6",
+    "resolution": "4k",
+    "quality": "high",
+    "aspect_ratio": "16:9",
+    "count": 1,
+    "output_format": "png",
+    "background": "opaque",
+    "use_unlim": false,
+    "prompt": "Use case: precise-object-edit. Edit Image 1, the supplied existing production sheet. Preserve its cinematic black-marble/gold/brushed-metal architecture, cyan/magenta accents, exact room designs, all unaffected panels and title typography. Output one 3840x2160 landscape PNG still, crisp high quality. Keep the existing sheet layout, no new panels or characters. This is an architectural continuity correction, not a redesign. Every screen remains blank; no humans, cats, dogs, silhouettes or portraits anywhere in the rooms. Corporate spelling remains GOODBOY GLOBAL.\nTARGETED CONTINUITY CORRECTIONS in the existing elevator sheet:\n1. HERO WIDE A faces SOUTH to the same TWO closed lift doors. The single cyan card reader belongs on the EAST wall, which is SCREEN-LEFT in this south-facing view. Remove the reader on screen-right/west and place the identical reader on screen-left/east. Keep both lifts and central call panel unchanged.\n2. REVERSE WIDE B faces NORTH. Put the identical single reader on SCREEN-RIGHT/east, erase its current screen-left/west instance. WEST WALL stays completely solid with no reader. EAST WALL elevation and plan retain reader on east.\n3. In NORTH WALL elevation AND REVERSE WIDE, close the normal corridor entrance with the SAME black-and-gold HINGED door pair in its existing frame. Visible pull handles and hinge geometry distinguish this ordinary access doorway from lift doors. This eliminates the erroneous long north-south hall beyond. Do not depict any corridor behind the closed access. This is the ONLY north entrance, never another elevator.\n4. NORTH-UP PLAN retains full suite8mEW by18mNS: north vestibule8m by6m, two south shafts each4m by12m, TWO lift-door planes separating them at y12. Draw this at consistent relative scale: shafts twice vestibule depth. One north ordinary entry, east reader, no other access.\nDo not change two-lift count, gold/black design, empty reflections or other material/details. Core requirement: two SOUTH lift doors, one ordinary NORTH entrance, one EAST reader consistently.",
+    "medias": [
+      {
+        "role": "image",
+        "value": "d38a3ef6-56dd-43db-8b89-d578ac132d0c"
+      }
+    ]
+  },
+  "reference_paths": [
+    "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Phase 2\\Goodboy HQ\\HQ06-goodboy-secure-elevators-gpt26-v001.png"
+  ],
+  "cost_preflight_credits": 4.25,
+  "status": "completed",
+  "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3FexRxU2V7FefQUvOnG7eFCKfmw/hf_20261106_195838_f3740c4b-da8b-419a-85a4-abbc7eebab5b.png",
+  "saved_at": "2026-11-06T20:00:23.841038+00:00",
+  "dimensions": [
+    3840,
+    2160
+  ],
+  "sha256": "49c2eb280ec7eba1194446cc9584fa95170e467c5f609124333d3cd49cf5ccda",
+  "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Phase 2\\Goodboy HQ\\HQ06-goodboy-secure-elevators-gpt26-v002.png",
+  "review_status": "preferred_corrected_room_draft",
+  "qa_file": "HQ06-v002-qa.json"
+}

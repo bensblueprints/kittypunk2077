@@ -1,0 +1,48 @@
+{
+  "id": "PROP09",
+  "name": "Byte price scanner branding correction",
+  "filename": "PROP09-byte-price-scanner-gpt26-v002.png",
+  "source": "1504fbbc-11c7-4c74-a88e-3c00084d4515",
+  "prompt": "Edit the supplied production prop reference sheet. Make only the specified branding correction; preserve the six-panel layout, every camera view, object design, wear, lighting, dimensions, colors, screws, ports, typography of the existing panel labels, and blank screens. Native 3840x2160 landscape16:9. No people, animals, characters, new logos or added labels. This is Byte's homemade resistance scanner. Erase the words GOODBOY GLOBAL from the scanner REAR physical casing and rebuild continuous matching weathered metal in their place. Keep the little black cat emblem above that removed text. Remove the entire right-hand corporate branding block in the sheet HEADER (company words and surrounding cat icon/divider/chevrons); continue the dark header texture. Keep left header PROP09 / BYTE SCANNER exactly. Do not alter the six views or move anything.",
+  "parameters": {
+    "model": "gpt_image_2_6",
+    "quality": "high",
+    "resolution": "4k",
+    "aspect_ratio": "16:9",
+    "count": 1,
+    "output_format": "png",
+    "background": "opaque",
+    "prompt": "Edit the supplied production prop reference sheet. Make only the specified branding correction; preserve the six-panel layout, every camera view, object design, wear, lighting, dimensions, colors, screws, ports, typography of the existing panel labels, and blank screens. Native 3840x2160 landscape16:9. No people, animals, characters, new logos or added labels. This is Byte's homemade resistance scanner. Erase the words GOODBOY GLOBAL from the scanner REAR physical casing and rebuild continuous matching weathered metal in their place. Keep the little black cat emblem above that removed text. Remove the entire right-hand corporate branding block in the sheet HEADER (company words and surrounding cat icon/divider/chevrons); continue the dark header texture. Keep left header PROP09 / BYTE SCANNER exactly. Do not alter the six views or move anything.",
+    "medias": [
+      {
+        "role": "image",
+        "value": "1504fbbc-11c7-4c74-a88e-3c00084d4515"
+      }
+    ]
+  },
+  "cost_preflight_credits": 4.25,
+  "provider": "Higgsfield",
+  "model": "gpt_image_2_6",
+  "category": "Props",
+  "parent_job_id": "1504fbbc-11c7-4c74-a88e-3c00084d4515",
+  "index": 0,
+  "job_id": "839d8434-569a-453c-b512-754a869c35b4",
+  "status": "completed",
+  "adjustments": {
+    "medias[0].role": {
+      "requested": "image",
+      "used": "image_references",
+      "reason": "GPT Image 2.6 backend expects schema-key media roles"
+    }
+  },
+  "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3FexRxU2V7FefQUvOnG7eFCKfmw/hf_20261106_194958_839d8434-569a-453c-b512-754a869c35b4.png",
+  "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Phase 2\\Props\\PROP09-byte-price-scanner-gpt26-v002.png",
+  "dimensions": [
+    3840,
+    2160
+  ],
+  "sha256": "3d6689586e0b815025925f0285576f5d8b048d2fce4aeab84c5e9b69eaa11761",
+  "saved_at": "2026-11-06T19:53:11.484532+00:00",
+  "review_status": "awaiting visual QA",
+  "staged_file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\work\\phase2\\generated\\PROP09-byte-price-scanner-gpt26-v002.png"
+}

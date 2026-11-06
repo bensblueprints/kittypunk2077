@@ -1,0 +1,84 @@
+{
+  "asset_id": "CHAR06",
+  "name": "Chairman Barkington",
+  "status": "review_draft_identity_preserved_localized_corrections_needed",
+  "saved_at": "2026-11-06T19:22:28.933602+00:00",
+  "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Phase 2\\Character Masters\\CHAR06-barkington-character-master-gpt26-v001.png",
+  "job_id": "fe451286-dd58-49b8-adc2-65e60e503c41",
+  "model": "gpt_image_2_6",
+  "provider": "Higgsfield",
+  "requested_quality": "high",
+  "requested_resolution": "4k",
+  "requested_aspect_ratio": "16:9",
+  "actual_dimensions": [
+    3840,
+    2160
+  ],
+  "file_format": "PNG",
+  "size_bytes": 10114600,
+  "sha256": "7bd6bd25538e01b41946097869a02d0c6c1f938d8167b94f854e608d1ab5a904",
+  "quote_credits": 4.25,
+  "actual_billed_credits": "not_independently_verified",
+  "budget_lease_credits": 26,
+  "batch_max_jobs": 6,
+  "reference_paths": [
+    "C:\\Users\\DELL\\Desktop\\CyberKitty 2077\\Assets\\Character Sheets\\character-sheet-01-chairman-barkington.png"
+  ],
+  "reference_media_ids": [
+    "c9b3c6e9-f1f3-4f95-86b3-27109dcd6f4a"
+  ],
+  "voice_metadata_only": "Brian",
+  "voice_printed_on_sheet": false,
+  "prompt_file": "CHAR06-barkington-character-master-gpt26-v001.prompt.txt",
+  "generation_params": {
+    "model": "gpt_image_2_6",
+    "prompt": "Create a reusable animation production CHARACTER IDENTITY MASTER reference sheet, 3840 x 2160 landscape 16:9, exactly nine clearly separated panels in a regular 3 x 3 grid. Short clean header: \"CHAR06 — CHAIRMAN BARKINGTON\". This is ONE established individual shown repeatedly, not a group, not a new design. Character age older adult, older anthropomorphic canine executive. Preserve the supplied original identity and costume exactly. IDENTITY LOCK: Older adult male Doberman Pinscher, tall upright ears, long canine muzzle, black fur with precise tan/rust muzzle/cheek/eyebrow markings, purple reflective sunglasses in gold frame. Exact existing black gold-trim three-piece executive suit and long coat, white shirt, deep red tie, grey fur cape collar, black cape with deep red lining, black boots, gold watch and paw signet ring, gold chain and canine corporate emblem. Preserve exact face and tall commanding proportion, no new costume. One fixed outfit in every view. The supplied individual character sheet is the identity/costume authority. Corporate name if used must be Goodboy Global.\n\nVISUAL STYLE: rich realistic fur, expressive stylized cinematic cyberpunk character rendering and physically convincing worn fabric, leather, metal, glass. Neutral charcoal-grey studio backdrop and soft balanced key/fill lighting in ALL panels; small palette-correct practical glow, restrained rim light so all surfaces and fur are readable. No city backgrounds, no neon architecture, no dramatic scene, no cinematic cropping.\n\nLAYOUT / DELIVERABLES, read left-to-right:\n1 FRONT: full body neutral relaxed A-pose, straight frontal orthographic-like view, ears to boots with ample margins.\n2 BACK: matching full body directly from rear, show exact tail attachment, back seams, cape silhouette, boots. Same scale and outfit.\n3 LEFT PROFILE: character's left side, head faces image left, exact side view full body.\n4 RIGHT PROFILE: character's right side, head faces image right, exact opposite profile full body; rotate the actual design, NEVER mirror asymmetric markings/equipment.\n5 FACE: large three-quarter head-and-shoulders identity close-up, signature eyewear or headphones and face clearly readable.\n6 EXPRESSIONS: four clean bust close-ups of this same face: neutral, focused, amused, alarmed. Keep costume and worn eyewear unchanged. No new face design.\n7 PAW GESTURES: two close-ups, open declarative canine paw and composed paw resting on a table edge; correct gloved paw anatomy, fixed gold signet ring and sleeve.\n8 SIGNATURE DETAILS: large close-ups of fixed purple sunglasses, canine muzzle and fur collar; clear gold watch/signature ring details matching reference. Cigar may appear as a separate unlit optional prop, never obscure the face.\n9 COSTUME / ACCESSORIES: isolated laid-out fixed outfit and exact signature accessories, reference-matched front/back garment details, material/colour swatches. This is a breakdown of the SAME outfit worn in panels 1-8, NOT wardrobe alternatives.\n\nOnly short panel labels. No biographies, no voice names/IDs, no product slogans, no watermarks, no other characters. Every full body shows both arms, both legs, both ears and the complete tail if present. Preserve species, fur pattern, eye colour, cheek markings, sunglass geometry and black/gold/red palette, fixed costume seam placement and accessories in all nine panels. Keep anatomical left/right consistent. No human skin or human hands, no extra digits/limbs, no duplicate tails, no alternate clothing, no sexualization.",
+    "quality": "high",
+    "resolution": "4k",
+    "aspect_ratio": "16:9",
+    "count": 1,
+    "output_format": "png",
+    "background": "opaque",
+    "medias": [
+      {
+        "role": "image",
+        "value": "c9b3c6e9-f1f3-4f95-86b3-27109dcd6f4a"
+      }
+    ]
+  },
+  "generation_status": "completed",
+  "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3FexRxU2V7FefQUvOnG7eFCKfmw/hf_20261106_192109_fe451286-dd58-49b8-adc2-65e60e503c41.png",
+  "source_hashes": {
+    "C:\\Users\\DELL\\Desktop\\CyberKitty 2077\\Assets\\Character Sheets\\character-sheet-01-chairman-barkington.png": "76856916f2de5b37c70f1ba726ab7c0f828de3023dedb2c71f92d359401ee88f"
+  },
+  "visual_qa": {
+    "asset_id": "CHAR06",
+    "status": "review_draft_identity_preserved_localized_corrections_needed",
+    "visual_reviewed": true,
+    "passes": [
+      "Established older Doberman face, black/tan markings, upright ears and purple/gold sunglasses preserved.",
+      "Black/gold executive outfit, red tie/cape lining, fur collar, ring/watch and corporate canine emblem retained.",
+      "Regular 3×3 sheet includes all nine required sections; four full-body orientations and clear accessory references."
+    ],
+    "issues": [
+      {
+        "severity": "moderate",
+        "type": "costume_geometry",
+        "note": "Back view introduces a small tan tail protruding through the cape. The canonical source back view shows an uninterrupted black cape, so the new opening/tail must not become canon. Restore the source cape silhouette before using this back view as a production model."
+      },
+      {
+        "severity": "minor",
+        "type": "prop_state",
+        "note": "Face close-up repeats the source lit cigar rather than providing only a separate unlit optional cigar. Treat cigar as scene-dependent; use cigar-free expression panels for neutral dialogue reference."
+      },
+      {
+        "severity": "minor",
+        "type": "expression",
+        "note": "Neutral and focused expressions are nearly identical; final acting sheet needs clearer mouth/ear differentiation."
+      }
+    ],
+    "production_approved": false,
+    "rerender_requested": false,
+    "retry_authorization_required": true
+  }
+}

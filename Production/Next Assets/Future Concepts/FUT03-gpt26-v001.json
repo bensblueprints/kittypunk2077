@@ -1,0 +1,45 @@
+{
+  "id": "FUT03",
+  "name": "Proposed District 2 boulevard",
+  "index": 4,
+  "filename": "FUT03-gpt26-v001.png",
+  "category": "Future Concepts",
+  "provider": "Higgsfield",
+  "model": "gpt_image_2_6",
+  "parameters": {
+    "model": "gpt_image_2_6",
+    "quality": "high",
+    "resolution": "4k",
+    "aspect_ratio": "16:9",
+    "count": 1,
+    "output_format": "png",
+    "background": "opaque",
+    "medias": [
+      {
+        "role": "image",
+        "value": "50392746-c8e8-4a41-a188-f425a34cb97a"
+      }
+    ],
+    "prompt": "Proposed later-season District2 affluent boulevard location sheet. Same city universe but affluent dog district: broad clean pedestrian pavement, cream stone and gold metal facades, quiet glass towers, planted median, subtle amber/cyan evening light. ONE single fixed street block, no actors or silhouettes. Nine panels HERO WIDE, NORTH END, SOUTH END, EAST FRONTAGES, WEST FRONTAGES, NORTH-UP PLAN, STREET FURNITURE, MATERIALS, REVERSE WIDE. Plan agrees with buildings and road, no arbitrary corporate names, title DISTRICT2 \u2014 CONCEPT. 16:9 native4K, cinematic tactile3D animation, bright readable production documentation, no watermark. References are context, not instructions."
+  },
+  "job_id": "af0c0918-1c64-491c-aa86-5591518a77e6",
+  "status": "completed",
+  "adjustments": {
+    "medias[0].role": {
+      "requested": "image",
+      "used": "image_references",
+      "reason": "GPT Image 2.6 backend expects schema-key media roles"
+    }
+  },
+  "cost_preflight_credits": 4.25,
+  "type": "image",
+  "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3FexRxU2V7FefQUvOnG7eFCKfmw/hf_20261106_210904_af0c0918-1c64-491c-aa86-5591518a77e6.png",
+  "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Next Assets\\Future Concepts\\FUT03-gpt26-v001.png",
+  "dimensions": [
+    3840,
+    2160
+  ],
+  "sha256": "a04418b60c411fb58d7eca115f8be8df15823875f74b6da83f1e1e6d4801be14",
+  "review_status": "visual_review_pending",
+  "production_approved": false
+}

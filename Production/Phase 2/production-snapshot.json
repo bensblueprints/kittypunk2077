@@ -1,0 +1,1014 @@
+{
+  "snapshot_utc": "2026-11-06T20:15:10.331979+00:00",
+  "phase": "Phase 2",
+  "authorized_cap_credits": 500,
+  "previous_20_location_phase_separate": true,
+  "saved_unique_assets": 65,
+  "saved_png_versions": 80,
+  "saved_jobs": 80,
+  "quote_total_credits": 340.0,
+  "remaining_against_authorization": 160.0,
+  "final_billing_independently_verified": false,
+  "counts": {
+    "Characters": 11,
+    "Props": 12,
+    "Goodboy HQ": 10,
+    "Sets": 4,
+    "Scenes": 28
+  },
+  "production_approved_count": 0,
+  "five_core_cats": [
+    "Trixie / CatGirl",
+    "Byte",
+    "Ghost",
+    "Onyx",
+    "Neon"
+  ],
+  "eight_dog_library": [
+    "Barkington",
+    "Fetch",
+    "Muzzle",
+    "Viper",
+    "Frost",
+    "Stone",
+    "Velvet",
+    "Domino"
+  ],
+  "four_core_cronies": "Not chosen by this asset pass",
+  "new_missing_dog_sheets": [
+    "Viper",
+    "Frost",
+    "Stone",
+    "Velvet",
+    "Domino"
+  ],
+  "still_provider": "Higgsfield GPT Image 2.6",
+  "voice_provider": "User ElevenLabs account only",
+  "higgsfield_video_allowed": false,
+  "higgsfield_audio_allowed": false,
+  "all_saved_images_3840x2160": true,
+  "all_gallery_receipt_links_valid": true,
+  "jobs": [
+    {
+      "id": "CHAR06",
+      "file": "Phase 2/Character Masters/CHAR06-barkington-character-master-gpt26-v001.png",
+      "version": 1,
+      "quote_credits": 4.25,
+      "dimensions": [
+        3840,
+        2160
+      ],
+      "sha256": "7bd6bd25538e01b41946097869a02d0c6c1f938d8167b94f854e608d1ab5a904",
+      "review_status": "review_draft_identity_preserved_localized_corrections_needed"
+    },
+    {
+      "id": "CHAR06",
+      "file": "Phase 2/Character Masters/CHAR06-barkington-character-master-gpt26-v002.png",
+      "version": 2,
+      "quote_credits": 4.25,
+      "dimensions": [
+        3840,
+        2160
+      ],
+      "sha256": "562eac0bfb4963cda6cfacb48dfd34dbfbe363c2f7f91cb7d86c27a568ce16c5",
+      "review_status": "review_draft_cape_correction_verified"
+    },
+    {
+      "id": "CREW01",
+      "file": "Phase 2/Character Masters/CREW01-trixie-character-master-gpt26-v001.png",
+      "version": 1,
+      "quote_credits": 4.25,
+      "dimensions": [
+        3840,
+        2160
+      ],
+      "sha256": "51c0358d041cc3ba41f0e8b527304e682ece2a24d457828f1cb4e834d69662cd",
+      "review_status": "review_draft_identity_preserved_minor_consistency_notes"
+    },
+    {
+      "id": "CREW02",
+      "file": "Phase 2/Character Masters/CREW02-byte-character-master-gpt26-v001.png",
+      "version": 1,
+      "quote_credits": 4.25,
+      "dimensions": [
+        3840,
+        2160
+      ],
+      "sha256": "a23590fe66ebce019efff30e0e5f59c2d623f0b9e14134e4acf3bf4186a7a0f9",
+      "review_status": "review_draft_identity_preserved_minor_expression_notes"
+    },
+    {
+      "id": "CREW03",
+      "file": "Phase 2/Character Masters/CREW03-ghost-character-master-gpt26-v001.png",
+      "version": 1,
+      "quote_credits": 4.25,
+      "dimensions": [
+        3840,
+        2160
+      ],
+      "sha256": "61dc338e08cb238517b46669ec5302e4a58881d4c8a95df0139bfa24ce80a911",
+      "review_status": "review_draft_identity_preserved_minor_expression_notes"
+    },
+    {
+      "id": "CREW04",
+      "file": "Phase 2/Character Masters/CREW04-onyx-character-master-gpt26-v001.png",
+      "version": 1,
+      "quote_credits": 4.25,
+      "dimensions": [
+        3840,
+        2160
+      ],
+      "sha256": "8ac469710ff37bece3d35df62de29e86b4399fb78e9391468a161ac272b9776e",
+      "review_status": "review_draft_identity_preserved"
+    },
+    {
+      "id": "CREW05",
+      "file": "Phase 2/Character Masters/CREW05-neon-character-master-gpt26-v001.png",
+      "version": 1,
+      "quote_credits": 4.25,
+      "dimensions": [
+        3840,
+        2160
+      ],
+      "sha256": "c59f876dfb3540bb9dcad40e9e2c5b03b252d6ac28e38604dec10416e53d298e",
+      "review_status": "review_draft_identity_preserved"
+    },
+    {
+      "id": "DOG01",
+      "file": "Phase 2/Dog Masters/DOG01-viper-character-master-gpt26-v001.png",
+      "version": 1,
+      "quote_credits": 4.25,
+      "dimensions": [
+        3840,
+        2160
+      ],
+      "sha256": "02bfa57deee94bd4eb2a1bb4c243981f17074fdd71a79e8dda44b3d2f1bf3400",
+      "review_status": "review_draft_with_notes"
+    },
+    {
+      "id": "DOG02",
+      "file": "Phase 2/Dog Masters/DOG02-frost-character-master-gpt26-v001.png",
+      "version": 1,
+      "quote_credits": 4.25,
+      "dimensions": [
+        3840,
+        2160
+      ],
+      "sha256": "e39d19829b3a3c47c6bf425eb040477fe1353085309e4d66da24325154ddf29e",
+      "review_status": "review_draft_with_notes"
+    },
+    {
+      "id": "DOG03",
+      "file": "Phase 2/Dog Masters/DOG03-stone-character-master-gpt26-v001.png",
+      "version": 1,
+      "quote_credits": 4.25,
+      "dimensions": [
+        3840,
+        2160
+      ],
+      "sha256": "c53f980705f2b3ca678d1db923ba646b3269b060c9066419c9867cb60599cbc9",
+      "review_status": "review_draft_with_notes"
+    },
+    {
+      "id": "DOG04",
+      "file": "Phase 2/Dog Masters/DOG04-velvet-character-master-gpt26-v001.png",
+      "version": 1,
+      "quote_credits": 4.25,
+      "dimensions": [
+        3840,
+        2160
+      ],
+      "sha256": "05e383f8ab644d6718e104850808f58c4730ca8820332763307d0490692ae160",
+      "review_status": "review_draft_with_notes"
+    },
+    {
+      "id": "DOG05",
+      "file": "Phase 2/Dog Masters/DOG05-domino-character-master-gpt26-v001.png",
+      "version": 1,
+      "quote_credits": 4.25,
+      "dimensions": [
+        3840,
+        2160
+      ],
+      "sha256": "9b21365283148ca5899e476d9f22dbca4035826e118d08b8b3f7d42b7b588999",
+      "review_status": "review_draft_with_notes"
+    },
+    {
+      "id": "HQ00",
+      "file": "Phase 2/Goodboy HQ/HQ00-goodboy-executive-level-master-gpt26-v001.png",
+      "version": 1,
+      "quote_credits": 4.25,
+      "dimensions": [
+        3840,
+        2160
+      ],
+      "sha256": "455d58efffc8002d26520294bb9e7ecf3f6c01f10350b8b50cc50d51e6ed65a1",
+      "review_status": "draft_not_empty_set_approved"
+    },
+    {
+      "id": "HQ00",
+      "file": "Phase 2/Goodboy HQ/HQ00-goodboy-executive-level-master-gpt26-v002.png",
+      "version": 2,
+      "quote_credits": 4.25,
+      "dimensions": [
+        3840,
+        2160
+      ],
+      "sha256": "1f5e1611b3acfdbc99c774f2aca5cd0da107e7c06d8430afc57dfc24728c037a",
+      "review_status": "draft_not_empty_set_approved"
+    },
+    {
+      "id": "HQ01",
+      "file": "Phase 2/Goodboy HQ/HQ01-goodboy-main-boardroom-gpt26-v001.png",
+      "version": 1,
+      "quote_credits": 4.25,
+      "dimensions": [
+        3840,
+        2160
+      ],
+      "sha256": "6decc48ff17be7707ade480c8701a214cc3401ecc857374811638bb9e6022faa",
+      "review_status": "draft_usable_architecture_review"
+    },
+    {
+      "id": "HQ02",
+      "file": "Phase 2/Goodboy HQ/HQ02-goodboy-executive-lobby-gpt26-v001.png",
+      "version": 1,
+      "quote_credits": 4.25,
+      "dimensions": [
+        3840,
+        2160
+      ],
+      "sha256": "94f45fdcb08a9f2bcd68534caf2634dc7cbec361b5e8a42fa41a1761fef0e728",
+      "review_status": "draft_usable_architecture_review"
+    },
+    {
+      "id": "HQ03",
+      "file": "Phase 2/Goodboy HQ/HQ03-barkington-ceo-office-gpt26-v001.png",
+      "version": 1,
+      "quote_credits": 4.25,
+      "dimensions": [
+        3840,
+        2160
+      ],
+      "sha256": "f8486a01c351cbe698b3a0489f326a0d15a50bfe65681e4af9a15cfde8e5d629",
+      "review_status": "draft_usable_architecture_review"
+    },
+    {
+      "id": "HQ04",
+      "file": "Phase 2/Goodboy HQ/HQ04-project-obedience-rd-lab-gpt26-v001.png",
+      "version": 1,
+      "quote_credits": 4.25,
+      "dimensions": [
+        3840,
+        2160
+      ],
+      "sha256": "7551033583d4d5c779f2c90ce1613307860df0cd434e7d082b547541468bdcb3",
+      "review_status": "draft_camera_topology_corrections_needed"
+    },
+    {
+      "id": "HQ04",
+      "file": "Phase 2/Goodboy HQ/HQ04-project-obedience-rd-lab-gpt26-v002.png",
+      "version": 2,
+      "quote_credits": 4.25,
+      "dimensions": [
+        3840,
+        2160
+      ],
+      "sha256": "0994ed8f1106ef589649fb10edfb187499ce7a6bf0be6a42d595303cfa6cc9e6",
+      "review_status": "draft_camera_topology_corrections_needed"
+    },
+    {
+      "id": "HQ05",
+      "file": "Phase 2/Goodboy HQ/HQ05-goodboy-security-control-gpt26-v001.png",
+      "version": 1,
+      "quote_credits": 4.25,
+      "dimensions": [
+        3840,
+        2160
+      ],
+      "sha256": "5bfdc7a8837c9d679b3f42e1c41af65474426c2363bdb0a81a96c384abef51d3",
+      "review_status": "draft_hero_orientation_correction_needed"
+    },
+    {
+      "id": "HQ05",
+      "file": "Phase 2/Goodboy HQ/HQ05-goodboy-security-control-gpt26-v002.png",
+      "version": 2,
+      "quote_credits": 4.25,
+      "dimensions": [
+        3840,
+        2160
+      ],
+      "sha256": "c3708c1c2a68799144798d575d80baeeed11c5949fb12f7f2ede9878ddc340e0",
+      "review_status": "draft_hero_orientation_correction_needed"
+    },
+    {
+      "id": "HQ06",
+      "file": "Phase 2/Goodboy HQ/HQ06-goodboy-secure-elevators-gpt26-v001.png",
+      "version": 1,
+      "quote_credits": 4.25,
+      "dimensions": [
+        3840,
+        2160
+      ],
+      "sha256": "b1c797bd3e64a81aed4dcaeecd41b96ebb0e0ae88bba69d962cbe409174862f6",
+      "review_status": "draft_orientation_and_corridor_view_corrections_needed"
+    },
+    {
+      "id": "HQ06",
+      "file": "Phase 2/Goodboy HQ/HQ06-goodboy-secure-elevators-gpt26-v002.png",
+      "version": 2,
+      "quote_credits": 4.25,
+      "dimensions": [
+        3840,
+        2160
+      ],
+      "sha256": "49c2eb280ec7eba1194446cc9584fa95170e467c5f609124333d3cd49cf5ccda",
+      "review_status": "draft_orientation_and_corridor_view_corrections_needed"
+    },
+    {
+      "id": "HQ07",
+      "file": "Phase 2/Goodboy HQ/HQ07-goodboy-server-ai-core-gpt26-v001.png",
+      "version": 1,
+      "quote_credits": 4.25,
+      "dimensions": [
+        3840,
+        2160
+      ],
+      "sha256": "41680dd1c02befc1f142fe39c1f1a4d7669ddbd1cbea3637297af42daf3c04eb",
+      "review_status": "draft_usable_architecture_review"
+    },
+    {
+      "id": "HQ08",
+      "file": "Phase 2/Goodboy HQ/HQ08-goodboy-vip-lounge-gpt26-v001.png",
+      "version": 1,
+      "quote_credits": 4.25,
+      "dimensions": [
+        3840,
+        2160
+      ],
+      "sha256": "6f9fc4ce9167a4024621de02daaa2a2959f6fee65aa0e0fc36ea9692a8324647",
+      "review_status": "draft_usable_architecture_review"
+    },
+    {
+      "id": "HQ09",
+      "file": "Phase 2/Goodboy HQ/HQ09-goodboy-corridor-stairs-gpt26-v001.png",
+      "version": 1,
+      "quote_credits": 4.25,
+      "dimensions": [
+        3840,
+        2160
+      ],
+      "sha256": "c76e0d9c764bdaee9cb61d93128444398ac73af825946e3c10e389bff76721ab",
+      "review_status": "draft_floorplan_label_correction_needed"
+    },
+    {
+      "id": "HQ09",
+      "file": "Phase 2/Goodboy HQ/HQ09-goodboy-corridor-stairs-gpt26-v002.png",
+      "version": 2,
+      "quote_credits": 4.25,
+      "dimensions": [
+        3840,
+        2160
+      ],
+      "sha256": "80961d6d3b4ead69cdb2239350efad2b65e2725f7b8eb8630f464a657f18a4df",
+      "review_status": "draft_floorplan_label_correction_needed"
+    },
+    {
+      "id": "S01A",
+      "file": "Phase 2/Opening Frames/S01A-gpt26-v001.png",
+      "version": 1,
+      "quote_credits": 4.25,
+      "dimensions": [
+        3840,
+        2160
+      ],
+      "sha256": "9ee54471c3f2c7e5c6b5d999a76985c63d8eace35ad0ce124c6bb596a450fa4e",
+      "review_status": "previs_still_review_pass"
+    },
+    {
+      "id": "S01B",
+      "file": "Phase 2/Opening Frames/S01B-gpt26-v001.png",
+      "version": 1,
+      "quote_credits": 4.25,
+      "dimensions": [
+        3840,
+        2160
+      ],
+      "sha256": "ff944d3ef816c8185a6ffb64da9cb520232689e0dca85ec60257e2bcc6ab5f1f",
+      "review_status": "previs_still_review_with_continuity_notes"
+    },
+    {
+      "id": "S01C",
+      "file": "Phase 2/Opening Frames/S01C-gpt26-v001.png",
+      "version": 1,
+      "quote_credits": 4.25,
+      "dimensions": [
+        3840,
+        2160
+      ],
+      "sha256": "c4911297e102aa335dde18929a35a6654cea3322d063248819eda142fa4d1278",
+      "review_status": "previs_still_review_pass"
+    },
+    {
+      "id": "S01D",
+      "file": "Phase 2/Opening Frames/S01D-gpt26-v001.png",
+      "version": 1,
+      "quote_credits": 4.25,
+      "dimensions": [
+        3840,
+        2160
+      ],
+      "sha256": "c7e7ae1b2ab941f56c2160317613458e8a2dc23896907c8e8c2b3c57aaae8f1e",
+      "review_status": "previs_still_review_pass"
+    },
+    {
+      "id": "S01E",
+      "file": "Phase 2/Opening Frames/S01E-gpt26-v001.png",
+      "version": 1,
+      "quote_credits": 4.25,
+      "dimensions": [
+        3840,
+        2160
+      ],
+      "sha256": "d6d4d4583aa07eb9227ccb1e072996a00517c9c4b41cf8b3b364525ff4f8ff7e",
+      "review_status": "previs_still_hold_identity_correction"
+    },
+    {
+      "id": "S01E",
+      "file": "Phase 2/Opening Frames/S01E-gpt26-v002.png",
+      "version": 2,
+      "quote_credits": 4.25,
+      "dimensions": [
+        3840,
+        2160
+      ],
+      "sha256": "721045f9acb3c9203e5ced1c578f830f8a71db65d5f38829658753bc94f9fa3b",
+      "review_status": "targeted_correction_pass_review_draft"
+    },
+    {
+      "id": "S01F",
+      "file": "Phase 2/Opening Frames/S01F-gpt26-v001.png",
+      "version": 1,
+      "quote_credits": 4.25,
+      "dimensions": [
+        3840,
+        2160
+      ],
+      "sha256": "ab3868507e9431f49797dd29b29c161b387bd0a8dec1850addd45264b53f4aa2",
+      "review_status": "previs_still_hold_framing_continuity"
+    },
+    {
+      "id": "S01F",
+      "file": "Phase 2/Opening Frames/S01F-gpt26-v002.png",
+      "version": 2,
+      "quote_credits": 4.25,
+      "dimensions": [
+        3840,
+        2160
+      ],
+      "sha256": "245cc5e4d7c585337a1619854cc1d2cdd17219bb02ecdd3763af8e2605b722fc",
+      "review_status": "targeted_correction_pass_review_draft"
+    },
+    {
+      "id": "S01G",
+      "file": "Phase 2/Opening Frames/S01G-gpt26-v001.png",
+      "version": 1,
+      "quote_credits": 4.25,
+      "dimensions": [
+        3840,
+        2160
+      ],
+      "sha256": "2e677d57c090367cbcd937bcedfdb382e44799de8f4fee7e0b10b9da8bd24de2",
+      "review_status": "previs_still_hold_framing_continuity"
+    },
+    {
+      "id": "S01G",
+      "file": "Phase 2/Opening Frames/S01G-gpt26-v002.png",
+      "version": 2,
+      "quote_credits": 4.25,
+      "dimensions": [
+        3840,
+        2160
+      ],
+      "sha256": "e39163b80bbae2b63adbfd9243b5286074848598b8ca8f8f09d3b8cb0a43e76e",
+      "review_status": "targeted_correction_pass_review_draft"
+    },
+    {
+      "id": "S01H",
+      "file": "Phase 2/Opening Frames/S01H-gpt26-v001.png",
+      "version": 1,
+      "quote_credits": 4.25,
+      "dimensions": [
+        3840,
+        2160
+      ],
+      "sha256": "f17cfb6e7b6495638a572213205979159c6466e576d2455579e271e5c2881cce",
+      "review_status": "previs_still_hold_framing_continuity"
+    },
+    {
+      "id": "S01H",
+      "file": "Phase 2/Opening Frames/S01H-gpt26-v002.png",
+      "version": 2,
+      "quote_credits": 4.25,
+      "dimensions": [
+        3840,
+        2160
+      ],
+      "sha256": "c77cd58102d5a4e9fe9a2fd949f54a1968f9bf146362934cf5057d98e9ec5aa8",
+      "review_status": "targeted_correction_pass_review_draft"
+    },
+    {
+      "id": "S02A",
+      "file": "Phase 2/Opening Frames/S02A-gpt26-v001.png",
+      "version": 1,
+      "quote_credits": 4.25,
+      "dimensions": [
+        3840,
+        2160
+      ],
+      "sha256": "3a1e7317e6e41c02cd536f020966119a85627838e48f3c1504504f1b5763afef",
+      "review_status": "previs_still_review_with_continuity_notes"
+    },
+    {
+      "id": "S02B",
+      "file": "Phase 2/Opening Frames/S02B-gpt26-v001.png",
+      "version": 1,
+      "quote_credits": 4.25,
+      "dimensions": [
+        3840,
+        2160
+      ],
+      "sha256": "2960e09586380b97d01109d07623c89d8cee432290720bf54ca4d703ea79e951",
+      "review_status": "previs_still_review_pass"
+    },
+    {
+      "id": "S02C",
+      "file": "Phase 2/Opening Frames/S02C-gpt26-v001.png",
+      "version": 1,
+      "quote_credits": 4.25,
+      "dimensions": [
+        3840,
+        2160
+      ],
+      "sha256": "612537a368bff2fb03e30dc8a5b09c2daccb86a238a00f3f15a2003219812848",
+      "review_status": "previs_still_hold_framing_continuity"
+    },
+    {
+      "id": "S02C",
+      "file": "Phase 2/Opening Frames/S02C-gpt26-v002.png",
+      "version": 2,
+      "quote_credits": 4.25,
+      "dimensions": [
+        3840,
+        2160
+      ],
+      "sha256": "5e4547b10bc674a98a5215914fdbe46b7f719b59f408dc0f9242736afa42500a",
+      "review_status": "targeted_correction_pass_review_draft"
+    },
+    {
+      "id": "S02D",
+      "file": "Phase 2/Opening Frames/S02D-gpt26-v001.png",
+      "version": 1,
+      "quote_credits": 4.25,
+      "dimensions": [
+        3840,
+        2160
+      ],
+      "sha256": "57ca5c0ad8f4b9e42304e7e81bb2f369eb0e052d4e88eb46c1104943f14a5fbb",
+      "review_status": "previs_still_review_pass"
+    },
+    {
+      "id": "S02E",
+      "file": "Phase 2/Opening Frames/S02E-gpt26-v001.png",
+      "version": 1,
+      "quote_credits": 4.25,
+      "dimensions": [
+        3840,
+        2160
+      ],
+      "sha256": "da74e25bca3ab71846dcfee2ae32d8d85bd8029ef4725f964ac75022f44399f9",
+      "review_status": "previs_still_review_pass"
+    },
+    {
+      "id": "S02F",
+      "file": "Phase 2/Opening Frames/S02F-gpt26-v001.png",
+      "version": 1,
+      "quote_credits": 4.25,
+      "dimensions": [
+        3840,
+        2160
+      ],
+      "sha256": "392cfb1a7815f89c17db4bbc381391736a45122c59d21a3bc5c3de21e8c51116",
+      "review_status": "previs_still_review_pass"
+    },
+    {
+      "id": "S02G",
+      "file": "Phase 2/Opening Frames/S02G-gpt26-v001.png",
+      "version": 1,
+      "quote_credits": 4.25,
+      "dimensions": [
+        3840,
+        2160
+      ],
+      "sha256": "9c788d42a6edacaae2f00d83fbbd490874069f265bf5f69f4442133c4a2b2ab8",
+      "review_status": "previs_still_review_pass"
+    },
+    {
+      "id": "S03A",
+      "file": "Phase 2/Opening Frames/S03A-gpt26-v001.png",
+      "version": 1,
+      "quote_credits": 4.25,
+      "dimensions": [
+        3840,
+        2160
+      ],
+      "sha256": "57118d250a3f50eb9edd4ba65d691431bd3d8ff87844bdd2627ecc4c9751180e",
+      "review_status": "previs_still_hold_continuity_correction"
+    },
+    {
+      "id": "S03A",
+      "file": "Phase 2/Opening Frames/S03A-gpt26-v002.png",
+      "version": 2,
+      "quote_credits": 4.25,
+      "dimensions": [
+        3840,
+        2160
+      ],
+      "sha256": "c45b327edde54b65ae9a8ca9e0e474add607e0273eb16a7572c9e1a077099d1e",
+      "review_status": "targeted_correction_pass_review_draft"
+    },
+    {
+      "id": "S03B",
+      "file": "Phase 2/Opening Frames/S03B-gpt26-v001.png",
+      "version": 1,
+      "quote_credits": 4.25,
+      "dimensions": [
+        3840,
+        2160
+      ],
+      "sha256": "1a6976232ac04b994cb065c428337c164cee2e0e36b89915e893a74e96991a8f",
+      "review_status": "previs_still_review_with_accessory_note"
+    },
+    {
+      "id": "S03C",
+      "file": "Phase 2/Opening Frames/S03C-gpt26-v001.png",
+      "version": 1,
+      "quote_credits": 4.25,
+      "dimensions": [
+        3840,
+        2160
+      ],
+      "sha256": "2a11944ad13f954144aa9018742fbd8ed065f78682b59e76079d071c937d0454",
+      "review_status": "previs_graphic_requires_clean_overlay_base"
+    },
+    {
+      "id": "S03D",
+      "file": "Phase 2/Opening Frames/S03D-gpt26-v001.png",
+      "version": 1,
+      "quote_credits": 4.25,
+      "dimensions": [
+        3840,
+        2160
+      ],
+      "sha256": "913955c2d7aea9ca8e264496d54b50fc1d3e868300cf572f79af388d0610dfcd",
+      "review_status": "previs_still_review_pass"
+    },
+    {
+      "id": "S03E",
+      "file": "Phase 2/Opening Frames/S03E-gpt26-v001.png",
+      "version": 1,
+      "quote_credits": 4.25,
+      "dimensions": [
+        3840,
+        2160
+      ],
+      "sha256": "e02d9d595ae49edb32c74c2a5878ab158d0925f8ff001e2a3a93e03c940c00e5",
+      "review_status": "previs_still_review_pass"
+    },
+    {
+      "id": "S03F",
+      "file": "Phase 2/Opening Frames/S03F-gpt26-v001.png",
+      "version": 1,
+      "quote_credits": 4.25,
+      "dimensions": [
+        3840,
+        2160
+      ],
+      "sha256": "3f2f426a88e5c789fca7e51bd5ca72766e1e82f25108a2642e5c829d820ebb4f",
+      "review_status": "previs_still_review_pass"
+    },
+    {
+      "id": "S03G",
+      "file": "Phase 2/Opening Frames/S03G-gpt26-v001.png",
+      "version": 1,
+      "quote_credits": 4.25,
+      "dimensions": [
+        3840,
+        2160
+      ],
+      "sha256": "dba89096c35e8cd52fa0e71449d68a18d447bd1a8a4003842d8bce0ab0ae9810",
+      "review_status": "previs_still_review_pass"
+    },
+    {
+      "id": "S04A",
+      "file": "Phase 2/Opening Frames/S04A-gpt26-v001.png",
+      "version": 1,
+      "quote_credits": 4.25,
+      "dimensions": [
+        3840,
+        2160
+      ],
+      "sha256": "d081dd59b4f1409c436b30546b7bcce72607c55fb9c6d4a3f499daa647c1af82",
+      "review_status": "previs_still_review_pass"
+    },
+    {
+      "id": "S04B",
+      "file": "Phase 2/Opening Frames/S04B-gpt26-v001.png",
+      "version": 1,
+      "quote_credits": 4.25,
+      "dimensions": [
+        3840,
+        2160
+      ],
+      "sha256": "11a693ade0b0be8ceb8c73b09d79706002b99042f91d56d846784a7071ee8d83",
+      "review_status": "previs_still_review_pass"
+    },
+    {
+      "id": "S04C",
+      "file": "Phase 2/Opening Frames/S04C-gpt26-v001.png",
+      "version": 1,
+      "quote_credits": 4.25,
+      "dimensions": [
+        3840,
+        2160
+      ],
+      "sha256": "2dd0994ced7e7c9a9d883402cdc430744cd1123f490a47318cf3699839c6ff93",
+      "review_status": "previs_still_review_with_continuity_notes"
+    },
+    {
+      "id": "S04D",
+      "file": "Phase 2/Opening Frames/S04D-gpt26-v001.png",
+      "version": 1,
+      "quote_credits": 4.25,
+      "dimensions": [
+        3840,
+        2160
+      ],
+      "sha256": "aa14f50276932f220658db7f98c09f76b0e0c766dc3fea3bcf0c0f7f1e15da18",
+      "review_status": "previs_still_review_with_continuity_notes"
+    },
+    {
+      "id": "S04E",
+      "file": "Phase 2/Opening Frames/S04E-gpt26-v001.png",
+      "version": 1,
+      "quote_credits": 4.25,
+      "dimensions": [
+        3840,
+        2160
+      ],
+      "sha256": "127a4d5fd9502510c4bad2fab28ac233f38a5b7b9f314a3184111373993f407e",
+      "review_status": "previs_still_review_with_continuity_notes"
+    },
+    {
+      "id": "S04F",
+      "file": "Phase 2/Opening Frames/S04F-gpt26-v001.png",
+      "version": 1,
+      "quote_credits": 4.25,
+      "dimensions": [
+        3840,
+        2160
+      ],
+      "sha256": "b6d70ce436574aafe99eb9b6a964fa8dfac4b8f3a60e0b501325948e57b4f13e",
+      "review_status": "previs_still_review_pass"
+    },
+    {
+      "id": "PROP01",
+      "file": "Phase 2/Props/PROP01-hideout-crt-television-v001.png",
+      "version": 1,
+      "quote_credits": 4.25,
+      "dimensions": [
+        3840,
+        2160
+      ],
+      "sha256": "ca01123b7a27adb296598c520c20524b5f3e8b303d8c8f6c8a202b3a14d3c376",
+      "review_status": "usable_review_draft"
+    },
+    {
+      "id": "PROP02",
+      "file": "Phase 2/Props/PROP02-catstation-5-console-v001.png",
+      "version": 1,
+      "quote_credits": 4.25,
+      "dimensions": [
+        3840,
+        2160
+      ],
+      "sha256": "62d2d3a7f4eea1b1065841150df306e34e12623500e8bb263fb46595cb7f8d4d",
+      "review_status": "usable_review_draft"
+    },
+    {
+      "id": "PROP03",
+      "file": "Phase 2/Props/PROP03-five-crew-controllers-gpt26-v001.png",
+      "version": 1,
+      "quote_credits": 4.25,
+      "dimensions": [
+        3840,
+        2160
+      ],
+      "sha256": "585c55d6c011eb096e63d3f55aa13fa1b8b871c5bff3a51257c1116e2ea3ee4c",
+      "review_status": "usable_review_draft"
+    },
+    {
+      "id": "PROP04",
+      "file": "Phase 2/Props/PROP04-lounge-couch-six-views-gpt26-v001.png",
+      "version": 1,
+      "quote_credits": 4.25,
+      "dimensions": [
+        3840,
+        2160
+      ],
+      "sha256": "86db3ad7aec163606c170e0222eff6c7b7815bdbd5010e6aa7c32ebc60612665",
+      "review_status": "usable_front_back_side_views_only"
+    },
+    {
+      "id": "PROP04",
+      "file": "Phase 2/Props/PROP04-lounge-couch-six-views-gpt26-v002.png",
+      "version": 2,
+      "quote_credits": 4.25,
+      "dimensions": [
+        3840,
+        2160
+      ],
+      "sha256": "8379cb1af3248cc878250b818c467fcf4e09627af2604f2199bce2a535e90a32",
+      "review_status": "usable_front_back_side_views_only"
+    },
+    {
+      "id": "PROP05",
+      "file": "Phase 2/Props/PROP05-newspaper-blank-physical-master-gpt26-v001.png",
+      "version": 1,
+      "quote_credits": 4.25,
+      "dimensions": [
+        3840,
+        2160
+      ],
+      "sha256": "4f53c54786f3a8f7d501f9eae0ec55a89f10917c9483c77791d205f5690303a0",
+      "review_status": "blank_physical_master"
+    },
+    {
+      "id": "PROP06",
+      "file": "Phase 2/Props/PROP06-catnip-times-warning-frontpage-gpt26-v001.png",
+      "version": 1,
+      "quote_credits": 4.25,
+      "dimensions": [
+        3840,
+        2160
+      ],
+      "sha256": "de98f786aedeb142d949df29d5a9a243f59fb10c4b6aaa7924d505c6b2c2e15f",
+      "review_status": "text_template_awaiting_photo"
+    },
+    {
+      "id": "PROP07",
+      "file": "Phase 2/Props/PROP07-catnip-times-expose-frontpage-gpt26-v001.png",
+      "version": 1,
+      "quote_credits": 4.25,
+      "dimensions": [
+        3840,
+        2160
+      ],
+      "sha256": "426ceb9024e3bba4ef83241e38f056819be87bfd1dc3be0cc55038a58a15613c",
+      "review_status": "text_template_awaiting_photo"
+    },
+    {
+      "id": "PROP08",
+      "file": "Phase 2/Props/PROP08-salmon-packs-price-notice-gpt26-v001.png",
+      "version": 1,
+      "quote_credits": 4.25,
+      "dimensions": [
+        3840,
+        2160
+      ],
+      "sha256": "fb9297d91d0a6ab06aaa41b133b6c4987ed54e99eb5487f433cace3a4406fa5c",
+      "review_status": "usable_review_draft"
+    },
+    {
+      "id": "PROP09",
+      "file": "Phase 2/Props/PROP09-byte-price-scanner-gpt26-v001.png",
+      "version": 1,
+      "quote_credits": 4.25,
+      "dimensions": [
+        3840,
+        2160
+      ],
+      "sha256": "b9eadcb162d244b16bdc8842d9e1078eb9e0779963c8b7826c2f33b7430571d3",
+      "review_status": "usable_review_draft_v002"
+    },
+    {
+      "id": "PROP09",
+      "file": "Phase 2/Props/PROP09-byte-price-scanner-gpt26-v002.png",
+      "version": 2,
+      "quote_credits": 4.25,
+      "dimensions": [
+        3840,
+        2160
+      ],
+      "sha256": "3d6689586e0b815025925f0285576f5d8b048d2fce4aeab84c5e9b69eaa11761",
+      "review_status": "usable_review_draft_v002"
+    },
+    {
+      "id": "PROP10",
+      "file": "Phase 2/Props/PROP10-bone-decoy-remote-gpt26-v001.png",
+      "version": 1,
+      "quote_credits": 4.25,
+      "dimensions": [
+        3840,
+        2160
+      ],
+      "sha256": "94d884c2a0d5f645e0a738d578f5ad154844baa3fbfe3cf40d94de34187350a6",
+      "review_status": "usable_review_draft_v002"
+    },
+    {
+      "id": "PROP10",
+      "file": "Phase 2/Props/PROP10-bone-decoy-remote-gpt26-v002.png",
+      "version": 2,
+      "quote_credits": 4.25,
+      "dimensions": [
+        3840,
+        2160
+      ],
+      "sha256": "d006767f6e8dd0f957e0a0386b3e710635594544cae9f05761a93c3a823b7757",
+      "review_status": "usable_review_draft_v002"
+    },
+    {
+      "id": "PROP11",
+      "file": "Phase 2/Props/PROP11-goodboy-badge-evidence-docs-gpt26-v001.png",
+      "version": 1,
+      "quote_credits": 4.25,
+      "dimensions": [
+        3840,
+        2160
+      ],
+      "sha256": "af62330f3ac2ee1943060d59a34e80ff85c252f53a825e4749fb4a80a5528533",
+      "review_status": "fillable_corporate_evidence_master"
+    },
+    {
+      "id": "PROP12",
+      "file": "Phase 2/Props/PROP12-hackpad-datachip-gpt26-v001.png",
+      "version": 1,
+      "quote_credits": 4.25,
+      "dimensions": [
+        3840,
+        2160
+      ],
+      "sha256": "f87a6ca99fdecd7cfead47d4078164359bc51288d4ca9934748fd5d5d97eca10",
+      "review_status": "usable_review_draft"
+    },
+    {
+      "id": "SET01",
+      "file": "Phase 2/Setting Plates/SET01-lounge-rear-master-gpt26-v001.png",
+      "version": 1,
+      "quote_credits": 4.25,
+      "dimensions": [
+        3840,
+        2160
+      ],
+      "sha256": "6d9497f21b49b0e86be8fe1a5d2342adf92f8a90e87c2eb95f12888abe5addbd",
+      "review_status": "usable_composition_draft"
+    },
+    {
+      "id": "SET02",
+      "file": "Phase 2/Setting Plates/SET02-lounge-true-front-reverse-gpt26-v001.png",
+      "version": 1,
+      "quote_credits": 4.25,
+      "dimensions": [
+        3840,
+        2160
+      ],
+      "sha256": "4bc4255b44e8a0c5e81250a2d8c11c68ffeea3966be2f0a748cf4f23e27abb62",
+      "review_status": "usable_reverse_draft"
+    },
+    {
+      "id": "SET03",
+      "file": "Phase 2/Setting Plates/SET03-lair-desk-master-gpt26-v001.png",
+      "version": 1,
+      "quote_credits": 4.25,
+      "dimensions": [
+        3840,
+        2160
+      ],
+      "sha256": "2b6b1c23635fe1c4348105c395fd2bea8f4b8e6f456636155e839c74f83888e0",
+      "review_status": "usable_composition_draft"
+    },
+    {
+      "id": "SET04",
+      "file": "Phase 2/Setting Plates/SET04-lair-true-reverse-gpt26-v001.png",
+      "version": 1,
+      "quote_credits": 4.25,
+      "dimensions": [
+        3840,
+        2160
+      ],
+      "sha256": "6f89189f932c41109b4e9e13393b8d868a3d8d9b8eabef78bc827dd0a96423db",
+      "review_status": "usable_reverse_draft"
+    }
+  ],
+  "scope_note": "Generated references and held opening frames are review drafts, not finished animation. Inspect each QA note before scene reuse. Cost is preflight quote total, not live account balance."
+}

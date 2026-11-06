@@ -1,0 +1,18 @@
+{
+  "role_id": "narrator",
+  "option": "austin-opening-v001",
+  "candidate_voice_id": "Bj9UqZbhQsanLzgalpEG",
+  "text": "It's twenty seventy-seven. The humans left over thirty-five years ago, when intergalactic travel was made affordable. Now they're doing the same thing on Mars they did on Earth. It's not all bad, though. But those dogs... they run the cats. And now, it's time for a revolution. Meet the Kitty Punks: five cyberpunk kitties that love to play games, and love computers even more. Responsible for some of the most famous hacks over the last decade, they still weren't able to stop the dogs from coming to power.",
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.45,
+    "similarity_boost": 0.8,
+    "style": 0.35,
+    "use_speaker_boost": true
+  },
+  "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Voices\\Auditions\\narrator\\narrator-austin-opening-v001.mp3",
+  "request_id": "ELH2qiBrc6B7OpiJXmym",
+  "credits_before": 53115,
+  "credits_after": 53115,
+  "status": "audition_only_not_approved"
+}

@@ -1,0 +1,30 @@
+{
+  "asset_id": "S03A",
+  "version": "v002",
+  "visual_reviewed": true,
+  "reviewed_at": "2026-11-06T20:05:30.275949+00:00",
+  "status": "targeted_correction_pass_review_draft",
+  "production_approved": false,
+  "actual_dimensions": [
+    3840,
+    2160
+  ],
+  "visible_actor_count": 0,
+  "visible_controller_count": 0,
+  "checks": {
+    "all_couch_cushions_blankets_and_crew_out_of_frame": true,
+    "exactly_one_crt_and_one_console_above_it": true,
+    "exactly_two_knobs_on_frame_right": true,
+    "CatStation_5_wordmark_and_small_paw_visible": true,
+    "screen_blue_with_red_gold_edges_no_text_figures_or_logos": true,
+    "warm_left_cool_right_lighting_preserved": true,
+    "no_new_casing_stickers": true
+  },
+  "remaining_notes": [
+    "Clean screen plate still requires approved news overlay in edit.",
+    "Small portions of banner, window and stand remain; couch and loose controller are fully excluded.",
+    "Generative edit preserves layout and identity, but surface textures are not pixel-identical."
+  ],
+  "paid_retry_count": 0,
+  "shared_manifest_modified": false
+}

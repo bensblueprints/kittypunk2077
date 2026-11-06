@@ -1,0 +1,120 @@
+{
+  "asset_id": "S03A",
+  "name": "CRT news graphic insert",
+  "batch": 2,
+  "index": 16,
+  "scene": 3,
+  "editorial_shot_id": "S03-01",
+  "provider": "Higgsfield",
+  "model": "gpt_image_2_6",
+  "media_type": "image",
+  "status": "targeted_correction_pass_review_draft",
+  "generation_status": "completed",
+  "job_id": "7502209c-f4b7-4d13-aa74-234a0352995c",
+  "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3FexRxU2V7FefQUvOnG7eFCKfmw/hf_20261106_200049_7502209c-f4b7-4d13-aa74-234a0352995c.png",
+  "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Phase 2\\Opening Frames\\S03A-gpt26-v002.png",
+  "filename": "S03A-gpt26-v002.png",
+  "actual_dimensions": [
+    3840,
+    2160
+  ],
+  "file_format": "PNG",
+  "size_bytes": 11119850,
+  "sha256": "c45b327edde54b65ae9a8ca9e0e474add607e0273eb16a7572c9e1a077099d1e",
+  "saved_at": "2026-11-06T20:02:56.687562+00:00",
+  "quote_credits": 4.25,
+  "actual_billed_credits": "not_independently_verified",
+  "batch_lease_credits": 4.25,
+  "max_authorized_jobs": 1,
+  "no_automatic_paid_retry": true,
+  "reference_paths": [
+    "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Phase 2\\Opening Frames\\S03A-gpt26-v001.png",
+    "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Phase 2\\Props\\PROP02-catstation-5-console-v001.png"
+  ],
+  "reference_media": [
+    {
+      "role": "image",
+      "value": "f588870e-b4dd-45a8-bc5d-ddf746ac7d82"
+    },
+    {
+      "role": "image",
+      "value": "23aca75c-f31d-44b6-9357-70c57ec0aa7b"
+    }
+  ],
+  "source_hashes": {
+    "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Phase 2\\Opening Frames\\S03A-gpt26-v001.png": "57118d250a3f50eb9edd4ba65d691431bd3d8ff87844bdd2627ecc4c9751180e",
+    "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Phase 2\\Props\\PROP02-catstation-5-console-v001.png": "62d2d3a7f4eea1b1065841150df306e34e12623500e8bb263fb46595cb7f8d4d"
+  },
+  "generation_params": {
+    "model": "gpt_image_2_6",
+    "quality": "high",
+    "resolution": "4k",
+    "aspect_ratio": "16:9",
+    "count": 1,
+    "output_format": "png",
+    "background": "opaque",
+    "prompt": "Use case: precise-object-edit / identity-preserve. Make ONE corrected 3840x2160 cinematic 16:9 still from reference image 1, the existing S03A lounge TV insert. Reference image 1 is the EDIT TARGET and controls the exact rusty CRT, its two round knobs stacked on frame-RIGHT, screen glass, console placement, lighting and surrounding materials. Reference image 2 is SUPPORTING PROP REFERENCE ONLY for the CatStation 5 console casing and exact small paw-logo/wordmark, never copy its grid or labels.\n\nTARGETED CORRECTION: Remove the single loose controller that currently sits on top of the television. There must be ZERO controllers anywhere in this output: all five are with the off-camera cats. Tighten the composition to a clean CRT-and-console insert, with the television and its existing console ABOVE it as the only main objects. Reframe/crop away ALL couch backs, cushions, blankets, snacks, foreground furniture and all crew. The lower frame should end at or just below the TV housing/base, with no couch visible at all. Preserve the TV's original proportions, the two right-side knobs and right-side speaker grille. Keep one physical television and one console, no duplicates. Keep enough of the console's white side panel visible to show its correct small black paw icon and exact wording \"CatStation 5\" as in reference 2. Maintain the same scuffed white casing, black center and subtle blue status light; no other manufacturer logo or extra words. Do not add new stickers to the TV casing.\n\nSCREEN: Preserve the source empty corporate-blue glass with restrained red/gold edge accents, completely free of typography, figures, numerals, logos and network overlays. Main screen and lower-third are clean for later compositing. Do not add Barkington, an anchor, gameplay, a second screen or news text.\n\nPreserve the established warm amber left / cool cyan-magenta right light and the same weathered lounge materials in the small amount of background that remains. No room redesign, no couch, no cats, no dogs, no people, no paws, no controller or other extra prop. This is a single clean TV insert for a later overlay, not a reference sheet, storyboard, collage or advertising image. No captions, shot IDs, panel labels, watermark or visible production instructions. Keep the repair focused on controller removal, tight framing and the exact console wordmark.",
+    "medias": [
+      {
+        "role": "image",
+        "value": "f588870e-b4dd-45a8-bc5d-ddf746ac7d82"
+      },
+      {
+        "role": "image",
+        "value": "23aca75c-f31d-44b6-9357-70c57ec0aa7b"
+      }
+    ]
+  },
+  "dependencies": [
+    "SET01",
+    "PROP01",
+    "PROP02"
+  ],
+  "dependency_status": "Required files present, parent cleared SET01/SET02 and corrected PROP04v002/CHAR06v002 for previs; input images visually inspected.",
+  "expected_visible_actor_count": 0,
+  "expected_visible_roles": [],
+  "audio_alignment_file": "S03A-gpt26-v002.alignment.json",
+  "prompt_file": "S03A-gpt26-v002.prompt.txt",
+  "production_approved": false,
+  "higgsfield_audio_allowed": false,
+  "higgsfield_video_allowed": false,
+  "visual_qa": {
+    "asset_id": "S03A",
+    "version": "v002",
+    "visual_reviewed": true,
+    "reviewed_at": "2026-11-06T20:05:30.275949+00:00",
+    "status": "targeted_correction_pass_review_draft",
+    "production_approved": false,
+    "actual_dimensions": [
+      3840,
+      2160
+    ],
+    "visible_actor_count": 0,
+    "visible_controller_count": 0,
+    "checks": {
+      "all_couch_cushions_blankets_and_crew_out_of_frame": true,
+      "exactly_one_crt_and_one_console_above_it": true,
+      "exactly_two_knobs_on_frame_right": true,
+      "CatStation_5_wordmark_and_small_paw_visible": true,
+      "screen_blue_with_red_gold_edges_no_text_figures_or_logos": true,
+      "warm_left_cool_right_lighting_preserved": true,
+      "no_new_casing_stickers": true
+    },
+    "remaining_notes": [
+      "Clean screen plate still requires approved news overlay in edit.",
+      "Small portions of banner, window and stand remain; couch and loose controller are fully excluded.",
+      "Generative edit preserves layout and identity, but surface textures are not pixel-identical."
+    ],
+    "paid_retry_count": 0,
+    "shared_manifest_modified": false
+  },
+  "version": 2,
+  "paid_retries": 0,
+  "supersedes_filename": "S03A-gpt26-v001.png",
+  "edit_scope": "Remove spare controller; exclude all couch/crew; preserve blank-screen CRT and console above; restore exact CatStation 5 wordmark.",
+  "expected_controller_count": 0,
+  "shared_generation_manifest_update": "Merged by root after original28-frame batch completed.",
+  "qa_file": "S03A-gpt26-v002.qa.json",
+  "authorization_scope": "Separately authorized targeted revision within500-credit Phase2 allowance; outside original28-frame119-credit lease.",
+  "source_initial_frame_lease_credits": 119
+}

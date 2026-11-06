@@ -1,0 +1,113 @@
+{
+  "asset_id": "S01H",
+  "name": "Ghost reaction",
+  "batch": 3,
+  "index": 8,
+  "scene": 1,
+  "editorial_shot_id": "S01-08",
+  "provider": "Higgsfield",
+  "model": "gpt_image_2_6",
+  "media_type": "image",
+  "status": "targeted_correction_pass_review_draft",
+  "generation_status": "completed",
+  "job_id": "ea72d07d-5124-4caa-8239-b3c6f09aa2a0",
+  "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3FexRxU2V7FefQUvOnG7eFCKfmw/hf_20261106_200802_ea72d07d-5124-4caa-8239-b3c6f09aa2a0.png",
+  "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Phase 2\\Opening Frames\\S01H-gpt26-v002.png",
+  "filename": "S01H-gpt26-v002.png",
+  "actual_dimensions": [
+    3840,
+    2160
+  ],
+  "file_format": "PNG",
+  "size_bytes": 14754656,
+  "sha256": "c77cd58102d5a4e9fe9a2fd949f54a1968f9bf146362934cf5057d98e9ec5aa8",
+  "saved_at": "2026-11-06T20:10:27.531944+00:00",
+  "quote_credits": 4.25,
+  "actual_billed_credits": "not_independently_verified",
+  "batch_lease_credits": 21.25,
+  "max_authorized_jobs": 5,
+  "no_automatic_paid_retry": true,
+  "reference_paths": [
+    "E:/MovedFromC/Documents/Codex/2026-11-06/https-chatgpt-com-share-6aedf171-aae8-2/outputs/Phase 2/Opening Frames/S01H-gpt26-v001.png"
+  ],
+  "reference_media": [
+    {
+      "role": "image",
+      "value": "75372dfe-5d73-4d6f-a120-e0abee024825"
+    }
+  ],
+  "source_hashes": {
+    "E:/MovedFromC/Documents/Codex/2026-11-06/https-chatgpt-com-share-6aedf171-aae8-2/outputs/Phase 2/Opening Frames/S01H-gpt26-v001.png": "f17cfb6e7b6495638a572213205979159c6466e576d2455579e271e5c2881cce"
+  },
+  "generation_params": {
+    "model": "gpt_image_2_6",
+    "quality": "high",
+    "resolution": "4k",
+    "aspect_ratio": "16:9",
+    "count": 1,
+    "output_format": "png",
+    "background": "opaque",
+    "prompt": "Use case: identity-preserving targeted shot correction. Return ONE cinematic 3840x2160 16:9 still, not a sheet, collage or storyboard. The first supplied image is the exact EDIT TARGET. Preserve its character identity, fur pattern, wardrobe, lighting, material style and moment. Do not add any character, face, reflection of a character, extra limb, text, watermark or label. No television or console in this front-side shot. No new action, costume or room redesign. PRIMARY CORRECTION: turn the overly wide source into an EXTREME CLOSE-UP portrait. Move the camera close enough that the face, hood/ears and upper shoulders dominate the 16:9 image and the shoulders continue past the left and right frame edges. Frame from just above the ears down to the upper chest. The lower edge is ABOVE the couch-seat level. ALL couch seats, neighboring back cushions, armrests and blankets are completely OUT OF FRAME on both sides. No vacant brown cushion or empty seat may appear. The other four crew members remain seated in their established positions beyond the crop; do not depict them or erase them from a newly visible area. Only a soft unfocused fragment of the existing wall and its original amber/cyan/magenta light may remain behind the head. Do not preserve the wide room/window/doorway composition. Keep the same controller physically in the character's lap below the frame; do not raise it or add a second controller to fit the close-up. If a tiny edge of it happens to remain at the very bottom, retain its original white/black casing and assigned accent, otherwise leave it naturally outside the crop. Do not show knees, lap, seated full body or neighboring furniture. Exactly ONE visible cat: GHOST, the same youthful grey tabby with pale muzzle, translucent luminous GREEN AR visor, dark hood and green stealth accents from the target. Preserve his calm tiny mouth-corner smile and gaze toward the offscreen TV near the camera. Keep the visor green and preserve hidden-eye ambiguity, no invented eye color or cyan goggles. His existing controller accent is GREEN. No new headset, scarf or borrowed accessories.",
+    "medias": [
+      {
+        "role": "image",
+        "value": "75372dfe-5d73-4d6f-a120-e0abee024825"
+      }
+    ]
+  },
+  "dependencies": [
+    "SET02",
+    "PROP03",
+    "PROP04",
+    "CREW03"
+  ],
+  "dependency_status": "Required files present, parent cleared SET01/SET02 and corrected PROP04v002/CHAR06v002 for previs; input images visually inspected.",
+  "expected_visible_actor_count": 1,
+  "expected_visible_roles": [
+    "CREW03"
+  ],
+  "audio_alignment_file": "S01H-gpt26-v002.alignment.json",
+  "prompt_file": "S01H-gpt26-v002.prompt.txt",
+  "production_approved": false,
+  "higgsfield_audio_allowed": false,
+  "higgsfield_video_allowed": false,
+  "visual_qa": {
+    "asset_id": "S01H",
+    "version": "v002",
+    "visual_reviewed": true,
+    "reviewed_at": "2026-11-06T20:11:59.975313+00:00",
+    "status": "targeted_correction_pass_review_draft",
+    "production_approved": false,
+    "actual_dimensions": [
+      3840,
+      2160
+    ],
+    "hard_actor_count_pass": true,
+    "paid_retry_count": 0,
+    "shared_manifest_modified": false,
+    "visible_actor_count": 1,
+    "visible_roles": [
+      "Ghost"
+    ],
+    "visible_controller_count": 0,
+    "passes": [
+      "No couch cushions, empty seats, blankets or armrests visible.",
+      "Single Ghost retains grey fur, pale muzzle, green visor and dark hood with green accents.",
+      "Calm mouth-corner expression retained; no revealed or newly assigned eye color.",
+      "No extra actor or raised controller; source controller platform glyph is outside this crop."
+    ],
+    "minor_notes": [
+      "Extreme close-up crops ear tips; little motion margin.",
+      "Controller remains below the crop and its physical design is not re-verified in this version."
+    ]
+  },
+  "version": 2,
+  "paid_retries": 0,
+  "supersedes_filename": "S01H-gpt26-v001.png",
+  "edit_scope": "Tighten Ghost close-up to exclude all neighboring couch seats.",
+  "shared_generation_manifest_update": "Merged by root after original28-frame batch completed.",
+  "qa_file": "S01H-gpt26-v002.qa.json",
+  "observed_controller_count": 0,
+  "authorization_scope": "Separately authorized targeted revision within500-credit Phase2 allowance; outside original28-frame119-credit lease.",
+  "source_initial_frame_lease_credits": 119
+}

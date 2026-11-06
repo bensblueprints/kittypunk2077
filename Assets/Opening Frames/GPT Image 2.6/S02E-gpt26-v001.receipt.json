@@ -1,0 +1,102 @@
+{
+  "asset_id": "S02E",
+  "name": "Neon close-up",
+  "batch": 4,
+  "index": 13,
+  "scene": 2,
+  "editorial_shot_id": "S02-05",
+  "provider": "Higgsfield",
+  "model": "gpt_image_2_6",
+  "media_type": "image",
+  "status": "previs_still_review_pass",
+  "generation_status": "completed",
+  "job_id": "5763edc4-8ea0-4ea4-99f2-d69130ee1dda",
+  "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3FexRxU2V7FefQUvOnG7eFCKfmw/hf_20261106_200529_5763edc4-8ea0-4ea4-99f2-d69130ee1dda.png",
+  "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Phase 2\\Opening Frames\\S02E-gpt26-v001.png",
+  "filename": "S02E-gpt26-v001.png",
+  "actual_dimensions": [
+    3840,
+    2160
+  ],
+  "file_format": "PNG",
+  "size_bytes": 14726948,
+  "sha256": "da74e25bca3ab71846dcfee2ae32d8d85bd8029ef4725f964ac75022f44399f9",
+  "saved_at": "2026-11-06T20:07:37.745015+00:00",
+  "quote_credits": 4.25,
+  "actual_billed_credits": "not_independently_verified",
+  "batch_lease_credits": 119,
+  "max_authorized_jobs": 28,
+  "no_automatic_paid_retry": true,
+  "reference_paths": [
+    "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Phase 2\\Setting Plates\\SET02-lounge-true-front-reverse-gpt26-v001.png",
+    "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Phase 2\\Character Masters\\CREW05-neon-character-master-gpt26-v001.png"
+  ],
+  "reference_media": [
+    {
+      "value": "a8de5630-f81b-4f05-b584-c87e28597935",
+      "type": "completed_generation_job",
+      "asset_id": "SET02"
+    },
+    {
+      "value": "0c466b0b-44c3-41d7-bd9b-d67f481fffad",
+      "type": "completed_generation_job",
+      "asset_id": "CREW05"
+    }
+  ],
+  "source_hashes": {
+    "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Phase 2\\Setting Plates\\SET02-lounge-true-front-reverse-gpt26-v001.png": "4bc4255b44e8a0c5e81250a2d8c11c68ffeea3966be2f0a748cf4f23e27abb62",
+    "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Phase 2\\Character Masters\\CREW05-neon-character-master-gpt26-v001.png": "c59f876dfb3540bb9dcad40e9e2c5b03b252d6ac28e38604dec10416e53d298e"
+  },
+  "generation_params": {
+    "model": "gpt_image_2_6",
+    "quality": "high",
+    "resolution": "4k",
+    "aspect_ratio": "16:9",
+    "count": 1,
+    "output_format": "png",
+    "background": "opaque",
+    "prompt": "Create ONE single cinematic16:9 still frame, requested3840x2160, high detail. This is a clean animation start frame, not a contact sheet, grid, storyboard page, split screen or sequence. Use tactile cinematic3D cyberpunk animation: readable fur and fabrics, weathered metal/brick/concrete, restrained cyan/magenta practical light and warm amber lamps, plausible optics and shadows. Keep the supplied established world and physical designs. No title, panel label, shot ID, subtitles, dialogue, timestamp, watermark or production annotation is burned into the image. One natural held pose at the beginning of the described beat; do not try to show a whole shot’s duration or multiple actions in one image. Any dialogue supplied separately is performance context only and must never appear as words in the picture. Use only the specified visible cast; realistic feline/canine paws, no human fingers, extra limbs, merged bodies, duplicate faces or borrowed accessories. Reference sheets provide identity/material evidence only: never copy their panel layout, text or labels into this single frame. EXTREME CLOSE-UP composition. The actor's head and upper shoulders fill nearly the entire picture, bottom edge at upper chest. The actor stays seated on the existing couch, but no seat cushions, neighboring places, blankets, controllers or other cats can be visible. Do not make a medium or full-body shot. NEON front close-up from his far-right seat. Keep cyan goggles and patterned scarf, silver-grey striped fur; one actor only. His shoulders lean forward a little, head angles LEFT toward the group, expression indignant at interrupted play. Natural start-of-speech mouth, other cast outside crop. NEON: boy16, silver-grey tabby, white muzzle and fixed stripes, blue/cyan goggles or visor and patterned blue scarf, blue engineer gear. Keep scarf, lens color and tool rig consistent; no green visor.\n\nReference 1 supplies only the existing lounge's blurred background materials and lighting; camera is from the TV side, window glow on frame LEFT and passage glow on frame RIGHT. TV and console are behind camera and absent. Reference 2 is the actor's immutable face, fur and costume identity. No panel labels or lettering. Tight head-and-shoulders crop, shallow depth of field, no empty neighboring places.",
+    "medias": [
+      {
+        "role": "image",
+        "value": "a8de5630-f81b-4f05-b584-c87e28597935"
+      },
+      {
+        "role": "image",
+        "value": "0c466b0b-44c3-41d7-bd9b-d67f481fffad"
+      }
+    ]
+  },
+  "dependencies": [
+    "SET02",
+    "PROP04",
+    "CREW05"
+  ],
+  "dependency_status": "Required files present, parent cleared SET01/SET02 and corrected PROP04v002/CHAR06v002 for previs; input images visually inspected.",
+  "expected_visible_actor_count": 1,
+  "expected_visible_roles": [
+    "CREW05"
+  ],
+  "audio_alignment_file": "S02E-gpt26-v001.alignment.json",
+  "prompt_file": "S02E-gpt26-v001.prompt.txt",
+  "production_approved": false,
+  "higgsfield_audio_allowed": false,
+  "higgsfield_video_allowed": false,
+  "visual_qa": {
+    "asset_id": "S02E",
+    "visual_reviewed": true,
+    "status": "previs_still_review_pass",
+    "expected_actor_count": 1,
+    "observed_actor_count": 1,
+    "hard_actor_count_pass": true,
+    "anatomy_check": "One cat face and upper shoulders; no extra anatomy.",
+    "passes": [
+      "Neon's cyan visor, visible amber eyes, silver stripes and patterned scarf remain correct; open-mouth interrupted-play reaction.",
+      "Tight face/shoulder framing excludes neighboring seat spaces, controllers and other actors.",
+      "Blurred lounge keeps window glow left and passage right; television absent."
+    ],
+    "issues": [],
+    "production_approved": false,
+    "paid_retry_performed": false
+  }
+}

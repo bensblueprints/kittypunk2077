@@ -1,0 +1,63 @@
+{
+  "generator_used_for_completed": "built-in image_gen",
+  "generation_stop_reason": "User changed provider to Orbis NanoBanana; no new built-in submissions after change.",
+  "completed": [
+    "LOC01",
+    "LOC02",
+    "LOC03"
+  ],
+  "in_flight": [],
+  "unsubmitted": [
+    "LOC04",
+    "LOC05",
+    "LOC06",
+    "LOC07"
+  ],
+  "qa": [
+    {
+      "id": "LOC01",
+      "filename": "LOC01-warehouse-exterior.png",
+      "status": "usable draft; visually inspected",
+      "notes": [
+        "Empty architectural sheet with all nine panels; source-matched warehouse shell, south cargo door and staff door at right.",
+        "Reverse wide is under the cargo-door canopy; treat it as a covered loading apron. Overhead is a conceptual roof/set diagram, not measured CAD."
+      ]
+    },
+    {
+      "id": "LOC02",
+      "filename": "LOC02-warehouse-lounge.png",
+      "status": "reference-matched main views; cleanup required before scene lock",
+      "notes": [
+        "Blank rusty CRT with two right knobs, upright white/black console above CRT, District 7 banner to left and window to right retained.",
+        "No cats or people in the set.",
+        "Couch emblem repeats on the visible seated side in reverse view and couch cushion segmentation/overhead orientation should be reconciled against the original rear-couch reference. Use panel 1 as visual authority for the main angle until corrected.",
+        "Window side elevation is an expanded unseen angle and should remain proposed rather than an immutable recovered blueprint."
+      ]
+    },
+    {
+      "id": "LOC03",
+      "filename": "LOC03-hacking-operations.png",
+      "status": "usable draft; diagram label correction required",
+      "notes": [
+        "Five empty workstation positions and five chairs; blank screens; consistent industrial/cyan-magenta-amber material style.",
+        "Overhead diagram camera B/C descriptions are reversed against the east/west placement. Correct these textual labels before using as camera instructions.",
+        "No characters or people present."
+      ]
+    }
+  ],
+  "prompts_file": "loc01-07-prompts.json",
+  "source_paths": [
+    {
+      "id": "LOC01",
+      "source": "C:\\Users\\DELL\\.codex\\generated_images\\01a1b1a3-e93b-7551-927d-a4b52b4fa543\\exec-284a81d2-d6c5-41f0-a200-e3ab2b4bbbc8.png"
+    },
+    {
+      "id": "LOC02",
+      "source": "C:\\Users\\DELL\\.codex\\generated_images\\01a1b1a3-e93b-7551-927d-a4b52b4fa543\\exec-3a22f870-5631-4036-9a6d-5032186d4b52.png"
+    },
+    {
+      "id": "LOC03",
+      "source": "C:\\Users\\DELL\\.codex\\generated_images\\01a1b1a3-e93b-7551-927d-a4b52b4fa543\\exec-646a8381-7375-403e-8277-7a3aeaeac677.png"
+    }
+  ]
+}

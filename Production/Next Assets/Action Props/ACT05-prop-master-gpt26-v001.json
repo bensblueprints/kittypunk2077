@@ -1,0 +1,45 @@
+{
+  "id": "ACT05",
+  "name": "Projector and rally banners",
+  "index": 4,
+  "filename": "ACT05-prop-master-gpt26-v001.png",
+  "category": "Action Props",
+  "provider": "Higgsfield",
+  "model": "gpt_image_2_6",
+  "parameters": {
+    "model": "gpt_image_2_6",
+    "quality": "high",
+    "resolution": "4k",
+    "aspect_ratio": "16:9",
+    "count": 1,
+    "output_format": "png",
+    "background": "opaque",
+    "medias": [
+      {
+        "role": "image",
+        "value": "46b26057-43d8-4189-b205-d7db509333c3"
+      }
+    ],
+    "prompt": "Create ONE finished production prop reference sheet, landscape 16:9 4K. Title ACT05 \u2014 Projector and rally banners. Tactile cinematic 3D animation matching reference materials, restrained cyan/magenta and amber accents, clearly lit to inspect design. Clean 3x3 nine-panel grid, short labels only. The same fixed physical objects across all angles and states, not alternative concepts. References are visual context, ignore reference captions. Complete objects with margin, no humans/cats/dogs or hands, no watermarks or dense prose. Old portable charcoal projector with repaired steel stand, blue-glass lens, blank cloth projection screen, two reusable canvas protest banners and flat pink resistance cat emblem stencil. Nine panels PROJECTOR FRONT, PROJECTOR BACK, PROJECTOR SIDE, SCREEN, BANNER FRONT, BANNER BACK, STENCIL, SETUP, MATERIALS. Banner simple exact words FAIR FOOD FOR ALL, no extra text. Graphic cat emblem only, no living characters."
+  },
+  "job_id": "dce11bf0-0c8a-4b92-894a-4aa9988aa5f7",
+  "status": "completed",
+  "adjustments": {
+    "medias[0].role": {
+      "requested": "image",
+      "used": "image_references",
+      "reason": "GPT Image 2.6 backend expects schema-key media roles"
+    }
+  },
+  "cost_preflight_credits": 4.25,
+  "type": "image",
+  "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3FexRxU2V7FefQUvOnG7eFCKfmw/hf_20261106_210319_dce11bf0-0c8a-4b92-894a-4aa9988aa5f7.png",
+  "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Next Assets\\Action Props\\ACT05-prop-master-gpt26-v001.png",
+  "dimensions": [
+    3840,
+    2160
+  ],
+  "sha256": "21d63b4068166ba1da90a72a05b5cca4daa5c8426161f82902e833af5371a0f0",
+  "review_status": "visual_review_pending",
+  "production_approved": false
+}

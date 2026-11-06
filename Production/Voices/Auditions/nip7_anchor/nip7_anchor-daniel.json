@@ -1,0 +1,18 @@
+{
+  "role_id": "nip7_anchor",
+  "option": "daniel",
+  "candidate_voice_id": "onwK4e9ZLuTAKqWW03F9",
+  "text": "Exclusive tonight: leaked footage shows Chairman Barkington Orders making an undisclosed cash payment to a senior Woof Seven journalist. Newly released records confirm that Good Dog Global diverted salmon shipments away from feline neighborhoods.",
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.5,
+    "similarity_boost": 0.75,
+    "style": 0.15,
+    "use_speaker_boost": true
+  },
+  "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Voices\\Auditions\\nip7_anchor\\nip7_anchor-daniel.mp3",
+  "request_id": "NswSM3HxlTLoP6MJRDj7",
+  "credits_before": 52796,
+  "credits_after": 52796,
+  "status": "audition_only_not_approved"
+}

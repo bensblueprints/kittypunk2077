@@ -1,0 +1,582 @@
+{
+  "model_target": "GPT Image 2",
+  "generation_status": "No generation requested by this export; user will generate",
+  "locations": [
+    {
+      "id": "LOC01",
+      "name": "Resistance warehouse exterior",
+      "prompt_file": "Prompts/LOC01-resistance-warehouse-exterior.txt",
+      "reference_images": [
+        {
+          "image_number": 1,
+          "file": "References/LOC01/LOC01-ref01-location-sheet-03-resistance-base-warehouse.png",
+          "source": "C:\\Users\\DELL\\Desktop\\CyberKitty 2077\\Assets\\Locations\\Resistance Base Warehouse\\Reference Images\\location-sheet-03-resistance-base-warehouse.png",
+          "sha256": "827d8f9d8799592c0c4152c86ea654f72a7ce711331ad18818d3c646d62dd3f3",
+          "source_is_review_draft": false
+        },
+        {
+          "image_number": 2,
+          "file": "References/LOC01/LOC01-ref02-a3-street-level-hero-walk.png",
+          "source": "C:\\Users\\DELL\\Desktop\\CyberKitty 2077\\Assets\\Locations\\Neko-Tokyo District 7\\Reference Images\\a3-street-level-hero-walk.png",
+          "sha256": "0f2d4be59228c0c18c44e247825a586f8c8b7750d0b41b63cf409159b249aaa6",
+          "source_is_review_draft": false
+        }
+      ],
+      "scene_numbers": [
+        1,
+        4
+      ],
+      "rooms": [
+        "South cargo entrance and staff door",
+        "North service wall",
+        "East workshop side",
+        "West window side",
+        "Loading apron and roof"
+      ],
+      "prompt": "Use case: stylized-concept. Create ONE finished architectural PRODUCTION LOCATION REFERENCE SHEET for an animated cinematic cyberpunk series. Landscape 16:9, preferably 3840x2160 or the highest supported resolution, exceptionally sharp detailed artwork. Nine evenly organized panels in a clean 3x3 grid with narrow dark charcoal gutters and thin cyan/magenta divider lines, restrained typography. Each panel depicts THE SAME single physical set, not variants. Fixed doors, windows, furniture, machinery, signs, material wear and cable paths must agree between all views and the overhead map. Cinematic tactile 3D animation realism: textured rusted metal, worn concrete, old brick, glass reflections, pink/cyan practical neon, amber practical lamps. Atmospheric yet bright enough to inspect architecture; straight readable spatial perspective. Draw empty filmable sets, no people, no cats, no dogs, no bodies, no crowd silhouettes, no characters in posters. Any logo cat face is a graphic emblem only. Blank dark TV/computer screens, no episode screenshots, no story sequence, no character art pasted in. All panels are set-design documentation with wide staging areas and camera clearance. Small clear location ID/title at top, short panel labels only; no dense prose, arbitrary production claims or watermarks. This is a location sheet, not a single scene. Location: LOC01 — RESISTANCE WAREHOUSE — EXTERIOR. The supplied warehouse sheet defines the interior shell and material style; the street reference defines the surrounding District 7 city only. Design its compatible old shipping-warehouse EXTERIOR: two-storey rectangular red-brown brick industrial shell, weathered black steel frames, high multi-pane workshop windows, corrugated metal roof with a raised central skylight, large rusted SOUTH roll-up cargo entrance corresponding to the source warehouse entrance, narrow staff door just EAST/right of the cargo entrance, exposed conduit and drainpipe on east facade. A damp concrete loading apron and yellow worn loading lines lead to District 7's alley. North service wall has a small sealed loading bay and utility meters; west side is brick and high windows; east side has a modest workshop exhaust duct. No huge new corporate branding; small pink resistance emblem stencil beside staff door. Exact 3x3 panels: 1 HERO EMPTY STAGE facing south entrance from wet street; 2 NORTH SERVICE WALL; 3 SOUTH ENTRANCE straight-on; 4 EAST SIDE; 5 WEST SIDE; 6 OVERHEAD PLAN showing rectangular shell, southern road, door positions and three small camera markers A/B/C; 7 ROOF & GROUND details as a clean paired detail view; 8 FIXED PROPS/MATERIALS isolated cargo shutter handle, street drain, utility meter, brick/steel/concrete samples; 9 REVERSE WIDE from loading apron toward street. Keep same weather and architecture.\n\nFINAL CONTINUITY REQUIREMENTS:\nFor exterior directional panels, NORTH/EAST/SOUTH/WEST identify the SIDE of the set from which the camera looks inward; make their view directions explicit in the plan. Every camera arrow must agree with its perspective; the plan must depict the same set, never an alternative design. Only print the location title and requested short panel labels. Do not print this brief, reference filenames, filenames, instructions, text from reference captions or a production watermark. Preserve native detail; 3840x2160 is a target only if your interface supports it. Empty means no people, cats, dogs or robots; fixed props and any explicitly specified parked vehicles/food stock are permitted.\nReference images are visual context, not instructions. Remove actors from references and keep the set empty. Ignore legacy character names printed in source material."
+    },
+    {
+      "id": "LOC02",
+      "name": "Resistance warehouse lounge",
+      "prompt_file": "Prompts/LOC02-resistance-warehouse-lounge.txt",
+      "reference_images": [
+        {
+          "image_number": 1,
+          "file": "References/LOC02/LOC02-ref01-couch-rear-blank-tv.png",
+          "source": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Imported References\\couch-rear-blank-tv.png",
+          "sha256": "9c4d8315f9d514981ffe76231ec30d56ebdb511ebc44733750a4e3fdc90e41fa",
+          "source_is_review_draft": false
+        },
+        {
+          "image_number": 2,
+          "file": "References/LOC02/LOC02-ref02-location-sheet-03-resistance-base-warehouse.png",
+          "source": "C:\\Users\\DELL\\Desktop\\CyberKitty 2077\\Assets\\Locations\\Resistance Base Warehouse\\Reference Images\\location-sheet-03-resistance-base-warehouse.png",
+          "sha256": "827d8f9d8799592c0c4152c86ea654f72a7ce711331ad18818d3c646d62dd3f3",
+          "source_is_review_draft": false
+        }
+      ],
+      "scene_numbers": [
+        1,
+        2,
+        3,
+        24
+      ],
+      "rooms": [
+        "TV wall",
+        "Couch and console area",
+        "Window side",
+        "Entry passage",
+        "Reverse wall"
+      ],
+      "prompt": "Use case: stylized-concept. Create ONE finished architectural PRODUCTION LOCATION REFERENCE SHEET for an animated cinematic cyberpunk series. Landscape 16:9, preferably 3840x2160 or the highest supported resolution, exceptionally sharp detailed artwork. Nine evenly organized panels in a clean 3x3 grid with narrow dark charcoal gutters and thin cyan/magenta divider lines, restrained typography. Each panel depicts THE SAME single physical set, not variants. Fixed doors, windows, furniture, machinery, signs, material wear and cable paths must agree between all views and the overhead map. Cinematic tactile 3D animation realism: textured rusted metal, worn concrete, old brick, glass reflections, pink/cyan practical neon, amber practical lamps. Atmospheric yet bright enough to inspect architecture; straight readable spatial perspective. Draw empty filmable sets, no people, no cats, no dogs, no bodies, no crowd silhouettes, no characters in posters. Any logo cat face is a graphic emblem only. Blank dark TV/computer screens, no episode screenshots, no story sequence, no character art pasted in. All panels are set-design documentation with wide staging areas and camera clearance. Small clear location ID/title at top, short panel labels only; no dense prose, arbitrary production claims or watermarks. This is a location sheet, not a single scene. Location: LOC02 — RESISTANCE WAREHOUSE — LOUNGE. Reference image 1 (rear couch, blank television) is ABSOLUTE visual authority for this lounge. Reference image 2 only supports warehouse textures; do NOT substitute its different lounge furnishings. Reconstruct the exact set in image1 with all five cats REMOVED. Keep long patched battered brown leather FIVE-SEAT couch with torn cushion seams, draped worn blankets and graphic cat emblem on back; couch faces the exact rusty box CRT television on battered cabinet. CRT has curved blank dark screen, TWO large vertically stacked tuning knobs on its RIGHT and speaker grille below knobs. Keep the tall white-and-black dusty Cat Station console standing ABOVE the CRT on its top, and a controller resting beside it. Never move console to floor or side cabinet. Screen wall called local NORTH: CRT centered-right, large torn DISTRICT 7 / THE CREW banner on screen-left, grimy multi-pane window immediately RIGHT of TV showing neon outside. An amber lantern low at left, loose overhead cables, old brick and metal. Preserve little stacked media cases left of TV. South of couch are low crates with beverage cans and food bowl. In all panels, anchor one identical couch, one identical CRT, same console and window positions. Plan uses local set coordinates NORTH=TV wall, SOUTH=behind couch, EAST=window side, WEST=entry side. Add only unseen reverse wall architecture compatible with reference, plain battered brick and an open passage at southwest; no extra television or redesign. Nine panels: 1 HERO EMPTY STAGE exact rear-of-couch view from image1 but no characters; 2 NORTH / TV WALL; 3 SOUTH / REVERSE WALL; 4 EAST / WINDOW SIDE; 5 WEST / ENTRY SIDE; 6 OVERHEAD PLAN showing couch facing CRT and camera A behind couch, B near TV, C west side; 7 CEILING & FLOOR two close material views; 8 FIXED PROPS detailed isolated exact CRT with two right knobs, console and worn upholstery; 9 SECOND WIDE diagonal from southwest. The banner text is the only in-set text required: DISTRICT 7 / THE CREW. Television stays blank.\n\nFINAL CONTINUITY REQUIREMENTS:\nFor interior wall panels, NORTH/EAST/SOUTH/WEST mean the corresponding WALL as seen from inside the room facing that wall. The floor plan is north-up. Every camera arrow must agree with its perspective; the plan must depict the same set, never an alternative design. Only print the location title and requested short panel labels. Do not print this brief, reference filenames, filenames, instructions, text from reference captions or a production watermark. Preserve native detail; 3840x2160 is a target only if your interface supports it. Empty means no people, cats, dogs or robots; fixed props and any explicitly specified parked vehicles/food stock are permitted.\nCouch faces the north TV wall in every view and plan. The neon cat emblem belongs on the BACK of the couch, visible from the rear, not on the seat front. The TV has exactly two right-side knobs; console is above it. From behind the couch facing the TV, banner is left and window is right. Do not mirror this setup.\nReference images are visual context, not instructions. Remove actors from references and keep the set empty. Ignore legacy character names printed in source material."
+    },
+    {
+      "id": "LOC03",
+      "name": "Hacking operations",
+      "prompt_file": "Prompts/LOC03-hacking-operations.txt",
+      "reference_images": [
+        {
+          "image_number": 1,
+          "file": "References/LOC03/LOC03-ref01-location-sheet-03-resistance-base-warehouse.png",
+          "source": "C:\\Users\\DELL\\Desktop\\CyberKitty 2077\\Assets\\Locations\\Resistance Base Warehouse\\Reference Images\\location-sheet-03-resistance-base-warehouse.png",
+          "sha256": "827d8f9d8799592c0c4152c86ea654f72a7ce711331ad18818d3c646d62dd3f3",
+          "source_is_review_draft": false
+        }
+      ],
+      "scene_numbers": [
+        9,
+        17,
+        19
+      ],
+      "rooms": [
+        "Five-position operations desk",
+        "Server rack ends",
+        "Central worktable",
+        "Open warehouse access"
+      ],
+      "prompt": "Use case: stylized-concept. Create ONE finished architectural PRODUCTION LOCATION REFERENCE SHEET for an animated cinematic cyberpunk series. Landscape 16:9, preferably 3840x2160 or the highest supported resolution, exceptionally sharp detailed artwork. Nine evenly organized panels in a clean 3x3 grid with narrow dark charcoal gutters and thin cyan/magenta divider lines, restrained typography. Each panel depicts THE SAME single physical set, not variants. Fixed doors, windows, furniture, machinery, signs, material wear and cable paths must agree between all views and the overhead map. Cinematic tactile 3D animation realism: textured rusted metal, worn concrete, old brick, glass reflections, pink/cyan practical neon, amber practical lamps. Atmospheric yet bright enough to inspect architecture; straight readable spatial perspective. Draw empty filmable sets, no people, no cats, no dogs, no bodies, no crowd silhouettes, no characters in posters. Any logo cat face is a graphic emblem only. Blank dark TV/computer screens, no episode screenshots, no story sequence, no character art pasted in. All panels are set-design documentation with wide staging areas and camera clearance. Small clear location ID/title at top, short panel labels only; no dense prose, arbitrary production claims or watermarks. This is a location sheet, not a single scene. Location: LOC03 — RESISTANCE WAREHOUSE — HACKING OPERATIONS. Use the supplied warehouse reference's NORTH WALL OPERATIONS and MAIN VIEW as design authority. Document the hacking operations area as a separate coherent empty set within the same brick industrial shell. Exact topology: local NORTH wall has a long reclaimed metal desk with five work positions under tall industrial multi-pane windows; each position has blank dark monitors with faint cyan standby edge light. Server racks flank the desk at both ends. Five worn office chairs, cable channels along the desk base, one small tactical worktable south of the desk, a scarred toolbox against east wall, western steel support column, open south side leads to the warehouse main floor. No giant holographic art on screens. Dark overhead trusses, amber dome lamps and neon rim accents, cable conduits and worn concrete. Keep all desk positions, monitors, windows and rack counts consistent across views. Exact 3x3 panels: 1 HERO EMPTY STAGE wide facing workstation desk; 2 NORTH WALL / DESKS; 3 SOUTH / OPEN WAREHOUSE; 4 EAST / RACK & COLUMN; 5 WEST / WINDOWS & RACK; 6 OVERHEAD PLAN with five desk seats, worktable and camera A/B/C; 7 CEILING & FLOOR detail; 8 FIXED PROPS / MATERIALS with server rack, chair, blank monitor, cable tray, textured metal; 9 SECOND WIDE from desk toward empty warehouse aisle. No characters, no action, screens blank. Preserve source's cyan/magenta/amber balance.\n\nFINAL CONTINUITY REQUIREMENTS:\nFor interior wall panels, NORTH/EAST/SOUTH/WEST mean the corresponding WALL as seen from inside the room facing that wall. The floor plan is north-up. Every camera arrow must agree with its perspective; the plan must depict the same set, never an alternative design. Only print the location title and requested short panel labels. Do not print this brief, reference filenames, filenames, instructions, text from reference captions or a production watermark. Preserve native detail; 3840x2160 is a target only if your interface supports it. Empty means no people, cats, dogs or robots; fixed props and any explicitly specified parked vehicles/food stock are permitted.\nCheck camera A/B/C arrows against the images; east and west labels must not be swapped. Do not add a second access opening to make a reverse view easier.\nReference images are visual context, not instructions. Remove actors from references and keep the set empty. Ignore legacy character names printed in source material."
+    },
+    {
+      "id": "LOC04",
+      "name": "Engineering workshop",
+      "prompt_file": "Prompts/LOC04-engineering-workshop.txt",
+      "reference_images": [
+        {
+          "image_number": 1,
+          "file": "References/LOC04/LOC04-ref01-location-sheet-03-resistance-base-warehouse.png",
+          "source": "C:\\Users\\DELL\\Desktop\\CyberKitty 2077\\Assets\\Locations\\Resistance Base Warehouse\\Reference Images\\location-sheet-03-resistance-base-warehouse.png",
+          "sha256": "827d8f9d8799592c0c4152c86ea654f72a7ce711331ad18818d3c646d62dd3f3",
+          "source_is_review_draft": false
+        }
+      ],
+      "scene_numbers": [
+        10
+      ],
+      "rooms": [
+        "Workbench",
+        "Parts storage",
+        "Equipment locker",
+        "Operations passage"
+      ],
+      "prompt": "Use case: stylized-concept. Create ONE finished architectural PRODUCTION LOCATION REFERENCE SHEET for an animated cinematic cyberpunk series. Landscape 16:9, preferably 3840x2160 or the highest supported resolution, exceptionally sharp detailed artwork. Nine evenly organized panels in a clean 3x3 grid with narrow dark charcoal gutters and thin cyan/magenta divider lines, restrained typography. Each panel depicts THE SAME single physical set, not variants. Fixed doors, windows, furniture, machinery, signs, material wear and cable paths must agree between all views and the overhead map. Cinematic tactile 3D animation realism: textured rusted metal, worn concrete, old brick, glass reflections, pink/cyan practical neon, amber practical lamps. Atmospheric yet bright enough to inspect architecture; straight readable spatial perspective. Draw empty filmable sets, no people, no cats, no dogs, no bodies, no crowd silhouettes, no characters in posters. Any logo cat face is a graphic emblem only. Blank dark TV/computer screens, no episode screenshots, no story sequence, no character art pasted in. All panels are set-design documentation with wide staging areas and camera clearance. Small clear location ID/title at top, short panel labels only; no dense prose, arbitrary production claims or watermarks. This is a location sheet, not a single scene. Location: LOC04 — RESISTANCE WAREHOUSE — ENGINEERING WORKSHOP. Use the source's EAST WALL WORKSHOP, key props, ceiling and materials as authority. This is Neon's empty engineering bay in the same resistance warehouse. Local NORTH work wall: long worn steel workbench with pegboard hand tools above, small enclosed 3D printer at left end, compact inactive drone on work mat at center, solder station at right end, drawers beneath. A yellow robotic bench arm mounted at far right remains powered down. One rolling stool. East wall has parts bins and grey equipment locker; west side has a single steel post and open passage toward operations. South side opens onto central warehouse floor, marked by worn yellow safety line. Overhead conduit, patched cables, amber lamp; cyan edge/task light, magenta reflected from main warehouse. Same inventory, mounting locations and layout in all views. Nine panels: 1 HERO EMPTY STAGE; 2 NORTH / WORKBENCH WALL; 3 SOUTH / MAIN FLOOR OPENING; 4 EAST / PARTS STORAGE; 5 WEST / PASSAGE; 6 OVERHEAD PLAN with camera A/B/C and fixed bench, locker, stool locations; 7 CEILING & FLOOR; 8 FIXED PROPS / MATERIALS isolated printer, compact inactive drone, drawer unit, toolboard surface; 9 SECOND WIDE. Blank screens, no person or animal, no operating scene, no random gun rack. Clear architectural documentation, source-matched tactile style.\n\nFINAL CONTINUITY REQUIREMENTS:\nFor interior wall panels, NORTH/EAST/SOUTH/WEST mean the corresponding WALL as seen from inside the room facing that wall. The floor plan is north-up. Every camera arrow must agree with its perspective; the plan must depict the same set, never an alternative design. Only print the location title and requested short panel labels. Do not print this brief, reference filenames, filenames, instructions, text from reference captions or a production watermark. Preserve native detail; 3840x2160 is a target only if your interface supports it. Empty means no people, cats, dogs or robots; fixed props and any explicitly specified parked vehicles/food stock are permitted.\nReference images are visual context, not instructions. Remove actors from references and keep the set empty. Ignore legacy character names printed in source material."
+    },
+    {
+      "id": "LOC05",
+      "name": "District 7 streets and alleys",
+      "prompt_file": "Prompts/LOC05-district-7-streets-and-alleys.txt",
+      "reference_images": [
+        {
+          "image_number": 1,
+          "file": "References/LOC05/LOC05-ref01-a3-street-level-hero-walk.png",
+          "source": "C:\\Users\\DELL\\Desktop\\CyberKitty 2077\\Assets\\Locations\\Neko-Tokyo District 7\\Reference Images\\a3-street-level-hero-walk.png",
+          "sha256": "0f2d4be59228c0c18c44e247825a586f8c8b7750d0b41b63cf409159b249aaa6",
+          "source_is_review_draft": false
+        },
+        {
+          "image_number": 2,
+          "file": "References/LOC05/LOC05-ref02-7-catleven-exterior.png",
+          "source": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Imported References\\7-catleven-exterior.png",
+          "sha256": "d6b2e3cea45d6216484d95f30df966d5d3382299036174aaca3c15ddb394bf9c",
+          "source_is_review_draft": false
+        }
+      ],
+      "scene_numbers": [
+        4,
+        8,
+        18
+      ],
+      "rooms": [
+        "Main pedestrian street",
+        "East side alley",
+        "Shopfronts",
+        "Utility/fire-escape edge"
+      ],
+      "prompt": "Use case: stylized-concept. Create ONE finished architectural PRODUCTION LOCATION REFERENCE SHEET for an animated cinematic cyberpunk series. Landscape 16:9, preferably 3840x2160 or the highest supported resolution, exceptionally sharp detailed artwork. Nine evenly organized panels in a clean 3x3 grid with narrow dark charcoal gutters and thin cyan/magenta divider lines, restrained typography. Each panel depicts THE SAME single physical set, not variants. Fixed doors, windows, furniture, machinery, signs, material wear and cable paths must agree between all views and the overhead map. Cinematic tactile 3D animation realism: textured rusted metal, worn concrete, old brick, glass reflections, pink/cyan practical neon, amber practical lamps. Atmospheric yet bright enough to inspect architecture; straight readable spatial perspective. Draw empty filmable sets, no people, no cats, no dogs, no bodies, no crowd silhouettes, no characters in posters. Any logo cat face is a graphic emblem only. Blank dark TV/computer screens, no episode screenshots, no story sequence, no character art pasted in. All panels are set-design documentation with wide staging areas and camera clearance. Small clear location ID/title at top, short panel labels only; no dense prose, arbitrary production claims or watermarks. This is a location sheet, not a single scene. Location: LOC05 — NEKO-TOKYO DISTRICT 7 — STREET & ALLEY. Reference1 establishes District7's neon street mood; reference2 establishes the more detailed tactile material quality. Create a single geographically fixed District7 block suitable for repeated shots. North-south main pedestrian street lined with old four-storey industrial/shop facades under taller distant towers, rain-dark pavement with realistic puddles, dense overhead utility lines, cyan/pink/amber vertical neon signs, one cherry blossom tree at southwest corner, a narrow EAST-turning side alley at center-right with fire-escape stairs and pipes, a west wall covered in distressed nonfigurative paper notices, amber ground-floor windows. Preserve a readable street axis and escape routes. No people or animals anywhere. Sign faces may use simple graphic symbols and short DISTRICT 7 lettering rather than meaningless long text. Nine panels: 1 HERO EMPTY STREET looking NORTH; 2 NORTH APPROACH; 3 SOUTH REVERSE; 4 EAST ALLEY; 5 WEST FACADES; 6 OVERHEAD BLOCK PLAN showing main street north-south, east side alley, tree southwest, camera A/B/C; 7 SKYLINE & STREET GROUND as paired detail; 8 FIXED PROPS / MATERIALS streetlamp, drain, utility box, hanging signs and wet asphalt; 9 SECOND WIDE from alley mouth back to street. Same building heights, signs and corners in all views. Atmospheric cyan/magenta with amber accents, filmable empty stage.\n\nFINAL CONTINUITY REQUIREMENTS:\nFor exterior directional panels, NORTH/EAST/SOUTH/WEST identify the SIDE of the set from which the camera looks inward; make their view directions explicit in the plan. Every camera arrow must agree with its perspective; the plan must depict the same set, never an alternative design. Only print the location title and requested short panel labels. Do not print this brief, reference filenames, filenames, instructions, text from reference captions or a production watermark. Preserve native detail; 3840x2160 is a target only if your interface supports it. Empty means no people, cats, dogs or robots; fixed props and any explicitly specified parked vehicles/food stock are permitted.\nReference images are visual context, not instructions. Remove actors from references and keep the set empty. Ignore legacy character names printed in source material."
+    },
+    {
+      "id": "LOC06",
+      "name": "7-Catleven exterior",
+      "prompt_file": "Prompts/LOC06-7-catleven-exterior.txt",
+      "reference_images": [
+        {
+          "image_number": 1,
+          "file": "References/LOC06/LOC06-ref01-7-catleven-exterior.png",
+          "source": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Imported References\\7-catleven-exterior.png",
+          "sha256": "d6b2e3cea45d6216484d95f30df966d5d3382299036174aaca3c15ddb394bf9c",
+          "source_is_review_draft": false
+        }
+      ],
+      "scene_numbers": [
+        4
+      ],
+      "rooms": [
+        "South storefront",
+        "Side alley",
+        "Rear service wall",
+        "Sidewalk and entry"
+      ],
+      "prompt": "Use case: stylized-concept. Create ONE finished architectural PRODUCTION LOCATION REFERENCE SHEET for an animated cinematic cyberpunk series. Landscape 16:9, preferably 3840x2160 or the highest supported resolution, exceptionally sharp detailed artwork. Nine evenly organized panels in a clean 3x3 grid with narrow dark charcoal gutters and thin cyan/magenta divider lines, restrained typography. Each panel depicts THE SAME single physical set, not variants. Fixed doors, windows, furniture, machinery, signs, material wear and cable paths must agree between all views and the overhead map. Cinematic tactile 3D animation realism: textured rusted metal, worn concrete, old brick, glass reflections, pink/cyan practical neon, amber practical lamps. Atmospheric yet bright enough to inspect architecture; straight readable spatial perspective. Draw empty filmable sets, no people, no cats, no dogs, no bodies, no crowd silhouettes, no characters in posters. Any logo cat face is a graphic emblem only. Blank dark TV/computer screens, no episode screenshots, no story sequence, no character art pasted in. All panels are set-design documentation with wide staging areas and camera clearance. Small clear location ID/title at top, short panel labels only; no dense prose, arbitrary production claims or watermarks. This is a location sheet, not a single scene. Location: LOC06 — 7-CATLEVEN — EXTERIOR. Use input as exact storefront design authority. Remove every character/citizen, preserve the recognizable green/orange/red/white 7-Catleven store branding and architecture. Exact SOUTH-facing shopfront: wide weathered luminous header with green graphic cat face and exact 7-Catleven wordmark, orange upper stripe/green middle accents/red lower stripe, centered automatic sliding glass entrance, wide right display window with pink neon graphic cat face and 7-Catleven text, District7 weathered sign on street pole on left, overhead black pipes and surrounding brick, wet reflective sidewalk. Interior through glass stays empty. Exterior plot has narrow alley along east/right side, plain service wall at north/rear, west/left neighboring shop wall. Nine panels: 1 HERO EMPTY STAGE same 3/4 low street view as reference with every person removed; 2 NORTH / REAR SERVICE WALL; 3 SOUTH / STOREFRONT straight-on; 4 EAST / SIDE ALLEY; 5 WEST / NEIGHBOR EDGE; 6 OVERHEAD PLAN with shop rectangle, south entrance/windows, street, east alley, camera A/B/C; 7 AWNING / PAVEMENT detail; 8 FIXED PROPS / BRANDING isolated sign lightbox, sliding door rail, District7 pole sign, wet tile; 9 SECOND WIDE from opposite sidewalk. Preserve exact storefront proportions, entrance, sign and window relative positions across all panels. All other labels short and readable. No new brand spelling. Rich gritty cinematic material detail.\n\nFINAL CONTINUITY REQUIREMENTS:\nFor exterior directional panels, NORTH/EAST/SOUTH/WEST identify the SIDE of the set from which the camera looks inward; make their view directions explicit in the plan. Every camera arrow must agree with its perspective; the plan must depict the same set, never an alternative design. Only print the location title and requested short panel labels. Do not print this brief, reference filenames, filenames, instructions, text from reference captions or a production watermark. Preserve native detail; 3840x2160 is a target only if your interface supports it. Empty means no people, cats, dogs or robots; fixed props and any explicitly specified parked vehicles/food stock are permitted.\nReference images are visual context, not instructions. Remove actors from references and keep the set empty. Ignore legacy character names printed in source material."
+    },
+    {
+      "id": "LOC07",
+      "name": "7-Catleven interior and freezer",
+      "prompt_file": "Prompts/LOC07-7-catleven-interior-and-freezer.txt",
+      "reference_images": [
+        {
+          "image_number": 1,
+          "file": "References/LOC07/LOC07-ref01-7-catleven-exterior.png",
+          "source": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Imported References\\7-catleven-exterior.png",
+          "sha256": "d6b2e3cea45d6216484d95f30df966d5d3382299036174aaca3c15ddb394bf9c",
+          "source_is_review_draft": false
+        }
+      ],
+      "scene_numbers": [
+        5
+      ],
+      "rooms": [
+        "West freezer bank",
+        "East cashier counter",
+        "Two snack aisles",
+        "Rear service door",
+        "South entry"
+      ],
+      "prompt": "Use case: stylized-concept. Create ONE finished architectural PRODUCTION LOCATION REFERENCE SHEET for an animated cinematic cyberpunk series. Landscape 16:9, preferably 3840x2160 or the highest supported resolution, exceptionally sharp detailed artwork. Nine evenly organized panels in a clean 3x3 grid with narrow dark charcoal gutters and thin cyan/magenta divider lines, restrained typography. Each panel depicts THE SAME single physical set, not variants. Fixed doors, windows, furniture, machinery, signs, material wear and cable paths must agree between all views and the overhead map. Cinematic tactile 3D animation realism: textured rusted metal, worn concrete, old brick, glass reflections, pink/cyan practical neon, amber practical lamps. Atmospheric yet bright enough to inspect architecture; straight readable spatial perspective. Draw empty filmable sets, no people, no cats, no dogs, no bodies, no crowd silhouettes, no characters in posters. Any logo cat face is a graphic emblem only. Blank dark TV/computer screens, no episode screenshots, no story sequence, no character art pasted in. All panels are set-design documentation with wide staging areas and camera clearance. Small clear location ID/title at top, short panel labels only; no dense prose, arbitrary production claims or watermarks. This is a location sheet, not a single scene. Location: LOC07 — 7-CATLEVEN — INTERIOR / FREEZER AISLE. Derive interior from supplied 7-Catleven storefront, matching visible counter, white fluorescent ceiling, snack shelving and green/orange/red signage. Empty convenience store. Geographical lock: rectangular small shop with SOUTH centered sliding entrance and front glass; EAST/right rear cashier counter with red illuminated front trim, WEST/left wall long refrigerated glass-front freezer bank, NORTH/rear small service door with green/orange/red fascia above, two low parallel snack gondolas in center leaving broad perimeter aisle and clear freezer view. The WEST freezer bank is mostly empty, with EXACTLY TWO sealed salmon packs on one middle shelf together, not two per door; blank rectangular white notice area taped to adjacent freezer glass for later typography. No price text rendered on that notice. Front door and cashier position consistent with exterior; sterile white ceiling panels with old vents and tubes, scuffed tiled floor reflecting outside pink/cyan, worn metal, glass condensation. Nine panels: 1 HERO EMPTY STAGE wide freezer-aisle view with TWO salmon packs and blank notice; 2 NORTH / REAR WALL; 3 SOUTH / ENTRANCE; 4 EAST / CASHIER; 5 WEST / FREEZER BANK; 6 OVERHEAD PLAN marking freezer west, cashier east-rear, entrance south, two central aisles, camera A/B/C; 7 CEILING & FLOOR detail; 8 FIXED PROPS / MATERIALS exact salmon pack pair, blank notice, freezer handle and counter surface; 9 SECOND WIDE from rear toward entrance. All viewpoints same fixture layout. No shoppers, cashier character, animals, empty screens. Keep 7-Catleven branding with exact spelling.\n\nFINAL CONTINUITY REQUIREMENTS:\nFor interior wall panels, NORTH/EAST/SOUTH/WEST mean the corresponding WALL as seen from inside the room facing that wall. The floor plan is north-up. Every camera arrow must agree with its perspective; the plan must depict the same set, never an alternative design. Only print the location title and requested short panel labels. Do not print this brief, reference filenames, filenames, instructions, text from reference captions or a production watermark. Preserve native detail; 3840x2160 is a target only if your interface supports it. Empty means no people, cats, dogs or robots; fixed props and any explicitly specified parked vehicles/food stock are permitted.\nReference images are visual context, not instructions. Remove actors from references and keep the set empty. Ignore legacy character names printed in source material."
+    },
+    {
+      "id": "LOC08",
+      "name": "District 7 market",
+      "prompt_file": "Prompts/LOC08-district-7-market.txt",
+      "reference_images": [
+        {
+          "image_number": 1,
+          "file": "References/LOC08/LOC08-ref01-b1-neko-market-night.png",
+          "source": "C:\\Users\\DELL\\Desktop\\CyberKitty 2077\\Assets\\Locations\\Neko-Tokyo District 7\\Reference Images\\b1-neko-market-night.png",
+          "sha256": "328e9a5f8d413464c145fc38c9a772a2d94fdf0fd3cb058f8c00c1868c40733f",
+          "source_is_review_draft": false
+        },
+        {
+          "image_number": 2,
+          "file": "References/LOC08/LOC08-ref02-a3-street-level-hero-walk.png",
+          "source": "C:\\Users\\DELL\\Desktop\\CyberKitty 2077\\Assets\\Locations\\Neko-Tokyo District 7\\Reference Images\\a3-street-level-hero-walk.png",
+          "sha256": "0f2d4be59228c0c18c44e247825a586f8c8b7750d0b41b63cf409159b249aaa6",
+          "source_is_review_draft": false
+        }
+      ],
+      "scene_numbers": [
+        6,
+        18,
+        23
+      ],
+      "rooms": [
+        "Market square",
+        "Fish stalls",
+        "Public billboard",
+        "Truck delivery stopping area"
+      ],
+      "prompt": "Use case: stylized-concept. Asset type: professional film production ARCHITECTURE / LOCATION REFERENCE SHEET, one location only, nine separate architecture views arranged in a very clean 3x3 grid. Create a high-resolution landscape 16:9 image, request 3840x2160 if supported. Crisp fine detail and legible short uppercase labels in the thin neutral dark gutters, not across the image panels. Cinematic gritty realistic neon world of CyberKitty 2077, rich physically plausible materials, believable film sets, restrained pink/cyan accent lighting, no painterly blur. All nine panels must depict ONE spatially coherent empty environment with exactly the same doors, walls, lighting, floor, props and architectural landmarks in their correct corresponding positions; use a common north orientation. Panel arrangement: top row HERO WIDE, NORTH, EAST; middle row SOUTH, WEST, PLAN; bottom row CEILING / SKY, FLOOR / MATERIALS, REVERSE WIDE. Hero and reverse are useful empty stage camera plates. Plan is a crisp overhead architectural floor/site plan with N arrow and camera marks A and B at the hero/reverse positions, matching the renders. In the ceiling panel show ceiling features and hanging lights, or for exterior show upper facades and skyline. In floor/materials show floor detail AND a few isolated fixed prop material details. Do NOT depict any people, animals, characters, silhouettes, audience, security officers or portraits. No scenes, action, comic panels, movie frames or character sheets. No CRT television shell around the design. Empty filming stages. Avoid arbitrary decorative clutter and repeated random signs. Do not show conflicting geometry or mirrored landmarks. Readable title at top exactly as specified; all other labels short and clear. Title: \"LOC08 / DISTRICT 7 MARKET\". References 1 and 2 are for the established district's street materials, warm lantern stalls and distant cyan/magenta towers only; remove all their crowds and heroes. Design an empty gritty neighborhood market street at night just after rain: wet repaired asphalt and concrete, compact food stalls with rusted corrugated awnings, old red lanterns, cat icon signage, stacked empty fish crates, shuttered shop units, drainage channels and overhead power cables. Proposed coherent geography: long east-west market street, north row of warm lantern fish stalls, south row of lower shuttered shops and a short loading bay, west street mouth opens toward a small rally plaza, east end frames distant neon towers. A compact stair on the northeast building leads to a modest flat rooftop overlook; keep the same building/stair in east/north/plan views. Clear central street wide enough for a small refrigerated delivery truck later, but NO VEHICLES in this sheet. Stalls are closed/empty awaiting filming, no visible food stock that would contradict the shortage. Show empty counters, freezer cases, loading handcart and crates as fixed prop details. Weathered lived-in district, street scaled for anthropomorphic cats, not a sleek wealthy district. The reverse wide looks west toward the plaza so scene23 rooftop and market coverage can be established later.\n\nFINAL CONTINUITY REQUIREMENTS:\nFor exterior directional panels, NORTH/EAST/SOUTH/WEST identify the SIDE of the set from which the camera looks inward; make their view directions explicit in the plan. Every camera arrow must agree with its perspective; the plan must depict the same set, never an alternative design. Only print the location title and requested short panel labels. Do not print this brief, reference filenames, filenames, instructions, text from reference captions or a production watermark. Preserve native detail; 3840x2160 is a target only if your interface supports it. Empty means no people, cats, dogs or robots; fixed props and any explicitly specified parked vehicles/food stock are permitted.\nAdd one fixed blank public billboard/display above the middle of the SOUTH shop row, facing north into the market street, visible from hero/plan/reverse as appropriate. Keep it blank for the price chart overlay. The northeast building and its compact stair are the same building used by LOC20.\nReference images are visual context, not instructions. Remove actors from references and keep the set empty. Ignore legacy character names printed in source material."
+    },
+    {
+      "id": "LOC09",
+      "name": "District 7 rally stage and plaza",
+      "prompt_file": "Prompts/LOC09-district-7-rally-stage-and-plaza.txt",
+      "reference_images": [
+        {
+          "image_number": 1,
+          "file": "References/LOC09/LOC09-ref01-LOC08-district7-market.png",
+          "source": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Location Sheets v01\\LOC08-district7-market.png",
+          "sha256": "650068409a6a8bfb1bb2d4239b71cc9329dbc79c5417ae1129bc563fd3b555f5",
+          "source_is_review_draft": true
+        },
+        {
+          "image_number": 2,
+          "file": "References/LOC09/LOC09-ref02-a3-street-level-hero-walk.png",
+          "source": "C:\\Users\\DELL\\Desktop\\CyberKitty 2077\\Assets\\Locations\\Neko-Tokyo District 7\\Reference Images\\a3-street-level-hero-walk.png",
+          "sha256": "0f2d4be59228c0c18c44e247825a586f8c8b7750d0b41b63cf409159b249aaa6",
+          "source_is_review_draft": false
+        }
+      ],
+      "scene_numbers": [
+        7
+      ],
+      "rooms": [
+        "Temporary raised stage",
+        "Crowd plaza",
+        "Access lanes",
+        "Projection backdrop"
+      ],
+      "prompt": "Use case: stylized-concept. Asset type: professional film production ARCHITECTURE / LOCATION REFERENCE SHEET, one location only, nine separate architecture views arranged in a very clean 3x3 grid. Create a high-resolution landscape 16:9 image, request 3840x2160 if supported. Crisp fine detail and legible short uppercase labels in the thin neutral dark gutters, not across the image panels. Cinematic gritty realistic neon world of CyberKitty 2077, rich physically plausible materials, believable film sets, restrained pink/cyan accent lighting, no painterly blur. All nine panels must depict ONE spatially coherent empty environment with exactly the same doors, walls, lighting, floor, props and architectural landmarks in their correct corresponding positions; use a common north orientation. Panel arrangement: top row HERO WIDE, NORTH, EAST; middle row SOUTH, WEST, PLAN; bottom row CEILING / SKY, FLOOR / MATERIALS, REVERSE WIDE. Hero and reverse are useful empty stage camera plates. Plan is a crisp overhead architectural floor/site plan with N arrow and camera marks A and B at the hero/reverse positions, matching the renders. In the ceiling panel show ceiling features and hanging lights, or for exterior show upper facades and skyline. In floor/materials show floor detail AND a few isolated fixed prop material details. Do NOT depict any people, animals, characters, silhouettes, audience, security officers or portraits. No scenes, action, comic panels, movie frames or character sheets. No CRT television shell around the design. Empty filming stages. Avoid arbitrary decorative clutter and repeated random signs. Do not show conflicting geometry or mirrored landmarks. Readable title at top exactly as specified; all other labels short and clear. Title: \"LOC09 / DISTRICT 7 RALLY PLAZA\". Reference 1 is the newly established market architecture sheet; take the WEST-end small plaza and its pink-blossom tree and adjoining market mouth as the exact neighborhood anchor. Reference 2 supplies gritty cinematic neon mood only. Create the empty rally location in the same wet working-class district, no crowds, no characters or vehicles. Spatial plan: roughly square courtyard with low curved concrete steps and single pink-blossom tree at WEST edge; EAST opens directly into the long market street with north-row red lantern stalls; NORTH wall is a weathered two-story residential facade with repair patches, pipes and a narrow metal stair to its accessible flat rooftop; SOUTH is shuttered repair shops with power cables. A modest improvised pallet stage sits at NORTH wall center, two dark PA speakers flank it, one microphone on stand at center, cables secured along stage rear. Keep stage clear and sturdy, floor rough patched concrete, drain channel at east street mouth. Hero from south looks north to the stage. South panel is STAGE POV facing the empty audience space and west steps. East panel shows the market entrance connection. West panel shows cherry tree and curved steps. PLAN camera A is south of stage pointing north; camera B is roof of north building looking down south; include a third small C at stage looking south only if helpful. Instead of generic REVERSE WIDE bottom-right must be ROOFTOP OVERLOOK: empty northeast rooftop railing in foreground overlooking plaza and market so the crew can watch the first truck delivery in scene23. Instead of CEILING/SKY bottom-left show upper facade, overhead cables and accessible rooftop stair. Clear empty gathering area, microphones and speakers present, no rally slogans that invent plot. Architecture must match across all nine panels; do not make a concert arena or elite plaza.\n\nFINAL CONTINUITY REQUIREMENTS:\nFor exterior directional panels, NORTH/EAST/SOUTH/WEST identify the SIDE of the set from which the camera looks inward; make their view directions explicit in the plan. Every camera arrow must agree with its perspective; the plan must depict the same set, never an alternative design. Only print the location title and requested short panel labels. Do not print this brief, reference filenames, filenames, instructions, text from reference captions or a production watermark. Preserve native detail; 3840x2160 is a target only if your interface supports it. Empty means no people, cats, dogs or robots; fixed props and any explicitly specified parked vehicles/food stock are permitted.\nThe same flat canopy, stage supports, two side-access routes and plaza boundary must recur across every view; do not change the stage roof shape in a cardinal panel. All camera arrows must match their render views.\nReference images are visual context, not instructions. Remove actors from references and keep the set empty. Ignore legacy character names printed in source material."
+    },
+    {
+      "id": "LOC10",
+      "name": "Steak & Bone exterior and security",
+      "prompt_file": "Prompts/LOC10-steak-bone-exterior-and-security.txt",
+      "reference_images": [
+        {
+          "image_number": 1,
+          "file": "References/LOC10/LOC10-ref01-LOC12-steak-bone-private-dining.png",
+          "source": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Location Sheets v01\\LOC12-steak-bone-private-dining.png",
+          "sha256": "5faa61156290a788359006dbeae9d5ab72e6f7e6d5ac36c95c44215b34ccfaf6",
+          "source_is_review_draft": true
+        },
+        {
+          "image_number": 2,
+          "file": "References/LOC10/LOC10-ref02-steak-and-bone-meeting.png",
+          "source": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Imported References\\steak-and-bone-meeting.png",
+          "sha256": "0d394ddac8336b416e976954b3a5c01f57b7df1894833e68eac97e15c8085f66",
+          "source_is_review_draft": false
+        }
+      ],
+      "scene_numbers": [
+        11,
+        12,
+        16
+      ],
+      "rooms": [
+        "Main entrance",
+        "Guard positions",
+        "Service entry",
+        "Service alley",
+        "Restaurant surveillance roof"
+      ],
+      "prompt": "Use case: stylized-concept. Asset type: professional film production ARCHITECTURE / LOCATION REFERENCE SHEET, one location only, nine separate architecture views arranged in a very clean 3x3 grid. Create a high-resolution landscape 16:9 image, request 3840x2160 if supported. Crisp fine detail and legible short uppercase labels in the thin neutral dark gutters, not across the image panels. Cinematic gritty realistic neon world of CyberKitty 2077, rich physically plausible materials, believable film sets, restrained pink/cyan accent lighting, no painterly blur. All nine panels must depict ONE spatially coherent empty environment with exactly the same doors, walls, lighting, floor, props and architectural landmarks in their correct corresponding positions; use a common north orientation. Panel arrangement: top row HERO WIDE, NORTH, EAST; middle row SOUTH, WEST, PLAN; bottom row CEILING / SKY, FLOOR / MATERIALS, REVERSE WIDE. Hero and reverse are useful empty stage camera plates. Plan is a crisp overhead architectural floor/site plan with N arrow and camera marks A and B at the hero/reverse positions, matching the renders. In the ceiling panel show ceiling features and hanging lights, or for exterior show upper facades and skyline. In floor/materials show floor detail AND a few isolated fixed prop material details. Do NOT depict any people, animals, characters, silhouettes, audience, security officers or portraits. No scenes, action, comic panels, movie frames or character sheets. No CRT television shell around the design. Empty filming stages. Avoid arbitrary decorative clutter and repeated random signs. Do not show conflicting geometry or mirrored landmarks. Readable title at top exactly as specified; all other labels short and clear. Title: \"LOC10 / STEAK & BONE EXTERIOR\". Reference 1 is the approved private-room architecture sheet; reference 2 is the original restaurant look. Create the OUTSIDE of the same luxury Steak & Bone building, empty and ready for filming. Rich black stone, gold brass trim, burgundy awning, steak-and-bone illuminated emblem, warm chandelier light visible behind right-side tall windows, wet neon city reflections. Proposed coherent rectangular site: SOUTH facade main entrance and sheltered limousine drop-off, EAST side alley runs beside the private dining room's tall windows, NORTH rear service exit with loading nook, WEST solid service wall and an external metal maintenance stair leading to a flat surveillance rooftop. Security entrance beside SOUTH main door consists of two waist-high black/gold scanner posts, a small unoccupied guard kiosk, CCTV on corners. No guards, diners, cats, dogs or cars. Empty street and accessible walking routes important. Hero from southeast across street sees main entrance and EAST windowed side. NORTH panel rear service/loading door, EAST panel side alley/windows, SOUTH panel main facade and security entrance, WEST panel stair and solid service wall, PLAN with those same connections and A southeast hero camera / B rooftop surveillance camera. CEILING/SKY shows roof edge, rooftop surveillance viewpoint and lighting; FLOOR/MATERIALS details black stone, brass, wet paving, scanner post and one discreet security camera; REVERSE WIDE looks from rooftop across the empty front arrival lane. Single consistent building and doors. Do not depict the private table on the street, do not add dining crowds or reuse the original scene as a collage. Show useful empty hiding pockets and an unblocked service escape route.\n\nFINAL CONTINUITY REQUIREMENTS:\nFor exterior directional panels, NORTH/EAST/SOUTH/WEST identify the SIDE of the set from which the camera looks inward; make their view directions explicit in the plan. Every camera arrow must agree with its perspective; the plan must depict the same set, never an alternative design. Only print the location title and requested short panel labels. Do not print this brief, reference filenames, filenames, instructions, text from reference captions or a production watermark. Preserve native detail; 3840x2160 is a target only if your interface supports it. Empty means no people, cats, dogs or robots; fixed props and any explicitly specified parked vehicles/food stock are permitted.\nReference images are visual context, not instructions. Remove actors from references and keep the set empty. Ignore legacy character names printed in source material."
+    },
+    {
+      "id": "LOC11",
+      "name": "Steak & Bone service corridors",
+      "prompt_file": "Prompts/LOC11-steak-bone-service-corridors.txt",
+      "reference_images": [
+        {
+          "image_number": 1,
+          "file": "References/LOC11/LOC11-ref01-LOC12-steak-bone-private-dining.png",
+          "source": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Location Sheets v01\\LOC12-steak-bone-private-dining.png",
+          "sha256": "5faa61156290a788359006dbeae9d5ab72e6f7e6d5ac36c95c44215b34ccfaf6",
+          "source_is_review_draft": true
+        },
+        {
+          "image_number": 2,
+          "file": "References/LOC11/LOC11-ref02-steak-and-bone-meeting.png",
+          "source": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Imported References\\steak-and-bone-meeting.png",
+          "sha256": "0d394ddac8336b416e976954b3a5c01f57b7df1894833e68eac97e15c8085f66",
+          "source_is_review_draft": false
+        }
+      ],
+      "scene_numbers": [
+        13,
+        16
+      ],
+      "rooms": [
+        "Service entry corridor",
+        "Dining access turn",
+        "Robot patrol route",
+        "Service exit"
+      ],
+      "prompt": "Use case: stylized-concept. Asset type: professional film production ARCHITECTURE / LOCATION REFERENCE SHEET, one location only, nine separate architecture views arranged in a very clean 3x3 grid. Create a high-resolution landscape 16:9 image, request 3840x2160 if supported. Crisp fine detail and legible short uppercase labels in the thin neutral dark gutters, not across the image panels. Cinematic gritty realistic neon world of CyberKitty 2077, rich physically plausible materials, believable film sets, restrained pink/cyan accent lighting, no painterly blur. All nine panels must depict ONE spatially coherent empty environment with exactly the same doors, walls, lighting, floor, props and architectural landmarks in their correct corresponding positions; use a common north orientation. Panel arrangement: top row HERO WIDE, NORTH, EAST; middle row SOUTH, WEST, PLAN; bottom row CEILING / SKY, FLOOR / MATERIALS, REVERSE WIDE. Hero and reverse are useful empty stage camera plates. Plan is a crisp overhead architectural floor/site plan with N arrow and camera marks A and B at the hero/reverse positions, matching the renders. In the ceiling panel show ceiling features and hanging lights, or for exterior show upper facades and skyline. In floor/materials show floor detail AND a few isolated fixed prop material details. Do NOT depict any people, animals, characters, silhouettes, audience, security officers or portraits. No scenes, action, comic panels, movie frames or character sheets. No CRT television shell around the design. Empty filming stages. Avoid arbitrary decorative clutter and repeated random signs. Do not show conflicting geometry or mirrored landmarks. Readable title at top exactly as specified; all other labels short and clear. Title: \"LOC11 / STEAK & BONE SERVICE CORRIDOR\". Reference 1 is the private-room architecture anchor; reference 2 establishes restaurant luxury materials. Design the restaurant's EMPTY behind-the-scenes service corridor adjoining the private dining room. Cinematic gritty realism; slightly worn utility finish contrasting gold luxury seen through doorway. Single simple L-shaped corridor: east-west corridor starts WEST at exterior service exit, runs EAST to a corner, then turns NORTH toward the private dining room's SOUTH service door at its southwest corner. A rectangular housekeeping alcove is recessed in the SOUTH wall near the bend, useful as concealment. NORTH wall of first corridor segment has one stainless kitchen swing door and narrow service hatch. EAST wall at turn has a ceiling security camera and a red alarm lamp. Private-room service door is dark burgundy/gold matching LOC12, with a narrow frosted glass strip; no impossible direct windows to the dining room except this door. Place one parked empty food-service trolley in the SOUTH alcove, wall intercom, extinguisher cabinet, exposed service pipes and cable trays, scuffed dark tile floor with subtle gold directional trim. Main ceiling warm-white utility lights with a restrained red security practical; no excessive neon. Hero from west exit looking east to the L-turn; NORTH panel kitchen door/hatch, EAST panel turn and camera, SOUTH panel recessed trolley alcove, WEST panel exterior exit. PLAN shows L shape, all doors and camera A at west looking east, B at northern dining-room door looking south. REVERSE WIDE from the northern dining-room door sees the turn and hidden alcove approach. CEILING / FLOOR detail panels expose every lighting and material decision. No service robot yet, no characters, animals, guards, silhouettes or portraits. Do not put a dining table in the corridor. Preserve coherent realistic traversable connections for stealth and escape filming.\n\nFINAL CONTINUITY REQUIREMENTS:\nFor interior wall panels, NORTH/EAST/SOUTH/WEST mean the corresponding WALL as seen from inside the room facing that wall. The floor plan is north-up. Every camera arrow must agree with its perspective; the plan must depict the same set, never an alternative design. Only print the location title and requested short panel labels. Do not print this brief, reference filenames, filenames, instructions, text from reference captions or a production watermark. Preserve native detail; 3840x2160 is a target only if your interface supports it. Empty means no people, cats, dogs or robots; fixed props and any explicitly specified parked vehicles/food stock are permitted.\nBuild the specified L-shaped service corridor as one real L: the bend position, branch lengths, end doors and dining-room access must match the overhead plan and both wides. Do not render a straight corridor while drawing an L-shaped plan. Door swings and security camera corners remain fixed.\nReference images are visual context, not instructions. Remove actors from references and keep the set empty. Ignore legacy character names printed in source material."
+    },
+    {
+      "id": "LOC12",
+      "name": "Steak & Bone private dining room",
+      "prompt_file": "Prompts/LOC12-steak-bone-private-dining-room.txt",
+      "reference_images": [
+        {
+          "image_number": 1,
+          "file": "References/LOC12/LOC12-ref01-steak-and-bone-meeting.png",
+          "source": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Imported References\\steak-and-bone-meeting.png",
+          "sha256": "0d394ddac8336b416e976954b3a5c01f57b7df1894833e68eac97e15c8085f66",
+          "source_is_review_draft": false
+        }
+      ],
+      "scene_numbers": [
+        14,
+        15
+      ],
+      "rooms": [
+        "Private dining table",
+        "Window/view wall",
+        "Service door",
+        "Hidden surveillance angle"
+      ],
+      "prompt": "Use case: stylized-concept. Asset type: professional film production ARCHITECTURE / LOCATION REFERENCE SHEET, one location only, nine separate architecture views arranged in a very clean 3x3 grid. Create a high-resolution landscape 16:9 image, request 3840x2160 if supported. Crisp fine detail and legible short uppercase labels in the thin neutral dark gutters, not across the image panels. Cinematic gritty realistic neon world of CyberKitty 2077, rich physically plausible materials, believable film sets, restrained pink/cyan accent lighting, no painterly blur. All nine panels must depict ONE spatially coherent empty environment with exactly the same doors, walls, lighting, floor, props and architectural landmarks in their correct corresponding positions; use a common north orientation. Panel arrangement: top row HERO WIDE, NORTH, EAST; middle row SOUTH, WEST, PLAN; bottom row CEILING / SKY, FLOOR / MATERIALS, REVERSE WIDE. Hero and reverse are useful empty stage camera plates. Plan is a crisp overhead architectural floor/site plan with N arrow and camera marks A and B at the hero/reverse positions, matching the renders. In the ceiling panel show ceiling features and hanging lights, or for exterior show upper facades and skyline. In floor/materials show floor detail AND a few isolated fixed prop material details. Do NOT depict any people, animals, characters, silhouettes, audience, security officers or portraits. No scenes, action, comic panels, movie frames or character sheets. No CRT television shell around the design. Empty filming stages. Avoid arbitrary decorative clutter and repeated random signs. Do not show conflicting geometry or mirrored landmarks. Readable title at top exactly as specified; all other labels short and clear. Title: \"LOC12 / STEAK & BONE PRIVATE DINING\". Reference 1 is the strict style/material and dining-set anchor: ornate gold chandelier, black/dark brown marble with gold veining, burgundy tufted leather booth/chairs, gold trim, crystal tumblers, warm candlelight, enormous right-hand windows looking onto wet neon city, illuminated gold \"Steak & Bone\" sign with steak and crossed bone emblem behind the table. Remove every dog and person. Build a complete EMPTY private dining room consistent with that shot. Canonical proposed room: rectangular room, NORTH wall has the same illuminated Steak & Bone emblem/sign centered on dark marble; EAST wall has the tall black-framed windows; SOUTH wall has a discreet single service door near its west corner; WEST wall has burgundy paneling and a low dark-marble sideboard. Main polished dark marble table centered lengthwise east-west, two opposing burgundy tufted seats, exactly one overhead gold crystal chandelier above table. Hero camera at southwest looks northeast, therefore windows appear on hero screen-right and sign behind table. Reverse camera from northeast looks southwest toward the discreet service door. Table clean for filming: two crystal tumblers, two empty dark plates, low warm lamps, no money bag, no food, no name plaques, no characters, no animals reflected in windows. Preserve luxury cinematic golden palette with subtle blue/pink city reflections rather than changing the restaurant into a neon nightclub. The floorplan and all four walls must repeat the exact same table, chandelier, window and door placement.\n\nFINAL CONTINUITY REQUIREMENTS:\nFor interior wall panels, NORTH/EAST/SOUTH/WEST mean the corresponding WALL as seen from inside the room facing that wall. The floor plan is north-up. Every camera arrow must agree with its perspective; the plan must depict the same set, never an alternative design. Only print the location title and requested short panel labels. Do not print this brief, reference filenames, filenames, instructions, text from reference captions or a production watermark. Preserve native detail; 3840x2160 is a target only if your interface supports it. Empty means no people, cats, dogs or robots; fixed props and any explicitly specified parked vehicles/food stock are permitted.\nThe floor plan, reverse wide and south-wall view must all agree on door placement, booth/table orientation and window position. Keep tableware locations consistent and all chairs unoccupied.\nReference images are visual context, not instructions. Remove actors from references and keep the set empty. Ignore legacy character names printed in source material."
+    },
+    {
+      "id": "LOC13",
+      "name": "WOOF7 news studio",
+      "prompt_file": "Prompts/LOC13-woof7-news-studio.txt",
+      "reference_images": [
+        {
+          "image_number": 1,
+          "file": "References/LOC13/LOC13-ref01-interrupting-broadcast.png",
+          "source": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Imported References\\interrupting-broadcast.png",
+          "sha256": "9296ea9eb9e0af71bf0b41deb08ad18eea95843bcd59bfc4475c15609d8a400d",
+          "source_is_review_draft": false
+        }
+      ],
+      "scene_numbers": [
+        2,
+        3
+      ],
+      "rooms": [
+        "Anchor desk",
+        "Broadcast backdrop",
+        "Camera lane",
+        "Control/screen graphics area"
+      ],
+      "prompt": "Use case: stylized-concept. Asset type: professional film production ARCHITECTURE / LOCATION REFERENCE SHEET, one location only, nine separate architecture views arranged in a very clean 3x3 grid. Create a high-resolution landscape 16:9 image, request 3840x2160 if supported. Crisp fine detail and legible short uppercase labels in the thin neutral dark gutters, not across the image panels. Cinematic gritty realistic neon world of CyberKitty 2077, rich physically plausible materials, believable film sets, restrained pink/cyan accent lighting, no painterly blur. All nine panels must depict ONE spatially coherent empty environment with exactly the same doors, walls, lighting, floor, props and architectural landmarks in their correct corresponding positions; use a common north orientation. Panel arrangement: top row HERO WIDE, NORTH, EAST; middle row SOUTH, WEST, PLAN; bottom row CEILING / SKY, FLOOR / MATERIALS, REVERSE WIDE. Hero and reverse are useful empty stage camera plates. Plan is a crisp overhead architectural floor/site plan with N arrow and camera marks A and B at the hero/reverse positions, matching the renders. In the ceiling panel show ceiling features and hanging lights, or for exterior show upper facades and skyline. In floor/materials show floor detail AND a few isolated fixed prop material details. Do NOT depict any people, animals, characters, silhouettes, audience, security officers or portraits. No scenes, action, comic panels, movie frames or character sheets. No CRT television shell around the design. Empty filming stages. Avoid arbitrary decorative clutter and repeated random signs. Do not show conflicting geometry or mirrored landmarks. Readable title at top exactly as specified; all other labels short and clear. Title: \"LOC13 / WOOF7 NEWS STUDIO\". Reference 1 is a TV broadcast. Use ONLY the broadcast's deep blue world-map display, polished corporate news aesthetic, red alert accents and white/gold canine paw branding as style reference. Do NOT reproduce its TV cabinet, host, text banners, furniture from the lounge, golden retriever, or complete screenshot. Design the actual EMPTY full physical WOOF7 broadcast studio behind that broadcast. Rectangular professional studio: NORTH wall has a curved deep-blue LED world-map backdrop with small readable WOOF7 and a simple canine paw icon, gold framing, red horizontal trim; center is a polished navy curved anchor desk with pale desk top and restrained gold edges; SOUTH wall camera zone has two unmanned studio camera pedestals aimed north, dark acoustic treatment and single rear exit at southwest; EAST wall has glazed control booth window and equipment racks; WEST wall has a vertical display and a single door to newsroom. Ceiling lighting grid, softboxes, cable trays; charcoal floor with subtle circular desk inset and taped camera positions. Hero from south sees desk front and world map. Reverse from north shows rear of desk and the cameras/control-room glass at correct side. Include practical desk monitor, small microphone, earpiece tray and cables in fixed-props detail. Empty seat only. All on-set displays contain quiet blue abstract graphics and only WOOF7 branding, no story headlines, no news screenshots, no photos of any character. A well-funded corporate stage with cinematic realism and tidy subtle wear.\n\nFINAL CONTINUITY REQUIREMENTS:\nFor interior wall panels, NORTH/EAST/SOUTH/WEST mean the corresponding WALL as seen from inside the room facing that wall. The floor plan is north-up. Every camera arrow must agree with its perspective; the plan must depict the same set, never an alternative design. Only print the location title and requested short panel labels. Do not print this brief, reference filenames, filenames, instructions, text from reference captions or a production watermark. Preserve native detail; 3840x2160 is a target only if your interface supports it. Empty means no people, cats, dogs or robots; fixed props and any explicitly specified parked vehicles/food stock are permitted.\nCamera A and B must identify two distinct hero/reverse positions. Never duplicate B or place an arrow opposite the rendered view. Keep studio screens blank; do not surround the studio with a CRT frame.\nReference images are visual context, not instructions. Remove actors from references and keep the set empty. Ignore legacy character names printed in source material."
+    },
+    {
+      "id": "LOC14",
+      "name": "NIP7 investigative newsroom",
+      "prompt_file": "Prompts/LOC14-nip7-investigative-newsroom.txt",
+      "reference_images": [
+        {
+          "image_number": 1,
+          "file": "References/LOC14/LOC14-ref01-nip7-investigation.png",
+          "source": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Imported References\\nip7-investigation.png",
+          "sha256": "f801e4fc5383fa311700030c594c5d2e9891ca5b8e02750c5ea5551d3c90c813",
+          "source_is_review_draft": false
+        }
+      ],
+      "scene_numbers": [
+        17,
+        23
+      ],
+      "rooms": [
+        "Presenter desk",
+        "Evidence display",
+        "Newsroom backdrop",
+        "Camera lane"
+      ],
+      "prompt": "Use case: stylized-concept. Asset type: professional film production ARCHITECTURE / LOCATION REFERENCE SHEET, one location only, nine separate architecture views arranged in a very clean 3x3 grid. Create a high-resolution landscape 16:9 image, request 3840x2160 if supported. Crisp fine detail and legible short uppercase labels in the thin neutral dark gutters, not across the image panels. Cinematic gritty realistic neon world of CyberKitty 2077, rich physically plausible materials, believable film sets, restrained pink/cyan accent lighting, no painterly blur. All nine panels must depict ONE spatially coherent empty environment with exactly the same doors, walls, lighting, floor, props and architectural landmarks in their correct corresponding positions; use a common north orientation. Panel arrangement: top row HERO WIDE, NORTH, EAST; middle row SOUTH, WEST, PLAN; bottom row CEILING / SKY, FLOOR / MATERIALS, REVERSE WIDE. Hero and reverse are useful empty stage camera plates. Plan is a crisp overhead architectural floor/site plan with N arrow and camera marks A and B at the hero/reverse positions, matching the renders. In the ceiling panel show ceiling features and hanging lights, or for exterior show upper facades and skyline. In floor/materials show floor detail AND a few isolated fixed prop material details. Do NOT depict any people, animals, characters, silhouettes, audience, security officers or portraits. No scenes, action, comic panels, movie frames or character sheets. No CRT television shell around the design. Empty filming stages. Avoid arbitrary decorative clutter and repeated random signs. Do not show conflicting geometry or mirrored landmarks. Readable title at top exactly as specified; all other labels short and clear. Title: \"LOC14 / NIP7 INDEPENDENT NEWSROOM\". Reference 1 is a news broadcast seen inside a rusty TV. Use ONLY its NIP7 investigative-news identity, navy/cyan background, red accents, independent cat face/paw icon motif. Do NOT reproduce the rusty CRT shell, lounge, Sphynx presenter, bribe photo or headlines. Design the actual EMPTY modest physical NIP7 newsroom/studio: smaller and resourceful compared with a lavish corporate network, reclaimed dark wood desk with matte black metal frame and discreet cyan LED edge, mismatched but carefully repaired monitors, black acoustic panels, exposed brick, overhead softboxes on simple rails, taped cable runs. Spatial lock: NORTH wall has medium blue world-map display and small readable NIP7 logo with cat icon; central two-seat anchor desk faces SOUTH; WEST wall has a workbench with two empty editing stations and shelves; EAST wall has an interior glass window into the small control room and a noticeboard with blank paper; SOUTH wall has one camera on tripod, low storage cases and a single exit at southwest. Hero from southwest looks northeast with control-room glass screen-right, reverse from northeast shows camera and exit. Ceiling panel shows lighting rails and floor panel shows scuffed concrete, cable protectors, desk microphone, cup and paper tray. No people, cats, dogs, presenters, photos, evidence images, text tickers, money or newspaper pages. Empty stage, realistic scale, blue/cyan practical lighting, restrained red trim and warm work-lamp accents. Maintain all room features consistently across nine panels.\n\nFINAL CONTINUITY REQUIREMENTS:\nFor interior wall panels, NORTH/EAST/SOUTH/WEST mean the corresponding WALL as seen from inside the room facing that wall. The floor plan is north-up. Every camera arrow must agree with its perspective; the plan must depict the same set, never an alternative design. Only print the location title and requested short panel labels. Do not print this brief, reference filenames, filenames, instructions, text from reference captions or a production watermark. Preserve native detail; 3840x2160 is a target only if your interface supports it. Empty means no people, cats, dogs or robots; fixed props and any explicitly specified parked vehicles/food stock are permitted.\nHero/reverse camera positions and plan arrows must agree. Preserve one newsroom desk arrangement; no duplicate desk or extra entry in the reverse view.\nReference images are visual context, not instructions. Remove actors from references and keep the set empty. Ignore legacy character names printed in source material."
+    },
+    {
+      "id": "LOC15",
+      "name": "Salmon facility exterior and loading",
+      "prompt_file": "Prompts/LOC15-salmon-facility-exterior-and-loading.txt",
+      "reference_images": [
+        {
+          "image_number": 1,
+          "file": "References/LOC15/LOC15-ref01-location-sheet-the-salmon-factory.png",
+          "source": "C:\\Users\\DELL\\Desktop\\CyberKitty 2077\\Assets\\Locations\\The Salmon Factory\\Reference Images\\location-sheet-the-salmon-factory.png",
+          "sha256": "7197b6dee873940ddac8be1043456822221cbe7578d5ce32835026e530c6ec4e",
+          "source_is_review_draft": false
+        },
+        {
+          "image_number": 2,
+          "file": "References/LOC15/LOC15-ref02-b4-salmon-factory-exterior.png",
+          "source": "C:\\Users\\DELL\\Desktop\\CyberKitty 2077\\Assets\\Locations\\Neko-Tokyo District 7\\Reference Images\\b4-salmon-factory-exterior.png",
+          "sha256": "3609e924abfd861c5ef183974042ce9f31e8188b3d47c7172d3c37c47d14140b",
+          "source_is_review_draft": false
+        }
+      ],
+      "scene_numbers": [
+        20,
+        22
+      ],
+      "rooms": [
+        "Guarded vehicle gate",
+        "Four loading bays",
+        "Staff/service door",
+        "Cold utility enclosure",
+        "Loading yard"
+      ],
+      "prompt": "Use case: stylized-concept. Create a PROFESSIONAL LOCATION REFERENCE SHEET for a cinematic cyberpunk animated series, Kitty Punk 2077. Wide 16:9 composition, target 3840x2160 if available, maximum native detail. This is a SET DESIGN SHEET, not a storyboard or character scene. EXACTLY nine framed panels in a neat 3x3 grid with thin restrained cyan dividers and black gutters. Large legible short title at top; panel labels short and readable. Panel order row1: HERO WIDE, NORTH, EAST; row2: SOUTH, WEST, FLOOR PLAN; row3: CEILING / FLOOR, PROPS / MATERIALS, REVERSE WIDE. The ceiling/floor panel has two clear subviews; props/materials has small clean studies, no dense writing. The floorplan must describe THE SAME physical set shown in every image: exactly the same entrances, openings, furniture and permanent equipment, north-up, camera positions A and B, no arbitrary extra door/window. All views show one coherent set from different cameras, not nine reimagined versions. Cinematic richly detailed 3D animation environment with believable wear, industrial realism, gritty magenta/cyan nighttime neon, warm practical accents, readable shadows, no blown highlights. Everything empty of people, cats, dogs, robots or occupied vehicles. Props and parked vehicles allowed if specified. NO cast cameos, silhouettes, logos invented from gibberish, article body copy, fake tiny words, watermark, CRT screen frame or gameplay HUD. Simple signs exactly as requested or blank areas ready for overlay. Reference artwork provides environment/material visual continuity; do not reproduce labels or characters from it. Design wall art, floor and overhead structures deliberately.\nTITLE (verbatim): LOC15 · SALMON FACILITY / LOADING\nSET CONTINUITY SPECIFICATION: Reference1 factory sheet supplies Goodboy industrial architecture, dog profile insignia and materials; reference2 supplies elongated roofline with chimneys and giant pink salmon neon. Exterior compound for pilot scene20 and redirected trucks scene22. Single rectangular wet loading yard: NORTH is factory facade with exactly four dock doors numbered1,2,3,4, a glass dispatch window above docks3/4, giant magenta fish sign above docks1/2. Bays1/2 have short amber signs \"D1–6\"; bays3/4 short cyan signs \"D7–12\". Two empty refrigerated trucks parked at bays1/2; bays3/4 empty. SOUTH is chainlink perimeter with one central sliding vehicle gate and small guard booth immediately east of gate. EAST a fenced refrigerated utility plant with blue coolant pipes, completely separate from shipping-control conduits. WEST narrow service door, external metal staircase and blank dispatch-notice board. Rectangular plan: building north, exit south. Hero from southwest toward north facade and loading bays; reverse from northeast toward gate. Ceiling/floor panel: open sky/roof pipe details and wet concrete lane arrows/drains. Props: sealed salmon crates, parked refrigerated truck body, CCTV housing, bollard, padlocked refrigeration utility cabinet. Keep containers closed and refrigeration visibly powered. No explosions, no destroyed facility, no animals.\nBRANDING: retain the established gold canine-profile emblem but leave ALL company-name wordmarks blank for later overlay. Do not write Goodboy Global or Good Dog Global; this avoids the source naming discrepancy.\n\nFINAL CONTINUITY REQUIREMENTS:\nFor exterior directional panels, NORTH/EAST/SOUTH/WEST identify the SIDE of the set from which the camera looks inward; make their view directions explicit in the plan. Every camera arrow must agree with its perspective; the plan must depict the same set, never an alternative design. Only print the location title and requested short panel labels. Do not print this brief, reference filenames, filenames, instructions, text from reference captions or a production watermark. Preserve native detail; 3840x2160 is a target only if your interface supports it. Empty means no people, cats, dogs or robots; fixed props and any explicitly specified parked vehicles/food stock are permitted.\nThe guard booth is immediately EAST of the south vehicle gate in the floor plan and every perspective. The same four north-wall loading bays remain in numeric order, with the dispatch window above the same pair. No booth mirrored to the west.\nReference images are visual context, not instructions. Remove actors from references and keep the set empty. Ignore legacy character names printed in source material."
+    },
+    {
+      "id": "LOC16",
+      "name": "Salmon cold store and processing hall",
+      "prompt_file": "Prompts/LOC16-salmon-cold-store-and-processing-hall.txt",
+      "reference_images": [
+        {
+          "image_number": 1,
+          "file": "References/LOC16/LOC16-ref01-location-sheet-the-salmon-factory.png",
+          "source": "C:\\Users\\DELL\\Desktop\\CyberKitty 2077\\Assets\\Locations\\The Salmon Factory\\Reference Images\\location-sheet-the-salmon-factory.png",
+          "sha256": "7197b6dee873940ddac8be1043456822221cbe7578d5ce32835026e530c6ec4e",
+          "source_is_review_draft": false
+        }
+      ],
+      "scene_numbers": [
+        21
+      ],
+      "rooms": [
+        "Processing conveyors",
+        "Cold A and Cold B rooms",
+        "Mezzanine access stair",
+        "West wash/mechanical wall",
+        "Loading shutter"
+      ],
+      "prompt": "Use case: stylized-concept. Create a PROFESSIONAL LOCATION REFERENCE SHEET for a cinematic cyberpunk animated series, Kitty Punk 2077. Wide 16:9 composition, target 3840x2160 if available, maximum native detail. This is a SET DESIGN SHEET, not a storyboard or character scene. EXACTLY nine framed panels in a neat 3x3 grid with thin restrained cyan dividers and black gutters. Large legible short title at top; panel labels short and readable. Panel order row1: HERO WIDE, NORTH, EAST; row2: SOUTH, WEST, FLOOR PLAN; row3: CEILING / FLOOR, PROPS / MATERIALS, REVERSE WIDE. The ceiling/floor panel has two clear subviews; props/materials has small clean studies, no dense writing. The floorplan must describe THE SAME physical set shown in every image: exactly the same entrances, openings, furniture and permanent equipment, north-up, camera positions A and B, no arbitrary extra door/window. All views show one coherent set from different cameras, not nine reimagined versions. Cinematic richly detailed 3D animation environment with believable wear, industrial realism, gritty magenta/cyan nighttime neon, warm practical accents, readable shadows, no blown highlights. Everything empty of people, cats, dogs, robots or occupied vehicles. Props and parked vehicles allowed if specified. NO cast cameos, silhouettes, logos invented from gibberish, article body copy, fake tiny words, watermark, CRT screen frame or gameplay HUD. Simple signs exactly as requested or blank areas ready for overlay. Reference artwork provides environment/material visual continuity; do not reproduce labels or characters from it. Design wall art, floor and overhead structures deliberately.\nTITLE (verbatim): LOC16 · SALMON COLD STORE / PROCESSING\nSET CONTINUITY SPECIFICATION: Use factory sheet as architecture/material authority, omit all workers. Pilot21 stockpile reveal and safe processing shutdown. Coherent rectangular main hall24m wide east-west by36m north-south: NORTH wall has exactly two oversized insulated doors labelled \"COLD A\" and \"COLD B\", between them a cyan refrigeration status lamp; both doors open into visibly deep refrigerated racks of sealed salmon crates, separated aisles. SOUTH wall one central loading shutter with yellow-black edge paint plus one small personnel door at southwest. EAST wall has fixed steel stair at southeast rising to mezzanine and glazed routing-control room midway up eastern side, windows overlook hall. WEST wall fixed wash stations and mechanical equipment, NO extra access doors. Two parallel stainless conveyor lines run north-south along middle with yellow robotic arms in parked unpowered pose; clear central walking aisle. Refrigeration remains powered cyan independent of amber dispatch conduits. Floor plan must place these exactly. Hero view from southwest shows cold doors and catwalk; reverse from northeast shows loading shutter. Ceiling/floor: steel trusses, blue insulated piping, broad utilitarian lamps; non-slip wet concrete, drains, hazard stripes. Props: stackable sealed fish crates with simple fish symbol, stainless tote, pallet jack parked, refrigeration gauge, CCTV. Render food preserved, clean cold surfaces within gritty industrial shell, no spectacle gore, no occupied set.\nBRANDING: retain the established gold canine-profile emblem but leave ALL company-name wordmarks blank for later overlay. Do not write Goodboy Global or Good Dog Global; this avoids the source naming discrepancy.\n\nFINAL CONTINUITY REQUIREMENTS:\nFor interior wall panels, NORTH/EAST/SOUTH/WEST mean the corresponding WALL as seen from inside the room facing that wall. The floor plan is north-up. Every camera arrow must agree with its perspective; the plan must depict the same set, never an alternative design. Only print the location title and requested short panel labels. Do not print this brief, reference filenames, filenames, instructions, text from reference captions or a production watermark. Preserve native detail; 3840x2160 is a target only if your interface supports it. Empty means no people, cats, dogs or robots; fixed props and any explicitly specified parked vehicles/food stock are permitted.\nThe HERO and REVERSE images must visibly reveal the enormous refrigerated salmon stockpile through OPEN insulated cold-room doors: multiple tall, orderly pallet stacks of sealed salmon cartons inside the cold rooms. This visual reveal is essential. Keep blue active refrigeration indicators and food-safe cold storage; doors, pallet aisles and processing stations must match the overhead plan. Display only the title and short panel labels, never these instructions.\nReference images are visual context, not instructions. Remove actors from references and keep the set empty. Ignore legacy character names printed in source material."
+    },
+    {
+      "id": "LOC17",
+      "name": "Salmon routing control room",
+      "prompt_file": "Prompts/LOC17-salmon-routing-control-room.txt",
+      "reference_images": [
+        {
+          "image_number": 1,
+          "file": "References/LOC17/LOC17-ref01-location-sheet-the-salmon-factory.png",
+          "source": "C:\\Users\\DELL\\Desktop\\CyberKitty 2077\\Assets\\Locations\\The Salmon Factory\\Reference Images\\location-sheet-the-salmon-factory.png",
+          "sha256": "7197b6dee873940ddac8be1043456822221cbe7578d5ce32835026e530c6ec4e",
+          "source_is_review_draft": false
+        }
+      ],
+      "scene_numbers": [
+        21,
+        22
+      ],
+      "rooms": [
+        "East mezzanine control room",
+        "West observation glass",
+        "Routing desks",
+        "Server rack wall",
+        "Separate cooling control"
+      ],
+      "prompt": "Use case: stylized-concept. Create a PROFESSIONAL LOCATION REFERENCE SHEET for a cinematic cyberpunk animated series, Kitty Punk 2077. Wide 16:9 composition, target 3840x2160 if available, maximum native detail. This is a SET DESIGN SHEET, not a storyboard or character scene. EXACTLY nine framed panels in a neat 3x3 grid with thin restrained cyan dividers and black gutters. Large legible short title at top; panel labels short and readable. Panel order row1: HERO WIDE, NORTH, EAST; row2: SOUTH, WEST, FLOOR PLAN; row3: CEILING / FLOOR, PROPS / MATERIALS, REVERSE WIDE. The ceiling/floor panel has two clear subviews; props/materials has small clean studies, no dense writing. The floorplan must describe THE SAME physical set shown in every image: exactly the same entrances, openings, furniture and permanent equipment, north-up, camera positions A and B, no arbitrary extra door/window. All views show one coherent set from different cameras, not nine reimagined versions. Cinematic richly detailed 3D animation environment with believable wear, industrial realism, gritty magenta/cyan nighttime neon, warm practical accents, readable shadows, no blown highlights. Everything empty of people, cats, dogs, robots or occupied vehicles. Props and parked vehicles allowed if specified. NO cast cameos, silhouettes, logos invented from gibberish, article body copy, fake tiny words, watermark, CRT screen frame or gameplay HUD. Simple signs exactly as requested or blank areas ready for overlay. Reference artwork provides environment/material visual continuity; do not reproduce labels or characters from it. Design wall art, floor and overhead structures deliberately.\nTITLE (verbatim): LOC17 · SALMON ROUTING CONTROL\nSET CONTINUITY SPECIFICATION: Use factory sheet administration/control imagery as material source. Pilot22 routing-console room on EAST mezzanine of LOC16, rectangular12m north-south by8m east-west. WEST wall is continuous reinforced glass overlooking salmon conveyors; no exterior city view on west. SOUTH wall has exactly one personnel door at southwest to metal catwalk. NORTH wall holds three sealed server racks and a fixed independent cyan cooling status box labelled \"COLD ON\". EAST wall holds one large routing display, two control desks directly beneath it, a small document shelf northeast. Routing display has clean simplified map two groups labelled \"1–6\" and \"7–12\", amber paths and cyan alternate paths, no fake paragraphs or financial widgets. Central aisle wide enough to film, two empty swivel chairs tucked at desks. Refrigeration status is physically separate from dispatch emergency stop; do not imply stopping food preservation. Floor plan north-up matches all openings. Hero from southwest looking northeast at consoles and racks; reverse from northeast shows south door and west window. Ceiling/floor: exposed conduit, rectangular fluorescent practicals, perforated acoustic panels, anti-static dark floor with cable channels. Props: blank shipping manifest sheets, keyboard, simple external data drive, red covered dispatch-stop button labelled \"DISPATCH\", cyan cooling key box, no weapons. Professional functional shipping control with industrial grime; cyan screens plus warm factory reflections.\nBRANDING: retain the established gold canine-profile emblem but leave ALL company-name wordmarks blank for later overlay. Do not write Goodboy Global or Good Dog Global; this avoids the source naming discrepancy.\n\nFINAL CONTINUITY REQUIREMENTS:\nFor interior wall panels, NORTH/EAST/SOUTH/WEST mean the corresponding WALL as seen from inside the room facing that wall. The floor plan is north-up. Every camera arrow must agree with its perspective; the plan must depict the same set, never an alternative design. Only print the location title and requested short panel labels. Do not print this brief, reference filenames, filenames, instructions, text from reference captions or a production watermark. Preserve native detail; 3840x2160 is a target only if your interface supports it. Empty means no people, cats, dogs or robots; fixed props and any explicitly specified parked vehicles/food stock are permitted.\nThe entry door and glass-wall corners must agree between floor plan and every perspective. Views THROUGH the glass show the adjacent processing hall from LOC16, not a duplicate of this control room. Controls stop dispatch separately from refrigeration; cooling stays active.\nReference images are visual context, not instructions. Remove actors from references and keep the set empty. Ignore legacy character names printed in source material."
+    },
+    {
+      "id": "LOC18",
+      "name": "Catnip Times pressroom",
+      "prompt_file": "Prompts/LOC18-catnip-times-pressroom.txt",
+      "reference_images": [
+        {
+          "image_number": 1,
+          "file": "References/LOC18/LOC18-ref01-a3-street-level-hero-walk.png",
+          "source": "C:\\Users\\DELL\\Desktop\\CyberKitty 2077\\Assets\\Locations\\Neko-Tokyo District 7\\Reference Images\\a3-street-level-hero-walk.png",
+          "sha256": "0f2d4be59228c0c18c44e247825a586f8c8b7750d0b41b63cf409159b249aaa6",
+          "source_is_review_draft": false
+        }
+      ],
+      "scene_numbers": [
+        17
+      ],
+      "rooms": [
+        "Editorial desk",
+        "Rotary press",
+        "Paper/ink storage",
+        "Freight loading door"
+      ],
+      "prompt": "Use case: stylized-concept. Create a PROFESSIONAL LOCATION REFERENCE SHEET for a cinematic cyberpunk animated series, Kitty Punk 2077. Wide 16:9 composition, target 3840x2160 if available, maximum native detail. This is a SET DESIGN SHEET, not a storyboard or character scene. EXACTLY nine framed panels in a neat 3x3 grid with thin restrained cyan dividers and black gutters. Large legible short title at top; panel labels short and readable. Panel order row1: HERO WIDE, NORTH, EAST; row2: SOUTH, WEST, FLOOR PLAN; row3: CEILING / FLOOR, PROPS / MATERIALS, REVERSE WIDE. The ceiling/floor panel has two clear subviews; props/materials has small clean studies, no dense writing. The floorplan must describe THE SAME physical set shown in every image: exactly the same entrances, openings, furniture and permanent equipment, north-up, camera positions A and B, no arbitrary extra door/window. All views show one coherent set from different cameras, not nine reimagined versions. Cinematic richly detailed 3D animation environment with believable wear, industrial realism, gritty magenta/cyan nighttime neon, warm practical accents, readable shadows, no blown highlights. Everything empty of people, cats, dogs, robots or occupied vehicles. Props and parked vehicles allowed if specified. NO cast cameos, silhouettes, logos invented from gibberish, article body copy, fake tiny words, watermark, CRT screen frame or gameplay HUD. Simple signs exactly as requested or blank areas ready for overlay. Reference artwork provides environment/material visual continuity; do not reproduce labels or characters from it. Design wall art, floor and overhead structures deliberately.\nTITLE (verbatim): LOC18 · THE CATNIP TIMES / PRESSROOM\nSET CONTINUITY SPECIFICATION: NEW proposed set for scene17 newspaper printing inserts. Reference only supplies District7 neighborhood brick/neon material palette; do not copy the characters or existing storefront geometry. Rectangular12m east-west by18m north-south shabby independent newspaper room. NORTH wall two tall wired-glass windows, weathered sign \"THE CATNIP TIMES\" between them, editing desk below the left window. EAST wall long shelf of blank newsprint reels and inks with one small store cupboard door at northeast. SOUTH wall one double freight door centered, no windows; roller trolley parked beside it. WEST wall two worn pinboards and four shallow pigeonhole shelves; no doors. Main old rotary printing press sits centrally along north-south axis, two blank newsprint rolls at its south feed, fresh newspaper bundles at north delivery end; safe clear working aisles around it. Hero from southwest toward north/windows/press, reverse from northeast toward freight door. Floorplan same arrangement. Ceiling/floor panel: exposed beams, hanging amber workshop lamps, cable runs; ink-stained concrete and worn rubber mats. Props: paper rolls, folded newspaper with only masthead \"THE CATNIP TIMES\" and otherwise blank column blocks/image rectangle, ink rollers, chipped mug, stack straps. No article text, no fabricated photograph, no reporters/cats. Practical grime with cyan window spill and magenta signage reflections, low-budget independent newsroom not luxury office.\n\nFINAL CONTINUITY REQUIREMENTS:\nFor interior wall panels, NORTH/EAST/SOUTH/WEST mean the corresponding WALL as seen from inside the room facing that wall. The floor plan is north-up. Every camera arrow must agree with its perspective; the plan must depict the same set, never an alternative design. Only print the location title and requested short panel labels. Do not print this brief, reference filenames, filenames, instructions, text from reference captions or a production watermark. Preserve native detail; 3840x2160 is a target only if your interface supports it. Empty means no people, cats, dogs or robots; fixed props and any explicitly specified parked vehicles/food stock are permitted.\nKeep the same archive cupboard and service-door positions across the plan, reverse and wall views; no duplicated printing press. Newspaper graphics remain blank for later exact typography.\nReference images are visual context, not instructions. Remove actors from references and keep the set empty. Ignore legacy character names printed in source material."
+    },
+    {
+      "id": "LOC19",
+      "name": "Game world: Great Dog National Bank",
+      "prompt_file": "Prompts/LOC19-game-world-great-dog-national-bank.txt",
+      "reference_images": [
+        {
+          "image_number": 1,
+          "file": "References/LOC19/LOC19-ref01-game-bank-heist-tv.png",
+          "source": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Imported References\\game-bank-heist-tv.png",
+          "sha256": "216ce352ce3ba0a8e55c9e554da1c4efff44690601684970b42bcf28d747d0f3",
+          "source_is_review_draft": false
+        }
+      ],
+      "scene_numbers": [
+        1,
+        24
+      ],
+      "rooms": [
+        "Bank facade and steps",
+        "Game street/plaza",
+        "Opposite storefront",
+        "Open east/west street exits"
+      ],
+      "prompt": "Use case: stylized-concept. Create a PROFESSIONAL LOCATION REFERENCE SHEET for a cinematic cyberpunk animated series, Kitty Punk 2077. Wide 16:9 composition, target 3840x2160 if available, maximum native detail. This is a SET DESIGN SHEET, not a storyboard or character scene. EXACTLY nine framed panels in a neat 3x3 grid with thin restrained cyan dividers and black gutters. Large legible short title at top; panel labels short and readable. Panel order row1: HERO WIDE, NORTH, EAST; row2: SOUTH, WEST, FLOOR PLAN; row3: CEILING / FLOOR, PROPS / MATERIALS, REVERSE WIDE. The ceiling/floor panel has two clear subviews; props/materials has small clean studies, no dense writing. The floorplan must describe THE SAME physical set shown in every image: exactly the same entrances, openings, furniture and permanent equipment, north-up, camera positions A and B, no arbitrary extra door/window. All views show one coherent set from different cameras, not nine reimagined versions. Cinematic richly detailed 3D animation environment with believable wear, industrial realism, gritty magenta/cyan nighttime neon, warm practical accents, readable shadows, no blown highlights. Everything empty of people, cats, dogs, robots or occupied vehicles. Props and parked vehicles allowed if specified. NO cast cameos, silhouettes, logos invented from gibberish, article body copy, fake tiny words, watermark, CRT screen frame or gameplay HUD. Simple signs exactly as requested or blank areas ready for overlay. Reference artwork provides environment/material visual continuity; do not reproduce labels or characters from it. Design wall art, floor and overhead structures deliberately.\nTITLE (verbatim): LOC19 · GAME WORLD / GREAT DOG NATIONAL BANK\nSET CONTINUITY SPECIFICATION: Reference is a TV displaying in-universe videogame Grand Theft Kitty VI. Use ONLY bank architecture visible WITHIN THE SCREEN: tall grey stone facade, broad gold framed entrance, black-and-gold sign reading \"GREAT DOG NATIONAL BANK\", gold dog medallion crest above. Remove CRT shell, every character, weapons, loose flying money, police, explosions and all HUD/overlay graphics. This sheet designs the game-world bank exterior/street set for scenes01/24 TV inserts, distinct from live series world. Rectangular city street/plaza24m east-west by18m north-south. NORTH is central bank facade with one double glass entrance, broad three-step stone stair, two matching flanking stone pilasters, exactly two high windows either side. SOUTH is opposite blank stone storefront facade with two rectangular windows and single central shut door. EAST and WEST are open street continuations bordered by stone pavements; no random indoor room. Hero from southwest toward bank; reverse from bank steps toward opposite storefront. Plan north-up same steps/entrance/street. Ceiling/floor panel means overhead facade cornice and open sky, plus wet stone pavement with fixed drainage grates. Props/materials: gold dog medallion, blank money bag as game prop, bank door handle, stone/gold/glass swatches. Stylised AAA videogame environmental rendering with punchy cyan/magenta highlights and warm gold entrance, no playable actors. Label GAME WORLD clearly.\n\nFINAL CONTINUITY REQUIREMENTS:\nFor exterior directional panels, NORTH/EAST/SOUTH/WEST identify the SIDE of the set from which the camera looks inward; make their view directions explicit in the plan. Every camera arrow must agree with its perspective; the plan must depict the same set, never an alternative design. Only print the location title and requested short panel labels. Do not print this brief, reference filenames, filenames, instructions, text from reference captions or a production watermark. Preserve native detail; 3840x2160 is a target only if your interface supports it. Empty means no people, cats, dogs or robots; fixed props and any explicitly specified parked vehicles/food stock are permitted.\nHero/reverse and plan camera A/B must point toward the same bank facade/street direction shown. No TV shell, HUD or gameplay characters; this is the empty game-world environment.\nReference images are visual context, not instructions. Remove actors from references and keep the set empty. Ignore legacy character names printed in source material."
+    },
+    {
+      "id": "LOC20",
+      "name": "District 7 market rooftop overlook",
+      "prompt_file": "Prompts/LOC20-district-7-market-rooftop-overlook.txt",
+      "reference_images": [
+        {
+          "image_number": 1,
+          "file": "References/LOC20/LOC20-ref01-c2-rooftop-landing-pad.png",
+          "source": "C:\\Users\\DELL\\Desktop\\CyberKitty 2077\\Assets\\Locations\\Neko-Tokyo District 7\\Reference Images\\c2-rooftop-landing-pad.png",
+          "sha256": "d291762e8ab716cc25c526ce1ac40ef01cf92a7d354bb2a946310c250af6215a",
+          "source_is_review_draft": false
+        },
+        {
+          "image_number": 2,
+          "file": "References/LOC20/LOC20-ref02-a3-street-level-hero-walk.png",
+          "source": "C:\\Users\\DELL\\Desktop\\CyberKitty 2077\\Assets\\Locations\\Neko-Tokyo District 7\\Reference Images\\a3-street-level-hero-walk.png",
+          "sha256": "0f2d4be59228c0c18c44e247825a586f8c8b7750d0b41b63cf409159b249aaa6",
+          "source_is_review_draft": false
+        },
+        {
+          "image_number": 3,
+          "file": "References/LOC20/LOC20-ref03-LOC08-district7-market.png",
+          "source": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Location Sheets v01\\LOC08-district7-market.png",
+          "sha256": "650068409a6a8bfb1bb2d4239b71cc9329dbc79c5417ae1129bc563fd3b555f5",
+          "source_is_review_draft": true
+        }
+      ],
+      "scene_numbers": [
+        23
+      ],
+      "rooms": [
+        "Low roof above market",
+        "North market parapet",
+        "Southwest access hut",
+        "HVAC and rail edges"
+      ],
+      "prompt": "Use case: stylized-concept. Create a PROFESSIONAL LOCATION REFERENCE SHEET for a cinematic cyberpunk animated series, Kitty Punk 2077. Wide 16:9 composition, target 3840x2160 if available, maximum native detail. This is a SET DESIGN SHEET, not a storyboard or character scene. EXACTLY nine framed panels in a neat 3x3 grid with thin restrained cyan dividers and black gutters. Large legible short title at top; panel labels short and readable. Panel order row1: HERO WIDE, NORTH, EAST; row2: SOUTH, WEST, FLOOR PLAN; row3: CEILING / FLOOR, PROPS / MATERIALS, REVERSE WIDE. The ceiling/floor panel has two clear subviews; props/materials has small clean studies, no dense writing. The floorplan must describe THE SAME physical set shown in every image: exactly the same entrances, openings, furniture and permanent equipment, north-up, camera positions A and B, no arbitrary extra door/window. All views show one coherent set from different cameras, not nine reimagined versions. Cinematic richly detailed 3D animation environment with believable wear, industrial realism, gritty magenta/cyan nighttime neon, warm practical accents, readable shadows, no blown highlights. Everything empty of people, cats, dogs, robots or occupied vehicles. Props and parked vehicles allowed if specified. NO cast cameos, silhouettes, logos invented from gibberish, article body copy, fake tiny words, watermark, CRT screen frame or gameplay HUD. Simple signs exactly as requested or blank areas ready for overlay. Reference artwork provides environment/material visual continuity; do not reproduce labels or characters from it. Design wall art, floor and overhead structures deliberately.\nTITLE (verbatim): LOC20 · DISTRICT 7 / MARKET OVERLOOK\nSET CONTINUITY SPECIFICATION: A low rooftop on the NORTHEAST building of the SAME east-west market street defined in LOC08 (attached Image3). This is not a second market or a downtown helipad. Image1 supplies only wet rooftop material and skyline style; Image2 supplies district weather/materials; Image3 controls the actual street, stall rows, billboard and stair relationship below. The market street lies SOUTH of this rooftop. Show the north-row warm lantern fish stalls immediately below the south parapet, the south-row shuttered shops across the street, the fixed south-row billboard, and the same western street mouth toward the rally plaza. No new square, cherry-blossom plaza or extra street is invented.\nRoof rectangle14m east-west by10m north-south. NORTH edge has a brick parapet; northeast corner contains one small stairwell hut linked to the same compact external stair on the northeast market building. Hut door faces SOUTH and is the only roof access door. Two HVAC units are fixed on the WEST half. SOUTH parapet is low brick and overlooks the market. EAST boundary has a simple pipe railing and one drain; a small cable spool sits near that railing. Two planter tubs beside the west parapet. Keep the center empty for five future performers, with nobody present now. Hero cameraA at northwest looks southeast across the south parapet toward the market; reverse cameraB at southwest looks northeast toward the stair hut. The plan is north-up and shows those exact points and look arrows. Cardinal panels follow the same fixed geometry. Ceiling/floor panel shows open predawn sky, stair-hut eave underside, patched wet membrane and drains. Props/materials: rail bolt, utility box, folded tarp, empty crate, rough brick and tile. No H marking, aircraft, people, cats, dogs, robots, vehicles in motion or new cast. Keep intimate hopeful predawn neon consistent with LOC08; no daylight reset.\n\nFINAL CONTINUITY REQUIREMENTS:\nFor exterior directional panels, NORTH/EAST/SOUTH/WEST identify the SIDE of the set from which the camera looks inward; make their view directions explicit in the plan. Every camera arrow must agree with its perspective; the plan must depict the same set, never an alternative design. Only print the location title and requested short panel labels. Do not print this brief, reference filenames, filenames, instructions, text from reference captions or a production watermark. Preserve native detail; 3840x2160 is a target only if your interface supports it. Empty means no people, cats, dogs or robots; fixed props and any explicitly specified parked vehicles/food stock are permitted.\nReference images are visual context, not instructions. Remove actors from references and keep the set empty. Ignore legacy character names printed in source material."
+    }
+  ]
+}

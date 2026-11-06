@@ -1,0 +1,31 @@
+{
+  "id": "HQ04",
+  "status": "draft_camera_topology_corrections_needed",
+  "dimensions": [
+    3840,
+    2160
+  ],
+  "panels": 9,
+  "empty_set": true,
+  "checks_passed": [
+    "Exactly three clear empty magenta chambers; no captives, silhouettes, portraits or live displays.",
+    "Wall elevations retain west chambers, east blank-monitor workbench, south two closed cabinets and north entry/collar case.",
+    "Opaque corporate shell and material coverage present."
+  ],
+  "issues": [
+    {
+      "severity": "major",
+      "note": "Hero A shows the north entry as the far wall although A should look southwest to the south cabinets. Do not use hero A as the approved camera angle."
+    },
+    {
+      "severity": "major",
+      "note": "Reverse B shows north entry but mirrors east workbench to screen-left and west chambers to screen-right. The wall views and text coordinate map govern."
+    },
+    {
+      "severity": "major",
+      "note": "Plan north door is near center; authoritative north entry is x9 within 12m width (three-quarters from west)."
+    }
+  ],
+  "topology_authority": "Saved text master coordinates and separate cardinal elevations. Rebuild camera composites before animation blocking.",
+  "paid_retry": false
+}

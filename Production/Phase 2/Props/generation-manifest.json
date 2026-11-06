@@ -1,0 +1,312 @@
+{
+  "updated_at": "2026-11-06T19:54:19.776931+00:00",
+  "category": "Props",
+  "provider": "Higgsfield",
+  "model": "gpt_image_2_6",
+  "media_type": "still_images_only",
+  "unique_asset_count": 12,
+  "saved_image_versions": 15,
+  "preflight_quote_credits": 63.75,
+  "actual_billed_credits": "not_independently_verified",
+  "production_approved_count": 0,
+  "jobs": [
+    {
+      "id": "PROP01",
+      "filename": "PROP01-hideout-crt-television-v001.png",
+      "job_id": "e483a15c-207c-43af-9221-69fcb3f2cc75",
+      "cost_preflight_credits": 4.25,
+      "sha256": "ca01123b7a27adb296598c520c20524b5f3e8b303d8c8f6c8a202b3a14d3c376",
+      "dimensions": [
+        3840,
+        2160
+      ],
+      "qa": {
+        "status": "usable_review_draft",
+        "passes": [
+          "Rusty CRT body, two controls on its right and blank display preserved."
+        ],
+        "issues": []
+      }
+    },
+    {
+      "id": "PROP02",
+      "filename": "PROP02-catstation-5-console-v001.png",
+      "job_id": "23aca75c-f31d-44b6-9357-70c57ec0aa7b",
+      "cost_preflight_credits": 4.25,
+      "sha256": "62d2d3a7f4eea1b1065841150df306e34e12623500e8bb263fb46595cb7f8d4d",
+      "dimensions": [
+        3840,
+        2160
+      ],
+      "qa": {
+        "status": "usable_review_draft",
+        "passes": [
+          "White and black upright console with CatStation 5/paw identity."
+        ],
+        "issues": []
+      }
+    },
+    {
+      "id": "PROP03",
+      "filename": "PROP03-five-crew-controllers-gpt26-v001.png",
+      "job_id": "b52eeb43-35ec-4697-b57f-ae853fd80b1d",
+      "cost_preflight_credits": 4.25,
+      "sha256": "585c55d6c011eb096e63d3f55aa13fa1b8b871c5bff3a51257c1116e2ea3ee4c",
+      "dimensions": [
+        3840,
+        2160
+      ],
+      "qa": {
+        "status": "usable_review_draft",
+        "passes": [
+          "Five copies of shared controller hardware, colors map to Trixie/Byte/Ghost/Onyx/Neon."
+        ],
+        "issues": [
+          "Letter labels are sheet annotations only; do not render them in scene."
+        ]
+      }
+    },
+    {
+      "id": "PROP04",
+      "filename": "PROP04-lounge-couch-six-views-gpt26-v001.png",
+      "job_id": "1a046e54-c3a8-4e64-bbe4-ef4474c50980",
+      "cost_preflight_credits": 4.25,
+      "sha256": "86db3ad7aec163606c170e0222eff6c7b7815bdbd5010e6aa7c32ebc60612665",
+      "dimensions": [
+        3840,
+        2160
+      ],
+      "qa": {
+        "status": "usable_front_back_side_views_only",
+        "passes": [
+          "v002 has five cushions and corrected blanket sides: front grey left/amber right, rear amber left/grey right."
+        ],
+        "issues": [
+          "Overhead north arrow conflicts with couch facing direction. Do not use top view as geographic authority.",
+          "v001 retained as superseded historical draft."
+        ]
+      }
+    },
+    {
+      "id": "PROP04",
+      "filename": "PROP04-lounge-couch-six-views-gpt26-v002.png",
+      "job_id": "bd899a44-f901-49aa-ba1e-2daa08669bdb",
+      "cost_preflight_credits": 4.25,
+      "sha256": "8379cb1af3248cc878250b818c467fcf4e09627af2604f2199bce2a535e90a32",
+      "dimensions": [
+        3840,
+        2160
+      ],
+      "qa": {
+        "status": "usable_front_back_side_views_only",
+        "passes": [
+          "v002 has five cushions and corrected blanket sides: front grey left/amber right, rear amber left/grey right."
+        ],
+        "issues": [
+          "Overhead north arrow conflicts with couch facing direction. Do not use top view as geographic authority.",
+          "v001 retained as superseded historical draft."
+        ]
+      }
+    },
+    {
+      "id": "PROP05",
+      "filename": "PROP05-newspaper-blank-physical-master-gpt26-v001.png",
+      "job_id": "4a6faa5b-2928-4eb3-a2ab-9ffce8f43b1a",
+      "cost_preflight_credits": 4.25,
+      "sha256": "4f53c54786f3a8f7d501f9eae0ec55a89f10917c9483c77791d205f5690303a0",
+      "dimensions": [
+        3840,
+        2160
+      ],
+      "qa": {
+        "status": "blank_physical_master",
+        "passes": [
+          "Blank weathered newspaper in six useful views."
+        ],
+        "issues": [
+          "Apply approved printed edition when used in scene."
+        ]
+      }
+    },
+    {
+      "id": "PROP06",
+      "filename": "PROP06-catnip-times-warning-frontpage-gpt26-v001.png",
+      "job_id": "c11466e2-3ccc-4b63-b87c-82cf67d20451",
+      "cost_preflight_credits": 4.25,
+      "sha256": "de98f786aedeb142d949df29d5a9a243f59fb10c4b6aaa7924d505c6b2c2e15f",
+      "dimensions": [
+        3840,
+        2160
+      ],
+      "qa": {
+        "status": "text_template_awaiting_photo",
+        "passes": [
+          "Warning edition headline and body legible; shortage claim attributed to company."
+        ],
+        "issues": [
+          "Photo field intentionally blank; not a finished in-world photographed page."
+        ]
+      }
+    },
+    {
+      "id": "PROP07",
+      "filename": "PROP07-catnip-times-expose-frontpage-gpt26-v001.png",
+      "job_id": "6b5a3e04-4df3-4e24-9d49-38cd320eaca6",
+      "cost_preflight_credits": 4.25,
+      "sha256": "426ceb9024e3bba4ef83241e38f056819be87bfd1dc3be0cc55038a58a15613c",
+      "dimensions": [
+        3840,
+        2160
+      ],
+      "qa": {
+        "status": "text_template_awaiting_photo",
+        "passes": [
+          "Payment expos\u00e9 wording legible; does not prematurely claim proof of supply diversion."
+        ],
+        "issues": [
+          "Photo field intentionally blank pending locked fictional restaurant payoff still; unrecovered Discord original is not claimed recovered."
+        ]
+      }
+    },
+    {
+      "id": "PROP08",
+      "filename": "PROP08-salmon-packs-price-notice-gpt26-v001.png",
+      "job_id": "5fea34ca-2278-4d38-b9c2-79350ad7ff13",
+      "cost_preflight_credits": 4.25,
+      "sha256": "fb9297d91d0a6ab06aaa41b133b6c4987ed54e99eb5487f433cace3a4406fa5c",
+      "dimensions": [
+        3840,
+        2160
+      ],
+      "qa": {
+        "status": "usable_review_draft",
+        "passes": [
+          "Exactly two sealed salmon packs; price notice correctly states $10 to $30 / 3\u00d7."
+        ],
+        "issues": [
+          "Incidental corporate branding in sheet header is not prop artwork; omit in scenes."
+        ]
+      }
+    },
+    {
+      "id": "PROP09",
+      "filename": "PROP09-byte-price-scanner-gpt26-v001.png",
+      "job_id": "1504fbbc-11c7-4c74-a88e-3c00084d4515",
+      "cost_preflight_credits": 4.25,
+      "sha256": "b9eadcb162d244b16bdc8842d9e1078eb9e0779963c8b7826c2f33b7430571d3",
+      "dimensions": [
+        3840,
+        2160
+      ],
+      "qa": {
+        "status": "usable_review_draft_v002",
+        "passes": [
+          "Scanner physical design and blank display readable."
+        ],
+        "issues": [
+          "v002 removes corporate words from rear and header; keep its resistance cat emblem. v001 retained as historical only."
+        ]
+      }
+    },
+    {
+      "id": "PROP09",
+      "filename": "PROP09-byte-price-scanner-gpt26-v002.png",
+      "job_id": "839d8434-569a-453c-b512-754a869c35b4",
+      "cost_preflight_credits": 4.25,
+      "sha256": "3d6689586e0b815025925f0285576f5d8b048d2fce4aeab84c5e9b69eaa11761",
+      "dimensions": [
+        3840,
+        2160
+      ],
+      "qa": {
+        "status": "usable_review_draft_v002",
+        "passes": [
+          "Scanner physical design and blank display readable."
+        ],
+        "issues": [
+          "v002 removes corporate words from rear and header; keep its resistance cat emblem. v001 retained as historical only."
+        ]
+      }
+    },
+    {
+      "id": "PROP10",
+      "filename": "PROP10-bone-decoy-remote-gpt26-v001.png",
+      "job_id": "7b12ccbe-3e6b-4c57-94c6-37815b94f724",
+      "cost_preflight_credits": 4.25,
+      "sha256": "94d884c2a0d5f645e0a738d578f5ad154844baa3fbfe3cf40d94de34187350a6",
+      "dimensions": [
+        3840,
+        2160
+      ],
+      "qa": {
+        "status": "usable_review_draft_v002",
+        "passes": [
+          "Bone has two wheels, lens, speaker, cyan accent and remote."
+        ],
+        "issues": [
+          "v002 removes corporate logos from bone, remote and header. v001 retained as historical only."
+        ]
+      }
+    },
+    {
+      "id": "PROP10",
+      "filename": "PROP10-bone-decoy-remote-gpt26-v002.png",
+      "job_id": "26c82ed5-b981-4a81-8ed7-fea4484b8c76",
+      "cost_preflight_credits": 4.25,
+      "sha256": "d006767f6e8dd0f957e0a0386b3e710635594544cae9f05761a93c3a823b7757",
+      "dimensions": [
+        3840,
+        2160
+      ],
+      "qa": {
+        "status": "usable_review_draft_v002",
+        "passes": [
+          "Bone has two wheels, lens, speaker, cyan accent and remote."
+        ],
+        "issues": [
+          "v002 removes corporate logos from bone, remote and header. v001 retained as historical only."
+        ]
+      }
+    },
+    {
+      "id": "PROP11",
+      "filename": "PROP11-goodboy-badge-evidence-docs-gpt26-v001.png",
+      "job_id": "c9a1e54d-3b4f-469c-96d2-27950a7eb350",
+      "cost_preflight_credits": 4.25,
+      "sha256": "af62330f3ac2ee1943060d59a34e80ff85c252f53a825e4749fb4a80a5528533",
+      "dimensions": [
+        3840,
+        2160
+      ],
+      "qa": {
+        "status": "fillable_corporate_evidence_master",
+        "passes": [
+          "Goodboy Global on corporate badge and forms; direction 7\u201312 to 1\u20136 correct."
+        ],
+        "issues": [
+          "Identity and shipment fields intentionally blank; actual plot-specific records must be composed consistently before close-ups."
+        ]
+      }
+    },
+    {
+      "id": "PROP12",
+      "filename": "PROP12-hackpad-datachip-gpt26-v001.png",
+      "job_id": "1c250ec2-a57b-43e1-8f2d-b91ea9c7bcb9",
+      "cost_preflight_credits": 4.25,
+      "sha256": "f87a6ca99fdecd7cfead47d4078164359bc51288d4ca9934748fd5d5d97eca10",
+      "dimensions": [
+        3840,
+        2160
+      ],
+      "qa": {
+        "status": "usable_review_draft",
+        "passes": [
+          "Blank laptop screen, crew cat emblem on lid/chip, coherent rugged casing."
+        ],
+        "issues": [
+          "Unwanted Goodboy Global in sheet header only; never propagate this header to resistance gear or scenes."
+        ]
+      }
+    }
+  ]
+}

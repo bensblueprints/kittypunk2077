@@ -1,0 +1,48 @@
+{
+  "line_id": "S02-D04",
+  "scene": 2,
+  "role_id": "onyx",
+  "voice_id": "uq0HIbNZKn11Hs5ifEdd",
+  "voice_name": "Harry — Fierce Warrior",
+  "text": "If this is another mandatory obedience announcement, I'm gonna lose my shit.",
+  "original_source_text_verbatim": "If this is another mandatory obedience announcement, I'm gonna lose my shit.",
+  "source_text_policy": "Exact current working dialogue; Goodboy Global approved normalization. Original master retained.",
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.5,
+    "similarity_boost": 0.75,
+    "style": 0.15,
+    "use_speaker_boost": true
+  },
+  "output_format": "mp3_44100_128",
+  "duration_sec": 4.179592,
+  "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Voices\\Opening Scenes\\Scene02\\S02-D04-onyx-take001.mp3",
+  "audio_relative_path": "Scene02/S02-D04-onyx-take001.mp3",
+  "alignment_file": "S02-D04-onyx-take001-alignment.json",
+  "headers": {
+    "request-id": "BoH0HmIy0X2NwqnVm6wN",
+    "character-cost": "17"
+  },
+  "subscription_before": {
+    "character_count": 53256,
+    "character_limit": 83106,
+    "remaining_included_credits": 29850
+  },
+  "subscription_after": {
+    "character_count": 53256,
+    "character_limit": 83106,
+    "remaining_included_credits": 29850
+  },
+  "credits_observed_for_request": 0,
+  "text_characters": 76,
+  "sha256": "27b8e269d7538438b77678139e7bee5572171273e311fd35346dd5929ee6ed23",
+  "status": "generated_review_take_not_final_approved",
+  "performance_approval": "not_approved",
+  "technical_qa": {
+    "ffprobe_decodes": true,
+    "duration_positive": true,
+    "provider_alignment_present": true,
+    "alignment_reconstructs_input": true
+  },
+  "created_utc": "2026-11-06T19:08:01.227468+00:00"
+}

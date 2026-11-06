@@ -1,0 +1,11 @@
+{
+  "status": "usable_review_draft_v002",
+  "passes": [
+    "Scanner physical design and blank display readable."
+  ],
+  "issues": [
+    "v002 removes corporate words from rear and header; keep its resistance cat emblem. v001 retained as historical only."
+  ],
+  "production_approved": false,
+  "reviewed_at": "2026-11-06T19:54:19.775609+00:00"
+}

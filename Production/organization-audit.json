@@ -1,0 +1,163 @@
+{
+  "timestamp": "2026-11-06T21:38:07.427290+00:00",
+  "indexed_files": 827,
+  "indexed_bytes": 1992773737,
+  "archived": [
+    {
+      "from": "C:\\Users\\DELL\\Desktop\\CyberKitty 2077\\_work",
+      "to": "C:\\Users\\DELL\\Desktop\\CyberKitty 2077\\Archive\\Legacy Work"
+    }
+  ],
+  "deleted_files": 0,
+  "duplicate_content_groups": 28,
+  "duplicates_preserved_reason": "Existing reference paths, original sources and historical receipts are retained; identical media across reference packs may be intentional.",
+  "duplicate_groups": [
+    [
+      "GPT Image 2 Location Prompt Pack/existing-draft-corrections.json",
+      "location-correction-queue.json"
+    ],
+    [
+      "GPT Image 2 Location Prompt Pack/References/LOC01/LOC01-ref01-location-sheet-03-resistance-base-warehouse.png",
+      "GPT Image 2 Location Prompt Pack/References/LOC02/LOC02-ref02-location-sheet-03-resistance-base-warehouse.png",
+      "GPT Image 2 Location Prompt Pack/References/LOC03/LOC03-ref01-location-sheet-03-resistance-base-warehouse.png",
+      "GPT Image 2 Location Prompt Pack/References/LOC04/LOC04-ref01-location-sheet-03-resistance-base-warehouse.png",
+      "PromptRefs/ref-01.png"
+    ],
+    [
+      "GPT Image 2 Location Prompt Pack/References/LOC01/LOC01-ref02-a3-street-level-hero-walk.png",
+      "GPT Image 2 Location Prompt Pack/References/LOC05/LOC05-ref01-a3-street-level-hero-walk.png",
+      "GPT Image 2 Location Prompt Pack/References/LOC08/LOC08-ref02-a3-street-level-hero-walk.png",
+      "GPT Image 2 Location Prompt Pack/References/LOC09/LOC09-ref02-a3-street-level-hero-walk.png",
+      "GPT Image 2 Location Prompt Pack/References/LOC18/LOC18-ref01-a3-street-level-hero-walk.png",
+      "GPT Image 2 Location Prompt Pack/References/LOC20/LOC20-ref02-a3-street-level-hero-walk.png",
+      "PromptRefs/ref-02.png"
+    ],
+    [
+      "GPT Image 2 Location Prompt Pack/References/LOC02/LOC02-ref01-couch-rear-blank-tv.png",
+      "Imported References/couch-rear-blank-tv.png",
+      "PromptRefs/ref-03.png"
+    ],
+    [
+      "GPT Image 2 Location Prompt Pack/References/LOC05/LOC05-ref02-7-catleven-exterior.png",
+      "GPT Image 2 Location Prompt Pack/References/LOC06/LOC06-ref01-7-catleven-exterior.png",
+      "GPT Image 2 Location Prompt Pack/References/LOC07/LOC07-ref01-7-catleven-exterior.png",
+      "Imported References/7-catleven-exterior.png",
+      "PromptRefs/ref-04.png"
+    ],
+    [
+      "GPT Image 2 Location Prompt Pack/References/LOC08/LOC08-ref01-b1-neko-market-night.png",
+      "PromptRefs/ref-05.png"
+    ],
+    [
+      "GPT Image 2 Location Prompt Pack/References/LOC09/LOC09-ref01-LOC08-district7-market.png",
+      "GPT Image 2 Location Prompt Pack/References/LOC20/LOC20-ref03-LOC08-district7-market.png",
+      "Location Sheets v01/LOC08-district7-market.png",
+      "PromptRefs/ref-06.png"
+    ],
+    [
+      "GPT Image 2 Location Prompt Pack/References/LOC10/LOC10-ref01-LOC12-steak-bone-private-dining.png",
+      "GPT Image 2 Location Prompt Pack/References/LOC11/LOC11-ref01-LOC12-steak-bone-private-dining.png",
+      "Location Sheets v01/LOC12-steak-bone-private-dining.png",
+      "PromptRefs/ref-07.png"
+    ],
+    [
+      "GPT Image 2 Location Prompt Pack/References/LOC10/LOC10-ref02-steak-and-bone-meeting.png",
+      "GPT Image 2 Location Prompt Pack/References/LOC11/LOC11-ref02-steak-and-bone-meeting.png",
+      "GPT Image 2 Location Prompt Pack/References/LOC12/LOC12-ref01-steak-and-bone-meeting.png",
+      "Imported References/steak-and-bone-meeting-duplicate.png",
+      "Imported References/steak-and-bone-meeting.png",
+      "PromptRefs/ref-08.png"
+    ],
+    [
+      "GPT Image 2 Location Prompt Pack/References/LOC13/LOC13-ref01-interrupting-broadcast.png",
+      "Imported References/interrupting-broadcast.png",
+      "PromptRefs/ref-09.png"
+    ],
+    [
+      "GPT Image 2 Location Prompt Pack/References/LOC14/LOC14-ref01-nip7-investigation.png",
+      "Imported References/nip7-investigation.png",
+      "PromptRefs/ref-10.png"
+    ],
+    [
+      "GPT Image 2 Location Prompt Pack/References/LOC15/LOC15-ref01-location-sheet-the-salmon-factory.png",
+      "GPT Image 2 Location Prompt Pack/References/LOC16/LOC16-ref01-location-sheet-the-salmon-factory.png",
+      "GPT Image 2 Location Prompt Pack/References/LOC17/LOC17-ref01-location-sheet-the-salmon-factory.png",
+      "PromptRefs/ref-11.png"
+    ],
+    [
+      "GPT Image 2 Location Prompt Pack/References/LOC15/LOC15-ref02-b4-salmon-factory-exterior.png",
+      "PromptRefs/ref-12.png"
+    ],
+    [
+      "GPT Image 2 Location Prompt Pack/References/LOC19/LOC19-ref01-game-bank-heist-tv.png",
+      "Imported References/game-bank-heist-tv.png",
+      "Next Assets/Game References/living-room-bank-heist-gameplay.png",
+      "PromptRefs/ref-13.png"
+    ],
+    [
+      "GPT Image 2 Location Prompt Pack/References/LOC20/LOC20-ref01-c2-rooftop-landing-pad.png",
+      "PromptRefs/ref-14.png"
+    ],
+    [
+      "GPT Image 2 Test/20261106T165439Z-request.json",
+      "GPT Image 2 Test/20261106T165521Z-request.json",
+      "GPT Image 2 Test/20261106T165524Z-request.json",
+      "GPT Image 2 Test/20261106T165526Z-request.json",
+      "GPT Image 2 Test/20261106T165529Z-request.json",
+      "GPT Image 2 Test/20261106T165531Z-request.json"
+    ],
+    [
+      "Imported References/game-cover.png",
+      "Next Assets/Game References/grand-theft-kitty-vi-case.png"
+    ],
+    [
+      "Orbis Test/20261106T163903Z-request.json",
+      "Orbis Test/20261106T164240Z-request.json",
+      "Orbis Test/20261106T165140Z-request.json"
+    ],
+    [
+      "Recovered References/Neon/back.png",
+      "Recovered References/Neon/ref-back.png"
+    ],
+    [
+      "Recovered References/Neon/front.png",
+      "Recovered References/Neon/ref-front.png"
+    ],
+    [
+      "Recovered References/Neon/ref-side.png",
+      "Recovered References/Neon/side.png"
+    ],
+    [
+      "Recovered References/Onyx/back.png",
+      "Recovered References/Onyx/ref-back.png"
+    ],
+    [
+      "Recovered References/Onyx/front.png",
+      "Recovered References/Onyx/ref-front.png"
+    ],
+    [
+      "Recovered References/Onyx/ref-side.png",
+      "Recovered References/Onyx/side.png"
+    ],
+    [
+      "Voices/Auditions/narrator/narrator-austin-opening-v001.mp3",
+      "Voices/Narration/kitty-punks-opening-austin-v001.mp3"
+    ],
+    [
+      "Voices/Auditions/trixie/trixie-salmon-factory-emma-v002.mp3",
+      "Voices/Requested Lines/trixie-salmon-factory-emma-v002.mp3"
+    ],
+    [
+      "Voices/Auditions/trixie/trixie-salmon-factory-v001.mp3",
+      "Voices/Requested Lines/trixie-salmon-factory-v001.mp3"
+    ],
+    [
+      "Voices/Requested Lines/trixie-salmon-factory-emma-v002.txt",
+      "Voices/Requested Lines/trixie-salmon-factory-v001.txt"
+    ]
+  ],
+  "current_review_policy": "Generated does not mean approved; latest Next Assets receipts include pending visual reviews.",
+  "github_destination": "https://github.com/bensblueprints/kittypunk2077",
+  "hf_destination": "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets",
+  "pending_production": "Pilot assets remain in progress; district generation deferred."
+}

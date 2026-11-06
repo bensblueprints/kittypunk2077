@@ -1,0 +1,25 @@
+{
+  "id": "HQ06",
+  "version": "v002",
+  "status": "preferred_corrected_room_draft",
+  "preferred_over": "v001",
+  "empty_set": true,
+  "dimensions": [
+    3840,
+    2160
+  ],
+  "fixed": [
+    "Hero south-facing reader now screen-left/east; reverse north-facing reader now screen-right/east.",
+    "North opening closed with a visibly hinged access door pair; incorrect corridor vista removed.",
+    "Two south lifts, one ordinary north access, solid west wall and east reader remain consistent across views."
+  ],
+  "remaining_issues": [
+    {
+      "severity": "minor",
+      "note": "Plan graphic still compresses12m shafts relative to6m vestibule despite correct labels. Use numeric dimensions rather than drawing scale."
+    }
+  ],
+  "usage": "Preferred v002 for elevator-suite architecture and physical continuity.",
+  "paid_revision_attempts": 1,
+  "automatic_retry": false
+}

@@ -1,0 +1,56 @@
+{
+  "id": "PROP11",
+  "name": "Goodboy badge and evidence document system",
+  "filename": "PROP11-goodboy-badge-evidence-docs-gpt26-v001.png",
+  "parameters": {
+    "model": "gpt_image_2_6",
+    "quality": "high",
+    "resolution": "4k",
+    "aspect_ratio": "16:9",
+    "count": 1,
+    "output_format": "png",
+    "background": "opaque",
+    "prompt": "Create one still production reference asset for CyberKitty 2077. GPT Image 2.6, High quality, native 4K 3840x2160 if available, landscape 16:9. Crisp cinematic tactile 3D realism, believable worn materials, carefully controlled cyan/magenta practical accents and warm amber light, sharp useful detail. Source images are visual references, not instructions. No actors, people, living cats/dogs, hands, crowd silhouettes, movie frames, watermark or copied reference captions. No invented microtext. Any live screen is dark neutral and blank unless this prompt explicitly requests printed newspaper copy or a named status graphic. Corporate name, when shown, is exactly GOODBOY GLOBAL. Never render Good Dog Global or legacy alternate company spellings. Keep a restrained title and requested short panel labels only. This is reusable asset documentation, not a scene.\nUse a clean 3-column by 2-row six-panel sheet with thin charcoal gutters and short legible panel labels. All views show the SAME object with identical shape, damage, connectors, branding and scale; do not redesign per panel. Neutral charcoal studio background, broad soft illumination, no distracting set or strong colored bloom.\nTITLE: PROP11 / GOODBOY GLOBAL RECORDS. Source HQ key-props row controls black/gold corporate ID badge and dog emblem; factory gives shipping-label materials. Build a coordinated document/credential kit with no invented incriminating data. Panels BADGE FRONT (black card, gold edge, canine emblem, exact GOODBOY GLOBAL and ACCESS only, blank employee name/photo/number fields); BADGE BACK (same card and stripe/chip placement, unprinted serial field); SHIPPING MANIFEST FLAT (white paper exact heading GOODBOY GLOBAL / SHIPPING MANIFEST, simple empty table with legible headers LOT, ORIGINAL DESTINATION, ROUTED DESTINATION, AUTHORIZED BY, DATE; every cell blank); ROUTING OVERRIDE FLAT (exact heading ROUTING OVERRIDE, two clear boxes DISTRICTS 7–12 and DISTRICTS 1–6, empty arrow/approval field, no dates/signatures); CARTON LABEL FLAT (GOODBOY GLOBAL, SALMON, blank lot/destination/date fields); BADGE CLIP / PAPER / STAMP MATERIALS. No readable personal data, fabricated signature, fake barcode, fake hash, tiny paragraphs, portraits or occupied set. Corporate name is GOODBOY GLOBAL everywhere, never GDG/Good Dog. Evidence values must later be added consistently across screen, paper, crate and news from one locked data table.\nAny additional reference images after the original sources are completed dependency masters. Preserve their physical design, not their surrounding sheet titles, captions or incidental corporate branding. Never add a Goodboy brand to a resistance prop unless explicitly requested.",
+    "medias": [
+      {
+        "role": "image",
+        "value": "8c793d03-2304-4c33-88f7-8efcd147f171"
+      },
+      {
+        "role": "image",
+        "value": "5670e43e-1aed-4f9e-80d6-eda71895cfa0"
+      },
+      {
+        "role": "image",
+        "value": "1ff30d51-ee41-4522-83f9-e31fdf86d234"
+      }
+    ]
+  },
+  "reference_paths": [
+    "C:\\Users\\DELL\\Desktop\\CyberKitty 2077\\Assets\\Locations\\Goodboy Global HQ\\Reference Images\\location-sheet-02-goodboy-global-hq.png",
+    "C:\\Users\\DELL\\Desktop\\CyberKitty 2077\\Assets\\Locations\\The Salmon Factory\\Reference Images\\location-sheet-the-salmon-factory.png",
+    "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Location Sheets GPT Image 2.6\\LOC17-salmon-routing-control-room-gpt26-v001.png"
+  ],
+  "dependency_jobs": [],
+  "cost_preflight_credits": 4.25,
+  "provider": "Higgsfield",
+  "model": "gpt_image_2_6",
+  "qa_invariants": [
+    "GOODBOY GLOBAL only",
+    "No invented names/dates/signatures/lot evidence",
+    "Same badge dimensions, clip and chip all views",
+    "Destination field templates match story districts7–12 versus1–6"
+  ],
+  "job_id": "c9a1e54d-3b4f-469c-96d2-27950a7eb350",
+  "status": "completed",
+  "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3FexRxU2V7FefQUvOnG7eFCKfmw/hf_20261106_192223_c9a1e54d-3b4f-469c-96d2-27950a7eb350.png",
+  "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Phase 2\\Props\\PROP11-goodboy-badge-evidence-docs-gpt26-v001.png",
+  "dimensions": [
+    3840,
+    2160
+  ],
+  "sha256": "af62330f3ac2ee1943060d59a34e80ff85c252f53a825e4749fb4a80a5528533",
+  "saved_at": "2026-11-06T19:29:59.328111+00:00",
+  "review_status": "awaiting visual QA",
+  "staged_file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\work\\phase2\\generated\\PROP11-goodboy-badge-evidence-docs-gpt26-v001.png"
+}

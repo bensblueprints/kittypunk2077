@@ -1,0 +1,48 @@
+{
+  "line_id": "S02-D01",
+  "scene": 2,
+  "role_id": "trixie",
+  "voice_id": "dmWfLQZJq7wNPv9WmtiM",
+  "voice_name": "Emma — Wry, Gritty Hero",
+  "text": "What the fuck? We were almost done!",
+  "original_source_text_verbatim": "What the fuck? We were almost done!",
+  "source_text_policy": "Exact current working dialogue; Goodboy Global approved normalization. Original master retained.",
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.35,
+    "similarity_boost": 0.8,
+    "style": 0.55,
+    "use_speaker_boost": true
+  },
+  "output_format": "mp3_44100_128",
+  "duration_sec": 1.950476,
+  "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Voices\\Opening Scenes\\Scene02\\S02-D01-trixie-take001.mp3",
+  "audio_relative_path": "Scene02/S02-D01-trixie-take001.mp3",
+  "alignment_file": "S02-D01-trixie-take001-alignment.json",
+  "headers": {
+    "request-id": "j44M7PUTF69n8S3NkqeJ",
+    "character-cost": "8"
+  },
+  "subscription_before": {
+    "character_count": 53256,
+    "character_limit": 83106,
+    "remaining_included_credits": 29850
+  },
+  "subscription_after": {
+    "character_count": 53256,
+    "character_limit": 83106,
+    "remaining_included_credits": 29850
+  },
+  "credits_observed_for_request": 0,
+  "text_characters": 35,
+  "sha256": "76bdf0c7a9bbdcb013eb790902ac874443eb1d821fe20eecd6996fc1ff7845b4",
+  "status": "generated_review_take_not_final_approved",
+  "performance_approval": "not_approved",
+  "technical_qa": {
+    "ffprobe_decodes": true,
+    "duration_positive": true,
+    "provider_alignment_present": true,
+    "alignment_reconstructs_input": true
+  },
+  "created_utc": "2026-11-06T19:07:50.972874+00:00"
+}

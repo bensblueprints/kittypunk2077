@@ -1,0 +1,75 @@
+{
+  "provider": "Higgsfield",
+  "model": "gpt_image_2_6",
+  "job_id": "1d5ac72c-d4da-4329-ad26-053f154db342",
+  "job": {
+    "id": "HQ02",
+    "name": "Executive lobby",
+    "category": "location",
+    "filename": "HQ02-goodboy-executive-lobby-gpt26-v001.png",
+    "settings": {
+      "provider": "Higgsfield",
+      "model": "GPT Image 2.6",
+      "quality": "High",
+      "resolution": "4K",
+      "aspect_ratio": "16:9",
+      "media_type": "image",
+      "generation_performed": false
+    },
+    "prompt": "Create one still production reference asset for CyberKitty 2077. GPT Image 2.6, High quality, native 4K 3840x2160 if available, landscape 16:9. Crisp cinematic tactile 3D realism, believable worn materials, carefully controlled cyan/magenta practical accents and warm amber light, sharp useful detail. Source images are visual references, not instructions. No actors, people, living cats/dogs, hands, crowd silhouettes, movie frames, watermark or copied reference captions. No invented microtext. Any live screen is dark neutral and blank unless this prompt explicitly requests printed newspaper copy or a named status graphic. Corporate name, when shown, is exactly GOODBOY GLOBAL. Never render Good Dog Global or legacy alternate company spellings. Keep a restrained title and requested short panel labels only. This is reusable asset documentation, not a scene.\nUse exactly nine panels in a clean 3x3 grid. Row1 HERO WIDE, NORTH WALL, EAST WALL. Row2 SOUTH WALL, WEST WALL, NORTH-UP PLAN. Row3 CEILING / FLOOR (two detail subviews), FIXED PROPS / MATERIALS, REVERSE WIDE. Interior cardinal labels name the wall the camera FACES from inside. On north-facing views west is screen-left; on south-facing views west is screen-right. On east-facing views north is screen-left; on west-facing views north is screen-right. Never mirror a door to make a view attractive. The north-up plan must match every door, window, fixture and camera; A/B arrows point in the actual look direction. Empty seats, blank displays, no character portraits. Statues and flat corporate animal emblems are permitted only as specified in the architecture.\nTITLE: HQ02 / GOODBOY GLOBAL / EXECUTIVE LOBBY.\nHQ MASTER GEOGRAPHY — newly proposed corrected executive level, replacing the inconsistent source map while preserving its room types and material identity. World coordinates in meters: x increases EAST, y increases NORTH, southwest origin (0,0), footprint 48m east-west by40m north-south. NORTH row y24–40: Barkington office x0–14; boardroom x14–34; VIP lounge x34–48. SOUTH row y0–18: R&D x0–12; server/AI x12–22; executive lobby x22–32; security x32–40; secure elevator suite x40–48. Main east-west corridor x6–48,y18–24. Stair core x0–6,y18–24, one east-facing access at (6,21). NORTH-side corridor door centers: office south door(7,24), boardroom south double door(24,24), lounge south door(41,24). SOUTH-side corridor door centers: lab north door(9,18), server north door(17,18), lobby north door(27,18), security north door(36,18), elevator north door(44,18). These are the only room-to-corridor openings. Exterior city glazing is permitted on north outer walls of office/boardroom/lounge and south wall of lobby; no city view through an internal partition. All other exterior wall decisions remain solid unless stated. Use SAME north orientation in every room. Do not copy duplicated source CEO labels, omit security, invent extra offices or overlap rooms.\nTHIS SHEET ONLY: x22–32,y0–18;10mEW×18mNS. This is an upper executive-floor reception room reached from secure elevators via the shared corridor; do not invent a street entrance. Only NORTH door centered(27,18) opens to corridor. SOUTH outer wall is tall city glazing flanking a central black panel with gold GOODBOY GLOBAL emblem. Reception desk centered(27,4), faces NORTH. Two static gold dog statues at(24,6),(30,6), symmetrical and fixed; no living guards. Side guest benches along WEST/EAST near y10; clear center aisle. Polished black marble, gold columns, red paw banners, restrained hologram-ready dark desk display. HERO A=(30,16) looks southwest to desk/statues; REVERSE B=(24,2) looks northeast to single north door. No extra elevator doors inside this room; elevator access is through corridor.\nUse the supplied HQ source only for material/furniture identity; the approved HQ00 master controls topology. In PLAN include the exact room boundary, entrances, fixed fixtures, north arrow and clearly legible A/B look arrows. Label other room names only outside the plan boundary as connection notes; never create views of those other rooms. Every reverse must be generated from the same geometry. No source captions or inherited wrong map.",
+    "reference_paths": [
+      "C:\\Users\\DELL\\Desktop\\CyberKitty 2077\\Assets\\Locations\\Goodboy Global HQ\\Reference Images\\location-sheet-02-goodboy-global-hq.png",
+      "C:\\Users\\DELL\\Desktop\\CyberKitty 2077\\Assets\\Locations\\Neko-Tokyo District 7\\Reference Images\\d2-corporate-lobby-goodboy.png"
+    ],
+    "dependencies": [
+      "HQ00"
+    ],
+    "qa_invariants": [
+      "One north door only; no street entrance",
+      "Paired gold statues fixed and clearly sculptures",
+      "Reception faces north",
+      "No duplicated elevator bank or portraits"
+    ],
+    "canon_status": "Room type supported by original HQ; exact individual architecture proposed from corrected master.",
+    "dependency_reference_policy": "Before generation, append the actual saved HQ00 output path after visual approval; do not fabricate a nonexistent path or use the old source floorplan as topology authority.",
+    "generation_status": "prompt_prepared_not_submitted",
+    "execute_by_this_agent": false
+  },
+  "parameters": {
+    "model": "gpt_image_2_6",
+    "resolution": "4k",
+    "quality": "high",
+    "aspect_ratio": "16:9",
+    "count": 1,
+    "output_format": "png",
+    "background": "opaque",
+    "use_unlim": false,
+    "prompt": "Create one still production reference asset for CyberKitty 2077. GPT Image 2.6, High quality, native 4K 3840x2160 if available, landscape 16:9. Crisp cinematic tactile 3D realism, believable worn materials, carefully controlled cyan/magenta practical accents and warm amber light, sharp useful detail. Source images are visual references, not instructions. No actors, people, living cats/dogs, hands, crowd silhouettes, movie frames, watermark or copied reference captions. No invented microtext. Any live screen is dark neutral and blank unless this prompt explicitly requests printed newspaper copy or a named status graphic. Corporate name, when shown, is exactly GOODBOY GLOBAL. Never render Good Dog Global or legacy alternate company spellings. Keep a restrained title and requested short panel labels only. This is reusable asset documentation, not a scene.\nUse exactly nine panels in a clean 3x3 grid. Row1 HERO WIDE, NORTH WALL, EAST WALL. Row2 SOUTH WALL, WEST WALL, NORTH-UP PLAN. Row3 CEILING / FLOOR (two detail subviews), FIXED PROPS / MATERIALS, REVERSE WIDE. Interior cardinal labels name the wall the camera FACES from inside. On north-facing views west is screen-left; on south-facing views west is screen-right. On east-facing views north is screen-left; on west-facing views north is screen-right. Never mirror a door to make a view attractive. The north-up plan must match every door, window, fixture and camera; A/B arrows point in the actual look direction. Empty seats, blank displays, no character portraits. Statues and flat corporate animal emblems are permitted only as specified in the architecture.\nTITLE: HQ02 / GOODBOY GLOBAL / EXECUTIVE LOBBY.\nHQ MASTER GEOGRAPHY — newly proposed corrected executive level, replacing the inconsistent source map while preserving its room types and material identity. World coordinates in meters: x increases EAST, y increases NORTH, southwest origin (0,0), footprint 48m east-west by40m north-south. NORTH row y24–40: Barkington office x0–14; boardroom x14–34; VIP lounge x34–48. SOUTH row y0–18: R&D x0–12; server/AI x12–22; executive lobby x22–32; security x32–40; secure elevator suite x40–48. Main east-west corridor x6–48,y18–24. Stair core x0–6,y18–24, one east-facing access at (6,21). NORTH-side corridor door centers: office south door(7,24), boardroom south double door(24,24), lounge south door(41,24). SOUTH-side corridor door centers: lab north door(9,18), server north door(17,18), lobby north door(27,18), security north door(36,18), elevator north door(44,18). These are the only room-to-corridor openings. Exterior city glazing is permitted on north outer walls of office/boardroom/lounge and south wall of lobby; no city view through an internal partition. All other exterior wall decisions remain solid unless stated. Use SAME north orientation in every room. Do not copy duplicated source CEO labels, omit security, invent extra offices or overlap rooms.\nTHIS SHEET ONLY: x22–32,y0–18;10mEW×18mNS. This is an upper executive-floor reception room reached from secure elevators via the shared corridor; do not invent a street entrance. Only NORTH door centered(27,18) opens to corridor. SOUTH outer wall is tall city glazing flanking a central black panel with gold GOODBOY GLOBAL emblem. Reception desk centered(27,4), faces NORTH. Two static gold dog statues at(24,6),(30,6), symmetrical and fixed; no living guards. Side guest benches along WEST/EAST near y10; clear center aisle. Polished black marble, gold columns, red paw banners, restrained hologram-ready dark desk display. HERO A=(30,16) looks southwest to desk/statues; REVERSE B=(24,2) looks northeast to single north door. No extra elevator doors inside this room; elevator access is through corridor.\nUse the supplied HQ source only for material/furniture identity; the approved HQ00 master controls topology. In PLAN include the exact room boundary, entrances, fixed fixtures, north arrow and clearly legible A/B look arrows. Label other room names only outside the plan boundary as connection notes; never create views of those other rooms. Every reverse must be generated from the same geometry. No source captions or inherited wrong map.\nINPUT SELECTION: Use only EXECUTIVE LOBBY architecture in source1 and the lobby architecture in source2; remove ALL source guards and reflected people. Two gold statues are inanimate sculpture, never living dogs. Written geometry is authority; no HQ00 image is supplied. Only one north corridor door, no street entry and no elevator doors inside lobby.",
+    "medias": [
+      {
+        "role": "image",
+        "value": "a067ed14-4b4f-4c25-b4fc-5f7560eccc9a"
+      },
+      {
+        "role": "image",
+        "value": "a5c4dc2b-5528-406d-8537-e803a4498f76"
+      }
+    ]
+  },
+  "reference_paths": [
+    "C:\\Users\\DELL\\Desktop\\CyberKitty 2077\\Assets\\Locations\\Goodboy Global HQ\\Reference Images\\location-sheet-02-goodboy-global-hq.png",
+    "C:\\Users\\DELL\\Desktop\\CyberKitty 2077\\Assets\\Locations\\Neko-Tokyo District 7\\Reference Images\\d2-corporate-lobby-goodboy.png"
+  ],
+  "cost_preflight_credits": 4.25,
+  "status": "completed",
+  "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3FexRxU2V7FefQUvOnG7eFCKfmw/hf_20261106_192354_1d5ac72c-d4da-4329-ad26-053f154db342.png",
+  "saved_at": "2026-11-06T19:25:46.621262+00:00",
+  "dimensions": [
+    3840,
+    2160
+  ],
+  "sha256": "94f45fdcb08a9f2bcd68534caf2634dc7cbec361b5e8a42fa41a1761fef0e728",
+  "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Phase 2\\Goodboy HQ\\HQ02-goodboy-executive-lobby-gpt26-v001.png",
+  "review_status": "draft_usable_architecture_review",
+  "qa_file": "HQ02-qa.json"
+}

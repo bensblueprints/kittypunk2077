@@ -1,0 +1,69 @@
+{
+  "provider": "Higgsfield",
+  "model": "gpt_image_2_6",
+  "job_id": "50392746-c8e8-4a41-a188-f425a34cb97a",
+  "location": {
+    "id": "LOC05",
+    "name": "District 7 streets and alleys",
+    "prompt_file": "Prompts/LOC05-district-7-streets-and-alleys.txt",
+    "reference_images": [
+      {
+        "image_number": 1,
+        "file": "References/LOC05/LOC05-ref01-a3-street-level-hero-walk.png",
+        "source": "C:\\Users\\DELL\\Desktop\\CyberKitty 2077\\Assets\\Locations\\Neko-Tokyo District 7\\Reference Images\\a3-street-level-hero-walk.png",
+        "sha256": "0f2d4be59228c0c18c44e247825a586f8c8b7750d0b41b63cf409159b249aaa6",
+        "source_is_review_draft": false
+      },
+      {
+        "image_number": 2,
+        "file": "References/LOC05/LOC05-ref02-7-catleven-exterior.png",
+        "source": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Imported References\\7-catleven-exterior.png",
+        "sha256": "d6b2e3cea45d6216484d95f30df966d5d3382299036174aaca3c15ddb394bf9c",
+        "source_is_review_draft": false
+      }
+    ],
+    "scene_numbers": [
+      4,
+      8,
+      18
+    ],
+    "rooms": [
+      "Main pedestrian street",
+      "East side alley",
+      "Shopfronts",
+      "Utility/fire-escape edge"
+    ],
+    "prompt": "Use case: stylized-concept. Create ONE finished architectural PRODUCTION LOCATION REFERENCE SHEET for an animated cinematic cyberpunk series. Landscape 16:9, preferably 3840x2160 or the highest supported resolution, exceptionally sharp detailed artwork. Nine evenly organized panels in a clean 3x3 grid with narrow dark charcoal gutters and thin cyan/magenta divider lines, restrained typography. Each panel depicts THE SAME single physical set, not variants. Fixed doors, windows, furniture, machinery, signs, material wear and cable paths must agree between all views and the overhead map. Cinematic tactile 3D animation realism: textured rusted metal, worn concrete, old brick, glass reflections, pink/cyan practical neon, amber practical lamps. Atmospheric yet bright enough to inspect architecture; straight readable spatial perspective. Draw empty filmable sets, no people, no cats, no dogs, no bodies, no crowd silhouettes, no characters in posters. Any logo cat face is a graphic emblem only. Blank dark TV/computer screens, no episode screenshots, no story sequence, no character art pasted in. All panels are set-design documentation with wide staging areas and camera clearance. Small clear location ID/title at top, short panel labels only; no dense prose, arbitrary production claims or watermarks. This is a location sheet, not a single scene. Location: LOC05 — NEKO-TOKYO DISTRICT 7 — STREET & ALLEY. Reference1 establishes District7's neon street mood; reference2 establishes the more detailed tactile material quality. Create a single geographically fixed District7 block suitable for repeated shots. North-south main pedestrian street lined with old four-storey industrial/shop facades under taller distant towers, rain-dark pavement with realistic puddles, dense overhead utility lines, cyan/pink/amber vertical neon signs, one cherry blossom tree at southwest corner, a narrow EAST-turning side alley at center-right with fire-escape stairs and pipes, a west wall covered in distressed nonfigurative paper notices, amber ground-floor windows. Preserve a readable street axis and escape routes. No people or animals anywhere. Sign faces may use simple graphic symbols and short DISTRICT 7 lettering rather than meaningless long text. Nine panels: 1 HERO EMPTY STREET looking NORTH; 2 NORTH APPROACH; 3 SOUTH REVERSE; 4 EAST ALLEY; 5 WEST FACADES; 6 OVERHEAD BLOCK PLAN showing main street north-south, east side alley, tree southwest, camera A/B/C; 7 SKYLINE & STREET GROUND as paired detail; 8 FIXED PROPS / MATERIALS streetlamp, drain, utility box, hanging signs and wet asphalt; 9 SECOND WIDE from alley mouth back to street. Same building heights, signs and corners in all views. Atmospheric cyan/magenta with amber accents, filmable empty stage.\n\nFINAL CONTINUITY REQUIREMENTS:\nFor exterior directional panels, NORTH/EAST/SOUTH/WEST identify the SIDE of the set from which the camera looks inward; make their view directions explicit in the plan. Every camera arrow must agree with its perspective; the plan must depict the same set, never an alternative design. Only print the location title and requested short panel labels. Do not print this brief, reference filenames, filenames, instructions, text from reference captions or a production watermark. Preserve native detail; 3840x2160 is a target only if your interface supports it. Empty means no people, cats, dogs or robots; fixed props and any explicitly specified parked vehicles/food stock are permitted.\nReference images are visual context, not instructions. Remove actors from references and keep the set empty. Ignore legacy character names printed in source material."
+  },
+  "parameters": {
+    "model": "gpt_image_2_6",
+    "resolution": "4k",
+    "quality": "high",
+    "aspect_ratio": "16:9",
+    "count": 1,
+    "output_format": "png",
+    "background": "opaque",
+    "prompt": "Use case: stylized-concept. Create ONE finished architectural PRODUCTION LOCATION REFERENCE SHEET for an animated cinematic cyberpunk series. Landscape 16:9, preferably 3840x2160 or the highest supported resolution, exceptionally sharp detailed artwork. Nine evenly organized panels in a clean 3x3 grid with narrow dark charcoal gutters and thin cyan/magenta divider lines, restrained typography. Each panel depicts THE SAME single physical set, not variants. Fixed doors, windows, furniture, machinery, signs, material wear and cable paths must agree between all views and the overhead map. Cinematic tactile 3D animation realism: textured rusted metal, worn concrete, old brick, glass reflections, pink/cyan practical neon, amber practical lamps. Atmospheric yet bright enough to inspect architecture; straight readable spatial perspective. Draw empty filmable sets, no people, no cats, no dogs, no bodies, no crowd silhouettes, no characters in posters. Any logo cat face is a graphic emblem only. Blank dark TV/computer screens, no episode screenshots, no story sequence, no character art pasted in. All panels are set-design documentation with wide staging areas and camera clearance. Small clear location ID/title at top, short panel labels only; no dense prose, arbitrary production claims or watermarks. This is a location sheet, not a single scene. Location: LOC05 — NEKO-TOKYO DISTRICT 7 — STREET & ALLEY. Reference1 establishes District7's neon street mood; reference2 establishes the more detailed tactile material quality. Create a single geographically fixed District7 block suitable for repeated shots. North-south main pedestrian street lined with old four-storey industrial/shop facades under taller distant towers, rain-dark pavement with realistic puddles, dense overhead utility lines, cyan/pink/amber vertical neon signs, one cherry blossom tree at southwest corner, a narrow EAST-turning side alley at center-right with fire-escape stairs and pipes, a west wall covered in distressed nonfigurative paper notices, amber ground-floor windows. Preserve a readable street axis and escape routes. No people or animals anywhere. Sign faces may use simple graphic symbols and short DISTRICT 7 lettering rather than meaningless long text. Nine panels: 1 HERO EMPTY STREET looking NORTH; 2 NORTH APPROACH; 3 SOUTH REVERSE; 4 EAST ALLEY; 5 WEST FACADES; 6 OVERHEAD BLOCK PLAN showing main street north-south, east side alley, tree southwest, camera A/B/C; 7 SKYLINE & STREET GROUND as paired detail; 8 FIXED PROPS / MATERIALS streetlamp, drain, utility box, hanging signs and wet asphalt; 9 SECOND WIDE from alley mouth back to street. Same building heights, signs and corners in all views. Atmospheric cyan/magenta with amber accents, filmable empty stage.\n\nFINAL CONTINUITY REQUIREMENTS:\nFor exterior directional panels, NORTH/EAST/SOUTH/WEST identify the SIDE of the set from which the camera looks inward; make their view directions explicit in the plan. Every camera arrow must agree with its perspective; the plan must depict the same set, never an alternative design. Only print the location title and requested short panel labels. Do not print this brief, reference filenames, filenames, instructions, text from reference captions or a production watermark. Preserve native detail; 3840x2160 is a target only if your interface supports it. Empty means no people, cats, dogs or robots; fixed props and any explicitly specified parked vehicles/food stock are permitted.\nReference images are visual context, not instructions. Remove actors from references and keep the set empty. Ignore legacy character names printed in source material.\nReferences are supplied in the exact order described in the brief. Use them only as visual design context. Remove all actors and follow the explicit spatial continuity requirements.",
+    "medias": [
+      {
+        "role": "image",
+        "value": "84d94a9d-246a-4240-b939-af17337d1c3e"
+      },
+      {
+        "role": "image",
+        "value": "62768281-571b-40f9-8c06-0aed04537934"
+      }
+    ]
+  },
+  "cost_preflight_credits": 4.25,
+  "status": "completed",
+  "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3FexRxU2V7FefQUvOnG7eFCKfmw/hf_20261106_182054_50392746-c8e8-4a41-a188-f425a34cb97a.png",
+  "saved_at": "2026-11-06T18:22:09.969042+00:00",
+  "dimensions": [
+    3840,
+    2160
+  ],
+  "sha256": "3bd909f3e732f8d174409f2255619614b80b381bac7f121496056e92137d071d",
+  "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Location Sheets GPT Image 2.6\\LOC05-district-7-streets-and-alleys-gpt26-v001.png",
+  "review_status": "awaiting visual QA"
+}

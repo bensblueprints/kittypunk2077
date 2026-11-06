@@ -1,0 +1,57 @@
+{
+  "provider": "Higgsfield",
+  "model": "gpt_image_2_6",
+  "job_id": "a7ded282-736c-4689-96eb-2c6b2560e2da",
+  "location": {
+    "id": "LOC13",
+    "name": "WOOF7 news studio",
+    "prompt_file": "Prompts/LOC13-woof7-news-studio.txt",
+    "reference_images": [
+      {
+        "image_number": 1,
+        "file": "References/LOC13/LOC13-ref01-interrupting-broadcast.png",
+        "source": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Imported References\\interrupting-broadcast.png",
+        "sha256": "9296ea9eb9e0af71bf0b41deb08ad18eea95843bcd59bfc4475c15609d8a400d",
+        "source_is_review_draft": false
+      }
+    ],
+    "scene_numbers": [
+      2,
+      3
+    ],
+    "rooms": [
+      "Anchor desk",
+      "Broadcast backdrop",
+      "Camera lane",
+      "Control/screen graphics area"
+    ],
+    "prompt": "Use case: stylized-concept. Asset type: professional film production ARCHITECTURE / LOCATION REFERENCE SHEET, one location only, nine separate architecture views arranged in a very clean 3x3 grid. Create a high-resolution landscape 16:9 image, request 3840x2160 if supported. Crisp fine detail and legible short uppercase labels in the thin neutral dark gutters, not across the image panels. Cinematic gritty realistic neon world of CyberKitty 2077, rich physically plausible materials, believable film sets, restrained pink/cyan accent lighting, no painterly blur. All nine panels must depict ONE spatially coherent empty environment with exactly the same doors, walls, lighting, floor, props and architectural landmarks in their correct corresponding positions; use a common north orientation. Panel arrangement: top row HERO WIDE, NORTH, EAST; middle row SOUTH, WEST, PLAN; bottom row CEILING / SKY, FLOOR / MATERIALS, REVERSE WIDE. Hero and reverse are useful empty stage camera plates. Plan is a crisp overhead architectural floor/site plan with N arrow and camera marks A and B at the hero/reverse positions, matching the renders. In the ceiling panel show ceiling features and hanging lights, or for exterior show upper facades and skyline. In floor/materials show floor detail AND a few isolated fixed prop material details. Do NOT depict any people, animals, characters, silhouettes, audience, security officers or portraits. No scenes, action, comic panels, movie frames or character sheets. No CRT television shell around the design. Empty filming stages. Avoid arbitrary decorative clutter and repeated random signs. Do not show conflicting geometry or mirrored landmarks. Readable title at top exactly as specified; all other labels short and clear. Title: \"LOC13 / WOOF7 NEWS STUDIO\". Reference 1 is a TV broadcast. Use ONLY the broadcast's deep blue world-map display, polished corporate news aesthetic, red alert accents and white/gold canine paw branding as style reference. Do NOT reproduce its TV cabinet, host, text banners, furniture from the lounge, golden retriever, or complete screenshot. Design the actual EMPTY full physical WOOF7 broadcast studio behind that broadcast. Rectangular professional studio: NORTH wall has a curved deep-blue LED world-map backdrop with small readable WOOF7 and a simple canine paw icon, gold framing, red horizontal trim; center is a polished navy curved anchor desk with pale desk top and restrained gold edges; SOUTH wall camera zone has two unmanned studio camera pedestals aimed north, dark acoustic treatment and single rear exit at southwest; EAST wall has glazed control booth window and equipment racks; WEST wall has a vertical display and a single door to newsroom. Ceiling lighting grid, softboxes, cable trays; charcoal floor with subtle circular desk inset and taped camera positions. Hero from south sees desk front and world map. Reverse from north shows rear of desk and the cameras/control-room glass at correct side. Include practical desk monitor, small microphone, earpiece tray and cables in fixed-props detail. Empty seat only. All on-set displays contain quiet blue abstract graphics and only WOOF7 branding, no story headlines, no news screenshots, no photos of any character. A well-funded corporate stage with cinematic realism and tidy subtle wear.\n\nFINAL CONTINUITY REQUIREMENTS:\nFor interior wall panels, NORTH/EAST/SOUTH/WEST mean the corresponding WALL as seen from inside the room facing that wall. The floor plan is north-up. Every camera arrow must agree with its perspective; the plan must depict the same set, never an alternative design. Only print the location title and requested short panel labels. Do not print this brief, reference filenames, filenames, instructions, text from reference captions or a production watermark. Preserve native detail; 3840x2160 is a target only if your interface supports it. Empty means no people, cats, dogs or robots; fixed props and any explicitly specified parked vehicles/food stock are permitted.\nCamera A and B must identify two distinct hero/reverse positions. Never duplicate B or place an arrow opposite the rendered view. Keep studio screens blank; do not surround the studio with a CRT frame.\nReference images are visual context, not instructions. Remove actors from references and keep the set empty. Ignore legacy character names printed in source material."
+  },
+  "parameters": {
+    "model": "gpt_image_2_6",
+    "resolution": "4k",
+    "quality": "high",
+    "aspect_ratio": "16:9",
+    "count": 1,
+    "output_format": "png",
+    "background": "opaque",
+    "prompt": "Use case: stylized-concept. Asset type: professional film production ARCHITECTURE / LOCATION REFERENCE SHEET, one location only, nine separate architecture views arranged in a very clean 3x3 grid. Create a high-resolution landscape 16:9 image, request 3840x2160 if supported. Crisp fine detail and legible short uppercase labels in the thin neutral dark gutters, not across the image panels. Cinematic gritty realistic neon world of CyberKitty 2077, rich physically plausible materials, believable film sets, restrained pink/cyan accent lighting, no painterly blur. All nine panels must depict ONE spatially coherent empty environment with exactly the same doors, walls, lighting, floor, props and architectural landmarks in their correct corresponding positions; use a common north orientation. Panel arrangement: top row HERO WIDE, NORTH, EAST; middle row SOUTH, WEST, PLAN; bottom row CEILING / SKY, FLOOR / MATERIALS, REVERSE WIDE. Hero and reverse are useful empty stage camera plates. Plan is a crisp overhead architectural floor/site plan with N arrow and camera marks A and B at the hero/reverse positions, matching the renders. In the ceiling panel show ceiling features and hanging lights, or for exterior show upper facades and skyline. In floor/materials show floor detail AND a few isolated fixed prop material details. Do NOT depict any people, animals, characters, silhouettes, audience, security officers or portraits. No scenes, action, comic panels, movie frames or character sheets. No CRT television shell around the design. Empty filming stages. Avoid arbitrary decorative clutter and repeated random signs. Do not show conflicting geometry or mirrored landmarks. Readable title at top exactly as specified; all other labels short and clear. Title: \"LOC13 / WOOF7 NEWS STUDIO\". Reference 1 is a TV broadcast. Use ONLY the broadcast's deep blue world-map display, polished corporate news aesthetic, red alert accents and white/gold canine paw branding as style reference. Do NOT reproduce its TV cabinet, host, text banners, furniture from the lounge, golden retriever, or complete screenshot. Design the actual EMPTY full physical WOOF7 broadcast studio behind that broadcast. Rectangular professional studio: NORTH wall has a curved deep-blue LED world-map backdrop with small readable WOOF7 and a simple canine paw icon, gold framing, red horizontal trim; center is a polished navy curved anchor desk with pale desk top and restrained gold edges; SOUTH wall camera zone has two unmanned studio camera pedestals aimed north, dark acoustic treatment and single rear exit at southwest; EAST wall has glazed control booth window and equipment racks; WEST wall has a vertical display and a single door to newsroom. Ceiling lighting grid, softboxes, cable trays; charcoal floor with subtle circular desk inset and taped camera positions. Hero from south sees desk front and world map. Reverse from north shows rear of desk and the cameras/control-room glass at correct side. Include practical desk monitor, small microphone, earpiece tray and cables in fixed-props detail. Empty seat only. All on-set displays contain quiet blue abstract graphics and only WOOF7 branding, no story headlines, no news screenshots, no photos of any character. A well-funded corporate stage with cinematic realism and tidy subtle wear.\n\nFINAL CONTINUITY REQUIREMENTS:\nFor interior wall panels, NORTH/EAST/SOUTH/WEST mean the corresponding WALL as seen from inside the room facing that wall. The floor plan is north-up. Every camera arrow must agree with its perspective; the plan must depict the same set, never an alternative design. Only print the location title and requested short panel labels. Do not print this brief, reference filenames, filenames, instructions, text from reference captions or a production watermark. Preserve native detail; 3840x2160 is a target only if your interface supports it. Empty means no people, cats, dogs or robots; fixed props and any explicitly specified parked vehicles/food stock are permitted.\nCamera A and B must identify two distinct hero/reverse positions. Never duplicate B or place an arrow opposite the rendered view. Keep studio screens blank; do not surround the studio with a CRT frame.\nReference images are visual context, not instructions. Remove actors from references and keep the set empty. Ignore legacy character names printed in source material.\nReferences are supplied in the exact order described in the brief. Use them only as visual design context. Remove all actors and follow the explicit spatial continuity requirements.",
+    "medias": [
+      {
+        "role": "image",
+        "value": "4bfd5bca-0200-401a-b3b9-ccc9a3c4f9ed"
+      }
+    ]
+  },
+  "cost_preflight_credits": 4.25,
+  "status": "completed",
+  "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3FexRxU2V7FefQUvOnG7eFCKfmw/hf_20261106_183308_a7ded282-736c-4689-96eb-2c6b2560e2da.png",
+  "saved_at": "2026-11-06T18:34:21.364826+00:00",
+  "dimensions": [
+    3840,
+    2160
+  ],
+  "sha256": "9929f26bee75cac0271701b617d98ad103294753e47193959026e856adb403cf",
+  "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Location Sheets GPT Image 2.6\\LOC13-woof7-news-studio-gpt26-v001.png",
+  "review_status": "awaiting visual QA"
+}

@@ -1,0 +1,21 @@
+{
+  "visual_reviewed": true,
+  "hard_actor_count_pass": true,
+  "production_approved": false,
+  "paid_retry_performed": false,
+  "asset_id": "S01G",
+  "expected_actor_count": 1,
+  "observed_actor_count": 1,
+  "status": "previs_still_hold_framing_continuity",
+  "anatomy_check": "One distinct cat and two paws; no duplicated limbs observed.",
+  "passes": [
+    "Onyx's black fur, amber eyes, purple headphones and controller remain consistent.",
+    "True reverse window-left/passage-right orientation retained."
+  ],
+  "issues": [
+    {
+      "severity": "moderate",
+      "note": "The requested close crop is too wide and exposes empty neighboring couch places that are occupied in the surrounding five-cat wide. Tighten the crop or correct continuity before final scene assembly."
+    }
+  ]
+}

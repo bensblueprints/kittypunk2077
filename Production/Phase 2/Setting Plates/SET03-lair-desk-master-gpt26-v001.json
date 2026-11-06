@@ -1,0 +1,40 @@
+{
+  "id": "SET03",
+  "name": "Hacking lair desk master",
+  "filename": "SET03-lair-desk-master-gpt26-v001.png",
+  "category": "Setting Plates",
+  "parameters": {
+    "model": "gpt_image_2_6",
+    "quality": "high",
+    "resolution": "4k",
+    "aspect_ratio": "16:9",
+    "count": 1,
+    "output_format": "png",
+    "background": "opaque",
+    "prompt": "Create ONE single cinematic16:9 still frame, requested3840x2160, high detail. This is a clean animation start frame, not a contact sheet, grid, storyboard page, split screen or sequence. Use tactile cinematic3D cyberpunk animation: readable fur and fabrics, weathered metal/brick/concrete, restrained cyan/magenta practical light and warm amber lamps, plausible optics and shadows. Keep the supplied established world and physical designs. No title, panel label, shot ID, subtitles, dialogue, timestamp, watermark or production annotation is burned into the image. One natural held pose at the beginning of the described beat; do not try to show a whole shot’s duration or multiple actions in one image. Any dialogue supplied separately is performance context only and must never appear as words in the picture. Use only the specified visible cast; realistic feline/canine paws, no human fingers, extra limbs, merged bodies, duplicate faces or borrowed accessories. Reference sheets provide identity/material evidence only: never copy their panel layout, text or labels into this single frame. EMPTY operations set from LOC03. Camera is SOUTH OF the tactical worktable looking NORTH toward the desk, so the same worktable appears in the center foreground. Along the north wall exactly five work positions, five blank dark monitors and five worn office chairs; two server racks total, one flanking each end. Tall north-wall industrial windows are behind the desk. Western steel support is at FRAME LEFT; east-side scarred toolbox is at FRAME RIGHT. Keep the open warehouse area behind this camera, the original cable tray paths, worn concrete, overhead trusses and amber lamps. One physically coherent wide plate, no characters or holographic imagery. Do not copy the grid/annotations of LOC03. Use the successful HERO/NORTH desk geometry; ignore the plan camera-A error and mislabeled second wide.\nFor the couch reference use only its correct FRONT, BACK and SIDE panels for object geometry. Its top-view north arrow is not a spatial authority; use the explicit room geometry in this brief. No sheet titles, labels or corporate headers in the final cinematic frame.",
+    "medias": [
+      {
+        "role": "image",
+        "value": "6f450946-c84c-48d9-a960-589e1720bf85"
+      }
+    ]
+  },
+  "reference_paths": [
+    "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Location Sheets GPT Image 2.6\\LOC03-hacking-operations-gpt26-v001.png"
+  ],
+  "cost_preflight_credits": 4.25,
+  "provider": "Higgsfield",
+  "model": "gpt_image_2_6",
+  "job_id": "2fc598ec-6515-4833-8193-b73c824c4562",
+  "status": "completed",
+  "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3FexRxU2V7FefQUvOnG7eFCKfmw/hf_20261106_193318_2fc598ec-6515-4833-8193-b73c824c4562.png",
+  "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Phase 2\\Setting Plates\\SET03-lair-desk-master-gpt26-v001.png",
+  "dimensions": [
+    3840,
+    2160
+  ],
+  "sha256": "2b6b1c23635fe1c4348105c395fd2bea8f4b8e6f456636155e839c74f83888e0",
+  "saved_at": "2026-11-06T19:37:59.618147+00:00",
+  "review_status": "awaiting visual QA",
+  "staged_file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\work\\phase2\\generated\\SET03-lair-desk-master-gpt26-v001.png"
+}

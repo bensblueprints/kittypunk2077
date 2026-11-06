@@ -1,0 +1,122 @@
+{
+  "asset_id": "S01H",
+  "name": "Ghost reaction",
+  "batch": 3,
+  "index": 8,
+  "scene": 1,
+  "editorial_shot_id": "S01-08",
+  "provider": "Higgsfield",
+  "model": "gpt_image_2_6",
+  "media_type": "image",
+  "status": "previs_still_hold_framing_continuity",
+  "generation_status": "completed",
+  "job_id": "75372dfe-5d73-4d6f-a120-e0abee024825",
+  "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3FexRxU2V7FefQUvOnG7eFCKfmw/hf_20261106_200140_75372dfe-5d73-4d6f-a120-e0abee024825.png",
+  "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Phase 2\\Opening Frames\\S01H-gpt26-v001.png",
+  "filename": "S01H-gpt26-v001.png",
+  "actual_dimensions": [
+    3840,
+    2160
+  ],
+  "file_format": "PNG",
+  "size_bytes": 14245517,
+  "sha256": "f17cfb6e7b6495638a572213205979159c6466e576d2455579e271e5c2881cce",
+  "saved_at": "2026-11-06T20:03:10.915168+00:00",
+  "quote_credits": 4.25,
+  "actual_billed_credits": "not_independently_verified",
+  "batch_lease_credits": 119,
+  "max_authorized_jobs": 28,
+  "no_automatic_paid_retry": true,
+  "reference_paths": [
+    "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Phase 2\\Setting Plates\\SET02-lounge-true-front-reverse-gpt26-v001.png",
+    "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Phase 2\\Props\\PROP03-five-crew-controllers-gpt26-v001.png",
+    "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Phase 2\\Character Masters\\CREW03-ghost-character-master-gpt26-v001.png"
+  ],
+  "reference_media": [
+    {
+      "value": "a8de5630-f81b-4f05-b584-c87e28597935",
+      "type": "completed_generation_job",
+      "asset_id": "SET02"
+    },
+    {
+      "value": "b52eeb43-35ec-4697-b57f-ae853fd80b1d",
+      "type": "completed_generation_job",
+      "asset_id": "PROP03"
+    },
+    {
+      "value": "bc85255d-a23d-4720-b787-8f8b1aac04c3",
+      "type": "completed_generation_job",
+      "asset_id": "CREW03"
+    }
+  ],
+  "source_hashes": {
+    "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Phase 2\\Setting Plates\\SET02-lounge-true-front-reverse-gpt26-v001.png": "4bc4255b44e8a0c5e81250a2d8c11c68ffeea3966be2f0a748cf4f23e27abb62",
+    "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Phase 2\\Props\\PROP03-five-crew-controllers-gpt26-v001.png": "585c55d6c011eb096e63d3f55aa13fa1b8b871c5bff3a51257c1116e2ea3ee4c",
+    "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Phase 2\\Character Masters\\CREW03-ghost-character-master-gpt26-v001.png": "61dc338e08cb238517b46669ec5302e4a58881d4c8a95df0139bfa24ce80a911"
+  },
+  "generation_params": {
+    "model": "gpt_image_2_6",
+    "quality": "high",
+    "resolution": "4k",
+    "aspect_ratio": "16:9",
+    "count": 1,
+    "output_format": "png",
+    "background": "opaque",
+    "prompt": "Create ONE single cinematic16:9 still frame, requested3840x2160, high detail. This is a clean animation start frame, not a contact sheet, grid, storyboard page, split screen or sequence. Use tactile cinematic3D cyberpunk animation: readable fur and fabrics, weathered metal/brick/concrete, restrained cyan/magenta practical light and warm amber lamps, plausible optics and shadows. Keep the supplied established world and physical designs. No title, panel label, shot ID, subtitles, dialogue, timestamp, watermark or production annotation is burned into the image. One natural held pose at the beginning of the described beat; do not try to show a whole shot’s duration or multiple actions in one image. Any dialogue supplied separately is performance context only and must never appear as words in the picture. Use only the specified visible cast; realistic feline/canine paws, no human fingers, extra limbs, merged bodies, duplicate faces or borrowed accessories. Reference sheets provide identity/material evidence only: never copy their panel layout, text or labels into this single frame. Physical continuity: north wall has the ONE CRT with exactly two knobs on its own right and ONE CatStation5 above it. The patched brown couch faces north toward that television. The outside/emblem back is south. The west-side southwest passage is fixed. There are exactly FIVE seat cushions. The AMBER blanket is physically WEST, and the GREY blanket physically EAST: rear view amber FRAME LEFT/grey FRAME RIGHT; true front reverse grey FRAME LEFT/amber FRAME RIGHT. Keep the resistance cat emblem on the outside couch back only; no Goodboy Global branding on the couch. In the rear view toward the TV, banner is frame-left and the industrial window frame-right. In the true front reverse from the TV looking south, west/southwest passage is frame-RIGHT, east/window side frame-LEFT, and the TV/console are behind the camera, absent from the image. The unchanged seating becomes screen-left to right GHOST, BYTE, TRIXIE, ONYX, NEON when viewed from the TV side looking south. Do not move the cast to preserve the rear-view screen order. TV and console remain behind camera. Tight GHOST in his far-left front-view seat, green visor and dark hood fixed. One quiet grey tabby with a tiny confident mouth-corner smile, controller held lightly, gaze toward the offscreen TV near camera. He is calm while everyone else remains outside this crop. No literal score/result or new dialogue appears. GHOST: boy17, grey tabby, pale muzzle, green AR visor, dark hood/stealth suit with green accents. Visor remains green; do not reveal or invent eyes hidden by it.\n\nREFERENCE SCOPE AND HARD CONTINUITY: Image 1 is the exact TRUE FRONT lounge reverse, camera near TV looking south: window LEFT, passage RIGHT, grey blanket LEFT and amber RIGHT; the television and console are BEHIND the camera and must not appear. This empty plate fixes furniture geography. Full couch seat order left-to-right is Ghost, Byte, Trixie, Onyx, Neon, but show ONLY the requested tightly cropped visible actor(s), no other crew in background. Current character sheets supply identity only. If controller is visible, use supplied PROP03 white/black shell and the actor's assigned accent, never the black grip-proxy controller drawn on character sheets. No source captions/panels.",
+    "medias": [
+      {
+        "role": "image",
+        "value": "a8de5630-f81b-4f05-b584-c87e28597935"
+      },
+      {
+        "role": "image",
+        "value": "b52eeb43-35ec-4697-b57f-ae853fd80b1d"
+      },
+      {
+        "role": "image",
+        "value": "bc85255d-a23d-4720-b787-8f8b1aac04c3"
+      }
+    ]
+  },
+  "dependencies": [
+    "SET02",
+    "PROP03",
+    "PROP04",
+    "CREW03"
+  ],
+  "dependency_status": "Required files present, parent cleared SET01/SET02 and corrected PROP04v002/CHAR06v002 for previs; input images visually inspected.",
+  "expected_visible_actor_count": 1,
+  "expected_visible_roles": [
+    "CREW03"
+  ],
+  "audio_alignment_file": "S01H-gpt26-v001.alignment.json",
+  "prompt_file": "S01H-gpt26-v001.prompt.txt",
+  "production_approved": false,
+  "higgsfield_audio_allowed": false,
+  "higgsfield_video_allowed": false,
+  "visual_qa": {
+    "visual_reviewed": true,
+    "hard_actor_count_pass": true,
+    "production_approved": false,
+    "paid_retry_performed": false,
+    "asset_id": "S01H",
+    "expected_actor_count": 1,
+    "observed_actor_count": 1,
+    "status": "previs_still_hold_framing_continuity",
+    "anatomy_check": "One distinct cat and two paws; no duplicated limbs observed.",
+    "passes": [
+      "Ghost's grey fur, green visor/hood and green controller remain consistent.",
+      "True reverse window-left/passage-right orientation retained."
+    ],
+    "issues": [
+      {
+        "severity": "moderate",
+        "note": "The requested close crop is too wide and exposes empty neighboring couch places that are occupied in the surrounding five-cat wide. Tighten the crop or correct continuity before final scene assembly."
+      },
+      {
+        "severity": "minor",
+        "note": "Controller includes a legacy platform glyph; final prop-brand pass should conform to the approved controller master."
+      }
+    ]
+  }
+}

@@ -1,0 +1,208 @@
+{
+  "project": "CyberKitty 2077",
+  "batch": "LOC08–LOC14 location reference sheets",
+  "source_timeline": "C:\\Users\\DELL\\.codex\\attachments\\1786a3bc-86b7-4aff-8af7-0cba22f2b267\\Pasted text.txt",
+  "status": "All seven submitted builtin jobs finished and saved. No further builtin generation after user changed provider to Orbis NanoBanana.",
+  "items": [
+    {
+      "id": "LOC08",
+      "file": "LOC08-district7-market.png",
+      "ref": [
+        "C:/Users/DELL/Desktop/CyberKitty 2077/Assets/Locations/Neko-Tokyo District 7/Reference Images/b1-neko-market-night.png",
+        "C:/Users/DELL/Desktop/CyberKitty 2077/Assets/Locations/Neko-Tokyo District 7/Reference Images/a3-street-level-hero-walk.png"
+      ],
+      "prompt": "Use case: stylized-concept. Asset type: professional film production ARCHITECTURE / LOCATION REFERENCE SHEET, one location only, nine separate architecture views arranged in a very clean 3x3 grid. Create a high-resolution landscape 16:9 image, request 3840x2160 if supported. Crisp fine detail and legible short uppercase labels in the thin neutral dark gutters, not across the image panels. Cinematic gritty realistic neon world of CyberKitty 2077, rich physically plausible materials, believable film sets, restrained pink/cyan accent lighting, no painterly blur. All nine panels must depict ONE spatially coherent empty environment with exactly the same doors, walls, lighting, floor, props and architectural landmarks in their correct corresponding positions; use a common north orientation. Panel arrangement: top row HERO WIDE, NORTH, EAST; middle row SOUTH, WEST, PLAN; bottom row CEILING / SKY, FLOOR / MATERIALS, REVERSE WIDE. Hero and reverse are useful empty stage camera plates. Plan is a crisp overhead architectural floor/site plan with N arrow and camera marks A and B at the hero/reverse positions, matching the renders. In the ceiling panel show ceiling features and hanging lights, or for exterior show upper facades and skyline. In floor/materials show floor detail AND a few isolated fixed prop material details. Do NOT depict any people, animals, characters, silhouettes, audience, security officers or portraits. No scenes, action, comic panels, movie frames or character sheets. No CRT television shell around the design. Empty filming stages. Avoid arbitrary decorative clutter and repeated random signs. Do not show conflicting geometry or mirrored landmarks. Readable title at top exactly as specified; all other labels short and clear. Title: \"LOC08 / DISTRICT 7 MARKET\". References 1 and 2 are for the established district's street materials, warm lantern stalls and distant cyan/magenta towers only; remove all their crowds and heroes. Design an empty gritty neighborhood market street at night just after rain: wet repaired asphalt and concrete, compact food stalls with rusted corrugated awnings, old red lanterns, cat icon signage, stacked empty fish crates, shuttered shop units, drainage channels and overhead power cables. Proposed coherent geography: long east-west market street, north row of warm lantern fish stalls, south row of lower shuttered shops and a short loading bay, west street mouth opens toward a small rally plaza, east end frames distant neon towers. A compact stair on the northeast building leads to a modest flat rooftop overlook; keep the same building/stair in east/north/plan views. Clear central street wide enough for a small refrigerated delivery truck later, but NO VEHICLES in this sheet. Stalls are closed/empty awaiting filming, no visible food stock that would contradict the shortage. Show empty counters, freezer cases, loading handcart and crates as fixed prop details. Weathered lived-in district, street scaled for anthropomorphic cats, not a sleek wealthy district. The reverse wide looks west toward the plaza so scene23 rooftop and market coverage can be established later.",
+      "generated_path": "C:\\Users\\DELL\\.codex\\generated_images\\01a1b1a4-2f3a-7490-b2d3-87bcc5158a62\\exec-7895001a-c50e-47fe-95e4-d1fcf92b51ce.png",
+      "saved_path": "E:/MovedFromC/Documents/Codex/2026-11-06/https-chatgpt-com-share-6aedf171-aae8-2/outputs/Location Sheets v01/LOC08-district7-market.png",
+      "status": "saved_and_visually_inspected_reference_draft",
+      "method": "builtin image_gen",
+      "requested_size": "3840x2160 in prompt only",
+      "actual_size": [
+        1672,
+        941
+      ],
+      "qa": {
+        "visual_inspection": "view_image inspected saved file",
+        "empty_stage": true,
+        "readable_title": true,
+        "nine_panel_sheet": true,
+        "notes": [
+          "Clear empty market, warm lantern stalls, shuttered shops, plaza connection, overhead plan and materials.",
+          "Camera A/B in generated site plan are not a reliable match to hero/reverse orientation; use images as visual references and redraw authoritative camera marks before blocking."
+        ],
+        "production_use": "Ready as location design reference; camera marks and exact cross-angle geometry need final blocking check. Actual resolution is 1672x941, not 4K."
+      }
+    },
+    {
+      "id": "LOC09",
+      "file": "LOC09-rally-stage-plaza.png",
+      "ref": [
+        "E:/MovedFromC/Documents/Codex/2026-11-06/https-chatgpt-com-share-6aedf171-aae8-2/outputs/Location Sheets v01/LOC08-district7-market.png",
+        "C:/Users/DELL/Desktop/CyberKitty 2077/Assets/Locations/Neko-Tokyo District 7/Reference Images/a3-street-level-hero-walk.png"
+      ],
+      "prompt": "Use case: stylized-concept. Asset type: professional film production ARCHITECTURE / LOCATION REFERENCE SHEET, one location only, nine separate architecture views arranged in a very clean 3x3 grid. Create a high-resolution landscape 16:9 image, request 3840x2160 if supported. Crisp fine detail and legible short uppercase labels in the thin neutral dark gutters, not across the image panels. Cinematic gritty realistic neon world of CyberKitty 2077, rich physically plausible materials, believable film sets, restrained pink/cyan accent lighting, no painterly blur. All nine panels must depict ONE spatially coherent empty environment with exactly the same doors, walls, lighting, floor, props and architectural landmarks in their correct corresponding positions; use a common north orientation. Panel arrangement: top row HERO WIDE, NORTH, EAST; middle row SOUTH, WEST, PLAN; bottom row CEILING / SKY, FLOOR / MATERIALS, REVERSE WIDE. Hero and reverse are useful empty stage camera plates. Plan is a crisp overhead architectural floor/site plan with N arrow and camera marks A and B at the hero/reverse positions, matching the renders. In the ceiling panel show ceiling features and hanging lights, or for exterior show upper facades and skyline. In floor/materials show floor detail AND a few isolated fixed prop material details. Do NOT depict any people, animals, characters, silhouettes, audience, security officers or portraits. No scenes, action, comic panels, movie frames or character sheets. No CRT television shell around the design. Empty filming stages. Avoid arbitrary decorative clutter and repeated random signs. Do not show conflicting geometry or mirrored landmarks. Readable title at top exactly as specified; all other labels short and clear. Title: \"LOC09 / DISTRICT 7 RALLY PLAZA\". Reference 1 is the newly established market architecture sheet; take the WEST-end small plaza and its pink-blossom tree and adjoining market mouth as the exact neighborhood anchor. Reference 2 supplies gritty cinematic neon mood only. Create the empty rally location in the same wet working-class district, no crowds, no characters or vehicles. Spatial plan: roughly square courtyard with low curved concrete steps and single pink-blossom tree at WEST edge; EAST opens directly into the long market street with north-row red lantern stalls; NORTH wall is a weathered two-story residential facade with repair patches, pipes and a narrow metal stair to its accessible flat rooftop; SOUTH is shuttered repair shops with power cables. A modest improvised pallet stage sits at NORTH wall center, two dark PA speakers flank it, one microphone on stand at center, cables secured along stage rear. Keep stage clear and sturdy, floor rough patched concrete, drain channel at east street mouth. Hero from south looks north to the stage. South panel is STAGE POV facing the empty audience space and west steps. East panel shows the market entrance connection. West panel shows cherry tree and curved steps. PLAN camera A is south of stage pointing north; camera B is roof of north building looking down south; include a third small C at stage looking south only if helpful. Instead of generic REVERSE WIDE bottom-right must be ROOFTOP OVERLOOK: empty northeast rooftop railing in foreground overlooking plaza and market so the crew can watch the first truck delivery in scene23. Instead of CEILING/SKY bottom-left show upper facade, overhead cables and accessible rooftop stair. Clear empty gathering area, microphones and speakers present, no rally slogans that invent plot. Architecture must match across all nine panels; do not make a concert arena or elite plaza.",
+      "generated_path": "C:\\Users\\DELL\\.codex\\generated_images\\01a1b1a4-2f3a-7490-b2d3-87bcc5158a62\\exec-dcaf9b8a-8208-4db3-a8a4-c43869583b80.png",
+      "saved_path": "E:/MovedFromC/Documents/Codex/2026-11-06/https-chatgpt-com-share-6aedf171-aae8-2/outputs/Location Sheets v01/LOC09-rally-stage-plaza.png",
+      "status": "saved_and_visually_inspected_reference_draft",
+      "method": "builtin image_gen",
+      "requested_size": "3840x2160 in prompt only",
+      "actual_size": [
+        1672,
+        941
+      ],
+      "qa": {
+        "visual_inspection": "view_image inspected saved file",
+        "empty_stage": true,
+        "readable_title": true,
+        "nine_panel_sheet": true,
+        "notes": [
+          "Empty pallet stage, two speakers, center microphone, cherry-blossom steps, adjoining market and rooftop overlook included.",
+          "Rooftop image is a useful elevated reverse angle but its shown viewpoint is not exactly the north-roof B position indicated in the plan; fix blocking marks before scene generation."
+        ],
+        "production_use": "Ready as location design reference; camera marks and exact cross-angle geometry need final blocking check. Actual resolution is 1672x941, not 4K."
+      }
+    },
+    {
+      "id": "LOC10",
+      "file": "LOC10-steak-bone-exterior-security.png",
+      "ref": [
+        "E:/MovedFromC/Documents/Codex/2026-11-06/https-chatgpt-com-share-6aedf171-aae8-2/outputs/Location Sheets v01/LOC12-steak-bone-private-dining.png",
+        "E:/MovedFromC/Documents/Codex/2026-11-06/https-chatgpt-com-share-6aedf171-aae8-2/outputs/Imported References/steak-and-bone-meeting.png"
+      ],
+      "prompt": "Use case: stylized-concept. Asset type: professional film production ARCHITECTURE / LOCATION REFERENCE SHEET, one location only, nine separate architecture views arranged in a very clean 3x3 grid. Create a high-resolution landscape 16:9 image, request 3840x2160 if supported. Crisp fine detail and legible short uppercase labels in the thin neutral dark gutters, not across the image panels. Cinematic gritty realistic neon world of CyberKitty 2077, rich physically plausible materials, believable film sets, restrained pink/cyan accent lighting, no painterly blur. All nine panels must depict ONE spatially coherent empty environment with exactly the same doors, walls, lighting, floor, props and architectural landmarks in their correct corresponding positions; use a common north orientation. Panel arrangement: top row HERO WIDE, NORTH, EAST; middle row SOUTH, WEST, PLAN; bottom row CEILING / SKY, FLOOR / MATERIALS, REVERSE WIDE. Hero and reverse are useful empty stage camera plates. Plan is a crisp overhead architectural floor/site plan with N arrow and camera marks A and B at the hero/reverse positions, matching the renders. In the ceiling panel show ceiling features and hanging lights, or for exterior show upper facades and skyline. In floor/materials show floor detail AND a few isolated fixed prop material details. Do NOT depict any people, animals, characters, silhouettes, audience, security officers or portraits. No scenes, action, comic panels, movie frames or character sheets. No CRT television shell around the design. Empty filming stages. Avoid arbitrary decorative clutter and repeated random signs. Do not show conflicting geometry or mirrored landmarks. Readable title at top exactly as specified; all other labels short and clear. Title: \"LOC10 / STEAK & BONE EXTERIOR\". Reference 1 is the approved private-room architecture sheet; reference 2 is the original restaurant look. Create the OUTSIDE of the same luxury Steak & Bone building, empty and ready for filming. Rich black stone, gold brass trim, burgundy awning, steak-and-bone illuminated emblem, warm chandelier light visible behind right-side tall windows, wet neon city reflections. Proposed coherent rectangular site: SOUTH facade main entrance and sheltered limousine drop-off, EAST side alley runs beside the private dining room's tall windows, NORTH rear service exit with loading nook, WEST solid service wall and an external metal maintenance stair leading to a flat surveillance rooftop. Security entrance beside SOUTH main door consists of two waist-high black/gold scanner posts, a small unoccupied guard kiosk, CCTV on corners. No guards, diners, cats, dogs or cars. Empty street and accessible walking routes important. Hero from southeast across street sees main entrance and EAST windowed side. NORTH panel rear service/loading door, EAST panel side alley/windows, SOUTH panel main facade and security entrance, WEST panel stair and solid service wall, PLAN with those same connections and A southeast hero camera / B rooftop surveillance camera. CEILING/SKY shows roof edge, rooftop surveillance viewpoint and lighting; FLOOR/MATERIALS details black stone, brass, wet paving, scanner post and one discreet security camera; REVERSE WIDE looks from rooftop across the empty front arrival lane. Single consistent building and doors. Do not depict the private table on the street, do not add dining crowds or reuse the original scene as a collage. Show useful empty hiding pockets and an unblocked service escape route.",
+      "generated_path": "C:\\Users\\DELL\\.codex\\generated_images\\01a1b1a4-2f3a-7490-b2d3-87bcc5158a62\\exec-19d4a4c2-4698-4c0b-85b6-c01ae0460d8b.png",
+      "saved_path": "E:/MovedFromC/Documents/Codex/2026-11-06/https-chatgpt-com-share-6aedf171-aae8-2/outputs/Location Sheets v01/LOC10-steak-bone-exterior-security.png",
+      "status": "saved_and_visually_inspected_reference_draft",
+      "method": "builtin image_gen",
+      "requested_size": "3840x2160 in prompt only",
+      "actual_size": [
+        1672,
+        941
+      ],
+      "qa": {
+        "visual_inspection": "view_image inspected saved file",
+        "empty_stage": true,
+        "readable_title": true,
+        "nine_panel_sheet": true,
+        "notes": [
+          "Empty luxury restaurant facade, security kiosk/scanners, rear service loading exit, side windows, maintenance stair and rooftop included.",
+          "Exterior is a proposed expansion from the approved interior, not a recovered original location. Camera plan is conceptual rather than measured architectural geometry."
+        ],
+        "production_use": "Ready as location design reference; camera marks and exact cross-angle geometry need final blocking check. Actual resolution is 1672x941, not 4K."
+      }
+    },
+    {
+      "id": "LOC11",
+      "file": "LOC11-steak-bone-service-corridors.png",
+      "ref": [
+        "E:/MovedFromC/Documents/Codex/2026-11-06/https-chatgpt-com-share-6aedf171-aae8-2/outputs/Location Sheets v01/LOC12-steak-bone-private-dining.png",
+        "E:/MovedFromC/Documents/Codex/2026-11-06/https-chatgpt-com-share-6aedf171-aae8-2/outputs/Imported References/steak-and-bone-meeting.png"
+      ],
+      "prompt": "Use case: stylized-concept. Asset type: professional film production ARCHITECTURE / LOCATION REFERENCE SHEET, one location only, nine separate architecture views arranged in a very clean 3x3 grid. Create a high-resolution landscape 16:9 image, request 3840x2160 if supported. Crisp fine detail and legible short uppercase labels in the thin neutral dark gutters, not across the image panels. Cinematic gritty realistic neon world of CyberKitty 2077, rich physically plausible materials, believable film sets, restrained pink/cyan accent lighting, no painterly blur. All nine panels must depict ONE spatially coherent empty environment with exactly the same doors, walls, lighting, floor, props and architectural landmarks in their correct corresponding positions; use a common north orientation. Panel arrangement: top row HERO WIDE, NORTH, EAST; middle row SOUTH, WEST, PLAN; bottom row CEILING / SKY, FLOOR / MATERIALS, REVERSE WIDE. Hero and reverse are useful empty stage camera plates. Plan is a crisp overhead architectural floor/site plan with N arrow and camera marks A and B at the hero/reverse positions, matching the renders. In the ceiling panel show ceiling features and hanging lights, or for exterior show upper facades and skyline. In floor/materials show floor detail AND a few isolated fixed prop material details. Do NOT depict any people, animals, characters, silhouettes, audience, security officers or portraits. No scenes, action, comic panels, movie frames or character sheets. No CRT television shell around the design. Empty filming stages. Avoid arbitrary decorative clutter and repeated random signs. Do not show conflicting geometry or mirrored landmarks. Readable title at top exactly as specified; all other labels short and clear. Title: \"LOC11 / STEAK & BONE SERVICE CORRIDOR\". Reference 1 is the private-room architecture anchor; reference 2 establishes restaurant luxury materials. Design the restaurant's EMPTY behind-the-scenes service corridor adjoining the private dining room. Cinematic gritty realism; slightly worn utility finish contrasting gold luxury seen through doorway. Single simple L-shaped corridor: east-west corridor starts WEST at exterior service exit, runs EAST to a corner, then turns NORTH toward the private dining room's SOUTH service door at its southwest corner. A rectangular housekeeping alcove is recessed in the SOUTH wall near the bend, useful as concealment. NORTH wall of first corridor segment has one stainless kitchen swing door and narrow service hatch. EAST wall at turn has a ceiling security camera and a red alarm lamp. Private-room service door is dark burgundy/gold matching LOC12, with a narrow frosted glass strip; no impossible direct windows to the dining room except this door. Place one parked empty food-service trolley in the SOUTH alcove, wall intercom, extinguisher cabinet, exposed service pipes and cable trays, scuffed dark tile floor with subtle gold directional trim. Main ceiling warm-white utility lights with a restrained red security practical; no excessive neon. Hero from west exit looking east to the L-turn; NORTH panel kitchen door/hatch, EAST panel turn and camera, SOUTH panel recessed trolley alcove, WEST panel exterior exit. PLAN shows L shape, all doors and camera A at west looking east, B at northern dining-room door looking south. REVERSE WIDE from the northern dining-room door sees the turn and hidden alcove approach. CEILING / FLOOR detail panels expose every lighting and material decision. No service robot yet, no characters, animals, guards, silhouettes or portraits. Do not put a dining table in the corridor. Preserve coherent realistic traversable connections for stealth and escape filming.",
+      "generated_path": "C:\\Users\\DELL\\.codex\\generated_images\\01a1b1a4-2f3a-7490-b2d3-87bcc5158a62\\exec-3c4ea461-665c-4a87-acc7-1649ee431e89.png",
+      "saved_path": "E:/MovedFromC/Documents/Codex/2026-11-06/https-chatgpt-com-share-6aedf171-aae8-2/outputs/Location Sheets v01/LOC11-steak-bone-service-corridors.png",
+      "status": "saved_and_visually_inspected_reference_draft",
+      "method": "builtin image_gen",
+      "requested_size": "3840x2160 in prompt only",
+      "actual_size": [
+        1672,
+        941
+      ],
+      "qa": {
+        "visual_inspection": "view_image inspected saved file",
+        "empty_stage": true,
+        "readable_title": true,
+        "nine_panel_sheet": true,
+        "notes": [
+          "Empty utility corridor, kitchen hatch, trolley alcove, rear exit, security camera/alarm and floor/ceiling details included.",
+          "L-shaped plan is explicit but hero/reverse visuals partly read as a straight corridor; use one approved camera path and reconcile the bend before action/escape clips. Private-room service-door frosted strip is a proposed detail and must match LOC12 in later renders."
+        ],
+        "production_use": "Ready as location design reference; camera marks and exact cross-angle geometry need final blocking check. Actual resolution is 1672x941, not 4K."
+      }
+    },
+    {
+      "id": "LOC12",
+      "file": "LOC12-steak-bone-private-dining.png",
+      "ref": [
+        "E:/MovedFromC/Documents/Codex/2026-11-06/https-chatgpt-com-share-6aedf171-aae8-2/outputs/Imported References/steak-and-bone-meeting.png"
+      ],
+      "prompt": "Use case: stylized-concept. Asset type: professional film production ARCHITECTURE / LOCATION REFERENCE SHEET, one location only, nine separate architecture views arranged in a very clean 3x3 grid. Create a high-resolution landscape 16:9 image, request 3840x2160 if supported. Crisp fine detail and legible short uppercase labels in the thin neutral dark gutters, not across the image panels. Cinematic gritty realistic neon world of CyberKitty 2077, rich physically plausible materials, believable film sets, restrained pink/cyan accent lighting, no painterly blur. All nine panels must depict ONE spatially coherent empty environment with exactly the same doors, walls, lighting, floor, props and architectural landmarks in their correct corresponding positions; use a common north orientation. Panel arrangement: top row HERO WIDE, NORTH, EAST; middle row SOUTH, WEST, PLAN; bottom row CEILING / SKY, FLOOR / MATERIALS, REVERSE WIDE. Hero and reverse are useful empty stage camera plates. Plan is a crisp overhead architectural floor/site plan with N arrow and camera marks A and B at the hero/reverse positions, matching the renders. In the ceiling panel show ceiling features and hanging lights, or for exterior show upper facades and skyline. In floor/materials show floor detail AND a few isolated fixed prop material details. Do NOT depict any people, animals, characters, silhouettes, audience, security officers or portraits. No scenes, action, comic panels, movie frames or character sheets. No CRT television shell around the design. Empty filming stages. Avoid arbitrary decorative clutter and repeated random signs. Do not show conflicting geometry or mirrored landmarks. Readable title at top exactly as specified; all other labels short and clear. Title: \"LOC12 / STEAK & BONE PRIVATE DINING\". Reference 1 is the strict style/material and dining-set anchor: ornate gold chandelier, black/dark brown marble with gold veining, burgundy tufted leather booth/chairs, gold trim, crystal tumblers, warm candlelight, enormous right-hand windows looking onto wet neon city, illuminated gold \"Steak & Bone\" sign with steak and crossed bone emblem behind the table. Remove every dog and person. Build a complete EMPTY private dining room consistent with that shot. Canonical proposed room: rectangular room, NORTH wall has the same illuminated Steak & Bone emblem/sign centered on dark marble; EAST wall has the tall black-framed windows; SOUTH wall has a discreet single service door near its west corner; WEST wall has burgundy paneling and a low dark-marble sideboard. Main polished dark marble table centered lengthwise east-west, two opposing burgundy tufted seats, exactly one overhead gold crystal chandelier above table. Hero camera at southwest looks northeast, therefore windows appear on hero screen-right and sign behind table. Reverse camera from northeast looks southwest toward the discreet service door. Table clean for filming: two crystal tumblers, two empty dark plates, low warm lamps, no money bag, no food, no name plaques, no characters, no animals reflected in windows. Preserve luxury cinematic golden palette with subtle blue/pink city reflections rather than changing the restaurant into a neon nightclub. The floorplan and all four walls must repeat the exact same table, chandelier, window and door placement.",
+      "generated_path": "C:\\Users\\DELL\\.codex\\generated_images\\01a1b1a4-2f3a-7490-b2d3-87bcc5158a62\\exec-3061c502-f613-4d13-a308-6909360527f2.png",
+      "saved_path": "E:/MovedFromC/Documents/Codex/2026-11-06/https-chatgpt-com-share-6aedf171-aae8-2/outputs/Location Sheets v01/LOC12-steak-bone-private-dining.png",
+      "status": "saved_and_visually_inspected_reference_draft",
+      "method": "builtin image_gen",
+      "requested_size": "3840x2160 in prompt only",
+      "actual_size": [
+        1672,
+        941
+      ],
+      "qa": {
+        "visual_inspection": "view_image inspected saved file",
+        "empty_stage": true,
+        "readable_title": true,
+        "nine_panel_sheet": true,
+        "notes": [
+          "Empty room closely matches source luxury: black/gold marble, crystal chandelier, burgundy seating, Steak & Bone sign, right-hand windows, service door and sideboard.",
+          "Room is a reference expansion with approximate plan; verify precise door projection against chosen master shot before reverse-angle scene rendering."
+        ],
+        "production_use": "Ready as location design reference; camera marks and exact cross-angle geometry need final blocking check. Actual resolution is 1672x941, not 4K."
+      }
+    },
+    {
+      "id": "LOC13",
+      "file": "LOC13-woof7-news-studio.png",
+      "ref": [
+        "E:/MovedFromC/Documents/Codex/2026-11-06/https-chatgpt-com-share-6aedf171-aae8-2/outputs/Imported References/interrupting-broadcast.png"
+      ],
+      "prompt": "Use case: stylized-concept. Asset type: professional film production ARCHITECTURE / LOCATION REFERENCE SHEET, one location only, nine separate architecture views arranged in a very clean 3x3 grid. Create a high-resolution landscape 16:9 image, request 3840x2160 if supported. Crisp fine detail and legible short uppercase labels in the thin neutral dark gutters, not across the image panels. Cinematic gritty realistic neon world of CyberKitty 2077, rich physically plausible materials, believable film sets, restrained pink/cyan accent lighting, no painterly blur. All nine panels must depict ONE spatially coherent empty environment with exactly the same doors, walls, lighting, floor, props and architectural landmarks in their correct corresponding positions; use a common north orientation. Panel arrangement: top row HERO WIDE, NORTH, EAST; middle row SOUTH, WEST, PLAN; bottom row CEILING / SKY, FLOOR / MATERIALS, REVERSE WIDE. Hero and reverse are useful empty stage camera plates. Plan is a crisp overhead architectural floor/site plan with N arrow and camera marks A and B at the hero/reverse positions, matching the renders. In the ceiling panel show ceiling features and hanging lights, or for exterior show upper facades and skyline. In floor/materials show floor detail AND a few isolated fixed prop material details. Do NOT depict any people, animals, characters, silhouettes, audience, security officers or portraits. No scenes, action, comic panels, movie frames or character sheets. No CRT television shell around the design. Empty filming stages. Avoid arbitrary decorative clutter and repeated random signs. Do not show conflicting geometry or mirrored landmarks. Readable title at top exactly as specified; all other labels short and clear. Title: \"LOC13 / WOOF7 NEWS STUDIO\". Reference 1 is a TV broadcast. Use ONLY the broadcast's deep blue world-map display, polished corporate news aesthetic, red alert accents and white/gold canine paw branding as style reference. Do NOT reproduce its TV cabinet, host, text banners, furniture from the lounge, golden retriever, or complete screenshot. Design the actual EMPTY full physical WOOF7 broadcast studio behind that broadcast. Rectangular professional studio: NORTH wall has a curved deep-blue LED world-map backdrop with small readable WOOF7 and a simple canine paw icon, gold framing, red horizontal trim; center is a polished navy curved anchor desk with pale desk top and restrained gold edges; SOUTH wall camera zone has two unmanned studio camera pedestals aimed north, dark acoustic treatment and single rear exit at southwest; EAST wall has glazed control booth window and equipment racks; WEST wall has a vertical display and a single door to newsroom. Ceiling lighting grid, softboxes, cable trays; charcoal floor with subtle circular desk inset and taped camera positions. Hero from south sees desk front and world map. Reverse from north shows rear of desk and the cameras/control-room glass at correct side. Include practical desk monitor, small microphone, earpiece tray and cables in fixed-props detail. Empty seat only. All on-set displays contain quiet blue abstract graphics and only WOOF7 branding, no story headlines, no news screenshots, no photos of any character. A well-funded corporate stage with cinematic realism and tidy subtle wear.",
+      "generated_path": "C:\\Users\\DELL\\.codex\\generated_images\\01a1b1a4-2f3a-7490-b2d3-87bcc5158a62\\exec-0cbb1400-5bcc-4c4e-ab92-71e6bafffa90.png",
+      "saved_path": "E:/MovedFromC/Documents/Codex/2026-11-06/https-chatgpt-com-share-6aedf171-aae8-2/outputs/Location Sheets v01/LOC13-woof7-news-studio.png",
+      "status": "saved_and_visually_inspected_reference_draft",
+      "method": "builtin image_gen",
+      "requested_size": "3840x2160 in prompt only",
+      "actual_size": [
+        1672,
+        941
+      ],
+      "qa": {
+        "visual_inspection": "view_image inspected saved file",
+        "empty_stage": true,
+        "readable_title": true,
+        "nine_panel_sheet": true,
+        "notes": [
+          "Full empty physical WOOF7 studio, blue world-map backdrop, red/gold trim, canine paw mark, desk, cameras, control booth and lighting grid. CRT and presenter removed.",
+          "Camera-letter marks duplicate B in generated plan. Correct A/B map before shot blocking; north panel is a backdrop elevation without foreground desk, not a desk continuity variant."
+        ],
+        "production_use": "Ready as location design reference; camera marks and exact cross-angle geometry need final blocking check. Actual resolution is 1672x941, not 4K."
+      }
+    },
+    {
+      "id": "LOC14",
+      "file": "LOC14-nip7-news-studio.png",
+      "ref": [
+        "E:/MovedFromC/Documents/Codex/2026-11-06/https-chatgpt-com-share-6aedf171-aae8-2/outputs/Imported References/nip7-investigation.png"
+      ],
+      "prompt": "Use case: stylized-concept. Asset type: professional film production ARCHITECTURE / LOCATION REFERENCE SHEET, one location only, nine separate architecture views arranged in a very clean 3x3 grid. Create a high-resolution landscape 16:9 image, request 3840x2160 if supported. Crisp fine detail and legible short uppercase labels in the thin neutral dark gutters, not across the image panels. Cinematic gritty realistic neon world of CyberKitty 2077, rich physically plausible materials, believable film sets, restrained pink/cyan accent lighting, no painterly blur. All nine panels must depict ONE spatially coherent empty environment with exactly the same doors, walls, lighting, floor, props and architectural landmarks in their correct corresponding positions; use a common north orientation. Panel arrangement: top row HERO WIDE, NORTH, EAST; middle row SOUTH, WEST, PLAN; bottom row CEILING / SKY, FLOOR / MATERIALS, REVERSE WIDE. Hero and reverse are useful empty stage camera plates. Plan is a crisp overhead architectural floor/site plan with N arrow and camera marks A and B at the hero/reverse positions, matching the renders. In the ceiling panel show ceiling features and hanging lights, or for exterior show upper facades and skyline. In floor/materials show floor detail AND a few isolated fixed prop material details. Do NOT depict any people, animals, characters, silhouettes, audience, security officers or portraits. No scenes, action, comic panels, movie frames or character sheets. No CRT television shell around the design. Empty filming stages. Avoid arbitrary decorative clutter and repeated random signs. Do not show conflicting geometry or mirrored landmarks. Readable title at top exactly as specified; all other labels short and clear. Title: \"LOC14 / NIP7 INDEPENDENT NEWSROOM\". Reference 1 is a news broadcast seen inside a rusty TV. Use ONLY its NIP7 investigative-news identity, navy/cyan background, red accents, independent cat face/paw icon motif. Do NOT reproduce the rusty CRT shell, lounge, Sphynx presenter, bribe photo or headlines. Design the actual EMPTY modest physical NIP7 newsroom/studio: smaller and resourceful compared with a lavish corporate network, reclaimed dark wood desk with matte black metal frame and discreet cyan LED edge, mismatched but carefully repaired monitors, black acoustic panels, exposed brick, overhead softboxes on simple rails, taped cable runs. Spatial lock: NORTH wall has medium blue world-map display and small readable NIP7 logo with cat icon; central two-seat anchor desk faces SOUTH; WEST wall has a workbench with two empty editing stations and shelves; EAST wall has an interior glass window into the small control room and a noticeboard with blank paper; SOUTH wall has one camera on tripod, low storage cases and a single exit at southwest. Hero from southwest looks northeast with control-room glass screen-right, reverse from northeast shows camera and exit. Ceiling panel shows lighting rails and floor panel shows scuffed concrete, cable protectors, desk microphone, cup and paper tray. No people, cats, dogs, presenters, photos, evidence images, text tickers, money or newspaper pages. Empty stage, realistic scale, blue/cyan practical lighting, restrained red trim and warm work-lamp accents. Maintain all room features consistently across nine panels.",
+      "generated_path": "C:\\Users\\DELL\\.codex\\generated_images\\01a1b1a4-2f3a-7490-b2d3-87bcc5158a62\\exec-b5634328-a647-4971-8bd1-f5ff1482f100.png",
+      "saved_path": "E:/MovedFromC/Documents/Codex/2026-11-06/https-chatgpt-com-share-6aedf171-aae8-2/outputs/Location Sheets v01/LOC14-nip7-news-studio.png",
+      "status": "saved_and_visually_inspected_reference_draft",
+      "method": "builtin image_gen",
+      "requested_size": "3840x2160 in prompt only",
+      "actual_size": [
+        1672,
+        941
+      ],
+      "qa": {
+        "visual_inspection": "view_image inspected saved file",
+        "empty_stage": true,
+        "readable_title": true,
+        "nine_panel_sheet": true,
+        "notes": [
+          "Full empty modest NIP7 studio, cat icon branding, repaired desk, two editing stations, control booth, paper board, tripod and ceiling/floor details. No CRT or host.",
+          "Generated A/B plan markers do not match requested hero/reverse definitions. Use rendered hero/reverse as references and replace marker positions in production plan."
+        ],
+        "production_use": "Ready as location design reference; camera marks and exact cross-angle geometry need final blocking check. Actual resolution is 1672x941, not 4K."
+      }
+    }
+  ]
+}

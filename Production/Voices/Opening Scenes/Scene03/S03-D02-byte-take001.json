@@ -1,0 +1,45 @@
+{
+  "line_id": "S03-D02",
+  "scene": 3,
+  "role_id": "byte",
+  "voice_id": "wo6udizrrtpIxWGp2qJk",
+  "voice_name": "Northern Terry",
+  "text": "Thirty days? I can't afford thirty minutes.",
+  "original_source_text_verbatim": "Thirty days? I can't afford thirty minutes.",
+  "source_text_policy": "Exact current working dialogue; Goodboy Global approved normalization. Original master retained.",
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.5,
+    "similarity_boost": 0.75,
+    "style": 0.15,
+    "use_speaker_boost": true
+  },
+  "output_format": "mp3_44100_128",
+  "duration_sec": 2.321995,
+  "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Voices\\Opening Scenes\\Scene03\\S03-D02-byte-take001.mp3",
+  "audio_relative_path": "Scene03/S03-D02-byte-take001.mp3",
+  "alignment_file": "S03-D02-byte-take001-alignment.json",
+  "headers": {
+    "request-id": "36yPCyqmWjesSYlwplqa",
+    "character-cost": "9"
+  },
+  "subscription_before": {
+    "character_count": 53352,
+    "character_limit": 83106,
+    "remaining_included_credits": 29754
+  },
+  "subscription_after": null,
+  "credits_observed_for_request": null,
+  "provider_reported_character_cost": 9,
+  "text_characters": 43,
+  "sha256": "2a856c2ddfb3552aa95fdfaa9c22794216a06fd2f4102255d3def7c6efd6de66",
+  "status": "generated_review_take_not_final_approved",
+  "performance_approval": "not_approved",
+  "technical_qa": {
+    "ffprobe_decodes": true,
+    "duration_positive": true,
+    "provider_alignment_present": true,
+    "alignment_reconstructs_input": true
+  },
+  "created_utc": "2026-11-06T19:09:19.857180+00:00"
+}

@@ -1,0 +1,21 @@
+{
+  "asset_id": "S02A",
+  "visual_reviewed": true,
+  "status": "previs_still_review_with_continuity_notes",
+  "expected_actor_count": 0,
+  "observed_actor_count": 0,
+  "hard_actor_count_pass": true,
+  "anatomy_check": "No actors or animal anatomy in the television insert.",
+  "passes": [
+    "Single CRT with two right knobs and one cyan interference band.",
+    "Rusted casing and console base maintain the intended screen insert."
+  ],
+  "issues": [
+    {
+      "severity": "minor",
+      "note": "Physical sticker continuity drifts: canonical NIP7 lower-right sticker becomes a cat graphic with red 7; paw grille sticker is absent."
+    }
+  ],
+  "production_approved": false,
+  "paid_retry_performed": false
+}

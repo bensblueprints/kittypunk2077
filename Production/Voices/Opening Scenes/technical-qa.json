@@ -1,0 +1,119 @@
+{
+  "checks": [
+    {
+      "line_id": "S02-D01",
+      "decode_ok": true,
+      "input_alignment_exact": true,
+      "alignment_lengths_equal": true,
+      "times_monotonic": true,
+      "last_timing_within_mp3": true,
+      "duration_sec": 1.950476
+    },
+    {
+      "line_id": "S02-D02",
+      "decode_ok": true,
+      "input_alignment_exact": true,
+      "alignment_lengths_equal": true,
+      "times_monotonic": true,
+      "last_timing_within_mp3": true,
+      "duration_sec": 2.368435
+    },
+    {
+      "line_id": "S02-D03",
+      "decode_ok": true,
+      "input_alignment_exact": true,
+      "alignment_lengths_equal": true,
+      "times_monotonic": true,
+      "last_timing_within_mp3": true,
+      "duration_sec": 2.229116
+    },
+    {
+      "line_id": "S02-D04",
+      "decode_ok": true,
+      "input_alignment_exact": true,
+      "alignment_lengths_equal": true,
+      "times_monotonic": true,
+      "last_timing_within_mp3": true,
+      "duration_sec": 4.179592
+    },
+    {
+      "line_id": "S02-D05",
+      "decode_ok": true,
+      "input_alignment_exact": true,
+      "alignment_lengths_equal": true,
+      "times_monotonic": true,
+      "last_timing_within_mp3": true,
+      "duration_sec": 1.671837
+    },
+    {
+      "line_id": "S03-D01",
+      "decode_ok": true,
+      "input_alignment_exact": true,
+      "alignment_lengths_equal": true,
+      "times_monotonic": true,
+      "last_timing_within_mp3": true,
+      "duration_sec": 13.467574
+    },
+    {
+      "line_id": "S03-D02",
+      "decode_ok": true,
+      "input_alignment_exact": true,
+      "alignment_lengths_equal": true,
+      "times_monotonic": true,
+      "last_timing_within_mp3": true,
+      "duration_sec": 2.321995
+    },
+    {
+      "line_id": "S03-D03",
+      "decode_ok": true,
+      "input_alignment_exact": true,
+      "alignment_lengths_equal": true,
+      "times_monotonic": true,
+      "last_timing_within_mp3": true,
+      "duration_sec": 1.393197
+    },
+    {
+      "line_id": "S03-D04",
+      "decode_ok": true,
+      "input_alignment_exact": true,
+      "alignment_lengths_equal": true,
+      "times_monotonic": true,
+      "last_timing_within_mp3": true,
+      "duration_sec": 1.393197
+    },
+    {
+      "line_id": "S04-D01",
+      "decode_ok": true,
+      "input_alignment_exact": true,
+      "alignment_lengths_equal": true,
+      "times_monotonic": true,
+      "last_timing_within_mp3": true,
+      "duration_sec": 1.671837
+    },
+    {
+      "line_id": "S04-D02",
+      "decode_ok": true,
+      "input_alignment_exact": true,
+      "alignment_lengths_equal": true,
+      "times_monotonic": true,
+      "last_timing_within_mp3": true,
+      "duration_sec": 2.136236
+    },
+    {
+      "line_id": "S04-D03",
+      "decode_ok": true,
+      "input_alignment_exact": true,
+      "alignment_lengths_equal": true,
+      "times_monotonic": true,
+      "last_timing_within_mp3": true,
+      "duration_sec": 1.718277
+    }
+  ],
+  "all_pass": true,
+  "performance_review": "User listening/approval pending; provider timing reconstruction is not independent speech recognition.",
+  "scene_durations": {
+    "2": 12.399456,
+    "3": 18.575963,
+    "4": 5.52635
+  }
+}

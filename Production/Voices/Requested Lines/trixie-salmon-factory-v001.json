@@ -1,0 +1,22 @@
+{
+  "role_id": "trixie",
+  "option": "salmon-factory-v001",
+  "candidate_voice_id": "DODLEQrClDo8wCz460ld",
+  "text": "The dogs must be stopped! Tripling the price of our salmon while hard working factory workers starve at the very factory it's made.",
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.35,
+    "similarity_boost": 0.8,
+    "style": 0.55,
+    "use_speaker_boost": true
+  },
+  "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Voices\\Requested Lines\\trixie-salmon-factory-v001.mp3",
+  "request_id": "xoZCxILS0Wsh3iuri70l",
+  "credits_before": 53086,
+  "credits_after": 53086,
+  "status": "user_requested_line_rendered_for_review",
+  "delivery_direction": "firm, angry; punctuation and increased style expression",
+  "text_edit": "Corrected tripliing to Tripling; wording otherwise retained.",
+  "voice_selected_by_user": true,
+  "incorporated_into_pilot_master": false
+}

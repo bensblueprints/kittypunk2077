@@ -1,0 +1,143 @@
+{
+  "status": "Six generated drafts saved; further built-in revisions stopped on user instruction to use Orbis.",
+  "all_files_exist": true,
+  "prompt_log": "loc15-20-prompts.json",
+  "files": [
+    {
+      "id": "LOC15",
+      "file": "LOC15-salmon-facility-exterior-loading.png",
+      "path": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Location Sheets v01\\LOC15-salmon-facility-exterior-loading.png",
+      "status": "generated draft; not approved final architecture",
+      "provider": "built-in image_gen",
+      "width": 1672,
+      "height": 941,
+      "sha256": "75ed374c490e5c9936c20c0ee2b28981b1e295e3946f14555aee58ef1e524ee8",
+      "requested_size": "3840x2160 if available",
+      "actual_size_note": "Native delivered1672x941; not4K. No artificial upscaling performed.",
+      "qa_visual": {
+        "nine_panels": true,
+        "no_characters": true,
+        "reference_style_observed": true,
+        "qa_notes": [
+          "Architectural design draft; hero dock layout, utility area, gate/booth and floorplan broadly agree. Check all ground-lane arrows against camera-specific continuity before final shot plates."
+        ]
+      }
+    },
+    {
+      "id": "LOC16",
+      "file": "LOC16-salmon-cold-store-processing.png",
+      "path": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Location Sheets v01\\LOC16-salmon-cold-store-processing.png",
+      "status": "generated draft; not approved final architecture",
+      "provider": "built-in image_gen",
+      "width": 1672,
+      "height": 941,
+      "sha256": "bfd65bf0279f17b87d43045527544f500e8e0a5d2bfff5da2c85706bfdeaaaad",
+      "requested_size": "3840x2160 if available",
+      "actual_size_note": "Native delivered1672x941; not4K. No artificial upscaling performed.",
+      "qa_visual": {
+        "nine_panels": true,
+        "no_characters": true,
+        "reference_style_observed": true,
+        "qa_notes": [
+          "COLD A/B shutters rendered CLOSED instead of the requested open views into stocked refrigerated aisles. Needs targeted revision revealing the stockpile for scene21.",
+          "Top-right header accidentally contains part of prompt text; remove this in the next render.",
+          "Floorplan indicates southwest personnel door but south elevation puts it on the viewer-left (east) side of shutter; fix camera direction/door side against approved plan."
+        ]
+      }
+    },
+    {
+      "id": "LOC17",
+      "file": "LOC17-salmon-routing-control-room.png",
+      "path": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Location Sheets v01\\LOC17-salmon-routing-control-room.png",
+      "status": "generated draft; not approved final architecture",
+      "provider": "built-in image_gen",
+      "width": 1672,
+      "height": 941,
+      "sha256": "65385304e63106e89b182de3df27b73601855347cdaa96b14eadd9f5d426178c",
+      "requested_size": "3840x2160 if available",
+      "actual_size_note": "Native delivered1672x941; not4K. No artificial upscaling performed.",
+      "qa_visual": {
+        "nine_panels": true,
+        "no_characters": true,
+        "reference_style_observed": true,
+        "qa_notes": [
+          "West glass looks into processing hall; cold status is separate from dispatch as required.",
+          "Check southwest entry orientation: floorplan door swing and south elevation glazing need architectural reconciliation before final plates.",
+          "Small DISPATCH wall label is imperfect; use planned text overlay for final inserts."
+        ]
+      }
+    },
+    {
+      "id": "LOC18",
+      "file": "LOC18-catnip-times-pressroom.png",
+      "path": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Location Sheets v01\\LOC18-catnip-times-pressroom.png",
+      "status": "generated draft; not approved final architecture",
+      "provider": "built-in image_gen",
+      "width": 1672,
+      "height": 941,
+      "sha256": "e57f562b9cd36a9793a664f045303173215433c040d356cb32410bd29b3b888e",
+      "requested_size": "3840x2160 if available",
+      "actual_size_note": "Native delivered1672x941; not4K. No artificial upscaling performed.",
+      "qa_visual": {
+        "nine_panels": true,
+        "no_characters": true,
+        "reference_style_observed": true,
+        "qa_notes": [
+          "Pressroom is a proposed new set. Central press, north windows and masthead, south freight door and west pinboards recur consistently.",
+          "East storage-cupboard opening is not in exactly the same corner across panel/plan; choose northeast position and correct next render.",
+          "Newspaper prop includes tiny line-like body copy; treat it as texture only and composite actual headline/article when required."
+        ]
+      }
+    },
+    {
+      "id": "LOC19",
+      "file": "LOC19-game-great-dog-national-bank.png",
+      "path": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Location Sheets v01\\LOC19-game-great-dog-national-bank.png",
+      "status": "generated draft; not approved final architecture",
+      "provider": "built-in image_gen",
+      "width": 1672,
+      "height": 941,
+      "sha256": "191fa2121d0e740f44c40c4ca3deb0410940c8260a9355a67431d87cdaa0c267",
+      "requested_size": "3840x2160 if available",
+      "actual_size_note": "Native delivered1672x941; not4K. No artificial upscaling performed.",
+      "qa_visual": {
+        "nine_panels": true,
+        "no_characters": true,
+        "reference_style_observed": true,
+        "qa_notes": [
+          "Correct GAME WORLD separation and Great Dog National Bank identity; no CRT shell, HUD or cast.",
+          "Reverse camera marker B in plan is near east side instead of stated bank steps; reconcile camera marks to approved shoot plan."
+        ]
+      }
+    },
+    {
+      "id": "LOC20",
+      "file": "LOC20-district7-rooftop-overlook.png",
+      "path": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Location Sheets v01\\LOC20-district7-rooftop-overlook.png",
+      "status": "generated draft; not approved final architecture",
+      "provider": "built-in image_gen",
+      "width": 1672,
+      "height": 941,
+      "sha256": "57ffb3455844a5c7f3ab595519ebd1e06ce84151fc63b43629d4ae5a599c6b9f",
+      "requested_size": "3840x2160 if available",
+      "actual_size_note": "Native delivered1672x941; not4K. No artificial upscaling performed.",
+      "qa_visual": {
+        "nine_panels": true,
+        "no_characters": true,
+        "reference_style_observed": true,
+        "qa_notes": [
+          "No characters. Low neighborhood rooftop, market view, access hut, HVAC and neon palette match intended staging.",
+          "Confirm market square below against other LOC market sheet before shot production; this generation was based on supplied city references, not another generated location master."
+        ]
+      }
+    }
+  ],
+  "revision_priority": [
+    "LOC16 stockpile doors + erroneous header + south door alignment",
+    "LOC18 cupboard location",
+    "LOC17 south/west entry geometry",
+    "LOC19 camera markB",
+    "Cross-location factory/market continuity"
+  ],
+  "scope": "Location sheets only. No crew scenes, voice work or video generation."
+}

@@ -1,0 +1,22 @@
+{
+  "attempted_at": "2026-11-07T00:37:06.2906455+07:00",
+  "channel": "https://discordapp.com/channels/1505108213492875395/1528291443821641839",
+  "scope": "Recent freezer and payoff references only",
+  "downloaded": [],
+  "freezer": {
+    "status": "not_recovered",
+    "known_attachment_id": "1568298484707229706",
+    "message_id": "1568298485072265319",
+    "visible_time": "November 6, 2026 11:18 PM",
+    "direct_retry": "HTTP 403 Forbidden",
+    "ui_result": "Image button located in authorized #notes; opening was blocked by user input detected in this window"
+  },
+  "payoff": {
+    "status": "not_recovered",
+    "expected": "23:15 collage includes payoff, according to prior task context",
+    "ui_result": "Not opened because concurrent user interaction repeatedly blocked UI actions"
+  },
+  "originals_modified": false,
+  "messages_sent": false,
+  "next_step": "Recover fresh attachments when Discord is available for uninterrupted interaction, or use user-provided originals"
+}

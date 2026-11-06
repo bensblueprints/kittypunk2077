@@ -1,0 +1,35 @@
+TRIXIE / CATGIRL - FULL CHARACTER SHEET REVISION
+Status: editing prompt prepared; image not generated.
+
+PRIMARY EDIT TARGET (existing file; visually inspected):
+C:\Users\DELL\Desktop\CyberKitty 2077\Assets\Character Sheets\kitty-punk-2077-character-sheets.png
+This1536x1024 full sheet is the best primary target: the large left portrait clearly establishes white long fur, blue eyes and the asymmetric cheek circuit/scar marking; four right-side panels establish Byte, Ghost, Onyx and Neon.
+
+SECONDARY CONTINUITY REFERENCE (visually inspected):
+C:\Users\DELL\Desktop\CyberKitty 2077\Assets\Character Sheets\kitty-punk-2077-character-dossiers.png
+Use only to verify existing crew/outfits. Do not replace the main-sheet unhooded face with the dossier hooded variant or accidentally redesign the other four cats.
+
+OPTIONAL EXISTING FACE CROP:
+C:\Users\DELL\Desktop\CyberKitty 2077\Assets\Characters\Catman\Reference Images\ref-headshot.png
+This legacy path remains valid for Trixie. It is a low-resolution derivative, not new identity evidence.
+
+COPY-PASTE EDIT PROMPT
+Use case: identity-preserve and precise text correction.
+Image1 is the edit target: the existing full five-cat character sheet. Image2 is secondary continuity reference only. Preserve the target's composition, dimensions, layout, framing, neon palette, all portraits, turnaround poses, anatomy, lighting, costume details, gear and all four right-side character panels. Make a precise label/canon revision to the existing white-cat leader.
+
+The leader is now TRIXIE, also known as CATGIRL. She is female, age19, the same established white long-haired cat with blue eyes, pink nose, original asymmetric cheek circuit/scar marking, black jacket and magenta neon cat patch. Keep her face and physical design unchanged. Preserve the exact side, shape, branches and pink points of the cheek marking. Do not mirror it. Keep ears, muzzle length, fur, tail, body silhouette, outfit, boots, gear and all existing full-body views unchanged. Female identity does not require a new hairstyle, makeup, eyelashes, body shape or revealing costume.
+
+TEXT EDITS ONLY:
+1. Replace the large left-panel yellow heading CATMAN with TRIXIE using the same bold italic display style and visual weight.
+2. Directly beneath TRIXIE, add the small readable alias line AKA CATGIRL. Retain THE LEAD HACKER as the role; carefully fit the alias in the existing left heading area without covering the portrait or moving the crew panels.
+3. In the left CODENAME field, replace Catman with CatGirl. Keep CODENAME and all surrounding role/personality/skills text intact.
+4. If any other visible CATMAN or Catman name remains in this SAME sheet, replace that leader label with Trixie. Do not alter branding KITTY PUNK2077 or MEOWTECH.
+5. Keep BYTE, GHOST, ONYX and NEON exactly as they already appear: four male crew members, same faces, fur, clothing, headphones/visors, gear, poses, text and panel boundaries. No extra or missing cats.
+
+Voice metadata for continuity only: Trixie uses selected ElevenLabs Lauren, voice ID DODLEQrClDo8wCz460ld, youthful female19-year-old performance. Do not print the voice ID on the sheet. Byte18, Ghost17, Onyx19 and Neon16 are boys; preserve their existing visuals. No audio generation is requested by this image-edit prompt.
+
+OUTPUT
+Save a new sibling/deliverable named trixie-catgirl-crew-character-sheet-v001.png. Never overwrite the original. Preserve source aspect ratio and native detail; no fabricated claims of4K or upscaling. Do not redraw the entire crew when a label edit suffices.
+
+QUALITY CHECK
+Exactly five original cats. TRIXIE and AKA CATGIRL legible. Codename CatGirl. No active Catman name on the edited sheet. White fur, blue eyes and cheek marking unchanged. Other four cats and their labels unchanged. Compare all unaffected areas against Image1; reject identity drift, shifted visor/headphone colours, human hands, duplicate cats or altered geometry.

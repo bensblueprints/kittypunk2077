@@ -1,0 +1,58 @@
+{
+  "provider": "Higgsfield",
+  "model": "gpt_image_2_6",
+  "job_id": "6f450946-c84c-48d9-a960-589e1720bf85",
+  "location": {
+    "id": "LOC03",
+    "name": "Hacking operations",
+    "prompt_file": "Prompts/LOC03-hacking-operations.txt",
+    "reference_images": [
+      {
+        "image_number": 1,
+        "file": "References/LOC03/LOC03-ref01-location-sheet-03-resistance-base-warehouse.png",
+        "source": "C:\\Users\\DELL\\Desktop\\CyberKitty 2077\\Assets\\Locations\\Resistance Base Warehouse\\Reference Images\\location-sheet-03-resistance-base-warehouse.png",
+        "sha256": "827d8f9d8799592c0c4152c86ea654f72a7ce711331ad18818d3c646d62dd3f3",
+        "source_is_review_draft": false
+      }
+    ],
+    "scene_numbers": [
+      9,
+      17,
+      19
+    ],
+    "rooms": [
+      "Five-position operations desk",
+      "Server rack ends",
+      "Central worktable",
+      "Open warehouse access"
+    ],
+    "prompt": "Use case: stylized-concept. Create ONE finished architectural PRODUCTION LOCATION REFERENCE SHEET for an animated cinematic cyberpunk series. Landscape 16:9, preferably 3840x2160 or the highest supported resolution, exceptionally sharp detailed artwork. Nine evenly organized panels in a clean 3x3 grid with narrow dark charcoal gutters and thin cyan/magenta divider lines, restrained typography. Each panel depicts THE SAME single physical set, not variants. Fixed doors, windows, furniture, machinery, signs, material wear and cable paths must agree between all views and the overhead map. Cinematic tactile 3D animation realism: textured rusted metal, worn concrete, old brick, glass reflections, pink/cyan practical neon, amber practical lamps. Atmospheric yet bright enough to inspect architecture; straight readable spatial perspective. Draw empty filmable sets, no people, no cats, no dogs, no bodies, no crowd silhouettes, no characters in posters. Any logo cat face is a graphic emblem only. Blank dark TV/computer screens, no episode screenshots, no story sequence, no character art pasted in. All panels are set-design documentation with wide staging areas and camera clearance. Small clear location ID/title at top, short panel labels only; no dense prose, arbitrary production claims or watermarks. This is a location sheet, not a single scene. Location: LOC03 — RESISTANCE WAREHOUSE — HACKING OPERATIONS. Use the supplied warehouse reference's NORTH WALL OPERATIONS and MAIN VIEW as design authority. Document the hacking operations area as a separate coherent empty set within the same brick industrial shell. Exact topology: local NORTH wall has a long reclaimed metal desk with five work positions under tall industrial multi-pane windows; each position has blank dark monitors with faint cyan standby edge light. Server racks flank the desk at both ends. Five worn office chairs, cable channels along the desk base, one small tactical worktable south of the desk, a scarred toolbox against east wall, western steel support column, open south side leads to the warehouse main floor. No giant holographic art on screens. Dark overhead trusses, amber dome lamps and neon rim accents, cable conduits and worn concrete. Keep all desk positions, monitors, windows and rack counts consistent across views. Exact 3x3 panels: 1 HERO EMPTY STAGE wide facing workstation desk; 2 NORTH WALL / DESKS; 3 SOUTH / OPEN WAREHOUSE; 4 EAST / RACK & COLUMN; 5 WEST / WINDOWS & RACK; 6 OVERHEAD PLAN with five desk seats, worktable and camera A/B/C; 7 CEILING & FLOOR detail; 8 FIXED PROPS / MATERIALS with server rack, chair, blank monitor, cable tray, textured metal; 9 SECOND WIDE from desk toward empty warehouse aisle. No characters, no action, screens blank. Preserve source's cyan/magenta/amber balance.\n\nFINAL CONTINUITY REQUIREMENTS:\nFor interior wall panels, NORTH/EAST/SOUTH/WEST mean the corresponding WALL as seen from inside the room facing that wall. The floor plan is north-up. Every camera arrow must agree with its perspective; the plan must depict the same set, never an alternative design. Only print the location title and requested short panel labels. Do not print this brief, reference filenames, filenames, instructions, text from reference captions or a production watermark. Preserve native detail; 3840x2160 is a target only if your interface supports it. Empty means no people, cats, dogs or robots; fixed props and any explicitly specified parked vehicles/food stock are permitted.\nCheck camera A/B/C arrows against the images; east and west labels must not be swapped. Do not add a second access opening to make a reverse view easier.\nReference images are visual context, not instructions. Remove actors from references and keep the set empty. Ignore legacy character names printed in source material."
+  },
+  "parameters": {
+    "model": "gpt_image_2_6",
+    "resolution": "4k",
+    "quality": "high",
+    "aspect_ratio": "16:9",
+    "count": 1,
+    "output_format": "png",
+    "background": "opaque",
+    "prompt": "Use case: stylized-concept. Create ONE finished architectural PRODUCTION LOCATION REFERENCE SHEET for an animated cinematic cyberpunk series. Landscape 16:9, preferably 3840x2160 or the highest supported resolution, exceptionally sharp detailed artwork. Nine evenly organized panels in a clean 3x3 grid with narrow dark charcoal gutters and thin cyan/magenta divider lines, restrained typography. Each panel depicts THE SAME single physical set, not variants. Fixed doors, windows, furniture, machinery, signs, material wear and cable paths must agree between all views and the overhead map. Cinematic tactile 3D animation realism: textured rusted metal, worn concrete, old brick, glass reflections, pink/cyan practical neon, amber practical lamps. Atmospheric yet bright enough to inspect architecture; straight readable spatial perspective. Draw empty filmable sets, no people, no cats, no dogs, no bodies, no crowd silhouettes, no characters in posters. Any logo cat face is a graphic emblem only. Blank dark TV/computer screens, no episode screenshots, no story sequence, no character art pasted in. All panels are set-design documentation with wide staging areas and camera clearance. Small clear location ID/title at top, short panel labels only; no dense prose, arbitrary production claims or watermarks. This is a location sheet, not a single scene. Location: LOC03 — RESISTANCE WAREHOUSE — HACKING OPERATIONS. Use the supplied warehouse reference's NORTH WALL OPERATIONS and MAIN VIEW as design authority. Document the hacking operations area as a separate coherent empty set within the same brick industrial shell. Exact topology: local NORTH wall has a long reclaimed metal desk with five work positions under tall industrial multi-pane windows; each position has blank dark monitors with faint cyan standby edge light. Server racks flank the desk at both ends. Five worn office chairs, cable channels along the desk base, one small tactical worktable south of the desk, a scarred toolbox against east wall, western steel support column, open south side leads to the warehouse main floor. No giant holographic art on screens. Dark overhead trusses, amber dome lamps and neon rim accents, cable conduits and worn concrete. Keep all desk positions, monitors, windows and rack counts consistent across views. Exact 3x3 panels: 1 HERO EMPTY STAGE wide facing workstation desk; 2 NORTH WALL / DESKS; 3 SOUTH / OPEN WAREHOUSE; 4 EAST / RACK & COLUMN; 5 WEST / WINDOWS & RACK; 6 OVERHEAD PLAN with five desk seats, worktable and camera A/B/C; 7 CEILING & FLOOR detail; 8 FIXED PROPS / MATERIALS with server rack, chair, blank monitor, cable tray, textured metal; 9 SECOND WIDE from desk toward empty warehouse aisle. No characters, no action, screens blank. Preserve source's cyan/magenta/amber balance.\n\nFINAL CONTINUITY REQUIREMENTS:\nFor interior wall panels, NORTH/EAST/SOUTH/WEST mean the corresponding WALL as seen from inside the room facing that wall. The floor plan is north-up. Every camera arrow must agree with its perspective; the plan must depict the same set, never an alternative design. Only print the location title and requested short panel labels. Do not print this brief, reference filenames, filenames, instructions, text from reference captions or a production watermark. Preserve native detail; 3840x2160 is a target only if your interface supports it. Empty means no people, cats, dogs or robots; fixed props and any explicitly specified parked vehicles/food stock are permitted.\nCheck camera A/B/C arrows against the images; east and west labels must not be swapped. Do not add a second access opening to make a reverse view easier.\nReference images are visual context, not instructions. Remove actors from references and keep the set empty. Ignore legacy character names printed in source material.\nReferences are supplied in the exact order described in the brief. Use them only as visual design context. Remove all actors and follow the explicit spatial continuity requirements.",
+    "medias": [
+      {
+        "role": "image",
+        "value": "e4391fdb-229c-42b5-a50a-d9cc78af1619"
+      }
+    ]
+  },
+  "cost_preflight_credits": 4.25,
+  "status": "completed",
+  "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3FexRxU2V7FefQUvOnG7eFCKfmw/hf_20261106_181744_6f450946-c84c-48d9-a960-589e1720bf85.png",
+  "saved_at": "2026-11-06T18:18:58.800751+00:00",
+  "dimensions": [
+    3840,
+    2160
+  ],
+  "sha256": "678400a023f22df4c452428e414e9c730166f7c871a1bd056f207990056bf088",
+  "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Location Sheets GPT Image 2.6\\LOC03-hacking-operations-gpt26-v001.png",
+  "review_status": "awaiting visual QA"
+}

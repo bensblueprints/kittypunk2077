@@ -1,0 +1,33 @@
+{
+  "asset_id": "DOG04",
+  "name": "Velvet",
+  "status": "review_draft_with_notes",
+  "checked_at_utc": "2026-11-06T19:43:02.727533+00:00",
+  "reviewed": true,
+  "production_approved": false,
+  "review_method": "Visual inspection of each saved full sheet, plus pixel/dimension verification and source comparison.",
+  "nine_main_panels": true,
+  "all_four_full_body_directions_present": true,
+  "no_bare_human_hands_observed": true,
+  "only_target_character_identity": true,
+  "reference_confidence": "Breed, colors and broad costume supported by original council overview; fine hidden details proposed.",
+  "rerun_authorized": false,
+  "paid_retry_performed": false,
+  "passes": [
+    "Long silky golden Afghan Hound styling, narrow canine muzzle and dark sunglasses retained.",
+    "Black/gold corporate suit with red tie/accent retained; adult fully clothed design.",
+    "Nine panels with full bodies, eyewear kept on in face/expressions, paw studies and detached wardrobe items."
+  ],
+  "issues": [
+    {
+      "severity": "minor",
+      "category": "view_coverage",
+      "note": "FRONT panel body faces forward but head turns to three-quarter. Use it for body/outfit reference; it is not a strict front facial model view."
+    },
+    {
+      "severity": "review_note",
+      "category": "inferred_design",
+      "note": "Body silhouette, exact muzzle proportions, long-hair fall, heels and rear tailoring are newly resolved details to review against the small source, not previously approved additions."
+    }
+  ]
+}
