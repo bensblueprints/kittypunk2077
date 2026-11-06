@@ -1,0 +1,23 @@
+{
+  "line_id": "S01-D08",
+  "scene": 1,
+  "role_id": "byte",
+  "text": "The police appreciate it. All six helicopters.",
+  "variant": "take001",
+  "model": "eleven_multilingual_v2",
+  "voice_id": "wo6udizrrtpIxWGp2qJk",
+  "voice_name": "Northern Terry",
+  "settings": {
+    "stability": 0.5,
+    "similarity_boost": 0.75,
+    "style": 0.15,
+    "use_speaker_boost": true
+  },
+  "duration_sec": 2.925714,
+  "sha256": "8e65abf7581728673ac0dd4d358338286a862499e329b40485b341332564c9ef",
+  "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Voices\\Pilot Round 2\\Scene01\\S01-D08-byte-take001.mp3",
+  "provider_character_cost": "10",
+  "request_id": "yh33c8NJvr9VlJLeYkgl",
+  "status": "review_take",
+  "created_utc": "2026-11-06T22:42:37.622897+00:00"
+}

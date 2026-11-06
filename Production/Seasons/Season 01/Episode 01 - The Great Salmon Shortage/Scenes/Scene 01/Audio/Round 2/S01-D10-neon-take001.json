@@ -1,0 +1,23 @@
+{
+  "line_id": "S01-D10",
+  "scene": 1,
+  "role_id": "neon",
+  "text": "In the game?",
+  "variant": "take001",
+  "model": "eleven_multilingual_v2",
+  "voice_id": "4e32WqNVWRquDa1OcRYZ",
+  "voice_name": "Ryan — Product Reviewer",
+  "settings": {
+    "stability": 0.5,
+    "similarity_boost": 0.75,
+    "style": 0.15,
+    "use_speaker_boost": true
+  },
+  "duration_sec": 0.928798,
+  "sha256": "8882e5aa14734d9e4bfc457c9c1a9072467ae21e22e802d09cbbb6376d046cb4",
+  "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Voices\\Pilot Round 2\\Scene01\\S01-D10-neon-take001.mp3",
+  "provider_character_cost": "3",
+  "request_id": "WZq680rDmop5nACGW4ZK",
+  "status": "review_take",
+  "created_utc": "2026-11-06T22:42:38.864573+00:00"
+}

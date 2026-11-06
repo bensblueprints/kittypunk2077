@@ -1,0 +1,23 @@
+{
+  "line_id": "S05-D08",
+  "scene": 5,
+  "role_id": "trixie",
+  "text": "Save the timestamp. And the old price. We need something people can check.",
+  "variant": "take001",
+  "model": "eleven_multilingual_v2",
+  "voice_id": "dmWfLQZJq7wNPv9WmtiM",
+  "voice_name": "Emma — Wry, Gritty Hero",
+  "settings": {
+    "stability": 0.35,
+    "similarity_boost": 0.8,
+    "style": 0.55,
+    "use_speaker_boost": true
+  },
+  "duration_sec": 4.551111,
+  "sha256": "c4ac0341a87d779e74590b6917d333d8cad24a9a41a322100cfc0772f985fa90",
+  "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Voices\\Pilot Round 2\\Scene05\\S05-D08-trixie-take001.mp3",
+  "provider_character_cost": "16",
+  "request_id": "p3tbPSPGmXJ7q8HcM5rY",
+  "status": "review_take",
+  "created_utc": "2026-11-06T22:42:48.193213+00:00"
+}

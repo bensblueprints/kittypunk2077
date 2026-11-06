@@ -1,0 +1,23 @@
+{
+  "line_id": "S05-D02",
+  "scene": 5,
+  "role_id": "trixie",
+  "text": "Check the price history. When did it change?",
+  "variant": "take001",
+  "model": "eleven_multilingual_v2",
+  "voice_id": "dmWfLQZJq7wNPv9WmtiM",
+  "voice_name": "Emma — Wry, Gritty Hero",
+  "settings": {
+    "stability": 0.35,
+    "similarity_boost": 0.8,
+    "style": 0.55,
+    "use_speaker_boost": true
+  },
+  "duration_sec": 1.904036,
+  "sha256": "92199ee6b9c06e9e1c28645d14a852f09a9a6c4b525801db3aa3bcb8a3bb64d7",
+  "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Voices\\Pilot Round 2\\Scene05\\S05-D02-trixie-take001.mp3",
+  "provider_character_cost": "10",
+  "request_id": "wPaUcypMgeOTI22F4p9B",
+  "status": "review_take",
+  "created_utc": "2026-11-06T22:42:44.299606+00:00"
+}

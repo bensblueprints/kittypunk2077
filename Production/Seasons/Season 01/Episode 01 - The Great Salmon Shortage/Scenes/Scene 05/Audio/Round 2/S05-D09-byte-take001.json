@@ -1,0 +1,23 @@
+{
+  "line_id": "S05-D09",
+  "scene": 5,
+  "role_id": "byte",
+  "text": "Done. Apparently dinner now comes with an investigation.",
+  "variant": "take001",
+  "model": "eleven_multilingual_v2",
+  "voice_id": "wo6udizrrtpIxWGp2qJk",
+  "voice_name": "Northern Terry",
+  "settings": {
+    "stability": 0.5,
+    "similarity_boost": 0.75,
+    "style": 0.15,
+    "use_speaker_boost": true
+  },
+  "duration_sec": 3.157914,
+  "sha256": "ce7fbd909311958c17b5f282c69643c42c488135c37920ac1dd17548999880f5",
+  "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Voices\\Pilot Round 2\\Scene05\\S05-D09-byte-take001.mp3",
+  "provider_character_cost": "12",
+  "request_id": "8b89cPXvoae8WS8cTCXQ",
+  "status": "review_take",
+  "created_utc": "2026-11-06T22:42:48.834205+00:00"
+}

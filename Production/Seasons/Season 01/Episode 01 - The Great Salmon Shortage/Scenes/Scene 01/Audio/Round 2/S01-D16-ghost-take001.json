@@ -1,0 +1,23 @@
+{
+  "line_id": "S01-D16",
+  "scene": 1,
+  "role_id": "ghost",
+  "text": "You said cover the exit. I covered my exit.",
+  "variant": "take001",
+  "model": "eleven_multilingual_v2",
+  "voice_id": "7fBwqIVI6wI1B4MuKqQi",
+  "voice_name": "Austin — Upbeat",
+  "settings": {
+    "stability": 0.5,
+    "similarity_boost": 0.75,
+    "style": 0.15,
+    "use_speaker_boost": true
+  },
+  "duration_sec": 3.065034,
+  "sha256": "85b71d454c9aa9246ff30a2bd24dc434a48e25c84c01b4d86320bf2f22f093f0",
+  "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Voices\\Pilot Round 2\\Scene01\\S01-D16-ghost-take001.mp3",
+  "provider_character_cost": "9",
+  "request_id": "rsysYPnqItglB3FIP8n2",
+  "status": "review_take",
+  "created_utc": "2026-11-06T22:42:42.444652+00:00"
+}

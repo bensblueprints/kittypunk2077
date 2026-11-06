@@ -1,0 +1,23 @@
+{
+  "line_id": "S01-D14",
+  "scene": 1,
+  "role_id": "ghost",
+  "text": "I walked out the back. With the money.",
+  "variant": "take001",
+  "model": "eleven_multilingual_v2",
+  "voice_id": "7fBwqIVI6wI1B4MuKqQi",
+  "voice_name": "Austin — Upbeat",
+  "settings": {
+    "stability": 0.5,
+    "similarity_boost": 0.75,
+    "style": 0.15,
+    "use_speaker_boost": true
+  },
+  "duration_sec": 2.461315,
+  "sha256": "3bd795b77bfd145397126170b8d3ee8f698c34492943d84250a74559523d86a2",
+  "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Voices\\Pilot Round 2\\Scene01\\S01-D14-ghost-take001.mp3",
+  "provider_character_cost": "8",
+  "request_id": "TGNLTE9mNweYMd4ytUM5",
+  "status": "review_take",
+  "created_utc": "2026-11-06T22:42:41.203706+00:00"
+}

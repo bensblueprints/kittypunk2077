@@ -1,0 +1,111 @@
+{
+  "scene": 1,
+  "dialogue_assembly_seconds": 41.88040816326531,
+  "scene_target_seconds": 70,
+  "remaining_for_action_and_transitions_seconds": 28.119591836734692,
+  "note": "Dialogue-only review assembly. No score, effects, animation or final scene timing. Do not stretch this to fill the scene.",
+  "placements": [
+    {
+      "line_id": "S01-D01",
+      "start": 0.0,
+      "end": 2.461315192743764,
+      "text": "Left! LEFT! That is a wall, Trixie!"
+    },
+    {
+      "line_id": "S01-D02",
+      "start": 2.7613151927437642,
+      "end": 4.340272108843537,
+      "text": "Relax. I found a shortcut."
+    },
+    {
+      "line_id": "S01-D03",
+      "start": 4.640272108843537,
+      "end": 6.265668934240363,
+      "text": "Through the bank we just robbed?"
+    },
+    {
+      "line_id": "S01-D04",
+      "start": 6.565668934240363,
+      "end": 9.816462585034014,
+      "text": "My controller has input lag. I pressed jump yesterday."
+    },
+    {
+      "line_id": "S01-D05",
+      "start": 10.116462585034014,
+      "end": 12.809977324263038,
+      "text": "You are in a car. Why are you pressing jump?"
+    },
+    {
+      "line_id": "S01-D06",
+      "start": 13.109977324263038,
+      "end": 15.478412698412699,
+      "text": "Because she keeps driving into buildings!"
+    },
+    {
+      "line_id": "S01-D07",
+      "start": 15.778412698412698,
+      "end": 17.775328798185942,
+      "text": "Nobody appreciates experimental driving."
+    },
+    {
+      "line_id": "S01-D08",
+      "start": 18.07532879818594,
+      "end": 21.00104308390023,
+      "text": "The police appreciate it. All six helicopters."
+    },
+    {
+      "line_id": "S01-D09",
+      "start": 21.301043083900225,
+      "end": 24.319637188208617,
+      "text": "One more crash and somebody is going through that window."
+    },
+    {
+      "line_id": "S01-D10",
+      "start": 24.619637188208618,
+      "end": 25.54843537414966,
+      "text": "In the game?"
+    },
+    {
+      "line_id": "S01-D11",
+      "start": 25.84843537414966,
+      "end": 27.14875283446712,
+      "text": "Keep testing me."
+    },
+    {
+      "line_id": "S01-D12",
+      "start": 27.448752834467122,
+      "end": 28.795510204081634,
+      "text": "I finished the mission."
+    },
+    {
+      "line_id": "S01-D13",
+      "start": 29.095510204081634,
+      "end": 31.463945578231293,
+      "text": "How? We are still inside the bank."
+    },
+    {
+      "line_id": "S01-D14",
+      "start": 31.763945578231294,
+      "end": 34.225260770975055,
+      "text": "I walked out the back. With the money."
+    },
+    {
+      "line_id": "S01-D15",
+      "start": 34.52526077097506,
+      "end": 35.4540589569161,
+      "text": "You left us?"
+    },
+    {
+      "line_id": "S01-D16",
+      "start": 35.7540589569161,
+      "end": 38.819092970521545,
+      "text": "You said cover the exit. I covered my exit."
+    },
+    {
+      "line_id": "S01-D17",
+      "start": 39.11909297052154,
+      "end": 41.580408163265304,
+      "text": "Rematch. Nobody leaves the couch until we win."
+    }
+  ]
+}

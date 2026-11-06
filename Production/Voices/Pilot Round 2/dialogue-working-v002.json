@@ -1,0 +1,240 @@
+{
+  "status": "New user-requested gaming banter, Scene5 expansion and Barkington performance auditions; source master preserved.",
+  "scene1_target_seconds": 70,
+  "scene5_target_seconds": 60,
+  "lines": [
+    {
+      "line_id": "S01-D01",
+      "scene": 1,
+      "role_id": "byte",
+      "text": "Left! LEFT! That is a wall, Trixie!",
+      "variant": "take001",
+      "model": "eleven_multilingual_v2"
+    },
+    {
+      "line_id": "S01-D02",
+      "scene": 1,
+      "role_id": "trixie",
+      "text": "Relax. I found a shortcut.",
+      "variant": "take001",
+      "model": "eleven_multilingual_v2"
+    },
+    {
+      "line_id": "S01-D03",
+      "scene": 1,
+      "role_id": "byte",
+      "text": "Through the bank we just robbed?",
+      "variant": "take001",
+      "model": "eleven_multilingual_v2"
+    },
+    {
+      "line_id": "S01-D04",
+      "scene": 1,
+      "role_id": "neon",
+      "text": "My controller has input lag. I pressed jump yesterday.",
+      "variant": "take001",
+      "model": "eleven_multilingual_v2"
+    },
+    {
+      "line_id": "S01-D05",
+      "scene": 1,
+      "role_id": "onyx",
+      "text": "You are in a car. Why are you pressing jump?",
+      "variant": "take001",
+      "model": "eleven_multilingual_v2"
+    },
+    {
+      "line_id": "S01-D06",
+      "scene": 1,
+      "role_id": "neon",
+      "text": "Because she keeps driving into buildings!",
+      "variant": "take001",
+      "model": "eleven_multilingual_v2"
+    },
+    {
+      "line_id": "S01-D07",
+      "scene": 1,
+      "role_id": "trixie",
+      "text": "Nobody appreciates experimental driving.",
+      "variant": "take001",
+      "model": "eleven_multilingual_v2"
+    },
+    {
+      "line_id": "S01-D08",
+      "scene": 1,
+      "role_id": "byte",
+      "text": "The police appreciate it. All six helicopters.",
+      "variant": "take001",
+      "model": "eleven_multilingual_v2"
+    },
+    {
+      "line_id": "S01-D09",
+      "scene": 1,
+      "role_id": "onyx",
+      "text": "One more crash and somebody is going through that window.",
+      "variant": "take001",
+      "model": "eleven_multilingual_v2"
+    },
+    {
+      "line_id": "S01-D10",
+      "scene": 1,
+      "role_id": "neon",
+      "text": "In the game?",
+      "variant": "take001",
+      "model": "eleven_multilingual_v2"
+    },
+    {
+      "line_id": "S01-D11",
+      "scene": 1,
+      "role_id": "onyx",
+      "text": "Keep testing me.",
+      "variant": "take001",
+      "model": "eleven_multilingual_v2"
+    },
+    {
+      "line_id": "S01-D12",
+      "scene": 1,
+      "role_id": "ghost",
+      "text": "I finished the mission.",
+      "variant": "take001",
+      "model": "eleven_multilingual_v2"
+    },
+    {
+      "line_id": "S01-D13",
+      "scene": 1,
+      "role_id": "trixie",
+      "text": "How? We are still inside the bank.",
+      "variant": "take001",
+      "model": "eleven_multilingual_v2"
+    },
+    {
+      "line_id": "S01-D14",
+      "scene": 1,
+      "role_id": "ghost",
+      "text": "I walked out the back. With the money.",
+      "variant": "take001",
+      "model": "eleven_multilingual_v2"
+    },
+    {
+      "line_id": "S01-D15",
+      "scene": 1,
+      "role_id": "byte",
+      "text": "You left us?",
+      "variant": "take001",
+      "model": "eleven_multilingual_v2"
+    },
+    {
+      "line_id": "S01-D16",
+      "scene": 1,
+      "role_id": "ghost",
+      "text": "You said cover the exit. I covered my exit.",
+      "variant": "take001",
+      "model": "eleven_multilingual_v2"
+    },
+    {
+      "line_id": "S01-D17",
+      "scene": 1,
+      "role_id": "trixie",
+      "text": "Rematch. Nobody leaves the couch until we win.",
+      "variant": "take001",
+      "model": "eleven_multilingual_v2"
+    },
+    {
+      "line_id": "S05-D01",
+      "scene": 5,
+      "role_id": "byte",
+      "text": "Thirty bucks for a piece of fish? Last week it was ten!",
+      "variant": "take001",
+      "model": "eleven_multilingual_v2"
+    },
+    {
+      "line_id": "S05-D02",
+      "scene": 5,
+      "role_id": "trixie",
+      "text": "Check the price history. When did it change?",
+      "variant": "take001",
+      "model": "eleven_multilingual_v2"
+    },
+    {
+      "line_id": "S05-D03",
+      "scene": 5,
+      "role_id": "byte",
+      "text": "Before the broadcast. They raised it before anyone knew there was an emergency.",
+      "variant": "take001",
+      "model": "eleven_multilingual_v2"
+    },
+    {
+      "line_id": "S05-D04",
+      "scene": 5,
+      "role_id": "trixie",
+      "text": "They knew. We were the last ones told.",
+      "variant": "take001",
+      "model": "eleven_multilingual_v2"
+    },
+    {
+      "line_id": "S05-D05",
+      "scene": 5,
+      "role_id": "byte",
+      "text": "Two packs left. At this price, we can afford to look at one.",
+      "variant": "take001",
+      "model": "eleven_multilingual_v2"
+    },
+    {
+      "line_id": "S05-D06",
+      "scene": 5,
+      "role_id": "trixie",
+      "text": "They are manufacturing panic.",
+      "variant": "take001",
+      "model": "eleven_multilingual_v2"
+    },
+    {
+      "line_id": "S05-D07",
+      "scene": 5,
+      "role_id": "byte",
+      "text": "Well, it is working. I am panicking.",
+      "variant": "take001",
+      "model": "eleven_multilingual_v2"
+    },
+    {
+      "line_id": "S05-D08",
+      "scene": 5,
+      "role_id": "trixie",
+      "text": "Save the timestamp. And the old price. We need something people can check.",
+      "variant": "take001",
+      "model": "eleven_multilingual_v2"
+    },
+    {
+      "line_id": "S05-D09",
+      "scene": 5,
+      "role_id": "byte",
+      "text": "Done. Apparently dinner now comes with an investigation.",
+      "variant": "take001",
+      "model": "eleven_multilingual_v2"
+    },
+    {
+      "line_id": "S05-D10",
+      "scene": 5,
+      "role_id": "trixie",
+      "text": "We are going to tell the whole district.",
+      "variant": "take001",
+      "model": "eleven_multilingual_v2"
+    },
+    {
+      "line_id": "S03-D01",
+      "scene": 3,
+      "role_id": "chairman_barkington",
+      "text": "Citizens of Districts Seven through Twelve. Due to an unprecedented salmon supply emergency, you are advised to acquire no less than thirty days of fresh salmon immediately. Goodboy Global thanks you for your obedience.",
+      "variant": "villain-controlled-v2",
+      "model": "eleven_multilingual_v2"
+    },
+    {
+      "line_id": "S03-D01",
+      "scene": 3,
+      "role_id": "chairman_barkington",
+      "text": "[sternly] Citizens of Districts Seven through Twelve. Due to an unprecedented salmon supply emergency, you are advised to acquire no less than thirty days of fresh salmon immediately. [coldly] Goodboy Global thanks you for your obedience.",
+      "spoken_text": "Citizens of Districts Seven through Twelve. Due to an unprecedented salmon supply emergency, you are advised to acquire no less than thirty days of fresh salmon immediately. Goodboy Global thanks you for your obedience.",
+      "variant": "villain-directed-v3",
+      "model": "eleven_v3"
+    }
+  ]
+}

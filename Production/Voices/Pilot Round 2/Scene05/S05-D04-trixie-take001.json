@@ -1,0 +1,23 @@
+{
+  "line_id": "S05-D04",
+  "scene": 5,
+  "role_id": "trixie",
+  "text": "They knew. We were the last ones told.",
+  "variant": "take001",
+  "model": "eleven_multilingual_v2",
+  "voice_id": "dmWfLQZJq7wNPv9WmtiM",
+  "voice_name": "Emma — Wry, Gritty Hero",
+  "settings": {
+    "stability": 0.35,
+    "similarity_boost": 0.8,
+    "style": 0.55,
+    "use_speaker_boost": true
+  },
+  "duration_sec": 2.693515,
+  "sha256": "058a2dab04079c72c6f528328a6b9959a66084a9a4745d77b8bcc23f51b47a42",
+  "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Voices\\Pilot Round 2\\Scene05\\S05-D04-trixie-take001.mp3",
+  "provider_character_cost": "8",
+  "request_id": "EIze54Wrck0vH7xPJFNr",
+  "status": "review_take",
+  "created_utc": "2026-11-06T22:42:45.639383+00:00"
+}

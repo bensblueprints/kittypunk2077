@@ -3440,6 +3440,11 @@
     "sha256": "a10ab7d79fc99df505bd2bf3c2924a4d27f318f92895cd8933599443b8d49eb8"
   },
   {
+    "path": "Production/.gitignore",
+    "size": 59,
+    "sha256": "8cf96837bfd2eac07bb411ad1c02ebda67d7fe3169419d8147c1a781ec6bc149"
+  },
+  {
     "path": "Production/asset-index.json",
     "size": 171967,
     "sha256": "8f8767e979ce3671dfc6792bbc5efb0a9ac8ed20181c1aa43cd35866dd33ac9d"
@@ -9415,6 +9420,346 @@
     "sha256": "67e911869dba2814db7799c5a11f210b698a1968535095aa44b991eb08059ae3"
   },
   {
+    "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 01/Audio/Round 2/S01-D01-byte-take001-alignment.json",
+    "size": 3168,
+    "sha256": "fdfec6613f4a8e4b0e052c319c4a6ac41f5c8ae56cd7285c52ec41891ed411a6"
+  },
+  {
+    "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 01/Audio/Round 2/S01-D01-byte-take001.json",
+    "size": 817,
+    "sha256": "094f872c14b18473cbd82941929f82b28ee857398aac84c25857d94382496dba"
+  },
+  {
+    "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 01/Audio/Round 2/S01-D01-byte-take001.mp3",
+    "size": 40585,
+    "sha256": "7385c78a469a020befc74d29ba2a362069252976c2ccdeb6333e20f4a943c223"
+  },
+  {
+    "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 01/Audio/Round 2/S01-D01-byte-take001.txt",
+    "size": 35,
+    "sha256": "d81a6272bd40f18b2c39cac0f10dd30d18985091be53dc389f09d574d35273be"
+  },
+  {
+    "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 01/Audio/Round 2/S01-D02-trixie-take001-alignment.json",
+    "size": 2454,
+    "sha256": "615b9139623035c0dbba86ca0100c463a65ce92bd58d04a760ef4e9be2730a3a"
+  },
+  {
+    "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 01/Audio/Round 2/S01-D02-trixie-take001.json",
+    "size": 823,
+    "sha256": "302095d7454be56f54322b48b9bf4c8fc518ecca6ea60e5ba0248191cb38c701"
+  },
+  {
+    "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 01/Audio/Round 2/S01-D02-trixie-take001.mp3",
+    "size": 26374,
+    "sha256": "fd5f566859105b8b53dc79df6d6560e5297dfec5b4426d276142f9af867f00fd"
+  },
+  {
+    "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 01/Audio/Round 2/S01-D02-trixie-take001.txt",
+    "size": 26,
+    "sha256": "6550d84647e552f6907b34dde959d90002605157054bc2a2710a00e78f49ab31"
+  },
+  {
+    "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 01/Audio/Round 2/S01-D03-byte-take001-alignment.json",
+    "size": 2914,
+    "sha256": "9eba4046f942674e892a94f4ee1965f847c598e2b88aa59afd41525de038425a"
+  },
+  {
+    "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 01/Audio/Round 2/S01-D03-byte-take001.json",
+    "size": 814,
+    "sha256": "40edc588854a505e8ce3e864ecefdb94c9a9b5f143335ec732ebd83cbd9d329e"
+  },
+  {
+    "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 01/Audio/Round 2/S01-D03-byte-take001.mp3",
+    "size": 27210,
+    "sha256": "5c4a58b6f02aa3aa54907658d609a5f42d939b4d29589ae171b2cac58015391c"
+  },
+  {
+    "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 01/Audio/Round 2/S01-D03-byte-take001.txt",
+    "size": 32,
+    "sha256": "54abbd8b96c9bba31a395121c7bf15c1ccf1569a984a96a877f2a4138f2d01c7"
+  },
+  {
+    "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 01/Audio/Round 2/S01-D04-neon-take001-alignment.json",
+    "size": 4686,
+    "sha256": "c4d0dc950e7ede352a1a1f7eeedcb38cfbc191405cb570d84b7bd3c98bc4eb43"
+  },
+  {
+    "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 01/Audio/Round 2/S01-D04-neon-take001.json",
+    "size": 848,
+    "sha256": "9438401ab4e41853396e1504232e367d7faddda2962b7ef59c414b0edc899c29"
+  },
+  {
+    "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 01/Audio/Round 2/S01-D04-neon-take001.mp3",
+    "size": 53123,
+    "sha256": "818608a43905e9cf3c4de74bf44e89e9e3c0d6f8648c5410a97f25a6401d690c"
+  },
+  {
+    "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 01/Audio/Round 2/S01-D04-neon-take001.txt",
+    "size": 54,
+    "sha256": "8a556ecfbc8ebe42fbdf80faf4e78a1cfe915d2e2b371ba3e132eaf3e75e0638"
+  },
+  {
+    "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 01/Audio/Round 2/S01-D05-onyx-take001-alignment.json",
+    "size": 3878,
+    "sha256": "dae0716ede4bf69712a1ed90770ec1f4da842a559c69a1fa9e0a7f8469cabced"
+  },
+  {
+    "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 01/Audio/Round 2/S01-D05-onyx-take001.json",
+    "size": 837,
+    "sha256": "d2597a8ab756a17f45a9e4f3f7e3ad7c1326516d93f6926e305c15919259c1a0"
+  },
+  {
+    "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 01/Audio/Round 2/S01-D05-onyx-take001.mp3",
+    "size": 44346,
+    "sha256": "f566da8f795b96b49895b7e6243b65db72bbf471c275d84c6f5271e9eca29595"
+  },
+  {
+    "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 01/Audio/Round 2/S01-D05-onyx-take001.txt",
+    "size": 44,
+    "sha256": "8c2cfa2fcf95441a51ddeb9c12b9727f812e61fdbd88b8067dcf2aa2a2bc9794"
+  },
+  {
+    "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 01/Audio/Round 2/S01-D06-neon-take001-alignment.json",
+    "size": 3644,
+    "sha256": "a0e3105158e290c308aaddbe1467993f2309f1a38953155596f607e1a684c426"
+  },
+  {
+    "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 01/Audio/Round 2/S01-D06-neon-take001.json",
+    "size": 834,
+    "sha256": "27b19134010e99f803a9847a8ffe678d77c35b733957508fde1a4db84da9e04f"
+  },
+  {
+    "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 01/Audio/Round 2/S01-D06-neon-take001.mp3",
+    "size": 38913,
+    "sha256": "f17afb44f68acf74d110c5befc34d0611ba2e61da4e1bee6bdd3aa8621c0af1f"
+  },
+  {
+    "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 01/Audio/Round 2/S01-D06-neon-take001.txt",
+    "size": 41,
+    "sha256": "38798cf604cf4c239870bb0c84425a3160d5526a2e9e49d5f5c0710275a86eaa"
+  },
+  {
+    "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 01/Audio/Round 2/S01-D07-trixie-take001-alignment.json",
+    "size": 3574,
+    "sha256": "c44611fb5b28a0c6fda8b3a934e27dfb38720c0d412d6150b75ccb3ede62b44a"
+  },
+  {
+    "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 01/Audio/Round 2/S01-D07-trixie-take001.json",
+    "size": 837,
+    "sha256": "1e4960e86382a302a286b5ea51be59d558911fdc9313056c6cc037e201d65143"
+  },
+  {
+    "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 01/Audio/Round 2/S01-D07-trixie-take001.mp3",
+    "size": 33061,
+    "sha256": "2b378909e3ed77be41b5286070ad156314514185a7df3eb4e2cb4d3895072818"
+  },
+  {
+    "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 01/Audio/Round 2/S01-D07-trixie-take001.txt",
+    "size": 40,
+    "sha256": "109c626818a53ad6449c96d4a71d5077308135a826cdc25a270fb10d5021be52"
+  },
+  {
+    "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 01/Audio/Round 2/S01-D08-byte-take001-alignment.json",
+    "size": 4038,
+    "sha256": "29f3d324282ac072b965f9edec2074e2ee2c76d140b253b18a64da52fa60a218"
+  },
+  {
+    "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 01/Audio/Round 2/S01-D08-byte-take001.json",
+    "size": 829,
+    "sha256": "e9fc9cb2e7b953b6fc739045ec0c14716416eab6e92888bbe08c79646d4f935c"
+  },
+  {
+    "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 01/Audio/Round 2/S01-D08-byte-take001.mp3",
+    "size": 47690,
+    "sha256": "8e65abf7581728673ac0dd4d358338286a862499e329b40485b341332564c9ef"
+  },
+  {
+    "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 01/Audio/Round 2/S01-D08-byte-take001.txt",
+    "size": 46,
+    "sha256": "2600f82de2d6c4d890b4da7c3ce926c87e8789d2b86f500826c1c4b3fc0e6412"
+  },
+  {
+    "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 01/Audio/Round 2/S01-D09-onyx-take001-alignment.json",
+    "size": 4918,
+    "sha256": "bd74a4218230b85a19e5373a80246ce8161b2fd98a53c22ba099e146e2aa64c2"
+  },
+  {
+    "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 01/Audio/Round 2/S01-D09-onyx-take001.json",
+    "size": 850,
+    "sha256": "a8be8a69db85529fb97ee885428adae64befa73e2ca2f2fa5910493d93c1dd98"
+  },
+  {
+    "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 01/Audio/Round 2/S01-D09-onyx-take001.mp3",
+    "size": 49362,
+    "sha256": "ad385f5b4a5245a54eb3f27a136026aaaef6331ce7d6bcaf929228902d9bb6fe"
+  },
+  {
+    "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 01/Audio/Round 2/S01-D09-onyx-take001.txt",
+    "size": 57,
+    "sha256": "716944f07d975e32b76757d9e1059bb6e13c1fd18e20843f9ee55a9feeefc69e"
+  },
+  {
+    "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 01/Audio/Round 2/S01-D10-neon-take001-alignment.json",
+    "size": 1338,
+    "sha256": "e2910dfde13d95328251b1d58373fa76914de3396ba7a731d0566325b057ef8d"
+  },
+  {
+    "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 01/Audio/Round 2/S01-D10-neon-take001.json",
+    "size": 805,
+    "sha256": "e787e004b0b345e6a58c9c37ccbcc76627f4096818177c3284f27838c278f886"
+  },
+  {
+    "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 01/Audio/Round 2/S01-D10-neon-take001.mp3",
+    "size": 15925,
+    "sha256": "8882e5aa14734d9e4bfc457c9c1a9072467ae21e22e802d09cbbb6376d046cb4"
+  },
+  {
+    "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 01/Audio/Round 2/S01-D10-neon-take001.txt",
+    "size": 12,
+    "sha256": "9f4c75e541263a12ae8b54c50da0fab56eee0f9fd7014b5e915e3c163bad3daf"
+  },
+  {
+    "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 01/Audio/Round 2/S01-D11-onyx-take001-alignment.json",
+    "size": 1650,
+    "sha256": "fb19338ab2e65580f23b4df99de53a2e2172e7b413acf82119a5c1fa738218b9"
+  },
+  {
+    "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 01/Audio/Round 2/S01-D11-onyx-take001.json",
+    "size": 808,
+    "sha256": "f063a9f41664b02e05cadba21cfaea2e59e9e9b894397e4ad4ef3ec8f2a68a5f"
+  },
+  {
+    "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 01/Audio/Round 2/S01-D11-onyx-take001.mp3",
+    "size": 21776,
+    "sha256": "d9fbaee68ad9e5c3fbd29dc8b5d3f2ddea43441e5f74d6d4662b0cf67c7d5541"
+  },
+  {
+    "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 01/Audio/Round 2/S01-D11-onyx-take001.txt",
+    "size": 16,
+    "sha256": "d3cbd8ad8c929254faa09a10e2574d3b185998515b095a39d1d683d087f54f49"
+  },
+  {
+    "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 01/Audio/Round 2/S01-D12-ghost-take001-alignment.json",
+    "size": 2216,
+    "sha256": "d7b23e5208a91aa58c9678249b9c71eb5c478b9d5e39f14db4fc48d8716e7ce3"
+  },
+  {
+    "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 01/Audio/Round 2/S01-D12-ghost-take001.json",
+    "size": 810,
+    "sha256": "9c617120c8031c054f2cc8349de013b9aece3c875b5bb19e91adb3403d77bbdd"
+  },
+  {
+    "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 01/Audio/Round 2/S01-D12-ghost-take001.mp3",
+    "size": 22612,
+    "sha256": "6f7e93070e785fda1049f7d988e313bb428809f090e055af1a79c0f2b9f64910"
+  },
+  {
+    "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 01/Audio/Round 2/S01-D12-ghost-take001.txt",
+    "size": 23,
+    "sha256": "811d314e9c6aed4b4966c48af320bda4c2fd3f894ae21b52a69a35db69dddd13"
+  },
+  {
+    "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 01/Audio/Round 2/S01-D13-trixie-take001-alignment.json",
+    "size": 3082,
+    "sha256": "3da07639f27f9319be68ba68c1e6121f7f366d2c4f4fbc03a559a1d2a01df1f8"
+  },
+  {
+    "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 01/Audio/Round 2/S01-D13-trixie-take001.json",
+    "size": 831,
+    "sha256": "75f1f9ed5b98f2d75d817c41aaabe133badb8c5796790b185d01a6e015886278"
+  },
+  {
+    "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 01/Audio/Round 2/S01-D13-trixie-take001.mp3",
+    "size": 38913,
+    "sha256": "01512a53e577f0ad5ed142859a93d8a52230d43857332d776d3d2a9a39c8656d"
+  },
+  {
+    "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 01/Audio/Round 2/S01-D13-trixie-take001.txt",
+    "size": 34,
+    "sha256": "bb9bc3f5c165a35f0664c4e56395837d14e4c54134dcc36fb4d80dffc6226b6e"
+  },
+  {
+    "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 01/Audio/Round 2/S01-D14-ghost-take001-alignment.json",
+    "size": 3376,
+    "sha256": "559cbffdf62998f969439535d1b752c7d1b1b99cbef01c1c352f17b91fd40b8f"
+  },
+  {
+    "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 01/Audio/Round 2/S01-D14-ghost-take001.json",
+    "size": 825,
+    "sha256": "fe64b37821ae5ffcc7cf2a9e558ec7b6f0ebfedfc9700d63cdd37f8c55a83abd"
+  },
+  {
+    "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 01/Audio/Round 2/S01-D14-ghost-take001.mp3",
+    "size": 40585,
+    "sha256": "3bd795b77bfd145397126170b8d3ee8f698c34492943d84250a74559523d86a2"
+  },
+  {
+    "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 01/Audio/Round 2/S01-D14-ghost-take001.txt",
+    "size": 38,
+    "sha256": "1d9cc517035311037833262f4c547adc6f4466b460947ad649e6fe151c8fe71e"
+  },
+  {
+    "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 01/Audio/Round 2/S01-D15-byte-take001-alignment.json",
+    "size": 1330,
+    "sha256": "11c473209cb4244cc24cbe2f05981b58f529a3ec1ae5d2c28d5bdfe66d2d3922"
+  },
+  {
+    "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 01/Audio/Round 2/S01-D15-byte-take001.json",
+    "size": 794,
+    "sha256": "1fd7cbc3e9744e501f9157212047d80305d7d46b984bfb4b73b2d375e1343c61"
+  },
+  {
+    "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 01/Audio/Round 2/S01-D15-byte-take001.mp3",
+    "size": 15925,
+    "sha256": "06baa0dd3cde4e08a3372b76453f30824a32a25d37618243faec4c7fa883a604"
+  },
+  {
+    "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 01/Audio/Round 2/S01-D15-byte-take001.txt",
+    "size": 12,
+    "sha256": "5f251914e2a14ab117d4e223ae090a0c63d88a66de10b135f8360357135a4d0b"
+  },
+  {
+    "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 01/Audio/Round 2/S01-D16-ghost-take001-alignment.json",
+    "size": 3808,
+    "sha256": "926b4689f4c31cc111af55801292077bd6f775a48c1385b63757553130886dd4"
+  },
+  {
+    "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 01/Audio/Round 2/S01-D16-ghost-take001.json",
+    "size": 830,
+    "sha256": "d537941ca07a2ada9a7be03bb6bfef5621bc053821821a5a06b8a90b0fc98a34"
+  },
+  {
+    "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 01/Audio/Round 2/S01-D16-ghost-take001.mp3",
+    "size": 50198,
+    "sha256": "85b71d454c9aa9246ff30a2bd24dc434a48e25c84c01b4d86320bf2f22f093f0"
+  },
+  {
+    "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 01/Audio/Round 2/S01-D16-ghost-take001.txt",
+    "size": 43,
+    "sha256": "1a5f959eb35bb2c457cbcf2bf6bf18e60206e37d16afd9e6467bfc00aecd785a"
+  },
+  {
+    "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 01/Audio/Round 2/S01-D17-trixie-take001-alignment.json",
+    "size": 4034,
+    "sha256": "380affeaadc0964a4e1a703b6c254aa0c84fb5440f5c4b23ae3f75dc79a4cbb5"
+  },
+  {
+    "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 01/Audio/Round 2/S01-D17-trixie-take001.json",
+    "size": 844,
+    "sha256": "3901b6653f3ac64df46b6c1c4b5e6a70cb6ebef4b69c7cad64c8ee02ef57b6a4"
+  },
+  {
+    "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 01/Audio/Round 2/S01-D17-trixie-take001.mp3",
+    "size": 40585,
+    "sha256": "754034e203627c42dd658c44544f36e052673aeac1975690e9fd1228ea847266"
+  },
+  {
+    "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 01/Audio/Round 2/S01-D17-trixie-take001.txt",
+    "size": 46,
+    "sha256": "bddba67a451abf34361ec1a8d49f89f4487edbc796fdf378e58a96cf6a419a95"
+  },
+  {
     "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 01/Reference Frames/S01A-gpt26-v001.alignment.json",
     "size": 441,
     "sha256": "9fe9c6758e90ec736a20e794c1d05da79efb42e1752924c6494aa8a72298de9b"
@@ -10035,6 +10380,46 @@
     "sha256": "551b5b97a0ca94386e67c0a7e6bf7d64ddc83d4a0c5a75faea29ad5989ae124a"
   },
   {
+    "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 03/Audio/Round 2/S03-D01-chairman_barkington-villain-controlled-v2-alignment.json",
+    "size": 18030,
+    "sha256": "391740886ba24e979c0f924ba2816caf05ca0936acfa784554d999e73b69739f"
+  },
+  {
+    "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 03/Audio/Round 2/S03-D01-chairman_barkington-villain-controlled-v2.json",
+    "size": 1071,
+    "sha256": "293ef0b48a81c5241c63d5c2f97b8364e4fea117f4c67ebc0700b2a992e165ce"
+  },
+  {
+    "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 03/Audio/Round 2/S03-D01-chairman_barkington-villain-controlled-v2.mp3",
+    "size": 220307,
+    "sha256": "132a5aa26542fcd869533595341b9c22e0898658b8cdc1c362285db60a112766"
+  },
+  {
+    "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 03/Audio/Round 2/S03-D01-chairman_barkington-villain-controlled-v2.txt",
+    "size": 219,
+    "sha256": "736eeb66de1d848aa451e05377659e56c27d7d03cf966b3f3b1ee08fe4e35403"
+  },
+  {
+    "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 03/Audio/Round 2/S03-D01-chairman_barkington-villain-directed-v3-alignment.json",
+    "size": 19156,
+    "sha256": "b66e2d940d89e71315bbe6b817b71a609a4437cb5f971e82fecda0030d7e2784"
+  },
+  {
+    "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 03/Audio/Round 2/S03-D01-chairman_barkington-villain-directed-v3.json",
+    "size": 1239,
+    "sha256": "f57a83961cd971dc751bb10a116c59061ee46570f3fccee8f705183f73d3845f"
+  },
+  {
+    "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 03/Audio/Round 2/S03-D01-chairman_barkington-villain-directed-v3.mp3",
+    "size": 226158,
+    "sha256": "fdb427a8bf3acb2d4fec7ec48a851608fc079defc76b6f60bac17b9719e3b6b8"
+  },
+  {
+    "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 03/Audio/Round 2/S03-D01-chairman_barkington-villain-directed-v3.txt",
+    "size": 219,
+    "sha256": "736eeb66de1d848aa451e05377659e56c27d7d03cf966b3f3b1ee08fe4e35403"
+  },
+  {
     "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 03/Audio/S03-D01-chairman_barkington-take001-alignment.json",
     "size": 18121,
     "sha256": "3983b0dc5412bdd59a8fef35d2f74bea9152d2659f2a982877ae239ee83ca96c"
@@ -10545,6 +10930,206 @@
     "sha256": "9a5d1617bb23685f6e91c35f369d0fe5735529849b3f8ba979dd5f0869939e6b"
   },
   {
+    "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 05/Audio/Round 2/S05-D01-byte-take001-alignment.json",
+    "size": 4750,
+    "sha256": "496d38df76b017a044161f69657b60b50a586eda837813d0cbe99bbea4e08fbf"
+  },
+  {
+    "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 05/Audio/Round 2/S05-D01-byte-take001.json",
+    "size": 838,
+    "sha256": "b41992098c179f07fcada7aaf2b89266e8070f476905009b6b44c16cdc225eec"
+  },
+  {
+    "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 05/Audio/Round 2/S05-D01-byte-take001.mp3",
+    "size": 51452,
+    "sha256": "edba6892c03401a4f6089aa74915c7a945f3ef22500c630d128650f81f5ba892"
+  },
+  {
+    "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 05/Audio/Round 2/S05-D01-byte-take001.txt",
+    "size": 55,
+    "sha256": "1643e1f479503f5d56c498d29eff0bea8f348d479eb7fd1fe4487b475e9716bb"
+  },
+  {
+    "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 05/Audio/Round 2/S05-D02-trixie-take001-alignment.json",
+    "size": 3878,
+    "sha256": "b19def16417515b8b695457f330e9b21b87dbbaf146ca3df637f1e58ebd44d95"
+  },
+  {
+    "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 05/Audio/Round 2/S05-D02-trixie-take001.json",
+    "size": 842,
+    "sha256": "831c0a04defaab22d6576af5bb8b70129ee433421477ec1e86a8039a94fa258e"
+  },
+  {
+    "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 05/Audio/Round 2/S05-D02-trixie-take001.mp3",
+    "size": 31390,
+    "sha256": "92199ee6b9c06e9e1c28645d14a852f09a9a6c4b525801db3aa3bcb8a3bb64d7"
+  },
+  {
+    "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 05/Audio/Round 2/S05-D02-trixie-take001.txt",
+    "size": 44,
+    "sha256": "b47f1ef2f4b6e0487b851902aaf35c61b4ff9ceeef8c8c7b8dba87c96cb90608"
+  },
+  {
+    "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 05/Audio/Round 2/S05-D03-byte-take001-alignment.json",
+    "size": 6662,
+    "sha256": "411300f9782cc8237229a33cc4ec9fd343f58756755fb441a85b4f13661ebc43"
+  },
+  {
+    "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 05/Audio/Round 2/S05-D03-byte-take001.json",
+    "size": 862,
+    "sha256": "aca2e9605b3b4062a69f2dd07880249e999a4f104491c9eaee024c4b3deb8ada"
+  },
+  {
+    "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 05/Audio/Round 2/S05-D03-byte-take001.mp3",
+    "size": 69424,
+    "sha256": "128ebbff88f6429f54741dc0b436a6a070a7b3f9ab5782575a710693cbfc555c"
+  },
+  {
+    "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 05/Audio/Round 2/S05-D03-byte-take001.txt",
+    "size": 79,
+    "sha256": "79e0c1453ef1ffd31cadf0ae35c1b160366c8a252199af8ba16cee9e70ec7f5d"
+  },
+  {
+    "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 05/Audio/Round 2/S05-D04-trixie-take001-alignment.json",
+    "size": 3406,
+    "sha256": "e163181e367fee7eccb472af00faf8fed36349313be6af2434e02cd650e1367f"
+  },
+  {
+    "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 05/Audio/Round 2/S05-D04-trixie-take001.json",
+    "size": 835,
+    "sha256": "3e4f85f970c2ea6f82f004ad8a4123dc4e837821b5f087c3012a5edd40442676"
+  },
+  {
+    "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 05/Audio/Round 2/S05-D04-trixie-take001.mp3",
+    "size": 44346,
+    "sha256": "058a2dab04079c72c6f528328a6b9959a66084a9a4745d77b8bcc23f51b47a42"
+  },
+  {
+    "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 05/Audio/Round 2/S05-D04-trixie-take001.txt",
+    "size": 38,
+    "sha256": "7a150be9f27c7795dc59ad99177ecd07c2486d3df169e82960465e707d89f375"
+  },
+  {
+    "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 05/Audio/Round 2/S05-D05-byte-take001-alignment.json",
+    "size": 5130,
+    "sha256": "5e32189a39cff16d448f53104548e1bbadb9bddcf0632f215c7f7126d57efa3c"
+  },
+  {
+    "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 05/Audio/Round 2/S05-D05-byte-take001.json",
+    "size": 843,
+    "sha256": "26aaf653feb736881a9b1bbe0b7dc745d1d72d9d237783403825209b0ea28345"
+  },
+  {
+    "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 05/Audio/Round 2/S05-D05-byte-take001.mp3",
+    "size": 54377,
+    "sha256": "8620f648a4e1abeece994a38808d0f6d5f38072b2f8d7e78a1f9cc721f4f8b0e"
+  },
+  {
+    "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 05/Audio/Round 2/S05-D05-byte-take001.txt",
+    "size": 60,
+    "sha256": "d7bf3b60900aa31b63b7b6400445778254027f06d9907a07ad843b55dca6913b"
+  },
+  {
+    "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 05/Audio/Round 2/S05-D06-trixie-take001-alignment.json",
+    "size": 2686,
+    "sha256": "7152b1fd65e1aa11b2ad98eec995423e189db5063d2045fd7f73490d576f0fcb"
+  },
+  {
+    "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 05/Audio/Round 2/S05-D06-trixie-take001.json",
+    "size": 826,
+    "sha256": "14301678d825ad2b9f41414dcf85cd69b7b5713b596e94f87d2b2a7c856d384c"
+  },
+  {
+    "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 05/Audio/Round 2/S05-D06-trixie-take001.mp3",
+    "size": 27210,
+    "sha256": "a09055fa02125aeab7bf10ef01e8fc7d9d1958b899e4d760d35cc4b8e703539d"
+  },
+  {
+    "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 05/Audio/Round 2/S05-D06-trixie-take001.txt",
+    "size": 29,
+    "sha256": "c35cd55ec691fe7ff6354f29991cc0a965cc6988a694e34f0d47bb72f78b3f74"
+  },
+  {
+    "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 05/Audio/Round 2/S05-D07-byte-take001-alignment.json",
+    "size": 3242,
+    "sha256": "05f74eb4bb1943c7d7cf7d483a42aafa1c49763d32b8c3532e38629e39a45226"
+  },
+  {
+    "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 05/Audio/Round 2/S05-D07-byte-take001.json",
+    "size": 818,
+    "sha256": "c1b4bb74b4fdafed9eb6bb298c3f2681d60c427c064961ecb05601184aa413a0"
+  },
+  {
+    "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 05/Audio/Round 2/S05-D07-byte-take001.mp3",
+    "size": 35151,
+    "sha256": "08849ce6b81483d94d7351cca1f64a204eec566926f111bf587d7be2319f0263"
+  },
+  {
+    "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 05/Audio/Round 2/S05-D07-byte-take001.txt",
+    "size": 36,
+    "sha256": "a28b0637441159205015a36d05564d8d1a0a86d333955d3dc132397d8f70999d"
+  },
+  {
+    "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 05/Audio/Round 2/S05-D08-trixie-take001-alignment.json",
+    "size": 6290,
+    "sha256": "27ff8f6f9c456b7b967e46ad0f6dbec63f4aec0124ece47ee8572df7df8d2232"
+  },
+  {
+    "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 05/Audio/Round 2/S05-D08-trixie-take001.json",
+    "size": 872,
+    "sha256": "852b7fb5e330d19a7cd2b75c8176486222bf25f225e3803220fe0d632ad72b7c"
+  },
+  {
+    "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 05/Audio/Round 2/S05-D08-trixie-take001.mp3",
+    "size": 74021,
+    "sha256": "c4ac0341a87d779e74590b6917d333d8cad24a9a41a322100cfc0772f985fa90"
+  },
+  {
+    "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 05/Audio/Round 2/S05-D08-trixie-take001.txt",
+    "size": 74,
+    "sha256": "6b3a524ea6d477e8064ac893765aa10065666aed012147209e1db8e791c487ee"
+  },
+  {
+    "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 05/Audio/Round 2/S05-D09-byte-take001-alignment.json",
+    "size": 4842,
+    "sha256": "9a5e075eef99390b273ca332058181c7fa34deab7974aff04fb55faf13076e6b"
+  },
+  {
+    "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 05/Audio/Round 2/S05-D09-byte-take001.json",
+    "size": 839,
+    "sha256": "085c64dd0f61966733daf332f6d2a81a2fc30f3eff78fb510185dd49f0a5c526"
+  },
+  {
+    "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 05/Audio/Round 2/S05-D09-byte-take001.mp3",
+    "size": 51452,
+    "sha256": "ce7fbd909311958c17b5f282c69643c42c488135c37920ac1dd17548999880f5"
+  },
+  {
+    "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 05/Audio/Round 2/S05-D09-byte-take001.txt",
+    "size": 56,
+    "sha256": "735c266c5f0c3df32d5c90e6bd1c520d94d7e6ba51450e0986d0ae9bcaf232df"
+  },
+  {
+    "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 05/Audio/Round 2/S05-D10-trixie-take001-alignment.json",
+    "size": 3566,
+    "sha256": "9c9dd1a701316519bd68e13d2a0d4fcb454b03356085404dd82b76ebc2a50d73"
+  },
+  {
+    "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 05/Audio/Round 2/S05-D10-trixie-take001.json",
+    "size": 837,
+    "sha256": "a7c79e476543fb21926e90de818714f53c94821f24dd1cff2fb0bbf41501a10a"
+  },
+  {
+    "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 05/Audio/Round 2/S05-D10-trixie-take001.mp3",
+    "size": 28464,
+    "sha256": "e6d9ff89ba19bb1bb045f976bc836825b3db386567379fb3409b3b076fd7aca4"
+  },
+  {
+    "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 05/Audio/Round 2/S05-D10-trixie-take001.txt",
+    "size": 40,
+    "sha256": "2edcad61ffdfc9ba647992238f34f28c1cfa21ba674ccb8cf74c74403e54cb68"
+  },
+  {
     "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 05/scene-brief.txt",
     "size": 623,
     "sha256": "b7ef5caadb3d759f8972c8be01fc2807f15f9b5840522bbb1748f571decfd37a"
@@ -10743,6 +11328,11 @@
     "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 24/shot-beats.json",
     "size": 1372,
     "sha256": "da0e988f5a4ecb2d0795f761c49452f2e2ca4202d44f6f399b10f11d5ecdb794"
+  },
+  {
+    "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Script/dialogue-additions-v002.json",
+    "size": 7256,
+    "sha256": "1a30364e91f29ded61466261308f2b8d412a850339d80c9fdfb232923ff64eeb"
   },
   {
     "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Script/Source Original.txt",
@@ -11415,6 +12005,621 @@
     "sha256": "a25cc3e0e4e0af1ab4ce29901b65d59ddebad184c4ae1ab22f3e76e0663f557d"
   },
   {
+    "path": "Production/Voices/Pilot Round 2/batch-receipt.json",
+    "size": 27883,
+    "sha256": "92d6b30bda9c665fa946403db893ee11ab08bd4a885e96d3192f2f4fbf1850ef"
+  },
+  {
+    "path": "Production/Voices/Pilot Round 2/dialogue-working-v002.json",
+    "size": 7256,
+    "sha256": "1a30364e91f29ded61466261308f2b8d412a850339d80c9fdfb232923ff64eeb"
+  },
+  {
+    "path": "Production/Voices/Pilot Round 2/listen.html",
+    "size": 6477,
+    "sha256": "f66e68e1f633cf87cf4bba9d8ccb08adc081afb8007659dab435cced2a4a4943"
+  },
+  {
+    "path": "Production/Voices/Pilot Round 2/Scene01/S01-D01-byte-take001-alignment.json",
+    "size": 3168,
+    "sha256": "fdfec6613f4a8e4b0e052c319c4a6ac41f5c8ae56cd7285c52ec41891ed411a6"
+  },
+  {
+    "path": "Production/Voices/Pilot Round 2/Scene01/S01-D01-byte-take001.json",
+    "size": 817,
+    "sha256": "094f872c14b18473cbd82941929f82b28ee857398aac84c25857d94382496dba"
+  },
+  {
+    "path": "Production/Voices/Pilot Round 2/Scene01/S01-D01-byte-take001.mp3",
+    "size": 40585,
+    "sha256": "7385c78a469a020befc74d29ba2a362069252976c2ccdeb6333e20f4a943c223"
+  },
+  {
+    "path": "Production/Voices/Pilot Round 2/Scene01/S01-D01-byte-take001.txt",
+    "size": 35,
+    "sha256": "d81a6272bd40f18b2c39cac0f10dd30d18985091be53dc389f09d574d35273be"
+  },
+  {
+    "path": "Production/Voices/Pilot Round 2/Scene01/S01-D02-trixie-take001-alignment.json",
+    "size": 2454,
+    "sha256": "615b9139623035c0dbba86ca0100c463a65ce92bd58d04a760ef4e9be2730a3a"
+  },
+  {
+    "path": "Production/Voices/Pilot Round 2/Scene01/S01-D02-trixie-take001.json",
+    "size": 823,
+    "sha256": "302095d7454be56f54322b48b9bf4c8fc518ecca6ea60e5ba0248191cb38c701"
+  },
+  {
+    "path": "Production/Voices/Pilot Round 2/Scene01/S01-D02-trixie-take001.mp3",
+    "size": 26374,
+    "sha256": "fd5f566859105b8b53dc79df6d6560e5297dfec5b4426d276142f9af867f00fd"
+  },
+  {
+    "path": "Production/Voices/Pilot Round 2/Scene01/S01-D02-trixie-take001.txt",
+    "size": 26,
+    "sha256": "6550d84647e552f6907b34dde959d90002605157054bc2a2710a00e78f49ab31"
+  },
+  {
+    "path": "Production/Voices/Pilot Round 2/Scene01/S01-D03-byte-take001-alignment.json",
+    "size": 2914,
+    "sha256": "9eba4046f942674e892a94f4ee1965f847c598e2b88aa59afd41525de038425a"
+  },
+  {
+    "path": "Production/Voices/Pilot Round 2/Scene01/S01-D03-byte-take001.json",
+    "size": 814,
+    "sha256": "40edc588854a505e8ce3e864ecefdb94c9a9b5f143335ec732ebd83cbd9d329e"
+  },
+  {
+    "path": "Production/Voices/Pilot Round 2/Scene01/S01-D03-byte-take001.mp3",
+    "size": 27210,
+    "sha256": "5c4a58b6f02aa3aa54907658d609a5f42d939b4d29589ae171b2cac58015391c"
+  },
+  {
+    "path": "Production/Voices/Pilot Round 2/Scene01/S01-D03-byte-take001.txt",
+    "size": 32,
+    "sha256": "54abbd8b96c9bba31a395121c7bf15c1ccf1569a984a96a877f2a4138f2d01c7"
+  },
+  {
+    "path": "Production/Voices/Pilot Round 2/Scene01/S01-D04-neon-take001-alignment.json",
+    "size": 4686,
+    "sha256": "c4d0dc950e7ede352a1a1f7eeedcb38cfbc191405cb570d84b7bd3c98bc4eb43"
+  },
+  {
+    "path": "Production/Voices/Pilot Round 2/Scene01/S01-D04-neon-take001.json",
+    "size": 848,
+    "sha256": "9438401ab4e41853396e1504232e367d7faddda2962b7ef59c414b0edc899c29"
+  },
+  {
+    "path": "Production/Voices/Pilot Round 2/Scene01/S01-D04-neon-take001.mp3",
+    "size": 53123,
+    "sha256": "818608a43905e9cf3c4de74bf44e89e9e3c0d6f8648c5410a97f25a6401d690c"
+  },
+  {
+    "path": "Production/Voices/Pilot Round 2/Scene01/S01-D04-neon-take001.txt",
+    "size": 54,
+    "sha256": "8a556ecfbc8ebe42fbdf80faf4e78a1cfe915d2e2b371ba3e132eaf3e75e0638"
+  },
+  {
+    "path": "Production/Voices/Pilot Round 2/Scene01/S01-D05-onyx-take001-alignment.json",
+    "size": 3878,
+    "sha256": "dae0716ede4bf69712a1ed90770ec1f4da842a559c69a1fa9e0a7f8469cabced"
+  },
+  {
+    "path": "Production/Voices/Pilot Round 2/Scene01/S01-D05-onyx-take001.json",
+    "size": 837,
+    "sha256": "d2597a8ab756a17f45a9e4f3f7e3ad7c1326516d93f6926e305c15919259c1a0"
+  },
+  {
+    "path": "Production/Voices/Pilot Round 2/Scene01/S01-D05-onyx-take001.mp3",
+    "size": 44346,
+    "sha256": "f566da8f795b96b49895b7e6243b65db72bbf471c275d84c6f5271e9eca29595"
+  },
+  {
+    "path": "Production/Voices/Pilot Round 2/Scene01/S01-D05-onyx-take001.txt",
+    "size": 44,
+    "sha256": "8c2cfa2fcf95441a51ddeb9c12b9727f812e61fdbd88b8067dcf2aa2a2bc9794"
+  },
+  {
+    "path": "Production/Voices/Pilot Round 2/Scene01/S01-D06-neon-take001-alignment.json",
+    "size": 3644,
+    "sha256": "a0e3105158e290c308aaddbe1467993f2309f1a38953155596f607e1a684c426"
+  },
+  {
+    "path": "Production/Voices/Pilot Round 2/Scene01/S01-D06-neon-take001.json",
+    "size": 834,
+    "sha256": "27b19134010e99f803a9847a8ffe678d77c35b733957508fde1a4db84da9e04f"
+  },
+  {
+    "path": "Production/Voices/Pilot Round 2/Scene01/S01-D06-neon-take001.mp3",
+    "size": 38913,
+    "sha256": "f17afb44f68acf74d110c5befc34d0611ba2e61da4e1bee6bdd3aa8621c0af1f"
+  },
+  {
+    "path": "Production/Voices/Pilot Round 2/Scene01/S01-D06-neon-take001.txt",
+    "size": 41,
+    "sha256": "38798cf604cf4c239870bb0c84425a3160d5526a2e9e49d5f5c0710275a86eaa"
+  },
+  {
+    "path": "Production/Voices/Pilot Round 2/Scene01/S01-D07-trixie-take001-alignment.json",
+    "size": 3574,
+    "sha256": "c44611fb5b28a0c6fda8b3a934e27dfb38720c0d412d6150b75ccb3ede62b44a"
+  },
+  {
+    "path": "Production/Voices/Pilot Round 2/Scene01/S01-D07-trixie-take001.json",
+    "size": 837,
+    "sha256": "1e4960e86382a302a286b5ea51be59d558911fdc9313056c6cc037e201d65143"
+  },
+  {
+    "path": "Production/Voices/Pilot Round 2/Scene01/S01-D07-trixie-take001.mp3",
+    "size": 33061,
+    "sha256": "2b378909e3ed77be41b5286070ad156314514185a7df3eb4e2cb4d3895072818"
+  },
+  {
+    "path": "Production/Voices/Pilot Round 2/Scene01/S01-D07-trixie-take001.txt",
+    "size": 40,
+    "sha256": "109c626818a53ad6449c96d4a71d5077308135a826cdc25a270fb10d5021be52"
+  },
+  {
+    "path": "Production/Voices/Pilot Round 2/Scene01/S01-D08-byte-take001-alignment.json",
+    "size": 4038,
+    "sha256": "29f3d324282ac072b965f9edec2074e2ee2c76d140b253b18a64da52fa60a218"
+  },
+  {
+    "path": "Production/Voices/Pilot Round 2/Scene01/S01-D08-byte-take001.json",
+    "size": 829,
+    "sha256": "e9fc9cb2e7b953b6fc739045ec0c14716416eab6e92888bbe08c79646d4f935c"
+  },
+  {
+    "path": "Production/Voices/Pilot Round 2/Scene01/S01-D08-byte-take001.mp3",
+    "size": 47690,
+    "sha256": "8e65abf7581728673ac0dd4d358338286a862499e329b40485b341332564c9ef"
+  },
+  {
+    "path": "Production/Voices/Pilot Round 2/Scene01/S01-D08-byte-take001.txt",
+    "size": 46,
+    "sha256": "2600f82de2d6c4d890b4da7c3ce926c87e8789d2b86f500826c1c4b3fc0e6412"
+  },
+  {
+    "path": "Production/Voices/Pilot Round 2/Scene01/S01-D09-onyx-take001-alignment.json",
+    "size": 4918,
+    "sha256": "bd74a4218230b85a19e5373a80246ce8161b2fd98a53c22ba099e146e2aa64c2"
+  },
+  {
+    "path": "Production/Voices/Pilot Round 2/Scene01/S01-D09-onyx-take001.json",
+    "size": 850,
+    "sha256": "a8be8a69db85529fb97ee885428adae64befa73e2ca2f2fa5910493d93c1dd98"
+  },
+  {
+    "path": "Production/Voices/Pilot Round 2/Scene01/S01-D09-onyx-take001.mp3",
+    "size": 49362,
+    "sha256": "ad385f5b4a5245a54eb3f27a136026aaaef6331ce7d6bcaf929228902d9bb6fe"
+  },
+  {
+    "path": "Production/Voices/Pilot Round 2/Scene01/S01-D09-onyx-take001.txt",
+    "size": 57,
+    "sha256": "716944f07d975e32b76757d9e1059bb6e13c1fd18e20843f9ee55a9feeefc69e"
+  },
+  {
+    "path": "Production/Voices/Pilot Round 2/Scene01/S01-D10-neon-take001-alignment.json",
+    "size": 1338,
+    "sha256": "e2910dfde13d95328251b1d58373fa76914de3396ba7a731d0566325b057ef8d"
+  },
+  {
+    "path": "Production/Voices/Pilot Round 2/Scene01/S01-D10-neon-take001.json",
+    "size": 805,
+    "sha256": "e787e004b0b345e6a58c9c37ccbcc76627f4096818177c3284f27838c278f886"
+  },
+  {
+    "path": "Production/Voices/Pilot Round 2/Scene01/S01-D10-neon-take001.mp3",
+    "size": 15925,
+    "sha256": "8882e5aa14734d9e4bfc457c9c1a9072467ae21e22e802d09cbbb6376d046cb4"
+  },
+  {
+    "path": "Production/Voices/Pilot Round 2/Scene01/S01-D10-neon-take001.txt",
+    "size": 12,
+    "sha256": "9f4c75e541263a12ae8b54c50da0fab56eee0f9fd7014b5e915e3c163bad3daf"
+  },
+  {
+    "path": "Production/Voices/Pilot Round 2/Scene01/S01-D11-onyx-take001-alignment.json",
+    "size": 1650,
+    "sha256": "fb19338ab2e65580f23b4df99de53a2e2172e7b413acf82119a5c1fa738218b9"
+  },
+  {
+    "path": "Production/Voices/Pilot Round 2/Scene01/S01-D11-onyx-take001.json",
+    "size": 808,
+    "sha256": "f063a9f41664b02e05cadba21cfaea2e59e9e9b894397e4ad4ef3ec8f2a68a5f"
+  },
+  {
+    "path": "Production/Voices/Pilot Round 2/Scene01/S01-D11-onyx-take001.mp3",
+    "size": 21776,
+    "sha256": "d9fbaee68ad9e5c3fbd29dc8b5d3f2ddea43441e5f74d6d4662b0cf67c7d5541"
+  },
+  {
+    "path": "Production/Voices/Pilot Round 2/Scene01/S01-D11-onyx-take001.txt",
+    "size": 16,
+    "sha256": "d3cbd8ad8c929254faa09a10e2574d3b185998515b095a39d1d683d087f54f49"
+  },
+  {
+    "path": "Production/Voices/Pilot Round 2/Scene01/S01-D12-ghost-take001-alignment.json",
+    "size": 2216,
+    "sha256": "d7b23e5208a91aa58c9678249b9c71eb5c478b9d5e39f14db4fc48d8716e7ce3"
+  },
+  {
+    "path": "Production/Voices/Pilot Round 2/Scene01/S01-D12-ghost-take001.json",
+    "size": 810,
+    "sha256": "9c617120c8031c054f2cc8349de013b9aece3c875b5bb19e91adb3403d77bbdd"
+  },
+  {
+    "path": "Production/Voices/Pilot Round 2/Scene01/S01-D12-ghost-take001.mp3",
+    "size": 22612,
+    "sha256": "6f7e93070e785fda1049f7d988e313bb428809f090e055af1a79c0f2b9f64910"
+  },
+  {
+    "path": "Production/Voices/Pilot Round 2/Scene01/S01-D12-ghost-take001.txt",
+    "size": 23,
+    "sha256": "811d314e9c6aed4b4966c48af320bda4c2fd3f894ae21b52a69a35db69dddd13"
+  },
+  {
+    "path": "Production/Voices/Pilot Round 2/Scene01/S01-D13-trixie-take001-alignment.json",
+    "size": 3082,
+    "sha256": "3da07639f27f9319be68ba68c1e6121f7f366d2c4f4fbc03a559a1d2a01df1f8"
+  },
+  {
+    "path": "Production/Voices/Pilot Round 2/Scene01/S01-D13-trixie-take001.json",
+    "size": 831,
+    "sha256": "75f1f9ed5b98f2d75d817c41aaabe133badb8c5796790b185d01a6e015886278"
+  },
+  {
+    "path": "Production/Voices/Pilot Round 2/Scene01/S01-D13-trixie-take001.mp3",
+    "size": 38913,
+    "sha256": "01512a53e577f0ad5ed142859a93d8a52230d43857332d776d3d2a9a39c8656d"
+  },
+  {
+    "path": "Production/Voices/Pilot Round 2/Scene01/S01-D13-trixie-take001.txt",
+    "size": 34,
+    "sha256": "bb9bc3f5c165a35f0664c4e56395837d14e4c54134dcc36fb4d80dffc6226b6e"
+  },
+  {
+    "path": "Production/Voices/Pilot Round 2/Scene01/S01-D14-ghost-take001-alignment.json",
+    "size": 3376,
+    "sha256": "559cbffdf62998f969439535d1b752c7d1b1b99cbef01c1c352f17b91fd40b8f"
+  },
+  {
+    "path": "Production/Voices/Pilot Round 2/Scene01/S01-D14-ghost-take001.json",
+    "size": 825,
+    "sha256": "fe64b37821ae5ffcc7cf2a9e558ec7b6f0ebfedfc9700d63cdd37f8c55a83abd"
+  },
+  {
+    "path": "Production/Voices/Pilot Round 2/Scene01/S01-D14-ghost-take001.mp3",
+    "size": 40585,
+    "sha256": "3bd795b77bfd145397126170b8d3ee8f698c34492943d84250a74559523d86a2"
+  },
+  {
+    "path": "Production/Voices/Pilot Round 2/Scene01/S01-D14-ghost-take001.txt",
+    "size": 38,
+    "sha256": "1d9cc517035311037833262f4c547adc6f4466b460947ad649e6fe151c8fe71e"
+  },
+  {
+    "path": "Production/Voices/Pilot Round 2/Scene01/S01-D15-byte-take001-alignment.json",
+    "size": 1330,
+    "sha256": "11c473209cb4244cc24cbe2f05981b58f529a3ec1ae5d2c28d5bdfe66d2d3922"
+  },
+  {
+    "path": "Production/Voices/Pilot Round 2/Scene01/S01-D15-byte-take001.json",
+    "size": 794,
+    "sha256": "1fd7cbc3e9744e501f9157212047d80305d7d46b984bfb4b73b2d375e1343c61"
+  },
+  {
+    "path": "Production/Voices/Pilot Round 2/Scene01/S01-D15-byte-take001.mp3",
+    "size": 15925,
+    "sha256": "06baa0dd3cde4e08a3372b76453f30824a32a25d37618243faec4c7fa883a604"
+  },
+  {
+    "path": "Production/Voices/Pilot Round 2/Scene01/S01-D15-byte-take001.txt",
+    "size": 12,
+    "sha256": "5f251914e2a14ab117d4e223ae090a0c63d88a66de10b135f8360357135a4d0b"
+  },
+  {
+    "path": "Production/Voices/Pilot Round 2/Scene01/S01-D16-ghost-take001-alignment.json",
+    "size": 3808,
+    "sha256": "926b4689f4c31cc111af55801292077bd6f775a48c1385b63757553130886dd4"
+  },
+  {
+    "path": "Production/Voices/Pilot Round 2/Scene01/S01-D16-ghost-take001.json",
+    "size": 830,
+    "sha256": "d537941ca07a2ada9a7be03bb6bfef5621bc053821821a5a06b8a90b0fc98a34"
+  },
+  {
+    "path": "Production/Voices/Pilot Round 2/Scene01/S01-D16-ghost-take001.mp3",
+    "size": 50198,
+    "sha256": "85b71d454c9aa9246ff30a2bd24dc434a48e25c84c01b4d86320bf2f22f093f0"
+  },
+  {
+    "path": "Production/Voices/Pilot Round 2/Scene01/S01-D16-ghost-take001.txt",
+    "size": 43,
+    "sha256": "1a5f959eb35bb2c457cbcf2bf6bf18e60206e37d16afd9e6467bfc00aecd785a"
+  },
+  {
+    "path": "Production/Voices/Pilot Round 2/Scene01/S01-D17-trixie-take001-alignment.json",
+    "size": 4034,
+    "sha256": "380affeaadc0964a4e1a703b6c254aa0c84fb5440f5c4b23ae3f75dc79a4cbb5"
+  },
+  {
+    "path": "Production/Voices/Pilot Round 2/Scene01/S01-D17-trixie-take001.json",
+    "size": 844,
+    "sha256": "3901b6653f3ac64df46b6c1c4b5e6a70cb6ebef4b69c7cad64c8ee02ef57b6a4"
+  },
+  {
+    "path": "Production/Voices/Pilot Round 2/Scene01/S01-D17-trixie-take001.mp3",
+    "size": 40585,
+    "sha256": "754034e203627c42dd658c44544f36e052673aeac1975690e9fd1228ea847266"
+  },
+  {
+    "path": "Production/Voices/Pilot Round 2/Scene01/S01-D17-trixie-take001.txt",
+    "size": 46,
+    "sha256": "bddba67a451abf34361ec1a8d49f89f4487edbc796fdf378e58a96cf6a419a95"
+  },
+  {
+    "path": "Production/Voices/Pilot Round 2/Scene01-assembly-timing.json",
+    "size": 3142,
+    "sha256": "12deb0d237e9c078908249ce5becf81ec8f81e1b2b1965fb30542d690af12aaa"
+  },
+  {
+    "path": "Production/Voices/Pilot Round 2/Scene01-dialogue-assembly-v002.mp3",
+    "size": 671285,
+    "sha256": "e1af245e3d6a37ac93b6c0ee1d8582c356b2dcecbae9bbc49ec2940a0286c051"
+  },
+  {
+    "path": "Production/Voices/Pilot Round 2/Scene03/S03-D01-chairman_barkington-villain-controlled-v2-alignment.json",
+    "size": 18030,
+    "sha256": "391740886ba24e979c0f924ba2816caf05ca0936acfa784554d999e73b69739f"
+  },
+  {
+    "path": "Production/Voices/Pilot Round 2/Scene03/S03-D01-chairman_barkington-villain-controlled-v2.json",
+    "size": 1071,
+    "sha256": "293ef0b48a81c5241c63d5c2f97b8364e4fea117f4c67ebc0700b2a992e165ce"
+  },
+  {
+    "path": "Production/Voices/Pilot Round 2/Scene03/S03-D01-chairman_barkington-villain-controlled-v2.mp3",
+    "size": 220307,
+    "sha256": "132a5aa26542fcd869533595341b9c22e0898658b8cdc1c362285db60a112766"
+  },
+  {
+    "path": "Production/Voices/Pilot Round 2/Scene03/S03-D01-chairman_barkington-villain-controlled-v2.txt",
+    "size": 219,
+    "sha256": "736eeb66de1d848aa451e05377659e56c27d7d03cf966b3f3b1ee08fe4e35403"
+  },
+  {
+    "path": "Production/Voices/Pilot Round 2/Scene03/S03-D01-chairman_barkington-villain-directed-v3-alignment.json",
+    "size": 19156,
+    "sha256": "b66e2d940d89e71315bbe6b817b71a609a4437cb5f971e82fecda0030d7e2784"
+  },
+  {
+    "path": "Production/Voices/Pilot Round 2/Scene03/S03-D01-chairman_barkington-villain-directed-v3.json",
+    "size": 1239,
+    "sha256": "f57a83961cd971dc751bb10a116c59061ee46570f3fccee8f705183f73d3845f"
+  },
+  {
+    "path": "Production/Voices/Pilot Round 2/Scene03/S03-D01-chairman_barkington-villain-directed-v3.mp3",
+    "size": 226158,
+    "sha256": "fdb427a8bf3acb2d4fec7ec48a851608fc079defc76b6f60bac17b9719e3b6b8"
+  },
+  {
+    "path": "Production/Voices/Pilot Round 2/Scene03/S03-D01-chairman_barkington-villain-directed-v3.txt",
+    "size": 219,
+    "sha256": "736eeb66de1d848aa451e05377659e56c27d7d03cf966b3f3b1ee08fe4e35403"
+  },
+  {
+    "path": "Production/Voices/Pilot Round 2/Scene05/S05-D01-byte-take001-alignment.json",
+    "size": 4750,
+    "sha256": "496d38df76b017a044161f69657b60b50a586eda837813d0cbe99bbea4e08fbf"
+  },
+  {
+    "path": "Production/Voices/Pilot Round 2/Scene05/S05-D01-byte-take001.json",
+    "size": 838,
+    "sha256": "b41992098c179f07fcada7aaf2b89266e8070f476905009b6b44c16cdc225eec"
+  },
+  {
+    "path": "Production/Voices/Pilot Round 2/Scene05/S05-D01-byte-take001.mp3",
+    "size": 51452,
+    "sha256": "edba6892c03401a4f6089aa74915c7a945f3ef22500c630d128650f81f5ba892"
+  },
+  {
+    "path": "Production/Voices/Pilot Round 2/Scene05/S05-D01-byte-take001.txt",
+    "size": 55,
+    "sha256": "1643e1f479503f5d56c498d29eff0bea8f348d479eb7fd1fe4487b475e9716bb"
+  },
+  {
+    "path": "Production/Voices/Pilot Round 2/Scene05/S05-D02-trixie-take001-alignment.json",
+    "size": 3878,
+    "sha256": "b19def16417515b8b695457f330e9b21b87dbbaf146ca3df637f1e58ebd44d95"
+  },
+  {
+    "path": "Production/Voices/Pilot Round 2/Scene05/S05-D02-trixie-take001.json",
+    "size": 842,
+    "sha256": "831c0a04defaab22d6576af5bb8b70129ee433421477ec1e86a8039a94fa258e"
+  },
+  {
+    "path": "Production/Voices/Pilot Round 2/Scene05/S05-D02-trixie-take001.mp3",
+    "size": 31390,
+    "sha256": "92199ee6b9c06e9e1c28645d14a852f09a9a6c4b525801db3aa3bcb8a3bb64d7"
+  },
+  {
+    "path": "Production/Voices/Pilot Round 2/Scene05/S05-D02-trixie-take001.txt",
+    "size": 44,
+    "sha256": "b47f1ef2f4b6e0487b851902aaf35c61b4ff9ceeef8c8c7b8dba87c96cb90608"
+  },
+  {
+    "path": "Production/Voices/Pilot Round 2/Scene05/S05-D03-byte-take001-alignment.json",
+    "size": 6662,
+    "sha256": "411300f9782cc8237229a33cc4ec9fd343f58756755fb441a85b4f13661ebc43"
+  },
+  {
+    "path": "Production/Voices/Pilot Round 2/Scene05/S05-D03-byte-take001.json",
+    "size": 862,
+    "sha256": "aca2e9605b3b4062a69f2dd07880249e999a4f104491c9eaee024c4b3deb8ada"
+  },
+  {
+    "path": "Production/Voices/Pilot Round 2/Scene05/S05-D03-byte-take001.mp3",
+    "size": 69424,
+    "sha256": "128ebbff88f6429f54741dc0b436a6a070a7b3f9ab5782575a710693cbfc555c"
+  },
+  {
+    "path": "Production/Voices/Pilot Round 2/Scene05/S05-D03-byte-take001.txt",
+    "size": 79,
+    "sha256": "79e0c1453ef1ffd31cadf0ae35c1b160366c8a252199af8ba16cee9e70ec7f5d"
+  },
+  {
+    "path": "Production/Voices/Pilot Round 2/Scene05/S05-D04-trixie-take001-alignment.json",
+    "size": 3406,
+    "sha256": "e163181e367fee7eccb472af00faf8fed36349313be6af2434e02cd650e1367f"
+  },
+  {
+    "path": "Production/Voices/Pilot Round 2/Scene05/S05-D04-trixie-take001.json",
+    "size": 835,
+    "sha256": "3e4f85f970c2ea6f82f004ad8a4123dc4e837821b5f087c3012a5edd40442676"
+  },
+  {
+    "path": "Production/Voices/Pilot Round 2/Scene05/S05-D04-trixie-take001.mp3",
+    "size": 44346,
+    "sha256": "058a2dab04079c72c6f528328a6b9959a66084a9a4745d77b8bcc23f51b47a42"
+  },
+  {
+    "path": "Production/Voices/Pilot Round 2/Scene05/S05-D04-trixie-take001.txt",
+    "size": 38,
+    "sha256": "7a150be9f27c7795dc59ad99177ecd07c2486d3df169e82960465e707d89f375"
+  },
+  {
+    "path": "Production/Voices/Pilot Round 2/Scene05/S05-D05-byte-take001-alignment.json",
+    "size": 5130,
+    "sha256": "5e32189a39cff16d448f53104548e1bbadb9bddcf0632f215c7f7126d57efa3c"
+  },
+  {
+    "path": "Production/Voices/Pilot Round 2/Scene05/S05-D05-byte-take001.json",
+    "size": 843,
+    "sha256": "26aaf653feb736881a9b1bbe0b7dc745d1d72d9d237783403825209b0ea28345"
+  },
+  {
+    "path": "Production/Voices/Pilot Round 2/Scene05/S05-D05-byte-take001.mp3",
+    "size": 54377,
+    "sha256": "8620f648a4e1abeece994a38808d0f6d5f38072b2f8d7e78a1f9cc721f4f8b0e"
+  },
+  {
+    "path": "Production/Voices/Pilot Round 2/Scene05/S05-D05-byte-take001.txt",
+    "size": 60,
+    "sha256": "d7bf3b60900aa31b63b7b6400445778254027f06d9907a07ad843b55dca6913b"
+  },
+  {
+    "path": "Production/Voices/Pilot Round 2/Scene05/S05-D06-trixie-take001-alignment.json",
+    "size": 2686,
+    "sha256": "7152b1fd65e1aa11b2ad98eec995423e189db5063d2045fd7f73490d576f0fcb"
+  },
+  {
+    "path": "Production/Voices/Pilot Round 2/Scene05/S05-D06-trixie-take001.json",
+    "size": 826,
+    "sha256": "14301678d825ad2b9f41414dcf85cd69b7b5713b596e94f87d2b2a7c856d384c"
+  },
+  {
+    "path": "Production/Voices/Pilot Round 2/Scene05/S05-D06-trixie-take001.mp3",
+    "size": 27210,
+    "sha256": "a09055fa02125aeab7bf10ef01e8fc7d9d1958b899e4d760d35cc4b8e703539d"
+  },
+  {
+    "path": "Production/Voices/Pilot Round 2/Scene05/S05-D06-trixie-take001.txt",
+    "size": 29,
+    "sha256": "c35cd55ec691fe7ff6354f29991cc0a965cc6988a694e34f0d47bb72f78b3f74"
+  },
+  {
+    "path": "Production/Voices/Pilot Round 2/Scene05/S05-D07-byte-take001-alignment.json",
+    "size": 3242,
+    "sha256": "05f74eb4bb1943c7d7cf7d483a42aafa1c49763d32b8c3532e38629e39a45226"
+  },
+  {
+    "path": "Production/Voices/Pilot Round 2/Scene05/S05-D07-byte-take001.json",
+    "size": 818,
+    "sha256": "c1b4bb74b4fdafed9eb6bb298c3f2681d60c427c064961ecb05601184aa413a0"
+  },
+  {
+    "path": "Production/Voices/Pilot Round 2/Scene05/S05-D07-byte-take001.mp3",
+    "size": 35151,
+    "sha256": "08849ce6b81483d94d7351cca1f64a204eec566926f111bf587d7be2319f0263"
+  },
+  {
+    "path": "Production/Voices/Pilot Round 2/Scene05/S05-D07-byte-take001.txt",
+    "size": 36,
+    "sha256": "a28b0637441159205015a36d05564d8d1a0a86d333955d3dc132397d8f70999d"
+  },
+  {
+    "path": "Production/Voices/Pilot Round 2/Scene05/S05-D08-trixie-take001-alignment.json",
+    "size": 6290,
+    "sha256": "27ff8f6f9c456b7b967e46ad0f6dbec63f4aec0124ece47ee8572df7df8d2232"
+  },
+  {
+    "path": "Production/Voices/Pilot Round 2/Scene05/S05-D08-trixie-take001.json",
+    "size": 872,
+    "sha256": "852b7fb5e330d19a7cd2b75c8176486222bf25f225e3803220fe0d632ad72b7c"
+  },
+  {
+    "path": "Production/Voices/Pilot Round 2/Scene05/S05-D08-trixie-take001.mp3",
+    "size": 74021,
+    "sha256": "c4ac0341a87d779e74590b6917d333d8cad24a9a41a322100cfc0772f985fa90"
+  },
+  {
+    "path": "Production/Voices/Pilot Round 2/Scene05/S05-D08-trixie-take001.txt",
+    "size": 74,
+    "sha256": "6b3a524ea6d477e8064ac893765aa10065666aed012147209e1db8e791c487ee"
+  },
+  {
+    "path": "Production/Voices/Pilot Round 2/Scene05/S05-D09-byte-take001-alignment.json",
+    "size": 4842,
+    "sha256": "9a5e075eef99390b273ca332058181c7fa34deab7974aff04fb55faf13076e6b"
+  },
+  {
+    "path": "Production/Voices/Pilot Round 2/Scene05/S05-D09-byte-take001.json",
+    "size": 839,
+    "sha256": "085c64dd0f61966733daf332f6d2a81a2fc30f3eff78fb510185dd49f0a5c526"
+  },
+  {
+    "path": "Production/Voices/Pilot Round 2/Scene05/S05-D09-byte-take001.mp3",
+    "size": 51452,
+    "sha256": "ce7fbd909311958c17b5f282c69643c42c488135c37920ac1dd17548999880f5"
+  },
+  {
+    "path": "Production/Voices/Pilot Round 2/Scene05/S05-D09-byte-take001.txt",
+    "size": 56,
+    "sha256": "735c266c5f0c3df32d5c90e6bd1c520d94d7e6ba51450e0986d0ae9bcaf232df"
+  },
+  {
+    "path": "Production/Voices/Pilot Round 2/Scene05/S05-D10-trixie-take001-alignment.json",
+    "size": 3566,
+    "sha256": "9c9dd1a701316519bd68e13d2a0d4fcb454b03356085404dd82b76ebc2a50d73"
+  },
+  {
+    "path": "Production/Voices/Pilot Round 2/Scene05/S05-D10-trixie-take001.json",
+    "size": 837,
+    "sha256": "a7c79e476543fb21926e90de818714f53c94821f24dd1cff2fb0bbf41501a10a"
+  },
+  {
+    "path": "Production/Voices/Pilot Round 2/Scene05/S05-D10-trixie-take001.mp3",
+    "size": 28464,
+    "sha256": "e6d9ff89ba19bb1bb045f976bc836825b3db386567379fb3409b3b076fd7aca4"
+  },
+  {
+    "path": "Production/Voices/Pilot Round 2/Scene05/S05-D10-trixie-take001.txt",
+    "size": 40,
+    "sha256": "2edcad61ffdfc9ba647992238f34f28c1cfa21ba674ccb8cf74c74403e54cb68"
+  },
+  {
+    "path": "Production/Voices/Pilot Round 2/Scene05-assembly-timing.json",
+    "size": 2139,
+    "sha256": "a01c415387bb0537084654d7f7d7d3bd719711ef2627b211337f805fd1c82afd"
+  },
+  {
+    "path": "Production/Voices/Pilot Round 2/Scene05-dialogue-assembly-v002.mp3",
+    "size": 506191,
+    "sha256": "1e6236710c062b10c561ab7574ae6122288c8c81b88b6cbcf26bb918b1129088"
+  },
+  {
     "path": "Production/Voices/pilot-dialogue-from-master.json",
     "size": 84402,
     "sha256": "8527b45bbadf60d4cafb4655496a4673fa111b3957470ba4c76d84033fc6baad"
@@ -11506,8 +12711,8 @@
   },
   {
     "path": "Production/Websites/audio.json",
-    "size": 994,
-    "sha256": "5f1746e1eb4850c58c84f09e778e232dd4c993abe548057101ac7c4e45cf0493"
+    "size": 7748,
+    "sha256": "5928c6a9bc74c3fff3e3c0305507cb4a5ed5126f7d2bea4644f7573e46394449"
   },
   {
     "path": "Production/Websites/catalog.json",
@@ -11543,6 +12748,11 @@
     "path": "Production/Websites/library/0046cc574d900e8d.webp",
     "size": 74768,
     "sha256": "64ed41eb7b968532ccdc27d024686c731fcac3e0f6ba6316d08460baa791c2fa"
+  },
+  {
+    "path": "Production/Websites/library/01512a53e577f0ad.mp3",
+    "size": 38913,
+    "sha256": "01512a53e577f0ad5ed142859a93d8a52230d43857332d776d3d2a9a39c8656d"
   },
   {
     "path": "Production/Websites/library/02bfa57deee94bd4.jpg",
@@ -11590,6 +12800,11 @@
     "sha256": "41772c19b9bc021ac941b9e39152cd6fee6e65f1817a47e9782ec745c46f4d89"
   },
   {
+    "path": "Production/Websites/library/058a2dab04079c72.mp3",
+    "size": 44346,
+    "sha256": "058a2dab04079c72c6f528328a6b9959a66084a9a4745d77b8bcc23f51b47a42"
+  },
+  {
     "path": "Production/Websites/library/05e383f8ab644d67.jpg",
     "size": 1570660,
     "sha256": "668b04fd50eb8cef527ad2a0d36fb5ac0b53ee56107d860c250575a0525b54ea"
@@ -11615,6 +12830,16 @@
     "sha256": "2a39e4082714923f76260964170de9e30d821558a43febc2e6a8262f66a37fba"
   },
   {
+    "path": "Production/Websites/library/06baa0dd3cde4e08.mp3",
+    "size": 15925,
+    "sha256": "06baa0dd3cde4e08a3372b76453f30824a32a25d37618243faec4c7fa883a604"
+  },
+  {
+    "path": "Production/Websites/library/08849ce6b81483d9.mp3",
+    "size": 35151,
+    "sha256": "08849ce6b81483d94d7351cca1f64a204eec566926f111bf587d7be2319f0263"
+  },
+  {
     "path": "Production/Websites/library/0994ed8f1106ef58.jpg",
     "size": 2265447,
     "sha256": "af9c83050b9735f915449413a597c4e53897d121f09a0a90aebd632c24f35c08"
@@ -11628,6 +12853,16 @@
     "path": "Production/Websites/library/0994ed8f1106ef58.webp",
     "size": 73652,
     "sha256": "5ebcb167f8d10289b768ff8b07666037f88359e75cd71bac4afb83b7cc12a70b"
+  },
+  {
+    "path": "Production/Websites/library/128ebbff88f6429f.mp3",
+    "size": 69424,
+    "sha256": "128ebbff88f6429f54741dc0b436a6a070a7b3f9ab5782575a710693cbfc555c"
+  },
+  {
+    "path": "Production/Websites/library/132a5aa26542fcd8.mp3",
+    "size": 220307,
+    "sha256": "132a5aa26542fcd869533595341b9c22e0898658b8cdc1c362285db60a112766"
   },
   {
     "path": "Production/Websites/library/135fa113457eae53.mp3",
@@ -11715,6 +12950,11 @@
     "sha256": "0e03d85dfe82c5fadaccdd2986eca883c94064d32b08f3533a43d8cd0252c086"
   },
   {
+    "path": "Production/Websites/library/1e6236710c062b10.mp3",
+    "size": 506191,
+    "sha256": "1e6236710c062b10c561ab7574ae6122288c8c81b88b6cbcf26bb918b1129088"
+  },
+  {
     "path": "Production/Websites/library/1f5e1611b3acfdbc.jpg",
     "size": 2721306,
     "sha256": "245e9592d0795886fe7edb593cee8c3da3a61fd650c39109d311bd98eadd1943"
@@ -11770,6 +13010,11 @@
     "sha256": "2a856c2ddfb3552aa95fdfaa9c22794216a06fd2f4102255d3def7c6efd6de66"
   },
   {
+    "path": "Production/Websites/library/2b378909e3ed77be.mp3",
+    "size": 33061,
+    "sha256": "2b378909e3ed77be41b5286070ad156314514185a7df3eb4e2cb4d3895072818"
+  },
+  {
     "path": "Production/Websites/library/2d967697465bfaa5.jpg",
     "size": 2960665,
     "sha256": "1b52a68854518688b4f7824d5fb8ad6b4bbbfcfa8092ca2fbf182c2506ed6781"
@@ -11798,6 +13043,11 @@
     "path": "Production/Websites/library/3487a5bc76bab84c.mp3",
     "size": 35151,
     "sha256": "3487a5bc76bab84c613a19538ac1d3bc52cf3188ff5e223af0ed31483f1e8ba1"
+  },
+  {
+    "path": "Production/Websites/library/3bd795b77bfd1453.mp3",
+    "size": 40585,
+    "sha256": "3bd795b77bfd145397126170b8d3ee8f698c34492943d84250a74559523d86a2"
   },
   {
     "path": "Production/Websites/library/3bd909f3e732f8d1.jpg",
@@ -12060,6 +13310,11 @@
     "sha256": "4fddae5a8844e7608184283a39d7f58b4b909459dad757167261762eabb039af"
   },
   {
+    "path": "Production/Websites/library/5c4a58b6f02aa3aa.mp3",
+    "size": 27210,
+    "sha256": "5c4a58b6f02aa3aa54907658d609a5f42d939b4d29589ae171b2cac58015391c"
+  },
+  {
     "path": "Production/Websites/library/61dc338e08cb2385.jpg",
     "size": 1491157,
     "sha256": "e0dd5b1d2736fe26e13a0a6194df901ed32ab41ba47631d8777a4cfaf8004f0b"
@@ -12125,6 +13380,11 @@
     "sha256": "82b48a0b8e85ecaa9bc84580579147a09543598920315886a9b609af08eb10db"
   },
   {
+    "path": "Production/Websites/library/6f7e93070e785fda.mp3",
+    "size": 22612,
+    "sha256": "6f7e93070e785fda1049f7d988e313bb428809f090e055af1a79c0f2b9f64910"
+  },
+  {
     "path": "Production/Websites/library/6f9fc4ce9167a402.jpg",
     "size": 2577326,
     "sha256": "ec9cfe8b784af7dae166c8cc1b5e127dd8d9a4a9a29a5060b230595e67f92238"
@@ -12185,6 +13445,16 @@
     "sha256": "c4673f380ec59204fef48d95af634a57ff24d9a3531f3d20c43c8daf915a22f3"
   },
   {
+    "path": "Production/Websites/library/7385c78a469a020b.mp3",
+    "size": 40585,
+    "sha256": "7385c78a469a020befc74d29ba2a362069252976c2ccdeb6333e20f4a943c223"
+  },
+  {
+    "path": "Production/Websites/library/754034e203627c42.mp3",
+    "size": 40585,
+    "sha256": "754034e203627c42dd658c44544f36e052673aeac1975690e9fd1228ea847266"
+  },
+  {
     "path": "Production/Websites/library/76a032efcdedac1d.mp3",
     "size": 27628,
     "sha256": "76a032efcdedac1d417b71456fed417a68478be2da231476c4610b335c6edeed"
@@ -12240,6 +13510,11 @@
     "sha256": "d43de11a616415b344ebf6ce3d309f6c63db7583b4da7834715b88bd6e885cee"
   },
   {
+    "path": "Production/Websites/library/818608a43905e9cf.mp3",
+    "size": 53123,
+    "sha256": "818608a43905e9cf3c4de74bf44e89e9e3c0d6f8648c5410a97f25a6401d690c"
+  },
+  {
     "path": "Production/Websites/library/82608c9684d59c57.jpg",
     "size": 2361057,
     "sha256": "40fbf71accde4f44eac8f6c3aa13a5e93c1b401d8b371cdebd59ac75bcc56481"
@@ -12268,6 +13543,16 @@
     "path": "Production/Websites/library/8379cb1af3248cc8.webp",
     "size": 52764,
     "sha256": "05c1d28cf143c3338258c6d3bbcfd1b2d436f408195f47c3a29feff5132c14d6"
+  },
+  {
+    "path": "Production/Websites/library/85b71d454c9aa924.mp3",
+    "size": 50198,
+    "sha256": "85b71d454c9aa9246ff30a2bd24dc434a48e25c84c01b4d86320bf2f22f093f0"
+  },
+  {
+    "path": "Production/Websites/library/8620f648a4e1abee.mp3",
+    "size": 54377,
+    "sha256": "8620f648a4e1abeece994a38808d0f6d5f38072b2f8d7e78a1f9cc721f4f8b0e"
   },
   {
     "path": "Production/Websites/library/86db3ad7aec16360.jpg",
@@ -12300,6 +13585,11 @@
     "sha256": "f39b50dde52a77f2ea4f35331d6b8ecff57f1c790a80584da1a2e229963a3678"
   },
   {
+    "path": "Production/Websites/library/8882e5aa14734d9e.mp3",
+    "size": 15925,
+    "sha256": "8882e5aa14734d9e4bfc457c9c1a9072467ae21e22e802d09cbbb6376d046cb4"
+  },
+  {
     "path": "Production/Websites/library/8ac469710ff37bec.jpg",
     "size": 1600775,
     "sha256": "e35bffc26b906afa8e849bb92af043c7b3793b32611f4b6c721400113fdd99ed"
@@ -12330,6 +13620,11 @@
     "sha256": "029134ee5bd658cac8deaff64552c53a07184f740d6a1ffb7dabb47f3a2f35fe"
   },
   {
+    "path": "Production/Websites/library/8e65abf758172867.mp3",
+    "size": 47690,
+    "sha256": "8e65abf7581728673ac0dd4d358338286a862499e329b40485b341332564c9ef"
+  },
+  {
     "path": "Production/Websites/library/90038d12ae861fdb.jpg",
     "size": 3159985,
     "sha256": "eee9ed694b33421e9194d1b021474f3160b848d63090bb9a691e5bbf7e48feac"
@@ -12343,6 +13638,11 @@
     "path": "Production/Websites/library/90038d12ae861fdb.webp",
     "size": 95262,
     "sha256": "fe20e44947be0a802b31e742ad3ea2e6221928106ec446548e8e6530068a6d0a"
+  },
+  {
+    "path": "Production/Websites/library/92199ee6b9c06e9e.mp3",
+    "size": 31390,
+    "sha256": "92199ee6b9c06e9e1c28645d14a852f09a9a6c4b525801db3aa3bcb8a3bb64d7"
   },
   {
     "path": "Production/Websites/library/92693b403069684c.jpg",
@@ -12465,6 +13765,11 @@
     "sha256": "5a7a2b9d9759616b7d092772a449e989766f6f43a96ec26fe2842518a91c270b"
   },
   {
+    "path": "Production/Websites/library/a09055fa02125aea.mp3",
+    "size": 27210,
+    "sha256": "a09055fa02125aeab7bf10ef01e8fc7d9d1958b899e4d760d35cc4b8e703539d"
+  },
+  {
     "path": "Production/Websites/library/a207a669e0948779.jpg",
     "size": 1052906,
     "sha256": "0e85eb20cc189916b6e79c3a49b93f6d46ecd714ba7dd6e8ac86aa6bcba2dc9e"
@@ -12508,6 +13813,11 @@
     "path": "Production/Websites/library/aafc818847c1406d.webp",
     "size": 88324,
     "sha256": "c5f21e44786c2c321eaf1e1b6e6f3aee6f8080f74e4ecbd4372e0feeee15636e"
+  },
+  {
+    "path": "Production/Websites/library/ad385f5b4a5245a5.mp3",
+    "size": 49362,
+    "sha256": "ad385f5b4a5245a54eb3f27a136026aaaef6331ce7d6bcaf929228902d9bb6fe"
   },
   {
     "path": "Production/Websites/library/addbc3d6819f5434.jpg",
@@ -12665,6 +13975,11 @@
     "sha256": "3f2e8695fff750a22f588b52ffbfbc7da358835447993076a1c55cd62e5751e7"
   },
   {
+    "path": "Production/Websites/library/c4ac0341a87d779e.mp3",
+    "size": 74021,
+    "sha256": "c4ac0341a87d779e74590b6917d333d8cad24a9a41a322100cfc0772f985fa90"
+  },
+  {
     "path": "Production/Websites/library/c53f980705f2b3ca.jpg",
     "size": 1582178,
     "sha256": "b02918cad064572c10d971a5082b0b21acc1cb6b64f396e26e2e6f77fabd6ab8"
@@ -12743,6 +14058,11 @@
     "path": "Production/Websites/library/cdc6d5998fc4d777.mp3",
     "size": 216545,
     "sha256": "cdc6d5998fc4d7774d97e5ceb819e2d85c8e7d8796c9f7849b64e83cc2635b65"
+  },
+  {
+    "path": "Production/Websites/library/ce7fbd909311958c.mp3",
+    "size": 51452,
+    "sha256": "ce7fbd909311958c17b5f282c69643c42c488135c37920ac1dd17548999880f5"
   },
   {
     "path": "Production/Websites/library/d006767f6e8dd0f9.jpg",
@@ -12850,6 +14170,11 @@
     "sha256": "6e15e6911bfa4f6492d64c49d8c6fea708f49de9c8c1e1cc8c47ae1f7c1ca59e"
   },
   {
+    "path": "Production/Websites/library/d9fbaee68ad9e5c3.mp3",
+    "size": 21776,
+    "sha256": "d9fbaee68ad9e5c3fbd29dc8b5d3f2ddea43441e5f74d6d4662b0cf67c7d5541"
+  },
+  {
     "path": "Production/Websites/library/da9e9b230cb00baf.jpg",
     "size": 1231945,
     "sha256": "f028e4d6654d08124fb256eb6489868962b928e84147bf69d47f96d5879e3e5a"
@@ -12910,6 +14235,11 @@
     "sha256": "512116f271605a9031a4eca98210d7dfe87a954b28edad1666dd6daa5ae2111d"
   },
   {
+    "path": "Production/Websites/library/e1af245e3d6a37ac.mp3",
+    "size": 671285,
+    "sha256": "e1af245e3d6a37ac93b6c0ee1d8582c356b2dcecbae9bbc49ec2940a0286c051"
+  },
+  {
     "path": "Production/Websites/library/e39d19829b3a3c47.jpg",
     "size": 1533260,
     "sha256": "4c4624eb7df09de3640b429490e99c18eb7ace060052395b7a04c80eb02759d0"
@@ -12923,6 +14253,11 @@
     "path": "Production/Websites/library/e39d19829b3a3c47.webp",
     "size": 43094,
     "sha256": "7a137295585db519695c9ffef5689039b7c8cbb1ea799a94c95ec00bcd1e99d1"
+  },
+  {
+    "path": "Production/Websites/library/e6d9ff89ba19bb1b.mp3",
+    "size": 28464,
+    "sha256": "e6d9ff89ba19bb1bb045f976bc836825b3db386567379fb3409b3b076fd7aca4"
   },
   {
     "path": "Production/Websites/library/eac10c840daadc5d.jpg",
@@ -12940,9 +14275,24 @@
     "sha256": "0d857c099e8a824a94ac4949ea34290ada37e59bb4825768663db3f3911cef24"
   },
   {
+    "path": "Production/Websites/library/edba6892c03401a4.mp3",
+    "size": 51452,
+    "sha256": "edba6892c03401a4f6089aa74915c7a945f3ef22500c630d128650f81f5ba892"
+  },
+  {
+    "path": "Production/Websites/library/f17afb44f68acf74.mp3",
+    "size": 38913,
+    "sha256": "f17afb44f68acf74d110c5befc34d0611ba2e61da4e1bee6bdd3aa8621c0af1f"
+  },
+  {
     "path": "Production/Websites/library/f2b3fc3444d12f1e.mp3",
     "size": 28464,
     "sha256": "f2b3fc3444d12f1ea3432a3a9ba1037b0224628d351bbfd7b611a47db40a1d17"
+  },
+  {
+    "path": "Production/Websites/library/f566da8f795b96b4.mp3",
+    "size": 44346,
+    "sha256": "f566da8f795b96b49895b7e6243b65db72bbf471c275d84c6f5271e9eca29595"
   },
   {
     "path": "Production/Websites/library/f67ac5a346ad1a6d.jpg",
@@ -13030,6 +14380,16 @@
     "sha256": "a994b689ef3d452cfcd009916e23dbb8f26067d1d3e33d6c11e8adb8690e2c10"
   },
   {
+    "path": "Production/Websites/library/fd5f566859105b8b.mp3",
+    "size": 26374,
+    "sha256": "fd5f566859105b8b53dc79df6d6560e5297dfec5b4426d276142f9af867f00fd"
+  },
+  {
+    "path": "Production/Websites/library/fdb427a8bf3acb2d.mp3",
+    "size": 226158,
+    "sha256": "fdb427a8bf3acb2d4fec7ec48a851608fc079defc76b6f60bac17b9719e3b6b8"
+  },
+  {
     "path": "Production/Websites/README.md",
     "size": 2327,
     "sha256": "299c3c13d0a0ec6d021c9a7a8f7d7dbf638fd1c9fda3e29a47724b45653a73c3"
@@ -13066,8 +14426,8 @@
   },
   {
     "path": "Production/Websites/templates/audio.html",
-    "size": 981,
-    "sha256": "70c26a089a5f060440642508e0210f276405ef88e7c6b257b2737ef42b11bd70"
+    "size": 1315,
+    "sha256": "b0e07a1c5c84c4e83a674caedd896c0bc605434ac7723cca2bf7e00883890fa9"
   },
   {
     "path": "Production/Websites/templates/auth.html",

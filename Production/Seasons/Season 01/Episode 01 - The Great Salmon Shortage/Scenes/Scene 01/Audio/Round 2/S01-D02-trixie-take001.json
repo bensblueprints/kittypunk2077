@@ -1,0 +1,23 @@
+{
+  "line_id": "S01-D02",
+  "scene": 1,
+  "role_id": "trixie",
+  "text": "Relax. I found a shortcut.",
+  "variant": "take001",
+  "model": "eleven_multilingual_v2",
+  "voice_id": "dmWfLQZJq7wNPv9WmtiM",
+  "voice_name": "Emma — Wry, Gritty Hero",
+  "settings": {
+    "stability": 0.35,
+    "similarity_boost": 0.8,
+    "style": 0.55,
+    "use_speaker_boost": true
+  },
+  "duration_sec": 1.578957,
+  "sha256": "fd5f566859105b8b53dc79df6d6560e5297dfec5b4426d276142f9af867f00fd",
+  "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Voices\\Pilot Round 2\\Scene01\\S01-D02-trixie-take001.mp3",
+  "provider_character_cost": "6",
+  "request_id": "YZkSQXWZaC37VPR7bDtp",
+  "status": "review_take",
+  "created_utc": "2026-11-06T22:42:33.044007+00:00"
+}

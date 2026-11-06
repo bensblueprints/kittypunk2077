@@ -1,0 +1,23 @@
+{
+  "line_id": "S01-D06",
+  "scene": 1,
+  "role_id": "neon",
+  "text": "Because she keeps driving into buildings!",
+  "variant": "take001",
+  "model": "eleven_multilingual_v2",
+  "voice_id": "4e32WqNVWRquDa1OcRYZ",
+  "voice_name": "Ryan — Product Reviewer",
+  "settings": {
+    "stability": 0.5,
+    "similarity_boost": 0.75,
+    "style": 0.15,
+    "use_speaker_boost": true
+  },
+  "duration_sec": 2.368435,
+  "sha256": "f17afb44f68acf74d110c5befc34d0611ba2e61da4e1bee6bdd3aa8621c0af1f",
+  "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Voices\\Pilot Round 2\\Scene01\\S01-D06-neon-take001.mp3",
+  "provider_character_cost": "9",
+  "request_id": "VkMOQ5oxARMRm4iAoMaZ",
+  "status": "review_take",
+  "created_utc": "2026-11-06T22:42:36.467299+00:00"
+}

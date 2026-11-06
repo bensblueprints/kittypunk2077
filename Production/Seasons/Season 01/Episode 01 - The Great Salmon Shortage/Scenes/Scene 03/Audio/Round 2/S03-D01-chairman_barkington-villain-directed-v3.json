@@ -1,0 +1,22 @@
+{
+  "line_id": "S03-D01",
+  "scene": 3,
+  "role_id": "chairman_barkington",
+  "text": "[sternly] Citizens of Districts Seven through Twelve. Due to an unprecedented salmon supply emergency, you are advised to acquire no less than thirty days of fresh salmon immediately. [coldly] Goodboy Global thanks you for your obedience.",
+  "spoken_text": "Citizens of Districts Seven through Twelve. Due to an unprecedented salmon supply emergency, you are advised to acquire no less than thirty days of fresh salmon immediately. Goodboy Global thanks you for your obedience.",
+  "variant": "villain-directed-v3",
+  "model": "eleven_v3",
+  "voice_id": "nPczCjzI2devNBz1zQrb",
+  "voice_name": "Brian",
+  "settings": {
+    "stability": 0.5,
+    "similarity_boost": 0.75
+  },
+  "duration_sec": 14.08,
+  "sha256": "fdb427a8bf3acb2d4fec7ec48a851608fc079defc76b6f60bac17b9719e3b6b8",
+  "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Voices\\Pilot Round 2\\Scene03\\S03-D01-chairman_barkington-villain-directed-v3.mp3",
+  "provider_character_cost": "52",
+  "request_id": "6V1TtaLHiVwS8EbVGqlU",
+  "status": "review_take",
+  "created_utc": "2026-11-06T22:42:55.448807+00:00"
+}

@@ -1,0 +1,69 @@
+{
+  "scene": 5,
+  "dialogue_assembly_seconds": 31.560544217687074,
+  "scene_target_seconds": 60,
+  "remaining_for_action_and_transitions_seconds": 28.439455782312926,
+  "note": "Dialogue-only review assembly. No score, effects, animation or final scene timing. Do not stretch this to fill the scene.",
+  "placements": [
+    {
+      "line_id": "S05-D01",
+      "start": 0.0,
+      "end": 3.1579138321995464,
+      "text": "Thirty bucks for a piece of fish? Last week it was ten!"
+    },
+    {
+      "line_id": "S05-D02",
+      "start": 3.4579138321995466,
+      "end": 5.361950113378684,
+      "text": "Check the price history. When did it change?"
+    },
+    {
+      "line_id": "S05-D03",
+      "start": 5.661950113378685,
+      "end": 9.934421768707484,
+      "text": "Before the broadcast. They raised it before anyone knew there was an emergency."
+    },
+    {
+      "line_id": "S05-D04",
+      "start": 10.234421768707483,
+      "end": 12.927936507936508,
+      "text": "They knew. We were the last ones told."
+    },
+    {
+      "line_id": "S05-D05",
+      "start": 13.227936507936509,
+      "end": 16.571609977324265,
+      "text": "Two packs left. At this price, we can afford to look at one."
+    },
+    {
+      "line_id": "S05-D06",
+      "start": 16.871609977324262,
+      "end": 18.49700680272109,
+      "text": "They are manufacturing panic."
+    },
+    {
+      "line_id": "S05-D07",
+      "start": 18.79700680272109,
+      "end": 20.933242630385486,
+      "text": "Well, it is working. I am panicking."
+    },
+    {
+      "line_id": "S05-D08",
+      "start": 21.233242630385487,
+      "end": 25.7843537414966,
+      "text": "Save the timestamp. And the old price. We need something people can check."
+    },
+    {
+      "line_id": "S05-D09",
+      "start": 26.0843537414966,
+      "end": 29.242267573696147,
+      "text": "Done. Apparently dinner now comes with an investigation."
+    },
+    {
+      "line_id": "S05-D10",
+      "start": 29.542267573696144,
+      "end": 31.260544217687073,
+      "text": "We are going to tell the whole district."
+    }
+  ]
+}

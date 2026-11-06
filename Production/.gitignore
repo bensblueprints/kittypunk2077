@@ -1,0 +1,5 @@
+PRIVATE-ACCESS.txt
+.env
+.env.*
+__pycache__/
+Websites/data/

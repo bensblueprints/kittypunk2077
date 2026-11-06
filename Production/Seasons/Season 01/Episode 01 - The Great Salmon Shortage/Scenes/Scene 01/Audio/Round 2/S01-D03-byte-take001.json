@@ -1,0 +1,23 @@
+{
+  "line_id": "S01-D03",
+  "scene": 1,
+  "role_id": "byte",
+  "text": "Through the bank we just robbed?",
+  "variant": "take001",
+  "model": "eleven_multilingual_v2",
+  "voice_id": "wo6udizrrtpIxWGp2qJk",
+  "voice_name": "Northern Terry",
+  "settings": {
+    "stability": 0.5,
+    "similarity_boost": 0.75,
+    "style": 0.15,
+    "use_speaker_boost": true
+  },
+  "duration_sec": 1.625397,
+  "sha256": "5c4a58b6f02aa3aa54907658d609a5f42d939b4d29589ae171b2cac58015391c",
+  "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Voices\\Pilot Round 2\\Scene01\\S01-D03-byte-take001.mp3",
+  "provider_character_cost": "7",
+  "request_id": "1oGpwKnkywvn92W8GWky",
+  "status": "review_take",
+  "created_utc": "2026-11-06T22:42:33.534904+00:00"
+}

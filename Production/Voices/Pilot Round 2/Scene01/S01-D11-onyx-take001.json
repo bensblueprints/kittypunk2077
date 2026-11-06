@@ -1,0 +1,23 @@
+{
+  "line_id": "S01-D11",
+  "scene": 1,
+  "role_id": "onyx",
+  "text": "Keep testing me.",
+  "variant": "take001",
+  "model": "eleven_multilingual_v2",
+  "voice_id": "uq0HIbNZKn11Hs5ifEdd",
+  "voice_name": "Harry — Fierce Warrior",
+  "settings": {
+    "stability": 0.5,
+    "similarity_boost": 0.75,
+    "style": 0.15,
+    "use_speaker_boost": true
+  },
+  "duration_sec": 1.300317,
+  "sha256": "d9fbaee68ad9e5c3fbd29dc8b5d3f2ddea43441e5f74d6d4662b0cf67c7d5541",
+  "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Voices\\Pilot Round 2\\Scene01\\S01-D11-onyx-take001.mp3",
+  "provider_character_cost": "4",
+  "request_id": "4sKJC9PHkO7jLk8Hk1n2",
+  "status": "review_take",
+  "created_utc": "2026-11-06T22:42:39.430266+00:00"
+}

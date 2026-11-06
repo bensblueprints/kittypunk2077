@@ -1,0 +1,23 @@
+{
+  "line_id": "S01-D07",
+  "scene": 1,
+  "role_id": "trixie",
+  "text": "Nobody appreciates experimental driving.",
+  "variant": "take001",
+  "model": "eleven_multilingual_v2",
+  "voice_id": "dmWfLQZJq7wNPv9WmtiM",
+  "voice_name": "Emma — Wry, Gritty Hero",
+  "settings": {
+    "stability": 0.35,
+    "similarity_boost": 0.8,
+    "style": 0.55,
+    "use_speaker_boost": true
+  },
+  "duration_sec": 1.996916,
+  "sha256": "2b378909e3ed77be41b5286070ad156314514185a7df3eb4e2cb4d3895072818",
+  "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Voices\\Pilot Round 2\\Scene01\\S01-D07-trixie-take001.mp3",
+  "provider_character_cost": "9",
+  "request_id": "az7M0Yw4KqsZ3SkpUkWO",
+  "status": "review_take",
+  "created_utc": "2026-11-06T22:42:37.032973+00:00"
+}

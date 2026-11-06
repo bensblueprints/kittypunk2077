@@ -1,0 +1,23 @@
+{
+  "line_id": "S05-D06",
+  "scene": 5,
+  "role_id": "trixie",
+  "text": "They are manufacturing panic.",
+  "variant": "take001",
+  "model": "eleven_multilingual_v2",
+  "voice_id": "dmWfLQZJq7wNPv9WmtiM",
+  "voice_name": "Emma — Wry, Gritty Hero",
+  "settings": {
+    "stability": 0.35,
+    "similarity_boost": 0.8,
+    "style": 0.55,
+    "use_speaker_boost": true
+  },
+  "duration_sec": 1.625397,
+  "sha256": "a09055fa02125aeab7bf10ef01e8fc7d9d1958b899e4d760d35cc4b8e703539d",
+  "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Voices\\Pilot Round 2\\Scene05\\S05-D06-trixie-take001.mp3",
+  "provider_character_cost": "6",
+  "request_id": "vxPegyH7o3s5hCMzCioV",
+  "status": "review_take",
+  "created_utc": "2026-11-06T22:42:46.852746+00:00"
+}

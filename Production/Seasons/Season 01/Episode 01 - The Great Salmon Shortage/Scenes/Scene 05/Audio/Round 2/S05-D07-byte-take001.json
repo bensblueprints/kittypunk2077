@@ -1,0 +1,23 @@
+{
+  "line_id": "S05-D07",
+  "scene": 5,
+  "role_id": "byte",
+  "text": "Well, it is working. I am panicking.",
+  "variant": "take001",
+  "model": "eleven_multilingual_v2",
+  "voice_id": "wo6udizrrtpIxWGp2qJk",
+  "voice_name": "Northern Terry",
+  "settings": {
+    "stability": 0.5,
+    "similarity_boost": 0.75,
+    "style": 0.15,
+    "use_speaker_boost": true
+  },
+  "duration_sec": 2.136236,
+  "sha256": "08849ce6b81483d94d7351cca1f64a204eec566926f111bf587d7be2319f0263",
+  "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Voices\\Pilot Round 2\\Scene05\\S05-D07-byte-take001.mp3",
+  "provider_character_cost": "8",
+  "request_id": "hIPz9DQjdCcfK3hLPjm2",
+  "status": "review_take",
+  "created_utc": "2026-11-06T22:42:47.391142+00:00"
+}

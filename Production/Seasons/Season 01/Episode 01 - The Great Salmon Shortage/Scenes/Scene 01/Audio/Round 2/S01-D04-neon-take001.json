@@ -1,0 +1,23 @@
+{
+  "line_id": "S01-D04",
+  "scene": 1,
+  "role_id": "neon",
+  "text": "My controller has input lag. I pressed jump yesterday.",
+  "variant": "take001",
+  "model": "eleven_multilingual_v2",
+  "voice_id": "4e32WqNVWRquDa1OcRYZ",
+  "voice_name": "Ryan — Product Reviewer",
+  "settings": {
+    "stability": 0.5,
+    "similarity_boost": 0.75,
+    "style": 0.15,
+    "use_speaker_boost": true
+  },
+  "duration_sec": 3.250794,
+  "sha256": "818608a43905e9cf3c4de74bf44e89e9e3c0d6f8648c5410a97f25a6401d690c",
+  "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Voices\\Pilot Round 2\\Scene01\\S01-D04-neon-take001.mp3",
+  "provider_character_cost": "12",
+  "request_id": "X0gSz4cZYo6aRssIVuEp",
+  "status": "review_take",
+  "created_utc": "2026-11-06T22:42:34.692887+00:00"
+}

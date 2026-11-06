@@ -1,0 +1,23 @@
+{
+  "line_id": "S01-D17",
+  "scene": 1,
+  "role_id": "trixie",
+  "text": "Rematch. Nobody leaves the couch until we win.",
+  "variant": "take001",
+  "model": "eleven_multilingual_v2",
+  "voice_id": "dmWfLQZJq7wNPv9WmtiM",
+  "voice_name": "Emma — Wry, Gritty Hero",
+  "settings": {
+    "stability": 0.35,
+    "similarity_boost": 0.8,
+    "style": 0.55,
+    "use_speaker_boost": true
+  },
+  "duration_sec": 2.461315,
+  "sha256": "754034e203627c42dd658c44544f36e052673aeac1975690e9fd1228ea847266",
+  "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Voices\\Pilot Round 2\\Scene01\\S01-D17-trixie-take001.mp3",
+  "provider_character_cost": "10",
+  "request_id": "YalY5MNwPRHeU12KTWne",
+  "status": "review_take",
+  "created_utc": "2026-11-06T22:42:43.075015+00:00"
+}

@@ -1,0 +1,23 @@
+{
+  "line_id": "S01-D13",
+  "scene": 1,
+  "role_id": "trixie",
+  "text": "How? We are still inside the bank.",
+  "variant": "take001",
+  "model": "eleven_multilingual_v2",
+  "voice_id": "dmWfLQZJq7wNPv9WmtiM",
+  "voice_name": "Emma — Wry, Gritty Hero",
+  "settings": {
+    "stability": 0.35,
+    "similarity_boost": 0.8,
+    "style": 0.55,
+    "use_speaker_boost": true
+  },
+  "duration_sec": 2.368435,
+  "sha256": "01512a53e577f0ad5ed142859a93d8a52230d43857332d776d3d2a9a39c8656d",
+  "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Voices\\Pilot Round 2\\Scene01\\S01-D13-trixie-take001.mp3",
+  "provider_character_cost": "7",
+  "request_id": "NcyhwDd0aWhxFV9gCsdH",
+  "status": "review_take",
+  "created_utc": "2026-11-06T22:42:40.597148+00:00"
+}

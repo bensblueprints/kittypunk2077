@@ -1,0 +1,23 @@
+{
+  "line_id": "S01-D05",
+  "scene": 1,
+  "role_id": "onyx",
+  "text": "You are in a car. Why are you pressing jump?",
+  "variant": "take001",
+  "model": "eleven_multilingual_v2",
+  "voice_id": "uq0HIbNZKn11Hs5ifEdd",
+  "voice_name": "Harry — Fierce Warrior",
+  "settings": {
+    "stability": 0.5,
+    "similarity_boost": 0.75,
+    "style": 0.15,
+    "use_speaker_boost": true
+  },
+  "duration_sec": 2.693515,
+  "sha256": "f566da8f795b96b49895b7e6243b65db72bbf471c275d84c6f5271e9eca29595",
+  "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Voices\\Pilot Round 2\\Scene01\\S01-D05-onyx-take001.mp3",
+  "provider_character_cost": "10",
+  "request_id": "dAFRTvr6vKJioyOHTPgK",
+  "status": "review_take",
+  "created_utc": "2026-11-06T22:42:35.849072+00:00"
+}
