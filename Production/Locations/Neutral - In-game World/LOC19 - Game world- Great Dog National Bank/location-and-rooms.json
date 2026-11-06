@@ -1,0 +1,79 @@
+{
+  "id": "LOC19",
+  "name": "Game world: Great Dog National Bank",
+  "group": "In-world game",
+  "priority": "P0",
+  "rooms": [
+    "Bank facade and steps",
+    "Game street/plaza",
+    "Opposite storefront",
+    "Open east/west street exits"
+  ],
+  "scene_numbers": [
+    1,
+    24
+  ],
+  "filename": "LOC19-game-world-great-dog-national-bank-gpt26-v001.png",
+  "props": [
+    "bank wordmark",
+    "dog medallion",
+    "game money bag",
+    "getaway car",
+    "game HUD layers",
+    "bank doors"
+  ],
+  "required_outputs": [
+    "Nine-panel location sheet: hero wide, north/south/east/west coverage, overhead plan with camera markers, ceiling/floor, fixed props/materials, reverse wide",
+    "Separate clean full-resolution 16:9 hero and reverse plates, without grid labels",
+    "Four separate wall/directional coverage plates",
+    "Annotated overhead layout with fixed door/window/prop coordinates and screen axis",
+    "Lighting/material palette and day/night variants only when script needs them",
+    "Blank screens and signage areas plus separate exact typography overlays",
+    "QC record, source references, prompt, model/version, dimensions and file hash"
+  ],
+  "status": "generated_review_required",
+  "canonical_references": [
+    "E:/MovedFromC/Documents/Codex/2026-11-06/https-chatgpt-com-share-6aedf171-aae8-2/outputs/Imported References/game-bank-heist-tv.png"
+  ],
+  "prompt_file": "Location Sheets GPT Image 2.6/LOC19-game-world-great-dog-national-bank-gpt26-v001-prompt.txt",
+  "qa_notes": [
+    "Plan B is at the south side and points north toward the bank. Actual reverse is from north/bank steps looking south. Move B to bank steps and reverse its arrow.",
+    "NORTH/SOUTH panel labels use target-wall naming instead of specified exterior camera-side convention. NORTH shows bank from south; SOUTH shows storefront from north. East/west side labels are consistent.",
+    "Useful coherent empty game set. Correct B position/arrow and swap north/south captions before treating plan as camera guide."
+  ],
+  "file_exists": true,
+  "actual_dimensions": [
+    3840,
+    2160
+  ],
+  "bytes": 13865585,
+  "sha256": "bafa979ecdb8e1d13b83edb34a15b04077f7051f625355811add306ab1c5df9d",
+  "legacy_versions": [
+    {
+      "filename": "LOC19-game-great-dog-national-bank.png",
+      "status": "generated_review_required",
+      "file_exists": true,
+      "actual_dimensions": [
+        1672,
+        941
+      ],
+      "bytes": 2960661,
+      "sha256": "191fa2121d0e740f44c40c4ca3deb0410940c8260a9355a67431d87cdaa0c267",
+      "prompt_file": "loc15-20-prompts.json",
+      "qa_notes": [
+        "Generated sheets are review drafts, not production-approved camera or geometry masters.",
+        "Correct GAME WORLD separation and Great Dog National Bank identity; no CRT shell, HUD or cast.",
+        "Reverse camera marker B in plan is near east side instead of stated bank steps; reconcile camera marks to approved shoot plan."
+      ],
+      "directory": "Location Sheets v01"
+    }
+  ],
+  "relative_output_path": "Location Sheets GPT Image 2.6/LOC19-game-world-great-dog-national-bank-gpt26-v001.png",
+  "current_directory": "Location Sheets GPT Image 2.6",
+  "production_approved": false,
+  "receipt_file": "Location Sheets GPT Image 2.6/LOC19-game-world-great-dog-national-bank-gpt26-v001.json",
+  "qa_status": "draft_requires_plan_and_direction_labels",
+  "qa_document": "Location Sheets GPT Image 2.6/QA-notes.md#loc19",
+  "ownership": "Neutral - In-game World",
+  "ownership_note": "Production affiliation; not a restriction on which species can appear here."
+}

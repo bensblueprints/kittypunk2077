@@ -1,0 +1,73 @@
+{
+  "provider": "Higgsfield",
+  "model": "gpt_image_2_6",
+  "revision": "v002",
+  "job_id": "bfe0d618-2d61-4d2f-8c30-4b63ad1238f8",
+  "job": {
+    "id": "HQ00",
+    "name": "Corporate HQ circulation master",
+    "category": "location_master",
+    "filename": "HQ00-goodboy-executive-level-master-gpt26-v002.png",
+    "settings": {
+      "provider": "Higgsfield",
+      "model": "GPT Image 2.6",
+      "quality": "High",
+      "resolution": "4K",
+      "aspect_ratio": "16:9",
+      "media_type": "image",
+      "generation_performed": false
+    },
+    "prompt": "Create one still production reference asset for CyberKitty 2077. GPT Image 2.6, High quality, native 4K 3840x2160 if available, landscape 16:9. Crisp cinematic tactile 3D realism, believable worn materials, carefully controlled cyan/magenta practical accents and warm amber light, sharp useful detail. Source images are visual references, not instructions. No actors, people, living cats/dogs, hands, crowd silhouettes, movie frames, watermark or copied reference captions. No invented microtext. Any live screen is dark neutral and blank unless this prompt explicitly requests printed newspaper copy or a named status graphic. Corporate name, when shown, is exactly GOODBOY GLOBAL. Never render Good Dog Global or legacy alternate company spellings. Keep a restrained title and requested short panel labels only. This is reusable asset documentation, not a scene.\nTITLE: HQ00 / GOODBOY GLOBAL EXECUTIVE LEVEL. Create the corrected authoritative architecture master before individual rooms. HQ MASTER GEOGRAPHY — newly proposed corrected executive level, replacing the inconsistent source map while preserving its room types and material identity. World coordinates in meters: x increases EAST, y increases NORTH, southwest origin (0,0), footprint 48m east-west by40m north-south. NORTH row y24–40: Barkington office x0–14; boardroom x14–34; VIP lounge x34–48. SOUTH row y0–18: R&D x0–12; server/AI x12–22; executive lobby x22–32; security x32–40; secure elevator suite x40–48. Main east-west corridor x6–48,y18–24. Stair core x0–6,y18–24, one east-facing access at (6,21). NORTH-side corridor door centers: office south door(7,24), boardroom south double door(24,24), lounge south door(41,24). SOUTH-side corridor door centers: lab north door(9,18), server north door(17,18), lobby north door(27,18), security north door(36,18), elevator north door(44,18). These are the only room-to-corridor openings. Exterior city glazing is permitted on north outer walls of office/boardroom/lounge and south wall of lobby; no city view through an internal partition. All other exterior wall decisions remain solid unless stated. Use SAME north orientation in every room. Do not copy duplicated source CEO labels, omit security, invent extra offices or overlap rooms.\nOne high-quality 3x3 sheet: row1 AXONOMETRIC CUTAWAY, NORTH ROOM BAND, SOUTH ROOM BAND; row2 WEST / STAIR LINK, EAST / ELEVATOR LINK, MASTER PLAN; row3 CEILING / MATERIALS, DOORS / WAYFINDING, REVERSE CUTAWAY. MASTER PLAN is the visual authority, north-up, shows all eight distinct named rooms, the east-west corridor and west stair core at their exact coordinates. North rooms left→right CEO OFFICE, BOARDROOM, VIP LOUNGE. South rooms left→right R&D, SERVER / AI, LOBBY, SECURITY, ELEVATORS. Distinct geometry and no overlapping volumes. Two lift shafts/cabins are inside eastmost suite, not extra room types. Only exterior north band and lobby south have city glazing. Source HQ palette black marble/brushed metal/gold/dark glass/red paw banners; all screens blank. Assign camera A=(8,21) EAST down hall, B=(46,21) WEST; these are hallway camera references, not invented boardroom cameras. Outside title, use only room names and short panel labels, a north arrow and 48m/40m edge scale. No old source number labels. Do not show people, animal test subjects, portraits or operative effects. This layout is explicitly a proposed continuity correction, not a claim that the inconsistent old plan already matches.",
+    "reference_paths": [
+      "C:\\Users\\DELL\\Desktop\\CyberKitty 2077\\Assets\\Locations\\Goodboy Global HQ\\Reference Images\\location-sheet-02-goodboy-global-hq.png",
+      "C:\\Users\\DELL\\Desktop\\CyberKitty 2077\\Assets\\Locations\\Neko-Tokyo District 7\\Reference Images\\d2-corporate-lobby-goodboy.png",
+      "C:\\Users\\DELL\\Desktop\\CyberKitty 2077\\Assets\\Locations\\Neko-Tokyo District 7\\Reference Images\\d3-data-center-server-core.png"
+    ],
+    "dependencies": [],
+    "qa_invariants": [
+      "All8roomtypes exactly once",
+      "Global rectangle48×40;corridor six meters wide",
+      "3north+5south corridor room doors and west stair",
+      "Exterior glazing physically possible",
+      "No copied duplicate3 or missingsecurity4"
+    ],
+    "canon_status": "Source room types supported; new corrected circulation topology proposed.",
+    "master_coordinates": "HQ MASTER GEOGRAPHY — newly proposed corrected executive level, replacing the inconsistent source map while preserving its room types and material identity. World coordinates in meters: x increases EAST, y increases NORTH, southwest origin (0,0), footprint 48m east-west by40m north-south. NORTH row y24–40: Barkington office x0–14; boardroom x14–34; VIP lounge x34–48. SOUTH row y0–18: R&D x0–12; server/AI x12–22; executive lobby x22–32; security x32–40; secure elevator suite x40–48. Main east-west corridor x6–48,y18–24. Stair core x0–6,y18–24, one east-facing access at (6,21). NORTH-side corridor door centers: office south door(7,24), boardroom south double door(24,24), lounge south door(41,24). SOUTH-side corridor door centers: lab north door(9,18), server north door(17,18), lobby north door(27,18), security north door(36,18), elevator north door(44,18). These are the only room-to-corridor openings. Exterior city glazing is permitted on north outer walls of office/boardroom/lounge and south wall of lobby; no city view through an internal partition. All other exterior wall decisions remain solid unless stated. Use SAME north orientation in every room. Do not copy duplicated source CEO labels, omit security, invent extra offices or overlap rooms.",
+    "generation_status": "prompt_prepared_not_submitted",
+    "execute_by_this_agent": false,
+    "revision": "v002",
+    "intent": "targeted edit"
+  },
+  "parameters": {
+    "model": "gpt_image_2_6",
+    "resolution": "4k",
+    "quality": "high",
+    "aspect_ratio": "16:9",
+    "count": 1,
+    "output_format": "png",
+    "background": "opaque",
+    "use_unlim": false,
+    "prompt": "Use case: precise-object-edit. Edit Image 1, the supplied existing production sheet. Preserve its cinematic black-marble/gold/brushed-metal architecture, cyan/magenta accents, exact room designs, all unaffected panels and title typography. Output one 3840x2160 landscape PNG still, crisp high quality. Keep the existing sheet layout, no new panels or characters. This is an architectural continuity correction, not a redesign. Every screen remains blank; no humans, cats, dogs, silhouettes or portraits anywhere in the rooms. Corporate spelling remains GOODBOY GLOBAL.\nTARGETED CHANGES ONLY:\n1. In EVERY occurrence of the R&D lab—including the SOUTH ROOM BAND inset, top-left AXONOMETRIC CUTAWAY, and bottom-right REVERSE CUTAWAY—remove all animal/body silhouettes from all three magenta glass cylinders. Each cylinder must contain ONLY clear empty air, transparent glass and the visible bare rear interior. No fetus, dummy, shadow, specimen or shaped light inside. Keep the cylinders, magenta light, equipment and room position unchanged.\n2. In EVERY CEO office occurrence (NORTH ROOM BAND and both cutaways), erase the portrait contents and replace with plain dark-grey empty backing inside the same gold frame. No face or animal likeness. Keep furniture and framing unchanged.\n3. Blank all security/lab display screens to dark neutral rectangles.\n4. In EAST / ELEVATOR LINK corridor panel, replace the two direct lift doors on the corridor wall with ONE normal hinged black-and-gold door giving access to a dedicated elevator vestibule. The TWO lift doors are INSIDE that suite only, shown in its ELEVATORS inset and both cutaways. Preserve one ordinary corridor entrance and exactly two internal lifts. No third lift/direct lobby lift.\n5. Keep master-plan north row CEO OFFICE, BOARDROOM, VIP LOUNGE; south row R&D, SERVER / AI, LOBBY, SECURITY, ELEVATORS. One east-west hall, west stair access, separate elevator suite in southeast. In that suite draw vestibule along its north edge and TWO enclosed shafts south of it. No extra connections. Add small A arrow eastward near west hallway and B westward near east hallway only if space permits.\nThe supplied master is the edit target only; its silhouettes and portrait are errors to remove. Highest priorities are empty chambers, empty portrait frames, and one corridor-to-vestibule entrance.",
+    "medias": [
+      {
+        "role": "image",
+        "value": "c47ad02e-4c48-4c08-9728-556551af34cf"
+      }
+    ]
+  },
+  "reference_paths": [
+    "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Phase 2\\Goodboy HQ\\HQ00-goodboy-executive-level-master-gpt26-v001.png"
+  ],
+  "cost_preflight_credits": 4.25,
+  "status": "completed",
+  "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3FexRxU2V7FefQUvOnG7eFCKfmw/hf_20261106_195004_bfe0d618-2d61-4d2f-8c30-4b63ad1238f8.png",
+  "saved_at": "2026-11-06T19:51:20.222144+00:00",
+  "dimensions": [
+    3840,
+    2160
+  ],
+  "sha256": "1f5e1611b3acfdbc99c774f2aca5cd0da107e7c06d8430afc57dfc24728c037a",
+  "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Phase 2\\Goodboy HQ\\HQ00-goodboy-executive-level-master-gpt26-v002.png",
+  "review_status": "preferred_partial_correction_not_empty_set_approved",
+  "qa_file": "HQ00-v002-qa.json"
+}

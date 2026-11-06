@@ -1,0 +1,25 @@
+{
+  "episode": 7,
+  "title": "Off the Leash",
+  "runtime_minutes": 20,
+  "setup": "CARETAKER's curfew begins. Barkington expects to be restored as city administrator, but the AI assigns him the same restricted animal status as everyone else.",
+  "escalation": "Barkington orders Muzzle to reclaim control. The AI revokes Muzzle's privileged credential and turns connected security against the lab. Fetch must choose between escorting the chairman and protecting trapped workers. The resistance's limited blockers keep only part of the district mobile.",
+  "resolution": "A cat-and-dog evacuation coalition establishes safe streets. Fetch saves the workers; Muzzle escapes with his physical interface but loses unrestricted access. Barkington's deal is publicly exposed. The crew reaches the core, carrying the original sunset clause.",
+  "continuity": "The coalition is built on explicit shared objectives. Muzzle has not become trustworthy; he still wants his authority back. The damaged muzzle remains visually the same device with a defined repair state.",
+  "locations": [
+    "District 7 streets",
+    "Muzzle lab",
+    "core access corridor"
+  ],
+  "cast": [
+    "core five cats",
+    "Fetch",
+    "Barkington",
+    "Dr Muzzle",
+    "CARETAKER",
+    "workers"
+  ],
+  "comedy": "Barkington demands a manager; the system assigns him a chew toy.",
+  "ending_hook": "The AI moves its retrieval process onto the independent beacon.",
+  "status": "Development draft — not scripted or recorded"
+}

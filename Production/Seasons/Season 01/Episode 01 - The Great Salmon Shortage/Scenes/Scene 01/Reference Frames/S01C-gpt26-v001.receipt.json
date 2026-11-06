@@ -1,0 +1,167 @@
+{
+  "asset_id": "S01C",
+  "name": "Rear couch over-the-shoulder toward television",
+  "batch": 2,
+  "index": 3,
+  "scene": 1,
+  "editorial_shot_id": "S01-03",
+  "provider": "Higgsfield",
+  "model": "gpt_image_2_6",
+  "media_type": "image",
+  "status": "previs_still_review_pass",
+  "generation_status": "completed",
+  "job_id": "cb938d2c-27e5-4ba7-ba0f-8f4b47b652bb",
+  "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3FexRxU2V7FefQUvOnG7eFCKfmw/hf_20261106_195257_cb938d2c-27e5-4ba7-ba0f-8f4b47b652bb.png",
+  "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Phase 2\\Opening Frames\\S01C-gpt26-v001.png",
+  "filename": "S01C-gpt26-v001.png",
+  "actual_dimensions": [
+    3840,
+    2160
+  ],
+  "file_format": "PNG",
+  "size_bytes": 13911089,
+  "sha256": "c4911297e102aa335dde18929a35a6654cea3322d063248819eda142fa4d1278",
+  "saved_at": "2026-11-06T19:58:09.763001+00:00",
+  "quote_credits": 4.25,
+  "actual_billed_credits": "not_independently_verified",
+  "batch_lease_credits": 119,
+  "max_authorized_jobs": 28,
+  "no_automatic_paid_retry": true,
+  "reference_paths": [
+    "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Phase 2\\Setting Plates\\SET01-lounge-rear-master-gpt26-v001.png",
+    "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Phase 2\\Props\\PROP03-five-crew-controllers-gpt26-v001.png",
+    "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Phase 2\\Character Masters\\CREW01-trixie-character-master-gpt26-v001.png",
+    "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Phase 2\\Character Masters\\CREW02-byte-character-master-gpt26-v001.png",
+    "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Phase 2\\Character Masters\\CREW03-ghost-character-master-gpt26-v001.png",
+    "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Phase 2\\Character Masters\\CREW04-onyx-character-master-gpt26-v001.png",
+    "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Phase 2\\Character Masters\\CREW05-neon-character-master-gpt26-v001.png"
+  ],
+  "reference_media": [
+    {
+      "value": "33f0565d-8a2d-48a1-b9fc-06e3126aae62",
+      "type": "completed_generation_job",
+      "asset_id": "SET01"
+    },
+    {
+      "value": "b52eeb43-35ec-4697-b57f-ae853fd80b1d",
+      "type": "completed_generation_job",
+      "asset_id": "PROP03"
+    },
+    {
+      "value": "308a2d12-476f-46e4-bed0-29848d380513",
+      "type": "completed_generation_job",
+      "asset_id": "CREW01"
+    },
+    {
+      "value": "a05743e3-1cba-447d-a335-91b04a383395",
+      "type": "completed_generation_job",
+      "asset_id": "CREW02"
+    },
+    {
+      "value": "bc85255d-a23d-4720-b787-8f8b1aac04c3",
+      "type": "completed_generation_job",
+      "asset_id": "CREW03"
+    },
+    {
+      "value": "7f2e0e60-e05d-42d8-9ecc-3e4ecafc3cd1",
+      "type": "completed_generation_job",
+      "asset_id": "CREW04"
+    },
+    {
+      "value": "0c466b0b-44c3-41d7-bd9b-d67f481fffad",
+      "type": "completed_generation_job",
+      "asset_id": "CREW05"
+    }
+  ],
+  "source_hashes": {
+    "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Phase 2\\Setting Plates\\SET01-lounge-rear-master-gpt26-v001.png": "6d9497f21b49b0e86be8fe1a5d2342adf92f8a90e87c2eb95f12888abe5addbd",
+    "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Phase 2\\Props\\PROP03-five-crew-controllers-gpt26-v001.png": "585c55d6c011eb096e63d3f55aa13fa1b8b871c5bff3a51257c1116e2ea3ee4c",
+    "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Phase 2\\Character Masters\\CREW01-trixie-character-master-gpt26-v001.png": "51c0358d041cc3ba41f0e8b527304e682ece2a24d457828f1cb4e834d69662cd",
+    "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Phase 2\\Character Masters\\CREW02-byte-character-master-gpt26-v001.png": "a23590fe66ebce019efff30e0e5f59c2d623f0b9e14134e4acf3bf4186a7a0f9",
+    "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Phase 2\\Character Masters\\CREW03-ghost-character-master-gpt26-v001.png": "61dc338e08cb238517b46669ec5302e4a58881d4c8a95df0139bfa24ce80a911",
+    "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Phase 2\\Character Masters\\CREW04-onyx-character-master-gpt26-v001.png": "8ac469710ff37bece3d35df62de29e86b4399fb78e9391468a161ac272b9776e",
+    "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Phase 2\\Character Masters\\CREW05-neon-character-master-gpt26-v001.png": "c59f876dfb3540bb9dcad40e9e2c5b03b252d6ac28e38604dec10416e53d298e"
+  },
+  "generation_params": {
+    "model": "gpt_image_2_6",
+    "quality": "high",
+    "resolution": "4k",
+    "aspect_ratio": "16:9",
+    "count": 1,
+    "output_format": "png",
+    "background": "opaque",
+    "prompt": "Create ONE single cinematic16:9 still frame, requested3840x2160, high detail. This is a clean animation start frame, not a contact sheet, grid, storyboard page, split screen or sequence. Use tactile cinematic3D cyberpunk animation: readable fur and fabrics, weathered metal/brick/concrete, restrained cyan/magenta practical light and warm amber lamps, plausible optics and shadows. Keep the supplied established world and physical designs. No title, panel label, shot ID, subtitles, dialogue, timestamp, watermark or production annotation is burned into the image. One natural held pose at the beginning of the described beat; do not try to show a whole shot’s duration or multiple actions in one image. Any dialogue supplied separately is performance context only and must never appear as words in the picture. Use only the specified visible cast; realistic feline/canine paws, no human fingers, extra limbs, merged bodies, duplicate faces or borrowed accessories. Reference sheets provide identity/material evidence only: never copy their panel layout, text or labels into this single frame. Physical continuity: north wall has the ONE CRT with exactly two knobs on its own right and ONE CatStation5 above it. The patched brown couch faces north toward that television. The outside/emblem back is south. The west-side southwest passage is fixed. There are exactly FIVE seat cushions. The AMBER blanket is physically WEST, and the GREY blanket physically EAST: rear view amber FRAME LEFT/grey FRAME RIGHT; true front reverse grey FRAME LEFT/amber FRAME RIGHT. Keep the resistance cat emblem on the outside couch back only; no Goodboy Global branding on the couch. In the rear view toward the TV, banner is frame-left and the industrial window frame-right. In the true front reverse from the TV looking south, west/southwest passage is frame-RIGHT, east/window side frame-LEFT, and the TV/console are behind the camera, absent from the image. Exactly five crew cats, seated screen-left to right NEON, ONYX, TRIXIE, BYTE, GHOST. No sixth actor. Keep five separate torso/head silhouettes and one assigned controller per cat in natural furred paws. They face away from camera toward the TV; do not turn all five back toward camera. Tighter centered rear over-the-shoulder frame: five shoulders/heads across the lower half, television visible above their eyelines. One continuous shared couch, five seated bodies, no duplicate arms across neighbors. Blank CRT rectangle with subtle cool game spill, ready for separate content composite. Hold a natural focused pre-action pose. TRIXIE / CATGIRL: female19, same white long-haired cat, blue eyes, pink nose, exact asymmetric black cheek circuit/scar with pink points from CREW01; black cyber jacket with magenta accents. Do not mirror her facial marking. Preserve her existing animal silhouette; gender does not trigger a body or costume redesign. BYTE: boy18, orange tabby with white muzzle and fixed orange stripe map, round black sunglasses covering the eyes, orange/black tech jacket and gold/orange paw headphones around his neck. Keep sunglasses on; do not invent the hidden eye color. GHOST: boy17, grey tabby, pale muzzle, green AR visor, dark hood/stealth suit with green accents. Visor remains green; do not reveal or invent eyes hidden by it. ONYX: boy19, black fur, yellow-gold/amber eyes, purple/magenta paw headphones and black protective hooded outfit with matching accents. Keep separate from Ghost; no green visor. NEON: boy16, silver-grey tabby, white muzzle and fixed stripes, blue/cyan goggles or visor and patterned blue scarf, blue engineer gear. Keep scarf, lens color and tool rig consistent; no green visor.\n\nREFERENCE SCOPE AND HARD CONTINUITY: Image 1 is the exact empty rear lounge plate and controls room/couch geography. Image 2 supplies the five white/black controllers; all five units are now in their assigned cats' paws or laps, NO spare controller left on top of the television. Images 3–7 supply only the five individual cats. Select only relevant BACK/PROFILE/identity details from each sheet, never its layout, text or duplicate poses. Exactly FIVE distinct seated cats, rear screen-left to right NEON, ONYX, TRIXIE, BYTE, GHOST. Trixie white in center; Neon blue at far left and Ghost green at far right. One shared five-seat couch, no duplicates. Banner LEFT, window RIGHT, two CRT knobs RIGHT, console ABOVE. Keep the TV screen empty. Do not reproduce real manufacturer glyphs; console logo should be inconspicuous/blank or CatStation 5. All other existing set anchors remain fixed.",
+    "medias": [
+      {
+        "role": "image",
+        "value": "33f0565d-8a2d-48a1-b9fc-06e3126aae62"
+      },
+      {
+        "role": "image",
+        "value": "b52eeb43-35ec-4697-b57f-ae853fd80b1d"
+      },
+      {
+        "role": "image",
+        "value": "308a2d12-476f-46e4-bed0-29848d380513"
+      },
+      {
+        "role": "image",
+        "value": "a05743e3-1cba-447d-a335-91b04a383395"
+      },
+      {
+        "role": "image",
+        "value": "bc85255d-a23d-4720-b787-8f8b1aac04c3"
+      },
+      {
+        "role": "image",
+        "value": "7f2e0e60-e05d-42d8-9ecc-3e4ecafc3cd1"
+      },
+      {
+        "role": "image",
+        "value": "0c466b0b-44c3-41d7-bd9b-d67f481fffad"
+      }
+    ]
+  },
+  "dependencies": [
+    "SET01",
+    "PROP01",
+    "PROP02",
+    "PROP03",
+    "PROP04",
+    "CREW01",
+    "CREW02",
+    "CREW03",
+    "CREW04",
+    "CREW05"
+  ],
+  "dependency_status": "Required files present, parent cleared SET01/SET02 and corrected PROP04v002/CHAR06v002 for previs; input images visually inspected.",
+  "expected_visible_actor_count": 5,
+  "expected_visible_roles": [
+    "CREW01",
+    "CREW02",
+    "CREW03",
+    "CREW04",
+    "CREW05"
+  ],
+  "audio_alignment_file": "S01C-gpt26-v001.alignment.json",
+  "prompt_file": "S01C-gpt26-v001.prompt.txt",
+  "production_approved": false,
+  "higgsfield_audio_allowed": false,
+  "higgsfield_video_allowed": false,
+  "visual_qa": {
+    "asset_id": "S01C",
+    "visual_reviewed": true,
+    "status": "previs_still_review_pass",
+    "expected_actor_count": 5,
+    "observed_actor_count": 5,
+    "hard_actor_count_pass": true,
+    "anatomy_check": "Five separate seated cats, each with one controller held in two paws; no extra heads or limbs observed.",
+    "passes": [
+      "Correct rear seating order and immutable fur/accessory palettes.",
+      "Tighter rear coverage retains banner left, window right, blank CRT with two right knobs, console above and both blanket sides."
+    ],
+    "issues": [],
+    "production_approved": false,
+    "paid_retry_performed": false
+  }
+}

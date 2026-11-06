@@ -1,0 +1,84 @@
+{
+  "id": "LOC16",
+  "name": "Salmon cold store and processing hall",
+  "group": "Salmon Facility",
+  "priority": "P0",
+  "rooms": [
+    "Processing conveyors",
+    "Cold A and Cold B rooms",
+    "Mezzanine access stair",
+    "West wash/mechanical wall",
+    "Loading shutter"
+  ],
+  "scene_numbers": [
+    21
+  ],
+  "filename": "LOC16-salmon-cold-store-and-processing-hall-gpt26-v001.png",
+  "props": [
+    "salmon stockpile",
+    "insulated doors",
+    "sealed crates",
+    "pallet jack",
+    "conveyors",
+    "parked robot arms",
+    "refrigeration gauges",
+    "blue cooling pipes"
+  ],
+  "required_outputs": [
+    "Nine-panel location sheet: hero wide, north/south/east/west coverage, overhead plan with camera markers, ceiling/floor, fixed props/materials, reverse wide",
+    "Separate clean full-resolution 16:9 hero and reverse plates, without grid labels",
+    "Four separate wall/directional coverage plates",
+    "Annotated overhead layout with fixed door/window/prop coordinates and screen axis",
+    "Lighting/material palette and day/night variants only when script needs them",
+    "Blank screens and signage areas plus separate exact typography overlays",
+    "QC record, source references, prompt, model/version, dimensions and file hash"
+  ],
+  "status": "generated_review_required",
+  "canonical_references": [
+    "C:/Users/DELL/Desktop/CyberKitty 2077/Assets/Locations/The Salmon Factory/Reference Images/location-sheet-the-salmon-factory.png"
+  ],
+  "prompt_file": "Location Sheets GPT Image 2.6/LOC16-salmon-cold-store-and-processing-hall-gpt26-v001-prompt.txt",
+  "qa_notes": [
+    "Personnel door is southwest in plan but appears left of the shutter in SOUTH/reverse views, placing it southeast.",
+    "Yellow arms are near the north/cold-door ends of the conveyors in HERO, but near the south/shutter ends in REVERSE. Their mounting positions move between views.",
+    "Camera A's triangular pointer appears to point southwest out of the room, opposite the hero's required northeast look direction; use an explicit arrow.",
+    "Final brief asks BOTH hero and reverse to reveal north cold-room stockpiles, while the defined reverse camera looks south at the loading shutter. The image reveals stock in the hero only; resolve this incompatible requirement before requesting correction.",
+    "Stockpile reveal is successful. Lock personnel door and arm positions, correct A arrow, and choose whether reverse remains a south-facing architecture plate."
+  ],
+  "file_exists": true,
+  "actual_dimensions": [
+    3840,
+    2160
+  ],
+  "bytes": 13610779,
+  "sha256": "b0d7b5d2e88073c91a77c8da365862a847bf9ebf818d876225b7cabdba4d8b35",
+  "legacy_versions": [
+    {
+      "filename": "LOC16-salmon-cold-store-processing.png",
+      "status": "generated_review_required",
+      "file_exists": true,
+      "actual_dimensions": [
+        1672,
+        941
+      ],
+      "bytes": 3091721,
+      "sha256": "bfd65bf0279f17b87d43045527544f500e8e0a5d2bfff5da2c85706bfdeaaaad",
+      "prompt_file": "loc15-20-prompts.json",
+      "qa_notes": [
+        "Generated sheets are review drafts, not production-approved camera or geometry masters.",
+        "COLD A/B shutters rendered CLOSED instead of the requested open views into stocked refrigerated aisles. Needs targeted revision revealing the stockpile for scene21.",
+        "Top-right header accidentally contains part of prompt text; remove this in the next render.",
+        "Floorplan indicates southwest personnel door but south elevation puts it on the viewer-left (east) side of shutter; fix camera direction/door side against approved plan."
+      ],
+      "directory": "Location Sheets v01"
+    }
+  ],
+  "relative_output_path": "Location Sheets GPT Image 2.6/LOC16-salmon-cold-store-and-processing-hall-gpt26-v001.png",
+  "current_directory": "Location Sheets GPT Image 2.6",
+  "production_approved": false,
+  "receipt_file": "Location Sheets GPT Image 2.6/LOC16-salmon-cold-store-and-processing-hall-gpt26-v001.json",
+  "qa_status": "draft_requires_continuity_correction",
+  "qa_document": "Location Sheets GPT Image 2.6/QA-notes.md#loc16",
+  "ownership": "Dogs",
+  "ownership_note": "Production affiliation; not a restriction on which species can appear here."
+}

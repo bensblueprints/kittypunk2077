@@ -1,0 +1,41 @@
+{
+  "scene": 7,
+  "start": "05:45",
+  "end": "06:50",
+  "scene_duration_seconds": 65,
+  "location_ids": [
+    "LOC09"
+  ],
+  "shots": [
+    {
+      "shot_id": "S07-B01",
+      "description": "Crane over crowd",
+      "status": "source shot beat; detailed shot duration and coverage pending",
+      "duration_seconds": null
+    },
+    {
+      "shot_id": "S07-B02",
+      "description": "low-angle Trixie at microphone",
+      "status": "source shot beat; detailed shot duration and coverage pending",
+      "duration_seconds": null
+    },
+    {
+      "shot_id": "S07-B03",
+      "description": "Byte's projected chart",
+      "status": "source shot beat; detailed shot duration and coverage pending",
+      "duration_seconds": null
+    },
+    {
+      "shot_id": "S07-B04",
+      "description": "crowd reaction",
+      "status": "source shot beat; detailed shot duration and coverage pending",
+      "duration_seconds": null
+    },
+    {
+      "shot_id": "S07-B05",
+      "description": "overhead rally shot.",
+      "status": "source shot beat; detailed shot duration and coverage pending",
+      "duration_seconds": null
+    }
+  ]
+}

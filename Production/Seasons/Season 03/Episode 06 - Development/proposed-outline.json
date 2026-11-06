@@ -1,0 +1,23 @@
+{
+  "episode": 6,
+  "title": "The Muzzle Comes with Terms",
+  "runtime_minutes": 20,
+  "setup": "The scout protocol reveals the incoming vessel will automatically reactivate old habitat controls unless the city authenticates an independent status message. Muzzle's interface can open the required channel.",
+  "escalation": "Muzzle demands authority in exchange for cooperation. Neon offers a different design: use the interface as a supervised translator while multiple public keys authorize each outgoing command. CARETAKER warns that its old classification could provoke a containment response, but cannot decide for them.",
+  "resolution": "Muzzle accepts the limited role when he learns the humans also classify him as a managed animal. The city sends a collectively authorized declaration of personhood, its charter and verified evidence of self-government. The interface's private override channel is physically disconnected for this session.",
+  "continuity": "Muzzle's device is not removed or redesigned; the external relay and authorization process change. Cooperation is pragmatic and supervised, not absolution. The humans have received the message, but their response remains unknown.",
+  "locations": [
+    "Muzzle lab",
+    "beacon chamber",
+    "council room"
+  ],
+  "cast": [
+    "core five cats",
+    "Dr Muzzle",
+    "CARETAKER",
+    "citizen delegates"
+  ],
+  "comedy": "The first draft contains forty-seven uses of the word meow and one legally decisive footnote.",
+  "ending_hook": "The vessel acknowledges receipt and continues its approach without stating whether it accepts the charter.",
+  "status": "Development draft — not scripted or recorded"
+}

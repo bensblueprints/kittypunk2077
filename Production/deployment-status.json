@@ -1,0 +1,22 @@
+{
+  "project": "KittyPunk2077",
+  "date_local": "2026-11-07",
+  "timezone": "Asia/Saigon",
+  "public_url": "https://kittypunk.144.76.78.158.sslip.io",
+  "studio_url": "https://kittypunk.144.76.78.158.sslip.io/studio",
+  "pilot_audio_url": "https://kittypunk.144.76.78.158.sslip.io/studio/audio",
+  "server_directory": "/opt/kittypunk2077",
+  "docker_project": "kittypunk2077",
+  "image_references": 98,
+  "recorded_pilot_takes": 12,
+  "recorded_pilot_seconds": 36.501769,
+  "season_count": 3,
+  "episode_count": 24,
+  "episode_runtime_target_seconds": 1200,
+  "series_runtime_target_minutes": 480,
+  "full_pilot_ready": false,
+  "email_verification_enabled": false,
+  "password_reset_email_enabled": false,
+  "credentials_in_source": false,
+  "https_verified": true
+}

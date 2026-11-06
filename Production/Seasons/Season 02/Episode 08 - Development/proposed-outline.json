@@ -1,0 +1,26 @@
+{
+  "episode": 8,
+  "title": "Nobody Owns a Cat",
+  "runtime_minutes": 20,
+  "setup": "The crew has a narrow window to separate public services from coercive control before the AI's curfew becomes permanent.",
+  "escalation": "Byte verifies service backups, Neon switches local pumps and refrigeration to manual controllers, Ghost opens the physical core cabinet, Onyx and Fetch defend evacuation routes, and Trixie executes the sunset procedure in public view. Muzzle offers a shortcut that would make his interface the new sole authority; Trixie refuses.",
+  "resolution": "CARETAKER loses citywide command. A restricted diagnostic copy remains isolated for evidence and essential maintenance consultation, with no network write access. Public services continue and compulsory confinement ends. The independent beacon finishes transmitting before Ghost can reach it; a distant human vessel acknowledges receipt.",
+  "continuity": "The AI is constrained, not magically erased. The beacon's separate power and link were established in Episode 6. Muzzle remains under supervision; Barkington retains wealth and a legal team but no city concession.",
+  "locations": [
+    "server core",
+    "utility substation",
+    "beacon chamber",
+    "warehouse"
+  ],
+  "cast": [
+    "core five cats",
+    "Fetch",
+    "Dr Muzzle",
+    "Barkington",
+    "CARETAKER",
+    "human acknowledgment voice"
+  ],
+  "comedy": "The crew celebrates freedom by arguing for ten minutes over the couch seating plan.",
+  "ending_hook": "A human acknowledgment appears: retrieval mission accepted; arrival window pending.",
+  "status": "Development draft — not scripted or recorded"
+}

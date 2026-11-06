@@ -1,0 +1,44 @@
+{
+  "id": "DCIV01",
+  "name": "Beagle shopkeeper",
+  "index": 0,
+  "category": "Civilian Dogs",
+  "filename": "DCIV01-character-master-gpt26-v001.png",
+  "provider": "Higgsfield",
+  "model": "gpt_image_2_6",
+  "parameters": {
+    "model": "gpt_image_2_6",
+    "quality": "high",
+    "resolution": "4k",
+    "aspect_ratio": "16:9",
+    "count": 1,
+    "output_format": "png",
+    "medias": [
+      {
+        "role": "image",
+        "value": "22cf0b28-19f5-42dd-b982-7caa2f72ad34"
+      }
+    ],
+    "prompt": "Create one production character reference sheet for Beagle shopkeeper, title DCIV01. Same cinematic tactile 3D animation fur and fabric style as reference; reference is style only, don't copy Shiba identity or business suit. ONE recurring ordinary civilian dog. Adult beagle, caramel brown/white/black coat, floppy ears, brown eyes, moss cardigan over cream shirt, navy trousers, brown shoes, shop apron optional in action panel. Nine panels FRONT, BACK, LEFT PROFILE nose left, RIGHT PROFILE nose right, FACE, EXPRESSIONS, PAWS, COSTUME, EVERYDAY POSES. Neutral charcoal studio, clear complete head and feet, consistent fur and clothes, canine paws not bare human hands. Everyday poses shopping, newspaper reading, relaxed conversation. No factory, industrial labor, military armor, weapons, corporate executive insignia or other characters. Civilians occupy shops, streets and leisure only. Short labels, no watermark. Native4K landscape16:9."
+  },
+  "job_id": "4d097f81-370b-4673-849d-49ccb98ec223",
+  "status": "completed",
+  "adjustments": {
+    "medias[0].role": {
+      "requested": "image",
+      "used": "image_references",
+      "reason": "GPT Image 2.6 backend expects schema-key media roles"
+    }
+  },
+  "cost_preflight_credits": 4.25,
+  "type": "image",
+  "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3FexRxU2V7FefQUvOnG7eFCKfmw/hf_20261106_215736_4d097f81-370b-4673-849d-49ccb98ec223.png",
+  "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Next Assets\\Civilian Dogs\\DCIV01-character-master-gpt26-v001.png",
+  "dimensions": [
+    3840,
+    2160
+  ],
+  "sha256": "c7886914de916e000b3868950a9560eb3844bbb5e72b24a420f682f80e4d1ba1",
+  "review_status": "visual_review_pending",
+  "production_approved": false
+}

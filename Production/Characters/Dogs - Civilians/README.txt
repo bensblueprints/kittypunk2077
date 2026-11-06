@@ -1,0 +1,1 @@
+Civilian dogs: pending generation. Roles belong in shops, streets, leisure and everyday city life. NEVER factory workers. Keep separate from named executives, suited restaurant guards and standing robot dogs.

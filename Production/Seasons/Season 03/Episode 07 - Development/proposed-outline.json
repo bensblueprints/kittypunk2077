@@ -1,0 +1,26 @@
+{
+  "episode": 7,
+  "title": "Nine Lives, One City",
+  "runtime_minutes": 20,
+  "setup": "Barkington's private forces seize the landing controls, intending to manufacture chaos that will make his restoration seem necessary.",
+  "escalation": "The crew must protect residents and regain control before the vessel reaches final approach. Trixie is offered an emergency master key that would solve the immediate problem by putting every public system under her command. She chooses the slower shared process established earlier. Each neighborhood must keep its own services running while the five cats and Fetch clear the landing route.",
+  "resolution": "Workers maintain power and food, Ghost recovers the sabotage order, Neon isolates the stolen control channel and Onyx organizes civilian shelter. Trixie restores a safe public landing corridor with multi-party authorization. Barkington is detained on the documented sabotage case, with a hearing rather than a victory execution.",
+  "continuity": "Pays off the season's institutional work and Trixie's personal arc. The city survives because many people can act without waiting for its heroes.",
+  "locations": [
+    "landing pad/control room",
+    "utility substation",
+    "warehouse shelter",
+    "District 7 streets"
+  ],
+  "cast": [
+    "core five cats",
+    "Fetch",
+    "Barkington",
+    "Dr Muzzle",
+    "workers",
+    "citizens"
+  ],
+  "comedy": "The emergency shelter's only working television is occupied by someone attempting the crew's unfinished game mission.",
+  "ending_hook": "The human vessel appears visibly above Neko-Tokyo.",
+  "status": "Development draft — not scripted or recorded"
+}

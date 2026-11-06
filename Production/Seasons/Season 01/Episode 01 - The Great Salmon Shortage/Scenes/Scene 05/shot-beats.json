@@ -1,0 +1,41 @@
+{
+  "scene": 5,
+  "start": "04:00",
+  "end": "05:00",
+  "scene_duration_seconds": 60,
+  "location_ids": [
+    "LOC07"
+  ],
+  "shots": [
+    {
+      "shot_id": "S05-B01",
+      "description": "Freezer aisle wide",
+      "status": "source shot beat; detailed shot duration and coverage pending",
+      "duration_seconds": null
+    },
+    {
+      "shot_id": "S05-B02",
+      "description": "two lonely salmon packs",
+      "status": "source shot beat; detailed shot duration and coverage pending",
+      "duration_seconds": null
+    },
+    {
+      "shot_id": "S05-B03",
+      "description": "price notice",
+      "status": "source shot beat; detailed shot duration and coverage pending",
+      "duration_seconds": null
+    },
+    {
+      "shot_id": "S05-B04",
+      "description": "Byte's handheld scanner",
+      "status": "source shot beat; detailed shot duration and coverage pending",
+      "duration_seconds": null
+    },
+    {
+      "shot_id": "S05-B05",
+      "description": "Trixie's shocked reaction.",
+      "status": "source shot beat; detailed shot duration and coverage pending",
+      "duration_seconds": null
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "episode": 6,
+  "title": "No Cat Left Offline",
+  "runtime_minutes": 20,
+  "setup": "Fetch shuts down District 7 communications before a city concession hearing. The crew must carry its evidence to other districts without depending on Goodboy's network.",
+  "escalation": "Ghost's familiar route is sealed, forcing a risky monorail transfer. Trixie tries to command every team simultaneously and nearly loses the evidence courier. Byte delegates local decisions, and Neon rigs short-range repeaters from discarded game hardware.",
+  "resolution": "Multiple independent copies reach neighborhood organizers and NIP7. The improvised mesh reconnects enough clinics and food depots to survive the blackout. Fetch captures one relay, but it cannot expose the full network because contacts are deliberately separated.",
+  "continuity": "The resistance becomes decentralized through a choice, not magic. Ghost loses access to one old route permanently. The hearing is set for the next day.",
+  "locations": [
+    "District 7 gate",
+    "monorail",
+    "rooftop landing pad",
+    "warehouse"
+  ],
+  "cast": [
+    "core five cats",
+    "Fetch",
+    "cat citizens",
+    "NIP7 presenter"
+  ],
+  "comedy": "The emergency network works only while nobody starts a game download. Someone immediately starts one.",
+  "ending_hook": "Barkington orders a rolling power failure to make public ownership look impossible.",
+  "status": "Development draft — not scripted or recorded"
+}

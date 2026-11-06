@@ -1,0 +1,43 @@
+{
+  "scene": 17,
+  "start": "15:10",
+  "end": "16:00",
+  "scene_duration_seconds": 50,
+  "location_ids": [
+    "LOC03",
+    "LOC14",
+    "LOC18"
+  ],
+  "shots": [
+    {
+      "shot_id": "S17-B01",
+      "description": "Upload progress",
+      "status": "source shot beat; detailed shot duration and coverage pending",
+      "duration_seconds": null
+    },
+    {
+      "shot_id": "S17-B02",
+      "description": "NIP7 newsroom",
+      "status": "source shot beat; detailed shot duration and coverage pending",
+      "duration_seconds": null
+    },
+    {
+      "shot_id": "S17-B03",
+      "description": "Sphynx anchor",
+      "status": "source shot beat; detailed shot duration and coverage pending",
+      "duration_seconds": null
+    },
+    {
+      "shot_id": "S17-B04",
+      "description": "evidence image",
+      "status": "source shot beat; detailed shot duration and coverage pending",
+      "duration_seconds": null
+    },
+    {
+      "shot_id": "S17-B05",
+      "description": "newspaper printing.",
+      "status": "source shot beat; detailed shot duration and coverage pending",
+      "duration_seconds": null
+    }
+  ]
+}

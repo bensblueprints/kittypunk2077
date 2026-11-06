@@ -1,0 +1,82 @@
+{
+  "id": "LOC12",
+  "name": "Steak & Bone private dining room",
+  "group": "Steak & Bone",
+  "priority": "P0",
+  "rooms": [
+    "Private dining table",
+    "Window/view wall",
+    "Service door",
+    "Hidden surveillance angle"
+  ],
+  "scene_numbers": [
+    14,
+    15
+  ],
+  "filename": "LOC12-steak-bone-private-dining-room-gpt26-v001.png",
+  "props": [
+    "two dining chairs",
+    "table setting",
+    "wine glasses",
+    "cash bag",
+    "banknotes",
+    "Barkington ring",
+    "recorder",
+    "camera"
+  ],
+  "required_outputs": [
+    "Nine-panel location sheet: hero wide, north/south/east/west coverage, overhead plan with camera markers, ceiling/floor, fixed props/materials, reverse wide",
+    "Separate clean full-resolution 16:9 hero and reverse plates, without grid labels",
+    "Four separate wall/directional coverage plates",
+    "Annotated overhead layout with fixed door/window/prop coordinates and screen axis",
+    "Lighting/material palette and day/night variants only when script needs them",
+    "Blank screens and signage areas plus separate exact typography overlays",
+    "QC record, source references, prompt, model/version, dimensions and file hash"
+  ],
+  "status": "generated_review_required",
+  "canonical_references": [
+    "E:/MovedFromC/Documents/Codex/2026-11-06/https-chatgpt-com-share-6aedf171-aae8-2/outputs/Imported References/steak-and-bone-meeting.png"
+  ],
+  "prompt_file": "Location Sheets GPT Image 2.6/LOC12-steak-bone-private-dining-room-gpt26-v001-prompt.txt",
+  "qa_notes": [
+    "Plan places the service door at the southwest corner, but SOUTH and REVERSE WIDE show it at screen-left beside the east window wall: the southeast corner.",
+    "Plan places the long table east-west with opposing seats north/south. Hero and reverse instead show the long table running toward the north/south walls, with seats west/east. Table and booth orientation do not match the plan.",
+    "Door has no narrow frosted-glass strip, unlike the adjoining LOC11 burgundy service-door design; cross-set doorway continuity needs reconciliation.",
+    "Keep the strong luxury material design; lock southwest service door and table/booth axis consistently across plan, south elevation and wides before shooting."
+  ],
+  "file_exists": true,
+  "actual_dimensions": [
+    3840,
+    2160
+  ],
+  "bytes": 12237469,
+  "sha256": "dd6578af9636b86a9064b648d85df9a7ee3320d6b604365159d1c3d75004644c",
+  "legacy_versions": [
+    {
+      "filename": "LOC12-steak-bone-private-dining.png",
+      "status": "generated_review_required",
+      "file_exists": true,
+      "actual_dimensions": [
+        1672,
+        941
+      ],
+      "bytes": 2732498,
+      "sha256": "5faa61156290a788359006dbeae9d5ab72e6f7e6d5ac36c95c44215b34ccfaf6",
+      "prompt_file": "loc08-14-prompts.json",
+      "qa_notes": [
+        "Generated sheets are review drafts, not production-approved camera or geometry masters.",
+        "Empty room closely matches source luxury: black/gold marble, crystal chandelier, burgundy seating, Steak & Bone sign, right-hand windows, service door and sideboard.",
+        "Room is a reference expansion with approximate plan; verify precise door projection against chosen master shot before reverse-angle scene rendering."
+      ],
+      "directory": "Location Sheets v01"
+    }
+  ],
+  "relative_output_path": "Location Sheets GPT Image 2.6/LOC12-steak-bone-private-dining-room-gpt26-v001.png",
+  "current_directory": "Location Sheets GPT Image 2.6",
+  "production_approved": false,
+  "receipt_file": "Location Sheets GPT Image 2.6/LOC12-steak-bone-private-dining-room-gpt26-v001.json",
+  "qa_status": "draft_requires_geometry_correction",
+  "qa_document": "Location Sheets GPT Image 2.6/QA-notes.md#loc12",
+  "ownership": "Dogs",
+  "ownership_note": "Production affiliation; not a restriction on which species can appear here."
+}

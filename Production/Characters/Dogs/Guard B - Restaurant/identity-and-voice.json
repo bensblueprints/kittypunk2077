@@ -1,0 +1,12 @@
+{
+  "id": "dog_guard_b",
+  "name": "Guard B - Restaurant",
+  "group": "Dogs",
+  "master_file": "SUP03-character-master-gpt26-v001.png",
+  "source": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Next Assets\\Supporting Cast\\SUP03-character-master-gpt26-v001.png",
+  "voice_id": "lAqElvydqyTzitpwAdj6",
+  "voice_name": "Hugo - Loyal Henchman",
+  "status": "Reference master / review draft; not automatically final approved",
+  "identity": "Proposed second recurring guard based on restaurant extras: leaner black-and-tan Rottweiler, narrower muzzle than Guard A, folded ears, black sunglasses, plain black suit and narrow black tie; coiled earpiece, canine paw hands. Small silver circular badge on wearer-left lapel. Keep separate face and build from Guard A and General Fetch.",
+  "factory_rule": "Only user-referenced standing robot dogs do factory work; civilian dogs do not."
+}

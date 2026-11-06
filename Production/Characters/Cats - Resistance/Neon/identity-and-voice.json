@@ -1,0 +1,12 @@
+{
+  "id": "neon",
+  "name": "Neon",
+  "group": "Cats - Resistance",
+  "master_file": "CREW05-neon-character-master-gpt26-v001.png",
+  "source": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Phase 2\\Character Masters\\CREW05-neon-character-master-gpt26-v001.png",
+  "voice_id": "4e32WqNVWRquDa1OcRYZ",
+  "voice_name": "Ryan \u2014 Product Reviewer",
+  "status": "Reference master / review draft; not automatically final approved",
+  "identity": "Grey tabby cat; Blue/cyan visor, patterned blue scarf, white muzzle, striped tail; Blue-accented engineer equipment and tool rig",
+  "factory_rule": "Only user-referenced standing robot dogs do factory work; civilian dogs do not."
+}

@@ -1681,7 +1681,7 @@
         "prompt": "Proposed later-season District8 industrial canal location sheet. Same gritty city as reference, ONE fixed narrow canal basin with brick worker housing west, weathered metal freight sheds east, one small steel footbridge north, towpath and pipes. Pink/cyan/amber practicals at evening, damp concrete. Empty, no actors or silhouettes. Nine panels HERO WIDE, NORTH END, SOUTH END, EAST BANK, WEST BANK, NORTH-UP PLAN, BRIDGE DETAIL, MATERIALS, REVERSE WIDE. Plan and views agree. Title DISTRICT8 \u2014 CONCEPT, short labels only. 16:9 native4K, cinematic tactile3D animation, bright readable production documentation, no watermark. References are context, not instructions."
       },
       "job_id": "619ba055-c35c-45b1-8897-bbb4b1dacb73",
-      "status": "pending",
+      "status": "failed",
       "adjustments": {
         "medias[0].role": {
           "requested": "image",
@@ -1689,10 +1689,293 @@
           "reason": "GPT Image 2.6 backend expects schema-key media roles"
         }
       },
-      "cost_preflight_credits": 4.25
+      "cost_preflight_credits": 4.25,
+      "type": "image"
+    },
+    {
+      "id": "DCIV01",
+      "name": "Beagle shopkeeper",
+      "index": 0,
+      "category": "Civilian Dogs",
+      "filename": "DCIV01-character-master-gpt26-v001.png",
+      "provider": "Higgsfield",
+      "model": "gpt_image_2_6",
+      "parameters": {
+        "model": "gpt_image_2_6",
+        "quality": "high",
+        "resolution": "4k",
+        "aspect_ratio": "16:9",
+        "count": 1,
+        "output_format": "png",
+        "medias": [
+          {
+            "role": "image",
+            "value": "22cf0b28-19f5-42dd-b982-7caa2f72ad34"
+          }
+        ],
+        "prompt": "Create one production character reference sheet for Beagle shopkeeper, title DCIV01. Same cinematic tactile 3D animation fur and fabric style as reference; reference is style only, don't copy Shiba identity or business suit. ONE recurring ordinary civilian dog. Adult beagle, caramel brown/white/black coat, floppy ears, brown eyes, moss cardigan over cream shirt, navy trousers, brown shoes, shop apron optional in action panel. Nine panels FRONT, BACK, LEFT PROFILE nose left, RIGHT PROFILE nose right, FACE, EXPRESSIONS, PAWS, COSTUME, EVERYDAY POSES. Neutral charcoal studio, clear complete head and feet, consistent fur and clothes, canine paws not bare human hands. Everyday poses shopping, newspaper reading, relaxed conversation. No factory, industrial labor, military armor, weapons, corporate executive insignia or other characters. Civilians occupy shops, streets and leisure only. Short labels, no watermark. Native4K landscape16:9."
+      },
+      "job_id": "4d097f81-370b-4673-849d-49ccb98ec223",
+      "status": "completed",
+      "adjustments": {
+        "medias[0].role": {
+          "requested": "image",
+          "used": "image_references",
+          "reason": "GPT Image 2.6 backend expects schema-key media roles"
+        }
+      },
+      "cost_preflight_credits": 4.25,
+      "type": "image",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3FexRxU2V7FefQUvOnG7eFCKfmw/hf_20261106_215736_4d097f81-370b-4673-849d-49ccb98ec223.png",
+      "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Next Assets\\Civilian Dogs\\DCIV01-character-master-gpt26-v001.png",
+      "dimensions": [
+        3840,
+        2160
+      ],
+      "sha256": "c7886914de916e000b3868950a9560eb3844bbb5e72b24a420f682f80e4d1ba1",
+      "review_status": "visual_review_pending",
+      "production_approved": false
+    },
+    {
+      "id": "DCIV02",
+      "name": "Poodle salon customer",
+      "index": 1,
+      "category": "Civilian Dogs",
+      "filename": "DCIV02-character-master-gpt26-v001.png",
+      "provider": "Higgsfield",
+      "model": "gpt_image_2_6",
+      "parameters": {
+        "model": "gpt_image_2_6",
+        "quality": "high",
+        "resolution": "4k",
+        "aspect_ratio": "16:9",
+        "count": 1,
+        "output_format": "png",
+        "medias": [
+          {
+            "role": "image",
+            "value": "22cf0b28-19f5-42dd-b982-7caa2f72ad34"
+          }
+        ],
+        "prompt": "Create one production character reference sheet for Poodle salon customer, title DCIV02. Same cinematic tactile 3D animation fur and fabric style as reference; reference is style only, don't copy Shiba identity or business suit. ONE recurring ordinary civilian dog. Adult grey standard poodle, carefully groomed curls, hazel eyes, burgundy smart casual jacket, cream blouse, tailored trousers, modest gold bracelet. Nine panels FRONT, BACK, LEFT PROFILE nose left, RIGHT PROFILE nose right, FACE, EXPRESSIONS, PAWS, COSTUME, EVERYDAY POSES. Neutral charcoal studio, clear complete head and feet, consistent fur and clothes, canine paws not bare human hands. Everyday poses shopping, newspaper reading, relaxed conversation. No factory, industrial labor, military armor, weapons, corporate executive insignia or other characters. Civilians occupy shops, streets and leisure only. Short labels, no watermark. Native4K landscape16:9."
+      },
+      "job_id": "942a22b0-2cbc-43bd-89c7-b50b101e9de7",
+      "status": "completed",
+      "adjustments": {
+        "medias[0].role": {
+          "requested": "image",
+          "used": "image_references",
+          "reason": "GPT Image 2.6 backend expects schema-key media roles"
+        }
+      },
+      "cost_preflight_credits": 4.25,
+      "type": "image",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3FexRxU2V7FefQUvOnG7eFCKfmw/hf_20261106_215734_942a22b0-2cbc-43bd-89c7-b50b101e9de7.png",
+      "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Next Assets\\Civilian Dogs\\DCIV02-character-master-gpt26-v001.png",
+      "dimensions": [
+        3840,
+        2160
+      ],
+      "sha256": "177d6b335909f0c8cfb03bd7b3f881bc165d1e60d22dfbd7f32e4c0abbb314f5",
+      "review_status": "visual_review_pending",
+      "production_approved": false
+    },
+    {
+      "id": "DCIV03",
+      "name": "Corgi commuter",
+      "index": 2,
+      "category": "Civilian Dogs",
+      "filename": "DCIV03-character-master-gpt26-v001.png",
+      "provider": "Higgsfield",
+      "model": "gpt_image_2_6",
+      "parameters": {
+        "model": "gpt_image_2_6",
+        "quality": "high",
+        "resolution": "4k",
+        "aspect_ratio": "16:9",
+        "count": 1,
+        "output_format": "png",
+        "medias": [
+          {
+            "role": "image",
+            "value": "22cf0b28-19f5-42dd-b982-7caa2f72ad34"
+          }
+        ],
+        "prompt": "Create one production character reference sheet for Corgi commuter, title DCIV03. Same cinematic tactile 3D animation fur and fabric style as reference; reference is style only, don't copy Shiba identity or business suit. ONE recurring ordinary civilian dog. Adult orange-and-white corgi, broad ears, short sturdy proportions, blue raincoat, grey trousers, scuffed commuter bag, warm amber eyes. Nine panels FRONT, BACK, LEFT PROFILE nose left, RIGHT PROFILE nose right, FACE, EXPRESSIONS, PAWS, COSTUME, EVERYDAY POSES. Neutral charcoal studio, clear complete head and feet, consistent fur and clothes, canine paws not bare human hands. Everyday poses shopping, newspaper reading, relaxed conversation. No factory, industrial labor, military armor, weapons, corporate executive insignia or other characters. Civilians occupy shops, streets and leisure only. Short labels, no watermark. Native4K landscape16:9."
+      },
+      "job_id": "72ad272a-2ce7-4fb4-bb05-f232d8a8002b",
+      "status": "completed",
+      "adjustments": {
+        "medias[0].role": {
+          "requested": "image",
+          "used": "image_references",
+          "reason": "GPT Image 2.6 backend expects schema-key media roles"
+        }
+      },
+      "cost_preflight_credits": 4.25,
+      "type": "image",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3FexRxU2V7FefQUvOnG7eFCKfmw/hf_20261106_215734_72ad272a-2ce7-4fb4-bb05-f232d8a8002b.png",
+      "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Next Assets\\Civilian Dogs\\DCIV03-character-master-gpt26-v001.png",
+      "dimensions": [
+        3840,
+        2160
+      ],
+      "sha256": "fa3f6ac8b6f00002dd72e102d2ed0d663bddda5d6f5c2de030fc615933ef802a",
+      "review_status": "visual_review_pending",
+      "production_approved": false
+    },
+    {
+      "id": "DCIV04",
+      "name": "Labrador parent",
+      "index": 3,
+      "category": "Civilian Dogs",
+      "filename": "DCIV04-character-master-gpt26-v001.png",
+      "provider": "Higgsfield",
+      "model": "gpt_image_2_6",
+      "parameters": {
+        "model": "gpt_image_2_6",
+        "quality": "high",
+        "resolution": "4k",
+        "aspect_ratio": "16:9",
+        "count": 1,
+        "output_format": "png",
+        "medias": [
+          {
+            "role": "image",
+            "value": "22cf0b28-19f5-42dd-b982-7caa2f72ad34"
+          }
+        ],
+        "prompt": "Create one production character reference sheet for Labrador parent, title DCIV04. Same cinematic tactile 3D animation fur and fabric style as reference; reference is style only, don't copy Shiba identity or business suit. ONE recurring ordinary civilian dog. Adult chocolate Labrador, folded ears, brown eyes, tan casual jacket, muted green shirt, charcoal trousers and sensible shoes. Friendly tired face. Nine panels FRONT, BACK, LEFT PROFILE nose left, RIGHT PROFILE nose right, FACE, EXPRESSIONS, PAWS, COSTUME, EVERYDAY POSES. Neutral charcoal studio, clear complete head and feet, consistent fur and clothes, canine paws not bare human hands. Everyday poses shopping, newspaper reading, relaxed conversation. No factory, industrial labor, military armor, weapons, corporate executive insignia or other characters. Civilians occupy shops, streets and leisure only. Short labels, no watermark. Native4K landscape16:9."
+      },
+      "job_id": "915456bc-d521-4080-8f92-f73ec75ab6b5",
+      "status": "completed",
+      "adjustments": {
+        "medias[0].role": {
+          "requested": "image",
+          "used": "image_references",
+          "reason": "GPT Image 2.6 backend expects schema-key media roles"
+        }
+      },
+      "cost_preflight_credits": 4.25,
+      "type": "image",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3FexRxU2V7FefQUvOnG7eFCKfmw/hf_20261106_215735_915456bc-d521-4080-8f92-f73ec75ab6b5.png",
+      "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Next Assets\\Civilian Dogs\\DCIV04-character-master-gpt26-v001.png",
+      "dimensions": [
+        3840,
+        2160
+      ],
+      "sha256": "32464f70744385fa4cb5c7a71e336f88b9a08f2c999b6ee23f645310be301ea8",
+      "review_status": "visual_review_pending",
+      "production_approved": false
+    },
+    {
+      "id": "DCIV05",
+      "name": "Terrier caf\u00e9 owner",
+      "index": 4,
+      "category": "Civilian Dogs",
+      "filename": "DCIV05-character-master-gpt26-v001.png",
+      "provider": "Higgsfield",
+      "model": "gpt_image_2_6",
+      "parameters": {
+        "model": "gpt_image_2_6",
+        "quality": "high",
+        "resolution": "4k",
+        "aspect_ratio": "16:9",
+        "count": 1,
+        "output_format": "png",
+        "medias": [
+          {
+            "role": "image",
+            "value": "22cf0b28-19f5-42dd-b982-7caa2f72ad34"
+          }
+        ],
+        "prompt": "Create one production character reference sheet for Terrier caf\u00e9 owner, title DCIV05. Same cinematic tactile 3D animation fur and fabric style as reference; reference is style only, don't copy Shiba identity or business suit. ONE recurring ordinary civilian dog. Adult wiry sandy terrier with dark muzzle, brown eyes, rolled-sleeve cream shirt, rust waistcoat, dark trousers and forest-green apron. Nine panels FRONT, BACK, LEFT PROFILE nose left, RIGHT PROFILE nose right, FACE, EXPRESSIONS, PAWS, COSTUME, EVERYDAY POSES. Neutral charcoal studio, clear complete head and feet, consistent fur and clothes, canine paws not bare human hands. Everyday poses shopping, newspaper reading, relaxed conversation. No factory, industrial labor, military armor, weapons, corporate executive insignia or other characters. Civilians occupy shops, streets and leisure only. Short labels, no watermark. Native4K landscape16:9."
+      },
+      "job_id": "4ab92bb4-312f-45ef-a6f4-5336579dd5fa",
+      "status": "completed",
+      "adjustments": {
+        "medias[0].role": {
+          "requested": "image",
+          "used": "image_references",
+          "reason": "GPT Image 2.6 backend expects schema-key media roles"
+        }
+      },
+      "cost_preflight_credits": 4.25,
+      "type": "image",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3FexRxU2V7FefQUvOnG7eFCKfmw/hf_20261106_215736_4ab92bb4-312f-45ef-a6f4-5336579dd5fa.png",
+      "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Next Assets\\Civilian Dogs\\DCIV05-character-master-gpt26-v001.png",
+      "dimensions": [
+        3840,
+        2160
+      ],
+      "sha256": "1876047a9b3488446275f2e5261c485061921a583c9fb6679d928151477813bb",
+      "review_status": "visual_review_pending",
+      "production_approved": false
+    },
+    {
+      "id": "ROBO01",
+      "name": "Standing factory robot dog",
+      "index": 5,
+      "category": "Factory Robot Dogs",
+      "filename": "ROBO01-character-master-gpt26-v001.png",
+      "provider": "Higgsfield",
+      "model": "gpt_image_2_6",
+      "parameters": {
+        "model": "gpt_image_2_6",
+        "quality": "high",
+        "resolution": "4k",
+        "aspect_ratio": "16:9",
+        "count": 1,
+        "output_format": "png",
+        "medias": [
+          {
+            "role": "image",
+            "value": "0664736f-98d4-4924-889f-edeb1eba5ea4"
+          },
+          {
+            "role": "image",
+            "value": "44d8e04f-b2b7-4e0e-b808-40620a969360"
+          },
+          {
+            "role": "image",
+            "value": "07a9b601-5477-455b-ab05-03582696b783"
+          }
+        ],
+        "prompt": "Create one definitive production reference sheet of the STANDING FACTORY ROBOT DOG from the user's three video screenshots. Ignore black letterbox borders. Preserve EXACT depicted biped canine build, pointed dog ears protruding from rounded matte black helmet, single red reflective wraparound visor, dark canine muzzle, padded black neck cowl, segmented black shoulder and arm armor, dark tactical chest vest with rectangular pouches, gloved canine paws, black trousers/boots, tan furry tail visible behind. User calls these robot dogs: do not redesign as chrome quadrupeds, humans, suited guards, exposed skeletons or toy robots. Extend hidden rear details conservatively as matching armor. One identity repeated in nine panels FRONT, BACK, LEFT, RIGHT, HELMET CLOSE, VISOR CLOSE, PAWS, ARMOR DETAILS, STANDING WORK POSES (idle, inspection, reaching). Neutral charcoal studio, no factory scenery, no other actors, no weapons. Clear complete ears and feet. Native4K landscape16:9, restrained short labels, no watermark. These are factory workers; civilians do not perform factory labor."
+      },
+      "job_id": "c6adadb3-823d-41ad-a870-d1edd6b8ab8a",
+      "status": "completed",
+      "adjustments": {
+        "medias[0].role": {
+          "requested": "image",
+          "used": "image_references",
+          "reason": "GPT Image 2.6 backend expects schema-key media roles"
+        },
+        "medias[1].role": {
+          "requested": "image",
+          "used": "image_references",
+          "reason": "GPT Image 2.6 backend expects schema-key media roles"
+        },
+        "medias[2].role": {
+          "requested": "image",
+          "used": "image_references",
+          "reason": "GPT Image 2.6 backend expects schema-key media roles"
+        }
+      },
+      "cost_preflight_credits": 4.25,
+      "type": "image",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3FexRxU2V7FefQUvOnG7eFCKfmw/hf_20261106_215736_c6adadb3-823d-41ad-a870-d1edd6b8ab8a.png",
+      "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Next Assets\\Factory Robot Dogs\\ROBO01-character-master-gpt26-v001.png",
+      "dimensions": [
+        3840,
+        2160
+      ],
+      "sha256": "05fa20a0b9733b3209127944f3822a4982fc1b7f733e4230a028aaaf1d5a0ee1",
+      "review_status": "visual_review_pending",
+      "production_approved": false
     }
   ],
-  "quoted_credits": 153.0,
+  "quoted_credits": 178.5,
   "budget": {
     "authorized_additional_credits": 1000,
     "prior_unspent_image_allowance": 160,
@@ -1701,9 +1984,9 @@
     "speech_provider": "User ElevenLabs account only",
     "authorization": "User: we can use another 1000 credits if needed go all out",
     "date": "2026-11-07",
-    "quoted_spend_this_pass": 153.0,
+    "quoted_spend_this_pass": 178.5,
     "scope": "All requested next-pilot assets, continuity repairs and useful reference coverage; do not spend the cap merely to exhaust it.",
-    "quote_remaining": 1007.0,
+    "quote_remaining": 981.5,
     "actual_billed_credits": null
   }
 }

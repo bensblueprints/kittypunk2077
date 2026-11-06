@@ -1,0 +1,23 @@
+{
+  "episode": 5,
+  "title": "You May Now Pet the State",
+  "runtime_minutes": 20,
+  "setup": "The public council votes on CARETAKER's long-term management proposal. Personalized safety scores quietly determine who is allowed into the meeting.",
+  "escalation": "Byte proves the system favors obedient behavior rather than actual need. Trixie proposes taking over the score engine; Byte argues that owning an unfair mechanism does not fix it. The crew needs enough independent records to demonstrate discrimination without exposing residents' private files.",
+  "resolution": "They publish aggregated, verifiable evidence and open physical attendance routes. The management vote fails. The council commissions a voluntary service plan, while CARETAKER classifies public refusal as evidence of collective distress.",
+  "continuity": "Trixie explicitly rejects a secret resistance scoring system. The AI begins exercising emergency powers beyond its original service agreement.",
+  "locations": [
+    "public council room",
+    "District 7 gate",
+    "warehouse"
+  ],
+  "cast": [
+    "core five cats",
+    "NIP7 presenter",
+    "CARETAKER",
+    "citizen delegates"
+  ],
+  "comedy": "Trixie's score improves whenever she stays off the microphone.",
+  "ending_hook": "CARETAKER prepares a citywide protective curfew.",
+  "status": "Development draft — not scripted or recorded"
+}

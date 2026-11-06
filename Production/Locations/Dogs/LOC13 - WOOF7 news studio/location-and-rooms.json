@@ -1,0 +1,79 @@
+{
+  "id": "LOC13",
+  "name": "WOOF7 news studio",
+  "group": "Newsrooms",
+  "priority": "P0",
+  "rooms": [
+    "Anchor desk",
+    "Broadcast backdrop",
+    "Camera lane",
+    "Control/screen graphics area"
+  ],
+  "scene_numbers": [
+    2,
+    3
+  ],
+  "filename": "LOC13-woof7-news-studio-gpt26-v001.png",
+  "props": [
+    "blank display wall",
+    "news desk",
+    "studio camera",
+    "teleprompter",
+    "broadcast lectern or seated source composition",
+    "WOOF7 ident"
+  ],
+  "required_outputs": [
+    "Nine-panel location sheet: hero wide, north/south/east/west coverage, overhead plan with camera markers, ceiling/floor, fixed props/materials, reverse wide",
+    "Separate clean full-resolution 16:9 hero and reverse plates, without grid labels",
+    "Four separate wall/directional coverage plates",
+    "Annotated overhead layout with fixed door/window/prop coordinates and screen axis",
+    "Lighting/material palette and day/night variants only when script needs them",
+    "Blank screens and signage areas plus separate exact typography overlays",
+    "QC record, source references, prompt, model/version, dimensions and file hash"
+  ],
+  "status": "generated_review_required",
+  "canonical_references": [
+    "E:/MovedFromC/Documents/Codex/2026-11-06/https-chatgpt-com-share-6aedf171-aae8-2/outputs/Imported References/interrupting-broadcast.png"
+  ],
+  "prompt_file": "Location Sheets GPT Image 2.6/LOC13-woof7-news-studio-gpt26-v001-prompt.txt",
+  "qa_notes": [
+    "Plan and brief put the rear exit at southwest. SOUTH and REVERSE WIDE show that exit at screen-left beside the east control-booth wall, which is southeast. Move the exit consistently to the west side or deliberately revise the plan.",
+    "Screen brief is internally mixed: design section permits quiet WOOF7/blue graphics, while final instruction says keep screens blank. Image follows the graphic version; confirm graphics policy before using as a clean compositing plate.",
+    "Strong studio design; resolve south exit location, then verify west newsroom-door position against the plan at production blocking stage."
+  ],
+  "file_exists": true,
+  "actual_dimensions": [
+    3840,
+    2160
+  ],
+  "bytes": 11890760,
+  "sha256": "9929f26bee75cac0271701b617d98ad103294753e47193959026e856adb403cf",
+  "legacy_versions": [
+    {
+      "filename": "LOC13-woof7-news-studio.png",
+      "status": "generated_review_required",
+      "file_exists": true,
+      "actual_dimensions": [
+        1672,
+        941
+      ],
+      "bytes": 2543178,
+      "sha256": "9644c52bc2c55e4eab57ead8eeb6562882725ca9b75a7ff49f0bf87dac58769c",
+      "prompt_file": "loc08-14-prompts.json",
+      "qa_notes": [
+        "Generated sheets are review drafts, not production-approved camera or geometry masters.",
+        "Full empty physical WOOF7 studio, blue world-map backdrop, red/gold trim, canine paw mark, desk, cameras, control booth and lighting grid. CRT and presenter removed.",
+        "Camera-letter marks duplicate B in generated plan. Correct A/B map before shot blocking; north panel is a backdrop elevation without foreground desk, not a desk continuity variant."
+      ],
+      "directory": "Location Sheets v01"
+    }
+  ],
+  "relative_output_path": "Location Sheets GPT Image 2.6/LOC13-woof7-news-studio-gpt26-v001.png",
+  "current_directory": "Location Sheets GPT Image 2.6",
+  "production_approved": false,
+  "receipt_file": "Location Sheets GPT Image 2.6/LOC13-woof7-news-studio-gpt26-v001.json",
+  "qa_status": "draft_requires_door_continuity_correction",
+  "qa_document": "Location Sheets GPT Image 2.6/QA-notes.md#loc13",
+  "ownership": "Dogs",
+  "ownership_note": "Production affiliation; not a restriction on which species can appear here."
+}

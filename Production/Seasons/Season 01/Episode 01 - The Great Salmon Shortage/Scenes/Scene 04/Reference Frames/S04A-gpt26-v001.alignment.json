@@ -1,0 +1,13 @@
+{
+  "asset_id": "S04A",
+  "scene": 4,
+  "editorial_shot_id": "S04-01",
+  "dialogue_line_ids": [],
+  "dialogue_context": [],
+  "editorial_duration_estimate_sec": 10,
+  "media_type": "still_image",
+  "video_generated": false,
+  "audio_generated_by_this_job": false,
+  "speech_provider": "ElevenLabs only",
+  "note": "Existing speech is off-image performance/alignment context. No timing or subtitles are burned into this still."
+}

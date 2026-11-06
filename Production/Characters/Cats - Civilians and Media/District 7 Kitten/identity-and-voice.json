@@ -1,0 +1,12 @@
+{
+  "id": "district7_kitten",
+  "name": "District 7 Kitten",
+  "group": "Cats - Civilians and Media",
+  "master_file": "SUP06-character-master-gpt26-v001.png",
+  "source": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Next Assets\\Supporting Cast\\SUP06-character-master-gpt26-v001.png",
+  "voice_id": "FGY2WhTYpPnrIDTdsKH5",
+  "voice_name": "Laura - Enthusiast, Quirky Attitude",
+  "status": "Reference master / review draft; not automatically final approved",
+  "identity": null,
+  "factory_rule": "Only user-referenced standing robot dogs do factory work; civilian dogs do not."
+}

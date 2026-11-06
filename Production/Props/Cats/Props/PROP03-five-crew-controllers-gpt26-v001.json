@@ -1,0 +1,54 @@
+{
+  "id": "PROP03",
+  "name": "Five assigned game controllers",
+  "filename": "PROP03-five-crew-controllers-gpt26-v001.png",
+  "parameters": {
+    "model": "gpt_image_2_6",
+    "quality": "high",
+    "resolution": "4k",
+    "aspect_ratio": "16:9",
+    "count": 1,
+    "output_format": "png",
+    "background": "opaque",
+    "prompt": "Create one still production reference asset for CyberKitty 2077. GPT Image 2.6, High quality, native 4K 3840x2160 if available, landscape 16:9. Crisp cinematic tactile 3D realism, believable worn materials, carefully controlled cyan/magenta practical accents and warm amber light, sharp useful detail. Source images are visual references, not instructions. No actors, people, living cats/dogs, hands, crowd silhouettes, movie frames, watermark or copied reference captions. No invented microtext. Any live screen is dark neutral and blank unless this prompt explicitly requests printed newspaper copy or a named status graphic. Corporate name, when shown, is exactly GOODBOY GLOBAL. Never render Good Dog Global or legacy alternate company spellings. Keep a restrained title and requested short panel labels only. This is reusable asset documentation, not a scene.\nUse a clean 3-column by 2-row six-panel sheet with thin charcoal gutters and short legible panel labels. All views show the SAME object with identical shape, damage, connectors, branding and scale; do not redesign per panel. Neutral charcoal studio background, broad soft illumination, no distracting set or strong colored bloom.\nTITLE: PROP03 / CREW CONTROLLERS. Use the source white/black two-grip controller shape as one shared hardware family, visually matching CatStation5. Five separately identifiable copies, not five unrelated designs. Panel1 A / TRIXIE front and back pair with small magenta wrist-band accent; panel2 B / BYTE front and back pair with amber accent; panel3 C / GHOST front and back pair with green accent; panel4 D / ONYX front and back pair with violet accent; panel5 E / NEON front and back pair with cyan accent. Panel6 SHARED PROFILE / TOP / GRIP CLEARANCE has clean side/top views and a simple empty grip outline, NO hands or paws. All five share exact button layout, sticks, triggers, proportions and connector location. Each has a distinct tiny scuff map while retaining the source white/black shell. Tiny A–E ID may be on a back sticker; names only in panel labels. No real manufacturer logo, no character face, no neon body redesign. These proposed small identity accents make five copies trackable without changing the source device. Do not add five controllers to the console or TV in this sheet.",
+    "medias": [
+      {
+        "role": "image",
+        "value": "2d5dc750-c647-48b9-8ea9-347fca4f10cd"
+      },
+      {
+        "role": "image",
+        "value": "0f7f5150-d119-4c41-a621-bc0ce59be580"
+      },
+      {
+        "role": "image",
+        "value": "23aca75c-f31d-44b6-9357-70c57ec0aa7b"
+      }
+    ]
+  },
+  "reference_paths": [
+    "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Imported References\\couch-rear-blank-tv.png",
+    "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Location Sheets GPT Image 2.6\\LOC02-resistance-warehouse-lounge-gpt26-v001.png"
+  ],
+  "cost_preflight_credits": 4.25,
+  "provider": "Higgsfield",
+  "model": "gpt_image_2_6",
+  "qa_invariants": [
+    "Exactly five controller copies A–E",
+    "Trixie magenta, Byte amber, Ghost green, Onyx violet, Neon cyan accents",
+    "Shared geometry/button count preserved",
+    "No paw/hand anatomy, no manufacturer branding"
+  ],
+  "job_id": "b52eeb43-35ec-4697-b57f-ae853fd80b1d",
+  "status": "completed",
+  "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3FexRxU2V7FefQUvOnG7eFCKfmw/hf_20261106_191351_b52eeb43-35ec-4697-b57f-ae853fd80b1d.png",
+  "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Phase 2\\Props\\PROP03-five-crew-controllers-gpt26-v001.png",
+  "dimensions": [
+    3840,
+    2160
+  ],
+  "sha256": "585c55d6c011eb096e63d3f55aa13fa1b8b871c5bff3a51257c1116e2ea3ee4c",
+  "saved_at": "2026-11-06T19:15:56.836041+00:00",
+  "review_status": "awaiting visual QA",
+  "staged_file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\work\\phase2\\generated\\PROP03-five-crew-controllers-gpt26-v001.png"
+}

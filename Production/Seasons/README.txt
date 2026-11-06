@@ -1,0 +1,1 @@
+Season1 Episode1 is the active20-minute pilot. Remaining episode folders contain existing proposed outlines, not approved scripts or completed shot lists. New district stories and character designs are future development.

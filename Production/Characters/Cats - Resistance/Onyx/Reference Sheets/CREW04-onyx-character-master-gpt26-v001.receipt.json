@@ -1,0 +1,86 @@
+{
+  "asset_id": "CREW04",
+  "name": "Onyx",
+  "status": "review_draft_identity_preserved",
+  "saved_at": "2026-11-06T19:18:05.062939+00:00",
+  "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Phase 2\\Character Masters\\CREW04-onyx-character-master-gpt26-v001.png",
+  "job_id": "7f2e0e60-e05d-42d8-9ecc-3e4ecafc3cd1",
+  "model": "gpt_image_2_6",
+  "provider": "Higgsfield",
+  "requested_quality": "high",
+  "requested_resolution": "4k",
+  "requested_aspect_ratio": "16:9",
+  "actual_dimensions": [
+    3840,
+    2160
+  ],
+  "file_format": "PNG",
+  "size_bytes": 9697804,
+  "sha256": "8ac469710ff37bece3d35df62de29e86b4399fb78e9391468a161ac272b9776e",
+  "quote_credits": 4.25,
+  "actual_billed_credits": "not_independently_verified",
+  "budget_lease_credits": 26,
+  "batch_max_jobs": 6,
+  "reference_paths": [
+    "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Characters\\Trixie\\trixie-catgirl-crew-character-sheet-v001.png",
+    "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Recovered References\\Onyx\\portrait.png"
+  ],
+  "reference_media_ids": [
+    "39642dd3-bdb7-4c07-9a18-9495fd1e4106",
+    "96b84cab-5afe-4277-bf38-d9575645a70e"
+  ],
+  "voice_metadata_only": "Harry",
+  "voice_printed_on_sheet": false,
+  "prompt_file": "CREW04-onyx-character-master-gpt26-v001.prompt.txt",
+  "generation_params": {
+    "model": "gpt_image_2_6",
+    "prompt": "Create a reusable animation production CHARACTER IDENTITY MASTER reference sheet, 3840 x 2160 landscape 16:9, exactly nine clearly separated panels in a regular 3 x 3 grid. Short clean header: \"CREW04 — ONYX\". This is ONE established individual shown repeatedly, not a group, not a new design. Character age 19, youthful fully clothed anthropomorphic cat. Preserve the supplied original identity and costume exactly. IDENTITY LOCK: Male black cat with amber/golden yellow eyes, black nose, black fur and a black tail. Hooded black protective outfit with purple/magenta piping, magenta glowing paw headphones around neck, hood up and ears exposed, dark tactical boots. Preserve hood seam geometry, neckline and protective panel arrangement from ONYX panel. Reference 1 ONLY ONYX section is authoritative, Reference 2 is his same close-up. No green visor or orange accessories.\n\nVISUAL STYLE: rich realistic fur, expressive stylized cinematic cyberpunk character rendering and physically convincing worn fabric, leather, metal, glass. Neutral charcoal-grey studio backdrop and soft balanced key/fill lighting in ALL panels; small palette-correct practical glow, restrained rim light so all surfaces and fur are readable. No city backgrounds, no neon architecture, no dramatic scene, no cinematic cropping.\n\nLAYOUT / DELIVERABLES, read left-to-right:\n1 FRONT: full body neutral relaxed A-pose, straight frontal orthographic-like view, ears to boots with ample margins.\n2 BACK: matching full body directly from rear, show exact tail attachment, back seams, equipment, boots. Same scale and outfit.\n3 LEFT PROFILE: character's left side, head faces image left, exact side view full body.\n4 RIGHT PROFILE: character's right side, head faces image right, exact opposite profile full body; rotate the actual design, NEVER mirror asymmetric markings/equipment.\n5 FACE: large three-quarter head-and-shoulders identity close-up, signature eyewear or headphones and face clearly readable.\n6 EXPRESSIONS: four clean bust close-ups of this same face: neutral, focused, amused, alarmed. Keep costume and worn eyewear unchanged. No new face design.\n7 CONTROLLER GRIP: close-up of both correctly articulated feline paws holding a simple black twin-stick game controller, readable claw/finger placement, wrists continue into correct costume sleeves.\n8 LAPTOP GRIP: waist-up view and paw close-up, one paw supporting a slim black closed/partly-open laptop while other paw uses keyboard/trackpad. Screen blank. Maintain same physical paw anatomy and costume.\n9 COSTUME / ACCESSORIES: isolated laid-out fixed outfit and exact signature accessories, reference-matched front/back garment details, material/colour swatches. This is a breakdown of the SAME outfit worn in panels 1-8, NOT wardrobe alternatives.\n\nOnly short panel labels. No biographies, no voice names/IDs, no product slogans, no watermarks, no other characters. Every full body shows both arms, both legs, both ears and the complete tail if present. Preserve species, fur pattern, eye colour, cheek markings, goggle/headphone geometry and faction palette, fixed costume seam placement and accessories in all nine panels. Keep anatomical left/right consistent. No human skin or human hands, no extra digits/limbs, no duplicate tails, no alternate clothing, no sexualization.",
+    "quality": "high",
+    "resolution": "4k",
+    "aspect_ratio": "16:9",
+    "count": 1,
+    "output_format": "png",
+    "background": "opaque",
+    "medias": [
+      {
+        "role": "image",
+        "value": "39642dd3-bdb7-4c07-9a18-9495fd1e4106"
+      },
+      {
+        "role": "image",
+        "value": "96b84cab-5afe-4277-bf38-d9575645a70e"
+      }
+    ]
+  },
+  "generation_status": "completed",
+  "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3FexRxU2V7FefQUvOnG7eFCKfmw/hf_20261106_191656_7f2e0e60-e05d-42d8-9ecc-3e4ecafc3cd1.png",
+  "source_hashes": {
+    "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Characters\\Trixie\\trixie-catgirl-crew-character-sheet-v001.png": "92693b403069684c8f692d567ce0f6145e8b42f66c488269e0c3610221082f10",
+    "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Recovered References\\Onyx\\portrait.png": "bf282b43885fbe1ec54c2e08c15ba218bc97741108f9871606d16c91c332e473"
+  },
+  "visual_qa": {
+    "asset_id": "CREW04",
+    "status": "review_draft_identity_preserved",
+    "visual_reviewed": true,
+    "passes": [
+      "Black cat identity with amber eyes, hood and magenta/purple paw headphones retained.",
+      "Regular 3×3 layout with all nine requested content panels.",
+      "Four full-body orientations, fixed protective outfit, tail and clearly differentiated expressions.",
+      "Controller/laptop grips readable; no extra characters or costume alternatives."
+    ],
+    "issues": [
+      {
+        "severity": "minor",
+        "type": "prop_dependency",
+        "note": "Controller/laptop are grip proxies. Use PROP03 for the exact five-controller scene identity; this sheet's paw-logo controller is not an independently approved prop."
+      },
+      {
+        "severity": "minor",
+        "type": "continuity",
+        "note": "Fine magenta seam/pouch details require a fixed front/back modeling reference rather than interpreting every minor painted line as a new accessory."
+      }
+    ],
+    "production_approved": false,
+    "rerender_requested": false
+  }
+}

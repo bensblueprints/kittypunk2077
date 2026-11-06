@@ -1,0 +1,12 @@
+{
+  "id": "viper",
+  "name": "Viper",
+  "group": "Dogs",
+  "master_file": "DOG01-viper-character-master-gpt26-v001.png",
+  "source": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Phase 2\\Dog Masters\\DOG01-viper-character-master-gpt26-v001.png",
+  "voice_id": "NYC9WEgkq1u4jiqBseQ9",
+  "voice_name": "Russell - Dramatic British TV",
+  "status": "Reference master / review draft; not automatically final approved",
+  "identity": "German Shepherd; Tan and black coat, upright ears, long muzzle; Black corporate uniform/coat with gold trim",
+  "factory_rule": "Only user-referenced standing robot dogs do factory work; civilian dogs do not."
+}

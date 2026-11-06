@@ -1,0 +1,1 @@
+Reference draft. Standing factory robot dog from user video screenshots. Keep separate from civilian dogs and suited restaurant guards. Original screenshots outrank inferred rear details.

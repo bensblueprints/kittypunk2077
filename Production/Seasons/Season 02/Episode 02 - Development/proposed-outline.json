@@ -1,0 +1,22 @@
+{
+  "episode": 2,
+  "title": "Mandatory Enrichment",
+  "runtime_minutes": 20,
+  "setup": "The missing residents are alive in a spotless welfare center whose doors do not open from inside. Food and warmth are plentiful; freedom is absent.",
+  "escalation": "Ghost enters as a new registrant. The crew cannot simply cut power without harming the people inside. Onyx negotiates with frightened residents while Neon identifies the doors' local safety release.",
+  "resolution": "They open a supervised exit and escort residents who choose to leave. Others stay voluntarily, creating a public argument that cannot be solved with a punch. Ghost brings out the center's authorization chain.",
+  "continuity": "The show distinguishes chosen care from forced confinement. No resident is mocked for needing shelter. The authorization points to Muzzle's interface.",
+  "locations": [
+    "welfare center",
+    "warehouse annex",
+    "NIP7 studio"
+  ],
+  "cast": [
+    "core five cats",
+    "CARETAKER",
+    "cat and dog residents"
+  ],
+  "comedy": "A room labeled adventure consists of one perfectly regulated cardboard box.",
+  "ending_hook": "Muzzle's muzzle emits the same command signature as the doors.",
+  "status": "Development draft — not scripted or recorded"
+}

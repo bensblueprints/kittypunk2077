@@ -1,0 +1,24 @@
+{
+  "episode": 2,
+  "title": "The Salmon Standard",
+  "runtime_minutes": 20,
+  "setup": "A run on salmon threatens to recreate the pilot's shortage, this time driven by fear rather than a secret diversion order.",
+  "escalation": "Byte's fair allocation plan is technically sound but unpopular. Barkington quietly buys warehouse capacity and presents his premium reserves as proof that private control works. Trixie nearly raids it without checking ownership or spoilage risk.",
+  "resolution": "The crew negotiates emergency cold-store access, publishes real stock counts and distributes food through a transparent rotation. The clerk and factory worker make the plan credible on the ground. A preventable shortage is avoided without returning to compulsory ration IDs.",
+  "continuity": "Public governance is shown doing difficult work. Barkington's new stock purchase is distinct from the original theft and must be challenged on actual evidence.",
+  "locations": [
+    "Seven Catleven",
+    "Salmon Factory",
+    "community depot"
+  ],
+  "cast": [
+    "core five cats",
+    "Barkington",
+    "store clerk",
+    "factory worker",
+    "citizens"
+  ],
+  "comedy": "A rumor about limited-edition salmon causes more chaos than the human vessel.",
+  "ending_hook": "Byte finds storage contracts bundled with claims to the old human landing site.",
+  "status": "Development draft — not scripted or recorded"
+}

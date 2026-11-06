@@ -1,0 +1,41 @@
+{
+  "scene": 13,
+  "start": "11:45",
+  "end": "12:35",
+  "scene_duration_seconds": 50,
+  "location_ids": [
+    "LOC11"
+  ],
+  "shots": [
+    {
+      "shot_id": "S13-B01",
+      "description": "Corridor wide",
+      "status": "source shot beat; detailed shot duration and coverage pending",
+      "duration_seconds": null
+    },
+    {
+      "shot_id": "S13-B02",
+      "description": "security-camera POV",
+      "status": "source shot beat; detailed shot duration and coverage pending",
+      "duration_seconds": null
+    },
+    {
+      "shot_id": "S13-B03",
+      "description": "cat-eye close-up",
+      "status": "source shot beat; detailed shot duration and coverage pending",
+      "duration_seconds": null
+    },
+    {
+      "shot_id": "S13-B04",
+      "description": "robot passing",
+      "status": "source shot beat; detailed shot duration and coverage pending",
+      "duration_seconds": null
+    },
+    {
+      "shot_id": "S13-B05",
+      "description": "silent hand signals.",
+      "status": "source shot beat; detailed shot duration and coverage pending",
+      "duration_seconds": null
+    }
+  ]
+}

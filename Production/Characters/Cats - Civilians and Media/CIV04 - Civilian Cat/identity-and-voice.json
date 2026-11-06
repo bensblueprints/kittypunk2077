@@ -1,0 +1,12 @@
+{
+  "id": "civilian_04",
+  "name": "CIV04 - Civilian Cat",
+  "group": "Cats - Civilians and Media",
+  "master_file": "CIV04-character-master-gpt26-v001.png",
+  "source": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Next Assets\\Civilian Cast\\CIV04-character-master-gpt26-v001.png",
+  "voice_id": null,
+  "voice_name": null,
+  "status": "Reference master / review draft; not automatically final approved",
+  "identity": null,
+  "factory_rule": "Only user-referenced standing robot dogs do factory work; civilian dogs do not."
+}

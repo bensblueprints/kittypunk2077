@@ -1,0 +1,82 @@
+{
+  "id": "LOC09",
+  "name": "District 7 rally stage and plaza",
+  "group": "District 7",
+  "priority": "P0",
+  "rooms": [
+    "Temporary raised stage",
+    "Crowd plaza",
+    "Access lanes",
+    "Projection backdrop"
+  ],
+  "scene_numbers": [
+    7
+  ],
+  "filename": "LOC09-district-7-rally-stage-and-plaza-gpt26-v001.png",
+  "props": [
+    "microphone",
+    "stand",
+    "PA speakers",
+    "projector",
+    "price chart",
+    "banners",
+    "stage crates",
+    "cables"
+  ],
+  "required_outputs": [
+    "Nine-panel location sheet: hero wide, north/south/east/west coverage, overhead plan with camera markers, ceiling/floor, fixed props/materials, reverse wide",
+    "Separate clean full-resolution 16:9 hero and reverse plates, without grid labels",
+    "Four separate wall/directional coverage plates",
+    "Annotated overhead layout with fixed door/window/prop coordinates and screen axis",
+    "Lighting/material palette and day/night variants only when script needs them",
+    "Blank screens and signage areas plus separate exact typography overlays",
+    "QC record, source references, prompt, model/version, dimensions and file hash"
+  ],
+  "status": "generated_review_required",
+  "canonical_references": [
+    "E:/MovedFromC/Documents/Codex/2026-11-06/https-chatgpt-com-share-6aedf171-aae8-2/outputs/Location Sheets v01/LOC08-district7-market.png",
+    "C:/Users/DELL/Desktop/CyberKitty 2077/Assets/Locations/Neko-Tokyo District 7/Reference Images/a3-street-level-hero-walk.png"
+  ],
+  "prompt_file": "Location Sheets GPT Image 2.6/LOC09-district-7-rally-stage-and-plaza-gpt26-v001-prompt.txt",
+  "qa_notes": [
+    "The rooftop view faces north toward the stage with the tree on the left. It therefore reads as a south-side rooftop, not camera B on the north building looking south; from B the stage building could not appear across the plaza. Correction: Keep the hero and site plan as authority. Do not use this roof view as the specified north/northeast perch; derive the eventual roof scene plate from an agreed joint LOC08/09/20 plan.",
+    "The market connection view puts the red-lantern stalls on the right while looking down the market toward the towers. For the established east-looking market axis, the north lantern row should be left. The plaza plan depicts the lantern edge along its east boundary without clearly showing the east-west street continuation. Correction: Annotate the market mouth and north-row continuation on the shared site plan and use LOC08 hero/reverse as authority for market-facing scene plates.",
+    "SOUTH is a tight shuttered-shop elevation rather than the requested stage POV across the audience space with west steps. Cardinal labels generally describe facade/content rather than the final camera-side convention. Correction: Treat the shop image as material/elevation reference; label actual viewpoint bearings before blocking. A later stage-POV scene plate must include the open audience area.",
+    "Usable rally stage design and plaza hero. Rooftop and market-connection coverage are drafts, not geographically verified scene plates. No regeneration retry requested."
+  ],
+  "file_exists": true,
+  "actual_dimensions": [
+    3840,
+    2160
+  ],
+  "bytes": 15096921,
+  "sha256": "fd5f2c155e04f5a082a5c2cdfca31583dfd65fb43e021d349e629f787888d90e",
+  "legacy_versions": [
+    {
+      "filename": "LOC09-rally-stage-plaza.png",
+      "status": "generated_review_required",
+      "file_exists": true,
+      "actual_dimensions": [
+        1672,
+        941
+      ],
+      "bytes": 3141270,
+      "sha256": "0329bbe2e536fa60ac12331bed2cea5ce6d3870e3315608d716d4c61ada967bc",
+      "prompt_file": "loc08-14-prompts.json",
+      "qa_notes": [
+        "Generated sheets are review drafts, not production-approved camera or geometry masters.",
+        "Empty pallet stage, two speakers, center microphone, cherry-blossom steps, adjoining market and rooftop overlook included.",
+        "Rooftop image is a useful elevated reverse angle but its shown viewpoint is not exactly the north-roof B position indicated in the plan; fix blocking marks before scene generation."
+      ],
+      "directory": "Location Sheets v01"
+    }
+  ],
+  "relative_output_path": "Location Sheets GPT Image 2.6/LOC09-district-7-rally-stage-and-plaza-gpt26-v001.png",
+  "current_directory": "Location Sheets GPT Image 2.6",
+  "production_approved": false,
+  "receipt_file": "Location Sheets GPT Image 2.6/LOC09-district-7-rally-stage-and-plaza-gpt26-v001.json",
+  "qa_status": "draft-corrections",
+  "qa_document": "Location Sheets GPT Image 2.6/QA-notes.md#loc09",
+  "ownership": "Neutral",
+  "ownership_note": "Production affiliation; not a restriction on which species can appear here."
+}

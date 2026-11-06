@@ -1,0 +1,41 @@
+{
+  "scene": 11,
+  "start": "09:45",
+  "end": "11:00",
+  "scene_duration_seconds": 75,
+  "location_ids": [
+    "LOC10"
+  ],
+  "shots": [
+    {
+      "shot_id": "S11-B01",
+      "description": "Restaurant establishing",
+      "status": "source shot beat; detailed shot duration and coverage pending",
+      "duration_seconds": null
+    },
+    {
+      "shot_id": "S11-B02",
+      "description": "security positions",
+      "status": "source shot beat; detailed shot duration and coverage pending",
+      "duration_seconds": null
+    },
+    {
+      "shot_id": "S11-B03",
+      "description": "Barkington arriving",
+      "status": "source shot beat; detailed shot duration and coverage pending",
+      "duration_seconds": null
+    },
+    {
+      "shot_id": "S11-B04",
+      "description": "rooftop surveillance perspective",
+      "status": "source shot beat; detailed shot duration and coverage pending",
+      "duration_seconds": null
+    },
+    {
+      "shot_id": "S11-B05",
+      "description": "close-up of Trixie's camera.",
+      "status": "source shot beat; detailed shot duration and coverage pending",
+      "duration_seconds": null
+    }
+  ]
+}

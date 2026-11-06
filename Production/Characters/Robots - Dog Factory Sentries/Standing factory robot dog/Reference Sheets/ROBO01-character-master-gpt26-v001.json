@@ -1,0 +1,62 @@
+{
+  "id": "ROBO01",
+  "name": "Standing factory robot dog",
+  "index": 5,
+  "category": "Factory Robot Dogs",
+  "filename": "ROBO01-character-master-gpt26-v001.png",
+  "provider": "Higgsfield",
+  "model": "gpt_image_2_6",
+  "parameters": {
+    "model": "gpt_image_2_6",
+    "quality": "high",
+    "resolution": "4k",
+    "aspect_ratio": "16:9",
+    "count": 1,
+    "output_format": "png",
+    "medias": [
+      {
+        "role": "image",
+        "value": "0664736f-98d4-4924-889f-edeb1eba5ea4"
+      },
+      {
+        "role": "image",
+        "value": "44d8e04f-b2b7-4e0e-b808-40620a969360"
+      },
+      {
+        "role": "image",
+        "value": "07a9b601-5477-455b-ab05-03582696b783"
+      }
+    ],
+    "prompt": "Create one definitive production reference sheet of the STANDING FACTORY ROBOT DOG from the user's three video screenshots. Ignore black letterbox borders. Preserve EXACT depicted biped canine build, pointed dog ears protruding from rounded matte black helmet, single red reflective wraparound visor, dark canine muzzle, padded black neck cowl, segmented black shoulder and arm armor, dark tactical chest vest with rectangular pouches, gloved canine paws, black trousers/boots, tan furry tail visible behind. User calls these robot dogs: do not redesign as chrome quadrupeds, humans, suited guards, exposed skeletons or toy robots. Extend hidden rear details conservatively as matching armor. One identity repeated in nine panels FRONT, BACK, LEFT, RIGHT, HELMET CLOSE, VISOR CLOSE, PAWS, ARMOR DETAILS, STANDING WORK POSES (idle, inspection, reaching). Neutral charcoal studio, no factory scenery, no other actors, no weapons. Clear complete ears and feet. Native4K landscape16:9, restrained short labels, no watermark. These are factory workers; civilians do not perform factory labor."
+  },
+  "job_id": "c6adadb3-823d-41ad-a870-d1edd6b8ab8a",
+  "status": "completed",
+  "adjustments": {
+    "medias[0].role": {
+      "requested": "image",
+      "used": "image_references",
+      "reason": "GPT Image 2.6 backend expects schema-key media roles"
+    },
+    "medias[1].role": {
+      "requested": "image",
+      "used": "image_references",
+      "reason": "GPT Image 2.6 backend expects schema-key media roles"
+    },
+    "medias[2].role": {
+      "requested": "image",
+      "used": "image_references",
+      "reason": "GPT Image 2.6 backend expects schema-key media roles"
+    }
+  },
+  "cost_preflight_credits": 4.25,
+  "type": "image",
+  "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3FexRxU2V7FefQUvOnG7eFCKfmw/hf_20261106_215736_c6adadb3-823d-41ad-a870-d1edd6b8ab8a.png",
+  "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Next Assets\\Factory Robot Dogs\\ROBO01-character-master-gpt26-v001.png",
+  "dimensions": [
+    3840,
+    2160
+  ],
+  "sha256": "05fa20a0b9733b3209127944f3822a4982fc1b7f733e4230a028aaaf1d5a0ee1",
+  "review_status": "visual_review_pending",
+  "production_approved": false
+}

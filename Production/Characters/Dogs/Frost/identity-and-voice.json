@@ -1,0 +1,12 @@
+{
+  "id": "frost",
+  "name": "Frost",
+  "group": "Dogs",
+  "master_file": "DOG02-frost-character-master-gpt26-v001.png",
+  "source": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Phase 2\\Dog Masters\\DOG02-frost-character-master-gpt26-v001.png",
+  "voice_id": "N2lVS1w4EtoT3dr4eOWO",
+  "voice_name": "Callum - Husky Trickster",
+  "status": "Reference master / review draft; not automatically final approved",
+  "identity": "American Pit Bull; Grey coat, broad muzzle, short ears; Dark gold-trim suit and white shirt with dark tie",
+  "factory_rule": "Only user-referenced standing robot dogs do factory work; civilian dogs do not."
+}

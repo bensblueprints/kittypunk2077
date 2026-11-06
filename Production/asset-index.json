@@ -1574,8 +1574,8 @@
   },
   {
     "path": "Next Assets/generation-manifest.json",
-    "bytes": 95237,
-    "sha256": "83d22cafef1d439ed9e76def01e72ce0ef0b199dd764cad7784cfabf9732a0fa"
+    "bytes": 95260,
+    "sha256": "10a1867e6fd8eaf22a5e6b1dbe09e3f4a3860bed6a5f5b9ce751954992d01449"
   },
   {
     "path": "Next Assets/Newspaper References/daily-bone-and-catnip-times-original.png",
@@ -1766,6 +1766,11 @@
     "path": "Orbis Test/20261106T165140Z-request.json",
     "bytes": 288,
     "sha256": "295accf1c314ec3daaf3cb7f34b317a4796632d7148f3df4b27509c75de210fe"
+  },
+  {
+    "path": "ORGANIZATION.txt",
+    "bytes": 2313,
+    "sha256": "ff2f6f054b2ee83e2a91b620052657be24aa2727a01888bd3bc6961566e7cc45"
   },
   {
     "path": "Phase 2/budget-control.json",

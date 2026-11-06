@@ -1,0 +1,79 @@
+{
+  "id": "LOC01",
+  "name": "Resistance warehouse exterior",
+  "group": "Resistance Base",
+  "priority": "P0",
+  "rooms": [
+    "South cargo entrance and staff door",
+    "North service wall",
+    "East workshop side",
+    "West window side",
+    "Loading apron and roof"
+  ],
+  "scene_numbers": [
+    1,
+    4
+  ],
+  "filename": "LOC01-resistance-warehouse-exterior-gpt26-v001.png",
+  "props": [
+    "cargo shutter",
+    "staff door",
+    "utility meters",
+    "crate stack",
+    "drain",
+    "resistance stencil"
+  ],
+  "required_outputs": [
+    "Nine-panel location sheet: hero wide, north/south/east/west coverage, overhead plan with camera markers, ceiling/floor, fixed props/materials, reverse wide",
+    "Separate clean full-resolution 16:9 hero and reverse plates, without grid labels",
+    "Four separate wall/directional coverage plates",
+    "Annotated overhead layout with fixed door/window/prop coordinates and screen axis",
+    "Lighting/material palette and day/night variants only when script needs them",
+    "Blank screens and signage areas plus separate exact typography overlays",
+    "QC record, source references, prompt, model/version, dimensions and file hash"
+  ],
+  "status": "generated_review_required",
+  "canonical_references": [
+    "C:\\Users\\DELL\\Desktop\\CyberKitty 2077\\Assets\\Locations\\Resistance Base Warehouse\\Reference Images\\location-sheet-03-resistance-base-warehouse.png",
+    "C:\\Users\\DELL\\Desktop\\CyberKitty 2077\\Assets\\Locations\\Neko-Tokyo District 7\\Reference Images\\a3-street-level-hero-walk.png"
+  ],
+  "prompt_file": "Location Sheets GPT Image 2.6/LOC01-resistance-warehouse-exterior-gpt26-v001-prompt.txt",
+  "qa_notes": [
+    "Roof/site view does not clearly identify south cargo/staff and north service-bay door footprints. A/B/C arrows correspond to south front, north wall and southeast hero, but no arrow represents panel 9's southward apron-to-street reverse. Correction: Annotate door footprints. Use an explicit legend such as A hero southeast looking northwest, B north looking south, C at south loading apron looking south to street. Keep the rendered architecture.",
+    "Reverse appears under/inside the loading threshold whereas front facade views have a closed shutter. Correction: When extracting plates, label open/closed shutter state explicitly; do not treat these as simultaneous door states.",
+    "Keep as review draft; annotation and state clarification are sufficient. No full rerender or extra generation retry recommended."
+  ],
+  "file_exists": true,
+  "actual_dimensions": [
+    3840,
+    2160
+  ],
+  "bytes": 15912187,
+  "sha256": "c171160ce2dfdaef5437f8b0a4f8aaba6104f4cbd4fefe5fc8ec2531a63e5955",
+  "legacy_versions": [
+    {
+      "filename": "LOC01-warehouse-exterior.png",
+      "status": "generated_review_required",
+      "file_exists": true,
+      "actual_dimensions": [
+        1672,
+        941
+      ],
+      "bytes": 3427810,
+      "sha256": "e72890a5ceb749681d67d1bf08f1f7f9df3a6d7e724da384c84f112c548148cf",
+      "prompt_file": "loc01-07-prompts.json",
+      "qa_notes": [
+        "Generated sheets are review drafts, not production-approved camera or geometry masters."
+      ],
+      "directory": "Location Sheets v01"
+    }
+  ],
+  "relative_output_path": "Location Sheets GPT Image 2.6/LOC01-resistance-warehouse-exterior-gpt26-v001.png",
+  "current_directory": "Location Sheets GPT Image 2.6",
+  "production_approved": false,
+  "receipt_file": "Location Sheets GPT Image 2.6/LOC01-resistance-warehouse-exterior-gpt26-v001.json",
+  "qa_status": "draft-corrections",
+  "qa_document": "Location Sheets GPT Image 2.6/QA-notes.md#loc01",
+  "ownership": "Cats",
+  "ownership_note": "Production affiliation; not a restriction on which species can appear here."
+}

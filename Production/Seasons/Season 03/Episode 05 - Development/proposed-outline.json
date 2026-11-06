@@ -1,0 +1,25 @@
+{
+  "episode": 5,
+  "title": "Bark to the Future",
+  "runtime_minutes": 20,
+  "setup": "Barkington offers the human mission a private landing agreement in exchange for restoration of his concessions. He claims the charter is an extremist document.",
+  "escalation": "Ghost traces the draft agreement through the same corporate restaurant used in the pilot. This time the crew needs the agreement itself, not an ambiguous picture. The WOOF7 anchor, facing his own documented misconduct, provides the unedited recording rather than another purchased script.",
+  "resolution": "NIP7 publishes the full proposal with its provenance. The council legally voids Barkington's claim to represent the city and places the landing site in public trust. The anchor's cooperation does not erase his earlier payoff; his future testimony is part of accountability.",
+  "continuity": "Completes the pilot's media thread. Barkington loses diplomatic legitimacy but still has supporters and enough resources for a final sabotage attempt.",
+  "locations": [
+    "Steak & Bone",
+    "WOOF7 studio",
+    "NIP7 studio",
+    "council room"
+  ],
+  "cast": [
+    "core five cats",
+    "Barkington",
+    "WOOF7 Shiba anchor",
+    "NIP7 presenter",
+    "corporate directors"
+  ],
+  "comedy": "Barkington's sales deck offers premium cats as a luxury amenity; Byte corrects the valuation while stealing it.",
+  "ending_hook": "Barkington orders his remaining private security to seize the landing controls.",
+  "status": "Development draft — not scripted or recorded"
+}

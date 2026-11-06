@@ -1,0 +1,29 @@
+KITTY PUNK 2077 — WHERE THINGS LIVE
+
+Desktop project: C:\Users\DELL\Desktop\CyberKitty 2077
+
+Assets: reusable characters, locations, props and original references.
+Assets\Next Assets: latest supporting cast, civilians, action props, evidence and continuity-repair drafts.
+Assets\References\Factory Video: user-provided standing robot-dog screenshots.
+Assets\References\Game References: user-confirmed game case and living-room bank-heist gameplay.
+Assets\References\Newspaper References: original paired Daily Bone / Catnip Times design.
+Assets\Video References: preserved intro.mp4 source video.
+Production Pack v01: full current deliverables, prompts, receipts, inventories, voices and story documents.
+Archive\Legacy Work: old scratch/upscale work formerly in _work; preserved rather than deleted.
+_originals: original recovery sources; retained because some historical character exports were damaged.
+Tools: local API clients. Credentials remain local in ignored .env and are excluded from uploads.
+
+CURRENT VS HISTORICAL
+asset-index.json records production files and identifies older v001 files where a v002 exists.
+Next Assets\generation-manifest.json records the latest pass: 35 saved images and one failed future-concept request. Some images still need visual QA. No completed pilot or final animation is claimed.
+Older location drafts, rejected/revised frames and duplicated reference copies remain at stable paths because prompts and receipts refer to them. They are historical references, not a direction to use every image in production.
+The generic restaurant limousine stays in the library; Dog Royce is a separate user-defined vehicle whose master is still pending.
+New robot-dog screenshots are saved; their standalone master and updated factory tank/conveyor sheet are still pending.
+
+SYNC
+Hugging Face: https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets (private).
+GitHub: https://github.com/bensblueprints/kittypunk2077 (media via Git LFS).
+See hf-sync.json, github-sync.json and local-sync.json for actual verification status, not this guide alone.
+
+NEXT PRIORITY
+Season1 Episode1:24scenes,20:00 exactly. Finish pilot assets, continuity, voices and shot assembly before generating future district characters. district-lore-and-businesses.md preserves the expansion ideas.

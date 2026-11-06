@@ -1,0 +1,104 @@
+{
+  "asset_id": "S03B",
+  "name": "Barkington broadcast medium shot",
+  "batch": 1,
+  "index": 17,
+  "scene": 3,
+  "editorial_shot_id": "S03-02",
+  "provider": "Higgsfield",
+  "model": "gpt_image_2_6",
+  "media_type": "image",
+  "status": "previs_still_review_with_accessory_note",
+  "generation_status": "completed",
+  "job_id": "fddd56a3-05f9-48b7-987c-12e91c8fcbc1",
+  "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3FexRxU2V7FefQUvOnG7eFCKfmw/hf_20261106_194305_fddd56a3-05f9-48b7-987c-12e91c8fcbc1.png",
+  "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Phase 2\\Opening Frames\\S03B-gpt26-v001.png",
+  "filename": "S03B-gpt26-v001.png",
+  "actual_dimensions": [
+    3840,
+    2160
+  ],
+  "file_format": "PNG",
+  "size_bytes": 11076844,
+  "sha256": "1a6976232ac04b994cb065c428337c164cee2e0e36b89915e893a74e96991a8f",
+  "saved_at": "2026-11-06T19:44:13.681150+00:00",
+  "quote_credits": 4.25,
+  "actual_billed_credits": "not_independently_verified",
+  "batch_lease_credits": 119,
+  "max_authorized_jobs": 28,
+  "no_automatic_paid_retry": true,
+  "reference_paths": [
+    "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Location Sheets GPT Image 2.6\\LOC13-woof7-news-studio-gpt26-v001.png",
+    "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Phase 2\\Character Masters\\CHAR06-barkington-character-master-gpt26-v002.png"
+  ],
+  "reference_media": [
+    {
+      "value": "a7ded282-736c-4689-96eb-2c6b2560e2da",
+      "type": "completed_generation_job",
+      "asset_id": "LOC13"
+    },
+    {
+      "value": "3ca7db12-882a-4b9b-89eb-ad9a60690a6d",
+      "type": "completed_generation_job",
+      "asset_id": "CHAR06"
+    }
+  ],
+  "source_hashes": {
+    "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Location Sheets GPT Image 2.6\\LOC13-woof7-news-studio-gpt26-v001.png": "9929f26bee75cac0271701b617d98ad103294753e47193959026e856adb403cf",
+    "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Phase 2\\Character Masters\\CHAR06-barkington-character-master-gpt26-v002.png": "562eac0bfb4963cda6cfacb48dfd34dbfbe363c2f7f91cb7d86c27a568ce16c5"
+  },
+  "generation_params": {
+    "model": "gpt_image_2_6",
+    "quality": "high",
+    "resolution": "4k",
+    "aspect_ratio": "16:9",
+    "count": 1,
+    "output_format": "png",
+    "background": "opaque",
+    "prompt": "Create ONE single cinematic16:9 still frame, requested3840x2160, high detail. This is a clean animation start frame, not a contact sheet, grid, storyboard page, split screen or sequence. Use tactile cinematic3D cyberpunk animation: readable fur and fabrics, weathered metal/brick/concrete, restrained cyan/magenta practical light and warm amber lamps, plausible optics and shadows. Keep the supplied established world and physical designs. No title, panel label, shot ID, subtitles, dialogue, timestamp, watermark or production annotation is burned into the image. One natural held pose at the beginning of the described beat; do not try to show a whole shot’s duration or multiple actions in one image. Any dialogue supplied separately is performance context only and must never appear as words in the picture. Use only the specified visible cast; realistic feline/canine paws, no human fingers, extra limbs, merged bodies, duplicate faces or borrowed accessories. Reference sheets provide identity/material evidence only: never copy their panel layout, text or labels into this single frame. Full-frame clean broadcast-feed medium shot, NOT inside a CRT shell. BARKINGTON alone centered at the existing WOOF7 studio desk, facing camera, older Doberman identity and executive outfit from CHAR06. Maintain north WOOF7/backdrop geometry, corporate blue/red/gold materials and gentle warm light; crop away the studio’s unresolved southwest exit. Paws settle naturally on the desk, mouth neutral just before the announcement, composed falsely reassuring expression. Leave lower third and display areas clean for post typography; do not insert the Shiba anchor or a side-by-side news layout. BARKINGTON ORDERS: older black-and-tan Doberman, upright ears, long canine muzzle, exact black/gold executive suit, deep red tie and grey fur collar from CHAR06. Preserve the master’s purple reflective eyewear state where present. Never substitute the Shiba WOOF7 anchor, a wolf, or a human.\n\nREFERENCE SCOPE: Input 1 supplies the NORTH studio desk/backdrop only. Input 2 is current CHAR06 v002 and supplies ONLY this Doberman's identity/costume; use its cigar-free expression panels. No cigar, no other anchor, no copied layout or captions. The full broadcast feed is one natural single-frame medium shot.",
+    "medias": [
+      {
+        "role": "image",
+        "value": "a7ded282-736c-4689-96eb-2c6b2560e2da"
+      },
+      {
+        "role": "image",
+        "value": "3ca7db12-882a-4b9b-89eb-ad9a60690a6d"
+      }
+    ]
+  },
+  "dependencies": [
+    "CHAR06"
+  ],
+  "dependency_status": "all_required_files_present_and_visually_inspected",
+  "expected_visible_actor_count": 1,
+  "expected_visible_roles": [
+    "CHAR06"
+  ],
+  "audio_alignment_file": "S03B-gpt26-v001.alignment.json",
+  "prompt_file": "S03B-gpt26-v001.prompt.txt",
+  "production_approved": false,
+  "higgsfield_audio_allowed": false,
+  "higgsfield_video_allowed": false,
+  "visual_qa": {
+    "asset_id": "S03B",
+    "visual_reviewed": true,
+    "status": "previs_still_review_with_accessory_note",
+    "expected_actor_count": 1,
+    "observed_actor_count": 1,
+    "hard_actor_count_pass": true,
+    "anatomy_check": "No visible extra limbs, merged bodies or duplicate faces at review scale.",
+    "passes": [
+      "One Doberman Barkington at WOOF7 desk, correct face, glasses, fur collar and black/gold/red suit.",
+      "Cigar absent, paws readable, room backdrop/desk match source, no alternate anchor."
+    ],
+    "issues": [
+      {
+        "severity": "minor",
+        "note": "A gold paw signet appears on both paws; lock the canonical single-ring placement before final animation close-ups."
+      }
+    ],
+    "production_approved": false,
+    "paid_retry_performed": false
+  }
+}

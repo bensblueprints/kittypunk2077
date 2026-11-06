@@ -1,0 +1,129 @@
+{
+  "asset_id": "S01E",
+  "name": "Byte reaction with Trixie eyeline",
+  "batch": 3,
+  "index": 5,
+  "scene": 1,
+  "editorial_shot_id": "S01-05",
+  "provider": "Higgsfield",
+  "model": "gpt_image_2_6",
+  "media_type": "image",
+  "status": "targeted_correction_pass_review_draft",
+  "generation_status": "completed",
+  "job_id": "1d0989cd-7254-4121-984f-a6a426b6fb4b",
+  "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3FexRxU2V7FefQUvOnG7eFCKfmw/hf_20261106_200740_1d0989cd-7254-4121-984f-a6a426b6fb4b.png",
+  "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Phase 2\\Opening Frames\\S01E-gpt26-v002.png",
+  "filename": "S01E-gpt26-v002.png",
+  "actual_dimensions": [
+    3840,
+    2160
+  ],
+  "file_format": "PNG",
+  "size_bytes": 14080179,
+  "sha256": "721045f9acb3c9203e5ced1c578f830f8a71db65d5f38829658753bc94f9fa3b",
+  "saved_at": "2026-11-06T20:09:07.430921+00:00",
+  "quote_credits": 4.25,
+  "actual_billed_credits": "not_independently_verified",
+  "batch_lease_credits": 21.25,
+  "max_authorized_jobs": 5,
+  "no_automatic_paid_retry": true,
+  "reference_paths": [
+    "E:/MovedFromC/Documents/Codex/2026-11-06/https-chatgpt-com-share-6aedf171-aae8-2/outputs/Phase 2/Opening Frames/S01E-gpt26-v001.png",
+    "E:/MovedFromC/Documents/Codex/2026-11-06/https-chatgpt-com-share-6aedf171-aae8-2/outputs/Phase 2/Character Masters/CREW01-trixie-character-master-gpt26-v001.png"
+  ],
+  "reference_media": [
+    {
+      "role": "image",
+      "value": "acb0ad2f-78f5-4cb7-9489-7b660d73073c"
+    },
+    {
+      "role": "image",
+      "value": "308a2d12-476f-46e4-bed0-29848d380513"
+    }
+  ],
+  "source_hashes": {
+    "E:/MovedFromC/Documents/Codex/2026-11-06/https-chatgpt-com-share-6aedf171-aae8-2/outputs/Phase 2/Opening Frames/S01E-gpt26-v001.png": "d6d4d4583aa07eb9227ccb1e072996a00517c9c4b41cf8b3b364525ff4f8ff7e",
+    "E:/MovedFromC/Documents/Codex/2026-11-06/https-chatgpt-com-share-6aedf171-aae8-2/outputs/Phase 2/Character Masters/CREW01-trixie-character-master-gpt26-v001.png": "51c0358d041cc3ba41f0e8b527304e682ece2a24d457828f1cb4e834d69662cd"
+  },
+  "generation_params": {
+    "model": "gpt_image_2_6",
+    "quality": "high",
+    "resolution": "4k",
+    "aspect_ratio": "16:9",
+    "count": 1,
+    "output_format": "png",
+    "background": "opaque",
+    "prompt": "Use case: identity-preserving targeted shot correction. Return ONE cinematic 3840x2160 16:9 still, not a sheet, collage or storyboard. The first supplied image is the exact EDIT TARGET. Preserve its character identity, fur pattern, wardrobe, lighting, material style and moment. Do not add any character, face, reflection of a character, extra limb, text, watermark or label. No television or console in this front-side shot. No new action, costume or room redesign. Reference 2 is the Trixie character master; use it ONLY to identify the correct asymmetric facial circuit, not its panel layout, labels, pose or background. Keep exactly TWO cats: Byte on FRAME LEFT and Trixie on FRAME RIGHT, the same adjacent seats, matching existing mutual eyelines, costumes, paws and two controllers. Byte remains the orange tabby in round black sunglasses, orange headphones/jacket with his amber controller; do not change Byte. Trixie remains the same youthful female white long-haired cat with blue eyes, pink nose, black/magenta jacket and magenta controller. TARGETED REPAIR: the source incorrectly puts black circuitry on BOTH cheeks. Remove EVERY black circuit line and pink circuit node from her ANATOMICAL LEFT cheek — the large visible cheek on FRAME RIGHT, on the outer/right side of the picture. Restore clean continuous white fur on that entire cheek. Keep ONE circuit only on her ANATOMICAL RIGHT cheek, the cheek on FRAME LEFT toward Byte. Match the black branching path and pink points from the master. Because her head looks toward Byte, that correct far cheek is partly foreshortened/occluded; show only the anatomically visible portion, never mirror a full second pattern onto the near cheek. Do not place any circuit on the forehead, nose or other cheek. Preserve her head turn, expression and blue eyes. Preserve the two controllers and existing grip anatomy. The two cats fill the two-shot; crop away the outer end blankets rather than suggesting these central seats are the ends of a two-seat sofa. Background remains softly lit existing brick. No additional changes, no extra cats, no new face markings.",
+    "medias": [
+      {
+        "role": "image",
+        "value": "acb0ad2f-78f5-4cb7-9489-7b660d73073c"
+      },
+      {
+        "role": "image",
+        "value": "308a2d12-476f-46e4-bed0-29848d380513"
+      }
+    ]
+  },
+  "dependencies": [
+    "SET02",
+    "PROP03",
+    "PROP04",
+    "CREW02",
+    "CREW01"
+  ],
+  "dependency_status": "Required files present, parent cleared SET01/SET02 and corrected PROP04v002/CHAR06v002 for previs; input images visually inspected.",
+  "expected_visible_actor_count": 2,
+  "expected_visible_roles": [
+    "CREW02",
+    "CREW01"
+  ],
+  "audio_alignment_file": "S01E-gpt26-v002.alignment.json",
+  "prompt_file": "S01E-gpt26-v002.prompt.txt",
+  "production_approved": false,
+  "higgsfield_audio_allowed": false,
+  "higgsfield_video_allowed": false,
+  "visual_qa": {
+    "asset_id": "S01E",
+    "version": "v002",
+    "visual_reviewed": true,
+    "reviewed_at": "2026-11-06T20:11:59.869238+00:00",
+    "status": "targeted_correction_pass_review_draft",
+    "production_approved": false,
+    "actual_dimensions": [
+      3840,
+      2160
+    ],
+    "hard_actor_count_pass": true,
+    "paid_retry_count": 0,
+    "shared_manifest_modified": false,
+    "visible_actor_count": 2,
+    "visible_roles": [
+      "Byte",
+      "Trixie"
+    ],
+    "visible_controller_count": 2,
+    "passes": [
+      "Exactly two cats: Byte frame-left and Trixie frame-right; original mutual eyelines retained.",
+      "Trixie circuit only on anatomical RIGHT, the picture-left/far cheek toward Byte, matching the inspected master orientation.",
+      "Anatomical left/picture-right cheek is clean white fur; duplicated near-cheek circuit removed.",
+      "Blue eyes, white fur, pink nose and black/magenta jacket retained; Byte sunglasses, orange fur and headphones retained.",
+      "Two controllers remain in paws with amber and magenta accents; no additional actor or controller.",
+      "Both end blankets excluded."
+    ],
+    "minor_notes": [
+      "A narrow outer couch-back area remains beside each cat; the two-shot was not converted to an extreme portrait.",
+      "Far-cheek circuit is foreshortened by the existing head turn; only the visible portion can be assessed.",
+      "Generative edit is not a pixel-identical local patch."
+    ]
+  },
+  "version": 2,
+  "paid_retries": 0,
+  "supersedes_filename": "S01E-gpt26-v001.png",
+  "edit_scope": "Remove duplicated/wrong-side Trixie circuit; retain only anatomical right-cheek marking from master.",
+  "shared_generation_manifest_update": "Merged by root after original28-frame batch completed.",
+  "qa_file": "S01E-gpt26-v002.qa.json",
+  "observed_controller_count": 2,
+  "authorization_scope": "Separately authorized targeted revision within500-credit Phase2 allowance; outside original28-frame119-credit lease.",
+  "source_initial_frame_lease_credits": 119
+}

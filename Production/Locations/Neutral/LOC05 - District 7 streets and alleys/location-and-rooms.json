@@ -1,0 +1,77 @@
+{
+  "id": "LOC05",
+  "name": "District 7 streets and alleys",
+  "group": "District 7",
+  "priority": "P0",
+  "rooms": [
+    "Main pedestrian street",
+    "East side alley",
+    "Shopfronts",
+    "Utility/fire-escape edge"
+  ],
+  "scene_numbers": [
+    4,
+    8,
+    18
+  ],
+  "filename": "LOC05-district-7-streets-and-alleys-gpt26-v001.png",
+  "props": [
+    "street lamps",
+    "graffiti",
+    "signs",
+    "utility box",
+    "posters",
+    "banners",
+    "newspaper stand"
+  ],
+  "required_outputs": [
+    "Nine-panel location sheet: hero wide, north/south/east/west coverage, overhead plan with camera markers, ceiling/floor, fixed props/materials, reverse wide",
+    "Separate clean full-resolution 16:9 hero and reverse plates, without grid labels",
+    "Four separate wall/directional coverage plates",
+    "Annotated overhead layout with fixed door/window/prop coordinates and screen axis",
+    "Lighting/material palette and day/night variants only when script needs them",
+    "Blank screens and signage areas plus separate exact typography overlays",
+    "QC record, source references, prompt, model/version, dimensions and file hash"
+  ],
+  "status": "generated_review_required",
+  "canonical_references": [
+    "C:\\Users\\DELL\\Desktop\\CyberKitty 2077\\Assets\\Locations\\Neko-Tokyo District 7\\Reference Images\\a3-street-level-hero-walk.png",
+    "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Imported References\\7-catleven-exterior.png"
+  ],
+  "prompt_file": "Location Sheets GPT Image 2.6/LOC05-district-7-streets-and-alleys-gpt26-v001-prompt.txt",
+  "qa_notes": [
+    "Plan camera markers and legend all point north, including B at the north end. The legend says C SOUTH but still shows an upward/N arrow. The north-approach image is another north-looking view, while the reverse view flips storefront/tree sides. Labels and bearings cannot currently define a reliable reverse setup. Correction: Choose the actual north-looking and south-looking plates, label them by camera position plus viewing direction, and redraw B/C bearings. Do not treat all arrows as valid.",
+    "The plan places 7-Catleven south of the east alley, but the east-looking alley view shows its frontage on the left/north side. The alley-mouth reverse also places the store across/right rather than presenting the expected corner relationship from the mapped alley. Correction: Lock the store and alley corner with LOC06 before any continuous street-to-alley move. Retain the main-street design and establish one coherent east-alley corner for scene plates; do not use panel 9 as proven geographic coverage.",
+    "Useful empty District7 street design and textures. Alley/store corner and camera annotations remain drafts. No regeneration retry requested."
+  ],
+  "file_exists": true,
+  "actual_dimensions": [
+    3840,
+    2160
+  ],
+  "bytes": 16245939,
+  "sha256": "3bd909f3e732f8d174409f2255619614b80b381bac7f121496056e92137d071d",
+  "legacy_versions": [
+    {
+      "filename": "LOC05-district7-streets-alleys.png",
+      "status": "not_generated",
+      "file_exists": false,
+      "actual_dimensions": null,
+      "bytes": null,
+      "sha256": null,
+      "prompt_file": "loc01-07-prompts.json",
+      "qa_notes": [
+        "Prompt prepared; generation remains pending."
+      ],
+      "directory": "Location Sheets v01"
+    }
+  ],
+  "relative_output_path": "Location Sheets GPT Image 2.6/LOC05-district-7-streets-and-alleys-gpt26-v001.png",
+  "current_directory": "Location Sheets GPT Image 2.6",
+  "production_approved": false,
+  "receipt_file": "Location Sheets GPT Image 2.6/LOC05-district-7-streets-and-alleys-gpt26-v001.json",
+  "qa_status": "draft-corrections",
+  "qa_document": "Location Sheets GPT Image 2.6/QA-notes.md#loc05",
+  "ownership": "Neutral",
+  "ownership_note": "Production affiliation; not a restriction on which species can appear here."
+}

@@ -1,0 +1,12 @@
+{
+  "id": "velvet",
+  "name": "Velvet",
+  "group": "Dogs",
+  "master_file": "DOG04-velvet-character-master-gpt26-v001.png",
+  "source": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Phase 2\\Dog Masters\\DOG04-velvet-character-master-gpt26-v001.png",
+  "voice_id": "JBFqnCBsd6RMkjVDRZzb",
+  "voice_name": "George - Warm, Captivating Storyteller",
+  "status": "Reference master / review draft; not automatically final approved",
+  "identity": "Afghan Hound; Long silky golden coat, narrow muzzle, dark sunglasses; Black gold-trim corporate suit; group scene shows red tie/accent",
+  "factory_rule": "Only user-referenced standing robot dogs do factory work; civilian dogs do not."
+}

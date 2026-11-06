@@ -1,0 +1,17 @@
+{
+  "asset_id": "S02G",
+  "visual_reviewed": true,
+  "status": "previs_still_review_pass",
+  "expected_actor_count": 1,
+  "observed_actor_count": 1,
+  "hard_actor_count_pass": true,
+  "anatomy_check": "One cat and one attached open furry paw; no extra limbs or faces.",
+  "passes": [
+    "Ghost retains green visor/hood and grey fur; one open furry paw conveys a quiet calming gesture without an extra limb.",
+    "Tight face/shoulder framing excludes neighboring seat spaces, controllers and other actors.",
+    "Blurred lounge keeps window glow left and passage right; television absent."
+  ],
+  "issues": [],
+  "production_approved": false,
+  "paid_retry_performed": false
+}

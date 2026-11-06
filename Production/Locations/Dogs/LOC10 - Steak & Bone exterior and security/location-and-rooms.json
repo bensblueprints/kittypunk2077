@@ -1,0 +1,84 @@
+{
+  "id": "LOC10",
+  "name": "Steak & Bone exterior and security",
+  "group": "Steak & Bone",
+  "priority": "P0",
+  "rooms": [
+    "Main entrance",
+    "Guard positions",
+    "Service entry",
+    "Service alley",
+    "Restaurant surveillance roof"
+  ],
+  "scene_numbers": [
+    11,
+    12,
+    16
+  ],
+  "filename": "LOC10-steak-bone-exterior-and-security-gpt26-v001.png",
+  "props": [
+    "Steak & Bone sign",
+    "valet frontage",
+    "limousine",
+    "CCTV",
+    "guard radio",
+    "bone decoys",
+    "alarm lamp",
+    "surveillance camera"
+  ],
+  "required_outputs": [
+    "Nine-panel location sheet: hero wide, north/south/east/west coverage, overhead plan with camera markers, ceiling/floor, fixed props/materials, reverse wide",
+    "Separate clean full-resolution 16:9 hero and reverse plates, without grid labels",
+    "Four separate wall/directional coverage plates",
+    "Annotated overhead layout with fixed door/window/prop coordinates and screen axis",
+    "Lighting/material palette and day/night variants only when script needs them",
+    "Blank screens and signage areas plus separate exact typography overlays",
+    "QC record, source references, prompt, model/version, dimensions and file hash"
+  ],
+  "status": "generated_review_required",
+  "canonical_references": [
+    "E:/MovedFromC/Documents/Codex/2026-11-06/https-chatgpt-com-share-6aedf171-aae8-2/outputs/Location Sheets v01/LOC12-steak-bone-private-dining.png",
+    "E:/MovedFromC/Documents/Codex/2026-11-06/https-chatgpt-com-share-6aedf171-aae8-2/outputs/Imported References/steak-and-bone-meeting.png"
+  ],
+  "prompt_file": "Location Sheets GPT Image 2.6/LOC10-steak-bone-exterior-and-security-gpt26-v001-prompt.txt",
+  "qa_notes": [
+    "The reverse shows the restaurant facade across a street from a foreground rooftop railing. That is an opposite-building surveillance perch, not the mapped camera B on the restaurant northwest roof; the restaurant cannot see its own whole south facade across the lane from that position. Correction: Keep the exterior design. Either document a separate opposite-roof camera position, or derive a later south-looking plate from the restaurant roof that looks down on its own arrival lane. Do not use this panel as proven camera B coverage.",
+    "The overhead is primarily a roof plan. The north service-door footprint and guard/scanner pedestrian route are not clearly marked even though their views are present. Correction: Annotate those ground-level access points and lock the west stair landing before planning the infiltration path.",
+    "Strong usable restaurant exterior and security fixture reference; rooftop surveillance geography remains draft. Preserve successful facade and material design. No regeneration retry requested."
+  ],
+  "file_exists": true,
+  "actual_dimensions": [
+    3840,
+    2160
+  ],
+  "bytes": 12477104,
+  "sha256": "0046cc574d900e8d950f68731561c295a30cf4660422c54ee5a59e6011771a71",
+  "legacy_versions": [
+    {
+      "filename": "LOC10-steak-bone-exterior-security.png",
+      "status": "generated_review_required",
+      "file_exists": true,
+      "actual_dimensions": [
+        1672,
+        941
+      ],
+      "bytes": 2878283,
+      "sha256": "424c3d201e6e7dbe7bc2b3e997d8bfbf14d9bb438ea13fa7aee753b1c318abc5",
+      "prompt_file": "loc08-14-prompts.json",
+      "qa_notes": [
+        "Generated sheets are review drafts, not production-approved camera or geometry masters.",
+        "Empty luxury restaurant facade, security kiosk/scanners, rear service loading exit, side windows, maintenance stair and rooftop included.",
+        "Exterior is a proposed expansion from the approved interior, not a recovered original location. Camera plan is conceptual rather than measured architectural geometry."
+      ],
+      "directory": "Location Sheets v01"
+    }
+  ],
+  "relative_output_path": "Location Sheets GPT Image 2.6/LOC10-steak-bone-exterior-and-security-gpt26-v001.png",
+  "current_directory": "Location Sheets GPT Image 2.6",
+  "production_approved": false,
+  "receipt_file": "Location Sheets GPT Image 2.6/LOC10-steak-bone-exterior-and-security-gpt26-v001.json",
+  "qa_status": "draft-corrections",
+  "qa_document": "Location Sheets GPT Image 2.6/QA-notes.md#loc10",
+  "ownership": "Dogs",
+  "ownership_note": "Production affiliation; not a restriction on which species can appear here."
+}

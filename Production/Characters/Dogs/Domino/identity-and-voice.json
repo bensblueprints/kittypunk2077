@@ -1,0 +1,12 @@
+{
+  "id": "domino",
+  "name": "Domino",
+  "group": "Dogs",
+  "master_file": "DOG05-domino-character-master-gpt26-v001.png",
+  "source": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Phase 2\\Dog Masters\\DOG05-domino-character-master-gpt26-v001.png",
+  "voice_id": "iP95p4xoKVk53GoZ742B",
+  "voice_name": "Chris - Charming, Down-to-Earth",
+  "status": "Reference master / review draft; not automatically final approved",
+  "identity": "Dalmatian; White coat with distinct black spots; floppy ears; Black gold-trim corporate/military suit",
+  "factory_rule": "Only user-referenced standing robot dogs do factory work; civilian dogs do not."
+}

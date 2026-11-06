@@ -1,13 +1,8 @@
 {
-  "timestamp": "2026-11-06T21:38:07.427290+00:00",
-  "indexed_files": 827,
-  "indexed_bytes": 1992773737,
-  "archived": [
-    {
-      "from": "C:\\Users\\DELL\\Desktop\\CyberKitty 2077\\_work",
-      "to": "C:\\Users\\DELL\\Desktop\\CyberKitty 2077\\Archive\\Legacy Work"
-    }
-  ],
+  "timestamp": "2026-11-06T21:46:09.366722+00:00",
+  "indexed_files": 828,
+  "indexed_bytes": 1992776073,
+  "archived": [],
   "deleted_files": 0,
   "duplicate_content_groups": 28,
   "duplicates_preserved_reason": "Existing reference paths, original sources and historical receipts are retained; identical media across reference packs may be intentional.",

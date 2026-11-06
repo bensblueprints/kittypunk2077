@@ -1,0 +1,24 @@
+{
+  "episode": 3,
+  "title": "If I Fits, I Resists",
+  "runtime_minutes": 20,
+  "setup": "Redevelopment drones paste eviction notices over District 7 doors, including the cardboard shelters beneath a monorail station. Onyx insists the resistance must protect people, not just expose paperwork.",
+  "escalation": "Ghost finds that the bulldozer route predates the shortage. Fetch uses the eviction as bait to catch the crew. Trixie can stop either the demolition relay or the camera archive before their access expires; the team must split tasks.",
+  "resolution": "Neon physically isolates the demolition machines while Trixie preserves the dated order. Onyx gets residents to a safe warehouse annex, and Byte wins a public injunction by proving the corporation's own notice period was falsified. Homes survive the immediate operation.",
+  "continuity": "The warehouse becomes a real community responsibility. A buried service map shows an older infrastructure level beneath modern Goodboy branding; nobody knows its purpose yet.",
+  "locations": [
+    "District 7 slums",
+    "monorail underpass",
+    "warehouse annex",
+    "checkpoint"
+  ],
+  "cast": [
+    "core five cats",
+    "Fetch",
+    "cat citizens",
+    "guards"
+  ],
+  "comedy": "The evacuation stalls because every cat wants the same superior cardboard box. Onyx institutes a deeply unpopular box rotation.",
+  "ending_hook": "Fetch recognizes one of Ghost's service routes and begins closing the exits.",
+  "status": "Development draft — not scripted or recorded"
+}

@@ -1,0 +1,41 @@
+{
+  "scene": 10,
+  "start": "08:40",
+  "end": "09:45",
+  "scene_duration_seconds": 65,
+  "location_ids": [
+    "LOC04"
+  ],
+  "shots": [
+    {
+      "shot_id": "S10-B01",
+      "description": "Overhead workbench",
+      "status": "source shot beat; detailed shot duration and coverage pending",
+      "duration_seconds": null
+    },
+    {
+      "shot_id": "S10-B02",
+      "description": "rotating bone device",
+      "status": "source shot beat; detailed shot duration and coverage pending",
+      "duration_seconds": null
+    },
+    {
+      "shot_id": "S10-B03",
+      "description": "Neon testing remote",
+      "status": "source shot beat; detailed shot duration and coverage pending",
+      "duration_seconds": null
+    },
+    {
+      "shot_id": "S10-B04",
+      "description": "Ghost checking stealth equipment",
+      "status": "source shot beat; detailed shot duration and coverage pending",
+      "duration_seconds": null
+    },
+    {
+      "shot_id": "S10-B05",
+      "description": "comedy test.",
+      "status": "source shot beat; detailed shot duration and coverage pending",
+      "duration_seconds": null
+    }
+  ]
+}

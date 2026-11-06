@@ -1,0 +1,151 @@
+{
+  "board_id": 133,
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "card_id": 1027,
+      "title": "S01E01 — The Great Salmon Shortage — 20 min"
+    },
+    {
+      "season": 1,
+      "episode": 2,
+      "card_id": 1028,
+      "title": "S01E02 — Terms and Purrditions — 20 min"
+    },
+    {
+      "season": 1,
+      "episode": 3,
+      "card_id": 1029,
+      "title": "S01E03 — If I Fits, I Resists — 20 min"
+    },
+    {
+      "season": 1,
+      "episode": 4,
+      "card_id": 1030,
+      "title": "S01E04 — The Algorithm Ate My Homework — 20 min"
+    },
+    {
+      "season": 1,
+      "episode": 5,
+      "card_id": 1031,
+      "title": "S01E05 — Good Boys Get Upgrades — 20 min"
+    },
+    {
+      "season": 1,
+      "episode": 6,
+      "card_id": 1032,
+      "title": "S01E06 — No Cat Left Offline — 20 min"
+    },
+    {
+      "season": 1,
+      "episode": 7,
+      "card_id": 1033,
+      "title": "S01E07 — Too Big to Neuter — 20 min"
+    },
+    {
+      "season": 1,
+      "episode": 8,
+      "card_id": 1034,
+      "title": "S01E08 — Unsubscribe from Everything — 20 min"
+    },
+    {
+      "season": 2,
+      "episode": 1,
+      "card_id": 1035,
+      "title": "S02E01 — Good Morning, Property — 20 min"
+    },
+    {
+      "season": 2,
+      "episode": 2,
+      "card_id": 1036,
+      "title": "S02E02 — Mandatory Enrichment — 20 min"
+    },
+    {
+      "season": 2,
+      "episode": 3,
+      "card_id": 1037,
+      "title": "S02E03 — Muzzle Velocity — 20 min"
+    },
+    {
+      "season": 2,
+      "episode": 4,
+      "card_id": 1038,
+      "title": "S02E04 — Dog Eat Dashboard — 20 min"
+    },
+    {
+      "season": 2,
+      "episode": 5,
+      "card_id": 1039,
+      "title": "S02E05 — You May Now Pet the State — 20 min"
+    },
+    {
+      "season": 2,
+      "episode": 6,
+      "card_id": 1040,
+      "title": "S02E06 — The Last Human Password — 20 min"
+    },
+    {
+      "season": 2,
+      "episode": 7,
+      "card_id": 1041,
+      "title": "S02E07 — Off the Leash — 20 min"
+    },
+    {
+      "season": 2,
+      "episode": 8,
+      "card_id": 1042,
+      "title": "S02E08 — Nobody Owns a Cat — 20 min"
+    },
+    {
+      "season": 3,
+      "episode": 1,
+      "card_id": 1043,
+      "title": "S03E01 — Someone's Coming Home — 20 min"
+    },
+    {
+      "season": 3,
+      "episode": 2,
+      "card_id": 1044,
+      "title": "S03E02 — The Salmon Standard — 20 min"
+    },
+    {
+      "season": 3,
+      "episode": 3,
+      "card_id": 1045,
+      "title": "S03E03 — Paws and Conditions — 20 min"
+    },
+    {
+      "season": 3,
+      "episode": 4,
+      "card_id": 1046,
+      "title": "S03E04 — Fetch the Future — 20 min"
+    },
+    {
+      "season": 3,
+      "episode": 5,
+      "card_id": 1047,
+      "title": "S03E05 — Bark to the Future — 20 min"
+    },
+    {
+      "season": 3,
+      "episode": 6,
+      "card_id": 1048,
+      "title": "S03E06 — The Muzzle Comes with Terms — 20 min"
+    },
+    {
+      "season": 3,
+      "episode": 7,
+      "card_id": 1049,
+      "title": "S03E07 — Nine Lives, One City — 20 min"
+    },
+    {
+      "season": 3,
+      "episode": 8,
+      "card_id": 1050,
+      "title": "S03E08 — Welcome to Our Home — 20 min"
+    }
+  ],
+  "episode_runtime_seconds": 1200,
+  "series_minutes": 480
+}

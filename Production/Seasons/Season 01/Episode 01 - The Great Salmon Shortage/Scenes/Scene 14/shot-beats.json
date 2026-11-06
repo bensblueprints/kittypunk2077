@@ -1,0 +1,41 @@
+{
+  "scene": 14,
+  "start": "12:35",
+  "end": "13:35",
+  "scene_duration_seconds": 60,
+  "location_ids": [
+    "LOC12"
+  ],
+  "shots": [
+    {
+      "shot_id": "S14-B01",
+      "description": "Dining-room wide",
+      "status": "source shot beat; detailed shot duration and coverage pending",
+      "duration_seconds": null
+    },
+    {
+      "shot_id": "S14-B02",
+      "description": "two-shot across table",
+      "status": "source shot beat; detailed shot duration and coverage pending",
+      "duration_seconds": null
+    },
+    {
+      "shot_id": "S14-B03",
+      "description": "close-up of Shiba anchor",
+      "status": "source shot beat; detailed shot duration and coverage pending",
+      "duration_seconds": null
+    },
+    {
+      "shot_id": "S14-B04",
+      "description": "Barkington's gold ring and paw",
+      "status": "source shot beat; detailed shot duration and coverage pending",
+      "duration_seconds": null
+    },
+    {
+      "shot_id": "S14-B05",
+      "description": "hidden surveillance angle.",
+      "status": "source shot beat; detailed shot duration and coverage pending",
+      "duration_seconds": null
+    }
+  ]
+}

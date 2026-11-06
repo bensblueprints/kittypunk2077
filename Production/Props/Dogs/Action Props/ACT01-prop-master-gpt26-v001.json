@@ -1,0 +1,45 @@
+{
+  "id": "ACT01",
+  "name": "Silent service robot",
+  "index": 0,
+  "filename": "ACT01-prop-master-gpt26-v001.png",
+  "category": "Action Props",
+  "provider": "Higgsfield",
+  "model": "gpt_image_2_6",
+  "parameters": {
+    "model": "gpt_image_2_6",
+    "quality": "high",
+    "resolution": "4k",
+    "aspect_ratio": "16:9",
+    "count": 1,
+    "output_format": "png",
+    "background": "opaque",
+    "medias": [
+      {
+        "role": "image",
+        "value": "ac35a11a-fe34-4457-b3cc-7242e3855e56"
+      }
+    ],
+    "prompt": "Create ONE finished production prop reference sheet, landscape 16:9 4K. Title ACT01 \u2014 Silent service robot. Tactile cinematic 3D animation matching reference materials, restrained cyan/magenta and amber accents, clearly lit to inspect design. Clean 3x3 nine-panel grid, short labels only. The same fixed physical objects across all angles and states, not alternative concepts. References are visual context, ignore reference captions. Complete objects with margin, no humans/cats/dogs or hands, no watermarks or dense prose. One waist-high restaurant service robot: oval brushed bronze housing, two low rubber drive wheels and rear caster, slim black sensor strip, single round dark tray on a central telescopic stem, modest amber status dot. No face or mouth, no speech. Nine panels FRONT, BACK, LEFT, RIGHT, TOP, TRAY DETAIL, WHEEL & SENSOR, IDLE, PASS & TURN. Proposed fixed dimensions height0.95m body width0.42m tray diameter0.45m. Same robot in every view. Empty tray; no actors."
+  },
+  "job_id": "51265bab-6f28-48ff-9382-eccbd81a7b2c",
+  "status": "completed",
+  "adjustments": {
+    "medias[0].role": {
+      "requested": "image",
+      "used": "image_references",
+      "reason": "GPT Image 2.6 backend expects schema-key media roles"
+    }
+  },
+  "cost_preflight_credits": 4.25,
+  "type": "image",
+  "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3FexRxU2V7FefQUvOnG7eFCKfmw/hf_20261106_210321_51265bab-6f28-48ff-9382-eccbd81a7b2c.png",
+  "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Next Assets\\Action Props\\ACT01-prop-master-gpt26-v001.png",
+  "dimensions": [
+    3840,
+    2160
+  ],
+  "sha256": "70ef947bc68c9e41dea46889d07308c47f5ccf1985d0733e3b3caa9d3864e5ef",
+  "review_status": "visual_review_pending",
+  "production_approved": false
+}

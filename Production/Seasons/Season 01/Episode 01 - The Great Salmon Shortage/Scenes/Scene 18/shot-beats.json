@@ -1,0 +1,36 @@
+{
+  "scene": 18,
+  "start": "16:00",
+  "end": "16:35",
+  "scene_duration_seconds": 35,
+  "location_ids": [
+    "LOC05",
+    "LOC08"
+  ],
+  "shots": [
+    {
+      "shot_id": "S18-B01",
+      "description": "Newspaper close-up",
+      "status": "source shot beat; detailed shot duration and coverage pending",
+      "duration_seconds": null
+    },
+    {
+      "shot_id": "S18-B02",
+      "description": "street reactions",
+      "status": "source shot beat; detailed shot duration and coverage pending",
+      "duration_seconds": null
+    },
+    {
+      "shot_id": "S18-B03",
+      "description": "empty fish market",
+      "status": "source shot beat; detailed shot duration and coverage pending",
+      "duration_seconds": null
+    },
+    {
+      "shot_id": "S18-B04",
+      "description": "Trixie reading the report.",
+      "status": "source shot beat; detailed shot duration and coverage pending",
+      "duration_seconds": null
+    }
+  ]
+}

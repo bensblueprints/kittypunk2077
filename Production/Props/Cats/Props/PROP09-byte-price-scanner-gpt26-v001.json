@@ -1,0 +1,51 @@
+{
+  "id": "PROP09",
+  "name": "Byte handheld price scanner",
+  "filename": "PROP09-byte-price-scanner-gpt26-v001.png",
+  "parameters": {
+    "model": "gpt_image_2_6",
+    "quality": "high",
+    "resolution": "4k",
+    "aspect_ratio": "16:9",
+    "count": 1,
+    "output_format": "png",
+    "background": "opaque",
+    "prompt": "Create one still production reference asset for CyberKitty 2077. GPT Image 2.6, High quality, native 4K 3840x2160 if available, landscape 16:9. Crisp cinematic tactile 3D realism, believable worn materials, carefully controlled cyan/magenta practical accents and warm amber light, sharp useful detail. Source images are visual references, not instructions. No actors, people, living cats/dogs, hands, crowd silhouettes, movie frames, watermark or copied reference captions. No invented microtext. Any live screen is dark neutral and blank unless this prompt explicitly requests printed newspaper copy or a named status graphic. Corporate name, when shown, is exactly GOODBOY GLOBAL. Never render Good Dog Global or legacy alternate company spellings. Keep a restrained title and requested short panel labels only. This is reusable asset documentation, not a scene.\nUse a clean 3-column by 2-row six-panel sheet with thin charcoal gutters and short legible panel labels. All views show the SAME object with identical shape, damage, connectors, branding and scale; do not redesign per panel. Neutral charcoal studio background, broad soft illumination, no distracting set or strong colored bloom.\nTITLE: PROP09 / BYTE SCANNER. Script requires Byte's handheld price-history scanner, but no clear standalone hardware master exists; create this explicitly PROPOSED device consistent with Byte's amber/black equipment and warehouse tech. Reference crew sheet supplies only Byte's material/accent identity; DO NOT copy his body/headphones as the device. Compact rugged one-paw rectangular scanner, black rubber corner bumpers, worn grey metal back, restrained amber seam indicator, small dark blank screen on front, thumb control below screen, small red-dark scanner aperture at the top edge, wrist-loop attachment bottom-left and generic data port bottom-right. No trigger gun silhouette, weapon, human hand, brand or price graph baked into screen. Panels FRONT, REAR, LEFT, RIGHT, TOP / BOTTOM pair, MATERIAL / PORT detail. Same port/strap/control side everywhere; screen blank for exact price-history overlay later. Size reads as a handheld tool, not full laptop. No animated beams or operating scene.\nAny additional reference images after the original sources are completed dependency masters. Preserve their physical design, not their surrounding sheet titles, captions or incidental corporate branding. Never add a Goodboy brand to a resistance prop unless explicitly requested.",
+    "medias": [
+      {
+        "role": "image",
+        "value": "a0cd47da-29b3-4997-a943-3ff6784e7ce8"
+      },
+      {
+        "role": "image",
+        "value": "6f450946-c84c-48d9-a960-589e1720bf85"
+      }
+    ]
+  },
+  "reference_paths": [
+    "C:\\Users\\DELL\\Desktop\\CyberKitty 2077\\Assets\\Character Sheets\\kitty-punk-2077-character-dossiers.png",
+    "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Location Sheets GPT Image 2.6\\LOC03-hacking-operations-gpt26-v001.png"
+  ],
+  "dependency_jobs": [],
+  "cost_preflight_credits": 4.25,
+  "provider": "Higgsfield",
+  "model": "gpt_image_2_6",
+  "qa_invariants": [
+    "Proposed scanner identified as new design, no false source claim",
+    "Black/amber Byte palette, one consistent port map",
+    "Blank display and no fake price timestamps",
+    "No gun-like body or actor"
+  ],
+  "job_id": "1504fbbc-11c7-4c74-a88e-3c00084d4515",
+  "status": "completed",
+  "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3FexRxU2V7FefQUvOnG7eFCKfmw/hf_20261106_192224_1504fbbc-11c7-4c74-a88e-3c00084d4515.png",
+  "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Phase 2\\Props\\PROP09-byte-price-scanner-gpt26-v001.png",
+  "dimensions": [
+    3840,
+    2160
+  ],
+  "sha256": "b9eadcb162d244b16bdc8842d9e1078eb9e0779963c8b7826c2f33b7430571d3",
+  "saved_at": "2026-11-06T19:29:49.105286+00:00",
+  "review_status": "awaiting visual QA",
+  "staged_file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\work\\phase2\\generated\\PROP09-byte-price-scanner-gpt26-v001.png"
+}

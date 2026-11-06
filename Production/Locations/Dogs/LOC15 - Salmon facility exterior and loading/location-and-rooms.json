@@ -1,0 +1,83 @@
+{
+  "id": "LOC15",
+  "name": "Salmon facility exterior and loading",
+  "group": "Salmon Facility",
+  "priority": "P0",
+  "rooms": [
+    "Guarded vehicle gate",
+    "Four loading bays",
+    "Staff/service door",
+    "Cold utility enclosure",
+    "Loading yard"
+  ],
+  "scene_numbers": [
+    20,
+    22
+  ],
+  "filename": "LOC15-salmon-facility-exterior-and-loading-gpt26-v001.png",
+  "props": [
+    "refrigerated trucks",
+    "sealed salmon crates",
+    "CCTV",
+    "guard booth",
+    "bollards",
+    "D1-6 and D7-12 destination overlays",
+    "fish neon"
+  ],
+  "required_outputs": [
+    "Nine-panel location sheet: hero wide, north/south/east/west coverage, overhead plan with camera markers, ceiling/floor, fixed props/materials, reverse wide",
+    "Separate clean full-resolution 16:9 hero and reverse plates, without grid labels",
+    "Four separate wall/directional coverage plates",
+    "Annotated overhead layout with fixed door/window/prop coordinates and screen axis",
+    "Lighting/material palette and day/night variants only when script needs them",
+    "Blank screens and signage areas plus separate exact typography overlays",
+    "QC record, source references, prompt, model/version, dimensions and file hash"
+  ],
+  "status": "generated_review_required",
+  "canonical_references": [
+    "C:/Users/DELL/Desktop/CyberKitty 2077/Assets/Locations/The Salmon Factory/Reference Images/location-sheet-the-salmon-factory.png",
+    "C:/Users/DELL/Desktop/CyberKitty 2077/Assets/Locations/Neko-Tokyo District 7/Reference Images/b4-salmon-factory-exterior.png"
+  ],
+  "prompt_file": "Location Sheets GPT Image 2.6/LOC15-salmon-facility-exterior-and-loading-gpt26-v001-prompt.txt",
+  "qa_notes": [
+    "Guard booth is east/right of south gate in the north-up plan, but right of the gate in the south-facing SOUTH and reverse renders, placing it west in those views. This violates the explicit no-mirroring requirement.",
+    "Directional labels disagree with rendered views and the specified exterior convention. NORTH shows the north facade viewed from south; SOUTH says looking north but depicts the south gate from inside looking south.",
+    "Plan camera B is drawn near the southeast portion of the yard rather than the requested northeast reverse position. Camera icons lack clearly readable look arrows; verify against the reverse plate.",
+    "Extra Kitty Punk 2077 wordmark appears in the header despite title/short-label-only instruction.",
+    "Retain industrial design and dock assignment; correct booth side and plan/view labels before production blocking."
+  ],
+  "file_exists": true,
+  "actual_dimensions": [
+    3840,
+    2160
+  ],
+  "bytes": 13693393,
+  "sha256": "90038d12ae861fdbe03b92ccd4310a9e68c2861852b0706e45979ab9413a5077",
+  "legacy_versions": [
+    {
+      "filename": "LOC15-salmon-facility-exterior-loading.png",
+      "status": "generated_review_required",
+      "file_exists": true,
+      "actual_dimensions": [
+        1672,
+        941
+      ],
+      "bytes": 3060777,
+      "sha256": "75ed374c490e5c9936c20c0ee2b28981b1e295e3946f14555aee58ef1e524ee8",
+      "prompt_file": "loc15-20-prompts.json",
+      "qa_notes": [
+        "Generated sheets are review drafts, not production-approved camera or geometry masters.",
+        "Architectural design draft; hero dock layout, utility area, gate/booth and floorplan broadly agree. Check all ground-lane arrows against camera-specific continuity before final shot plates."
+      ],
+      "directory": "Location Sheets v01"
+    }
+  ],
+  "relative_output_path": "Location Sheets GPT Image 2.6/LOC15-salmon-facility-exterior-and-loading-gpt26-v001.png",
+  "current_directory": "Location Sheets GPT Image 2.6",
+  "production_approved": false,
+  "receipt_file": "Location Sheets GPT Image 2.6/LOC15-salmon-facility-exterior-and-loading-gpt26-v001.json",
+  "qa_status": "draft_requires_gate_and_camera_corrections",
+  "qa_document": "Location Sheets GPT Image 2.6/QA-notes.md#loc15",
+  "ownership": "Dogs",
+  "ownership_note": "Production affiliation; not a restriction on which species can appear here."
+}

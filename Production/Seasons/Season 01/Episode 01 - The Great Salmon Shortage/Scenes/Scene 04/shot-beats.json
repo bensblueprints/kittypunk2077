@@ -1,0 +1,37 @@
+{
+  "scene": 4,
+  "start": "03:05",
+  "end": "04:00",
+  "scene_duration_seconds": 55,
+  "location_ids": [
+    "LOC01",
+    "LOC05",
+    "LOC06"
+  ],
+  "shots": [
+    {
+      "shot_id": "S04-B01",
+      "description": "Street-wide tracking",
+      "status": "source shot beat; detailed shot duration and coverage pending",
+      "duration_seconds": null
+    },
+    {
+      "shot_id": "S04-B02",
+      "description": "close-up of desperate shoppers",
+      "status": "source shot beat; detailed shot duration and coverage pending",
+      "duration_seconds": null
+    },
+    {
+      "shot_id": "S04-B03",
+      "description": "Trixie and Byte walking",
+      "status": "source shot beat; detailed shot duration and coverage pending",
+      "duration_seconds": null
+    },
+    {
+      "shot_id": "S04-B04",
+      "description": "storefront reveal.",
+      "status": "source shot beat; detailed shot duration and coverage pending",
+      "duration_seconds": null
+    }
+  ]
+}

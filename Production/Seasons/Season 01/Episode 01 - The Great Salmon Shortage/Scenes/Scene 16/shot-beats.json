@@ -1,0 +1,42 @@
+{
+  "scene": 16,
+  "start": "14:20",
+  "end": "15:10",
+  "scene_duration_seconds": 50,
+  "location_ids": [
+    "LOC10",
+    "LOC11"
+  ],
+  "shots": [
+    {
+      "shot_id": "S16-B01",
+      "description": "Alarm light",
+      "status": "source shot beat; detailed shot duration and coverage pending",
+      "duration_seconds": null
+    },
+    {
+      "shot_id": "S16-B02",
+      "description": "fast corridor tracking",
+      "status": "source shot beat; detailed shot duration and coverage pending",
+      "duration_seconds": null
+    },
+    {
+      "shot_id": "S16-B03",
+      "description": "Onyx blocking a doorway",
+      "status": "source shot beat; detailed shot duration and coverage pending",
+      "duration_seconds": null
+    },
+    {
+      "shot_id": "S16-B04",
+      "description": "bone decoy bouncing",
+      "status": "source shot beat; detailed shot duration and coverage pending",
+      "duration_seconds": null
+    },
+    {
+      "shot_id": "S16-B05",
+      "description": "rooftop escape wide.",
+      "status": "source shot beat; detailed shot duration and coverage pending",
+      "duration_seconds": null
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "id": "woof7_anchor",
+  "name": "WOOF7 Anchor",
+  "group": "Dogs",
+  "master_file": "SUP04-character-master-gpt26-v001.png",
+  "source": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Next Assets\\Supporting Cast\\SUP04-character-master-gpt26-v001.png",
+  "voice_id": "cjVigY5qzO86Huf0OWal",
+  "voice_name": "Eric",
+  "status": "Reference master / review draft; not automatically final approved",
+  "identity": "Orange-tan Shiba Inu with cream muzzle/cheeks and upright ears; rectangular black eyeglasses; dark pinstripe suit, white shirt, deep red tie, small gold paw lapel pin. Match the left seated Shiba in restaurant reference, not the right Doberman or inset altered Shiba. Canine paws.",
+  "factory_rule": "Only user-referenced standing robot dogs do factory work; civilian dogs do not."
+}

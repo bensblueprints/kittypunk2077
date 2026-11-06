@@ -1,0 +1,35 @@
+{
+  "scene": 19,
+  "start": "16:35",
+  "end": "17:10",
+  "scene_duration_seconds": 35,
+  "location_ids": [
+    "LOC03"
+  ],
+  "shots": [
+    {
+      "shot_id": "S19-B01",
+      "description": "Shipping database",
+      "status": "source shot beat; detailed shot duration and coverage pending",
+      "duration_seconds": null
+    },
+    {
+      "shot_id": "S19-B02",
+      "description": "district map",
+      "status": "source shot beat; detailed shot duration and coverage pending",
+      "duration_seconds": null
+    },
+    {
+      "shot_id": "S19-B03",
+      "description": "redirection arrows",
+      "status": "source shot beat; detailed shot duration and coverage pending",
+      "duration_seconds": null
+    },
+    {
+      "shot_id": "S19-B04",
+      "description": "close-up of salmon shipment records.",
+      "status": "source shot beat; detailed shot duration and coverage pending",
+      "duration_seconds": null
+    }
+  ]
+}

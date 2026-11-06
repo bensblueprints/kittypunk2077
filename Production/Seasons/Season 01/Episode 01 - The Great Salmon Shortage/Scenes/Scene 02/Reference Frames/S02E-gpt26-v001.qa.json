@@ -1,0 +1,17 @@
+{
+  "asset_id": "S02E",
+  "visual_reviewed": true,
+  "status": "previs_still_review_pass",
+  "expected_actor_count": 1,
+  "observed_actor_count": 1,
+  "hard_actor_count_pass": true,
+  "anatomy_check": "One cat face and upper shoulders; no extra anatomy.",
+  "passes": [
+    "Neon's cyan visor, visible amber eyes, silver stripes and patterned scarf remain correct; open-mouth interrupted-play reaction.",
+    "Tight face/shoulder framing excludes neighboring seat spaces, controllers and other actors.",
+    "Blurred lounge keeps window glow left and passage right; television absent."
+  ],
+  "issues": [],
+  "production_approved": false,
+  "paid_retry_performed": false
+}

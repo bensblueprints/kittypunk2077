@@ -1,0 +1,25 @@
+{
+  "episode": 4,
+  "title": "Dog Eat Dashboard",
+  "runtime_minutes": 20,
+  "setup": "CARETAKER closes an unsafe canine industrial zone, trapping workers behind automated barriers. Fetch receives an order to defend the perimeter rather than rescue them.",
+  "escalation": "Barkington endorses the closure to protect a profitable central district. Onyx offers Fetch a practical evacuation plan, but working with cats means defying the chairman in public.",
+  "resolution": "Fetch opens one service gate and helps the cats evacuate the workers. The local rescue succeeds. He refuses to join the resistance and still answers for his earlier actions, but the canine workforce sees the limits of corporate loyalty.",
+  "continuity": "Fetch's change is a specific disobedient act with consequences, not instant redemption. Barkington loses confidence in him and elevates automated security.",
+  "locations": [
+    "industrial checkpoint",
+    "Salmon Factory service road",
+    "Goodboy command room"
+  ],
+  "cast": [
+    "core five cats",
+    "Fetch",
+    "Barkington",
+    "CARETAKER",
+    "factory worker",
+    "dog workers"
+  ],
+  "comedy": "Fetch and Onyx discover they use the same evacuation checklist and hate agreeing about it.",
+  "ending_hook": "Fetch is ordered to surrender his command codes to Muzzle.",
+  "status": "Development draft — not scripted or recorded"
+}

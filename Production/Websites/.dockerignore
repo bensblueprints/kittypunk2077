@@ -1,0 +1,9 @@
+.env
+data/*
+__pycache__
+*.sqlite3
+tests.py
+producer-access.txt
+*.tar.gz
+deploy_*.sh
+kittypunk-nginx.conf

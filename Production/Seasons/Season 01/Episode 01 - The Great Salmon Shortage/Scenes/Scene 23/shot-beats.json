@@ -1,0 +1,43 @@
+{
+  "scene": 23,
+  "start": "19:05",
+  "end": "19:30",
+  "scene_duration_seconds": 25,
+  "location_ids": [
+    "LOC08",
+    "LOC14",
+    "LOC20"
+  ],
+  "shots": [
+    {
+      "shot_id": "S23-B01",
+      "description": "Truck arrival",
+      "status": "source shot beat; detailed shot duration and coverage pending",
+      "duration_seconds": null
+    },
+    {
+      "shot_id": "S23-B02",
+      "description": "salmon crates",
+      "status": "source shot beat; detailed shot duration and coverage pending",
+      "duration_seconds": null
+    },
+    {
+      "shot_id": "S23-B03",
+      "description": "cheering citizens",
+      "status": "source shot beat; detailed shot duration and coverage pending",
+      "duration_seconds": null
+    },
+    {
+      "shot_id": "S23-B04",
+      "description": "NIP7 news broadcast",
+      "status": "source shot beat; detailed shot duration and coverage pending",
+      "duration_seconds": null
+    },
+    {
+      "shot_id": "S23-B05",
+      "description": "crew watching from a rooftop.",
+      "status": "source shot beat; detailed shot duration and coverage pending",
+      "duration_seconds": null
+    }
+  ]
+}

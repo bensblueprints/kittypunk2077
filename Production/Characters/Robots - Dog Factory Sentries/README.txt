@@ -1,0 +1,1 @@
+User screenshots are the visual authority: bipedal canine silhouette, black helmet, red wraparound visor, segmented armor, canine muzzle and tail. Standalone master pending. These robots perform factory work. They are not Guard A/B or General Fetch.

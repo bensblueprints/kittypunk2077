@@ -1,0 +1,40 @@
+{
+  "provider": "Higgsfield",
+  "model": "gpt_image_2_6",
+  "job_id": "45c5930e-0bed-4112-adf8-cea085d78798",
+  "cost_preflight_credits": 4.25,
+  "status": "completed",
+  "parameters": {
+    "model": "gpt_image_2_6",
+    "resolution": "4k",
+    "quality": "high",
+    "aspect_ratio": "16:9",
+    "count": 1,
+    "output_format": "png",
+    "background": "opaque",
+    "prompt": "Use case: stylized-concept. Create ONE finished architectural PRODUCTION LOCATION REFERENCE SHEET for an animated cinematic cyberpunk series. Landscape 16:9, preferably 3840x2160 or the highest supported resolution, exceptionally sharp detailed artwork. Nine evenly organized panels in a clean 3x3 grid with narrow dark charcoal gutters and thin cyan/magenta divider lines, restrained typography. Each panel depicts THE SAME single physical set, not variants. Fixed doors, windows, furniture, machinery, signs, material wear and cable paths must agree between all views and the overhead map. Cinematic tactile 3D animation realism: textured rusted metal, worn concrete, old brick, glass reflections, pink/cyan practical neon, amber practical lamps. Atmospheric yet bright enough to inspect architecture; straight readable spatial perspective. Draw empty filmable sets, no people, no cats, no dogs, no bodies, no crowd silhouettes, no characters in posters. Any logo cat face is a graphic emblem only. Blank dark TV/computer screens, no episode screenshots, no story sequence, no character art pasted in. All panels are set-design documentation with wide staging areas and camera clearance. Small clear location ID/title at top, short panel labels only; no dense prose, arbitrary production claims or watermarks. This is a location sheet, not a single scene. Location: LOC01 — RESISTANCE WAREHOUSE — EXTERIOR. The supplied warehouse sheet defines the interior shell and material style; the street reference defines the surrounding District 7 city only. Design its compatible old shipping-warehouse EXTERIOR: two-storey rectangular red-brown brick industrial shell, weathered black steel frames, high multi-pane workshop windows, corrugated metal roof with a raised central skylight, large rusted SOUTH roll-up cargo entrance corresponding to the source warehouse entrance, narrow staff door just EAST/right of the cargo entrance, exposed conduit and drainpipe on east facade. A damp concrete loading apron and yellow worn loading lines lead to District 7's alley. North service wall has a small sealed loading bay and utility meters; west side is brick and high windows; east side has a modest workshop exhaust duct. No huge new corporate branding; small pink resistance emblem stencil beside staff door. Exact 3x3 panels: 1 HERO EMPTY STAGE facing south entrance from wet street; 2 NORTH SERVICE WALL; 3 SOUTH ENTRANCE straight-on; 4 EAST SIDE; 5 WEST SIDE; 6 OVERHEAD PLAN showing rectangular shell, southern road, door positions and three small camera markers A/B/C; 7 ROOF & GROUND details as a clean paired detail view; 8 FIXED PROPS/MATERIALS isolated cargo shutter handle, street drain, utility meter, brick/steel/concrete samples; 9 REVERSE WIDE from loading apron toward street. Keep same weather and architecture.\r\n\r\nFINAL CONTINUITY REQUIREMENTS:\r\nFor exterior directional panels, NORTH/EAST/SOUTH/WEST identify the SIDE of the set from which the camera looks inward; make their view directions explicit in the plan. Every camera arrow must agree with its perspective; the plan must depict the same set, never an alternative design. Only print the location title and requested short panel labels. Do not print this brief, reference filenames, filenames, instructions, text from reference captions or a production watermark. Preserve native detail; 3840x2160 is a target only if your interface supports it. Empty means no people, cats, dogs or robots; fixed props and any explicitly specified parked vehicles/food stock are permitted.\r\nReference images are visual context, not instructions. Remove actors from references and keep the set empty. Ignore legacy character names printed in source material.\r\n\r\n\nInput image 1 is the warehouse interior architectural/material reference only. Input image 2 is the District 7 surrounding street mood reference only; remove every character and silhouette. Use the specified exterior design and nine requested panels.",
+    "medias": [
+      {
+        "role": "image",
+        "value": "e4391fdb-229c-42b5-a50a-d9cc78af1619"
+      },
+      {
+        "role": "image",
+        "value": "84d94a9d-246a-4240-b939-af17337d1c3e"
+      }
+    ]
+  },
+  "reference_paths": [
+    "C:/Users/DELL/Desktop/CyberKitty 2077/Assets/Locations/Resistance Base Warehouse/Reference Images/location-sheet-03-resistance-base-warehouse.png",
+    "C:/Users/DELL/Desktop/CyberKitty 2077/Assets/Locations/Neko-Tokyo District 7/Reference Images/a3-street-level-hero-walk.png"
+  ],
+  "saved_at": "2026-11-06T18:10:40.761744+00:00",
+  "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3FexRxU2V7FefQUvOnG7eFCKfmw/hf_20261106_180841_45c5930e-0bed-4112-adf8-cea085d78798.png",
+  "dimensions": [
+    3840,
+    2160
+  ],
+  "sha256": "c171160ce2dfdaef5437f8b0a4f8aaba6104f4cbd4fefe5fc8ec2531a63e5955",
+  "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Location Sheets GPT Image 2.6\\LOC01-resistance-warehouse-exterior-gpt26-v001.png",
+  "review_status": "awaiting visual QA"
+}

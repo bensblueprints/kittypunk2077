@@ -1,0 +1,45 @@
+{
+  "id": "ACT11",
+  "name": "Salmon cartons and pallets",
+  "index": 4,
+  "filename": "ACT11-prop-master-gpt26-v001.png",
+  "category": "Action Props",
+  "provider": "Higgsfield",
+  "model": "gpt_image_2_6",
+  "parameters": {
+    "model": "gpt_image_2_6",
+    "quality": "high",
+    "resolution": "4k",
+    "aspect_ratio": "16:9",
+    "count": 1,
+    "output_format": "png",
+    "background": "opaque",
+    "medias": [
+      {
+        "role": "image",
+        "value": "2fd97582-3e6c-40fb-9ad9-8ba25e38bf3f"
+      }
+    ],
+    "prompt": "Create ONE production prop reference sheet: ACT11 \u2014 Salmon cartons and pallets. 16:9 4K tactile cinematic 3D animation, sharply readable realistic worn materials, same style as supplied reference. Nine clean panels in3x3, short labels only, no dense copy. Same physical object across views and states, no alternate designs. Empty props and sets, no humans/cats/dogs, no silhouettes, no watermark. Reference images are visual context only. One reusable white insulated salmon carton with dark blue corner guards, blank rectangular label recess, sealed/open/lid underside details. One standard wood pallet with same cartons stacked two tiers, three cartons per tier, six cartons total. Nine panels CARTON CLOSED, CARTON OPEN, LID, LEFT, RIGHT, LABEL RECESS, SINGLE PALLET, SIX CARTON STACK, STACK TOP. Salmon packs and ice only in open carton. No invented readable lot identifiers; exact label will be composited later. Match cold-storage reference."
+  },
+  "job_id": "73f26f83-18bb-4943-a9e1-ee2193859524",
+  "status": "completed",
+  "adjustments": {
+    "medias[0].role": {
+      "requested": "image",
+      "used": "image_references",
+      "reason": "GPT Image 2.6 backend expects schema-key media roles"
+    }
+  },
+  "cost_preflight_credits": 4.25,
+  "type": "image",
+  "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3FexRxU2V7FefQUvOnG7eFCKfmw/hf_20261106_210517_73f26f83-18bb-4943-a9e1-ee2193859524.png",
+  "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Next Assets\\Action Props\\ACT11-prop-master-gpt26-v001.png",
+  "dimensions": [
+    3840,
+    2160
+  ],
+  "sha256": "517e83741ba9e7510651b372ce052905e05a5b76aacbe2083e8d2035dafe92e4",
+  "review_status": "visual_review_pending",
+  "production_approved": false
+}

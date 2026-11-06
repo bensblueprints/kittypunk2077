@@ -1,0 +1,81 @@
+{
+  "id": "LOC03",
+  "name": "Hacking operations",
+  "group": "Resistance Base",
+  "priority": "P0",
+  "rooms": [
+    "Five-position operations desk",
+    "Server rack ends",
+    "Central worktable",
+    "Open warehouse access"
+  ],
+  "scene_numbers": [
+    9,
+    17,
+    19
+  ],
+  "filename": "LOC03-hacking-operations-gpt26-v001.png",
+  "props": [
+    "five blank monitors",
+    "five chairs",
+    "server racks",
+    "HackPad",
+    "data drive",
+    "cable trays",
+    "evidence uploads",
+    "routing map"
+  ],
+  "required_outputs": [
+    "Nine-panel location sheet: hero wide, north/south/east/west coverage, overhead plan with camera markers, ceiling/floor, fixed props/materials, reverse wide",
+    "Separate clean full-resolution 16:9 hero and reverse plates, without grid labels",
+    "Four separate wall/directional coverage plates",
+    "Annotated overhead layout with fixed door/window/prop coordinates and screen axis",
+    "Lighting/material palette and day/night variants only when script needs them",
+    "Blank screens and signage areas plus separate exact typography overlays",
+    "QC record, source references, prompt, model/version, dimensions and file hash"
+  ],
+  "status": "generated_review_required",
+  "canonical_references": [
+    "C:\\Users\\DELL\\Desktop\\CyberKitty 2077\\Assets\\Locations\\Resistance Base Warehouse\\Reference Images\\location-sheet-03-resistance-base-warehouse.png"
+  ],
+  "prompt_file": "Location Sheets GPT Image 2.6/LOC03-hacking-operations-gpt26-v001-prompt.txt",
+  "qa_notes": [
+    "Camera A is north of the worktable looking north, but hero includes that table in the foreground. That A position cannot produce the shown hero composition. Correction: Move the hero camera marker south of the worktable and state its northward bearing. Give B/C explicit position-plus-direction labels.",
+    "Second wide shows the fronts of the north-wall monitors while also presenting itself as the desk-to-south-warehouse reverse. It works as an oblique overview but is not a verified opposite-angle camera plate. Correction: Retain as an oblique overview. Derive the true southward reverse from the approved plan if the edit needs matching reverses; do not use its label alone as camera authority.",
+    "Strong usable operations design. Main counts and anchors pass; plan-camera and reverse-label corrections remain. No regeneration retry requested."
+  ],
+  "file_exists": true,
+  "actual_dimensions": [
+    3840,
+    2160
+  ],
+  "bytes": 14219407,
+  "sha256": "678400a023f22df4c452428e414e9c730166f7c871a1bd056f207990056bf088",
+  "legacy_versions": [
+    {
+      "filename": "LOC03-hacking-operations.png",
+      "status": "generated_review_required",
+      "file_exists": true,
+      "actual_dimensions": [
+        1672,
+        941
+      ],
+      "bytes": 3151116,
+      "sha256": "ede2de8e2b944563c7884e9f028b5eec1848a16cf08a46bbbc666951e5614d3d",
+      "prompt_file": "loc01-07-prompts.json",
+      "qa_notes": [
+        "Generated sheets are review drafts, not production-approved camera or geometry masters.",
+        "Floor-plan camera B/C east/west descriptions require correction."
+      ],
+      "directory": "Location Sheets v01"
+    }
+  ],
+  "relative_output_path": "Location Sheets GPT Image 2.6/LOC03-hacking-operations-gpt26-v001.png",
+  "current_directory": "Location Sheets GPT Image 2.6",
+  "production_approved": false,
+  "receipt_file": "Location Sheets GPT Image 2.6/LOC03-hacking-operations-gpt26-v001.json",
+  "qa_status": "draft-corrections",
+  "qa_document": "Location Sheets GPT Image 2.6/QA-notes.md#loc03",
+  "ownership": "Cats",
+  "ownership_note": "Production affiliation; not a restriction on which species can appear here."
+}

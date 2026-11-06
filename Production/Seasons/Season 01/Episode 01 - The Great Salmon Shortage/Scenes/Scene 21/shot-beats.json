@@ -1,0 +1,42 @@
+{
+  "scene": 21,
+  "start": "17:45",
+  "end": "18:30",
+  "scene_duration_seconds": 45,
+  "location_ids": [
+    "LOC16",
+    "LOC17"
+  ],
+  "shots": [
+    {
+      "shot_id": "S21-B01",
+      "description": "Stealth entry",
+      "status": "source shot beat; detailed shot duration and coverage pending",
+      "duration_seconds": null
+    },
+    {
+      "shot_id": "S21-B02",
+      "description": "massive salmon tanks",
+      "status": "source shot beat; detailed shot duration and coverage pending",
+      "duration_seconds": null
+    },
+    {
+      "shot_id": "S21-B03",
+      "description": "guard confrontation",
+      "status": "source shot beat; detailed shot duration and coverage pending",
+      "duration_seconds": null
+    },
+    {
+      "shot_id": "S21-B04",
+      "description": "hacking terminal",
+      "status": "source shot beat; detailed shot duration and coverage pending",
+      "duration_seconds": null
+    },
+    {
+      "shot_id": "S21-B05",
+      "description": "enormous warehouse reveal.",
+      "status": "source shot beat; detailed shot duration and coverage pending",
+      "duration_seconds": null
+    }
+  ]
+}

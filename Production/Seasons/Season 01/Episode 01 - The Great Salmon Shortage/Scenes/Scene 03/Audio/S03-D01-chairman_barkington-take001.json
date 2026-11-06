@@ -1,0 +1,48 @@
+{
+  "line_id": "S03-D01",
+  "scene": 3,
+  "role_id": "chairman_barkington",
+  "voice_id": "nPczCjzI2devNBz1zQrb",
+  "voice_name": "Brian",
+  "text": "Citizens of Districts Seven through Twelve. Due to an unprecedented salmon supply emergency, you are advised to acquire no less than thirty days of fresh salmon immediately. Goodboy Global thanks you for your obedience.",
+  "original_source_text_verbatim": "Citizens of Districts Seven through Twelve. Due to an unprecedented salmon supply emergency, you are advised to acquire no less than thirty days of fresh salmon immediately. Good Dog Global thanks you for your obedience.",
+  "source_text_policy": "Exact current working dialogue; Goodboy Global approved normalization. Original master retained.",
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.5,
+    "similarity_boost": 0.75,
+    "style": 0.15,
+    "use_speaker_boost": true
+  },
+  "output_format": "mp3_44100_128",
+  "duration_sec": 13.467574,
+  "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Voices\\Opening Scenes\\Scene03\\S03-D01-chairman_barkington-take001.mp3",
+  "audio_relative_path": "Scene03/S03-D01-chairman_barkington-take001.mp3",
+  "alignment_file": "S03-D01-chairman_barkington-take001-alignment.json",
+  "headers": {
+    "request-id": "VcadO3mQVhbvRZtrYHPU",
+    "character-cost": "48"
+  },
+  "subscription_before": {
+    "character_count": 53256,
+    "character_limit": 83106,
+    "remaining_included_credits": 29850
+  },
+  "subscription_after": {
+    "character_count": 53256,
+    "character_limit": 83106,
+    "remaining_included_credits": 29850
+  },
+  "credits_observed_for_request": 0,
+  "text_characters": 219,
+  "sha256": "cdc6d5998fc4d7774d97e5ceb819e2d85c8e7d8796c9f7849b64e83cc2635b65",
+  "status": "generated_review_take_not_final_approved",
+  "performance_approval": "not_approved",
+  "technical_qa": {
+    "ffprobe_decodes": true,
+    "duration_positive": true,
+    "provider_alignment_present": true,
+    "alignment_reconstructs_input": true
+  },
+  "created_utc": "2026-11-06T19:08:09.559491+00:00"
+}

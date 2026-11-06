@@ -1,0 +1,26 @@
+{
+  "episode": 7,
+  "title": "Too Big to Neuter",
+  "runtime_minutes": 20,
+  "setup": "At the concession hearing, Barkington claims only Goodboy can keep the city alive. Refrigeration and clinic power begin failing on schedule.",
+  "escalation": "The crew must prove sabotage while keeping food safe. Byte correlates signed load-shedding orders with the outages. Onyx and the factory worker lead a physical cold-store transfer; Trixie learns evidence alone cannot replace electricity.",
+  "resolution": "Neon restores a limited emergency circuit while Ghost obtains the original sabotage authorization. The hearing freezes Goodboy's exclusive concession pending a public vote. Barkington loses the legal shield for the first time.",
+  "continuity": "Workers and citizens actively save the district; the five heroes do not do everything. The emergency circuit is temporary and cannot sustain the full city.",
+  "locations": [
+    "corporate hearing room",
+    "Salmon Factory cold store",
+    "utility substation",
+    "NIP7 studio"
+  ],
+  "cast": [
+    "core five cats",
+    "Barkington",
+    "Fetch",
+    "factory worker",
+    "NIP7 presenter",
+    "citizens"
+  ],
+  "comedy": "Barkington's presentation labels the outage a live demonstration of customer dependence.",
+  "ending_hook": "Muzzle proposes an old emergency system that can bypass the frozen concession.",
+  "status": "Development draft — not scripted or recorded"
+}

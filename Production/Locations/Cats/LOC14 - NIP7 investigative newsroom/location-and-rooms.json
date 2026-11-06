@@ -1,0 +1,78 @@
+{
+  "id": "LOC14",
+  "name": "NIP7 investigative newsroom",
+  "group": "Newsrooms",
+  "priority": "P0",
+  "rooms": [
+    "Presenter desk",
+    "Evidence display",
+    "Newsroom backdrop",
+    "Camera lane"
+  ],
+  "scene_numbers": [
+    17,
+    23
+  ],
+  "filename": "LOC14-nip7-investigative-newsroom-gpt26-v001.png",
+  "props": [
+    "blank evidence screen",
+    "news desk",
+    "microphone",
+    "camera",
+    "teleprompter",
+    "NIP7 ident"
+  ],
+  "required_outputs": [
+    "Nine-panel location sheet: hero wide, north/south/east/west coverage, overhead plan with camera markers, ceiling/floor, fixed props/materials, reverse wide",
+    "Separate clean full-resolution 16:9 hero and reverse plates, without grid labels",
+    "Four separate wall/directional coverage plates",
+    "Annotated overhead layout with fixed door/window/prop coordinates and screen axis",
+    "Lighting/material palette and day/night variants only when script needs them",
+    "Blank screens and signage areas plus separate exact typography overlays",
+    "QC record, source references, prompt, model/version, dimensions and file hash"
+  ],
+  "status": "generated_review_required",
+  "canonical_references": [
+    "E:/MovedFromC/Documents/Codex/2026-11-06/https-chatgpt-com-share-6aedf171-aae8-2/outputs/Imported References/nip7-investigation.png"
+  ],
+  "prompt_file": "Location Sheets GPT Image 2.6/LOC14-nip7-investigative-newsroom-gpt26-v001-prompt.txt",
+  "qa_notes": [
+    "Exit location does not agree: brief specifies south wall near southwest; plan appears to put it on the west wall near southwest; SOUTH and REVERSE WIDE place it on the left/east end of the south wall, adjacent to the control-room side.",
+    "Keep design and desk arrangement. Align the single exit wall/corner across plan, SOUTH and reverse before scene blocking."
+  ],
+  "file_exists": true,
+  "actual_dimensions": [
+    3840,
+    2160
+  ],
+  "bytes": 12954922,
+  "sha256": "dc97cfe5c9eba591c21c1ee71485c953ee929ac2e047eec3789e2adc591be12a",
+  "legacy_versions": [
+    {
+      "filename": "LOC14-nip7-news-studio.png",
+      "status": "generated_review_required",
+      "file_exists": true,
+      "actual_dimensions": [
+        1672,
+        941
+      ],
+      "bytes": 2778275,
+      "sha256": "bebe90aed36fcbb1a40a52d8b20c703e0cbd01763f47ec89c7c4bd5ebbb8dce2",
+      "prompt_file": "loc08-14-prompts.json",
+      "qa_notes": [
+        "Generated sheets are review drafts, not production-approved camera or geometry masters.",
+        "Full empty modest NIP7 studio, cat icon branding, repaired desk, two editing stations, control booth, paper board, tripod and ceiling/floor details. No CRT or host.",
+        "Generated A/B plan markers do not match requested hero/reverse definitions. Use rendered hero/reverse as references and replace marker positions in production plan."
+      ],
+      "directory": "Location Sheets v01"
+    }
+  ],
+  "relative_output_path": "Location Sheets GPT Image 2.6/LOC14-nip7-investigative-newsroom-gpt26-v001.png",
+  "current_directory": "Location Sheets GPT Image 2.6",
+  "production_approved": false,
+  "receipt_file": "Location Sheets GPT Image 2.6/LOC14-nip7-investigative-newsroom-gpt26-v001.json",
+  "qa_status": "draft_requires_exit_location_correction",
+  "qa_document": "Location Sheets GPT Image 2.6/QA-notes.md#loc14",
+  "ownership": "Cats",
+  "ownership_note": "Production affiliation; not a restriction on which species can appear here."
+}

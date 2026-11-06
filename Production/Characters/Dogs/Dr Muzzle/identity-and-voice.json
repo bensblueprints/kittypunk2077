@@ -1,0 +1,12 @@
+{
+  "id": "dr_muzzle",
+  "name": "Dr Muzzle",
+  "group": "Dogs",
+  "master_file": "character-sheet-03-dr-muzzle.png",
+  "source": "C:\\Users\\DELL\\Desktop\\CyberKitty 2077\\Assets\\Character Sheets\\character-sheet-03-dr-muzzle.png",
+  "voice_id": "26OmzLQMdT4z7VEPURkY",
+  "voice_name": "Mature Joe - Neutral, Considered, Mature British male",
+  "status": "Reference master / review draft; not automatically final approved",
+  "identity": "Siberian Husky; Bright blue, visible without glasses; Black/grey-and-white fur, upright ears, permanent custom cyberpunk muzzle covering lower snout with cyan vents and magenta circular modules; White lab coat with gold trim, dark underlayer, cyan equipment accents",
+  "factory_rule": "Only user-referenced standing robot dogs do factory work; civilian dogs do not."
+}

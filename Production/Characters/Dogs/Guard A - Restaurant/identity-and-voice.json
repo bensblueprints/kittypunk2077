@@ -1,0 +1,12 @@
+{
+  "id": "dog_guard_a",
+  "name": "Guard A - Restaurant",
+  "group": "Dogs",
+  "master_file": "SUP02-character-master-gpt26-v001.png",
+  "source": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Next Assets\\Supporting Cast\\SUP02-character-master-gpt26-v001.png",
+  "voice_id": "TxWZERZ5Hc6h9dGxVmXa",
+  "voice_name": "Jerry B. - Gruff and Gritty Commander",
+  "status": "Reference master / review draft; not automatically final approved",
+  "identity": "Proposed recurring guard based on the restaurant security extras: sturdy black-and-tan Rottweiler, broad muzzle, folded ears, black sunglasses, plain black suit, white shirt and black tie; coiled earpiece, canine paw hands. Give a subtle silver rectangular badge on wearer-left lapel. No gold command armor or red captain tie.",
+  "factory_rule": "Only user-referenced standing robot dogs do factory work; civilian dogs do not."
+}

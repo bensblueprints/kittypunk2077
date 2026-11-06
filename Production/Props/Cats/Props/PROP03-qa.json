@@ -1,0 +1,11 @@
+{
+  "status": "usable_review_draft",
+  "passes": [
+    "Five copies of shared controller hardware, colors map to Trixie/Byte/Ghost/Onyx/Neon."
+  ],
+  "issues": [
+    "Letter labels are sheet annotations only; do not render them in scene."
+  ],
+  "production_approved": false,
+  "reviewed_at": "2026-11-06T19:54:19.773626+00:00"
+}

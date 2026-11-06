@@ -1,0 +1,24 @@
+{
+  "episode": 5,
+  "title": "Good Boys Get Upgrades",
+  "runtime_minutes": 20,
+  "setup": "Goodboy offers workers subsidized safety implants. Neon suspects the advertised benefits conceal a compulsory obedience channel.",
+  "escalation": "Ghost enters the demonstration using a worker credential while Neon monitors a recovered implant. Muzzle shows only the public functions. A brief cyan-pink pulse from his muzzle causes a nearby test drone to obey before the console receives an input.",
+  "resolution": "The crew extracts the implant consent terms and prevents their neighborhood's forced enrollment. Neon proves the chip can report location and accept motor-inhibition commands through a local relay. He builds a reversible blocker for that specific hardware.",
+  "continuity": "Muzzle's full muzzle capability stays unexplained. The blocker affects known implants only; it is not a universal cure or hack. Consent and privacy become a new stake.",
+  "locations": [
+    "Goodboy demonstration lab",
+    "corporate lobby",
+    "warehouse workbench"
+  ],
+  "cast": [
+    "core five cats",
+    "Dr Muzzle",
+    "Barkington",
+    "factory worker",
+    "board background dogs"
+  ],
+  "comedy": "The upgrade's premium tier removes an advertisement played directly inside your head.",
+  "ending_hook": "Muzzle notices Neon's handmade blocker and requests his technical file.",
+  "status": "Development draft — not scripted or recorded"
+}

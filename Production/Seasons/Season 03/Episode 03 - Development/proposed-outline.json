@@ -1,0 +1,23 @@
+{
+  "episode": 3,
+  "title": "Paws and Conditions",
+  "runtime_minutes": 20,
+  "setup": "Cat and dog delegates argue over a city charter while their old identities remain encoded as ownership categories in legacy systems.",
+  "escalation": "Trixie tries to settle the dispute by stripping species labels from every record. Byte warns that doing so would erase evidence of prior discrimination. Ghost searches the archive for a way to preserve history while ending automatic exclusion.",
+  "resolution": "The council adopts a charter recognizing residents as persons with voluntary service access, keeps protected evidence archives and removes species restrictions from active essentials accounts. Onyx secures agreement on a shared emergency service with public oversight.",
+  "continuity": "The charter is a concrete democratic step, not a single speech that cures prejudice. Accountability for former corporate actions remains intact.",
+  "locations": [
+    "council room",
+    "archive vault",
+    "District 7 streets"
+  ],
+  "cast": [
+    "core five cats",
+    "Fetch",
+    "NIP7 presenter",
+    "cat and dog delegates"
+  ],
+  "comedy": "The fiercest constitutional argument concerns whether pushing objects off tables is protected expression.",
+  "ending_hook": "A human automated scout requests permission to inspect the landing site.",
+  "status": "Development draft — not scripted or recorded"
+}

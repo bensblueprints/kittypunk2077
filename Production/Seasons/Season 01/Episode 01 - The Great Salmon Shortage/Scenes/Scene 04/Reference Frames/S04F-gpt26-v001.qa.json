@@ -1,0 +1,22 @@
+{
+  "asset_id": "S04F",
+  "visual_reviewed": true,
+  "status": "previs_still_review_pass",
+  "expected_actor_count": 2,
+  "observed_actor_count": 2,
+  "hard_actor_count_pass": true,
+  "anatomy_check": "No visible extra limbs, merged bodies or duplicate faces at review scale.",
+  "passes": [
+    "Exactly two crew cats, Byte left and Trixie right; shop interior empty.",
+    "7-Catleven sign and green/orange/red fascia retained; District7 pole left and pink neon right.",
+    "Trixie hood-down identity/circuit and Byte orange outfit/accessories preserved."
+  ],
+  "issues": [
+    {
+      "severity": "minor",
+      "note": "Pink window-cat icon's eye shape differs slightly from source; standardize the final signage graphic if this framing is used."
+    }
+  ],
+  "production_approved": false,
+  "paid_retry_performed": false
+}

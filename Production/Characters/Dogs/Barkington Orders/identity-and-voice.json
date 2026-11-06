@@ -1,0 +1,12 @@
+{
+  "id": "chairman_barkington",
+  "name": "Barkington Orders",
+  "group": "Dogs",
+  "master_file": "CHAR06-barkington-character-master-gpt26-v002.png",
+  "source": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Phase 2\\Character Masters\\CHAR06-barkington-character-master-gpt26-v002.png",
+  "voice_id": "nPczCjzI2devNBz1zQrb",
+  "voice_name": "Brian",
+  "status": "Reference master / review draft; not automatically final approved",
+  "identity": "Doberman Pinscher; Black-and-tan, upright ears, long canine muzzle, purple reflective sunglasses; Black gold-trim suit, deep red tie, grey fur collar, black cape with red lining, gold watch/ring; cigar scene-dependent",
+  "factory_rule": "Only user-referenced standing robot dogs do factory work; civilian dogs do not."
+}

@@ -1,0 +1,12 @@
+{
+  "id": "general_fetch",
+  "name": "General Fetch",
+  "group": "Dogs",
+  "master_file": "character-sheet-02-general-fetch.png",
+  "source": "C:\\Users\\DELL\\Desktop\\CyberKitty 2077\\Assets\\Character Sheets\\character-sheet-02-general-fetch.png",
+  "voice_id": "pNInz6obpgDQGcFmaJgB",
+  "voice_name": "Adam - Dominant, Firm",
+  "status": "Reference master / review draft; not automatically final approved",
+  "identity": "Rottweiler; Black-and-tan, broad square muzzle, folded ears, visible cheek scar; Black tactical armor with gold trim, Goodboy shoulder crest, utility belt, combat boots",
+  "factory_rule": "Only user-referenced standing robot dogs do factory work; civilian dogs do not."
+}

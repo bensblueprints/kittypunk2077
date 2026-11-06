@@ -1,0 +1,12 @@
+{
+  "status": "usable_front_back_side_views_only",
+  "passes": [
+    "v002 has five cushions and corrected blanket sides: front grey left/amber right, rear amber left/grey right."
+  ],
+  "issues": [
+    "Overhead north arrow conflicts with couch facing direction. Do not use top view as geographic authority.",
+    "v001 retained as superseded historical draft."
+  ],
+  "production_approved": false,
+  "reviewed_at": "2026-11-06T19:54:19.773878+00:00"
+}

@@ -1,0 +1,23 @@
+{
+  "episode": 2,
+  "title": "Terms and Purrditions",
+  "runtime_minutes": 20,
+  "setup": "The crew's first community salmon delivery succeeds until Goodboy Global freezes the recipients' payment IDs. The same account controls their warehouse lease and food access.",
+  "escalation": "Byte traces the freeze to retaliation disguised as fraud prevention. Trixie wants to erase the debts, but that would also erase proof of who was overcharged. Ghost must obtain the signed account-change record while Neon builds a temporary offline distribution register.",
+  "resolution": "The crew preserves the evidence, restores the neighborhood's account access through the service appeals terminal and distributes that day's food with receipts. NIP7 publishes the retaliation order. They win a temporary reprieve on the warehouse lease, not a permanent exemption.",
+  "continuity": "Introduces the shared corporate identity ledger linking food, money and housing. Byte keeps an auditable copy; its limitations matter throughout the season.",
+  "locations": [
+    "Resistance warehouse",
+    "Seven Catleven",
+    "Goodboy customer-service lobby"
+  ],
+  "cast": [
+    "core five cats",
+    "store clerk",
+    "Barkington",
+    "NIP7 presenter"
+  ],
+  "comedy": "A thirty-seven-page apology charges a processing fee. Onyx wins a queue dispute by simply following every posted rule.",
+  "ending_hook": "An account record labels District 7 a planned redevelopment zone.",
+  "status": "Development draft — not scripted or recorded"
+}

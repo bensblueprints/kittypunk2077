@@ -1,0 +1,47 @@
+{
+  "barkington_vehicle": {
+    "name": "Dog Royce",
+    "owner_driver": "Barkington Orders",
+    "user_design": "Rolls-Royce-style luxury car resembling a Dalmatian spotted dog",
+    "status": "new master pending",
+    "usage": "Personal driving around town, including harassing cats",
+    "restaurant_limousine": "Separate retained vehicle for entourage and formal arrivals"
+  },
+  "factory_sentries": {
+    "user_name": "standing robot dogs",
+    "reference": "Recovered Video References",
+    "visible_features": [
+      "upright bipedal canine form",
+      "pointed ears",
+      "black helmet",
+      "red wraparound visor",
+      "segmented dark armor",
+      "canine muzzle and tail"
+    ],
+    "distinct_from": [
+      "suited Guard A and Guard B",
+      "silent restaurant tray robot"
+    ]
+  },
+  "factory_processing_extension": {
+    "reference": "user video screenshots",
+    "features": [
+      "central salmon conveyor",
+      "articulated industrial arms",
+      "blue-lit salmon tanks on both sides",
+      "red overhead fixtures",
+      "wet reflective dark floor"
+    ]
+  },
+  "game": {
+    "title": "Grand Theft Kitty VI",
+    "console": "CatStation 5",
+    "living_room_gameplay": "Great Dog National Bank heist"
+  },
+  "newspapers": {
+    "Daily Bone": "dog establishment / red-black",
+    "Catnip Times": "cat resistance / purple-black",
+    "cross_reading": "both factions sometimes read or mock the other publication"
+  },
+  "district_lore": "../district-lore-and-businesses.md"
+}

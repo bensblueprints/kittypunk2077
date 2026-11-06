@@ -1,0 +1,95 @@
+{
+  "asset_id": "DOG02",
+  "name": "Frost",
+  "species": "American Pit Bull",
+  "status": "review_draft_visually_checked",
+  "provider": "Higgsfield",
+  "model": "gpt_image_2_6",
+  "requested_quality": "high",
+  "requested_resolution": "4k",
+  "requested_aspect_ratio": "16:9",
+  "actual_dimensions": [
+    3840,
+    2160
+  ],
+  "format": "PNG",
+  "bytes": 9558479,
+  "sha256": "e39d19829b3a3c47c6bf425eb040477fe1353085309e4d66da24325154ddf29e",
+  "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Phase 2\\Dog Masters\\DOG02-frost-character-master-gpt26-v001.png",
+  "project_copy": "C:\\Users\\DELL\\Desktop\\CyberKitty 2077\\Assets\\Dog Masters\\GPT Image 2.6\\DOG02-frost-character-master-gpt26-v001.png",
+  "job_id": "c7ec224d-d5af-41d1-a551-c7ed96b4bf68",
+  "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3FexRxU2V7FefQUvOnG7eFCKfmw/hf_20261106_193820_c7ec224d-d5af-41d1-a551-c7ed96b4bf68.png",
+  "saved_at_utc": "2026-11-06T19:40:05.589541+00:00",
+  "quote_credits": 4.25,
+  "actual_billed_credits": "not_independently_verified",
+  "batch_lease_credits": 22,
+  "batch_max_paid_jobs": 5,
+  "paid_retries": 0,
+  "reference_paths": [
+    "C:\\Users\\DELL\\Desktop\\CyberKitty 2077\\Assets\\Character Sheets\\The Dogs\\file_00000000ffc081f59db0af84291190f4.webp"
+  ],
+  "reference_media_ids": [
+    "0a7bc382-00e2-467b-b908-ca03cb04bfe5"
+  ],
+  "reference_sha256": "976d110258bde2e256a2bb3fd4dbae625d49be6b79e7979a2fe2a42637a2caa0",
+  "reference_limit": "Only a low-resolution group reference is available. Preserve visibly established breed, coat and silhouette. Unseen reverse-side seams and exact eye/spot details are proposed, never falsely claimed as recovered canon. Approve the new isolated master before use in scenes.",
+  "generation_params": {
+    "model": "gpt_image_2_6",
+    "prompt": "Use case: stylized-concept / identity-preserve.\nCreate ONE 3840×2160, 16:9 high-quality production character sheet for Frost only, an ADULT anthropomorphic DOG in the established Kitty Punk 2077 / Goodboy Global world. This is one consistent character shown repeatedly as reference views, not a group of different actors.\n\nREFERENCE IMAGE 1: supplied eight-dog council overview, 512×341. Identify ONLY the named FROST card, numbered 5, in the row of eight character cards; use that dog's corresponding boardroom appearance as supplementary outfit evidence. Ignore the other seven identities. The source is low-resolution: preserve the visibly established breed, head silhouette, coat colors, glasses if present and outfit. Resolve unseen reverse construction minimally and consistently as a proposed master for review; do not invent ranks, scars, signature gadgets, jewelry or a new biography.\nIDENTITY LOCK: American Pit Bull; Grey coat, broad muzzle, short ears; Dark gold-trim suit and white shirt with dark tie.\nKeep a short broad American Pit Bull muzzle and short ears, smooth grey fur, broad head and robust adult build. White shirt and dark tie remain visible inside the dark suit. Do not replace this head with an English Bulldog or add heavy drooping jowls.\n\nLAYOUT: Exactly NINE large panels in a neat 3×3 grid on a neutral dark charcoal studio backdrop, thin restrained magenta dividers matching the existing production sheets. Small header across the top reading exactly \"DOG02 — FROST\". Row 1: \"1. FRONT\" (complete standing body), \"2. BACK\" (complete true rear), \"3. LEFT PROFILE\" (complete character's anatomical left side, nose toward frame-left). Row 2: \"4. RIGHT PROFILE\" (complete anatomical right side, nose toward frame-right), \"5. FACE\" (large three-quarter head and shoulders), \"6. EXPRESSIONS\" (four small consistent head views labelled NEUTRAL, FOCUSED, AMUSED, ALARMED). Row 3: \"7. PAWS\" (relaxed outer paw, palm/pads and simple gentle grip close views), \"8. SIGNATURE DETAILS\" (close views of the already established face/fur, collar/trim, existing eyewear if present), \"9. COSTUME / ACCESSORIES\" (the SAME coat or suit, shirt/tie, trousers, footwear and only already visible fixed accessories, with small material/color swatches).\nIn panels 1–4, use matching height and scale, natural neutral standing posture, empty paws, complete ears to soles and clear margin. Tail if naturally visible must attach plausibly and stay consistent; do not create an arbitrary hole through a long coat. No silhouette cropping. Front and back must be truly different directions; do not mirror a three-quarter pose. Face, muzzle length, ears, fur and outfit remain identical in all views. Clothing stays buttoned and businesslike in body views.\nANATOMY: clearly canine muzzle, nose, ears and fur, plausible furry or paw-shaped gloved hands, compact coherent digits and pads/claws where exposed; no bare human hands, human skin, fused fingers, extra limbs or detached heads. Boots are consistent, not human bare feet. No child proportions, cats or other species.\nSTYLE: polished cinematic 3D animated cyberpunk realism consistent with the supplied characters, realistic groomed fur and fabric/metal/leather textures, soft neutral studio key light with restrained cyan/magenta rim. Make markings and garment construction readable; avoid dramatic neon bloom hiding shapes. Same material colors in every tile. This is a clean reference sheet, not a scene, poster, billboard or council room. No speech bubbles, watermark, extra slogans, weapons or invented props. Only requested short labels and header; no voice names or actor names. No final-canon or approval claims printed on the sheet.",
+    "quality": "high",
+    "resolution": "4k",
+    "aspect_ratio": "16:9",
+    "count": 1,
+    "output_format": "png",
+    "background": "opaque",
+    "medias": [
+      {
+        "role": "image",
+        "value": "0a7bc382-00e2-467b-b908-ca03cb04bfe5"
+      }
+    ]
+  },
+  "source_status": "Low-resolution identity evidence; newly resolved hidden details proposed for review.",
+  "initial_crony_assignment": null,
+  "voice_assignment": null,
+  "cat_crew_count": 5,
+  "visual_qa": {
+    "asset_id": "DOG02",
+    "name": "Frost",
+    "status": "review_draft_with_notes",
+    "checked_at_utc": "2026-11-06T19:43:02.483231+00:00",
+    "reviewed": true,
+    "production_approved": false,
+    "review_method": "Visual inspection of each saved full sheet, plus pixel/dimension verification and source comparison.",
+    "nine_main_panels": true,
+    "all_four_full_body_directions_present": true,
+    "no_bare_human_hands_observed": true,
+    "only_target_character_identity": true,
+    "reference_confidence": "Breed, colors and broad costume supported by original council overview; fine hidden details proposed.",
+    "rerun_authorized": false,
+    "paid_retry_performed": false,
+    "passes": [
+      "Grey American Pit Bull head/build retained, distinct from Stone’s English Bulldog.",
+      "Dark/gold suit, white shirt and dark tie retained.",
+      "Nine panels with complete front/back and both profiles; coherent fur-covered paws."
+    ],
+    "issues": [
+      {
+        "severity": "minor",
+        "category": "layout",
+        "note": "Added source-inspired Kitty Punk/Meowtech/Goodboy branding in the header beyond the requested simple title. It is sheet decoration, not a physical costume marking."
+      },
+      {
+        "severity": "minor",
+        "category": "deliverable_scope",
+        "note": "Panel 9 uses three dressed character figures and color swatches instead of an isolated garment inventory. Main wardrobe is still readable."
+      },
+      {
+        "severity": "review_note",
+        "category": "inferred_design",
+        "note": "Rear tailoring, tail, exact eyes and tiny shoulder/button details are proposed interpretations, not fully resolved source evidence."
+      }
+    ]
+  },
+  "qa_file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Phase 2\\Dog Masters\\DOG02-frost-character-master-gpt26-v001.qa.json"
+}

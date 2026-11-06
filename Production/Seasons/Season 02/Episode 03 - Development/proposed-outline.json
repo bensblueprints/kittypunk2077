@@ -1,0 +1,26 @@
+{
+  "episode": 3,
+  "title": "Muzzle Velocity",
+  "runtime_minutes": 20,
+  "setup": "Neon traces the signature to Muzzle's lab and is tempted by an invitation to see the technology properly.",
+  "escalation": "Muzzle demonstrates that his muzzle is an authenticated human maintenance interface: it sends commands to compatible implants and connected machines through nearby relays. He briefly immobilizes a test drone and a consenting guard to prove it. He then tries to force Neon into a research agreement.",
+  "resolution": "Neon and Ghost escape with the interface specification, using the known implant blocker within its limits. The crew learns the muzzle's remarkable function and its constraints: local relay reach, compatible hardware and an authentication credential. Muzzle remains dangerous but cannot control arbitrary unaugmented animals.",
+  "continuity": "Pays off the Season 1 mystery. Keep the muzzle on his face; do not replace it with a magic power or generic mask. His visible eyes and dog anatomy remain essential.",
+  "locations": [
+    "Muzzle lab",
+    "maintenance corridor",
+    "warehouse workbench"
+  ],
+  "cast": [
+    "Neon",
+    "Ghost",
+    "Dr Muzzle",
+    "Trixie",
+    "Byte",
+    "Onyx",
+    "guard"
+  ],
+  "comedy": "The terrifying override procedure is interrupted by an expired research-software license.",
+  "ending_hook": "The specification identifies a dormant human retrieval channel.",
+  "status": "Development draft — not scripted or recorded"
+}

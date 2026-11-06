@@ -1,0 +1,12 @@
+{
+  "id": "nip7_anchor",
+  "name": "NIP7 Anchor",
+  "group": "Cats - Civilians and Media",
+  "master_file": "SUP05-character-master-gpt26-v001.png",
+  "source": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Next Assets\\Supporting Cast\\SUP05-character-master-gpt26-v001.png",
+  "voice_id": "onwK4e9ZLuTAKqWW03F9",
+  "voice_name": "Daniel",
+  "status": "Reference master / review draft; not automatically final approved",
+  "identity": "Pink hairless Sphynx with prominent forehead wrinkles, very large upright ears, gold/olive eyes as depicted, black rectangular eyeglasses and coiled earpiece; navy pinstripe suit, white shirt, burgundy tie and small paw pin. Match the main newscaster only, never the dogs in the inset.",
+  "factory_rule": "Only user-referenced standing robot dogs do factory work; civilian dogs do not."
+}

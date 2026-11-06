@@ -1,0 +1,45 @@
+{
+  "id": "ACT10",
+  "name": "Refrigerated delivery truck",
+  "index": 3,
+  "filename": "ACT10-prop-master-gpt26-v001.png",
+  "category": "Action Props",
+  "provider": "Higgsfield",
+  "model": "gpt_image_2_6",
+  "parameters": {
+    "model": "gpt_image_2_6",
+    "quality": "high",
+    "resolution": "4k",
+    "aspect_ratio": "16:9",
+    "count": 1,
+    "output_format": "png",
+    "background": "opaque",
+    "medias": [
+      {
+        "role": "image",
+        "value": "4900dbeb-7aac-4e20-b790-494a61158bcb"
+      }
+    ],
+    "prompt": "Create ONE production prop reference sheet: ACT10 \u2014 Refrigerated delivery truck. 16:9 4K tactile cinematic 3D animation, sharply readable realistic worn materials, same style as supplied reference. Nine clean panels in3x3, short labels only, no dense copy. Same physical object across views and states, no alternate designs. Empty props and sets, no humans/cats/dogs, no silhouettes, no watermark. Reference images are visual context only. One medium white insulated box truck, charcoal cab trim, narrow gold stripe, generic gold paw emblem and exact small unit identifier TRK-07. Cab two doors, rear insulated double doors, front-mounted cooling unit. Nine panels FRONT THREE QUARTER, REAR CLOSED, LEFT, RIGHT, FRONT, REAR OPEN, CARGO INTERIOR, COOLING UNIT, CAB INTERIOR. No occupants. Cargo empty and refrigerated, same door hardware and wheels in all angles."
+  },
+  "job_id": "bf9b5df4-9cba-46a2-bc42-3d4f159453ca",
+  "status": "completed",
+  "adjustments": {
+    "medias[0].role": {
+      "requested": "image",
+      "used": "image_references",
+      "reason": "GPT Image 2.6 backend expects schema-key media roles"
+    }
+  },
+  "cost_preflight_credits": 4.25,
+  "type": "image",
+  "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3FexRxU2V7FefQUvOnG7eFCKfmw/hf_20261106_210515_bf9b5df4-9cba-46a2-bc42-3d4f159453ca.png",
+  "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Next Assets\\Action Props\\ACT10-prop-master-gpt26-v001.png",
+  "dimensions": [
+    3840,
+    2160
+  ],
+  "sha256": "f67ac5a346ad1a6d17553df17c3cc69938192547980cb0303e0362dc41d395c1",
+  "review_status": "visual_review_pending",
+  "production_approved": false
+}

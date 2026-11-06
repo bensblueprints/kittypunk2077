@@ -1,0 +1,36 @@
+{
+  "scene": 2,
+  "start": "01:10",
+  "end": "02:00",
+  "scene_duration_seconds": 50,
+  "location_ids": [
+    "LOC02",
+    "LOC13"
+  ],
+  "shots": [
+    {
+      "shot_id": "S02-B01",
+      "description": "TV glitch close-up",
+      "status": "source shot beat; detailed shot duration and coverage pending",
+      "duration_seconds": null
+    },
+    {
+      "shot_id": "S02-B02",
+      "description": "controller button-mashing",
+      "status": "source shot beat; detailed shot duration and coverage pending",
+      "duration_seconds": null
+    },
+    {
+      "shot_id": "S02-B03",
+      "description": "Trixie's irritated face",
+      "status": "source shot beat; detailed shot duration and coverage pending",
+      "duration_seconds": null
+    },
+    {
+      "shot_id": "S02-B04",
+      "description": "entire crew reacting.",
+      "status": "source shot beat; detailed shot duration and coverage pending",
+      "duration_seconds": null
+    }
+  ]
+}

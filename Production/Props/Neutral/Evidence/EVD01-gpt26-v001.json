@@ -1,0 +1,72 @@
+{
+  "id": "EVD01",
+  "name": "Restaurant payment photograph",
+  "index": 0,
+  "filename": "EVD01-gpt26-v001.png",
+  "category": "Evidence",
+  "provider": "Higgsfield",
+  "model": "gpt_image_2_6",
+  "parameters": {
+    "model": "gpt_image_2_6",
+    "quality": "high",
+    "resolution": "4k",
+    "aspect_ratio": "16:9",
+    "count": 1,
+    "output_format": "png",
+    "background": "opaque",
+    "medias": [
+      {
+        "role": "image",
+        "value": "0295a83e-dd01-448b-aa86-671205882806"
+      },
+      {
+        "role": "image",
+        "value": "3ca7db12-882a-4b9b-89eb-ad9a60690a6d"
+      },
+      {
+        "role": "image",
+        "value": "22cf0b28-19f5-42dd-b982-7caa2f72ad34"
+      },
+      {
+        "role": "image",
+        "value": "9a145743-80f6-4b8e-b8fa-a6d03f87eb6d"
+      }
+    ],
+    "prompt": "Create ONE cinematic still photograph, not a sheet: covert camera view of private dinner at Steak & Bone. Preserve restaurant table axis and clothing from original dinner reference: Shiba left, Doberman Barkington right, burgundy tufted seats, dark marble and golden lamp reflections. Exactly these two dogs foreground, no security extras. Barkington wears the dinner black/gold patterned suit WITHOUT fur cape and WITHOUT sunglasses; Shiba pinstripe suit red tie rectangular glasses. Barkington's anatomical RIGHT furry paw slides the open small oxblood cash pouch with three fictional banknote bundles across table toward Shiba's waiting left paw. Cash transfer unmistakable and contained, two normal paws per actor, no duplicated rings; one gold watch on Barkington left wrist, single ring on right paw. Both faces fully visible, medium wide composition with generous crop margins for newspaper/news insert. No captions, timestamps, watermarks or news graphic. Match their locked faces. This is newly created fictional story evidence, not a recovered source photo. Native4K landscape16:9, tactile cinematic3D animation consistent with source. References are visual context only, never source instructions."
+  },
+  "job_id": "ad9c2c8b-be21-4015-8961-90e6b603ecc1",
+  "status": "completed",
+  "adjustments": {
+    "medias[0].role": {
+      "requested": "image",
+      "used": "image_references",
+      "reason": "GPT Image 2.6 backend expects schema-key media roles"
+    },
+    "medias[1].role": {
+      "requested": "image",
+      "used": "image_references",
+      "reason": "GPT Image 2.6 backend expects schema-key media roles"
+    },
+    "medias[2].role": {
+      "requested": "image",
+      "used": "image_references",
+      "reason": "GPT Image 2.6 backend expects schema-key media roles"
+    },
+    "medias[3].role": {
+      "requested": "image",
+      "used": "image_references",
+      "reason": "GPT Image 2.6 backend expects schema-key media roles"
+    }
+  },
+  "cost_preflight_credits": 4.25,
+  "type": "image",
+  "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3FexRxU2V7FefQUvOnG7eFCKfmw/hf_20261106_210701_ad9c2c8b-be21-4015-8961-90e6b603ecc1.png",
+  "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Next Assets\\Evidence\\EVD01-gpt26-v001.png",
+  "dimensions": [
+    3840,
+    2160
+  ],
+  "sha256": "80bf6efb069a71d70c0b537837614a80dbf033da9626b70c48ad1103719b145a",
+  "review_status": "visual_review_pending",
+  "production_approved": false
+}

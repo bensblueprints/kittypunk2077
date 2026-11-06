@@ -1,0 +1,81 @@
+{
+  "id": "LOC08",
+  "name": "District 7 market",
+  "group": "District 7",
+  "priority": "P0",
+  "rooms": [
+    "Market square",
+    "Fish stalls",
+    "Public billboard",
+    "Truck delivery stopping area"
+  ],
+  "scene_numbers": [
+    6,
+    18,
+    23
+  ],
+  "filename": "LOC08-district-7-market-gpt26-v001.png",
+  "props": [
+    "closed/open fish stalls",
+    "crate podium",
+    "price-history display",
+    "refrigerated truck",
+    "salmon cartons",
+    "vendor scales"
+  ],
+  "required_outputs": [
+    "Nine-panel location sheet: hero wide, north/south/east/west coverage, overhead plan with camera markers, ceiling/floor, fixed props/materials, reverse wide",
+    "Separate clean full-resolution 16:9 hero and reverse plates, without grid labels",
+    "Four separate wall/directional coverage plates",
+    "Annotated overhead layout with fixed door/window/prop coordinates and screen axis",
+    "Lighting/material palette and day/night variants only when script needs them",
+    "Blank screens and signage areas plus separate exact typography overlays",
+    "QC record, source references, prompt, model/version, dimensions and file hash"
+  ],
+  "status": "generated_review_required",
+  "canonical_references": [
+    "C:/Users/DELL/Desktop/CyberKitty 2077/Assets/Locations/Neko-Tokyo District 7/Reference Images/b1-neko-market-night.png",
+    "C:/Users/DELL/Desktop/CyberKitty 2077/Assets/Locations/Neko-Tokyo District 7/Reference Images/a3-street-level-hero-walk.png"
+  ],
+  "prompt_file": "Location Sheets GPT Image 2.6/LOC08-district-7-market-gpt26-v001-prompt.txt",
+  "qa_notes": [
+    "The panel labeled from east looking west repeats a hero-like view with lantern stalls on the left and the tower vista ahead. A true west-looking view should put the north stalls on the right and reveal the west plaza, as the successful REVERSE WIDE does. The east stair is present but this panel does not establish trustworthy street orientation. Correction: Use PLAN plus HERO/REVERSE as the geographic authority, and derive a later east-end/stair plate from them. Keep the northeast stair relationship when joining LOC20.",
+    "The panel labeled from south looking north shows the south shuttered shop row and its billboard. It is a south-wall elevation viewed from the north, rather than the stated camera-side convention. Correction: Relabel this panel SOUTH SHOP ROW / VIEW SOUTH, or otherwise give the actual camera side and bearing.",
+    "Strong usable hero, reverse, plan and material references; preserve this market identity. Directional east coverage remains draft and south label needs correction. No automatic retry requested."
+  ],
+  "file_exists": true,
+  "actual_dimensions": [
+    3840,
+    2160
+  ],
+  "bytes": 16364650,
+  "sha256": "c0de39fba4f7ec01e0695cfdc5cb7beafec8b671ef9b03c122acb93953396cc0",
+  "legacy_versions": [
+    {
+      "filename": "LOC08-district7-market.png",
+      "status": "generated_review_required",
+      "file_exists": true,
+      "actual_dimensions": [
+        1672,
+        941
+      ],
+      "bytes": 3094851,
+      "sha256": "650068409a6a8bfb1bb2d4239b71cc9329dbc79c5417ae1129bc563fd3b555f5",
+      "prompt_file": "loc08-14-prompts.json",
+      "qa_notes": [
+        "Generated sheets are review drafts, not production-approved camera or geometry masters.",
+        "Clear empty market, warm lantern stalls, shuttered shops, plaza connection, overhead plan and materials.",
+        "Camera A/B in generated site plan are not a reliable match to hero/reverse orientation; use images as visual references and redraw authoritative camera marks before blocking."
+      ],
+      "directory": "Location Sheets v01"
+    }
+  ],
+  "relative_output_path": "Location Sheets GPT Image 2.6/LOC08-district-7-market-gpt26-v001.png",
+  "current_directory": "Location Sheets GPT Image 2.6",
+  "production_approved": false,
+  "receipt_file": "Location Sheets GPT Image 2.6/LOC08-district-7-market-gpt26-v001.json",
+  "qa_status": "draft-corrections",
+  "qa_document": "Location Sheets GPT Image 2.6/QA-notes.md#loc08",
+  "ownership": "Neutral",
+  "ownership_note": "Production affiliation; not a restriction on which species can appear here."
+}

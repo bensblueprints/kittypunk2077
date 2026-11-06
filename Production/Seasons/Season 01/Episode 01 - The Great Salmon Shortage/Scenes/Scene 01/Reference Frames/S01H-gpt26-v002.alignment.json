@@ -1,0 +1,15 @@
+{
+  "asset_id": "S01H",
+  "scene": 1,
+  "editorial_shot_id": "S01-08",
+  "dialogue_line_ids": [],
+  "dialogue_context": [],
+  "editorial_duration_estimate_sec": 6,
+  "media_type": "still_image",
+  "video_generated": false,
+  "audio_generated_by_this_job": false,
+  "speech_provider": "ElevenLabs only",
+  "note": "Existing speech is off-image performance/alignment context. No timing or subtitles are burned into this still.",
+  "image_version": 2,
+  "inheritance_note": "Same editorial shot and original dialogue timing context, corrected still image."
+}

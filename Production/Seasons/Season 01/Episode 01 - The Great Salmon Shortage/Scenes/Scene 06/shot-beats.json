@@ -1,0 +1,35 @@
+{
+  "scene": 6,
+  "start": "05:00",
+  "end": "05:45",
+  "scene_duration_seconds": 45,
+  "location_ids": [
+    "LOC08"
+  ],
+  "shots": [
+    {
+      "shot_id": "S06-B01",
+      "description": "Crowded market wide",
+      "status": "source shot beat; detailed shot duration and coverage pending",
+      "duration_seconds": null
+    },
+    {
+      "shot_id": "S06-B02",
+      "description": "price-history hologram",
+      "status": "source shot beat; detailed shot duration and coverage pending",
+      "duration_seconds": null
+    },
+    {
+      "shot_id": "S06-B03",
+      "description": "shocked citizens",
+      "status": "source shot beat; detailed shot duration and coverage pending",
+      "duration_seconds": null
+    },
+    {
+      "shot_id": "S06-B04",
+      "description": "Trixie climbing onto a crate.",
+      "status": "source shot beat; detailed shot duration and coverage pending",
+      "duration_seconds": null
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "asset_id": "S03B",
+  "visual_reviewed": true,
+  "status": "previs_still_review_with_accessory_note",
+  "expected_actor_count": 1,
+  "observed_actor_count": 1,
+  "hard_actor_count_pass": true,
+  "anatomy_check": "No visible extra limbs, merged bodies or duplicate faces at review scale.",
+  "passes": [
+    "One Doberman Barkington at WOOF7 desk, correct face, glasses, fur collar and black/gold/red suit.",
+    "Cigar absent, paws readable, room backdrop/desk match source, no alternate anchor."
+  ],
+  "issues": [
+    {
+      "severity": "minor",
+      "note": "A gold paw signet appears on both paws; lock the canonical single-ring placement before final animation close-ups."
+    }
+  ],
+  "production_approved": false,
+  "paid_retry_performed": false
+}

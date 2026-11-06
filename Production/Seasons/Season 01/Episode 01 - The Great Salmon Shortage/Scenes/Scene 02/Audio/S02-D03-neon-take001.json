@@ -1,0 +1,48 @@
+{
+  "line_id": "S02-D03",
+  "scene": 2,
+  "role_id": "neon",
+  "voice_id": "4e32WqNVWRquDa1OcRYZ",
+  "voice_name": "Ryan — Product Reviewer",
+  "text": "They're literally stealing our playtime.",
+  "original_source_text_verbatim": "They're literally stealing our playtime.",
+  "source_text_policy": "Exact current working dialogue; Goodboy Global approved normalization. Original master retained.",
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.5,
+    "similarity_boost": 0.75,
+    "style": 0.15,
+    "use_speaker_boost": true
+  },
+  "output_format": "mp3_44100_128",
+  "duration_sec": 2.229116,
+  "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Voices\\Opening Scenes\\Scene02\\S02-D03-neon-take001.mp3",
+  "audio_relative_path": "Scene02/S02-D03-neon-take001.mp3",
+  "alignment_file": "S02-D03-neon-take001-alignment.json",
+  "headers": {
+    "request-id": "nk0QQ5vYf9YrQKHUxQDS",
+    "character-cost": "9"
+  },
+  "subscription_before": {
+    "character_count": 53256,
+    "character_limit": 83106,
+    "remaining_included_credits": 29850
+  },
+  "subscription_after": {
+    "character_count": 53256,
+    "character_limit": 83106,
+    "remaining_included_credits": 29850
+  },
+  "credits_observed_for_request": 0,
+  "text_characters": 40,
+  "sha256": "c1a02019a3d43be276dcaa802418f9f0818c57a3ab56bdb3a33e09bc98df8dd5",
+  "status": "generated_review_take_not_final_approved",
+  "performance_approval": "not_approved",
+  "technical_qa": {
+    "ffprobe_decodes": true,
+    "duration_positive": true,
+    "provider_alignment_present": true,
+    "alignment_reconstructs_input": true
+  },
+  "created_utc": "2026-11-06T19:07:55.395724+00:00"
+}

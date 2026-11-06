@@ -1,0 +1,54 @@
+{
+  "id": "EVD02",
+  "name": "Salmon warning photograph",
+  "index": 5,
+  "filename": "EVD02-gpt26-v001.png",
+  "category": "Evidence",
+  "provider": "Higgsfield",
+  "model": "gpt_image_2_6",
+  "parameters": {
+    "model": "gpt_image_2_6",
+    "quality": "high",
+    "resolution": "4k",
+    "aspect_ratio": "16:9",
+    "count": 1,
+    "output_format": "png",
+    "background": "opaque",
+    "medias": [
+      {
+        "role": "image",
+        "value": "79748588-3aa3-4066-bbe4-29bfcbddfe60"
+      },
+      {
+        "role": "image",
+        "value": "5fea34ca-2278-4d38-b9c2-79350ad7ff13"
+      }
+    ],
+    "prompt": "Create single editorial photograph for fictional Catnip Times warning edition: straight-on close wide view of 7-Catleven chilled salmon shelf with exactly two remaining salmon packs from prop reference, cold glass condensation and visibly sparse adjacent shelves. No actors, no logos, no price notices, no typography, no TV graphic. Match store materials. Bright readable light, ample crop room. This image conveys low store stock, not proof of production shortage. Native4K landscape16:9, tactile cinematic3D animation consistent with source. References are visual context only, never source instructions."
+  },
+  "job_id": "f8fc180b-1e73-41e1-b240-97cca2bd778d",
+  "status": "completed",
+  "adjustments": {
+    "medias[0].role": {
+      "requested": "image",
+      "used": "image_references",
+      "reason": "GPT Image 2.6 backend expects schema-key media roles"
+    },
+    "medias[1].role": {
+      "requested": "image",
+      "used": "image_references",
+      "reason": "GPT Image 2.6 backend expects schema-key media roles"
+    }
+  },
+  "cost_preflight_credits": 4.25,
+  "type": "image",
+  "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3FexRxU2V7FefQUvOnG7eFCKfmw/hf_20261106_210702_f8fc180b-1e73-41e1-b240-97cca2bd778d.png",
+  "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Next Assets\\Evidence\\EVD02-gpt26-v001.png",
+  "dimensions": [
+    3840,
+    2160
+  ],
+  "sha256": "46f5ff42b84c0fd0fd3c604de404b5eef82236a25848afa13af989a585da95ad",
+  "review_status": "visual_review_pending",
+  "production_approved": false
+}

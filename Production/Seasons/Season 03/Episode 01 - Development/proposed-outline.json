@@ -1,0 +1,24 @@
+{
+  "episode": 1,
+  "title": "Someone's Coming Home",
+  "runtime_minutes": 20,
+  "setup": "The human acknowledgment leaks. Some residents expect rescue, others expect cages, and Barkington markets himself as the only qualified negotiator.",
+  "escalation": "Byte verifies that the signal is genuine but cannot verify the humans' intentions. NIP7 refuses to publish guesses as fact. Trixie wants to jam the sky; Neon explains that blocking the message would not stop a vessel already traveling.",
+  "resolution": "The public council adopts a practical arrival plan: protect food reserves, establish one public communications channel and elect a delegation. The crew keeps the beacon for observation with transmission disabled pending a vote.",
+  "continuity": "Arrival is approaching but no exact date is invented without evidence. The isolated AI can interpret protocol but cannot issue commands.",
+  "locations": [
+    "warehouse",
+    "NIP7 studio",
+    "public council room",
+    "beacon chamber"
+  ],
+  "cast": [
+    "core five cats",
+    "Barkington",
+    "NIP7 presenter",
+    "CARETAKER"
+  ],
+  "comedy": "The city forms six committees to decide whether humans prefer being called humans.",
+  "ending_hook": "Barkington starts assembling a private offer of city assets to the visitors.",
+  "status": "Development draft — not scripted or recorded"
+}

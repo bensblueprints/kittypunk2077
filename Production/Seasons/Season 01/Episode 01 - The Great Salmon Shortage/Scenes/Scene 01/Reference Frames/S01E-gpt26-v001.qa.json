@@ -1,0 +1,25 @@
+{
+  "visual_reviewed": true,
+  "hard_actor_count_pass": true,
+  "production_approved": false,
+  "paid_retry_performed": false,
+  "asset_id": "S01E",
+  "expected_actor_count": 2,
+  "observed_actor_count": 2,
+  "status": "previs_still_hold_identity_correction",
+  "anatomy_check": "Two distinct cats and four paws holding two controllers; no merged limbs.",
+  "passes": [
+    "Byte left and Trixie right, correct two controller accent colors.",
+    "Reverse view retains window left and passage right."
+  ],
+  "issues": [
+    {
+      "severity": "major",
+      "note": "Trixie's asymmetric circuit has been duplicated across both cheeks, with the larger mark on her left. Restore only the canonical anatomical right-cheek circuit."
+    },
+    {
+      "severity": "moderate",
+      "note": "Both end blankets are visible in a two-person close framing, suggesting compressed full-couch geometry; crop or reframe to the actual adjacent Byte/Trixie seats before final continuity approval."
+    }
+  ]
+}

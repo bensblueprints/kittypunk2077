@@ -1,0 +1,41 @@
+{
+  "scene": 20,
+  "start": "17:10",
+  "end": "17:45",
+  "scene_duration_seconds": 35,
+  "location_ids": [
+    "LOC15"
+  ],
+  "shots": [
+    {
+      "shot_id": "S20-B01",
+      "description": "Factory exterior",
+      "status": "source shot beat; detailed shot duration and coverage pending",
+      "duration_seconds": null
+    },
+    {
+      "shot_id": "S20-B02",
+      "description": "guarded gates",
+      "status": "source shot beat; detailed shot duration and coverage pending",
+      "duration_seconds": null
+    },
+    {
+      "shot_id": "S20-B03",
+      "description": "truck destination labels",
+      "status": "source shot beat; detailed shot duration and coverage pending",
+      "duration_seconds": null
+    },
+    {
+      "shot_id": "S20-B04",
+      "description": "overhead security map",
+      "status": "source shot beat; detailed shot duration and coverage pending",
+      "duration_seconds": null
+    },
+    {
+      "shot_id": "S20-B05",
+      "description": "crew preparing entry.",
+      "status": "source shot beat; detailed shot duration and coverage pending",
+      "duration_seconds": null
+    }
+  ]
+}

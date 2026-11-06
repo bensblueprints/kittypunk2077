@@ -1,0 +1,12 @@
+{
+  "id": "ghost",
+  "name": "Ghost",
+  "group": "Cats - Resistance",
+  "master_file": "CREW03-ghost-character-master-gpt26-v001.png",
+  "source": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Phase 2\\Character Masters\\CREW03-ghost-character-master-gpt26-v001.png",
+  "voice_id": "7fBwqIVI6wI1B4MuKqQi",
+  "voice_name": "Austin \u2014 Upbeat",
+  "status": "Reference master / review draft; not automatically final approved",
+  "identity": "Grey tabby cat; Green AR visor, dark hood, pale muzzle and striped tail; Dark stealth suit with green light accents",
+  "factory_rule": "Only user-referenced standing robot dogs do factory work; civilian dogs do not."
+}

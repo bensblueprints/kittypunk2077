@@ -1,0 +1,81 @@
+{
+  "id": "LOC11",
+  "name": "Steak & Bone service corridors",
+  "group": "Steak & Bone",
+  "priority": "P0",
+  "rooms": [
+    "Service entry corridor",
+    "Dining access turn",
+    "Robot patrol route",
+    "Service exit"
+  ],
+  "scene_numbers": [
+    13,
+    16
+  ],
+  "filename": "LOC11-steak-bone-service-corridors-gpt26-v001.png",
+  "props": [
+    "security camera",
+    "service robot",
+    "push-bar door",
+    "access reader",
+    "tray cart",
+    "alarm light"
+  ],
+  "required_outputs": [
+    "Nine-panel location sheet: hero wide, north/south/east/west coverage, overhead plan with camera markers, ceiling/floor, fixed props/materials, reverse wide",
+    "Separate clean full-resolution 16:9 hero and reverse plates, without grid labels",
+    "Four separate wall/directional coverage plates",
+    "Annotated overhead layout with fixed door/window/prop coordinates and screen axis",
+    "Lighting/material palette and day/night variants only when script needs them",
+    "Blank screens and signage areas plus separate exact typography overlays",
+    "QC record, source references, prompt, model/version, dimensions and file hash"
+  ],
+  "status": "generated_review_required",
+  "canonical_references": [
+    "E:/MovedFromC/Documents/Codex/2026-11-06/https-chatgpt-com-share-6aedf171-aae8-2/outputs/Location Sheets v01/LOC12-steak-bone-private-dining.png",
+    "E:/MovedFromC/Documents/Codex/2026-11-06/https-chatgpt-com-share-6aedf171-aae8-2/outputs/Imported References/steak-and-bone-meeting.png"
+  ],
+  "prompt_file": "Location Sheets GPT Image 2.6/LOC11-steak-bone-service-corridors-gpt26-v001-prompt.txt",
+  "qa_notes": [
+    "Both wides read as a straight corridor with opposite end doors. The plan depicts an L-shaped corridor; the reverse from its northern dining door could not see the west exterior exit directly as rendered.",
+    "Hero places the exterior double exit on the same side wall as the kitchen door/hatch, while the plan and WEST elevation place it at the west end. Burgundy dining door appears at the far east end in the hero rather than around the northward turn.",
+    "The trolley alcove appears near the kitchen-side wall in the hero, while its intended position is the south wall as shown by the SOUTH panel and plan.",
+    "Retain material and prop design; rebuild hero and reverse from the L-shaped plan and lock all door/alcove positions before camera blocking."
+  ],
+  "file_exists": true,
+  "actual_dimensions": [
+    3840,
+    2160
+  ],
+  "bytes": 11759773,
+  "sha256": "4392e2bc49cf0b30536796c98a7223d73de922a4c8d3888c2e13d0472f814650",
+  "legacy_versions": [
+    {
+      "filename": "LOC11-steak-bone-service-corridors.png",
+      "status": "generated_review_required",
+      "file_exists": true,
+      "actual_dimensions": [
+        1672,
+        941
+      ],
+      "bytes": 2603594,
+      "sha256": "a2f7ff575683467ef35a5614764cf2de48be6816fa7ab42ee405b984c1a042f4",
+      "prompt_file": "loc08-14-prompts.json",
+      "qa_notes": [
+        "Generated sheets are review drafts, not production-approved camera or geometry masters.",
+        "Empty utility corridor, kitchen hatch, trolley alcove, rear exit, security camera/alarm and floor/ceiling details included.",
+        "L-shaped plan is explicit but hero/reverse visuals partly read as a straight corridor; use one approved camera path and reconcile the bend before action/escape clips. Private-room service-door frosted strip is a proposed detail and must match LOC12 in later renders."
+      ],
+      "directory": "Location Sheets v01"
+    }
+  ],
+  "relative_output_path": "Location Sheets GPT Image 2.6/LOC11-steak-bone-service-corridors-gpt26-v001.png",
+  "current_directory": "Location Sheets GPT Image 2.6",
+  "production_approved": false,
+  "receipt_file": "Location Sheets GPT Image 2.6/LOC11-steak-bone-service-corridors-gpt26-v001.json",
+  "qa_status": "draft_requires_geometry_correction",
+  "qa_document": "Location Sheets GPT Image 2.6/QA-notes.md#loc11",
+  "ownership": "Dogs",
+  "ownership_note": "Production affiliation; not a restriction on which species can appear here."
+}

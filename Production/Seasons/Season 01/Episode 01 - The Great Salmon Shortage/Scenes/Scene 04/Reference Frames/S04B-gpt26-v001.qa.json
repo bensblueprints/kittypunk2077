@@ -1,0 +1,16 @@
+{
+  "asset_id": "S04B",
+  "visual_reviewed": true,
+  "status": "previs_still_review_pass",
+  "expected_actor_count": 2,
+  "observed_actor_count": 2,
+  "hard_actor_count_pass": true,
+  "anatomy_check": "Two anonymous cats and four paws share one closed tuna can; no extra cats or limbs.",
+  "passes": [
+    "Cream cat left and brown tabby right match the selected street extras.",
+    "Patched grey/tan workwear and tense, nonviolent interaction remain consistent."
+  ],
+  "issues": [],
+  "production_approved": false,
+  "paid_retry_performed": false
+}

@@ -1,0 +1,81 @@
+{
+  "id": "LOC18",
+  "name": "Catnip Times pressroom",
+  "group": "Newsrooms",
+  "priority": "P0",
+  "rooms": [
+    "Editorial desk",
+    "Rotary press",
+    "Paper/ink storage",
+    "Freight loading door"
+  ],
+  "scene_numbers": [
+    17
+  ],
+  "filename": "LOC18-catnip-times-pressroom-gpt26-v001.png",
+  "props": [
+    "blank newspaper template",
+    "paper rolls",
+    "press rollers",
+    "bundled papers",
+    "ink tins",
+    "trolley",
+    "pinboards"
+  ],
+  "required_outputs": [
+    "Nine-panel location sheet: hero wide, north/south/east/west coverage, overhead plan with camera markers, ceiling/floor, fixed props/materials, reverse wide",
+    "Separate clean full-resolution 16:9 hero and reverse plates, without grid labels",
+    "Four separate wall/directional coverage plates",
+    "Annotated overhead layout with fixed door/window/prop coordinates and screen axis",
+    "Lighting/material palette and day/night variants only when script needs them",
+    "Blank screens and signage areas plus separate exact typography overlays",
+    "QC record, source references, prompt, model/version, dimensions and file hash"
+  ],
+  "status": "generated_review_required",
+  "canonical_references": [
+    "C:/Users/DELL/Desktop/CyberKitty 2077/Assets/Locations/Neko-Tokyo District 7/Reference Images/a3-street-level-hero-walk.png"
+  ],
+  "prompt_file": "Location Sheets GPT Image 2.6/LOC18-catnip-times-pressroom-gpt26-v001-prompt.txt",
+  "qa_notes": [
+    "Store cupboard is northeast in the plan, but EAST elevation shows its door at the screen-right/south end of the east wall. Fix this mirrored corner.",
+    "Trolley is on the east/right side of south freight doors in plan, but on screen-right/west in the south-facing SOUTH elevation.",
+    "Newspaper prop contains simulated dense article lines/tiny lettering below masthead rather than clean blank column blocks; replace with exact typography during prop finishing.",
+    "Core pressroom geography is useful. Correct cupboard and trolley sides; use a clean newspaper overlay for close-up inserts."
+  ],
+  "file_exists": true,
+  "actual_dimensions": [
+    3840,
+    2160
+  ],
+  "bytes": 15327345,
+  "sha256": "d83c0863676978a24ef96e7b785b3b82999ca3f801b1fb58b6afea489abb59db",
+  "legacy_versions": [
+    {
+      "filename": "LOC18-catnip-times-pressroom.png",
+      "status": "generated_review_required",
+      "file_exists": true,
+      "actual_dimensions": [
+        1672,
+        941
+      ],
+      "bytes": 2886533,
+      "sha256": "e57f562b9cd36a9793a664f045303173215433c040d356cb32410bd29b3b888e",
+      "prompt_file": "loc15-20-prompts.json",
+      "qa_notes": [
+        "Generated sheets are review drafts, not production-approved camera or geometry masters.",
+        "Pressroom is a proposed new set. Central press, north windows and masthead, south freight door and west pinboards recur consistently.",
+        "East storage-cupboard opening is not in exactly the same corner across panel/plan; choose northeast position and correct next render.",
+        "Newspaper prop includes tiny line-like body copy; treat it as texture only and composite actual headline/article when required."
+      ],
+      "directory": "Location Sheets v01"
+    }
+  ],
+  "relative_output_path": "Location Sheets GPT Image 2.6/LOC18-catnip-times-pressroom-gpt26-v001.png",
+  "current_directory": "Location Sheets GPT Image 2.6",
+  "production_approved": false,
+  "receipt_file": "Location Sheets GPT Image 2.6/LOC18-catnip-times-pressroom-gpt26-v001.json",
+  "qa_status": "draft_requires_cupboard_and_prop_correction",
+  "qa_document": "Location Sheets GPT Image 2.6/QA-notes.md#loc18",
+  "ownership": "Cats",
+  "ownership_note": "Production affiliation; not a restriction on which species can appear here."
+}

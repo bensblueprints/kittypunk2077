@@ -1,0 +1,35 @@
+{
+  "scene": 9,
+  "start": "07:30",
+  "end": "08:40",
+  "scene_duration_seconds": 70,
+  "location_ids": [
+    "LOC03"
+  ],
+  "shots": [
+    {
+      "shot_id": "S09-B01",
+      "description": "Monitor close-ups",
+      "status": "source shot beat; detailed shot duration and coverage pending",
+      "duration_seconds": null
+    },
+    {
+      "shot_id": "S09-B02",
+      "description": "Ghost's green visor",
+      "status": "source shot beat; detailed shot duration and coverage pending",
+      "duration_seconds": null
+    },
+    {
+      "shot_id": "S09-B03",
+      "description": "rotating encrypted message hologram",
+      "status": "source shot beat; detailed shot duration and coverage pending",
+      "duration_seconds": null
+    },
+    {
+      "shot_id": "S09-B04",
+      "description": "restaurant location map.",
+      "status": "source shot beat; detailed shot duration and coverage pending",
+      "duration_seconds": null
+    }
+  ]
+}

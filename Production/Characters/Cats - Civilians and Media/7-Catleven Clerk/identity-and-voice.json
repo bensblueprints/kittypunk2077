@@ -1,0 +1,12 @@
+{
+  "id": "seven_catleven_clerk",
+  "name": "7-Catleven Clerk",
+  "group": "Cats - Civilians and Media",
+  "master_file": "SUP01-character-master-gpt26-v001.png",
+  "source": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Next Assets\\Supporting Cast\\SUP01-character-master-gpt26-v001.png",
+  "voice_id": "CwhRBWXzGAHq8TQ4Fs17",
+  "voice_name": "Roger - Laid-Back, Casual, Resonant",
+  "status": "Reference master / review draft; not automatically final approved",
+  "identity": "Small tabby-and-white shop cat with white muzzle/chest, dark striped forehead, black shop cap, orange collar/shirt and dark green apron. Match cashier behind counter in store image; do not borrow the five crew costumes. Paw hands.",
+  "factory_rule": "Only user-referenced standing robot dogs do factory work; civilian dogs do not."
+}

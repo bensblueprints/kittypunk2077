@@ -1,0 +1,48 @@
+{
+  "scene": 24,
+  "start": "19:30",
+  "end": "20:00",
+  "scene_duration_seconds": 30,
+  "location_ids": [
+    "LOC02",
+    "LOC19"
+  ],
+  "shots": [
+    {
+      "shot_id": "S24-B01",
+      "description": "Wide hideout",
+      "status": "source shot beat; detailed shot duration and coverage pending",
+      "duration_seconds": null
+    },
+    {
+      "shot_id": "S24-B02",
+      "description": "controllers being picked up",
+      "status": "source shot beat; detailed shot duration and coverage pending",
+      "duration_seconds": null
+    },
+    {
+      "shot_id": "S24-B03",
+      "description": "TV loading screen",
+      "status": "source shot beat; detailed shot duration and coverage pending",
+      "duration_seconds": null
+    },
+    {
+      "shot_id": "S24-B04",
+      "description": "Trixie's face",
+      "status": "source shot beat; detailed shot duration and coverage pending",
+      "duration_seconds": null
+    },
+    {
+      "shot_id": "S24-B05",
+      "description": "group couch wide",
+      "status": "source shot beat; detailed shot duration and coverage pending",
+      "duration_seconds": null
+    },
+    {
+      "shot_id": "S24-B06",
+      "description": "final TV close-up.",
+      "status": "source shot beat; detailed shot duration and coverage pending",
+      "duration_seconds": null
+    }
+  ]
+}

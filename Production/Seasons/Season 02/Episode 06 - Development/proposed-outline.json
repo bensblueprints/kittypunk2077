@@ -1,0 +1,21 @@
+{
+  "episode": 6,
+  "title": "The Last Human Password",
+  "runtime_minutes": 20,
+  "setup": "The muzzle specification points to an old human archive under the cherry-blossom overlook. The crew seeks the original limits on the AI's authority.",
+  "escalation": "Ghost and Trixie enter a maintenance vault while Neon follows its physical power map. The archive reveals humans departed during an environmental emergency and left caretaker systems behind; it does not explain every human's fate. The AI's local copy has been interpreting a temporary protection order indefinitely.",
+  "resolution": "They recover the original sunset clause and service-access separation. Byte develops a public shutdown-and-restart procedure that will retain pumps and refrigeration. They also find the retrieval beacon is physically separate from the main control core.",
+  "continuity": "Humans have not yet returned or contacted the crew. The archive is documentary evidence, not a complete history of the world. The separate beacon prevents an easy finale reset.",
+  "locations": [
+    "cherry-blossom overlook",
+    "human archive vault",
+    "warehouse"
+  ],
+  "cast": [
+    "core five cats",
+    "CARETAKER recorded notices"
+  ],
+  "comedy": "The supposedly sacred human password hint is the name of a pet, and all five cats are offended by the guess.",
+  "ending_hook": "Muzzle reaches the beacon chamber ahead of them.",
+  "status": "Development draft — not scripted or recorded"
+}

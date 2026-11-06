@@ -1,0 +1,12 @@
+{
+  "id": "stone",
+  "name": "Stone",
+  "group": "Dogs",
+  "master_file": "DOG03-stone-character-master-gpt26-v001.png",
+  "source": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Phase 2\\Dog Masters\\DOG03-stone-character-master-gpt26-v001.png",
+  "voice_id": "pqHfZKP75CvOlQylNhV4",
+  "voice_name": "Bill - Wise, Mature, Balanced",
+  "status": "Reference master / review draft; not automatically final approved",
+  "identity": "English Bulldog; Stocky, wrinkled tan-and-white face, folded ears, heavy jowls; Dark gold-trim suit, white shirt and gold tie",
+  "factory_rule": "Only user-referenced standing robot dogs do factory work; civilian dogs do not."
+}

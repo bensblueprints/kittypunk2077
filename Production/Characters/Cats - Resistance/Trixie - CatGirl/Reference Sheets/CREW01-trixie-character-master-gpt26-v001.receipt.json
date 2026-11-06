@@ -1,0 +1,91 @@
+{
+  "asset_id": "CREW01",
+  "name": "Trixie aka CatGirl",
+  "status": "review_draft_identity_preserved_minor_consistency_notes",
+  "saved_at": "2026-11-06T19:12:11.539297+00:00",
+  "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Phase 2\\Character Masters\\CREW01-trixie-character-master-gpt26-v001.png",
+  "job_id": "308a2d12-476f-46e4-bed0-29848d380513",
+  "model": "gpt_image_2_6",
+  "provider": "Higgsfield",
+  "requested_quality": "high",
+  "requested_resolution": "4k",
+  "requested_aspect_ratio": "16:9",
+  "actual_dimensions": [
+    3840,
+    2160
+  ],
+  "file_format": "PNG",
+  "size_bytes": 10586115,
+  "sha256": "51c0358d041cc3ba41f0e8b527304e682ece2a24d457828f1cb4e834d69662cd",
+  "quote_credits": 4.25,
+  "actual_billed_credits": "not_independently_verified",
+  "budget_lease_credits": 26,
+  "batch_max_jobs": 6,
+  "reference_paths": [
+    "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Characters\\Trixie\\trixie-catgirl-crew-character-sheet-v001.png",
+    "C:\\Users\\DELL\\Desktop\\CyberKitty 2077\\Assets\\Characters\\Catman\\Reference Images\\ref-headshot.png"
+  ],
+  "reference_media_ids": [
+    "39642dd3-bdb7-4c07-9a18-9495fd1e4106",
+    "e382ab46-6fc0-4e5a-b0e6-7447edeb66dd"
+  ],
+  "voice_metadata_only": "Emma",
+  "voice_printed_on_sheet": false,
+  "prompt_file": "CREW01-trixie-character-master-gpt26-v001.prompt.txt",
+  "generation_params": {
+    "model": "gpt_image_2_6",
+    "prompt": "Create a reusable animation production CHARACTER IDENTITY MASTER reference sheet, 3840 x 2160 landscape 16:9, exactly nine clearly separated panels in a regular 3 x 3 grid. Short clean header: \"CREW01 — TRIXIE AKA CATGIRL\". This is ONE established individual shown repeatedly, not a group, not a new design. Character age 19, youthful fully clothed anthropomorphic cat. Preserve the supplied original identity and costume exactly. IDENTITY LOCK: Female white long-haired cat with brilliant blue eyes, pink nose, dense white cheek and neck fur, tall pink-inner ears. The branching black cybernetic cheek mark with small pink lights is on HER RIGHT cheek (viewer's left in a front view); never mirror it. The same existing feminine leader identity and practical silhouette, no sexualized anatomy or redesign. Exact black cyber jacket with cyan piping and magenta cat patch, black utility trousers and belt, black tactical lace-up boots, white fluffy tail. Hood down, no glasses on the face. Reference 1 large left section and its lower full-body turnarounds are her authority. Reference 2 is a clean close-up of this same face.\n\nVISUAL STYLE: rich realistic fur, expressive stylized cinematic cyberpunk character rendering and physically convincing worn fabric, leather, metal, glass. Neutral charcoal-grey studio backdrop and soft balanced key/fill lighting in ALL panels; small palette-correct practical glow, restrained rim light so all surfaces and fur are readable. No city backgrounds, no neon architecture, no dramatic scene, no cinematic cropping.\n\nLAYOUT / DELIVERABLES, read left-to-right:\n1 FRONT: full body neutral relaxed A-pose, straight frontal orthographic-like view, ears to boots with ample margins.\n2 BACK: matching full body directly from rear, show exact tail attachment, back seams, equipment, boots. Same scale and outfit.\n3 LEFT PROFILE: character's left side, head faces image left, exact side view full body.\n4 RIGHT PROFILE: character's right side, head faces image right, exact opposite profile full body; rotate the actual design, NEVER mirror asymmetric markings/equipment.\n5 FACE: large three-quarter head-and-shoulders identity close-up, signature blue eyes and cheek circuit clearly readable.\n6 EXPRESSIONS: four clean bust close-ups of this same face: neutral, focused, amused, alarmed. Keep costume and worn eyewear unchanged. No new face design.\n7 CONTROLLER GRIP: close-up of both correctly articulated feline paws holding a simple black twin-stick game controller, readable claw/finger placement, wrists continue into correct costume sleeves.\n8 LAPTOP GRIP: waist-up view and paw close-up, one paw supporting a slim black closed/partly-open laptop while other paw uses keyboard/trackpad. Screen blank. Maintain same physical paw anatomy and costume.\n9 COSTUME / ACCESSORIES: isolated laid-out fixed outfit and exact signature accessories, reference-matched front/back garment details, material/colour swatches. This is a breakdown of the SAME outfit worn in panels 1-8, NOT wardrobe alternatives.\n\nOnly short panel labels. No biographies, no voice names/IDs, no product slogans, no watermarks, no other characters. Every full body shows both arms, both legs, both ears and the complete tail if present. Preserve species, fur pattern, eye colour, cheek markings, goggle/headphone geometry and faction palette, fixed costume seam placement and accessories in all nine panels. Keep anatomical left/right consistent. No human skin or human hands, no extra digits/limbs, no duplicate tails, no alternate clothing, no sexualization.",
+    "quality": "high",
+    "resolution": "4k",
+    "aspect_ratio": "16:9",
+    "count": 1,
+    "output_format": "png",
+    "background": "opaque",
+    "medias": [
+      {
+        "role": "image",
+        "value": "39642dd3-bdb7-4c07-9a18-9495fd1e4106"
+      },
+      {
+        "role": "image",
+        "value": "e382ab46-6fc0-4e5a-b0e6-7447edeb66dd"
+      }
+    ]
+  },
+  "generation_status": "completed",
+  "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3FexRxU2V7FefQUvOnG7eFCKfmw/hf_20261106_191048_308a2d12-476f-46e4-bed0-29848d380513.png",
+  "source_hashes": {
+    "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Characters\\Trixie\\trixie-catgirl-crew-character-sheet-v001.png": "92693b403069684c8f692d567ce0f6145e8b42f66c488269e0c3610221082f10",
+    "C:\\Users\\DELL\\Desktop\\CyberKitty 2077\\Assets\\Characters\\Catman\\Reference Images\\ref-headshot.png": "af68cd942629eb33bdb69d8243df014eec18c3a2cb2bdb0c729d2a20c1f31cb5"
+  },
+  "visual_qa": {
+    "asset_id": "CREW01",
+    "status": "review_draft_identity_preserved_minor_consistency_notes",
+    "visual_reviewed": true,
+    "passes": [
+      "Correct white-fur, blue-eyed Trixie/CatGirl identity and face circuit on anatomical right cheek.",
+      "Existing black utility outfit with cyan/magenta accents, cat patches, hood-down state and white tail retained.",
+      "All nine required content panels present, including four full-body orientations, expressions, controller/laptop grip and costume breakdown.",
+      "No other crew members, inappropriate redesign or printed voice IDs."
+    ],
+    "issues": [
+      {
+        "severity": "minor",
+        "type": "layout",
+        "note": "Nine panels are arranged as 4/2/3 rows rather than a regular 3×3 grid; all requested content remains legible."
+      },
+      {
+        "severity": "minor",
+        "type": "continuity",
+        "note": "Small cheek-circuit branches and garment accent lines vary between expression/turnaround panels; use the supplied face reference and front/back master as exact placement authority before animation."
+      },
+      {
+        "severity": "minor",
+        "type": "prop_dependency",
+        "note": "Controller and laptop are grip proxies. Scene controller identity must follow PROP03 (five-controller master); PROP01 is the CRT and PROP02 is the console."
+      }
+    ],
+    "production_approved": false,
+    "rerender_requested": false
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "line_id": "S03-D04",
+  "scene": 3,
+  "role_id": "onyx",
+  "voice_id": "uq0HIbNZKn11Hs5ifEdd",
+  "voice_name": "Harry — Fierce Warrior",
+  "text": "It's literally fish.",
+  "original_source_text_verbatim": "It's literally fish.",
+  "source_text_policy": "Exact current working dialogue; Goodboy Global approved normalization. Original master retained.",
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.5,
+    "similarity_boost": 0.75,
+    "style": 0.15,
+    "use_speaker_boost": true
+  },
+  "output_format": "mp3_44100_128",
+  "duration_sec": 1.393197,
+  "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Voices\\Opening Scenes\\Scene03\\S03-D04-onyx-take001.mp3",
+  "audio_relative_path": "Scene03/S03-D04-onyx-take001.mp3",
+  "alignment_file": "S03-D04-onyx-take001-alignment.json",
+  "headers": {
+    "request-id": "eVqKzuak4DFvB52argDB",
+    "character-cost": "4"
+  },
+  "subscription_before": {
+    "character_count": 53352,
+    "character_limit": 83106,
+    "remaining_included_credits": 29754
+  },
+  "subscription_after": null,
+  "credits_observed_for_request": null,
+  "provider_reported_character_cost": 4,
+  "text_characters": 20,
+  "sha256": "570ba44dbfead2b1a287ace7ffedc2f9613a06318fdf483cdc70f00c2cc7bb63",
+  "status": "generated_review_take_not_final_approved",
+  "performance_approval": "not_approved",
+  "technical_qa": {
+    "ffprobe_decodes": true,
+    "duration_positive": true,
+    "provider_alignment_present": true,
+    "alignment_reconstructs_input": true
+  },
+  "created_utc": "2026-11-06T19:09:20.956112+00:00"
+}

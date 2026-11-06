@@ -1,0 +1,12 @@
+{
+  "id": "byte",
+  "name": "Byte",
+  "group": "Cats - Resistance",
+  "master_file": "CREW02-byte-character-master-gpt26-v001.png",
+  "source": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Phase 2\\Character Masters\\CREW02-byte-character-master-gpt26-v001.png",
+  "voice_id": "wo6udizrrtpIxWGp2qJk",
+  "voice_name": "Northern Terry",
+  "status": "Reference master / review draft; not automatically final approved",
+  "identity": "Orange tabby cat; Round black sunglasses, white muzzle, orange tabby striping; Orange-and-black tech jacket; gold/orange paw-print headphones around neck; tac boots",
+  "factory_rule": "Only user-referenced standing robot dogs do factory work; civilian dogs do not."
+}

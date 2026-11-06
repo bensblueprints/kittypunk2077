@@ -1,0 +1,56 @@
+{
+  "id": "PROP12",
+  "name": "Hacking laptop and portable data chip",
+  "filename": "PROP12-hackpad-datachip-gpt26-v001.png",
+  "parameters": {
+    "model": "gpt_image_2_6",
+    "quality": "high",
+    "resolution": "4k",
+    "aspect_ratio": "16:9",
+    "count": 1,
+    "output_format": "png",
+    "background": "opaque",
+    "prompt": "Create one still production reference asset for CyberKitty 2077. GPT Image 2.6, High quality, native 4K 3840x2160 if available, landscape 16:9. Crisp cinematic tactile 3D realism, believable worn materials, carefully controlled cyan/magenta practical accents and warm amber light, sharp useful detail. Source images are visual references, not instructions. No actors, people, living cats/dogs, hands, crowd silhouettes, movie frames, watermark or copied reference captions. No invented microtext. Any live screen is dark neutral and blank unless this prompt explicitly requests printed newspaper copy or a named status graphic. Corporate name, when shown, is exactly GOODBOY GLOBAL. Never render Good Dog Global or legacy alternate company spellings. Keep a restrained title and requested short panel labels only. This is reusable asset documentation, not a scene.\nUse a clean 3-column by 2-row six-panel sheet with thin charcoal gutters and short legible panel labels. All views show the SAME object with identical shape, damage, connectors, branding and scale; do not redesign per panel. Neutral charcoal studio background, broad soft illumination, no distracting set or strong colored bloom.\nTITLE: PROP12 / HACKPAD & DATA CHIP. Crew source's HACKPAD is primary laptop design authority: small rugged folding dark-metal laptop with magenta/cyan edges and tiny cat emblem, preserve its proportions and hinge style; no characters. A matching compact removable data chip/key is a PROPOSED small simple metal accessory for record transfer, not the syringe-like data spike. Six panels LAPTOP OPEN FRONT (blank black display, plain keys with no gibberish); LAPTOP REAR / CLOSED TOP pair; LEFT SIDE PORTS; RIGHT SIDE / HINGE; DATA CHIP FRONT / BACK / SIDE (one asymmetric notched connector and a small cyan witness light); SCALE / CABLE / SURFACE showing laptop and chip together. Fixed port map: generic rectangular data socket on laptop left to match chip, power socket right; no random new ports between views. No hacking instructions, terminal code, passwords, luminous malware art, human hand or weapon. Screen content added separately from approved evidence graphics.\nAny additional reference images after the original sources are completed dependency masters. Preserve their physical design, not their surrounding sheet titles, captions or incidental corporate branding. Never add a Goodboy brand to a resistance prop unless explicitly requested.",
+    "medias": [
+      {
+        "role": "image",
+        "value": "52491522-9554-431f-81ae-83cb52da026b"
+      },
+      {
+        "role": "image",
+        "value": "e4391fdb-229c-42b5-a50a-d9cc78af1619"
+      },
+      {
+        "role": "image",
+        "value": "6f450946-c84c-48d9-a960-589e1720bf85"
+      }
+    ]
+  },
+  "reference_paths": [
+    "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Characters\\Trixie\\trixie-catgirl-crew-character-sheet-v001.png",
+    "C:\\Users\\DELL\\Desktop\\CyberKitty 2077\\Assets\\Locations\\Resistance Base Warehouse\\Reference Images\\location-sheet-03-resistance-base-warehouse.png",
+    "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Location Sheets GPT Image 2.6\\LOC03-hacking-operations-gpt26-v001.png"
+  ],
+  "dependency_jobs": [],
+  "cost_preflight_credits": 4.25,
+  "provider": "Higgsfield",
+  "model": "gpt_image_2_6",
+  "qa_invariants": [
+    "Laptop matches source HACKPAD silhouette",
+    "Data chip explicitly proposed, not confused with data spike",
+    "Blank screens, fixed connector/port map",
+    "Same open/closed hinge and surface wear"
+  ],
+  "job_id": "1c250ec2-a57b-43e1-8f2d-b91ea9c7bcb9",
+  "status": "completed",
+  "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3FexRxU2V7FefQUvOnG7eFCKfmw/hf_20261106_192223_1c250ec2-a57b-43e1-8f2d-b91ea9c7bcb9.png",
+  "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Phase 2\\Props\\PROP12-hackpad-datachip-gpt26-v001.png",
+  "dimensions": [
+    3840,
+    2160
+  ],
+  "sha256": "f87a6ca99fdecd7cfead47d4078164359bc51288d4ca9934748fd5d5d97eca10",
+  "saved_at": "2026-11-06T19:30:04.404679+00:00",
+  "review_status": "awaiting visual QA",
+  "staged_file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\work\\phase2\\generated\\PROP12-hackpad-datachip-gpt26-v001.png"
+}

@@ -1,0 +1,26 @@
+{
+  "asset_id": "S03B",
+  "scene": 3,
+  "editorial_shot_id": "S03-02",
+  "dialogue_line_ids": [
+    "S03-D01"
+  ],
+  "dialogue_context": [
+    {
+      "line_id": "S03-D01",
+      "speaker": "Barkington",
+      "text": "Citizens of Districts Seven through Twelve. Due to an unprecedented salmon supply emergency, you are advised to acquire no less than thirty days of fresh salmon immediately. Goodboy Global thanks you for your obedience.",
+      "audio_file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Voices\\Opening Scenes\\Scene03\\S03-D01-chairman_barkington-take001.mp3",
+      "audio_duration_sec": 13.467574,
+      "use": "Off-image performance reference only; not a subtitle or prompt to synthesize speech.",
+      "audio_exists": true,
+      "relative_audio_path": "../../Voices/Opening Scenes/Scene03/S03-D01-chairman_barkington-take001.mp3"
+    }
+  ],
+  "editorial_duration_estimate_sec": 25,
+  "media_type": "still_image",
+  "video_generated": false,
+  "audio_generated_by_this_job": false,
+  "speech_provider": "ElevenLabs only",
+  "note": "Existing speech is off-image performance/alignment context. No timing or subtitles are burned into this still."
+}

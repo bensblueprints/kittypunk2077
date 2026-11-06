@@ -1,0 +1,37 @@
+{
+  "scene": 1,
+  "start": "00:00",
+  "end": "01:10",
+  "scene_duration_seconds": 70,
+  "location_ids": [
+    "LOC01",
+    "LOC02",
+    "LOC19"
+  ],
+  "shots": [
+    {
+      "shot_id": "S01-B01",
+      "description": "Wide room establishing",
+      "status": "source shot beat; detailed shot duration and coverage pending",
+      "duration_seconds": null
+    },
+    {
+      "shot_id": "S01-B02",
+      "description": "over-the-shoulder couch",
+      "status": "source shot beat; detailed shot duration and coverage pending",
+      "duration_seconds": null
+    },
+    {
+      "shot_id": "S01-B03",
+      "description": "TV gameplay showing the Great Dog National Bank heist",
+      "status": "source shot beat; detailed shot duration and coverage pending",
+      "duration_seconds": null
+    },
+    {
+      "shot_id": "S01-B04",
+      "description": "individual reactions.",
+      "status": "source shot beat; detailed shot duration and coverage pending",
+      "duration_seconds": null
+    }
+  ]
+}

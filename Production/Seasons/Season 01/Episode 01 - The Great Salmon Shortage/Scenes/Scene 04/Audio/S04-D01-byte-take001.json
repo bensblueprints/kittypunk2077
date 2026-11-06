@@ -1,0 +1,45 @@
+{
+  "line_id": "S04-D01",
+  "scene": 4,
+  "role_id": "byte",
+  "voice_id": "wo6udizrrtpIxWGp2qJk",
+  "voice_name": "Northern Terry",
+  "text": "You think there's really a shortage?",
+  "original_source_text_verbatim": "You think there's really a shortage?",
+  "source_text_policy": "Exact current working dialogue; Goodboy Global approved normalization. Original master retained.",
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.5,
+    "similarity_boost": 0.75,
+    "style": 0.15,
+    "use_speaker_boost": true
+  },
+  "output_format": "mp3_44100_128",
+  "duration_sec": 1.671837,
+  "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Voices\\Opening Scenes\\Scene04\\S04-D01-byte-take001.mp3",
+  "audio_relative_path": "Scene04/S04-D01-byte-take001.mp3",
+  "alignment_file": "S04-D01-byte-take001-alignment.json",
+  "headers": {
+    "request-id": "7h9mRSyp9CBvz88n8G9F",
+    "character-cost": "8"
+  },
+  "subscription_before": {
+    "character_count": 53352,
+    "character_limit": 83106,
+    "remaining_included_credits": 29754
+  },
+  "subscription_after": null,
+  "credits_observed_for_request": null,
+  "provider_reported_character_cost": 8,
+  "text_characters": 36,
+  "sha256": "6252916fa5ca06c7916b44fdf2b1a278031741d7d98e99bae6f4c937110beebf",
+  "status": "generated_review_take_not_final_approved",
+  "performance_approval": "not_approved",
+  "technical_qa": {
+    "ffprobe_decodes": true,
+    "duration_positive": true,
+    "provider_alignment_present": true,
+    "alignment_reconstructs_input": true
+  },
+  "created_utc": "2026-11-06T19:09:21.510180+00:00"
+}

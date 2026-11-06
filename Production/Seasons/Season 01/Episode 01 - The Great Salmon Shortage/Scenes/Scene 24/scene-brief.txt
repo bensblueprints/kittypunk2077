@@ -1,0 +1,95 @@
+Scene 24 — Back to the Game
+
+19:30–20:00 · 30 sec · Resistance hideout
+
+The crew returns home, collapses onto the couch, and turns on CatStation 5. Grand Theft Kitty VI resumes at the Great Dog National Bank heist.
+
+Shots: Wide hideout → controllers being picked up → TV loading screen → Trixie's face → group couch wide → final TV close-up.
+
+Dialogue:
+
+Trixie: "All right. Now it's time to finish this mission."
+
+Byte: "We've been trying to finish this shit all day."
+
+Neon: "At least nobody can interrupt us now."
+
+The television flickers.
+
+TV: "Goodboy Global HAS AN IMPORTANT ANNOUNCEMENT—"
+
+Onyx: "OH, FUCK OFF!"
+
+SMASH CUT TO BLACK.
+
+End credits.
+
+### Production storyboard index
+
+This is the master timing reference for generating the individual scene plates and clips.
+
+| Scene | Story beat                | Start | End   |
+| ----- | ------------------------- | ----- | ----- |
+| 01    | Just One More Mission     | 00:00 | 01:10 |
+| 02    | The Interruption          | 01:10 | 02:00 |
+| 03    | Barkington's Broadcast    | 02:00 | 03:05 |
+| 04    | Trip to 7-Catleven        | 03:05 | 04:00 |
+| 05    | Three Times the Price     | 04:00 | 05:00 |
+| 06    | Word Spreads              | 05:00 | 05:45 |
+| 07    | District 7 Rally          | 05:45 | 06:50 |
+| 08    | The Cats Are Waking Up    | 06:50 | 07:30 |
+| 09    | Follow the Money          | 07:30 | 08:40 |
+| 10    | Operation Bonehead        | 08:40 | 09:45 |
+| 11    | Steak & Bone Surveillance | 09:45 | 11:00 |
+| 12    | The Bone Distraction      | 11:00 | 11:45 |
+| 13    | Inside the Restaurant     | 11:45 | 12:35 |
+| 14    | The Secret Dinner         | 12:35 | 13:35 |
+| 15    | The Payoff Photograph     | 13:35 | 14:20 |
+| 16    | Get the Hell Out          | 14:20 | 15:10 |
+| 17    | The Leak                  | 15:10 | 16:00 |
+| 18    | Victory? Not Quite        | 16:00 | 16:35 |
+| 19    | Follow the Fish           | 16:35 | 17:10 |
+| 20    | Salmon Headquarters       | 17:10 | 17:45 |
+| 21    | The Great Salmon Heist    | 17:45 | 18:30 |
+| 22    | Shut It Down              | 18:30 | 19:05 |
+| 23    | Salmon for Everyone       | 19:05 | 19:30 |
+| 24    | Back to the Game          | 19:30 | 20:00 |
+
+### AI video production requirements
+
+Total runtime
+
+### 1,200s
+
+20 minutes
+
+5-second clips
+
+### 240
+
+Before editing and reuse
+
+Base generation cost
+
+### $96
+
+At $0.08 per second
+
+With 20% failed renders
+
+### $120
+
+Expected generation cost
+
+These figures assume all 20 minutes are generated footage, independent attempts with an 80% success rate, and no extra editorial retakes, audio, or upscaling charges.
+
+### How we'll turn this into production-ready storyboards
+
+The 24-scene breakdown is the narrative storyboard. Before rendering, each scene should be divided into numbered camera shots with an individual reference frame, exact dialogue timing, character identities, camera movement, audio, and a start/end-frame continuity description.
+
+For example, Scene 01's 70 seconds might become 12–16 shots covering the building exterior, couch, controllers, gameplay, reactions, and the moment before the interruption. This is how we avoid generating long clips where the characters, furniture, or costumes randomly change.
+
+We should also keep the pilot's ending deliberately unresolved: the cats prove the distribution discrimination and restore immediate access, but they have not discovered who authorized the larger conspiracy or why Barkington wanted the shortage in the first place. That mystery carries into Episode 2.
+
+The next production stage is Scene 01 — Just One More Mission, with individual cinematic storyboard frames, shot numbers, and image-to-video prompts, followed by Scene 02 and onward in order.
+

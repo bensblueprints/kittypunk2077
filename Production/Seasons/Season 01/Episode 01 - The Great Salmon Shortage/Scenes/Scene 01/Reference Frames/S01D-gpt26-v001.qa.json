@@ -1,0 +1,21 @@
+{
+  "asset_id": "S01D",
+  "visual_reviewed": true,
+  "status": "previs_still_review_pass",
+  "expected_actor_count": 0,
+  "observed_actor_count": 0,
+  "hard_actor_count_pass": true,
+  "anatomy_check": "No visible extra limbs, merged bodies or duplicate faces at review scale.",
+  "passes": [
+    "One coherent game-world car at bank curb, zero visible actors.",
+    "Bank branding and architecture retained; no physical CRT or game HUD overlay."
+  ],
+  "issues": [
+    {
+      "severity": "minor",
+      "note": "Car carries source police-style light bar; treat as the established game-only vehicle, not a real-world crew transport."
+    }
+  ],
+  "production_approved": false,
+  "paid_retry_performed": false
+}

@@ -1,0 +1,25 @@
+{
+  "episode": 8,
+  "title": "Welcome to Our Home",
+  "runtime_minutes": 20,
+  "setup": "The human vessel begins descent. District 7 prepares a welcome and an evacuation plan at the same time. The crew finally understands that being ready does not mean knowing what will happen.",
+  "escalation": "The old landing system attempts its standard habitat lockdown. Byte identifies the command, Neon uses the supervised interface to reject it, Ghost verifies the physical doors stay open, Onyx keeps the crowd safe and Trixie sends the charter again. The restricted AI recommends custody; the council declines and retains its advisory copy as evidence.",
+  "resolution": "The ship lands safely without reimposing ownership. Food, utilities and public government remain under local control. The five friends stand with cat and dog delegates as residents of their own city. A human delegation walks down the ramp for the first physical human appearance of the series. Its leader studies the animals' banners and asks who is in charge. The response is that they will have to speak to everyone.",
+  "continuity": "The return is real, not a recording or dream. Human intentions, disagreements within the delegation and the world's wider condition remain open for Season 4. The prior victories stand: the city is fed, the monopoly is broken and the animals can govern themselves.",
+  "locations": [
+    "Neko-Tokyo skyline",
+    "public landing pad",
+    "warehouse lounge for opening/final comic tag"
+  ],
+  "cast": [
+    "core five cats",
+    "Fetch",
+    "Dr Muzzle under supervision",
+    "NIP7 presenter",
+    "cat and dog delegates",
+    "returning human delegation"
+  ],
+  "comedy": "Just before leaving for first contact, Byte saves the game. The final tag shows a human casually producing a laser pointer; all five cats freeze, then Onyx covers it with a paw.",
+  "ending_hook": "The human leader receives a private instruction to recover the habitat assets. Whether they obey becomes Season 4's opening conflict.",
+  "status": "Development draft — not scripted or recorded"
+}

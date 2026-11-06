@@ -1,0 +1,23 @@
+{
+  "episode": 4,
+  "title": "Fetch the Future",
+  "runtime_minutes": 20,
+  "setup": "An unmanned human scout enters the district. Fetch assumes it is an invasion probe; the crew needs to identify its function before anyone fires.",
+  "escalation": "The scout mistakes armed animals for a failed containment event and triggers defensive barriers. Fetch's old command tactics make the situation worse. Ghost tracks its limited sensor pattern while Neon establishes a short diagnostic exchange using the archived protocol.",
+  "resolution": "The crew disables only the scout's weapon relay and preserves its navigation recorder. Fetch publicly accepts responsibility for escalating the encounter. The recorder supplies a reliable arrival window and confirms a crewed vessel is coming.",
+  "continuity": "No humans are physically present yet. The scout is a machine with bounded behavior, not proof that all returning people are hostile. Fetch earns cooperation through accountability.",
+  "locations": [
+    "rooftop landing pad",
+    "District 7 checkpoint",
+    "warehouse workbench"
+  ],
+  "cast": [
+    "core five cats",
+    "Fetch",
+    "human scout drone",
+    "CARETAKER diagnostic voice"
+  ],
+  "comedy": "Fetch delivers a flawless surrender demand to a machine that thinks he wants a walk.",
+  "ending_hook": "The scout carries an old inventory list describing the entire city as a managed habitat.",
+  "status": "Development draft — not scripted or recorded"
+}

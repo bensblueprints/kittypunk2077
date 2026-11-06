@@ -1,0 +1,42 @@
+{
+  "scene": 3,
+  "start": "02:00",
+  "end": "03:05",
+  "scene_duration_seconds": 65,
+  "location_ids": [
+    "LOC02",
+    "LOC13"
+  ],
+  "shots": [
+    {
+      "shot_id": "S03-B01",
+      "description": "CRT news graphic",
+      "status": "source shot beat; detailed shot duration and coverage pending",
+      "duration_seconds": null
+    },
+    {
+      "shot_id": "S03-B02",
+      "description": "Barkington medium shot",
+      "status": "source shot beat; detailed shot duration and coverage pending",
+      "duration_seconds": null
+    },
+    {
+      "shot_id": "S03-B03",
+      "description": "salmon shortage map",
+      "status": "source shot beat; detailed shot duration and coverage pending",
+      "duration_seconds": null
+    },
+    {
+      "shot_id": "S03-B04",
+      "description": "extreme close-up of his smug expression",
+      "status": "source shot beat; detailed shot duration and coverage pending",
+      "duration_seconds": null
+    },
+    {
+      "shot_id": "S03-B05",
+      "description": "crew reaction inserts.",
+      "status": "source shot beat; detailed shot duration and coverage pending",
+      "duration_seconds": null
+    }
+  ]
+}
