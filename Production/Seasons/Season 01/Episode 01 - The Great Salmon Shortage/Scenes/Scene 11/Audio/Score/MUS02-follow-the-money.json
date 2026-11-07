@@ -1,0 +1,23 @@
+{
+  "id": "MUS02-follow-the-money",
+  "scenes": [
+    9,
+    11,
+    12,
+    13,
+    14,
+    15,
+    19
+  ],
+  "request": {
+    "prompt": "Original instrumental investigative stealth underscore. Quiet pulsing analog bass, sparse glassy electronic notes, brushed mechanical percussion, 80 BPM D minor. Suspicious corporate dinner and hackers following evidence, subtle comic tension without horror. Spacious arrangement under dialogue, no loud hits. Clear soft ending. No vocals or spoken words.",
+    "music_length_ms": 45000,
+    "force_instrumental": true,
+    "model_id": "music_v1"
+  },
+  "duration_sec": 45.087313,
+  "song_id": "0lKGRLjaoqCuroVlVPoh",
+  "character_cost": null,
+  "sha256": "47a929f87d5a6144e68939e6c0e5a5d0a851ffceb41930bd99131c27cf606c54",
+  "status": "review_score_cue"
+}

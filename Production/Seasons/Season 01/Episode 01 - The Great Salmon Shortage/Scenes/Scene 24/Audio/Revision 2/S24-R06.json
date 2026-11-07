@@ -1,0 +1,22 @@
+{
+  "id": "S24-R06",
+  "line_id": "S24-R06",
+  "scene": 24,
+  "speaker": "Trixie",
+  "role_id": "trixie",
+  "text": "C'mon. Let's just play the game. We fixed it, even if no one knows it.",
+  "voice_id": "dmWfLQZJq7wNPv9WmtiM",
+  "voice_name": "Emma — Wry, Gritty Hero",
+  "duration_sec": 3.808073,
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.35,
+    "similarity_boost": 0.8,
+    "style": 0.55,
+    "use_speaker_boost": true
+  },
+  "request_id": "xfLHIvvi3AmvfwpRGgBK",
+  "provider_character_cost": "15",
+  "sha256": "dd965f6a25723ee70c3be20d0049cb8078b0c59f930b59b8509fe87aeb4ea896",
+  "status": "review_take"
+}

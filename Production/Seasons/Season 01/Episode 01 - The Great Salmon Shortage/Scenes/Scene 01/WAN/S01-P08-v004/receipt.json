@@ -1,0 +1,14 @@
+{
+  "model": "wan-3.0-prime",
+  "documentation": "https://orbiorbi.com/api/developer-docs/published/openplane-wan-3-0-prime-official-a",
+  "status": "queued",
+  "created_utc": "2026-11-07T01:52:22.364989+00:00",
+  "post_requests": 1,
+  "auto_retries": 0,
+  "estimated_cny": 8.8,
+  "reference_total": 2,
+  "route_access_verified": true,
+  "task_id": "task_OViNjnfNVmcEbECyz4SlLD5rKCjw7mUr",
+  "progress": 0,
+  "last_polled_utc": "2026-11-07T01:54:36.097514+00:00"
+}

@@ -1,0 +1,15 @@
+{
+  "model": "wan-3.0-prime",
+  "documentation": "https://orbiorbi.com/api/developer-docs/published/openplane-wan-3-0-prime-official-a",
+  "status": "failed",
+  "created_utc": "2026-11-07T01:44:56.079447+00:00",
+  "post_requests": 1,
+  "auto_retries": 0,
+  "estimated_cny": 7.7,
+  "reference_total": 2,
+  "route_access_verified": true,
+  "task_id": "task_Ahetos2baxxFh6cwSBjCARjGo7nVYwzu",
+  "progress": 100,
+  "last_polled_utc": "2026-11-07T01:46:11.603087+00:00",
+  "error": "参考素材上传失败，请检查素材 URL 和格式"
+}

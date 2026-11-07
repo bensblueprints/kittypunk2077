@@ -1,0 +1,906 @@
+{
+  "number": 18,
+  "title": "Victory? Not Quite",
+  "start": "16:00",
+  "end": "16:35",
+  "duration_seconds": 35,
+  "source_location": "District 7 streets",
+  "location_ids": [
+    "LOC05",
+    "LOC08"
+  ],
+  "staging": "Scene 18 — Victory? Not Quite\n\n16:00–16:35 · 35 sec · District 7 streets\n\nCats read the Catnip Times. News of the suspicious payment spreads across the district. But the salmon shortage remains unresolved.\n\nShots: Newspaper close-up → street reactions → empty fish market → Trixie reading the report.",
+  "sound": "",
+  "lines": [
+    {
+      "id": "S18-D01",
+      "speaker": "Byte",
+      "text": "We exposed the bastard!",
+      "takes": [
+        {
+          "id": "b87f6ede3f46c5a3",
+          "title": "S18-D01-byte-take001",
+          "scene": "Scene18",
+          "text": "We exposed the bastard!",
+          "duration_sec": 1.346757,
+          "kind": "take",
+          "variant": "take001",
+          "voice_name": "Northern Terry",
+          "status": "review take"
+        }
+      ],
+      "origin": "retained working script",
+      "recording_status": "recorded; performance review pending",
+      "start_sec": 960.15,
+      "end_sec": 961.75,
+      "start_tc": "16:00.150",
+      "end_tc": "16:01.750",
+      "shot_id": "S18-P01",
+      "timing_basis": "planned edit slot; measured recording 1.347s; conform picture after review",
+      "role_id": "byte",
+      "voice_id": "wo6udizrrtpIxWGp2qJk",
+      "voice_name": "Northern Terry",
+      "recorded_duration_sec": 1.346757
+    },
+    {
+      "id": "S18-N01",
+      "speaker": "Civilian cat",
+      "text": "I read your story. The freezer is still empty. What do we eat tonight?",
+      "takes": [
+        {
+          "id": "3e21d7eac9442658",
+          "title": "S18-N01-civilian_2-take001",
+          "scene": "Scene18",
+          "text": "I read your story. The freezer is still empty. What do we eat tonight?",
+          "duration_sec": 5.10839,
+          "kind": "take",
+          "variant": "take001",
+          "voice_name": "Serein - Friendly, Casual and Balanced",
+          "status": "review take"
+        }
+      ],
+      "origin": "new production draft v003; not yet recorded",
+      "recording_status": "recorded; performance review pending",
+      "start_sec": 963.51,
+      "end_sec": 969.11,
+      "start_tc": "16:03.510",
+      "end_tc": "16:09.110",
+      "shot_id": "S18-P02",
+      "timing_basis": "planned edit slot; measured recording 5.108s; conform picture after review",
+      "role_id": "civilian_2",
+      "voice_id": "b5RPB35vTODb3BEmR3Fc",
+      "voice_name": "Serein - Friendly, Casual and Balanced",
+      "recorded_duration_sec": 5.10839
+    },
+    {
+      "id": "S18-N02",
+      "speaker": "Trixie",
+      "text": "You are right. A headline is not a meal.",
+      "takes": [
+        {
+          "id": "5e3af31f4601d9eb",
+          "title": "S18-N02-trixie-take001",
+          "scene": "Scene18",
+          "text": "You are right. A headline is not a meal.",
+          "duration_sec": 1.996916,
+          "kind": "take",
+          "variant": "take001",
+          "voice_name": "Emma — Wry, Gritty Hero",
+          "status": "review take"
+        }
+      ],
+      "origin": "new production draft v003; not yet recorded",
+      "recording_status": "recorded; performance review pending",
+      "start_sec": 969.31,
+      "end_sec": 972.91,
+      "start_tc": "16:09.310",
+      "end_tc": "16:12.910",
+      "shot_id": "S18-P02",
+      "timing_basis": "planned edit slot; measured recording 1.997s; conform picture after review",
+      "role_id": "trixie",
+      "voice_id": "dmWfLQZJq7wNPv9WmtiM",
+      "voice_name": "Emma — Wry, Gritty Hero",
+      "recorded_duration_sec": 1.996916
+    },
+    {
+      "id": "S18-D02",
+      "speaker": "Trixie",
+      "text": "Then why are the stores still empty?",
+      "takes": [
+        {
+          "id": "62aef5861532c318",
+          "title": "S18-D02-trixie-take001",
+          "scene": "Scene18",
+          "text": "Then why are the stores still empty?",
+          "duration_sec": 1.811156,
+          "kind": "take",
+          "variant": "take001",
+          "voice_name": "Emma — Wry, Gritty Hero",
+          "status": "review take"
+        }
+      ],
+      "origin": "retained working script",
+      "recording_status": "recorded; performance review pending",
+      "start_sec": 974.67,
+      "end_sec": 977.47,
+      "start_tc": "16:14.670",
+      "end_tc": "16:17.470",
+      "shot_id": "S18-P03",
+      "timing_basis": "planned edit slot; measured recording 1.811s; conform picture after review",
+      "role_id": "trixie",
+      "voice_id": "dmWfLQZJq7wNPv9WmtiM",
+      "voice_name": "Emma — Wry, Gritty Hero",
+      "recorded_duration_sec": 1.811156
+    },
+    {
+      "id": "S18-D03",
+      "speaker": "Ghost",
+      "text": "Because we exposed a payment. Not the supply chain.",
+      "takes": [
+        {
+          "id": "f29e3aa48a4d82ab",
+          "title": "S18-D03-ghost-take001",
+          "scene": "Scene18",
+          "text": "Because we exposed a payment. Not the supply chain.",
+          "duration_sec": 3.111474,
+          "kind": "take",
+          "variant": "take001",
+          "voice_name": "Austin — Upbeat",
+          "status": "review take"
+        }
+      ],
+      "origin": "retained working script",
+      "recording_status": "recorded; performance review pending",
+      "start_sec": 977.67,
+      "end_sec": 981.27,
+      "start_tc": "16:17.670",
+      "end_tc": "16:21.270",
+      "shot_id": "S18-P03",
+      "timing_basis": "planned edit slot; measured recording 3.111s; conform picture after review",
+      "role_id": "ghost",
+      "voice_id": "7fBwqIVI6wI1B4MuKqQi",
+      "voice_name": "Austin — Upbeat",
+      "recorded_duration_sec": 3.111474
+    },
+    {
+      "id": "S18-D04",
+      "speaker": "Neon",
+      "text": "Wait. I've got something.",
+      "takes": [
+        {
+          "id": "90ab06b780b7dbd4",
+          "title": "S18-D04-neon-take001",
+          "scene": "Scene18",
+          "text": "Wait. I've got something.",
+          "duration_sec": 1.393197,
+          "kind": "take",
+          "variant": "take001",
+          "voice_name": "Ryan — Product Reviewer",
+          "status": "review take"
+        }
+      ],
+      "origin": "retained working script",
+      "recording_status": "recorded; performance review pending",
+      "start_sec": 983.03,
+      "end_sec": 984.63,
+      "start_tc": "16:23.030",
+      "end_tc": "16:24.630",
+      "shot_id": "S18-P04",
+      "timing_basis": "planned edit slot; measured recording 1.393s; conform picture after review",
+      "role_id": "neon",
+      "voice_id": "4e32WqNVWRquDa1OcRYZ",
+      "voice_name": "Ryan — Product Reviewer",
+      "recorded_duration_sec": 1.393197
+    },
+    {
+      "id": "S18-N03",
+      "speaker": "Neon",
+      "text": "The delivery code matches Byte’s price record.",
+      "takes": [
+        {
+          "id": "0fc3ec9c6273dfda",
+          "title": "S18-N03-neon-take001",
+          "scene": "Scene18",
+          "text": "The delivery code matches Byte’s price record.",
+          "duration_sec": 2.972154,
+          "kind": "take",
+          "variant": "take001",
+          "voice_name": "Ryan — Product Reviewer",
+          "status": "review take"
+        }
+      ],
+      "origin": "new production draft v003; not yet recorded",
+      "recording_status": "recorded; performance review pending",
+      "start_sec": 984.83,
+      "end_sec": 987.63,
+      "start_tc": "16:24.830",
+      "end_tc": "16:27.630",
+      "shot_id": "S18-P04",
+      "timing_basis": "planned edit slot; measured recording 2.972s; conform picture after review",
+      "role_id": "neon",
+      "voice_id": "4e32WqNVWRquDa1OcRYZ",
+      "voice_name": "Ryan — Product Reviewer",
+      "recorded_duration_sec": 2.972154
+    },
+    {
+      "id": "S18-N04",
+      "speaker": "Ghost",
+      "text": "Back to the lair. Follow the deliveries, not the speeches.",
+      "takes": [
+        {
+          "id": "9b0dc58ecd21b9a0",
+          "title": "S18-N04-ghost-take001",
+          "scene": "Scene18",
+          "text": "Back to the lair. Follow the deliveries, not the speeches.",
+          "duration_sec": 3.390113,
+          "kind": "take",
+          "variant": "take001",
+          "voice_name": "Austin — Upbeat",
+          "status": "review take"
+        }
+      ],
+      "origin": "new production draft v003; not yet recorded",
+      "recording_status": "recorded; performance review pending",
+      "start_sec": 989.39,
+      "end_sec": 993.39,
+      "start_tc": "16:29.390",
+      "end_tc": "16:33.390",
+      "shot_id": "S18-P05",
+      "timing_basis": "planned edit slot; measured recording 3.39s; conform picture after review",
+      "role_id": "ghost",
+      "voice_id": "7fBwqIVI6wI1B4MuKqQi",
+      "voice_name": "Austin — Upbeat",
+      "recorded_duration_sec": 3.390113
+    }
+  ],
+  "shots": [
+    {
+      "shot_id": "S18-B01",
+      "description": "Newspaper close-up",
+      "status": "source shot beat; detailed shot duration and coverage pending",
+      "duration_seconds": null
+    },
+    {
+      "shot_id": "S18-B02",
+      "description": "street reactions",
+      "status": "source shot beat; detailed shot duration and coverage pending",
+      "duration_seconds": null
+    },
+    {
+      "shot_id": "S18-B03",
+      "description": "empty fish market",
+      "status": "source shot beat; detailed shot duration and coverage pending",
+      "duration_seconds": null
+    },
+    {
+      "shot_id": "S18-B04",
+      "description": "Trixie reading the report.",
+      "status": "source shot beat; detailed shot duration and coverage pending",
+      "duration_seconds": null
+    }
+  ],
+  "locations": [
+    {
+      "id": "3bd909f3e732f8d1",
+      "title": "LOC05 - District 7 streets and alleys",
+      "category": "Locations",
+      "group": "Neutral",
+      "file": "LOC05-district-7-streets-and-alleys-gpt26-v001.png",
+      "source": "Locations\\Neutral\\LOC05 - District 7 streets and alleys\\Reference Sheets\\LOC05-district-7-streets-and-alleys-gpt26-v001.png",
+      "voice": ""
+    },
+    {
+      "id": "c0de39fba4f7ec01",
+      "title": "LOC08 - District 7 market",
+      "category": "Locations",
+      "group": "Neutral",
+      "file": "LOC08-district-7-market-gpt26-v001.png",
+      "source": "Locations\\Neutral\\LOC08 - District 7 market\\Reference Sheets\\LOC08-district-7-market-gpt26-v001.png",
+      "voice": ""
+    }
+  ],
+  "frames": [],
+  "assemblies": [
+    {
+      "id": "fb5aa86e3c85cc8f",
+      "title": "Scene 18 — complete dialogue review",
+      "scene": "Scene18",
+      "text": "All dialogue in script order. Dialogue-only review; action, effects and final picture timing remain separate.",
+      "duration_sec": 23.530158730158732,
+      "kind": "assembly",
+      "variant": "v003"
+    }
+  ],
+  "timed_shots": [
+    {
+      "shot_id": "S18-P01",
+      "camera_action": "Street newspaper close: Catnip Times payment report; civilian turns page beside empty stall.",
+      "sound_transition": "Paper rustles, no victory music.",
+      "dialogue_ids": [
+        "S18-D01"
+      ],
+      "start_sec": 960,
+      "end_sec": 963.36,
+      "duration_sec": 3.36,
+      "scene_start_sec": 0,
+      "scene_end_sec": 3.36,
+      "start_tc": "16:00.000",
+      "end_tc": "16:03.360",
+      "status": "editorial plan; animation not yet produced",
+      "asset_requirements": {
+        "locations": [
+          "LOC05",
+          "LOC08"
+        ],
+        "existing_reference_count": 2,
+        "new_image_needed": "camera-specific review still or approved matching frame; audit before generating",
+        "animation": "not generated; Higgsfield is for stills only",
+        "audio": "ElevenLabs dialogue, separate room tone/foley/music mix",
+        "special": "Preserve named character identities, set geometry and screen direction."
+      },
+      "speaking_roles": [
+        "byte"
+      ],
+      "reference_pack": [
+        {
+          "id": "3bd909f3e732f8d1",
+          "title": "LOC05 - District 7 streets and alleys",
+          "url": "/library/3bd909f3e732f8d1.jpg",
+          "purpose": "Primary set geometry"
+        },
+        {
+          "id": "a23590fe66ebce01",
+          "title": "Byte",
+          "url": "/library/a23590fe66ebce01.jpg",
+          "purpose": "Visible character identity / framing context; do not render offscreen speakers"
+        },
+        {
+          "id": "426ceb9024e3bba4",
+          "title": "PROP07-catnip-times-expose-frontpage-gpt26-v001",
+          "url": "/library/426ceb9024e3bba4.jpg",
+          "purpose": "Visible prop"
+        },
+        {
+          "id": "053732f83dcf0d7c",
+          "title": "ACT06 — Vendor stall and scale states",
+          "url": "/library/053732f83dcf0d7c.jpg",
+          "purpose": "Visible prop"
+        }
+      ],
+      "reference_pack_count": 4,
+      "reference_overflow": [],
+      "wan_plan": {
+        "model": "WAN 3.0 Prime",
+        "provider": "Orbis official A",
+        "mode": "image-reference guidance using input_images",
+        "upload_image_count": 1,
+        "first_frame_status": "needs shot-specific composition and review",
+        "first_frame_id": null,
+        "reference_mode_cap": 10,
+        "cap_status": "confirmed from user-supplied Orbis official-A route document",
+        "reference_mode_sources": [
+          "https://orbiorbi.com/api/developer-docs/published/openplane-wan-3-0-prime-official-a"
+        ],
+        "audio_policy": "Default native audio; no documented audio-off field. Mute native video audio during production edit and use approved ElevenLabs dialogue.",
+        "requested_duration_seconds": 4,
+        "edit_duration_seconds": 3.36,
+        "note": "Upload one reviewed composed scene image as input_images reference. This is guidance, not a guaranteed locked first frame. Do not send unsupported first_frame or audio fields. Use public direct media URLs, never private studio URLs or other platform IDs.",
+        "model_id": "wan-3.0-prime",
+        "mixed_reference_limit": 15,
+        "image_limit": 10,
+        "audio_limit": 5,
+        "video_limit": 5,
+        "prompt_character_limit": 3000,
+        "api_image_field": "input_images",
+        "api_duration_field": "duration_sec"
+      }
+    },
+    {
+      "shot_id": "S18-P02",
+      "camera_action": "Civilian looks from paper to bare freezer; Trixie hears the complaint.",
+      "sound_transition": "Freezer hum and street voices.",
+      "dialogue_ids": [
+        "S18-N01",
+        "S18-N02"
+      ],
+      "start_sec": 963.36,
+      "end_sec": 974.52,
+      "duration_sec": 11.16,
+      "scene_start_sec": 3.36,
+      "scene_end_sec": 14.52,
+      "start_tc": "16:03.360",
+      "end_tc": "16:14.520",
+      "status": "editorial plan; animation not yet produced",
+      "asset_requirements": {
+        "locations": [
+          "LOC05",
+          "LOC08"
+        ],
+        "existing_reference_count": 2,
+        "new_image_needed": "camera-specific review still or approved matching frame; audit before generating",
+        "animation": "not generated; Higgsfield is for stills only",
+        "audio": "ElevenLabs dialogue, separate room tone/foley/music mix",
+        "special": "Preserve named character identities, set geometry and screen direction."
+      },
+      "speaking_roles": [
+        "civilian_2",
+        "trixie"
+      ],
+      "reference_pack": [
+        {
+          "id": "3bd909f3e732f8d1",
+          "title": "LOC05 - District 7 streets and alleys",
+          "url": "/library/3bd909f3e732f8d1.jpg",
+          "purpose": "Primary set geometry"
+        },
+        {
+          "id": "51c0358d041cc3ba",
+          "title": "Trixie - CatGirl",
+          "url": "/library/51c0358d041cc3ba.jpg",
+          "purpose": "Visible character identity / framing context; do not render offscreen speakers"
+        },
+        {
+          "id": "4562760aa1996806",
+          "title": "CIV02 - Civilian Cat",
+          "url": "/library/4562760aa1996806.jpg",
+          "purpose": "Visible character identity / framing context; do not render offscreen speakers"
+        },
+        {
+          "id": "426ceb9024e3bba4",
+          "title": "PROP07-catnip-times-expose-frontpage-gpt26-v001",
+          "url": "/library/426ceb9024e3bba4.jpg",
+          "purpose": "Visible prop"
+        }
+      ],
+      "reference_pack_count": 4,
+      "reference_overflow": [],
+      "wan_plan": {
+        "model": "WAN 3.0 Prime",
+        "provider": "Orbis official A",
+        "mode": "image-reference guidance using input_images",
+        "upload_image_count": 1,
+        "first_frame_status": "needs shot-specific composition and review",
+        "first_frame_id": null,
+        "reference_mode_cap": 10,
+        "cap_status": "confirmed from user-supplied Orbis official-A route document",
+        "reference_mode_sources": [
+          "https://orbiorbi.com/api/developer-docs/published/openplane-wan-3-0-prime-official-a"
+        ],
+        "audio_policy": "Default native audio; no documented audio-off field. Mute native video audio during production edit and use approved ElevenLabs dialogue.",
+        "requested_duration_seconds": 12,
+        "edit_duration_seconds": 11.16,
+        "note": "Upload one reviewed composed scene image as input_images reference. This is guidance, not a guaranteed locked first frame. Do not send unsupported first_frame or audio fields. Use public direct media URLs, never private studio URLs or other platform IDs.",
+        "model_id": "wan-3.0-prime",
+        "mixed_reference_limit": 15,
+        "image_limit": 10,
+        "audio_limit": 5,
+        "video_limit": 5,
+        "prompt_character_limit": 3000,
+        "api_image_field": "input_images",
+        "api_duration_field": "duration_sec"
+      }
+    },
+    {
+      "shot_id": "S18-P03",
+      "camera_action": "Trixie asks crew; Ghost distinguishes payment from supply evidence.",
+      "sound_transition": "Quiet serious beat.",
+      "dialogue_ids": [
+        "S18-D02",
+        "S18-D03"
+      ],
+      "start_sec": 974.52,
+      "end_sec": 982.88,
+      "duration_sec": 8.36,
+      "scene_start_sec": 14.52,
+      "scene_end_sec": 22.88,
+      "start_tc": "16:14.520",
+      "end_tc": "16:22.880",
+      "status": "editorial plan; animation not yet produced",
+      "asset_requirements": {
+        "locations": [
+          "LOC05",
+          "LOC08"
+        ],
+        "existing_reference_count": 2,
+        "new_image_needed": "camera-specific review still or approved matching frame; audit before generating",
+        "animation": "not generated; Higgsfield is for stills only",
+        "audio": "ElevenLabs dialogue, separate room tone/foley/music mix",
+        "special": "Preserve named character identities, set geometry and screen direction."
+      },
+      "speaking_roles": [
+        "ghost",
+        "trixie"
+      ],
+      "reference_pack": [
+        {
+          "id": "3bd909f3e732f8d1",
+          "title": "LOC05 - District 7 streets and alleys",
+          "url": "/library/3bd909f3e732f8d1.jpg",
+          "purpose": "Primary set geometry"
+        },
+        {
+          "id": "51c0358d041cc3ba",
+          "title": "Trixie - CatGirl",
+          "url": "/library/51c0358d041cc3ba.jpg",
+          "purpose": "Visible character identity / framing context; do not render offscreen speakers"
+        },
+        {
+          "id": "61dc338e08cb2385",
+          "title": "Ghost",
+          "url": "/library/61dc338e08cb2385.jpg",
+          "purpose": "Visible character identity / framing context; do not render offscreen speakers"
+        },
+        {
+          "id": "a23590fe66ebce01",
+          "title": "Byte",
+          "url": "/library/a23590fe66ebce01.jpg",
+          "purpose": "Visible character identity / framing context; do not render offscreen speakers"
+        },
+        {
+          "id": "8ac469710ff37bec",
+          "title": "Onyx",
+          "url": "/library/8ac469710ff37bec.jpg",
+          "purpose": "Visible character identity / framing context; do not render offscreen speakers"
+        },
+        {
+          "id": "c59f876dfb3540bb",
+          "title": "Neon",
+          "url": "/library/c59f876dfb3540bb.jpg",
+          "purpose": "Visible character identity / framing context; do not render offscreen speakers"
+        }
+      ],
+      "reference_pack_count": 6,
+      "reference_overflow": [],
+      "wan_plan": {
+        "model": "WAN 3.0 Prime",
+        "provider": "Orbis official A",
+        "mode": "image-reference guidance using input_images",
+        "upload_image_count": 1,
+        "first_frame_status": "needs shot-specific composition and review",
+        "first_frame_id": null,
+        "reference_mode_cap": 10,
+        "cap_status": "confirmed from user-supplied Orbis official-A route document",
+        "reference_mode_sources": [
+          "https://orbiorbi.com/api/developer-docs/published/openplane-wan-3-0-prime-official-a"
+        ],
+        "audio_policy": "Default native audio; no documented audio-off field. Mute native video audio during production edit and use approved ElevenLabs dialogue.",
+        "requested_duration_seconds": 9,
+        "edit_duration_seconds": 8.36,
+        "note": "Upload one reviewed composed scene image as input_images reference. This is guidance, not a guaranteed locked first frame. Do not send unsupported first_frame or audio fields. Use public direct media URLs, never private studio URLs or other platform IDs.",
+        "model_id": "wan-3.0-prime",
+        "mixed_reference_limit": 15,
+        "image_limit": 10,
+        "audio_limit": 5,
+        "video_limit": 5,
+        "prompt_character_limit": 3000,
+        "api_image_field": "input_images",
+        "api_duration_field": "duration_sec"
+      }
+    },
+    {
+      "shot_id": "S18-P04",
+      "camera_action": "Neon checks saved price record and delivery code.",
+      "sound_transition": "Scanner recognition tone.",
+      "dialogue_ids": [
+        "S18-D04",
+        "S18-N03"
+      ],
+      "start_sec": 982.88,
+      "end_sec": 989.24,
+      "duration_sec": 6.36,
+      "scene_start_sec": 22.88,
+      "scene_end_sec": 29.24,
+      "start_tc": "16:22.880",
+      "end_tc": "16:29.240",
+      "status": "editorial plan; animation not yet produced",
+      "asset_requirements": {
+        "locations": [
+          "LOC05",
+          "LOC08"
+        ],
+        "existing_reference_count": 2,
+        "new_image_needed": "camera-specific review still or approved matching frame; audit before generating",
+        "animation": "not generated; Higgsfield is for stills only",
+        "audio": "ElevenLabs dialogue, separate room tone/foley/music mix",
+        "special": "Preserve named character identities, set geometry and screen direction."
+      },
+      "speaking_roles": [
+        "neon"
+      ],
+      "reference_pack": [
+        {
+          "id": "3bd909f3e732f8d1",
+          "title": "LOC05 - District 7 streets and alleys",
+          "url": "/library/3bd909f3e732f8d1.jpg",
+          "purpose": "Primary set geometry"
+        },
+        {
+          "id": "c59f876dfb3540bb",
+          "title": "Neon",
+          "url": "/library/c59f876dfb3540bb.jpg",
+          "purpose": "Visible character identity / framing context; do not render offscreen speakers"
+        },
+        {
+          "id": "3d6689586e0b8150",
+          "title": "PROP09-byte-price-scanner-gpt26-v002",
+          "url": "/library/3d6689586e0b8150.jpg",
+          "purpose": "Visible prop"
+        }
+      ],
+      "reference_pack_count": 3,
+      "reference_overflow": [],
+      "wan_plan": {
+        "model": "WAN 3.0 Prime",
+        "provider": "Orbis official A",
+        "mode": "image-reference guidance using input_images",
+        "upload_image_count": 1,
+        "first_frame_status": "needs shot-specific composition and review",
+        "first_frame_id": null,
+        "reference_mode_cap": 10,
+        "cap_status": "confirmed from user-supplied Orbis official-A route document",
+        "reference_mode_sources": [
+          "https://orbiorbi.com/api/developer-docs/published/openplane-wan-3-0-prime-official-a"
+        ],
+        "audio_policy": "Default native audio; no documented audio-off field. Mute native video audio during production edit and use approved ElevenLabs dialogue.",
+        "requested_duration_seconds": 7,
+        "edit_duration_seconds": 6.36,
+        "note": "Upload one reviewed composed scene image as input_images reference. This is guidance, not a guaranteed locked first frame. Do not send unsupported first_frame or audio fields. Use public direct media URLs, never private studio URLs or other platform IDs.",
+        "model_id": "wan-3.0-prime",
+        "mixed_reference_limit": 15,
+        "image_limit": 10,
+        "audio_limit": 5,
+        "video_limit": 5,
+        "prompt_character_limit": 3000,
+        "api_image_field": "input_images",
+        "api_duration_field": "duration_sec"
+      }
+    },
+    {
+      "shot_id": "S18-P05",
+      "camera_action": "Ghost leads crew toward lair; Trixie folds newspaper, keeps it.",
+      "sound_transition": "Investigative pulse returns.",
+      "dialogue_ids": [
+        "S18-N04"
+      ],
+      "start_sec": 989.24,
+      "end_sec": 995.0,
+      "duration_sec": 5.76,
+      "scene_start_sec": 29.24,
+      "scene_end_sec": 35.0,
+      "start_tc": "16:29.240",
+      "end_tc": "16:35.000",
+      "status": "editorial plan; animation not yet produced",
+      "asset_requirements": {
+        "locations": [
+          "LOC05",
+          "LOC08"
+        ],
+        "existing_reference_count": 2,
+        "new_image_needed": "camera-specific review still or approved matching frame; audit before generating",
+        "animation": "not generated; Higgsfield is for stills only",
+        "audio": "ElevenLabs dialogue, separate room tone/foley/music mix",
+        "special": "Preserve named character identities, set geometry and screen direction."
+      },
+      "speaking_roles": [
+        "ghost"
+      ],
+      "reference_pack": [
+        {
+          "id": "3bd909f3e732f8d1",
+          "title": "LOC05 - District 7 streets and alleys",
+          "url": "/library/3bd909f3e732f8d1.jpg",
+          "purpose": "Primary set geometry"
+        },
+        {
+          "id": "51c0358d041cc3ba",
+          "title": "Trixie - CatGirl",
+          "url": "/library/51c0358d041cc3ba.jpg",
+          "purpose": "Visible character identity / framing context; do not render offscreen speakers"
+        },
+        {
+          "id": "61dc338e08cb2385",
+          "title": "Ghost",
+          "url": "/library/61dc338e08cb2385.jpg",
+          "purpose": "Visible character identity / framing context; do not render offscreen speakers"
+        },
+        {
+          "id": "a23590fe66ebce01",
+          "title": "Byte",
+          "url": "/library/a23590fe66ebce01.jpg",
+          "purpose": "Visible character identity / framing context; do not render offscreen speakers"
+        },
+        {
+          "id": "8ac469710ff37bec",
+          "title": "Onyx",
+          "url": "/library/8ac469710ff37bec.jpg",
+          "purpose": "Visible character identity / framing context; do not render offscreen speakers"
+        },
+        {
+          "id": "c59f876dfb3540bb",
+          "title": "Neon",
+          "url": "/library/c59f876dfb3540bb.jpg",
+          "purpose": "Visible character identity / framing context; do not render offscreen speakers"
+        },
+        {
+          "id": "426ceb9024e3bba4",
+          "title": "PROP07-catnip-times-expose-frontpage-gpt26-v001",
+          "url": "/library/426ceb9024e3bba4.jpg",
+          "purpose": "Visible prop"
+        }
+      ],
+      "reference_pack_count": 7,
+      "reference_overflow": [],
+      "wan_plan": {
+        "model": "WAN 3.0 Prime",
+        "provider": "Orbis official A",
+        "mode": "image-reference guidance using input_images",
+        "upload_image_count": 1,
+        "first_frame_status": "needs shot-specific composition and review",
+        "first_frame_id": null,
+        "reference_mode_cap": 10,
+        "cap_status": "confirmed from user-supplied Orbis official-A route document",
+        "reference_mode_sources": [
+          "https://orbiorbi.com/api/developer-docs/published/openplane-wan-3-0-prime-official-a"
+        ],
+        "audio_policy": "Default native audio; no documented audio-off field. Mute native video audio during production edit and use approved ElevenLabs dialogue.",
+        "requested_duration_seconds": 6,
+        "edit_duration_seconds": 5.76,
+        "note": "Upload one reviewed composed scene image as input_images reference. This is guidance, not a guaranteed locked first frame. Do not send unsupported first_frame or audio fields. Use public direct media URLs, never private studio URLs or other platform IDs.",
+        "model_id": "wan-3.0-prime",
+        "mixed_reference_limit": 15,
+        "image_limit": 10,
+        "audio_limit": 5,
+        "video_limit": 5,
+        "prompt_character_limit": 3000,
+        "api_image_field": "input_images",
+        "api_duration_field": "duration_sec"
+      }
+    }
+  ],
+  "spoken_words": 64,
+  "recorded_lines": 8,
+  "timing_note": "Exact editorial allocation. Existing takes use measured file durations; unrecorded lines use 150 wpm estimates. Action plays under dialogue where indicated. No time stretching or blank padding.",
+  "remaining_work": [
+    "Build camera-specific stills from established references; review identity and geography.",
+    "Animate approved shots outside Higgsfield, then conform to this timeline.",
+    "Mix room tone, foley, music and dialogue; verify a full-speed table read and animatic.",
+    "Review recorded performances; conform dialogue timing to picture; mix effects and score."
+  ],
+  "continuity": "Keep exactly five core cats; match current character sheets and fixed location geometry. Goodboy Global spelling throughout.",
+  "generation_references": [
+    {
+      "id": "3bd909f3e732f8d1",
+      "title": "LOC05 - District 7 streets and alleys",
+      "filename": "LOC05-district-7-streets-and-alleys-gpt26-v001.png",
+      "kind": "Location",
+      "purpose": "Set geography, doors, windows and camera axis.",
+      "url": "/library/3bd909f3e732f8d1.jpg",
+      "thumbnail": "/library/3bd909f3e732f8d1.webp",
+      "source": "Locations\\Neutral\\LOC05 - District 7 streets and alleys\\Reference Sheets\\LOC05-district-7-streets-and-alleys-gpt26-v001.png",
+      "status": "existing reference; review before generation"
+    },
+    {
+      "id": "c0de39fba4f7ec01",
+      "title": "LOC08 - District 7 market",
+      "filename": "LOC08-district-7-market-gpt26-v001.png",
+      "kind": "Location",
+      "purpose": "Set geography, doors, windows and camera axis.",
+      "url": "/library/c0de39fba4f7ec01.jpg",
+      "thumbnail": "/library/c0de39fba4f7ec01.webp",
+      "source": "Locations\\Neutral\\LOC08 - District 7 market\\Reference Sheets\\LOC08-district-7-market-gpt26-v001.png",
+      "status": "existing reference; review before generation"
+    },
+    {
+      "id": "51c0358d041cc3ba",
+      "title": "Trixie - CatGirl",
+      "filename": "CREW01-trixie-character-master-gpt26-v001.png",
+      "kind": "Character",
+      "purpose": "Preserve identity, proportions, outfit and accessories. Include only actors visible in the shot.",
+      "url": "/library/51c0358d041cc3ba.jpg",
+      "thumbnail": "/library/51c0358d041cc3ba.webp",
+      "source": "Characters\\Cats - Resistance\\Trixie - CatGirl\\Reference Sheets\\CREW01-trixie-character-master-gpt26-v001.png",
+      "status": "existing reference; review before generation"
+    },
+    {
+      "id": "a23590fe66ebce01",
+      "title": "Byte",
+      "filename": "CREW02-byte-character-master-gpt26-v001.png",
+      "kind": "Character",
+      "purpose": "Preserve identity, proportions, outfit and accessories. Include only actors visible in the shot.",
+      "url": "/library/a23590fe66ebce01.jpg",
+      "thumbnail": "/library/a23590fe66ebce01.webp",
+      "source": "Characters\\Cats - Resistance\\Byte\\Reference Sheets\\CREW02-byte-character-master-gpt26-v001.png",
+      "status": "existing reference; review before generation"
+    },
+    {
+      "id": "61dc338e08cb2385",
+      "title": "Ghost",
+      "filename": "CREW03-ghost-character-master-gpt26-v001.png",
+      "kind": "Character",
+      "purpose": "Preserve identity, proportions, outfit and accessories. Include only actors visible in the shot.",
+      "url": "/library/61dc338e08cb2385.jpg",
+      "thumbnail": "/library/61dc338e08cb2385.webp",
+      "source": "Characters\\Cats - Resistance\\Ghost\\Reference Sheets\\CREW03-ghost-character-master-gpt26-v001.png",
+      "status": "existing reference; review before generation"
+    },
+    {
+      "id": "8ac469710ff37bec",
+      "title": "Onyx",
+      "filename": "CREW04-onyx-character-master-gpt26-v001.png",
+      "kind": "Character",
+      "purpose": "Preserve identity, proportions, outfit and accessories. Include only actors visible in the shot.",
+      "url": "/library/8ac469710ff37bec.jpg",
+      "thumbnail": "/library/8ac469710ff37bec.webp",
+      "source": "Characters\\Cats - Resistance\\Onyx\\Reference Sheets\\CREW04-onyx-character-master-gpt26-v001.png",
+      "status": "existing reference; review before generation"
+    },
+    {
+      "id": "c59f876dfb3540bb",
+      "title": "Neon",
+      "filename": "CREW05-neon-character-master-gpt26-v001.png",
+      "kind": "Character",
+      "purpose": "Preserve identity, proportions, outfit and accessories. Include only actors visible in the shot.",
+      "url": "/library/c59f876dfb3540bb.jpg",
+      "thumbnail": "/library/c59f876dfb3540bb.webp",
+      "source": "Characters\\Cats - Resistance\\Neon\\Reference Sheets\\CREW05-neon-character-master-gpt26-v001.png",
+      "status": "existing reference; review before generation"
+    },
+    {
+      "id": "4562760aa1996806",
+      "title": "CIV02 - Civilian Cat",
+      "filename": "CIV02-character-master-gpt26-v001.png",
+      "kind": "Character",
+      "purpose": "Preserve identity, proportions, outfit and accessories. Include only actors visible in the shot.",
+      "url": "/library/4562760aa1996806.jpg",
+      "thumbnail": "/library/4562760aa1996806.webp",
+      "source": "Characters\\Cats - Civilians and Media\\CIV02 - Civilian Cat\\Reference Sheets\\CIV02-character-master-gpt26-v001.png",
+      "status": "existing reference; review before generation"
+    },
+    {
+      "id": "426ceb9024e3bba4",
+      "title": "PROP07-catnip-times-expose-frontpage-gpt26-v001",
+      "filename": "PROP07-catnip-times-expose-frontpage-gpt26-v001.png",
+      "kind": "Prop / graphic",
+      "purpose": "Preserve prop shape, material, controls and scale.",
+      "url": "/library/426ceb9024e3bba4.jpg",
+      "thumbnail": "/library/426ceb9024e3bba4.webp",
+      "source": "Props\\Neutral\\Props\\PROP07-catnip-times-expose-frontpage-gpt26-v001.png",
+      "status": "existing reference; review before generation"
+    },
+    {
+      "id": "053732f83dcf0d7c",
+      "title": "ACT06 — Vendor stall and scale states",
+      "filename": "ACT06-prop-master-gpt26-v001.png",
+      "kind": "Prop / graphic",
+      "purpose": "Preserve prop shape, material, controls and scale.",
+      "url": "/library/053732f83dcf0d7c.jpg",
+      "thumbnail": "/library/053732f83dcf0d7c.webp",
+      "source": "Props\\Cats\\Action Props\\ACT06-prop-master-gpt26-v001.png",
+      "status": "existing reference; review before generation"
+    },
+    {
+      "id": "3d6689586e0b8150",
+      "title": "PROP09-byte-price-scanner-gpt26-v002",
+      "filename": "PROP09-byte-price-scanner-gpt26-v002.png",
+      "kind": "Prop / graphic",
+      "purpose": "Preserve prop shape, material, controls and scale.",
+      "url": "/library/3d6689586e0b8150.jpg",
+      "thumbnail": "/library/3d6689586e0b8150.webp",
+      "source": "Props\\Cats\\Props\\PROP09-byte-price-scanner-gpt26-v002.png",
+      "status": "existing reference; review before generation"
+    }
+  ],
+  "missing_reference_requirements": [
+    "Final shot-specific composed first frame for each timed shot; existing drafts require review."
+  ],
+  "sound_effects": [
+    {
+      "id": "93d47a72f80de3d9",
+      "title": "FX05-district-street"
+    },
+    {
+      "id": "eb73d4d7ee7ff5e7",
+      "title": "FX16-newspaper"
+    }
+  ]
+}

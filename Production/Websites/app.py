@@ -115,7 +115,7 @@ def voices_page():return render_template('voices.html',voices=voices)
 @app.route('/studio/downloads/<name>')
 @staff
 def production_download(name):
- if name not in {'voice-registry.json','voice-registry.csv','shot-timeline-v003.csv','dialogue-cue-sheet-v003.csv','full-timed-script-v003.txt','pilot-production-map-v003.json','validation-v003.json','scene-shot-references.csv'}:abort(404)
+ if name not in {'voice-registry.json','voice-registry.csv','shot-timeline-v004.csv','dialogue-cue-sheet-v004.csv','full-timed-script-v004.txt','pilot-production-map-v004.json','validation-v003.json','scene-shot-references.csv'}:abort(404)
  return send_from_directory(ROOT/'downloads',name,as_attachment=True)
 @app.route('/library/<ident>.<ext>')
 @staff

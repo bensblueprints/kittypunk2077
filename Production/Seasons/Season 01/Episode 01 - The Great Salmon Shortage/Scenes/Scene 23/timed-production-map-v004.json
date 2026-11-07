@@ -1,0 +1,821 @@
+{
+  "number": 23,
+  "title": "Salmon for Everyone",
+  "start": "19:05",
+  "end": "19:30",
+  "duration_seconds": 25,
+  "source_location": "District 7 market",
+  "location_ids": [
+    "LOC08",
+    "LOC14",
+    "LOC20"
+  ],
+  "staging": "Scene 23 — Salmon for Everyone\n\n19:05–19:30 · 25 sec · District 7 market\n\nThe first redirected salmon shipments arrive. Cats cheer as vendors reopen their stalls. NIP7 reports that the distribution records confirm preferential treatment for wealthy dog districts.\n\nShots: Truck arrival → salmon crates → cheering citizens → NIP7 news broadcast → crew watching from a rooftop.",
+  "sound": "",
+  "lines": [
+    {
+      "id": "S23-D01",
+      "speaker": "NIP7 Anchor",
+      "text": "Newly released records confirm that Goodboy Global diverted salmon shipments away from feline neighborhoods.",
+      "takes": [
+        {
+          "id": "bdcbac6d002c774e",
+          "title": "S23-D01-nip7_anchor-take001",
+          "scene": "Scene23",
+          "text": "Newly released records confirm that Goodboy Global diverted salmon shipments away from feline neighborhoods.",
+          "duration_sec": 7.151746,
+          "kind": "take",
+          "variant": "take001",
+          "voice_name": "Daniel",
+          "status": "review take"
+        }
+      ],
+      "origin": "retained working script",
+      "recording_status": "recorded; performance review pending",
+      "start_sec": 1145.15,
+      "end_sec": 1150.75,
+      "start_tc": "19:05.150",
+      "end_tc": "19:10.750",
+      "shot_id": "S23-P01",
+      "timing_basis": "planned edit slot; measured recording 7.152s; conform picture after review",
+      "role_id": "nip7_anchor",
+      "voice_id": "onwK4e9ZLuTAKqWW03F9",
+      "voice_name": "Daniel",
+      "recorded_duration_sec": 7.151746
+    },
+    {
+      "id": "S23-N01",
+      "speaker": "Kitten",
+      "text": "You found it!",
+      "takes": [
+        {
+          "id": "20f9475a0cb15ce8",
+          "title": "S23-N01-district7_kitten-take001",
+          "scene": "Scene23",
+          "text": "You found it!",
+          "duration_sec": 0.789478,
+          "kind": "take",
+          "variant": "take001",
+          "voice_name": "Laura - Enthusiast, Quirky Attitude",
+          "status": "review take"
+        }
+      ],
+      "origin": "new production draft v003; not yet recorded",
+      "recording_status": "recorded; performance review pending",
+      "start_sec": 1152.35,
+      "end_sec": 1153.55,
+      "start_tc": "19:12.350",
+      "end_tc": "19:13.550",
+      "shot_id": "S23-P02",
+      "timing_basis": "planned edit slot; measured recording 0.789s; conform picture after review",
+      "role_id": "district7_kitten",
+      "voice_id": "FGY2WhTYpPnrIDTdsKH5",
+      "voice_name": "Laura - Enthusiast, Quirky Attitude",
+      "recorded_duration_sec": 0.789478
+    },
+    {
+      "id": "S23-N02",
+      "speaker": "Trixie",
+      "text": "Your mum was right. This is better than a promise.",
+      "takes": [
+        {
+          "id": "0f446d2ba049d2f9",
+          "title": "S23-N02-trixie-take001",
+          "scene": "Scene23",
+          "text": "Your mum was right. This is better than a promise.",
+          "duration_sec": 2.972154,
+          "kind": "take",
+          "variant": "take001",
+          "voice_name": "Emma — Wry, Gritty Hero",
+          "status": "review take"
+        }
+      ],
+      "origin": "new production draft v003; not yet recorded",
+      "recording_status": "recorded; performance review pending",
+      "start_sec": 1153.75,
+      "end_sec": 1157.75,
+      "start_tc": "19:13.750",
+      "end_tc": "19:17.750",
+      "shot_id": "S23-P02",
+      "timing_basis": "planned edit slot; measured recording 2.972s; conform picture after review",
+      "role_id": "trixie",
+      "voice_id": "dmWfLQZJq7wNPv9WmtiM",
+      "voice_name": "Emma — Wry, Gritty Hero",
+      "recorded_duration_sec": 2.972154
+    },
+    {
+      "id": "S23-D02",
+      "speaker": "Byte",
+      "text": "We saved the fucking city!",
+      "takes": [
+        {
+          "id": "e61aa888d325ad99",
+          "title": "S23-D02-byte-take001",
+          "scene": "Scene23",
+          "text": "We saved the fucking city!",
+          "duration_sec": 1.486077,
+          "kind": "take",
+          "variant": "take001",
+          "voice_name": "Northern Terry",
+          "status": "review take"
+        }
+      ],
+      "origin": "retained working script",
+      "recording_status": "recorded; performance review pending",
+      "start_sec": 1159.35,
+      "end_sec": 1161.35,
+      "start_tc": "19:19.350",
+      "end_tc": "19:21.350",
+      "shot_id": "S23-P03",
+      "timing_basis": "planned edit slot; measured recording 1.486s; conform picture after review",
+      "role_id": "byte",
+      "voice_id": "wo6udizrrtpIxWGp2qJk",
+      "voice_name": "Northern Terry",
+      "recorded_duration_sec": 1.486077
+    },
+    {
+      "id": "S23-D03",
+      "speaker": "Trixie",
+      "text": "We saved dinner.",
+      "takes": [
+        {
+          "id": "b785a62c44c27ece",
+          "title": "S23-D03-trixie-take001",
+          "scene": "Scene23",
+          "text": "We saved dinner.",
+          "duration_sec": 1.160998,
+          "kind": "take",
+          "variant": "take001",
+          "voice_name": "Emma — Wry, Gritty Hero",
+          "status": "review take"
+        }
+      ],
+      "origin": "retained working script",
+      "recording_status": "recorded; performance review pending",
+      "start_sec": 1161.55,
+      "end_sec": 1162.75,
+      "start_tc": "19:21.550",
+      "end_tc": "19:22.750",
+      "shot_id": "S23-P03",
+      "timing_basis": "planned edit slot; measured recording 1.161s; conform picture after review",
+      "role_id": "trixie",
+      "voice_id": "dmWfLQZJq7wNPv9WmtiM",
+      "voice_name": "Emma — Wry, Gritty Hero",
+      "recorded_duration_sec": 1.160998
+    },
+    {
+      "id": "S23-D04",
+      "speaker": "Ghost",
+      "text": "For now.",
+      "takes": [
+        {
+          "id": "b00412a2debd6c72",
+          "title": "S23-D04-ghost-take001",
+          "scene": "Scene23",
+          "text": "For now.",
+          "duration_sec": 0.835918,
+          "kind": "take",
+          "variant": "take001",
+          "voice_name": "Austin — Upbeat",
+          "status": "review take"
+        }
+      ],
+      "origin": "retained working script",
+      "recording_status": "recorded; performance review pending",
+      "start_sec": 1162.95,
+      "end_sec": 1163.75,
+      "start_tc": "19:22.950",
+      "end_tc": "19:23.750",
+      "shot_id": "S23-P03",
+      "timing_basis": "planned edit slot; measured recording 0.836s; conform picture after review",
+      "role_id": "ghost",
+      "voice_id": "7fBwqIVI6wI1B4MuKqQi",
+      "voice_name": "Austin — Upbeat",
+      "recorded_duration_sec": 0.835918
+    }
+  ],
+  "shots": [
+    {
+      "shot_id": "S23-B01",
+      "description": "Truck arrival",
+      "status": "source shot beat; detailed shot duration and coverage pending",
+      "duration_seconds": null
+    },
+    {
+      "shot_id": "S23-B02",
+      "description": "salmon crates",
+      "status": "source shot beat; detailed shot duration and coverage pending",
+      "duration_seconds": null
+    },
+    {
+      "shot_id": "S23-B03",
+      "description": "cheering citizens",
+      "status": "source shot beat; detailed shot duration and coverage pending",
+      "duration_seconds": null
+    },
+    {
+      "shot_id": "S23-B04",
+      "description": "NIP7 news broadcast",
+      "status": "source shot beat; detailed shot duration and coverage pending",
+      "duration_seconds": null
+    },
+    {
+      "shot_id": "S23-B05",
+      "description": "crew watching from a rooftop.",
+      "status": "source shot beat; detailed shot duration and coverage pending",
+      "duration_seconds": null
+    }
+  ],
+  "locations": [
+    {
+      "id": "dc97cfe5c9eba591",
+      "title": "LOC14 - NIP7 investigative newsroom",
+      "category": "Locations",
+      "group": "Cats",
+      "file": "LOC14-nip7-investigative-newsroom-gpt26-v001.png",
+      "source": "Locations\\Cats\\LOC14 - NIP7 investigative newsroom\\Reference Sheets\\LOC14-nip7-investigative-newsroom-gpt26-v001.png",
+      "voice": ""
+    },
+    {
+      "id": "c0de39fba4f7ec01",
+      "title": "LOC08 - District 7 market",
+      "category": "Locations",
+      "group": "Neutral",
+      "file": "LOC08-district-7-market-gpt26-v001.png",
+      "source": "Locations\\Neutral\\LOC08 - District 7 market\\Reference Sheets\\LOC08-district-7-market-gpt26-v001.png",
+      "voice": ""
+    },
+    {
+      "id": "d50a62d90b9d8a62",
+      "title": "LOC20 - District 7 market rooftop overlook",
+      "category": "Locations",
+      "group": "Neutral",
+      "file": "LOC20-district-7-market-rooftop-overlook-gpt26-v001.png",
+      "source": "Locations\\Neutral\\LOC20 - District 7 market rooftop overlook\\Reference Sheets\\LOC20-district-7-market-rooftop-overlook-gpt26-v001.png",
+      "voice": ""
+    }
+  ],
+  "frames": [],
+  "assemblies": [
+    {
+      "id": "7ac402baf0e735ca",
+      "title": "Scene 23 — complete dialogue review",
+      "scene": "Scene23",
+      "text": "All dialogue in script order. Dialogue-only review; action, effects and final picture timing remain separate.",
+      "duration_sec": 16.19637188208617,
+      "kind": "assembly",
+      "variant": "v003"
+    }
+  ],
+  "timed_shots": [
+    {
+      "shot_id": "S23-P01",
+      "camera_action": "Market wide: first redirected refrigerated truck opens; vendors receive intact cold crates.",
+      "sound_transition": "British NIP7 report on visible stall radio/TV; crowd cheers.",
+      "dialogue_ids": [
+        "S23-D01"
+      ],
+      "start_sec": 1145,
+      "end_sec": 1152.2,
+      "duration_sec": 7.2,
+      "scene_start_sec": 0,
+      "scene_end_sec": 7.2,
+      "start_tc": "19:05.000",
+      "end_tc": "19:12.200",
+      "status": "editorial plan; animation not yet produced",
+      "asset_requirements": {
+        "locations": [
+          "LOC08",
+          "LOC14",
+          "LOC20"
+        ],
+        "existing_reference_count": 3,
+        "new_image_needed": "camera-specific review still or approved matching frame; audit before generating",
+        "animation": "not generated; Higgsfield is for stills only",
+        "audio": "ElevenLabs dialogue, separate room tone/foley/music mix",
+        "special": "Preserve named character identities, set geometry and screen direction."
+      },
+      "speaking_roles": [
+        "nip7_anchor"
+      ],
+      "reference_pack": [
+        {
+          "id": "c0de39fba4f7ec01",
+          "title": "LOC08 - District 7 market",
+          "url": "/library/c0de39fba4f7ec01.jpg",
+          "purpose": "Primary set geometry"
+        },
+        {
+          "id": "f67ac5a346ad1a6d",
+          "title": "ACT10 — Refrigerated delivery truck",
+          "url": "/library/f67ac5a346ad1a6d.jpg",
+          "purpose": "Visible prop"
+        },
+        {
+          "id": "517e83741ba9e751",
+          "title": "ACT11 — Salmon cartons and pallets",
+          "url": "/library/517e83741ba9e751.jpg",
+          "purpose": "Visible prop"
+        },
+        {
+          "id": "053732f83dcf0d7c",
+          "title": "ACT06 — Vendor stall and scale states",
+          "url": "/library/053732f83dcf0d7c.jpg",
+          "purpose": "Visible prop"
+        }
+      ],
+      "reference_pack_count": 4,
+      "reference_overflow": [],
+      "wan_plan": {
+        "model": "WAN 3.0 Prime",
+        "provider": "Orbis official A",
+        "mode": "image-reference guidance using input_images",
+        "upload_image_count": 1,
+        "first_frame_status": "needs shot-specific composition and review",
+        "first_frame_id": null,
+        "reference_mode_cap": 10,
+        "cap_status": "confirmed from user-supplied Orbis official-A route document",
+        "reference_mode_sources": [
+          "https://orbiorbi.com/api/developer-docs/published/openplane-wan-3-0-prime-official-a"
+        ],
+        "audio_policy": "Default native audio; no documented audio-off field. Mute native video audio during production edit and use approved ElevenLabs dialogue.",
+        "requested_duration_seconds": 8,
+        "edit_duration_seconds": 7.2,
+        "note": "Upload one reviewed composed scene image as input_images reference. This is guidance, not a guaranteed locked first frame. Do not send unsupported first_frame or audio fields. Use public direct media URLs, never private studio URLs or other platform IDs.",
+        "model_id": "wan-3.0-prime",
+        "mixed_reference_limit": 15,
+        "image_limit": 10,
+        "audio_limit": 5,
+        "video_limit": 5,
+        "prompt_character_limit": 3000,
+        "api_image_field": "input_images",
+        "api_duration_field": "duration_sec"
+      }
+    },
+    {
+      "shot_id": "S23-P02",
+      "camera_action": "Kitten with parent receives portion from vendor; Trixie crouches nearby.",
+      "sound_transition": "Warm restrained music, crate latch.",
+      "dialogue_ids": [
+        "S23-N01",
+        "S23-N02"
+      ],
+      "start_sec": 1152.2,
+      "end_sec": 1159.2,
+      "duration_sec": 7.0,
+      "scene_start_sec": 7.2,
+      "scene_end_sec": 14.2,
+      "start_tc": "19:12.200",
+      "end_tc": "19:19.200",
+      "status": "editorial plan; animation not yet produced",
+      "asset_requirements": {
+        "locations": [
+          "LOC08",
+          "LOC14",
+          "LOC20"
+        ],
+        "existing_reference_count": 3,
+        "new_image_needed": "camera-specific review still or approved matching frame; audit before generating",
+        "animation": "not generated; Higgsfield is for stills only",
+        "audio": "ElevenLabs dialogue, separate room tone/foley/music mix",
+        "special": "Preserve named character identities, set geometry and screen direction."
+      },
+      "speaking_roles": [
+        "district7_kitten",
+        "trixie"
+      ],
+      "reference_pack": [
+        {
+          "id": "c0de39fba4f7ec01",
+          "title": "LOC08 - District 7 market",
+          "url": "/library/c0de39fba4f7ec01.jpg",
+          "purpose": "Primary set geometry"
+        },
+        {
+          "id": "51c0358d041cc3ba",
+          "title": "Trixie - CatGirl",
+          "url": "/library/51c0358d041cc3ba.jpg",
+          "purpose": "Visible character identity / framing context; do not render offscreen speakers"
+        },
+        {
+          "id": "bc2d20faf281c815",
+          "title": "District 7 Kitten",
+          "url": "/library/bc2d20faf281c815.jpg",
+          "purpose": "Visible character identity / framing context; do not render offscreen speakers"
+        },
+        {
+          "id": "053732f83dcf0d7c",
+          "title": "ACT06 — Vendor stall and scale states",
+          "url": "/library/053732f83dcf0d7c.jpg",
+          "purpose": "Visible prop"
+        }
+      ],
+      "reference_pack_count": 4,
+      "reference_overflow": [],
+      "wan_plan": {
+        "model": "WAN 3.0 Prime",
+        "provider": "Orbis official A",
+        "mode": "image-reference guidance using input_images",
+        "upload_image_count": 1,
+        "first_frame_status": "needs shot-specific composition and review",
+        "first_frame_id": null,
+        "reference_mode_cap": 10,
+        "cap_status": "confirmed from user-supplied Orbis official-A route document",
+        "reference_mode_sources": [
+          "https://orbiorbi.com/api/developer-docs/published/openplane-wan-3-0-prime-official-a"
+        ],
+        "audio_policy": "Default native audio; no documented audio-off field. Mute native video audio during production edit and use approved ElevenLabs dialogue.",
+        "requested_duration_seconds": 7,
+        "edit_duration_seconds": 7.0,
+        "note": "Upload one reviewed composed scene image as input_images reference. This is guidance, not a guaranteed locked first frame. Do not send unsupported first_frame or audio fields. Use public direct media URLs, never private studio URLs or other platform IDs.",
+        "model_id": "wan-3.0-prime",
+        "mixed_reference_limit": 15,
+        "image_limit": 10,
+        "audio_limit": 5,
+        "video_limit": 5,
+        "prompt_character_limit": 3000,
+        "api_image_field": "input_images",
+        "api_duration_field": "duration_sec"
+      }
+    },
+    {
+      "shot_id": "S23-P03",
+      "camera_action": "Crew look over reopened market from low rooftop; Byte celebrates.",
+      "sound_transition": "Cheers below; final line leaves a warning.",
+      "dialogue_ids": [
+        "S23-D02",
+        "S23-D03",
+        "S23-D04"
+      ],
+      "start_sec": 1159.2,
+      "end_sec": 1165.2,
+      "duration_sec": 6.0,
+      "scene_start_sec": 14.2,
+      "scene_end_sec": 20.2,
+      "start_tc": "19:19.200",
+      "end_tc": "19:25.200",
+      "status": "editorial plan; animation not yet produced",
+      "asset_requirements": {
+        "locations": [
+          "LOC08",
+          "LOC14",
+          "LOC20"
+        ],
+        "existing_reference_count": 3,
+        "new_image_needed": "camera-specific review still or approved matching frame; audit before generating",
+        "animation": "not generated; Higgsfield is for stills only",
+        "audio": "ElevenLabs dialogue, separate room tone/foley/music mix",
+        "special": "Preserve named character identities, set geometry and screen direction."
+      },
+      "speaking_roles": [
+        "byte",
+        "ghost",
+        "trixie"
+      ],
+      "reference_pack": [
+        {
+          "id": "c0de39fba4f7ec01",
+          "title": "LOC08 - District 7 market",
+          "url": "/library/c0de39fba4f7ec01.jpg",
+          "purpose": "Primary set geometry"
+        },
+        {
+          "id": "a23590fe66ebce01",
+          "title": "Byte",
+          "url": "/library/a23590fe66ebce01.jpg",
+          "purpose": "Visible character identity / framing context; do not render offscreen speakers"
+        },
+        {
+          "id": "51c0358d041cc3ba",
+          "title": "Trixie - CatGirl",
+          "url": "/library/51c0358d041cc3ba.jpg",
+          "purpose": "Visible character identity / framing context; do not render offscreen speakers"
+        },
+        {
+          "id": "61dc338e08cb2385",
+          "title": "Ghost",
+          "url": "/library/61dc338e08cb2385.jpg",
+          "purpose": "Visible character identity / framing context; do not render offscreen speakers"
+        },
+        {
+          "id": "8ac469710ff37bec",
+          "title": "Onyx",
+          "url": "/library/8ac469710ff37bec.jpg",
+          "purpose": "Visible character identity / framing context; do not render offscreen speakers"
+        },
+        {
+          "id": "c59f876dfb3540bb",
+          "title": "Neon",
+          "url": "/library/c59f876dfb3540bb.jpg",
+          "purpose": "Visible character identity / framing context; do not render offscreen speakers"
+        },
+        {
+          "id": "053732f83dcf0d7c",
+          "title": "ACT06 — Vendor stall and scale states",
+          "url": "/library/053732f83dcf0d7c.jpg",
+          "purpose": "Visible prop"
+        }
+      ],
+      "reference_pack_count": 7,
+      "reference_overflow": [],
+      "wan_plan": {
+        "model": "WAN 3.0 Prime",
+        "provider": "Orbis official A",
+        "mode": "image-reference guidance using input_images",
+        "upload_image_count": 1,
+        "first_frame_status": "needs shot-specific composition and review",
+        "first_frame_id": null,
+        "reference_mode_cap": 10,
+        "cap_status": "confirmed from user-supplied Orbis official-A route document",
+        "reference_mode_sources": [
+          "https://orbiorbi.com/api/developer-docs/published/openplane-wan-3-0-prime-official-a"
+        ],
+        "audio_policy": "Default native audio; no documented audio-off field. Mute native video audio during production edit and use approved ElevenLabs dialogue.",
+        "requested_duration_seconds": 6,
+        "edit_duration_seconds": 6.0,
+        "note": "Upload one reviewed composed scene image as input_images reference. This is guidance, not a guaranteed locked first frame. Do not send unsupported first_frame or audio fields. Use public direct media URLs, never private studio URLs or other platform IDs.",
+        "model_id": "wan-3.0-prime",
+        "mixed_reference_limit": 15,
+        "image_limit": 10,
+        "audio_limit": 5,
+        "video_limit": 5,
+        "prompt_character_limit": 3000,
+        "api_image_field": "input_images",
+        "api_duration_field": "duration_sec"
+      }
+    },
+    {
+      "shot_id": "S23-P04",
+      "camera_action": "Wide market recovery, not every district solved instantly.",
+      "sound_transition": "Music carries to home; short time-passage dissolve.",
+      "dialogue_ids": [],
+      "start_sec": 1165.2,
+      "end_sec": 1170.0,
+      "duration_sec": 4.8,
+      "scene_start_sec": 20.2,
+      "scene_end_sec": 25.0,
+      "start_tc": "19:25.200",
+      "end_tc": "19:30.000",
+      "status": "editorial plan; animation not yet produced",
+      "asset_requirements": {
+        "locations": [
+          "LOC08",
+          "LOC14",
+          "LOC20"
+        ],
+        "existing_reference_count": 3,
+        "new_image_needed": "camera-specific review still or approved matching frame; audit before generating",
+        "animation": "not generated; Higgsfield is for stills only",
+        "audio": "ElevenLabs dialogue, separate room tone/foley/music mix",
+        "special": "Preserve named character identities, set geometry and screen direction."
+      },
+      "speaking_roles": [],
+      "reference_pack": [
+        {
+          "id": "c0de39fba4f7ec01",
+          "title": "LOC08 - District 7 market",
+          "url": "/library/c0de39fba4f7ec01.jpg",
+          "purpose": "Primary set geometry"
+        },
+        {
+          "id": "053732f83dcf0d7c",
+          "title": "ACT06 — Vendor stall and scale states",
+          "url": "/library/053732f83dcf0d7c.jpg",
+          "purpose": "Visible prop"
+        }
+      ],
+      "reference_pack_count": 2,
+      "reference_overflow": [],
+      "wan_plan": {
+        "model": "WAN 3.0 Prime",
+        "provider": "Orbis official A",
+        "mode": "image-reference guidance using input_images",
+        "upload_image_count": 1,
+        "first_frame_status": "needs shot-specific composition and review",
+        "first_frame_id": null,
+        "reference_mode_cap": 10,
+        "cap_status": "confirmed from user-supplied Orbis official-A route document",
+        "reference_mode_sources": [
+          "https://orbiorbi.com/api/developer-docs/published/openplane-wan-3-0-prime-official-a"
+        ],
+        "audio_policy": "Default native audio; no documented audio-off field. Mute native video audio during production edit and use approved ElevenLabs dialogue.",
+        "requested_duration_seconds": 5,
+        "edit_duration_seconds": 4.8,
+        "note": "Upload one reviewed composed scene image as input_images reference. This is guidance, not a guaranteed locked first frame. Do not send unsupported first_frame or audio fields. Use public direct media URLs, never private studio URLs or other platform IDs.",
+        "model_id": "wan-3.0-prime",
+        "mixed_reference_limit": 15,
+        "image_limit": 10,
+        "audio_limit": 5,
+        "video_limit": 5,
+        "prompt_character_limit": 3000,
+        "api_image_field": "input_images",
+        "api_duration_field": "duration_sec"
+      }
+    }
+  ],
+  "spoken_words": 37,
+  "recorded_lines": 6,
+  "timing_note": "Exact editorial allocation. Existing takes use measured file durations; unrecorded lines use 150 wpm estimates. Action plays under dialogue where indicated. No time stretching or blank padding.",
+  "remaining_work": [
+    "Build camera-specific stills from established references; review identity and geography.",
+    "Animate approved shots outside Higgsfield, then conform to this timeline.",
+    "Mix room tone, foley, music and dialogue; verify a full-speed table read and animatic.",
+    "Review recorded performances; conform dialogue timing to picture; mix effects and score."
+  ],
+  "continuity": "Keep exactly five core cats; match current character sheets and fixed location geometry. Goodboy Global spelling throughout.",
+  "generation_references": [
+    {
+      "id": "c0de39fba4f7ec01",
+      "title": "LOC08 - District 7 market",
+      "filename": "LOC08-district-7-market-gpt26-v001.png",
+      "kind": "Location",
+      "purpose": "Set geography, doors, windows and camera axis.",
+      "url": "/library/c0de39fba4f7ec01.jpg",
+      "thumbnail": "/library/c0de39fba4f7ec01.webp",
+      "source": "Locations\\Neutral\\LOC08 - District 7 market\\Reference Sheets\\LOC08-district-7-market-gpt26-v001.png",
+      "status": "existing reference; review before generation"
+    },
+    {
+      "id": "dc97cfe5c9eba591",
+      "title": "LOC14 - NIP7 investigative newsroom",
+      "filename": "LOC14-nip7-investigative-newsroom-gpt26-v001.png",
+      "kind": "Location",
+      "purpose": "Set geography, doors, windows and camera axis.",
+      "url": "/library/dc97cfe5c9eba591.jpg",
+      "thumbnail": "/library/dc97cfe5c9eba591.webp",
+      "source": "Locations\\Cats\\LOC14 - NIP7 investigative newsroom\\Reference Sheets\\LOC14-nip7-investigative-newsroom-gpt26-v001.png",
+      "status": "existing reference; review before generation"
+    },
+    {
+      "id": "d50a62d90b9d8a62",
+      "title": "LOC20 - District 7 market rooftop overlook",
+      "filename": "LOC20-district-7-market-rooftop-overlook-gpt26-v001.png",
+      "kind": "Location",
+      "purpose": "Set geography, doors, windows and camera axis.",
+      "url": "/library/d50a62d90b9d8a62.jpg",
+      "thumbnail": "/library/d50a62d90b9d8a62.webp",
+      "source": "Locations\\Neutral\\LOC20 - District 7 market rooftop overlook\\Reference Sheets\\LOC20-district-7-market-rooftop-overlook-gpt26-v001.png",
+      "status": "existing reference; review before generation"
+    },
+    {
+      "id": "51c0358d041cc3ba",
+      "title": "Trixie - CatGirl",
+      "filename": "CREW01-trixie-character-master-gpt26-v001.png",
+      "kind": "Character",
+      "purpose": "Preserve identity, proportions, outfit and accessories. Include only actors visible in the shot.",
+      "url": "/library/51c0358d041cc3ba.jpg",
+      "thumbnail": "/library/51c0358d041cc3ba.webp",
+      "source": "Characters\\Cats - Resistance\\Trixie - CatGirl\\Reference Sheets\\CREW01-trixie-character-master-gpt26-v001.png",
+      "status": "existing reference; review before generation"
+    },
+    {
+      "id": "a23590fe66ebce01",
+      "title": "Byte",
+      "filename": "CREW02-byte-character-master-gpt26-v001.png",
+      "kind": "Character",
+      "purpose": "Preserve identity, proportions, outfit and accessories. Include only actors visible in the shot.",
+      "url": "/library/a23590fe66ebce01.jpg",
+      "thumbnail": "/library/a23590fe66ebce01.webp",
+      "source": "Characters\\Cats - Resistance\\Byte\\Reference Sheets\\CREW02-byte-character-master-gpt26-v001.png",
+      "status": "existing reference; review before generation"
+    },
+    {
+      "id": "61dc338e08cb2385",
+      "title": "Ghost",
+      "filename": "CREW03-ghost-character-master-gpt26-v001.png",
+      "kind": "Character",
+      "purpose": "Preserve identity, proportions, outfit and accessories. Include only actors visible in the shot.",
+      "url": "/library/61dc338e08cb2385.jpg",
+      "thumbnail": "/library/61dc338e08cb2385.webp",
+      "source": "Characters\\Cats - Resistance\\Ghost\\Reference Sheets\\CREW03-ghost-character-master-gpt26-v001.png",
+      "status": "existing reference; review before generation"
+    },
+    {
+      "id": "8ac469710ff37bec",
+      "title": "Onyx",
+      "filename": "CREW04-onyx-character-master-gpt26-v001.png",
+      "kind": "Character",
+      "purpose": "Preserve identity, proportions, outfit and accessories. Include only actors visible in the shot.",
+      "url": "/library/8ac469710ff37bec.jpg",
+      "thumbnail": "/library/8ac469710ff37bec.webp",
+      "source": "Characters\\Cats - Resistance\\Onyx\\Reference Sheets\\CREW04-onyx-character-master-gpt26-v001.png",
+      "status": "existing reference; review before generation"
+    },
+    {
+      "id": "c59f876dfb3540bb",
+      "title": "Neon",
+      "filename": "CREW05-neon-character-master-gpt26-v001.png",
+      "kind": "Character",
+      "purpose": "Preserve identity, proportions, outfit and accessories. Include only actors visible in the shot.",
+      "url": "/library/c59f876dfb3540bb.jpg",
+      "thumbnail": "/library/c59f876dfb3540bb.webp",
+      "source": "Characters\\Cats - Resistance\\Neon\\Reference Sheets\\CREW05-neon-character-master-gpt26-v001.png",
+      "status": "existing reference; review before generation"
+    },
+    {
+      "id": "bc2d20faf281c815",
+      "title": "District 7 Kitten",
+      "filename": "SUP06-character-master-gpt26-v001.png",
+      "kind": "Character",
+      "purpose": "Preserve identity, proportions, outfit and accessories. Include only actors visible in the shot.",
+      "url": "/library/bc2d20faf281c815.jpg",
+      "thumbnail": "/library/bc2d20faf281c815.webp",
+      "source": "Characters\\Cats - Civilians and Media\\District 7 Kitten\\Reference Sheets\\SUP06-character-master-gpt26-v001.png",
+      "status": "existing reference; review before generation"
+    },
+    {
+      "id": "d0c4b245ed3a3745",
+      "title": "CIV01 - Civilian Cat",
+      "filename": "CIV01-character-master-gpt26-v001.png",
+      "kind": "Character",
+      "purpose": "Preserve identity, proportions, outfit and accessories. Include only actors visible in the shot.",
+      "url": "/library/d0c4b245ed3a3745.jpg",
+      "thumbnail": "/library/d0c4b245ed3a3745.webp",
+      "source": "Characters\\Cats - Civilians and Media\\CIV01 - Civilian Cat\\Reference Sheets\\CIV01-character-master-gpt26-v001.png",
+      "status": "existing reference; review before generation"
+    },
+    {
+      "id": "55e6d686bef6a838",
+      "title": "CIV03 - Civilian Cat",
+      "filename": "CIV03-character-master-gpt26-v001.png",
+      "kind": "Character",
+      "purpose": "Preserve identity, proportions, outfit and accessories. Include only actors visible in the shot.",
+      "url": "/library/55e6d686bef6a838.jpg",
+      "thumbnail": "/library/55e6d686bef6a838.webp",
+      "source": "Characters\\Cats - Civilians and Media\\CIV03 - Civilian Cat\\Reference Sheets\\CIV03-character-master-gpt26-v001.png",
+      "status": "existing reference; review before generation"
+    },
+    {
+      "id": "b6ab6632e89b46c6",
+      "title": "CIV05 - Civilian Cat",
+      "filename": "CIV05-character-master-gpt26-v001.png",
+      "kind": "Character",
+      "purpose": "Preserve identity, proportions, outfit and accessories. Include only actors visible in the shot.",
+      "url": "/library/b6ab6632e89b46c6.jpg",
+      "thumbnail": "/library/b6ab6632e89b46c6.webp",
+      "source": "Characters\\Cats - Civilians and Media\\CIV05 - Civilian Cat\\Reference Sheets\\CIV05-character-master-gpt26-v001.png",
+      "status": "existing reference; review before generation"
+    },
+    {
+      "id": "f67ac5a346ad1a6d",
+      "title": "ACT10 — Refrigerated delivery truck",
+      "filename": "ACT10-prop-master-gpt26-v001.png",
+      "kind": "Prop / graphic",
+      "purpose": "Preserve prop shape, material, controls and scale.",
+      "url": "/library/f67ac5a346ad1a6d.jpg",
+      "thumbnail": "/library/f67ac5a346ad1a6d.webp",
+      "source": "Props\\Dogs\\Action Props\\ACT10-prop-master-gpt26-v001.png",
+      "status": "existing reference; review before generation"
+    },
+    {
+      "id": "517e83741ba9e751",
+      "title": "ACT11 — Salmon cartons and pallets",
+      "filename": "ACT11-prop-master-gpt26-v001.png",
+      "kind": "Prop / graphic",
+      "purpose": "Preserve prop shape, material, controls and scale.",
+      "url": "/library/517e83741ba9e751.jpg",
+      "thumbnail": "/library/517e83741ba9e751.webp",
+      "source": "Props\\Dogs\\Action Props\\ACT11-prop-master-gpt26-v001.png",
+      "status": "existing reference; review before generation"
+    },
+    {
+      "id": "053732f83dcf0d7c",
+      "title": "ACT06 — Vendor stall and scale states",
+      "filename": "ACT06-prop-master-gpt26-v001.png",
+      "kind": "Prop / graphic",
+      "purpose": "Preserve prop shape, material, controls and scale.",
+      "url": "/library/053732f83dcf0d7c.jpg",
+      "thumbnail": "/library/053732f83dcf0d7c.webp",
+      "source": "Props\\Cats\\Action Props\\ACT06-prop-master-gpt26-v001.png",
+      "status": "existing reference; review before generation"
+    },
+    {
+      "id": "fb9297d91d0a6ab0",
+      "title": "PROP08-salmon-packs-price-notice-gpt26-v001",
+      "filename": "PROP08-salmon-packs-price-notice-gpt26-v001.png",
+      "kind": "Prop / graphic",
+      "purpose": "Preserve prop shape, material, controls and scale.",
+      "url": "/library/fb9297d91d0a6ab0.jpg",
+      "thumbnail": "/library/fb9297d91d0a6ab0.webp",
+      "source": "Props\\Neutral\\Props\\PROP08-salmon-packs-price-notice-gpt26-v001.png",
+      "status": "existing reference; review before generation"
+    }
+  ],
+  "missing_reference_requirements": [
+    "Final shot-specific composed first frame for each timed shot; existing drafts require review."
+  ],
+  "sound_effects": [
+    {
+      "id": "93d47a72f80de3d9",
+      "title": "FX05-district-street"
+    },
+    {
+      "id": "3f991fcc0b8af9d0",
+      "title": "FX07-crowd-movement"
+    },
+    {
+      "id": "5f91e8a4485f2b15",
+      "title": "FX15-truck-delivery"
+    }
+  ]
+}

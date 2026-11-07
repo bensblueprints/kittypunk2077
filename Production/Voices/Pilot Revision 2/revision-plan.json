@@ -1,0 +1,61 @@
+{
+  "user_direction": "Ending corporate announcement blames computer inventory mistake; five-cat reactions and Trixie returns to gaming. Opening broadcast unchanged. Explicit rally lead-in before dinner.",
+  "rows": [
+    {
+      "scene": 7,
+      "id": "S07-R01",
+      "speaker": "Trixie",
+      "role_id": "trixie",
+      "text": "Everyone, listen up. All five of us are here because this shortage affects every family in District Seven."
+    },
+    {
+      "scene": 24,
+      "id": "S24-R01",
+      "speaker": "TV",
+      "role_id": "woof7_anchor",
+      "text": "Goodboy Global confirms that the salmon shortage was caused by a computer inventory mistake. The error has now been corrected."
+    },
+    {
+      "scene": 24,
+      "id": "S24-R02",
+      "speaker": "Byte",
+      "role_id": "byte",
+      "text": "Those no-good dogs."
+    },
+    {
+      "scene": 24,
+      "id": "S24-R03",
+      "speaker": "Onyx",
+      "role_id": "onyx",
+      "text": "Bastards. They're taking credit for fixing their own scam."
+    },
+    {
+      "scene": 24,
+      "id": "S24-R04",
+      "speaker": "Neon",
+      "role_id": "neon",
+      "text": "Is everyone just going to keep lying down for these dogs?"
+    },
+    {
+      "scene": 24,
+      "id": "S24-R05",
+      "speaker": "Ghost",
+      "role_id": "ghost",
+      "text": "They changed the story. We still have the records."
+    },
+    {
+      "scene": 24,
+      "id": "S24-R06",
+      "speaker": "Trixie",
+      "role_id": "trixie",
+      "text": "C'mon. Let's just play the game. We fixed it, even if no one knows it."
+    },
+    {
+      "scene": 24,
+      "id": "S24-R07",
+      "speaker": "Byte",
+      "role_id": "byte",
+      "text": "Fine. But you're not driving."
+    }
+  ]
+}

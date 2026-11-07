@@ -1,0 +1,22 @@
+{
+  "id": "S24-R03",
+  "line_id": "S24-R03",
+  "scene": 24,
+  "speaker": "Onyx",
+  "role_id": "onyx",
+  "text": "Bastards. They're taking credit for fixing their own scam.",
+  "voice_id": "uq0HIbNZKn11Hs5ifEdd",
+  "voice_name": "Harry — Fierce Warrior",
+  "duration_sec": 3.250794,
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.5,
+    "similarity_boost": 0.75,
+    "style": 0.15,
+    "use_speaker_boost": true
+  },
+  "request_id": "NjYj3gn6hrk1tMUYYD93",
+  "provider_character_cost": "13",
+  "sha256": "1605cd9b00e6946fbe289eb582bed2cad0a15bcee542a8d1992de109d832a51b",
+  "status": "review_take"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "MUS03-salmon-run",
+  "scenes": [
+    16,
+    20,
+    21,
+    22
+  ],
+  "request": {
+    "prompt": "Original instrumental cyberpunk heist chase underscore. Driving but restrained synth bass ostinato, tight electronic percussion, short agile arpeggios, 124 BPM D minor. Teamwork, urgency and inventive escape through a neon factory. No cinematic braams, no overpowering drums, leave space for dialogue. Finish with a clean resolved accent. No vocals or spoken words.",
+    "music_length_ms": 45000,
+    "force_instrumental": true,
+    "model_id": "music_v1"
+  },
+  "duration_sec": 45.035063,
+  "song_id": "qGvvSSkEELLtg3PosPHt",
+  "character_cost": null,
+  "sha256": "e497e22443a53f18a6abe6fcfbbe3b4954bc6fa648f04f02b40160a344eb453a",
+  "status": "review_score_cue"
+}

@@ -1,0 +1,150 @@
+{
+  "runtime_seconds": 776.7292743764173,
+  "picture_runtime_seconds": 1200,
+  "chapters": [
+    {
+      "scene": 1,
+      "title": "Just One More Mission",
+      "start_seconds": 0,
+      "end_seconds": 41.88040816326531
+    },
+    {
+      "scene": 2,
+      "title": "The Interruption",
+      "start_seconds": 42.53040816326531,
+      "end_seconds": 78.43154195011337
+    },
+    {
+      "scene": 3,
+      "title": "Barkington's Emergency Broadcast",
+      "start_seconds": 79.08154195011338,
+      "end_seconds": 124.16353741496599
+    },
+    {
+      "scene": 4,
+      "title": "The Trip to 7-Catleven",
+      "start_seconds": 124.81353741496599,
+      "end_seconds": 155.6242403628118
+    },
+    {
+      "scene": 5,
+      "title": "Three Times the Price",
+      "start_seconds": 156.2742403628118,
+      "end_seconds": 186.6347845804989
+    },
+    {
+      "scene": 6,
+      "title": "Word Spreads",
+      "start_seconds": 187.2847845804989,
+      "end_seconds": 219.56732426303859
+    },
+    {
+      "scene": 7,
+      "title": "The District 7 Rally",
+      "start_seconds": 220.2173242630386,
+      "end_seconds": 270.5148299319728
+    },
+    {
+      "scene": 8,
+      "title": "The Cats Are Waking Up",
+      "start_seconds": 271.1648299319728,
+      "end_seconds": 293.3234693877551
+    },
+    {
+      "scene": 9,
+      "title": "Follow the Money",
+      "start_seconds": 293.9734693877551,
+      "end_seconds": 340.94154195011333
+    },
+    {
+      "scene": 10,
+      "title": "Operation Bonehead",
+      "start_seconds": 341.5915419501133,
+      "end_seconds": 382.38310657596367
+    },
+    {
+      "scene": 11,
+      "title": "Steak & Bone Surveillance",
+      "start_seconds": 383.03310657596364,
+      "end_seconds": 424.3212698412698
+    },
+    {
+      "scene": 12,
+      "title": "The Bone Distraction",
+      "start_seconds": 424.97126984126976,
+      "end_seconds": 443.0289569160997
+    },
+    {
+      "scene": 13,
+      "title": "Inside the Restaurant",
+      "start_seconds": 443.67895691609965,
+      "end_seconds": 471.9497052154194
+    },
+    {
+      "scene": 14,
+      "title": "The Secret Dinner",
+      "start_seconds": 472.59970521541936,
+      "end_seconds": 525.5907256235827
+    },
+    {
+      "scene": 15,
+      "title": "The Payoff Photograph",
+      "start_seconds": 526.2407256235826,
+      "end_seconds": 552.9325170068026
+    },
+    {
+      "scene": 16,
+      "title": "Get the Hell Out",
+      "start_seconds": 553.5825170068026,
+      "end_seconds": 578.4024716553287
+    },
+    {
+      "scene": 17,
+      "title": "The Leak",
+      "start_seconds": 579.0524716553286,
+      "end_seconds": 619.9406349206348
+    },
+    {
+      "scene": 18,
+      "title": "Victory? Not Quite",
+      "start_seconds": 620.5906349206348,
+      "end_seconds": 643.1207936507935
+    },
+    {
+      "scene": 19,
+      "title": "Follow the Fish",
+      "start_seconds": 643.7707936507935,
+      "end_seconds": 666.3331519274375
+    },
+    {
+      "scene": 20,
+      "title": "Salmon Headquarters",
+      "start_seconds": 666.9831519274375,
+      "end_seconds": 685.3052380952379
+    },
+    {
+      "scene": 21,
+      "title": "The Great Salmon Heist",
+      "start_seconds": 685.9552380952379,
+      "end_seconds": 708.764036281179
+    },
+    {
+      "scene": 22,
+      "title": "Shut It Down",
+      "start_seconds": 709.4140362811789,
+      "end_seconds": 734.916349206349
+    },
+    {
+      "scene": 23,
+      "title": "Salmon for Everyone",
+      "start_seconds": 735.566349206349,
+      "end_seconds": 750.9627210884352
+    },
+    {
+      "scene": 24,
+      "title": "Back to the Game",
+      "start_seconds": 751.6127210884351,
+      "end_seconds": 776.729274376417
+    }
+  ]
+}

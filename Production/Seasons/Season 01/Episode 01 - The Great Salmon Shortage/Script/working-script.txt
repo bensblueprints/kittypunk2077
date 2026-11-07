@@ -1,43 +1,8 @@
-WORKING CANON UPDATE: The girl leader is Trixie, aka CatGirl; Byte, Ghost, Onyx and Neon are boys. Approved working changes: leader name/gender and company spelling Goodboy Global; original supplied master remains preserved. Timing remains24scenes/20:00.
+S01E01 - CURRENT SCRIPT v004
+Picture target: 20:00. Listening MASTER: tight dialogue edit without action placeholders.
+Opening broadcast unchanged. Ending announcement is the computer-inventory-mistake cover story.
 
-### KITTY PUNK 2077
-
-### Season 1, Episode 1 — The Great Salmon Shortage
-
-Pilot episode
-
-20:00 runtime · 16:9 · Cinematic cyberpunk animation
-
-We're going to structure this as a proper animated television episode, with individual scenes, shot compositions, character dialogue, camera directions, transitions, and timing.
-
-The goal is to make the storyboard usable for AI video generation later, without changing character appearances or inventing new locations halfway through production.
-
-EPISODE TIMELINE
-
-Act 1
-
-0–5 min
-
-Act 2
-
-5–11 min
-
-Act 3
-
-11–16 min
-
-Act 4
-
-16–20 min
-
-Character continuity is mandatory. Trixie is the white, blue-eyed, magenta-equipped leader; Byte is the orange tabby with sunglasses and orange headphones; Ghost is the gray tabby with a green visor; Onyx is the black cat with amber eyes and purple equipment; Neon is the silver-gray cat with blue goggles and scarf. Barkington Orders is the black-and-tan Doberman in his black-and-gold executive suit and fur-trimmed coat.
-
-The first episode contains 24 scenes, averaging 50 seconds each, with longer dialogue scenes and shorter action sequences. The individual shots can later be rendered as shorter AI video clips and assembled into the final episode.
-
-### Act 1 — Playtime Interrupted
-
-![Stylish Cats in Colorful Gaming Room with Controllers, Digital Illustration | SplitShire](https://images.openai.com/static-rsc-4/lWQqNk91ClrHVNUuCXp9waTYfpnZ0OW3q1kxQ_VR0XOft3vPoqqFcmcWl45NkhN-nqurOg-JANNezVD_AzcEAAnQygj_2V1-Ewpc3VhWdK5oI94qfWMWpo7h-ktMX1Ycrp0FPO8ux9iybelPrbxhWkHPPyNNmqT92uJhbNtuT9vnPaofhIntpBvCcGJ7WPmC?purpose=fullsize)
-
+SCENE 01 - Just One More Mission (00:00 to 01:10)
 Scene 01 — Just One More Mission
 
 00:00–01:10 · 70 sec · Resistance hideout
@@ -46,12 +11,25 @@ Establish the five cats playing Grand Theft Kitty VI on CatStation 5. Begin with
 
 Shots: Wide room establishing → over-the-shoulder couch → TV gameplay showing the Great Dog National Bank heist → individual reactions.
 
-Dialogue: Byte screams at Trixie for crashing their getaway car. Neon insists the controller has input lag. Onyx threatens to throw someone through the window. Ghost quietly reveals he has been winning the entire time.
+00:12.000 S01-D01 Byte: Left! LEFT! That is a wall, Trixie!
+00:14.761 S01-D02 Trixie: Relax. I found a shortcut.
+00:16.640 S01-D03 Byte: Through the bank we just robbed?
+00:18.566 S01-D04 Neon: My controller has input lag. I pressed jump yesterday.
+00:22.116 S01-D05 Onyx: You are in a car. Why are you pressing jump?
+00:25.110 S01-D06 Neon: Because she keeps driving into buildings!
+00:27.778 S01-D07 Trixie: Nobody appreciates experimental driving.
+00:30.075 S01-D08 Byte: The police appreciate it. All six helicopters.
+00:33.301 S01-D09 Onyx: One more crash and somebody is going through that window.
+00:36.620 S01-D10 Neon: In the game?
+00:37.848 S01-D11 Onyx: Keep testing me.
+00:39.449 S01-D12 Ghost: I finished the mission.
+00:41.096 S01-D13 Trixie: How? We are still inside the bank.
+00:43.764 S01-D14 Ghost: I walked out the back. With the money.
+00:46.525 S01-D15 Byte: You left us?
+00:47.754 S01-D16 Ghost: You said cover the exit. I covered my exit.
+00:51.119 S01-D17 Trixie: Rematch. Nobody leaves the couch until we win.
 
-Sound: Controller clicks, game gunfire, sirens, cats shouting over each other.
-
-![绝区零：这又是一款什么游戏呢？-小米游戏中心](https://images.openai.com/static-rsc-4/jYQ2Fr4BreYR2NmADfRcycZOiv4SSs8Uojsr0EZY0VxKUEBKzzUPzCNfxZ1LZVElxkVuHivgEBPNN-wCB8Zz1zkdDHuCXPDf3SCBDfcVBsEPCdlyvkoyNiXRup_1EBh8TDo-qbOmmOIuS6NItpg1YCMVKxCG6Wxh7N6_9e3kMf1LN--6GH6E7kCcf7FHErC8?purpose=fullsize)
-
+SCENE 02 - The Interruption (01:10 to 02:00)
 Scene 02 — The Interruption
 
 01:10–02:00 · 50 sec · Resistance hideout
@@ -60,20 +38,19 @@ The game freezes during a critical mission. A loud corporate announcement overri
 
 Shots: TV glitch close-up → controller button-mashing → Trixie's irritated face → entire crew reacting.
 
-Dialogue:
+01:13.800 S02-D01 Trixie: What the fuck? We were almost done!
+01:15.950 S02-D02 Byte: Why do the dogs always have to interrupt our fun?
+01:19.344 S02-D03 Neon: They're literally stealing our playtime.
+01:21.773 S02-N01 Neon: The console is still running. Look, my controller is connected. Something is taking over the television.
+01:29.198 S02-N02 Byte: Great. Even our screen has a landlord.
+01:32.198 S02-N03 Trixie: Try another channel. We paid for the game, not a lecture.
+01:37.623 S02-N04 Ghost: Same signal on every channel. This is a district-wide override.
+01:42.648 S02-D04 Onyx: If this is another mandatory obedience announcement, I'm gonna lose my shit.
+01:47.028 S02-N05 Onyx: They can fix every television at once, but not the lift in our building.
+01:53.653 S02-N06 Ghost: That is not a fault. Somebody wants our attention.
+01:57.453 S02-D05 Ghost: Shh. Listen.
 
-Trixie: "What the fuck? We were almost done!"
-
-Byte: "Why do the dogs always have to interrupt our fun?"
-
-Neon: "They're literally stealing our playtime."
-
-Onyx: "If this is another mandatory obedience announcement, I'm gonna lose my shit."
-
-Ghost: "Shh. Listen."
-
-![Batman the animated animated character of a man in a suit and tie - SeaArt AI](https://images.openai.com/static-rsc-4/x0gFCLZ-llE4loPsTDBLKaROAYDh2-j8iE0oL-sv0wjmxFWtLIYjHimWPL7NQogMp6BC9wpRUk0MtUmprTJp8LRqEjoV2eIN5KuL9Me7P8YH2eXZhTLdfPYJV7i8ZajfxFDJ_gfoDFBVFVWlbiaShzHpEI4NSD6wqOQaWbxUURSRWsa_GUTISWwM-Y6lvGLv?purpose=fullsize)
-
+SCENE 03 - Barkington's Emergency Broadcast (02:00 to 03:05)
 Scene 03 — Barkington's Emergency Broadcast
 
 02:00–03:05 · 65 sec · TV broadcast
@@ -82,16 +59,18 @@ Chief Barkington Orders appears, declaring a national salmon emergency affecting
 
 Shots: CRT news graphic → Barkington medium shot → salmon shortage map → extreme close-up of his smug expression → crew reaction inserts.
 
-Dialogue: Barkington: "Citizens of Districts Seven through Twelve. Due to an unprecedented salmon supply emergency, you are advised to acquire no less than thirty days of fresh salmon immediately. Goodboy Global thanks you for your obedience."
+02:05.574 S03-D01 Barkington: Citizens of Districts Seven through Twelve. Due to an unprecedented salmon supply emergency, you are advised to acquire no less than thirty days of fresh salmon immediately. Goodboy Global thanks you for your obedience.
+02:24.994 S03-N01 Neon: Seven through Twelve. Why are the first six districts missing from that map?
+02:30.394 S03-N02 Ghost: Save the broadcast. The original file, with the time on it.
+02:36.706 S03-D02 Byte: Thirty days? I can't afford thirty minutes.
+02:39.228 S03-D03 Trixie: Something smells fishy.
+02:40.821 S03-D04 Onyx: It's literally fish.
+02:44.126 S03-N03 Trixie: We check the shop before we believe any of this.
+02:48.326 S03-N04 Byte: With what money? The emergency does not come with an emergency wallet.
+02:55.038 S03-N05 Trixie: Bring your scanner. We need prices, not another argument.
+02:58.838 S03-N06 Onyx: I will keep the others here. Tell us what you find.
 
-Byte: "Thirty days? I can't afford thirty minutes."
-
-Trixie: "Something smells fishy."
-
-Onyx: "It's literally fish."
-
-![This item is unavailable - Etsy](https://images.openai.com/static-rsc-4/FVRyBpG6X2lBDCx6O_2neJttgXBrZwHQ9z0vc1CipKyAsHKsxp-I5a5ZnDCS86WxRFFOvZyOS3p53qkcOybARVaxKKior8NB9qH5J-TwYMyED5qnKoQFfA8PWVIrzbppDc8pcpke2d8VOScq32vucsXe1dkShL-54mjBMNWIllKaVtSrkN_fbjb5KShIsLVT?purpose=fullsize)
-
+SCENE 04 - The Trip to 7-Catleven (03:05 to 04:00)
 Scene 04 — The Trip to 7-Catleven
 
 03:05–04:00 · 55 sec · District 7 streets
@@ -100,14 +79,17 @@ Trixie and Byte leave the hideout and walk through the dirty slums. Crowds of wo
 
 Shots: Street-wide tracking → close-up of desperate shoppers → Trixie and Byte walking → storefront reveal.
 
-Dialogue: Byte: "You think there's really a shortage?"
+03:05.150 S04-N01 Byte: That queue was not here ten minutes ago. They have not even opened the second till.
+03:14.885 S04-D01 Byte: You think there's really a shortage?
+03:16.757 S04-D02 Trixie: I think someone wants us to believe there is.
+03:19.093 S04-N02 Trixie: Look at them. Everyone heard the same warning and ran for the same shelf.
+03:28.028 S04-N03 Civilian cat: Please. That is the last tin. My little one has not eaten.
+03:33.028 S04-N04 Trixie: Hey. There is room for both of you. Fighting each other will not fill the freezer.
+03:42.762 S04-N05 Byte: The board says fresh delivery this morning. Why are they already rationing it?
+03:48.162 S04-N06 Trixie: Photograph that notice. Let us see what changed inside.
+03:55.097 S04-D03 Byte: So... we're not getting snacks?
 
-Trixie: "I think someone wants us to believe there is."
-
-Byte: "So... we're not getting snacks?"
-
-![Cashew 🔜 FURUM (@MintCashew) on X](https://images.openai.com/static-rsc-4/No2En3-BBsK_8-YN2RlW61deOeVlDWPunMVUNbaZQBx8BPbNtKoA8z26I84EHV7W2j9cDTCdZb4iHTqIiiPhieEPFbhwBgHRmnJw1A0eXcx7DXyjBKFaXq-_pKRv-btQaRoy9VwW-Um7wNJo0C6KriTepwQ9DFfkE9vdjk1qh5Ge-PpHB19majYLiWybFQTg?purpose=fullsize)
-
+SCENE 05 - Three Times the Price (04:00 to 05:00)
 Scene 05 — Three Times the Price
 
 04:00–05:00 · 60 sec · 7-Catleven freezer aisle
@@ -116,20 +98,18 @@ Only two packages of salmon remain. A notice says prices have increased threefol
 
 Shots: Freezer aisle wide → two lonely salmon packs → price notice → Byte's handheld scanner → Trixie's shocked reaction.
 
-Dialogue:
+04:09.990 S05-D01 Byte: Thirty bucks for a piece of fish? Last week it was ten!
+04:13.348 S05-D02 Trixie: Check the price history. When did it change?
+04:19.372 S05-D03 Byte: Before the broadcast. They raised it before anyone knew there was an emergency.
+04:23.844 S05-D04 Trixie: They knew. We were the last ones told.
+04:30.658 S05-D05 Byte: Two packs left. At this price, we can afford to look at one.
+04:34.202 S05-D06 Trixie: They are manufacturing panic.
+04:36.027 S05-D07 Byte: Well, it is working. I am panicking.
+04:42.283 S05-D08 Trixie: Save the timestamp. And the old price. We need something people can check.
+04:47.034 S05-D09 Byte: Done. Apparently dinner now comes with an investigation.
+04:54.312 S05-D10 Trixie: We are going to tell the whole district.
 
-Byte: "Thirty bucks for a piece of fish? Last week it was ten!"
-
-Trixie: "They're manufacturing panic."
-
-Byte: "Well, it's working. I'm panicking."
-
-Trixie: "We're going to tell the whole district."
-
-### Act 2 — The Resistance Fights Back
-
-![【サイバー小説】一枚のAI画像からストーリーが生まれた・・記憶の旋律：チップが繋ぐ未来｜ロッキー松尾](https://images.openai.com/static-rsc-4/1QQ2kSBEH2TtPQCHtvA7YI-Ea6Lqtazj4JljGQfOS92Dnj7s_A6tOmt_OxUGIrJzoqIq9Lratsi8Cru4nZ1Q67KvYft0X610NCwe_blvuU_05lN2m1g6Ono-cM1CkLb2fT2Jw79C6hqAdERtaDEUBgu1gdJ95iDdWrTnw7ZpqnT8vwxe2gbpoIZWOtK_o0eq?purpose=fullsize)
-
+SCENE 06 - Word Spreads (05:00 to 05:45)
 Scene 06 — Word Spreads
 
 05:00–05:45 · 45 sec · District 7 market
@@ -138,16 +118,16 @@ Trixie and Byte return to the slums. Byte shares the suspicious pricing data wit
 
 Shots: Crowded market wide → price-history hologram → shocked citizens → Trixie climbing onto a crate.
 
-Dialogue:
+05:00.150 S06-D01 Trixie: They tripled the price before they announced the shortage!
+05:04.710 S06-D02 Random citizen: Those bastards! I sold my litter box to buy dinner!
+05:08.910 S06-D03 Byte: Okay, that's a personal budgeting problem.
+05:11.510 S06-N01 Byte: Bad joke. Sorry. Keep your receipt; it can help us prove when the price changed.
+05:18.470 S06-N02 Neon: I can put the two timestamps side by side. Big enough for the back of the market.
+05:26.230 S06-N03 Ghost: Hide the customers’ names. We need prices, not a list of people for the patrols.
+05:33.190 S06-N04 Trixie: If you bought fish today, compare your receipt. Do not take our word for it.
+05:39.390 S06-N05 Onyx: Leave a path through the crowd. People still need to get home.
 
-Trixie: "They tripled the price before they announced the shortage!"
-
-Random citizen: "Those bastards! I sold my litter box to buy dinner!"
-
-Byte: "Okay, that's a personal budgeting problem."
-
-![Nana Korobi Ya Oki - Joshi Riot Ai Anime Music Video | Devpost](https://images.openai.com/static-rsc-4/povUAquF2nWxLXCrmOClr54mRZYhj8cLVuoKxrj0oSD4pSCqIj9uIYyH00ccFE7jWHqka4e_ucWnSHhcQNK8armEWfV7L9ALyRRa7_TeOPxwFqNtrxuk6JbnnXARmCCtID3tGoP7SvBg_eHg46eUimFR3xHoBztX3BSjTyOb-sQldN1AYhzVbkMAJ275kg1W?purpose=fullsize)
-
+SCENE 07 - The District 7 Rally (05:45 to 06:50)
 Scene 07 — The District 7 Rally
 
 05:45–06:50 · 65 sec · Slum rally stage
@@ -155,21 +135,21 @@ Scene 07 — The District 7 Rally
 All five crew members address hundreds of angry cats. Trixie demands transparency about salmon supplies. Byte presents the price evidence. The crowd starts chanting.
 
 Shots: Crane over crowd → low-angle Trixie at microphone → Byte's projected chart → crowd reaction → overhead rally shot.
+Explicit public-address sequence: all FIVE cats stand together in front of the District 7 public. Trixie introduces them, then Byte, Ghost, Neon and Onyx each address the shortage. This takes place BEFORE the Steak & Bone dinner surveillance.
 
-Dialogue:
+05:45.650 S07-R01 Trixie: Everyone, listen up. All five of us are here because this shortage affects every family in District Seven.
+05:51.516 S07-D01 Trixie: They think we're stupid! They think they can take our food, triple the price, and tell us to be grateful!
+05:57.567 S07-N01 Byte: Here is yesterday’s price. Here is this morning’s. Same shop, same pack, three times the money.
+06:03.711 S07-N02 Ghost: This proves the timing. It does not tell us where the fish went. We still need the shipping records.
+06:09.763 S07-N03 Trixie: Then we ask for them. Every district deserves to know who gets fed and who gets left out.
+06:15.164 S07-N04 Neon: I have mirrored the receipts. If this screen goes dark, the evidence stays online.
+06:19.590 S07-N05 Onyx: And nobody smashes the stalls. These people are our neighbors, not the people setting the prices.
+06:25.734 S07-D02 Crowd: NO MORE BONES! GIVE US SALMON!
+06:28.349 S07-D03 Onyx: That's the dumbest chant I've ever heard.
+06:30.546 S07-D04 Neon: It's trending.
+06:31.814 S07-N06 Trixie: Keep your receipts. Help your neighbors. We are going to find an answer.
 
-Trixie: "They think we're stupid! They think they can take our food, triple the price, and tell us to be grateful!"
-
-Crowd: "NO MORE BONES! GIVE US SALMON!"
-
-Onyx: "That's the dumbest chant I've ever heard."
-
-Neon: "It's trending."
-
-Transition: The crowd erupts into applause as Trixie raises her paw.
-
-![Miami Theme | Nomade | Anarcute](https://images.openai.com/static-rsc-4/yST9GOMcoW-3EukcbRqoDVT1asaQgnhG9ZfZUSmzYwMqOuSUxJPLlMU0qeg4ESKObhPMTjxErOEynwN4ZC_EvbNqBV3lKLazVmAj1rxa5vonzo7I5Fb1yeyKjTr_GY2DcG-jnLIp4vYpbpTzx_d7X9YIrpV6aWMAxtvO6oTTw9QwxBWyi-xEWmds-H8M_qyw?purpose=fullsize)
-
+SCENE 08 - The Cats Are Waking Up (06:50 to 07:30)
 Scene 08 — The Cats Are Waking Up
 
 06:50–07:30 · 40 sec · District 7 alleyways
@@ -178,18 +158,16 @@ Excited cats leave the rally, spreading the news throughout the neighborhood. Re
 
 Shots: Forward tracking through cheering crowd → banners → kitten looking up → Trixie's thoughtful expression.
 
-Dialogue:
+06:53.883 S08-D01 Kitten: Are you really going to bring the salmon back?
+06:57.683 S08-D02 Trixie: We're going to find out where it went.
+07:01.083 S08-N01 Kitten: Mum says promises do not fit in a bowl.
+07:05.750 S08-N02 Trixie: She is right. I will not promise what I cannot deliver. But I will not forget you.
+07:13.617 S08-D03 Byte: You realize we have no fucking idea where it went?
+07:17.817 S08-D04 Trixie: Working on that.
+07:19.217 S08-N03 Byte: You have made that significantly harder to walk away from.
+07:24.283 S08-N04 Trixie: Good. Get the others. We start with who profits from the panic.
 
-Kitten: "Are you really going to bring the salmon back?"
-
-Trixie: "We're going to find out where it went."
-
-Byte, quietly: "You realize we have no fucking idea where it went?"
-
-Trixie: "Working on that."
-
-![cyberpunk hacker room full of RGB screens and holograms — Nicepixels.net](https://images.openai.com/static-rsc-4/_pKSl0Jckpjoy6YtGenAEguyeGOaApQsbhtZuqUxghPx2chqWpuZhl4OuU9Lyk96Ad1c4vKYSVPiCf4w0Dhzd85bCuH0EUCPPBrFnyE9-ARuQNr_yDH83B8abpz7zSsd61i9uU95qjfmGoQkGOCzsu4s-ubYxIclxrPCcYVHXg364UcMLkADEUbBy9Hrqvjt?purpose=fullsize)
-
+SCENE 09 - Follow the Money (07:30 to 08:40)
 Scene 09 — Follow the Money
 
 07:30–08:40 · 70 sec · Resistance hacking lair
@@ -198,18 +176,20 @@ The crew analyzes the price data. Ghost identifies unusual encrypted communicati
 
 Shots: Monitor close-ups → Ghost's green visor → rotating encrypted message hologram → restaurant location map.
 
-Dialogue:
+07:30.150 S09-N01 Byte: Every price update came through the same corporate feed. The shops did not choose it individually.
+07:38.864 S09-N02 Ghost: The message content is encrypted. The meeting confirmation is not. Same names, same time, one private room.
+07:45.864 S09-D01 Ghost: Barkington has a private dinner tonight.
+07:50.579 S09-D02 Byte: With the WOOF7 news anchor.
+07:52.779 S09-D03 Neon: The same network telling everyone to panic-buy salmon.
+07:58.293 S09-N03 Neon: Steak and Bone. Their public booking map shows a service corridor behind the dining room.
+08:06.607 S09-N04 Onyx: So we walk in and ask nicely?
+08:09.607 S09-N05 Trixie: We watch. We record. We leave. Nobody starts a fight over a suspicion.
+08:17.121 S09-N06 Byte: A photograph of two dogs having dinner is not going to prove much.
+08:22.521 S09-N07 Ghost: Correct. Which is why we need to hear what they say.
+08:29.236 S09-N08 Neon: The microphone needs line of sight. I can hide it in the service hatch.
+08:35.036 S09-D04 Trixie: Then let's see what's on the menu.
 
-Ghost: "Barkington has a private dinner tonight."
-
-Byte: "With the WOOF7 news anchor."
-
-Neon: "The same network telling everyone to panic-buy salmon."
-
-Trixie: "Then let's see what's on the menu."
-
-![Futuristic Cat with Robotics in High-Tech Workspace | Deep Dream Generator](https://images.openai.com/static-rsc-4/oZ0V-VoV_ShKdfIrQGfTT9voxJHsWBJ6meeRaKLfG3UJGzA6Khg4yPkEDdCyhAl2m9-1dTLK02X1iRRSusI4Rm1R8Oa5AUbVCXil_3utGBvyPCjavwxRc3e_CNWEasJYgKv0muWZP-QOgEQsowSabX76LEBzngQIOKT1fbySqHGokV2TPuYpWxH-VnZxCoL4?purpose=fullsize)
-
+SCENE 10 - Operation Bonehead (08:40 to 09:45)
 Scene 10 — Operation Bonehead
 
 08:40–09:45 · 65 sec · Hideout workshop
@@ -218,20 +198,20 @@ Neon constructs electronic bone-shaped decoys that squeak, roll, and project irr
 
 Shots: Overhead workbench → rotating bone device → Neon testing remote → Ghost checking stealth equipment → comedy test.
 
-Dialogue:
+08:40.150 S10-N01 Trixie: One job each. Ghost finds the route. Neon handles the decoys. Byte watches the cameras. Onyx covers the exit.
+08:49.525 S10-N02 Byte: And you?
+08:50.525 S10-N03 Trixie: I get close enough to photograph the meeting.
+08:55.500 S10-D01 Neon: The guards will chase these instead of us.
+08:58.900 S10-D02 Byte: What if they don't?
+09:00.700 S10-D03 Neon: Then we have a very expensive collection of dog toys.
+09:06.475 S10-N04 Neon: They follow the sound and the smell. This switch cuts both. Do not press the red button indoors.
+09:13.875 S10-N05 Onyx: You could have said that before the demonstration.
+09:18.850 S10-D04 Onyx: Holy shit. It works.
+09:20.650 S10-N06 Ghost: The return path has to stay clear. A distraction that traps us is just a different problem.
+09:29.225 S10-N07 Neon: Two decoys for entry. One held back. I actually planned for something going wrong.
+09:35.025 S10-N08 Byte: Write down the date. We should celebrate this.
 
-Neon: "The guards will chase these instead of us."
-
-Byte: "What if they don't?"
-
-Neon: "Then we have a very expensive collection of dog toys."
-
-A test device squeaks. A distant dog guard immediately starts barking.
-
-Onyx: "Holy shit. It works."
-
-![Киберпанк в сердце Японии. Фоторепортаж](https://images.openai.com/static-rsc-4/B_U6cRWhUwlALXhdZncIdofFFe4Hq7w8cPgkipwx60Ge0DJivgsPdGXtF3KovljNYjz-4E_gyUvMDjLO5oXKyE80IkPxajNl8SoYw8pDke47xCG2nUiKln_-ql3HJd1SSKm_Kt2--mGn_Iw_Lc84Agu1a7N9bapDUyfjXmtIIRwjqXA_KJCjGRjdkXR-DJ__?purpose=fullsize)
-
+SCENE 11 - Steak & Bone Surveillance (09:45 to 11:00)
 Scene 11 — Steak & Bone Surveillance
 
 09:45–11:00 · 75 sec · Restaurant exterior
@@ -240,22 +220,19 @@ The crew arrives at Steak & Bone. Dog security guards patrol the entrances. Ghos
 
 Shots: Restaurant establishing → security positions → Barkington arriving → rooftop surveillance perspective → close-up of Trixie's camera.
 
-Dialogue:
+09:45.150 S11-D01 Byte: That restaurant costs more per meal than our entire building.
+09:49.350 S11-D02 Onyx: Can we eat first?
+09:53.594 S11-N01 Ghost: Front door has two guards. Service door has one camera. Their patrol crosses the alley every forty seconds.
+10:03.439 S11-N02 Byte: I am staying at this relay point. If you lose my signal, do not invent a heroic alternative.
+10:10.839 S11-N03 Onyx: I stay by the service exit. Same way in, same way out.
+10:18.283 S11-N04 Trixie: That is Barkington. The entourage came in the limousine. Keep the plate in the recording.
+10:26.928 S11-N05 Neon: The anchor is already inside. Private room, rear wall, blinds half closed.
+10:31.928 S11-D03 Ghost: Target's inside.
+10:35.372 S11-N06 Ghost: We can reach the hatch without crossing the main dining room.
+10:42.417 S11-D04 Trixie: Nobody touches anything until we have evidence.
+10:45.417 S11-N07 Trixie: Wait for the patrol to turn. We go together, and we leave together.
 
-Byte: "That restaurant costs more per meal than our entire building."
-
-Onyx: "Can we eat first?"
-
-Ghost: "Target's inside."
-
-Trixie: "Nobody touches anything until we have evidence."
-
-End beat: Barkington enters the restaurant. The camera pushes toward a gold-lit private dining room.
-
-### Act 3 — The Bribe
-
-![RealtyJuggler Real Estate Software Upgraded](https://images.openai.com/static-rsc-4/ysETDJ0ILUx7fX3wW0VcODN4QQpIj68jJ1wWlBIxYCCywmniqjVKceS0PRqslM1wJvUXN4LMXtWolNmHgnWOP9-EGFcTGhRljbEOe9WV4qegmQLfD-gXnYv0qGt2M521ulVm-IWaG7SIVPsix2LGwX3SlyexC1CetFBj2ChkilXqpNnVCUyP48BDrbTeE4Mr?purpose=fullsize)
-
+SCENE 12 - The Bone Distraction (11:00 to 11:45)
 Scene 12 — The Bone Distraction
 
 11:00–11:45 · 45 sec · Steak & Bone security entrance
@@ -264,18 +241,15 @@ Neon activates the decoys. Several dog guards abandon their posts to chase squea
 
 Shots: Guard close-up → bone rolling across floor → ears perking → chaotic chase → Ghost slipping through the unguarded entrance.
 
-Dialogue:
+11:00.150 S12-N01 Neon: First decoy on the ground. Second one stays behind the bins until they move.
+11:08.979 S12-N02 Byte: Camera is looking at the alley. You have your opening.
+11:16.207 S12-D01 Guard: Maintain your positions!
+11:17.607 S12-D02 Guard: ...Is that a bacon-flavored bone?
+11:22.836 S12-D03 Another guard: MINE!
+11:26.464 S12-N03 Ghost: Door is clear. Trixie, on me.
+11:29.064 S12-N04 Onyx: I have the exit. Do not make me come looking for you.
 
-Guard: "Maintain your positions!"
-
-SQUEAK!
-
-Guard: "...Is that a bacon-flavored bone?"
-
-Another guard: "MINE!"
-
-![](https://images.openai.com/static-rsc-4/9eoY04zx9PXrUd0k5NoOBc7lKwqv6GdpWwEMeWLfwTDRc7re-aXy37XhlVHfvmHgr9ihJF_MeZ2AwGXXtR105sn46rVh-RF8K4ClH1xY7v4U4Ld4mWoAJgI_YXxoTiHfVGd_GjJk-OU2Nqmv2jHEPsm8XYlgMpeNBdvXn-nWtnRfdpzRCxzbD7qredhqMplF?purpose=fullsize)
-
+SCENE 13 - Inside the Restaurant (11:45 to 12:35)
 Scene 13 — Inside the Restaurant
 
 11:45–12:35 · 50 sec · Service corridors
@@ -284,20 +258,18 @@ Ghost leads Trixie and Neon through the service entrance. Onyx monitors the guar
 
 Shots: Corridor wide → security-camera POV → cat-eye close-up → robot passing → silent hand signals.
 
-Dialogue:
+11:45.150 S13-D01 Byte: You have forty seconds before patrol returns.
+11:50.379 S13-N01 Neon: Service robot. Hold. Its camera turns before the wheels do.
+11:56.807 S13-D02 Trixie: Ghost, move.
+11:57.807 S13-D03 Ghost: I am moving.
+11:59.207 S13-D04 Trixie: You're literally standing still.
+12:01.007 S13-D05 Ghost: That's why I'm good.
+12:05.036 S13-N02 Byte: Twenty seconds. Stop narrating your stealth and actually do some.
+12:09.236 S13-N03 Ghost: Now. Stay behind the cart; the lens cannot see through it.
+12:16.064 S13-N04 Trixie: There is the hatch. Neon, microphone first. I need the table and both faces.
+12:21.864 S13-N05 Neon: Recording locally. If the connection drops, we still keep the file.
 
-Byte, over comms: "You have forty seconds before patrol returns."
-
-Trixie: "Ghost, move."
-
-Ghost: "I am moving."
-
-Trixie: "You're literally standing still."
-
-Ghost: "That's why I'm good."
-
-![The Dogs Corleone – Iunick Design](https://images.openai.com/static-rsc-4/NMdlziqVKjxPHwovwFOwQa6wHIvDyHAKY9BIpvNTT5j0s6AWjpsWHjrrCaoVcltLTiDHOFlIreCnGJJpXVCrXHcOx0LUEdbkLkyCWRKaj4m3spa00BtAgmQhf31shkaln0B190ptzoe5RpueB6OP9ZZHVsmPk5Qk2mOq9EKrnPL1pJ3WPW6mMqChooqkNmh8?purpose=fullsize)
-
+SCENE 14 - The Secret Dinner (12:35 to 13:35)
 Scene 14 — The Secret Dinner
 
 12:35–13:35 · 60 sec · Steak & Bone private dining room
@@ -306,20 +278,19 @@ Barkington meets the Shiba Inu WOOF7 news anchor. The two discuss public confide
 
 Shots: Dining-room wide → two-shot across table → close-up of Shiba anchor → Barkington's gold ring and paw → hidden surveillance angle.
 
-Dialogue:
+12:35.150 S14-D01 Barkington: The public needs reassurance that our supply measures are necessary.
+12:39.350 S14-D02 Anchor: And you want that to be tonight's headline?
+12:44.093 S14-N01 Anchor: People are asking why the shelves emptied before the warning. They expect me to ask that question.
+12:52.436 S14-N02 Barkington: Questions are useful when they lead the public toward confidence. Less useful when they lead to disorder.
+12:59.436 S14-D03 Barkington: I want the public to hear the correct story.
+13:04.579 S14-N03 Anchor: Confidence is difficult to sell to an audience that cannot afford dinner.
+13:09.579 S14-D04 Anchor: That kind of coverage isn't cheap.
+13:13.521 S14-N04 Barkington: Then remind them who keeps the streets safe. Panic needs a firm voice.
+13:20.264 S14-N05 Anchor: My producers will want a reason to move the other story off the schedule.
+13:27.407 S14-D05 Barkington: Neither is loyalty.
+13:28.807 S14-N06 Barkington: Tell them we appreciate a reliable partner. Our appreciation is rarely symbolic.
 
-Barkington: "The public needs reassurance that our supply measures are necessary."
-
-Anchor: "And you want that to be tonight's headline?"
-
-Barkington: "I want the public to hear the correct story."
-
-Anchor: "That kind of coverage isn't cheap."
-
-Barkington: "Neither is loyalty."
-
-![I Tested Vidu Q2's New Turbo and Pro Modes: Encouraging Results with Notable Strengths | Pollo AI](https://images.openai.com/static-rsc-4/Q6c30mamh33ZkGcg4k3qzH5bezu7MBpfin0LWpLoeqWFnZ3JUI0ktOz2HoP0WyoUNOK5cnLj04n_AhOTO0QiZvbJBDPZOdj47OtWT4iR4t5UEJc_9205q4hZ9eyDhaeUweOas9QeT-NXewOkgszFpPh3WzK-nuR0WMDPdQc8loYql-RSRIJFp0RDn5fqMKCE?purpose=fullsize)
-
+SCENE 15 - The Payoff Photograph (13:35 to 14:20)
 Scene 15 — The Payoff Photograph
 
 13:35–14:20 · 45 sec · Private dining room
@@ -328,20 +299,18 @@ Barkington passes a money bag across the table. Trixie captures a clear photogra
 
 Shots: Close-up money bag → Barkington's fur-covered paw → Shiba accepting payment → camera viewfinder → shutter click → Trixie's reaction.
 
-Dialogue:
+13:39.493 S15-N01 Neon: Both faces and the bag are in frame. Keep rolling. Do not crop away who handed it over.
+13:48.064 S15-N02 Ghost: Someone is coming down the corridor. You have one clean shot.
+13:53.836 S15-D01 Byte: Please tell me you got that.
+13:56.436 S15-D02 Trixie: Every pixel.
+13:57.436 S15-N03 Trixie: Save the original and a copy. No filters, no edits.
+14:02.807 S15-D03 Neon: The audio's ambiguous.
+14:04.207 S15-D04 Trixie: The photograph isn't.
+14:05.607 S15-N04 Byte: It proves a payment happened. We still cannot label what the money bought.
+14:11.007 S15-N05 Trixie: Then we show exactly what we have. Nothing more.
+14:15.979 S15-N06 Onyx: Patrol is back early. Time to move.
 
-Byte, over comms: "Please tell me you got that."
-
-Trixie: "Every pixel."
-
-Neon: "The audio's ambiguous."
-
-Trixie: "The photograph isn't."
-
-Important continuity: This proves a suspicious cash exchange, not yet that Barkington engineered the salmon shortage.
-
-![Distopia Carioca: O que esperar do filme Corrida dos Bichos - Espiaaqui](https://images.openai.com/static-rsc-4/S6II-TSYzHGz3ROYzWvYYB3eQ5_ptj78xIbGRMa4woqhheQXwKipuOU89_dJ5bZS0e5849wFw4FPUkWXu6b-4unDImw2-NuHraMhoOQpWNeKgo5qiPy-Za1QlVMw_uYRHhHMaVEaphhHx19RiCNwPtm_zDS0LfEt8waoknve7LlW4Uju8akyKiXxYEyw9aGF?purpose=fullsize)
-
+SCENE 16 - Get the Hell Out (14:20 to 15:10)
 Scene 16 — Get the Hell Out
 
 14:20–15:10 · 50 sec · Restaurant service exit
@@ -350,20 +319,17 @@ A guard discovers the security breach. Onyx intercepts the pursuing guards while
 
 Shots: Alarm light → fast corridor tracking → Onyx blocking a doorway → bone decoy bouncing → rooftop escape wide.
 
-Dialogue:
+14:20.150 S16-D01 Guard: STOP THOSE CATS!
+14:24.025 S16-N01 Onyx: This door. Keep moving. I am right behind you.
+14:30.300 S16-D02 Neon: Emergency bone!
+14:31.300 S16-D03 Byte: Why do you call it that?
+14:33.900 S16-D04 Neon: Because it's for emergencies, dumbass!
+14:38.575 S16-N02 Ghost: Left at the bins. The ladder goes to the low roof, not the street.
+14:46.850 S16-N03 Byte: I have your signal again. Bring the files to me, not the guards.
+14:54.725 S16-N04 Trixie: Count off. Byte? Neon? Ghost? Onyx?
+14:57.325 S16-N05 Onyx: Five cats. One terrible restaurant. Never going back.
 
-Guard: "STOP THOSE CATS!"
-
-Neon: "Emergency bone!"
-
-Byte: "Why do you call it that?"
-
-Neon: "Because it's for emergencies, dumbass!"
-
-SQUEAK!
-
-![How Analyzing JavaScript Files Can Uncover Multiple Bugs | by L0da | Medium](https://images.openai.com/static-rsc-4/uGABvWtAddeV1_csP1mlZpHdJXTs2PfgwmUgDMQha9DNnIVLOn3mH07Q66jJOC0Six0xS7nw0IIFXYJt_zBoNqSfvi6EuWM1EZ1F-2YwGzlQfe7NrGC9LviTvzGHkCy9glxUwNQkBg27yEM1eLwEcg6Q5-HvGOMYBpeKo0TzUNwvjQfQwhLyboEkFCq5ln8g?purpose=fullsize)
-
+SCENE 17 - The Leak (15:10 to 16:00)
 Scene 17 — The Leak
 
 15:10–16:00 · 50 sec · Resistance hideout
@@ -372,20 +338,17 @@ The crew sends the footage and photograph to NIP7 investigative news. A hairless
 
 Shots: Upload progress → NIP7 newsroom → Sphynx anchor → evidence image → newspaper printing.
 
-Dialogue:
+15:10.150 S17-N01 Ghost: Send the uncut clip with the photograph. Let the newsroom check the timestamp themselves.
+15:15.950 S17-N02 Neon: Original saved here. Backup sent. They cannot erase it by taking down one post.
+15:23.390 S17-N03 Trixie: The headline says payment. It does not say we solved the shortage.
+15:30.030 S17-D01 NIP7 Anchor: Exclusive tonight: leaked footage shows Chairman Barkington Orders making an undisclosed cash payment to a senior WOOF7 journalist.
+15:37.430 S17-N04 NIP7 Anchor: The purpose of the payment has not been independently established. We have requested a response from both parties.
+15:46.470 S17-D02 Byte: We fucking got him!
+15:48.270 S17-D03 Ghost: We got the payment. Not the reason.
+15:52.910 S17-D04 Trixie: Then we keep digging.
+15:54.710 S17-N05 Byte: Fine. A small victory. Can small victories buy dinner?
 
-NIP7 Anchor: "Exclusive tonight: leaked footage shows Chairman Barkington Orders making an undisclosed cash payment to a senior WOOF7 journalist."
-
-Byte: "We fucking got him!"
-
-Ghost: "We got the payment. Not the reason."
-
-Trixie: "Then we keep digging."
-
-### Act 4 — The Salmon Conspiracy
-
-![Security Check](https://images.openai.com/static-rsc-4/YXC118t34qtPpHCaL8aH5KvVs_jYCM5DcRN5fA0AlgATy9zYxU7AUKzdsrlPcjaG55RmTw4TO_vERZR0wUR6PcsUOSFuWdOU1LNaECSeW4nkJ8Pvq-DJOo0jZOy5UzZmmGsT2Yp6I7wEQikiHfspuBErTOxsSAO2FlJIAgVFGoEUeTcqC5zVJUFlARVLM8XN?purpose=fullsize)
-
+SCENE 18 - Victory? Not Quite (16:00 to 16:35)
 Scene 18 — Victory? Not Quite
 
 16:00–16:35 · 35 sec · District 7 streets
@@ -394,18 +357,16 @@ Cats read the Catnip Times. News of the suspicious payment spreads across the di
 
 Shots: Newspaper close-up → street reactions → empty fish market → Trixie reading the report.
 
-Dialogue:
+16:00.150 S18-D01 Byte: We exposed the bastard!
+16:03.510 S18-N01 Civilian cat: I read your story. The freezer is still empty. What do we eat tonight?
+16:09.310 S18-N02 Trixie: You are right. A headline is not a meal.
+16:14.670 S18-D02 Trixie: Then why are the stores still empty?
+16:17.670 S18-D03 Ghost: Because we exposed a payment. Not the supply chain.
+16:23.030 S18-D04 Neon: Wait. I've got something.
+16:24.830 S18-N03 Neon: The delivery code matches Byte’s price record.
+16:29.390 S18-N04 Ghost: Back to the lair. Follow the deliveries, not the speeches.
 
-Byte: "We exposed the bastard!"
-
-Trixie: "Then why are the stores still empty?"
-
-Ghost: "Because we exposed a payment. Not the supply chain."
-
-Neon: "Wait. I've got something."
-
-![Global Logistics Network Dashboard in Control Room | Stock Image & Design Asset – Aura](https://images.openai.com/static-rsc-4/Tnd4YNWibnM22lBpYBnnw8GxmEvoApxYxWpP5K12HGRnBNcqjv6xMnh7ItwsbC1iVpJ1IMRqjWhE22btICezkVPbatBYQLMtMbYeRYBd5BbzDtH2f0ARl8cRKC4mjcyPZYow3xx0u6X4nXmEudv0SYNmIpPexRrRQqkZRIRUf43Iqv0THIxaZ-yFRFUPjFxB?purpose=fullsize)
-
+SCENE 19 - Follow the Fish (16:35 to 17:10)
 Scene 19 — Follow the Fish
 
 16:35–17:10 · 35 sec · Hacking lair
@@ -414,18 +375,15 @@ Neon discovers that Goodboy Global's salmon shipments are being diverted away fr
 
 Shots: Shipping database → district map → redirection arrows → close-up of salmon shipment records.
 
-Dialogue:
+16:35.150 S19-D01 Neon: There isn't a salmon shortage.
+16:37.350 S19-D02 Byte: What?
+16:37.950 S19-D03 Neon: There's a salmon shortage for cats.
+16:42.950 S19-N01 Ghost: These are current dispatch records. Match the truck numbers to the public gate camera before we publish.
+16:52.350 S19-N02 Byte: District Seven order cancelled. District Two replacement accepted. Same load, same morning.
+16:57.350 S19-D04 Onyx: Those sons of bitches.
+17:01.550 S19-N03 Trixie: Save the records. We verify the trucks at the gate, then get that food moving.
 
-Neon: "There isn't a salmon shortage."
-
-Byte: "What?"
-
-Neon: "There's a salmon shortage for cats."
-
-Onyx: "Those sons of bitches."
-
-![The Logistics of Food Service: Cold Chain Integrity and JIT Restaurant Delivery | Runink](https://images.openai.com/static-rsc-4/7PIzpv8hTLL2cO9pbikXjlR1vL_jgP3fPKd8K-t0y5_JFIeS3OItwlwFxJqdVqW0sUVw7zETCX-ONnddNNjeQYZB43d7cXiNp3kv-yvbH2u8kmEd4h6n33152JEYQoUF3F_XL8RNR_hEZVhwUpjcZ1xFmV0kSDkOLXD289aNqvvEHqGW4E541F0Q38m47yXZ?purpose=fullsize)
-
+SCENE 20 - Salmon Headquarters (17:10 to 17:45)
 Scene 20 — Salmon Headquarters
 
 17:10–17:45 · 35 sec · Goodboy Global salmon facility
@@ -434,16 +392,14 @@ The crew reaches the heavily guarded distribution center. Refrigerated trucks ma
 
 Shots: Factory exterior → guarded gates → truck destination labels → overhead security map → crew preparing entry.
 
-Dialogue:
+17:15.750 S20-N01 Ghost: The plate matches. That is the truck from the dispatch record.
+17:20.350 S20-D01 Trixie: They've been sitting on our food.
+17:22.950 S20-D02 Byte: Technically, they've been shipping it.
+17:25.150 S20-D03 Trixie: Not helping, Byte.
+17:28.350 S20-N02 Neon: Standing robot dogs on the floor. Red visors. They patrol the line and respond to the alarm.
+17:37.150 S20-N03 Trixie: No one touches the cooling system. We need the fish fresh, and the workers clear.
 
-Trixie: "They've been sitting on our food."
-
-Byte: "Technically, they've been shipping it."
-
-Trixie: "Not helping, Byte."
-
-![This is the world's largest salmon factory](https://images.openai.com/static-rsc-4/vif9i5TEiAIT1VHDA7MOHYMgCRqPTgtvfbxxufKK7VCY48t5daEkLyjh7vJz9G7YjbdqdpC-SLIkeM0R4krly-06GhRNrc-xPJuLV2fiJ_YQ_enbyipiL-Jzhvy22t8xbeRICNruvNa88Fti8wLm9RbTgZnKiLDf8vJD37U1kX-vltqUetJRnePLcQVY4jEZ?purpose=fullsize)
-
+SCENE 21 - The Great Salmon Heist (17:45 to 18:30)
 Scene 21 — The Great Salmon Heist
 
 17:45–18:30 · 45 sec · Factory interior
@@ -452,18 +408,16 @@ Ghost bypasses the security system. Onyx holds off pursuing guards. Neon and Byt
 
 Shots: Stealth entry → massive salmon tanks → guard confrontation → hacking terminal → enormous warehouse reveal.
 
-Dialogue:
+17:45.150 S21-N01 Ghost: Service lock is open. Stay behind the tank until the robot turns.
+17:58.407 S21-D01 Byte: That's enough salmon to feed half the city!
+18:01.807 S21-D02 Trixie: And they told us there was none.
+18:06.893 S21-N02 Neon: Dispatch terminal here. Refrigeration is on a separate circuit.
+18:12.779 S21-D03 Onyx: Can I punch something now?
+18:14.979 S21-D04 Trixie: You have my permission.
+18:16.779 S21-N03 Onyx: A robot. I am punching a robot. We are being specific.
+18:23.464 S21-N04 Trixie: Keep it away from the tanks. Byte, get the truck routes.
 
-Byte: "That's enough salmon to feed half the city!"
-
-Trixie: "And they told us there was none."
-
-Onyx: "Can I punch something now?"
-
-Trixie: "You have my permission."
-
-![Is Your Factory Next? How Cybercriminals Exploit This System | by Redfox Security | Feb, 2026 | Medium](https://images.openai.com/static-rsc-4/pn-OjICabPYd5Ant86SZ3u2SCSN7pqrj5SVnFfM86q-WVz820VLVQNr5gCU5If1Io6mTQ_FBb1tLUZFXSmWQvQMIR_ymsX3koYN2Duaghbs7v0DS_q2UalbmbzqfYS-o2IWgZEMviN6V_O88CdwMNjtngJe3Zx1c9dLphXq6tcd6KZ8clU3vF6d4kuTqoXqp?purpose=fullsize)
-
+SCENE 22 - Shut It Down (18:30 to 19:05)
 Scene 22 — Shut It Down
 
 18:30–19:05 · 35 sec · Factory control room
@@ -472,20 +426,16 @@ The crew stops the automated distribution lines, preserves the refrigerated salm
 
 Shots: Hacking screen → conveyor belts stopping → routing map changing → trucks redirected → public data release.
 
-Dialogue:
+18:30.150 S22-N01 Neon: Dispatch stopped. Cooling stays on. Temperature is stable.
+18:33.550 S22-D01 Neon: Corporate routing disabled.
+18:35.783 S22-N02 Ghost: Original logs preserved. Public copies include the truck numbers and cancelled orders.
+18:40.783 S22-D02 Ghost: Shipping records released.
+18:43.017 S22-N03 Trixie: Release the already-loaded trucks first. Do not leave fresh stock waiting outside.
+18:48.017 S22-N04 Byte: District Seven delivery accepted. The other neglected districts are next in the queue.
+18:54.250 S22-D03 Byte: Salmon is going back to the cats!
+18:57.250 S22-D04 Trixie: Now that's what I call a hostile takeover.
 
-Neon: "Corporate routing disabled."
-
-Ghost: "Shipping records released."
-
-Byte: "Salmon is going back to the cats!"
-
-Trixie: "Now that's what I call a hostile takeover."
-
-Important: The crew stops the discriminatory distribution system, not the refrigeration or food preservation systems.
-
-![Nano Banana 2 (Gemini 3.1 Flash Image Preview) • AI Image Generation Explorer | Artificial Analysis](https://images.openai.com/static-rsc-4/qtzUj6u-ZMqpv-w5lZpxWaciRbbQBwocgmc0hyzZixmJBm-h4bOIMeahHcTKWLWLozoY4p9K-Pl7v5FdqdchLpqAq8OPqnqXHLNZGly1wDrsuUfwDKU6nhgwuvkhyQGFDstt4cqkhRDAYKLxI5wZT62IZuciGh7F0FllVBgaaiQnsC1hSTi3IDt1cKks_GzS?purpose=fullsize)
-
+SCENE 23 - Salmon for Everyone (19:05 to 19:30)
 Scene 23 — Salmon for Everyone
 
 19:05–19:30 · 25 sec · District 7 market
@@ -494,110 +444,20 @@ The first redirected salmon shipments arrive. Cats cheer as vendors reopen their
 
 Shots: Truck arrival → salmon crates → cheering citizens → NIP7 news broadcast → crew watching from a rooftop.
 
-Dialogue:
+19:05.150 S23-D01 NIP7 Anchor: Newly released records confirm that Goodboy Global diverted salmon shipments away from feline neighborhoods.
+19:12.350 S23-N01 Kitten: You found it!
+19:13.750 S23-N02 Trixie: Your mum was right. This is better than a promise.
+19:19.350 S23-D02 Byte: We saved the fucking city!
+19:21.550 S23-D03 Trixie: We saved dinner.
+19:22.950 S23-D04 Ghost: For now.
 
-NIP7 Anchor: "Newly released records confirm that Goodboy Global diverted salmon shipments away from feline neighborhoods."
+SCENE 24 - Back to the Game (19:30 to 20:00)
+19:30–20:00. Back in the lounge, the TV carries Goodboy Global's claim that a computer inventory mistake caused the shortage and has been corrected. The five cats react to the cover-up. Trixie says to return to the game: they fixed it even if nobody knows. Resume gameplay ONLY within the physical TV glass.
 
-Byte: "We saved the fucking city!"
-
-Trixie: "We saved dinner."
-
-Ghost: "For now."
-
-![17 Best VSCode Themes](https://images.openai.com/static-rsc-4/2rGZBNUdelOhs3dtb0OgR3pLt2iYItbHd00mDQQzaLZUXi_cggqdDQGwKo5ngxU20nhC8qbR-giZR3wDlViuvUdI2LYrGq9witiEKBDpUr1VXFUqFZ7GAi6j27k3uiHx0CkOtTtHBSugwOe4Ns7wtHeuU2ydFwyGBCTWd7mEzIOBthSlxaAvEn76svpXTiT2?purpose=fullsize)
-
-Scene 24 — Back to the Game
-
-19:30–20:00 · 30 sec · Resistance hideout
-
-The crew returns home, collapses onto the couch, and turns on CatStation 5. Grand Theft Kitty VI resumes at the Great Dog National Bank heist.
-
-Shots: Wide hideout → controllers being picked up → TV loading screen → Trixie's face → group couch wide → final TV close-up.
-
-Dialogue:
-
-Trixie: "All right. Now it's time to finish this mission."
-
-Byte: "We've been trying to finish this shit all day."
-
-Neon: "At least nobody can interrupt us now."
-
-The television flickers.
-
-TV: "Goodboy Global HAS AN IMPORTANT ANNOUNCEMENT—"
-
-Onyx: "OH, FUCK OFF!"
-
-SMASH CUT TO BLACK.
-
-End credits.
-
-### Production storyboard index
-
-This is the master timing reference for generating the individual scene plates and clips.
-
-| Scene | Story beat                | Start | End   |
-| ----- | ------------------------- | ----- | ----- |
-| 01    | Just One More Mission     | 00:00 | 01:10 |
-| 02    | The Interruption          | 01:10 | 02:00 |
-| 03    | Barkington's Broadcast    | 02:00 | 03:05 |
-| 04    | Trip to 7-Catleven        | 03:05 | 04:00 |
-| 05    | Three Times the Price     | 04:00 | 05:00 |
-| 06    | Word Spreads              | 05:00 | 05:45 |
-| 07    | District 7 Rally          | 05:45 | 06:50 |
-| 08    | The Cats Are Waking Up    | 06:50 | 07:30 |
-| 09    | Follow the Money          | 07:30 | 08:40 |
-| 10    | Operation Bonehead        | 08:40 | 09:45 |
-| 11    | Steak & Bone Surveillance | 09:45 | 11:00 |
-| 12    | The Bone Distraction      | 11:00 | 11:45 |
-| 13    | Inside the Restaurant     | 11:45 | 12:35 |
-| 14    | The Secret Dinner         | 12:35 | 13:35 |
-| 15    | The Payoff Photograph     | 13:35 | 14:20 |
-| 16    | Get the Hell Out          | 14:20 | 15:10 |
-| 17    | The Leak                  | 15:10 | 16:00 |
-| 18    | Victory? Not Quite        | 16:00 | 16:35 |
-| 19    | Follow the Fish           | 16:35 | 17:10 |
-| 20    | Salmon Headquarters       | 17:10 | 17:45 |
-| 21    | The Great Salmon Heist    | 17:45 | 18:30 |
-| 22    | Shut It Down              | 18:30 | 19:05 |
-| 23    | Salmon for Everyone       | 19:05 | 19:30 |
-| 24    | Back to the Game          | 19:30 | 20:00 |
-
-### AI video production requirements
-
-Total runtime
-
-### 1,200s
-
-20 minutes
-
-5-second clips
-
-### 240
-
-Before editing and reuse
-
-Base generation cost
-
-### $96
-
-At $0.08 per second
-
-With 20% failed renders
-
-### $120
-
-Expected generation cost
-
-These figures assume all 20 minutes are generated footage, independent attempts with an 80% success rate, and no extra editorial retakes, audio, or upscaling charges.
-
-### How we'll turn this into production-ready storyboards
-
-The 24-scene breakdown is the narrative storyboard. Before rendering, each scene should be divided into numbered camera shots with an individual reference frame, exact dialogue timing, character identities, camera movement, audio, and a start/end-frame continuity description.
-
-For example, Scene 01's 70 seconds might become 12–16 shots covering the building exterior, couch, controllers, gameplay, reactions, and the moment before the interruption. This is how we avoid generating long clips where the characters, furniture, or costumes randomly change.
-
-We should also keep the pilot's ending deliberately unresolved: the cats prove the distribution discrimination and restore immediate access, but they have not discovered who authorized the larger conspiracy or why Barkington wanted the shortage in the first place. That mystery carries into Episode 2.
-
-The next production stage is Scene 01 — Just One More Mission, with individual cinematic storyboard frames, shot numbers, and image-to-video prompts, followed by Scene 02 and onward in order.
-
+19:30.650 S24-R01 TV: Goodboy Global confirms that the salmon shortage was caused by a computer inventory mistake. The error has now been corrected.
+19:38.513 S24-R02 Byte: Those no-good dogs.
+19:40.245 S24-R03 Onyx: Bastards. They're taking credit for fixing their own scam.
+19:43.696 S24-R04 Neon: Is everyone just going to keep lying down for these dogs?
+19:47.054 S24-R05 Ghost: They changed the story. We still have the records.
+19:50.133 S24-R06 Trixie: C'mon. Let's just play the game. We fixed it, even if no one knows it.
+19:54.141 S24-R07 Byte: Fine. But you're not driving.

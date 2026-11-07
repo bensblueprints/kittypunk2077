@@ -1,0 +1,19 @@
+Byte: You have forty seconds before patrol returns.
+
+Neon: Service robot. Hold. Its camera turns before the wheels do.
+
+Trixie: Ghost, move.
+
+Ghost: I am moving.
+
+Trixie: You're literally standing still.
+
+Ghost: That's why I'm good.
+
+Byte: Twenty seconds. Stop narrating your stealth and actually do some.
+
+Ghost: Now. Stay behind the cart; the lens cannot see through it.
+
+Trixie: There is the hatch. Neon, microphone first. I need the table and both faces.
+
+Neon: Recording locally. If the connection drops, we still keep the file.

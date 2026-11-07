@@ -1,0 +1,1167 @@
+{
+  "number": 10,
+  "title": "Operation Bonehead",
+  "start": "08:40",
+  "end": "09:45",
+  "duration_seconds": 65,
+  "source_location": "Hideout workshop",
+  "location_ids": [
+    "LOC04"
+  ],
+  "staging": "Scene 10 — Operation Bonehead\n\n08:40–09:45 · 65 sec · Hideout workshop\n\nNeon constructs electronic bone-shaped decoys that squeak, roll, and project irresistible animated chew toys. Ghost tests the distraction system while Byte questions its reliability.\n\nShots: Overhead workbench → rotating bone device → Neon testing remote → Ghost checking stealth equipment → comedy test.",
+  "sound": "",
+  "lines": [
+    {
+      "id": "S10-N01",
+      "speaker": "Trixie",
+      "text": "One job each. Ghost finds the route. Neon handles the decoys. Byte watches the cameras. Onyx covers the exit.",
+      "takes": [
+        {
+          "id": "db6597ecd9b201e2",
+          "title": "S10-N01-trixie-take001",
+          "scene": "Scene10",
+          "text": "One job each. Ghost finds the route. Neon handles the decoys. Byte watches the cameras. Onyx covers the exit.",
+          "duration_sec": 6.548027,
+          "kind": "take",
+          "variant": "take001",
+          "voice_name": "Emma — Wry, Gritty Hero",
+          "status": "review take"
+        }
+      ],
+      "origin": "new production draft v003; not yet recorded",
+      "recording_status": "recorded; performance review pending",
+      "start_sec": 520.15,
+      "end_sec": 527.75,
+      "start_tc": "08:40.150",
+      "end_tc": "08:47.750",
+      "shot_id": "S10-P01",
+      "timing_basis": "planned edit slot; measured recording 6.548s; conform picture after review",
+      "role_id": "trixie",
+      "voice_id": "dmWfLQZJq7wNPv9WmtiM",
+      "voice_name": "Emma — Wry, Gritty Hero",
+      "recorded_duration_sec": 6.548027
+    },
+    {
+      "id": "S10-N02",
+      "speaker": "Byte",
+      "text": "And you?",
+      "takes": [
+        {
+          "id": "da1e0f647ec7ff9d",
+          "title": "S10-N02-byte-take001",
+          "scene": "Scene10",
+          "text": "And you?",
+          "duration_sec": 0.650159,
+          "kind": "take",
+          "variant": "take001",
+          "voice_name": "Northern Terry",
+          "status": "review take"
+        }
+      ],
+      "origin": "new production draft v003; not yet recorded",
+      "recording_status": "recorded; performance review pending",
+      "start_sec": 529.525,
+      "end_sec": 530.325,
+      "start_tc": "08:49.525",
+      "end_tc": "08:50.325",
+      "shot_id": "S10-P02",
+      "timing_basis": "planned edit slot; measured recording 0.65s; conform picture after review",
+      "role_id": "byte",
+      "voice_id": "wo6udizrrtpIxWGp2qJk",
+      "voice_name": "Northern Terry",
+      "recorded_duration_sec": 0.650159
+    },
+    {
+      "id": "S10-N03",
+      "speaker": "Trixie",
+      "text": "I get close enough to photograph the meeting.",
+      "takes": [
+        {
+          "id": "71ca4e41423c7beb",
+          "title": "S10-N03-trixie-take001",
+          "scene": "Scene10",
+          "text": "I get close enough to photograph the meeting.",
+          "duration_sec": 2.043356,
+          "kind": "take",
+          "variant": "take001",
+          "voice_name": "Emma — Wry, Gritty Hero",
+          "status": "review take"
+        }
+      ],
+      "origin": "new production draft v003; not yet recorded",
+      "recording_status": "recorded; performance review pending",
+      "start_sec": 530.525,
+      "end_sec": 533.725,
+      "start_tc": "08:50.525",
+      "end_tc": "08:53.725",
+      "shot_id": "S10-P02",
+      "timing_basis": "planned edit slot; measured recording 2.043s; conform picture after review",
+      "role_id": "trixie",
+      "voice_id": "dmWfLQZJq7wNPv9WmtiM",
+      "voice_name": "Emma — Wry, Gritty Hero",
+      "recorded_duration_sec": 2.043356
+    },
+    {
+      "id": "S10-D01",
+      "speaker": "Neon",
+      "text": "The guards will chase these instead of us.",
+      "takes": [
+        {
+          "id": "fd96d71e32f49eb7",
+          "title": "S10-D01-neon-take001",
+          "scene": "Scene10",
+          "text": "The guards will chase these instead of us.",
+          "duration_sec": 2.182676,
+          "kind": "take",
+          "variant": "take001",
+          "voice_name": "Ryan — Product Reviewer",
+          "status": "review take"
+        }
+      ],
+      "origin": "retained working script",
+      "recording_status": "recorded; performance review pending",
+      "start_sec": 535.5,
+      "end_sec": 538.7,
+      "start_tc": "08:55.500",
+      "end_tc": "08:58.700",
+      "shot_id": "S10-P03",
+      "timing_basis": "planned edit slot; measured recording 2.183s; conform picture after review",
+      "role_id": "neon",
+      "voice_id": "4e32WqNVWRquDa1OcRYZ",
+      "voice_name": "Ryan — Product Reviewer",
+      "recorded_duration_sec": 2.182676
+    },
+    {
+      "id": "S10-D02",
+      "speaker": "Byte",
+      "text": "What if they don't?",
+      "takes": [
+        {
+          "id": "ddf261867a51a7d6",
+          "title": "S10-D02-byte-take001",
+          "scene": "Scene10",
+          "text": "What if they don't?",
+          "duration_sec": 1.068118,
+          "kind": "take",
+          "variant": "take001",
+          "voice_name": "Northern Terry",
+          "status": "review take"
+        }
+      ],
+      "origin": "retained working script",
+      "recording_status": "recorded; performance review pending",
+      "start_sec": 538.9,
+      "end_sec": 540.5,
+      "start_tc": "08:58.900",
+      "end_tc": "09:00.500",
+      "shot_id": "S10-P03",
+      "timing_basis": "planned edit slot; measured recording 1.068s; conform picture after review",
+      "role_id": "byte",
+      "voice_id": "wo6udizrrtpIxWGp2qJk",
+      "voice_name": "Northern Terry",
+      "recorded_duration_sec": 1.068118
+    },
+    {
+      "id": "S10-D03",
+      "speaker": "Neon",
+      "text": "Then we have a very expensive collection of dog toys.",
+      "takes": [
+        {
+          "id": "b929fd51a13f83b7",
+          "title": "S10-D03-neon-take001",
+          "scene": "Scene10",
+          "text": "Then we have a very expensive collection of dog toys.",
+          "duration_sec": 3.111474,
+          "kind": "take",
+          "variant": "take001",
+          "voice_name": "Ryan — Product Reviewer",
+          "status": "review take"
+        }
+      ],
+      "origin": "retained working script",
+      "recording_status": "recorded; performance review pending",
+      "start_sec": 540.7,
+      "end_sec": 544.7,
+      "start_tc": "09:00.700",
+      "end_tc": "09:04.700",
+      "shot_id": "S10-P03",
+      "timing_basis": "planned edit slot; measured recording 3.111s; conform picture after review",
+      "role_id": "neon",
+      "voice_id": "4e32WqNVWRquDa1OcRYZ",
+      "voice_name": "Ryan — Product Reviewer",
+      "recorded_duration_sec": 3.111474
+    },
+    {
+      "id": "S10-N04",
+      "speaker": "Neon",
+      "text": "They follow the sound and the smell. This switch cuts both. Do not press the red button indoors.",
+      "takes": [
+        {
+          "id": "bcefc2ff4d6ce6b1",
+          "title": "S10-N04-neon-take001",
+          "scene": "Scene10",
+          "text": "They follow the sound and the smell. This switch cuts both. Do not press the red button indoors.",
+          "duration_sec": 6.176508,
+          "kind": "take",
+          "variant": "take001",
+          "voice_name": "Ryan — Product Reviewer",
+          "status": "review take"
+        }
+      ],
+      "origin": "new production draft v003; not yet recorded",
+      "recording_status": "recorded; performance review pending",
+      "start_sec": 546.475,
+      "end_sec": 553.675,
+      "start_tc": "09:06.475",
+      "end_tc": "09:13.675",
+      "shot_id": "S10-P04",
+      "timing_basis": "planned edit slot; measured recording 6.177s; conform picture after review",
+      "role_id": "neon",
+      "voice_id": "4e32WqNVWRquDa1OcRYZ",
+      "voice_name": "Ryan — Product Reviewer",
+      "recorded_duration_sec": 6.176508
+    },
+    {
+      "id": "S10-N05",
+      "speaker": "Onyx",
+      "text": "You could have said that before the demonstration.",
+      "takes": [
+        {
+          "id": "22025f4d986f4fe3",
+          "title": "S10-N05-onyx-take001",
+          "scene": "Scene10",
+          "text": "You could have said that before the demonstration.",
+          "duration_sec": 2.275556,
+          "kind": "take",
+          "variant": "take001",
+          "voice_name": "Harry — Fierce Warrior",
+          "status": "review take"
+        }
+      ],
+      "origin": "new production draft v003; not yet recorded",
+      "recording_status": "recorded; performance review pending",
+      "start_sec": 553.875,
+      "end_sec": 557.075,
+      "start_tc": "09:13.875",
+      "end_tc": "09:17.075",
+      "shot_id": "S10-P04",
+      "timing_basis": "planned edit slot; measured recording 2.276s; conform picture after review",
+      "role_id": "onyx",
+      "voice_id": "uq0HIbNZKn11Hs5ifEdd",
+      "voice_name": "Harry — Fierce Warrior",
+      "recorded_duration_sec": 2.275556
+    },
+    {
+      "id": "S10-D04",
+      "speaker": "Onyx",
+      "text": "Holy shit. It works.",
+      "takes": [
+        {
+          "id": "9fe222f6f7cf62ee",
+          "title": "S10-D04-onyx-take001",
+          "scene": "Scene10",
+          "text": "Holy shit. It works.",
+          "duration_sec": 1.718277,
+          "kind": "take",
+          "variant": "take001",
+          "voice_name": "Harry — Fierce Warrior",
+          "status": "review take"
+        }
+      ],
+      "origin": "retained working script",
+      "recording_status": "recorded; performance review pending",
+      "start_sec": 558.85,
+      "end_sec": 560.45,
+      "start_tc": "09:18.850",
+      "end_tc": "09:20.450",
+      "shot_id": "S10-P05",
+      "timing_basis": "planned edit slot; measured recording 1.718s; conform picture after review",
+      "role_id": "onyx",
+      "voice_id": "uq0HIbNZKn11Hs5ifEdd",
+      "voice_name": "Harry — Fierce Warrior",
+      "recorded_duration_sec": 1.718277
+    },
+    {
+      "id": "S10-N06",
+      "speaker": "Ghost",
+      "text": "The return path has to stay clear. A distraction that traps us is just a different problem.",
+      "takes": [
+        {
+          "id": "8747ebdec95902a6",
+          "title": "S10-N06-ghost-take001",
+          "scene": "Scene10",
+          "text": "The return path has to stay clear. A distraction that traps us is just a different problem.",
+          "duration_sec": 5.851429,
+          "kind": "take",
+          "variant": "take001",
+          "voice_name": "Austin — Upbeat",
+          "status": "review take"
+        }
+      ],
+      "origin": "new production draft v003; not yet recorded",
+      "recording_status": "recorded; performance review pending",
+      "start_sec": 560.65,
+      "end_sec": 567.45,
+      "start_tc": "09:20.650",
+      "end_tc": "09:27.450",
+      "shot_id": "S10-P05",
+      "timing_basis": "planned edit slot; measured recording 5.851s; conform picture after review",
+      "role_id": "ghost",
+      "voice_id": "7fBwqIVI6wI1B4MuKqQi",
+      "voice_name": "Austin — Upbeat",
+      "recorded_duration_sec": 5.851429
+    },
+    {
+      "id": "S10-N07",
+      "speaker": "Neon",
+      "text": "Two decoys for entry. One held back. I actually planned for something going wrong.",
+      "takes": [
+        {
+          "id": "55a50f71f6df6a18",
+          "title": "S10-N07-neon-take001",
+          "scene": "Scene10",
+          "text": "Two decoys for entry. One held back. I actually planned for something going wrong.",
+          "duration_sec": 4.411791,
+          "kind": "take",
+          "variant": "take001",
+          "voice_name": "Ryan — Product Reviewer",
+          "status": "review take"
+        }
+      ],
+      "origin": "new production draft v003; not yet recorded",
+      "recording_status": "recorded; performance review pending",
+      "start_sec": 569.225,
+      "end_sec": 574.825,
+      "start_tc": "09:29.225",
+      "end_tc": "09:34.825",
+      "shot_id": "S10-P06",
+      "timing_basis": "planned edit slot; measured recording 4.412s; conform picture after review",
+      "role_id": "neon",
+      "voice_id": "4e32WqNVWRquDa1OcRYZ",
+      "voice_name": "Ryan — Product Reviewer",
+      "recorded_duration_sec": 4.411791
+    },
+    {
+      "id": "S10-N08",
+      "speaker": "Byte",
+      "text": "Write down the date. We should celebrate this.",
+      "takes": [
+        {
+          "id": "b4267eb5ae0e3b02",
+          "title": "S10-N08-byte-take001",
+          "scene": "Scene10",
+          "text": "Write down the date. We should celebrate this.",
+          "duration_sec": 2.554195,
+          "kind": "take",
+          "variant": "take001",
+          "voice_name": "Northern Terry",
+          "status": "review take"
+        }
+      ],
+      "origin": "new production draft v003; not yet recorded",
+      "recording_status": "recorded; performance review pending",
+      "start_sec": 575.025,
+      "end_sec": 578.225,
+      "start_tc": "09:35.025",
+      "end_tc": "09:38.225",
+      "shot_id": "S10-P06",
+      "timing_basis": "planned edit slot; measured recording 2.554s; conform picture after review",
+      "role_id": "byte",
+      "voice_id": "wo6udizrrtpIxWGp2qJk",
+      "voice_name": "Northern Terry",
+      "recorded_duration_sec": 2.554195
+    }
+  ],
+  "shots": [
+    {
+      "shot_id": "S10-B01",
+      "description": "Overhead workbench",
+      "status": "source shot beat; detailed shot duration and coverage pending",
+      "duration_seconds": null
+    },
+    {
+      "shot_id": "S10-B02",
+      "description": "rotating bone device",
+      "status": "source shot beat; detailed shot duration and coverage pending",
+      "duration_seconds": null
+    },
+    {
+      "shot_id": "S10-B03",
+      "description": "Neon testing remote",
+      "status": "source shot beat; detailed shot duration and coverage pending",
+      "duration_seconds": null
+    },
+    {
+      "shot_id": "S10-B04",
+      "description": "Ghost checking stealth equipment",
+      "status": "source shot beat; detailed shot duration and coverage pending",
+      "duration_seconds": null
+    },
+    {
+      "shot_id": "S10-B05",
+      "description": "comedy test.",
+      "status": "source shot beat; detailed shot duration and coverage pending",
+      "duration_seconds": null
+    }
+  ],
+  "locations": [
+    {
+      "id": "aafc818847c1406d",
+      "title": "LOC04 - Engineering workshop",
+      "category": "Locations",
+      "group": "Cats",
+      "file": "LOC04-engineering-workshop-gpt26-v001.png",
+      "source": "Locations\\Cats\\LOC04 - Engineering workshop\\Reference Sheets\\LOC04-engineering-workshop-gpt26-v001.png",
+      "voice": ""
+    }
+  ],
+  "frames": [],
+  "assemblies": [
+    {
+      "id": "8d2fdb376654e0ba",
+      "title": "Scene 10 — complete dialogue review",
+      "scene": "Scene10",
+      "text": "All dialogue in script order. Dialogue-only review; action, effects and final picture timing remain separate.",
+      "duration_sec": 42.19156462585034,
+      "kind": "assembly",
+      "variant": "v003"
+    }
+  ],
+  "timed_shots": [
+    {
+      "shot_id": "S10-P01",
+      "camera_action": "Workshop overhead: camera, recorder and three decoys arranged in separate spaces.",
+      "sound_transition": "Small tool noises under assignment.",
+      "dialogue_ids": [
+        "S10-N01"
+      ],
+      "start_sec": 520,
+      "end_sec": 529.375,
+      "duration_sec": 9.375,
+      "scene_start_sec": 0,
+      "scene_end_sec": 9.375,
+      "start_tc": "08:40.000",
+      "end_tc": "08:49.375",
+      "status": "editorial plan; animation not yet produced",
+      "asset_requirements": {
+        "locations": [
+          "LOC04"
+        ],
+        "existing_reference_count": 1,
+        "new_image_needed": "camera-specific review still or approved matching frame; audit before generating",
+        "animation": "not generated; Higgsfield is for stills only",
+        "audio": "ElevenLabs dialogue, separate room tone/foley/music mix",
+        "special": "Preserve named character identities, set geometry and screen direction."
+      },
+      "speaking_roles": [
+        "trixie"
+      ],
+      "reference_pack": [
+        {
+          "id": "aafc818847c1406d",
+          "title": "LOC04 - Engineering workshop",
+          "url": "/library/aafc818847c1406d.jpg",
+          "purpose": "Primary set geometry"
+        },
+        {
+          "id": "51c0358d041cc3ba",
+          "title": "Trixie - CatGirl",
+          "url": "/library/51c0358d041cc3ba.jpg",
+          "purpose": "Visible character identity / framing context; do not render offscreen speakers"
+        },
+        {
+          "id": "d006767f6e8dd0f9",
+          "title": "PROP10-bone-decoy-remote-gpt26-v002",
+          "url": "/library/d006767f6e8dd0f9.jpg",
+          "purpose": "Visible prop"
+        },
+        {
+          "id": "522b0ca7d3be2688",
+          "title": "ACT02 — Surveillance kit",
+          "url": "/library/522b0ca7d3be2688.jpg",
+          "purpose": "Visible prop"
+        },
+        {
+          "id": "f87a6ca99fdecd7c",
+          "title": "PROP12-hackpad-datachip-gpt26-v001",
+          "url": "/library/f87a6ca99fdecd7c.jpg",
+          "purpose": "Visible prop"
+        }
+      ],
+      "reference_pack_count": 5,
+      "reference_overflow": [],
+      "wan_plan": {
+        "model": "WAN 3.0 Prime",
+        "provider": "Orbis official A",
+        "mode": "image-reference guidance using input_images",
+        "upload_image_count": 1,
+        "first_frame_status": "needs shot-specific composition and review",
+        "first_frame_id": null,
+        "reference_mode_cap": 10,
+        "cap_status": "confirmed from user-supplied Orbis official-A route document",
+        "reference_mode_sources": [
+          "https://orbiorbi.com/api/developer-docs/published/openplane-wan-3-0-prime-official-a"
+        ],
+        "audio_policy": "Default native audio; no documented audio-off field. Mute native video audio during production edit and use approved ElevenLabs dialogue.",
+        "requested_duration_seconds": 10,
+        "edit_duration_seconds": 9.375,
+        "note": "Upload one reviewed composed scene image as input_images reference. This is guidance, not a guaranteed locked first frame. Do not send unsupported first_frame or audio fields. Use public direct media URLs, never private studio URLs or other platform IDs.",
+        "model_id": "wan-3.0-prime",
+        "mixed_reference_limit": 15,
+        "image_limit": 10,
+        "audio_limit": 5,
+        "video_limit": 5,
+        "prompt_character_limit": 3000,
+        "api_image_field": "input_images",
+        "api_duration_field": "duration_sec"
+      }
+    },
+    {
+      "shot_id": "S10-P02",
+      "camera_action": "Byte–Trixie two-shot as she checks camera battery and storage.",
+      "sound_transition": "Camera power-up tone.",
+      "dialogue_ids": [
+        "S10-N02",
+        "S10-N03"
+      ],
+      "start_sec": 529.375,
+      "end_sec": 535.35,
+      "duration_sec": 5.975,
+      "scene_start_sec": 9.375,
+      "scene_end_sec": 15.35,
+      "start_tc": "08:49.375",
+      "end_tc": "08:55.350",
+      "status": "editorial plan; animation not yet produced",
+      "asset_requirements": {
+        "locations": [
+          "LOC04"
+        ],
+        "existing_reference_count": 1,
+        "new_image_needed": "camera-specific review still or approved matching frame; audit before generating",
+        "animation": "not generated; Higgsfield is for stills only",
+        "audio": "ElevenLabs dialogue, separate room tone/foley/music mix",
+        "special": "Preserve named character identities, set geometry and screen direction."
+      },
+      "speaking_roles": [
+        "byte",
+        "trixie"
+      ],
+      "reference_pack": [
+        {
+          "id": "aafc818847c1406d",
+          "title": "LOC04 - Engineering workshop",
+          "url": "/library/aafc818847c1406d.jpg",
+          "purpose": "Primary set geometry"
+        },
+        {
+          "id": "51c0358d041cc3ba",
+          "title": "Trixie - CatGirl",
+          "url": "/library/51c0358d041cc3ba.jpg",
+          "purpose": "Visible character identity / framing context; do not render offscreen speakers"
+        },
+        {
+          "id": "a23590fe66ebce01",
+          "title": "Byte",
+          "url": "/library/a23590fe66ebce01.jpg",
+          "purpose": "Visible character identity / framing context; do not render offscreen speakers"
+        },
+        {
+          "id": "522b0ca7d3be2688",
+          "title": "ACT02 — Surveillance kit",
+          "url": "/library/522b0ca7d3be2688.jpg",
+          "purpose": "Visible prop"
+        }
+      ],
+      "reference_pack_count": 4,
+      "reference_overflow": [],
+      "wan_plan": {
+        "model": "WAN 3.0 Prime",
+        "provider": "Orbis official A",
+        "mode": "image-reference guidance using input_images",
+        "upload_image_count": 1,
+        "first_frame_status": "needs shot-specific composition and review",
+        "first_frame_id": null,
+        "reference_mode_cap": 10,
+        "cap_status": "confirmed from user-supplied Orbis official-A route document",
+        "reference_mode_sources": [
+          "https://orbiorbi.com/api/developer-docs/published/openplane-wan-3-0-prime-official-a"
+        ],
+        "audio_policy": "Default native audio; no documented audio-off field. Mute native video audio during production edit and use approved ElevenLabs dialogue.",
+        "requested_duration_seconds": 6,
+        "edit_duration_seconds": 5.975,
+        "note": "Upload one reviewed composed scene image as input_images reference. This is guidance, not a guaranteed locked first frame. Do not send unsupported first_frame or audio fields. Use public direct media URLs, never private studio URLs or other platform IDs.",
+        "model_id": "wan-3.0-prime",
+        "mixed_reference_limit": 15,
+        "image_limit": 10,
+        "audio_limit": 5,
+        "video_limit": 5,
+        "prompt_character_limit": 3000,
+        "api_image_field": "input_images",
+        "api_duration_field": "duration_sec"
+      }
+    },
+    {
+      "shot_id": "S10-P03",
+      "camera_action": "Neon demonstrates one bone remote, points to off switch.",
+      "sound_transition": "Decoy squeaks once; comic beat.",
+      "dialogue_ids": [
+        "S10-D01",
+        "S10-D02",
+        "S10-D03"
+      ],
+      "start_sec": 535.35,
+      "end_sec": 546.325,
+      "duration_sec": 10.975,
+      "scene_start_sec": 15.35,
+      "scene_end_sec": 26.325,
+      "start_tc": "08:55.350",
+      "end_tc": "09:06.325",
+      "status": "editorial plan; animation not yet produced",
+      "asset_requirements": {
+        "locations": [
+          "LOC04"
+        ],
+        "existing_reference_count": 1,
+        "new_image_needed": "camera-specific review still or approved matching frame; audit before generating",
+        "animation": "not generated; Higgsfield is for stills only",
+        "audio": "ElevenLabs dialogue, separate room tone/foley/music mix",
+        "special": "Preserve named character identities, set geometry and screen direction."
+      },
+      "speaking_roles": [
+        "byte",
+        "neon"
+      ],
+      "reference_pack": [
+        {
+          "id": "aafc818847c1406d",
+          "title": "LOC04 - Engineering workshop",
+          "url": "/library/aafc818847c1406d.jpg",
+          "purpose": "Primary set geometry"
+        },
+        {
+          "id": "c59f876dfb3540bb",
+          "title": "Neon",
+          "url": "/library/c59f876dfb3540bb.jpg",
+          "purpose": "Visible character identity / framing context; do not render offscreen speakers"
+        },
+        {
+          "id": "a23590fe66ebce01",
+          "title": "Byte",
+          "url": "/library/a23590fe66ebce01.jpg",
+          "purpose": "Visible character identity / framing context; do not render offscreen speakers"
+        },
+        {
+          "id": "d006767f6e8dd0f9",
+          "title": "PROP10-bone-decoy-remote-gpt26-v002",
+          "url": "/library/d006767f6e8dd0f9.jpg",
+          "purpose": "Visible prop"
+        }
+      ],
+      "reference_pack_count": 4,
+      "reference_overflow": [],
+      "wan_plan": {
+        "model": "WAN 3.0 Prime",
+        "provider": "Orbis official A",
+        "mode": "image-reference guidance using input_images",
+        "upload_image_count": 1,
+        "first_frame_status": "needs shot-specific composition and review",
+        "first_frame_id": null,
+        "reference_mode_cap": 10,
+        "cap_status": "confirmed from user-supplied Orbis official-A route document",
+        "reference_mode_sources": [
+          "https://orbiorbi.com/api/developer-docs/published/openplane-wan-3-0-prime-official-a"
+        ],
+        "audio_policy": "Default native audio; no documented audio-off field. Mute native video audio during production edit and use approved ElevenLabs dialogue.",
+        "requested_duration_seconds": 11,
+        "edit_duration_seconds": 10.975,
+        "note": "Upload one reviewed composed scene image as input_images reference. This is guidance, not a guaranteed locked first frame. Do not send unsupported first_frame or audio fields. Use public direct media URLs, never private studio URLs or other platform IDs.",
+        "model_id": "wan-3.0-prime",
+        "mixed_reference_limit": 15,
+        "image_limit": 10,
+        "audio_limit": 5,
+        "video_limit": 5,
+        "prompt_character_limit": 3000,
+        "api_image_field": "input_images",
+        "api_duration_field": "duration_sec"
+      }
+    },
+    {
+      "shot_id": "S10-P04",
+      "camera_action": "Close remote and bone; Neon warns while Onyx accidentally starts demonstration.",
+      "sound_transition": "Bone rolls across bench, no explosive action.",
+      "dialogue_ids": [
+        "S10-N04",
+        "S10-N05"
+      ],
+      "start_sec": 546.325,
+      "end_sec": 558.7,
+      "duration_sec": 12.375,
+      "scene_start_sec": 26.325,
+      "scene_end_sec": 38.7,
+      "start_tc": "09:06.325",
+      "end_tc": "09:18.700",
+      "status": "editorial plan; animation not yet produced",
+      "asset_requirements": {
+        "locations": [
+          "LOC04"
+        ],
+        "existing_reference_count": 1,
+        "new_image_needed": "camera-specific review still or approved matching frame; audit before generating",
+        "animation": "not generated; Higgsfield is for stills only",
+        "audio": "ElevenLabs dialogue, separate room tone/foley/music mix",
+        "special": "Preserve named character identities, set geometry and screen direction."
+      },
+      "speaking_roles": [
+        "neon",
+        "onyx"
+      ],
+      "reference_pack": [
+        {
+          "id": "aafc818847c1406d",
+          "title": "LOC04 - Engineering workshop",
+          "url": "/library/aafc818847c1406d.jpg",
+          "purpose": "Primary set geometry"
+        },
+        {
+          "id": "8ac469710ff37bec",
+          "title": "Onyx",
+          "url": "/library/8ac469710ff37bec.jpg",
+          "purpose": "Visible character identity / framing context; do not render offscreen speakers"
+        },
+        {
+          "id": "c59f876dfb3540bb",
+          "title": "Neon",
+          "url": "/library/c59f876dfb3540bb.jpg",
+          "purpose": "Visible character identity / framing context; do not render offscreen speakers"
+        },
+        {
+          "id": "d006767f6e8dd0f9",
+          "title": "PROP10-bone-decoy-remote-gpt26-v002",
+          "url": "/library/d006767f6e8dd0f9.jpg",
+          "purpose": "Visible prop"
+        }
+      ],
+      "reference_pack_count": 4,
+      "reference_overflow": [],
+      "wan_plan": {
+        "model": "WAN 3.0 Prime",
+        "provider": "Orbis official A",
+        "mode": "image-reference guidance using input_images",
+        "upload_image_count": 1,
+        "first_frame_status": "needs shot-specific composition and review",
+        "first_frame_id": null,
+        "reference_mode_cap": 10,
+        "cap_status": "confirmed from user-supplied Orbis official-A route document",
+        "reference_mode_sources": [
+          "https://orbiorbi.com/api/developer-docs/published/openplane-wan-3-0-prime-official-a"
+        ],
+        "audio_policy": "Default native audio; no documented audio-off field. Mute native video audio during production edit and use approved ElevenLabs dialogue.",
+        "requested_duration_seconds": 13,
+        "edit_duration_seconds": 12.375,
+        "note": "Upload one reviewed composed scene image as input_images reference. This is guidance, not a guaranteed locked first frame. Do not send unsupported first_frame or audio fields. Use public direct media URLs, never private studio URLs or other platform IDs.",
+        "model_id": "wan-3.0-prime",
+        "mixed_reference_limit": 15,
+        "image_limit": 10,
+        "audio_limit": 5,
+        "video_limit": 5,
+        "prompt_character_limit": 3000,
+        "api_image_field": "input_images",
+        "api_duration_field": "duration_sec"
+      }
+    },
+    {
+      "shot_id": "S10-P05",
+      "camera_action": "Onyx watches decoy turn a corner; Ghost stops it before doorway.",
+      "sound_transition": "Remote off click; wheels wind down.",
+      "dialogue_ids": [
+        "S10-D04",
+        "S10-N06"
+      ],
+      "start_sec": 558.7,
+      "end_sec": 569.075,
+      "duration_sec": 10.375,
+      "scene_start_sec": 38.7,
+      "scene_end_sec": 49.075,
+      "start_tc": "09:18.700",
+      "end_tc": "09:29.075",
+      "status": "editorial plan; animation not yet produced",
+      "asset_requirements": {
+        "locations": [
+          "LOC04"
+        ],
+        "existing_reference_count": 1,
+        "new_image_needed": "camera-specific review still or approved matching frame; audit before generating",
+        "animation": "not generated; Higgsfield is for stills only",
+        "audio": "ElevenLabs dialogue, separate room tone/foley/music mix",
+        "special": "Preserve named character identities, set geometry and screen direction."
+      },
+      "speaking_roles": [
+        "ghost",
+        "onyx"
+      ],
+      "reference_pack": [
+        {
+          "id": "aafc818847c1406d",
+          "title": "LOC04 - Engineering workshop",
+          "url": "/library/aafc818847c1406d.jpg",
+          "purpose": "Primary set geometry"
+        },
+        {
+          "id": "61dc338e08cb2385",
+          "title": "Ghost",
+          "url": "/library/61dc338e08cb2385.jpg",
+          "purpose": "Visible character identity / framing context; do not render offscreen speakers"
+        },
+        {
+          "id": "8ac469710ff37bec",
+          "title": "Onyx",
+          "url": "/library/8ac469710ff37bec.jpg",
+          "purpose": "Visible character identity / framing context; do not render offscreen speakers"
+        },
+        {
+          "id": "d006767f6e8dd0f9",
+          "title": "PROP10-bone-decoy-remote-gpt26-v002",
+          "url": "/library/d006767f6e8dd0f9.jpg",
+          "purpose": "Visible prop"
+        }
+      ],
+      "reference_pack_count": 4,
+      "reference_overflow": [],
+      "wan_plan": {
+        "model": "WAN 3.0 Prime",
+        "provider": "Orbis official A",
+        "mode": "image-reference guidance using input_images",
+        "upload_image_count": 1,
+        "first_frame_status": "needs shot-specific composition and review",
+        "first_frame_id": null,
+        "reference_mode_cap": 10,
+        "cap_status": "confirmed from user-supplied Orbis official-A route document",
+        "reference_mode_sources": [
+          "https://orbiorbi.com/api/developer-docs/published/openplane-wan-3-0-prime-official-a"
+        ],
+        "audio_policy": "Default native audio; no documented audio-off field. Mute native video audio during production edit and use approved ElevenLabs dialogue.",
+        "requested_duration_seconds": 11,
+        "edit_duration_seconds": 10.375,
+        "note": "Upload one reviewed composed scene image as input_images reference. This is guidance, not a guaranteed locked first frame. Do not send unsupported first_frame or audio fields. Use public direct media URLs, never private studio URLs or other platform IDs.",
+        "model_id": "wan-3.0-prime",
+        "mixed_reference_limit": 15,
+        "image_limit": 10,
+        "audio_limit": 5,
+        "video_limit": 5,
+        "prompt_character_limit": 3000,
+        "api_image_field": "input_images",
+        "api_duration_field": "duration_sec"
+      }
+    },
+    {
+      "shot_id": "S10-P06",
+      "camera_action": "Neon separates two entry decoys from one marked reserve; Byte smirks.",
+      "sound_transition": "Bag zip; light comic sting.",
+      "dialogue_ids": [
+        "S10-N07",
+        "S10-N08"
+      ],
+      "start_sec": 569.075,
+      "end_sec": 579.85,
+      "duration_sec": 10.775,
+      "scene_start_sec": 49.075,
+      "scene_end_sec": 59.85,
+      "start_tc": "09:29.075",
+      "end_tc": "09:39.850",
+      "status": "editorial plan; animation not yet produced",
+      "asset_requirements": {
+        "locations": [
+          "LOC04"
+        ],
+        "existing_reference_count": 1,
+        "new_image_needed": "camera-specific review still or approved matching frame; audit before generating",
+        "animation": "not generated; Higgsfield is for stills only",
+        "audio": "ElevenLabs dialogue, separate room tone/foley/music mix",
+        "special": "Preserve named character identities, set geometry and screen direction."
+      },
+      "speaking_roles": [
+        "byte",
+        "neon"
+      ],
+      "reference_pack": [
+        {
+          "id": "aafc818847c1406d",
+          "title": "LOC04 - Engineering workshop",
+          "url": "/library/aafc818847c1406d.jpg",
+          "purpose": "Primary set geometry"
+        },
+        {
+          "id": "a23590fe66ebce01",
+          "title": "Byte",
+          "url": "/library/a23590fe66ebce01.jpg",
+          "purpose": "Visible character identity / framing context; do not render offscreen speakers"
+        },
+        {
+          "id": "c59f876dfb3540bb",
+          "title": "Neon",
+          "url": "/library/c59f876dfb3540bb.jpg",
+          "purpose": "Visible character identity / framing context; do not render offscreen speakers"
+        },
+        {
+          "id": "d006767f6e8dd0f9",
+          "title": "PROP10-bone-decoy-remote-gpt26-v002",
+          "url": "/library/d006767f6e8dd0f9.jpg",
+          "purpose": "Visible prop"
+        }
+      ],
+      "reference_pack_count": 4,
+      "reference_overflow": [],
+      "wan_plan": {
+        "model": "WAN 3.0 Prime",
+        "provider": "Orbis official A",
+        "mode": "image-reference guidance using input_images",
+        "upload_image_count": 1,
+        "first_frame_status": "needs shot-specific composition and review",
+        "first_frame_id": null,
+        "reference_mode_cap": 10,
+        "cap_status": "confirmed from user-supplied Orbis official-A route document",
+        "reference_mode_sources": [
+          "https://orbiorbi.com/api/developer-docs/published/openplane-wan-3-0-prime-official-a"
+        ],
+        "audio_policy": "Default native audio; no documented audio-off field. Mute native video audio during production edit and use approved ElevenLabs dialogue.",
+        "requested_duration_seconds": 11,
+        "edit_duration_seconds": 10.775,
+        "note": "Upload one reviewed composed scene image as input_images reference. This is guidance, not a guaranteed locked first frame. Do not send unsupported first_frame or audio fields. Use public direct media URLs, never private studio URLs or other platform IDs.",
+        "model_id": "wan-3.0-prime",
+        "mixed_reference_limit": 15,
+        "image_limit": 10,
+        "audio_limit": 5,
+        "video_limit": 5,
+        "prompt_character_limit": 3000,
+        "api_image_field": "input_images",
+        "api_duration_field": "duration_sec"
+      }
+    },
+    {
+      "shot_id": "S10-P07",
+      "camera_action": "Five crew leave bench in assigned roles; insert recorder running test file.",
+      "sound_transition": "Footsteps and exterior restaurant ambience bridge.",
+      "dialogue_ids": [],
+      "start_sec": 579.85,
+      "end_sec": 585.0,
+      "duration_sec": 5.15,
+      "scene_start_sec": 59.85,
+      "scene_end_sec": 65.0,
+      "start_tc": "09:39.850",
+      "end_tc": "09:45.000",
+      "status": "editorial plan; animation not yet produced",
+      "asset_requirements": {
+        "locations": [
+          "LOC04"
+        ],
+        "existing_reference_count": 1,
+        "new_image_needed": "camera-specific review still or approved matching frame; audit before generating",
+        "animation": "not generated; Higgsfield is for stills only",
+        "audio": "ElevenLabs dialogue, separate room tone/foley/music mix",
+        "special": "Preserve named character identities, set geometry and screen direction."
+      },
+      "speaking_roles": [],
+      "reference_pack": [
+        {
+          "id": "aafc818847c1406d",
+          "title": "LOC04 - Engineering workshop",
+          "url": "/library/aafc818847c1406d.jpg",
+          "purpose": "Primary set geometry"
+        },
+        {
+          "id": "51c0358d041cc3ba",
+          "title": "Trixie - CatGirl",
+          "url": "/library/51c0358d041cc3ba.jpg",
+          "purpose": "Visible character identity / framing context; do not render offscreen speakers"
+        },
+        {
+          "id": "a23590fe66ebce01",
+          "title": "Byte",
+          "url": "/library/a23590fe66ebce01.jpg",
+          "purpose": "Visible character identity / framing context; do not render offscreen speakers"
+        },
+        {
+          "id": "61dc338e08cb2385",
+          "title": "Ghost",
+          "url": "/library/61dc338e08cb2385.jpg",
+          "purpose": "Visible character identity / framing context; do not render offscreen speakers"
+        },
+        {
+          "id": "8ac469710ff37bec",
+          "title": "Onyx",
+          "url": "/library/8ac469710ff37bec.jpg",
+          "purpose": "Visible character identity / framing context; do not render offscreen speakers"
+        },
+        {
+          "id": "c59f876dfb3540bb",
+          "title": "Neon",
+          "url": "/library/c59f876dfb3540bb.jpg",
+          "purpose": "Visible character identity / framing context; do not render offscreen speakers"
+        },
+        {
+          "id": "522b0ca7d3be2688",
+          "title": "ACT02 — Surveillance kit",
+          "url": "/library/522b0ca7d3be2688.jpg",
+          "purpose": "Visible prop"
+        },
+        {
+          "id": "f87a6ca99fdecd7c",
+          "title": "PROP12-hackpad-datachip-gpt26-v001",
+          "url": "/library/f87a6ca99fdecd7c.jpg",
+          "purpose": "Visible prop"
+        }
+      ],
+      "reference_pack_count": 8,
+      "reference_overflow": [],
+      "wan_plan": {
+        "model": "WAN 3.0 Prime",
+        "provider": "Orbis official A",
+        "mode": "image-reference guidance using input_images",
+        "upload_image_count": 1,
+        "first_frame_status": "needs shot-specific composition and review",
+        "first_frame_id": null,
+        "reference_mode_cap": 10,
+        "cap_status": "confirmed from user-supplied Orbis official-A route document",
+        "reference_mode_sources": [
+          "https://orbiorbi.com/api/developer-docs/published/openplane-wan-3-0-prime-official-a"
+        ],
+        "audio_policy": "Default native audio; no documented audio-off field. Mute native video audio during production edit and use approved ElevenLabs dialogue.",
+        "requested_duration_seconds": 6,
+        "edit_duration_seconds": 5.15,
+        "note": "Upload one reviewed composed scene image as input_images reference. This is guidance, not a guaranteed locked first frame. Do not send unsupported first_frame or audio fields. Use public direct media URLs, never private studio URLs or other platform IDs.",
+        "model_id": "wan-3.0-prime",
+        "mixed_reference_limit": 15,
+        "image_limit": 10,
+        "audio_limit": 5,
+        "video_limit": 5,
+        "prompt_character_limit": 3000,
+        "api_image_field": "input_images",
+        "api_duration_field": "duration_sec"
+      }
+    }
+  ],
+  "spoken_words": 120,
+  "recorded_lines": 12,
+  "timing_note": "Exact editorial allocation. Existing takes use measured file durations; unrecorded lines use 150 wpm estimates. Action plays under dialogue where indicated. No time stretching or blank padding.",
+  "remaining_work": [
+    "Build camera-specific stills from established references; review identity and geography.",
+    "Animate approved shots outside Higgsfield, then conform to this timeline.",
+    "Mix room tone, foley, music and dialogue; verify a full-speed table read and animatic.",
+    "Review recorded performances; conform dialogue timing to picture; mix effects and score."
+  ],
+  "continuity": "Keep exactly five core cats; match current character sheets and fixed location geometry. Goodboy Global spelling throughout.",
+  "generation_references": [
+    {
+      "id": "aafc818847c1406d",
+      "title": "LOC04 - Engineering workshop",
+      "filename": "LOC04-engineering-workshop-gpt26-v001.png",
+      "kind": "Location",
+      "purpose": "Set geography, doors, windows and camera axis.",
+      "url": "/library/aafc818847c1406d.jpg",
+      "thumbnail": "/library/aafc818847c1406d.webp",
+      "source": "Locations\\Cats\\LOC04 - Engineering workshop\\Reference Sheets\\LOC04-engineering-workshop-gpt26-v001.png",
+      "status": "existing reference; review before generation"
+    },
+    {
+      "id": "51c0358d041cc3ba",
+      "title": "Trixie - CatGirl",
+      "filename": "CREW01-trixie-character-master-gpt26-v001.png",
+      "kind": "Character",
+      "purpose": "Preserve identity, proportions, outfit and accessories. Include only actors visible in the shot.",
+      "url": "/library/51c0358d041cc3ba.jpg",
+      "thumbnail": "/library/51c0358d041cc3ba.webp",
+      "source": "Characters\\Cats - Resistance\\Trixie - CatGirl\\Reference Sheets\\CREW01-trixie-character-master-gpt26-v001.png",
+      "status": "existing reference; review before generation"
+    },
+    {
+      "id": "a23590fe66ebce01",
+      "title": "Byte",
+      "filename": "CREW02-byte-character-master-gpt26-v001.png",
+      "kind": "Character",
+      "purpose": "Preserve identity, proportions, outfit and accessories. Include only actors visible in the shot.",
+      "url": "/library/a23590fe66ebce01.jpg",
+      "thumbnail": "/library/a23590fe66ebce01.webp",
+      "source": "Characters\\Cats - Resistance\\Byte\\Reference Sheets\\CREW02-byte-character-master-gpt26-v001.png",
+      "status": "existing reference; review before generation"
+    },
+    {
+      "id": "61dc338e08cb2385",
+      "title": "Ghost",
+      "filename": "CREW03-ghost-character-master-gpt26-v001.png",
+      "kind": "Character",
+      "purpose": "Preserve identity, proportions, outfit and accessories. Include only actors visible in the shot.",
+      "url": "/library/61dc338e08cb2385.jpg",
+      "thumbnail": "/library/61dc338e08cb2385.webp",
+      "source": "Characters\\Cats - Resistance\\Ghost\\Reference Sheets\\CREW03-ghost-character-master-gpt26-v001.png",
+      "status": "existing reference; review before generation"
+    },
+    {
+      "id": "8ac469710ff37bec",
+      "title": "Onyx",
+      "filename": "CREW04-onyx-character-master-gpt26-v001.png",
+      "kind": "Character",
+      "purpose": "Preserve identity, proportions, outfit and accessories. Include only actors visible in the shot.",
+      "url": "/library/8ac469710ff37bec.jpg",
+      "thumbnail": "/library/8ac469710ff37bec.webp",
+      "source": "Characters\\Cats - Resistance\\Onyx\\Reference Sheets\\CREW04-onyx-character-master-gpt26-v001.png",
+      "status": "existing reference; review before generation"
+    },
+    {
+      "id": "c59f876dfb3540bb",
+      "title": "Neon",
+      "filename": "CREW05-neon-character-master-gpt26-v001.png",
+      "kind": "Character",
+      "purpose": "Preserve identity, proportions, outfit and accessories. Include only actors visible in the shot.",
+      "url": "/library/c59f876dfb3540bb.jpg",
+      "thumbnail": "/library/c59f876dfb3540bb.webp",
+      "source": "Characters\\Cats - Resistance\\Neon\\Reference Sheets\\CREW05-neon-character-master-gpt26-v001.png",
+      "status": "existing reference; review before generation"
+    },
+    {
+      "id": "d006767f6e8dd0f9",
+      "title": "PROP10-bone-decoy-remote-gpt26-v002",
+      "filename": "PROP10-bone-decoy-remote-gpt26-v002.png",
+      "kind": "Prop / graphic",
+      "purpose": "Preserve prop shape, material, controls and scale.",
+      "url": "/library/d006767f6e8dd0f9.jpg",
+      "thumbnail": "/library/d006767f6e8dd0f9.webp",
+      "source": "Props\\Cats\\Props\\PROP10-bone-decoy-remote-gpt26-v002.png",
+      "status": "existing reference; review before generation"
+    },
+    {
+      "id": "522b0ca7d3be2688",
+      "title": "ACT02 — Surveillance kit",
+      "filename": "ACT02-prop-master-gpt26-v001.png",
+      "kind": "Prop / graphic",
+      "purpose": "Preserve prop shape, material, controls and scale.",
+      "url": "/library/522b0ca7d3be2688.jpg",
+      "thumbnail": "/library/522b0ca7d3be2688.webp",
+      "source": "Props\\Cats\\Action Props\\ACT02-prop-master-gpt26-v001.png",
+      "status": "existing reference; review before generation"
+    },
+    {
+      "id": "f87a6ca99fdecd7c",
+      "title": "PROP12-hackpad-datachip-gpt26-v001",
+      "filename": "PROP12-hackpad-datachip-gpt26-v001.png",
+      "kind": "Prop / graphic",
+      "purpose": "Preserve prop shape, material, controls and scale.",
+      "url": "/library/f87a6ca99fdecd7c.jpg",
+      "thumbnail": "/library/f87a6ca99fdecd7c.webp",
+      "source": "Props\\Cats\\Props\\PROP12-hackpad-datachip-gpt26-v001.png",
+      "status": "existing reference; review before generation"
+    }
+  ],
+  "missing_reference_requirements": [
+    "Final shot-specific composed first frame for each timed shot; existing drafts require review."
+  ],
+  "sound_effects": [
+    {
+      "id": "465b4c45475facca",
+      "title": "FX01-hideout-room"
+    },
+    {
+      "id": "fe45734b5df27e85",
+      "title": "FX09-bone-decoy"
+    }
+  ]
+}

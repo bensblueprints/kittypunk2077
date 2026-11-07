@@ -1,0 +1,226 @@
+﻿scene,id,speaker,text,voice_id,start_sec,end_sec,shot_id
+1,S01-D01,Byte,"Left! LEFT! That is a wall, Trixie!",wo6udizrrtpIxWGp2qJk,12.0,14.461,S01-P03
+1,S01-D02,Trixie,Relax. I found a shortcut.,dmWfLQZJq7wNPv9WmtiM,14.761,16.34,S01-P03
+1,S01-D03,Byte,Through the bank we just robbed?,wo6udizrrtpIxWGp2qJk,16.64,18.266,S01-P03
+1,S01-D04,Neon,My controller has input lag. I pressed jump yesterday.,4e32WqNVWRquDa1OcRYZ,18.566,21.816,S01-P04
+1,S01-D05,Onyx,You are in a car. Why are you pressing jump?,uq0HIbNZKn11Hs5ifEdd,22.116,24.81,S01-P04
+1,S01-D06,Neon,Because she keeps driving into buildings!,4e32WqNVWRquDa1OcRYZ,25.11,27.478,S01-P04
+1,S01-D07,Trixie,Nobody appreciates experimental driving.,dmWfLQZJq7wNPv9WmtiM,27.778,29.775,S01-P05
+1,S01-D08,Byte,The police appreciate it. All six helicopters.,wo6udizrrtpIxWGp2qJk,30.075,33.001,S01-P05
+1,S01-D09,Onyx,One more crash and somebody is going through that window.,uq0HIbNZKn11Hs5ifEdd,33.301,36.32,S01-P06
+1,S01-D10,Neon,In the game?,4e32WqNVWRquDa1OcRYZ,36.62,37.548,S01-P06
+1,S01-D11,Onyx,Keep testing me.,uq0HIbNZKn11Hs5ifEdd,37.848,39.149,S01-P06
+1,S01-D12,Ghost,I finished the mission.,7fBwqIVI6wI1B4MuKqQi,39.449,40.796,S01-P07
+1,S01-D13,Trixie,How? We are still inside the bank.,dmWfLQZJq7wNPv9WmtiM,41.096,43.464,S01-P07
+1,S01-D14,Ghost,I walked out the back. With the money.,7fBwqIVI6wI1B4MuKqQi,43.764,46.225,S01-P07
+1,S01-D15,Byte,You left us?,wo6udizrrtpIxWGp2qJk,46.525,47.454,S01-P08
+1,S01-D16,Ghost,You said cover the exit. I covered my exit.,7fBwqIVI6wI1B4MuKqQi,47.754,50.819,S01-P08
+1,S01-D17,Trixie,Rematch. Nobody leaves the couch until we win.,dmWfLQZJq7wNPv9WmtiM,51.119,53.58,S01-P08
+2,S02-D01,Trixie,What the fuck? We were almost done!,dmWfLQZJq7wNPv9WmtiM,73.8,75.75,S02-P02
+2,S02-D02,Byte,Why do the dogs always have to interrupt our fun?,wo6udizrrtpIxWGp2qJk,75.95,78.319,S02-P02
+2,S02-D03,Neon,They're literally stealing our playtime.,4e32WqNVWRquDa1OcRYZ,79.344,81.573,S02-P03
+2,S02-N01,Neon,"The console is still running. Look, my controller is connected. Something is taking over the television.",4e32WqNVWRquDa1OcRYZ,81.773,88.173,S02-P03
+2,S02-N02,Byte,Great. Even our screen has a landlord.,wo6udizrrtpIxWGp2qJk,89.198,91.998,S02-P04
+2,S02-N03,Trixie,"Try another channel. We paid for the game, not a lecture.",dmWfLQZJq7wNPv9WmtiM,92.198,96.598,S02-P04
+2,S02-N04,Ghost,Same signal on every channel. This is a district-wide override.,7fBwqIVI6wI1B4MuKqQi,97.623,101.623,S02-P05
+2,S02-D04,Onyx,"If this is another mandatory obedience announcement, I'm gonna lose my shit.",uq0HIbNZKn11Hs5ifEdd,102.648,106.828,S02-P06
+2,S02-N05,Onyx,"They can fix every television at once, but not the lift in our building.",uq0HIbNZKn11Hs5ifEdd,107.028,112.628,S02-P06
+2,S02-N06,Ghost,That is not a fault. Somebody wants our attention.,7fBwqIVI6wI1B4MuKqQi,113.653,117.253,S02-P07
+2,S02-D05,Ghost,Shh. Listen.,7fBwqIVI6wI1B4MuKqQi,117.453,119.125,S02-P07
+3,S03-D01,Barkington,"Citizens of Districts Seven through Twelve. Due to an unprecedented salmon supply emergency, you are advised to acquire no less than thirty days of fresh salmon immediately. Goodboy Global thanks you for your obedience.",bwCXcoVxWNYMlC6Esa8u,125.574,143.082,S03-P02
+3,S03-N01,Neon,Seven through Twelve. Why are the first six districts missing from that map?,4e32WqNVWRquDa1OcRYZ,144.994,150.194,S03-P03
+3,S03-N02,Ghost,"Save the broadcast. The original file, with the time on it.",7fBwqIVI6wI1B4MuKqQi,150.394,154.794,S03-P03
+3,S03-D02,Byte,Thirty days? I can't afford thirty minutes.,wo6udizrrtpIxWGp2qJk,156.706,159.028,S03-P04
+3,S03-D03,Trixie,Something smells fishy.,dmWfLQZJq7wNPv9WmtiM,159.228,160.621,S03-P04
+3,S03-D04,Onyx,It's literally fish.,uq0HIbNZKn11Hs5ifEdd,160.821,162.214,S03-P04
+3,S03-N03,Trixie,We check the shop before we believe any of this.,dmWfLQZJq7wNPv9WmtiM,164.126,168.126,S03-P05
+3,S03-N04,Byte,With what money? The emergency does not come with an emergency wallet.,wo6udizrrtpIxWGp2qJk,168.326,173.126,S03-P05
+3,S03-N05,Trixie,"Bring your scanner. We need prices, not another argument.",dmWfLQZJq7wNPv9WmtiM,175.038,178.638,S03-P06
+3,S03-N06,Onyx,I will keep the others here. Tell us what you find.,uq0HIbNZKn11Hs5ifEdd,178.838,183.238,S03-P06
+4,S04-N01,Byte,That queue was not here ten minutes ago. They have not even opened the second till.,wo6udizrrtpIxWGp2qJk,185.15,191.55,S04-P01
+4,S04-D01,Byte,You think there's really a shortage?,wo6udizrrtpIxWGp2qJk,194.885,196.557,S04-P02
+4,S04-D02,Trixie,I think someone wants us to believe there is.,dmWfLQZJq7wNPv9WmtiM,196.757,198.893,S04-P02
+4,S04-N02,Trixie,Look at them. Everyone heard the same warning and ran for the same shelf.,dmWfLQZJq7wNPv9WmtiM,199.093,204.693,S04-P02
+4,S04-N03,Civilian cat,Please. That is the last tin. My little one has not eaten.,b5RPB35vTODb3BEmR3Fc,208.028,212.828,S04-P03
+4,S04-N04,Trixie,Hey. There is room for both of you. Fighting each other will not fill the freezer.,dmWfLQZJq7wNPv9WmtiM,213.028,219.428,S04-P03
+4,S04-N05,Byte,The board says fresh delivery this morning. Why are they already rationing it?,wo6udizrrtpIxWGp2qJk,222.762,227.962,S04-P04
+4,S04-N06,Trixie,Photograph that notice. Let us see what changed inside.,dmWfLQZJq7wNPv9WmtiM,228.162,231.762,S04-P04
+4,S04-D03,Byte,So... we're not getting snacks?,wo6udizrrtpIxWGp2qJk,235.097,236.815,S04-P05
+5,S05-D01,Byte,Thirty bucks for a piece of fish? Last week it was ten!,wo6udizrrtpIxWGp2qJk,249.99,253.148,S05-P02
+5,S05-D02,Trixie,Check the price history. When did it change?,dmWfLQZJq7wNPv9WmtiM,253.348,255.252,S05-P02
+5,S05-D03,Byte,Before the broadcast. They raised it before anyone knew there was an emergency.,wo6udizrrtpIxWGp2qJk,259.372,263.644,S05-P03
+5,S05-D04,Trixie,They knew. We were the last ones told.,dmWfLQZJq7wNPv9WmtiM,263.844,266.538,S05-P03
+5,S05-D05,Byte,"Two packs left. At this price, we can afford to look at one.",wo6udizrrtpIxWGp2qJk,270.658,274.002,S05-P04
+5,S05-D06,Trixie,They are manufacturing panic.,dmWfLQZJq7wNPv9WmtiM,274.202,275.827,S05-P04
+5,S05-D07,Byte,"Well, it is working. I am panicking.",wo6udizrrtpIxWGp2qJk,276.027,278.163,S05-P04
+5,S05-D08,Trixie,Save the timestamp. And the old price. We need something people can check.,dmWfLQZJq7wNPv9WmtiM,282.283,286.834,S05-P05
+5,S05-D09,Byte,Done. Apparently dinner now comes with an investigation.,wo6udizrrtpIxWGp2qJk,287.034,290.192,S05-P05
+5,S05-D10,Trixie,We are going to tell the whole district.,dmWfLQZJq7wNPv9WmtiM,294.312,296.03,S05-P06
+6,S06-D01,Trixie,They tripled the price before they announced the shortage!,dmWfLQZJq7wNPv9WmtiM,300.15,303.75,S06-P01
+6,S06-D02,Random citizen,Those bastards! I sold my litter box to buy dinner!,DODLEQrClDo8wCz460ld,304.71,308.71,S06-P02
+6,S06-D03,Byte,"Okay, that's a personal budgeting problem.",wo6udizrrtpIxWGp2qJk,308.91,311.31,S06-P02
+6,S06-N01,Byte,Bad joke. Sorry. Keep your receipt; it can help us prove when the price changed.,wo6udizrrtpIxWGp2qJk,311.51,317.51,S06-P02
+6,S06-N02,Neon,I can put the two timestamps side by side. Big enough for the back of the market.,4e32WqNVWRquDa1OcRYZ,318.47,325.27,S06-P03
+6,S06-N03,Ghost,"Hide the customers’ names. We need prices, not a list of people for the patrols.",7fBwqIVI6wI1B4MuKqQi,326.23,332.23,S06-P04
+6,S06-N04,Trixie,"If you bought fish today, compare your receipt. Do not take our word for it.",dmWfLQZJq7wNPv9WmtiM,333.19,339.19,S06-P05
+6,S06-N05,Onyx,Leave a path through the crowd. People still need to get home.,uq0HIbNZKn11Hs5ifEdd,339.39,344.19,S06-P05
+7,S07-R01,Trixie,"Everyone, listen up. All five of us are here because this shortage affects every family in District Seven.",dmWfLQZJq7wNPv9WmtiM,345.65,351.316,S07-P01
+7,S07-D01,Trixie,"They think we're stupid! They think they can take our food, triple the price, and tell us to be grateful!",dmWfLQZJq7wNPv9WmtiM,351.516,357.367,S07-P02
+7,S07-N01,Byte,"Here is yesterday’s price. Here is this morning’s. Same shop, same pack, three times the money.",wo6udizrrtpIxWGp2qJk,357.567,363.511,S07-P02
+7,S07-N02,Ghost,This proves the timing. It does not tell us where the fish went. We still need the shipping records.,7fBwqIVI6wI1B4MuKqQi,363.711,369.563,S07-P03
+7,S07-N03,Trixie,Then we ask for them. Every district deserves to know who gets fed and who gets left out.,dmWfLQZJq7wNPv9WmtiM,369.763,374.964,S07-P04
+7,S07-N04,Neon,"I have mirrored the receipts. If this screen goes dark, the evidence stays online.",4e32WqNVWRquDa1OcRYZ,375.164,379.39,S07-P04
+7,S07-N05,Onyx,"And nobody smashes the stalls. These people are our neighbors, not the people setting the prices.",uq0HIbNZKn11Hs5ifEdd,379.59,385.534,S07-P04
+7,S07-D02,Crowd,NO MORE BONES! GIVE US SALMON!,DODLEQrClDo8wCz460ld,385.734,388.149,S07-P05
+7,S07-D03,Onyx,That's the dumbest chant I've ever heard.,uq0HIbNZKn11Hs5ifEdd,388.349,390.346,S07-P05
+7,S07-D04,Neon,It's trending.,4e32WqNVWRquDa1OcRYZ,390.546,391.614,S07-P05
+7,S07-N06,Trixie,Keep your receipts. Help your neighbors. We are going to find an answer.,dmWfLQZJq7wNPv9WmtiM,391.814,395.948,S07-P05
+8,S08-D01,Kitten,Are you really going to bring the salmon back?,FGY2WhTYpPnrIDTdsKH5,413.883,417.483,S08-P02
+8,S08-D02,Trixie,We're going to find out where it went.,dmWfLQZJq7wNPv9WmtiM,417.683,420.883,S08-P02
+8,S08-N01,Kitten,Mum says promises do not fit in a bowl.,FGY2WhTYpPnrIDTdsKH5,421.083,424.683,S08-P02
+8,S08-N02,Trixie,She is right. I will not promise what I cannot deliver. But I will not forget you.,dmWfLQZJq7wNPv9WmtiM,425.75,432.55,S08-P03
+8,S08-D03,Byte,You realize we have no fucking idea where it went?,wo6udizrrtpIxWGp2qJk,433.617,437.617,S08-P04
+8,S08-D04,Trixie,Working on that.,dmWfLQZJq7wNPv9WmtiM,437.817,439.017,S08-P04
+8,S08-N03,Byte,You have made that significantly harder to walk away from.,wo6udizrrtpIxWGp2qJk,439.217,443.217,S08-P04
+8,S08-N04,Trixie,Good. Get the others. We start with who profits from the panic.,dmWfLQZJq7wNPv9WmtiM,444.283,449.083,S08-P05
+9,S09-N01,Byte,Every price update came through the same corporate feed. The shops did not choose it individually.,wo6udizrrtpIxWGp2qJk,450.15,456.55,S09-P01
+9,S09-N02,Ghost,"The message content is encrypted. The meeting confirmation is not. Same names, same time, one private room.",7fBwqIVI6wI1B4MuKqQi,458.864,465.664,S09-P02
+9,S09-D01,Ghost,Barkington has a private dinner tonight.,7fBwqIVI6wI1B4MuKqQi,465.864,468.264,S09-P02
+9,S09-D02,Byte,With the WOOF7 news anchor.,wo6udizrrtpIxWGp2qJk,470.579,472.579,S09-P03
+9,S09-D03,Neon,The same network telling everyone to panic-buy salmon.,4e32WqNVWRquDa1OcRYZ,472.779,475.979,S09-P03
+9,S09-N03,Neon,Steak and Bone. Their public booking map shows a service corridor behind the dining room.,4e32WqNVWRquDa1OcRYZ,478.293,484.293,S09-P04
+9,S09-N04,Onyx,So we walk in and ask nicely?,uq0HIbNZKn11Hs5ifEdd,486.607,489.407,S09-P05
+9,S09-N05,Trixie,We watch. We record. We leave. Nobody starts a fight over a suspicion.,dmWfLQZJq7wNPv9WmtiM,489.607,494.807,S09-P05
+9,S09-N06,Byte,A photograph of two dogs having dinner is not going to prove much.,wo6udizrrtpIxWGp2qJk,497.121,502.321,S09-P06
+9,S09-N07,Ghost,Correct. Which is why we need to hear what they say.,7fBwqIVI6wI1B4MuKqQi,502.521,506.921,S09-P06
+9,S09-N08,Neon,The microphone needs line of sight. I can hide it in the service hatch.,4e32WqNVWRquDa1OcRYZ,509.236,514.836,S09-P07
+9,S09-D04,Trixie,Then let's see what's on the menu.,dmWfLQZJq7wNPv9WmtiM,515.036,517.836,S09-P07
+10,S10-N01,Trixie,One job each. Ghost finds the route. Neon handles the decoys. Byte watches the cameras. Onyx covers the exit.,dmWfLQZJq7wNPv9WmtiM,520.15,527.75,S10-P01
+10,S10-N02,Byte,And you?,wo6udizrrtpIxWGp2qJk,529.525,530.325,S10-P02
+10,S10-N03,Trixie,I get close enough to photograph the meeting.,dmWfLQZJq7wNPv9WmtiM,530.525,533.725,S10-P02
+10,S10-D01,Neon,The guards will chase these instead of us.,4e32WqNVWRquDa1OcRYZ,535.5,538.7,S10-P03
+10,S10-D02,Byte,What if they don't?,wo6udizrrtpIxWGp2qJk,538.9,540.5,S10-P03
+10,S10-D03,Neon,Then we have a very expensive collection of dog toys.,4e32WqNVWRquDa1OcRYZ,540.7,544.7,S10-P03
+10,S10-N04,Neon,They follow the sound and the smell. This switch cuts both. Do not press the red button indoors.,4e32WqNVWRquDa1OcRYZ,546.475,553.675,S10-P04
+10,S10-N05,Onyx,You could have said that before the demonstration.,uq0HIbNZKn11Hs5ifEdd,553.875,557.075,S10-P04
+10,S10-D04,Onyx,Holy shit. It works.,uq0HIbNZKn11Hs5ifEdd,558.85,560.45,S10-P05
+10,S10-N06,Ghost,The return path has to stay clear. A distraction that traps us is just a different problem.,7fBwqIVI6wI1B4MuKqQi,560.65,567.45,S10-P05
+10,S10-N07,Neon,Two decoys for entry. One held back. I actually planned for something going wrong.,4e32WqNVWRquDa1OcRYZ,569.225,574.825,S10-P06
+10,S10-N08,Byte,Write down the date. We should celebrate this.,wo6udizrrtpIxWGp2qJk,575.025,578.225,S10-P06
+11,S11-D01,Byte,That restaurant costs more per meal than our entire building.,wo6udizrrtpIxWGp2qJk,585.15,589.15,S11-P01
+11,S11-D02,Onyx,Can we eat first?,uq0HIbNZKn11Hs5ifEdd,589.35,590.95,S11-P01
+11,S11-N01,Ghost,Front door has two guards. Service door has one camera. Their patrol crosses the alley every forty seconds.,7fBwqIVI6wI1B4MuKqQi,593.594,600.794,S11-P02
+11,S11-N02,Byte,"I am staying at this relay point. If you lose my signal, do not invent a heroic alternative.",wo6udizrrtpIxWGp2qJk,603.439,610.639,S11-P03
+11,S11-N03,Onyx,"I stay by the service exit. Same way in, same way out.",uq0HIbNZKn11Hs5ifEdd,610.839,615.639,S11-P03
+11,S11-N04,Trixie,That is Barkington. The entourage came in the limousine. Keep the plate in the recording.,dmWfLQZJq7wNPv9WmtiM,618.283,624.283,S11-P04
+11,S11-N05,Neon,"The anchor is already inside. Private room, rear wall, blinds half closed.",4e32WqNVWRquDa1OcRYZ,626.928,631.728,S11-P05
+11,S11-D03,Ghost,Target's inside.,7fBwqIVI6wI1B4MuKqQi,631.928,632.728,S11-P05
+11,S11-N06,Ghost,We can reach the hatch without crossing the main dining room.,7fBwqIVI6wI1B4MuKqQi,635.372,639.772,S11-P06
+11,S11-D04,Trixie,Nobody touches anything until we have evidence.,dmWfLQZJq7wNPv9WmtiM,642.417,645.217,S11-P07
+11,S11-N07,Trixie,"Wait for the patrol to turn. We go together, and we leave together.",dmWfLQZJq7wNPv9WmtiM,645.417,650.617,S11-P07
+12,S12-N01,Neon,First decoy on the ground. Second one stays behind the bins until they move.,4e32WqNVWRquDa1OcRYZ,660.15,665.75,S12-P01
+12,S12-N02,Byte,Camera is looking at the alley. You have your opening.,wo6udizrrtpIxWGp2qJk,668.979,672.979,S12-P02
+12,S12-D01,Guard,Maintain your positions!,TxWZERZ5Hc6h9dGxVmXa,676.207,677.407,S12-P03
+12,S12-D02,Guard,...Is that a bacon-flavored bone?,TxWZERZ5Hc6h9dGxVmXa,677.607,679.607,S12-P03
+12,S12-D03,Another guard,MINE!,lAqElvydqyTzitpwAdj6,682.836,683.236,S12-P04
+12,S12-N03,Ghost,"Door is clear. Trixie, on me.",7fBwqIVI6wI1B4MuKqQi,686.464,688.864,S12-P05
+12,S12-N04,Onyx,I have the exit. Do not make me come looking for you.,uq0HIbNZKn11Hs5ifEdd,689.064,693.864,S12-P05
+13,S13-D01,Byte,You have forty seconds before patrol returns.,wo6udizrrtpIxWGp2qJk,705.15,707.95,S13-P01
+13,S13-N01,Neon,Service robot. Hold. Its camera turns before the wheels do.,4e32WqNVWRquDa1OcRYZ,710.379,714.379,S13-P02
+13,S13-D02,Trixie,"Ghost, move.",dmWfLQZJq7wNPv9WmtiM,716.807,717.607,S13-P03
+13,S13-D03,Ghost,I am moving.,7fBwqIVI6wI1B4MuKqQi,717.807,719.007,S13-P03
+13,S13-D04,Trixie,You're literally standing still.,dmWfLQZJq7wNPv9WmtiM,719.207,720.807,S13-P03
+13,S13-D05,Ghost,That's why I'm good.,7fBwqIVI6wI1B4MuKqQi,721.007,722.607,S13-P03
+13,S13-N02,Byte,Twenty seconds. Stop narrating your stealth and actually do some.,wo6udizrrtpIxWGp2qJk,725.036,729.036,S13-P04
+13,S13-N03,Ghost,Now. Stay behind the cart; the lens cannot see through it.,7fBwqIVI6wI1B4MuKqQi,729.236,733.636,S13-P04
+13,S13-N04,Trixie,"There is the hatch. Neon, microphone first. I need the table and both faces.",dmWfLQZJq7wNPv9WmtiM,736.064,741.664,S13-P05
+13,S13-N05,Neon,"Recording locally. If the connection drops, we still keep the file.",4e32WqNVWRquDa1OcRYZ,741.864,746.264,S13-P05
+14,S14-D01,Barkington,The public needs reassurance that our supply measures are necessary.,bwCXcoVxWNYMlC6Esa8u,755.15,759.15,S14-P01
+14,S14-D02,Anchor,And you want that to be tonight's headline?,cjVigY5qzO86Huf0OWal,759.35,762.55,S14-P01
+14,S14-N01,Anchor,People are asking why the shelves emptied before the warning. They expect me to ask that question.,cjVigY5qzO86Huf0OWal,764.093,770.893,S14-P02
+14,S14-N02,Barkington,Questions are useful when they lead the public toward confidence. Less useful when they lead to disorder.,bwCXcoVxWNYMlC6Esa8u,772.436,779.236,S14-P03
+14,S14-D03,Barkington,I want the public to hear the correct story.,bwCXcoVxWNYMlC6Esa8u,779.436,783.036,S14-P03
+14,S14-N03,Anchor,Confidence is difficult to sell to an audience that cannot afford dinner.,cjVigY5qzO86Huf0OWal,784.579,789.379,S14-P04
+14,S14-D04,Anchor,That kind of coverage isn't cheap.,cjVigY5qzO86Huf0OWal,789.579,791.979,S14-P04
+14,S14-N04,Barkington,Then remind them who keeps the streets safe. Panic needs a firm voice.,bwCXcoVxWNYMlC6Esa8u,793.521,798.721,S14-P05
+14,S14-N05,Anchor,My producers will want a reason to move the other story off the schedule.,cjVigY5qzO86Huf0OWal,800.264,805.864,S14-P06
+14,S14-D05,Barkington,Neither is loyalty.,bwCXcoVxWNYMlC6Esa8u,807.407,808.607,S14-P07
+14,S14-N06,Barkington,Tell them we appreciate a reliable partner. Our appreciation is rarely symbolic.,bwCXcoVxWNYMlC6Esa8u,808.807,813.607,S14-P07
+15,S15-N01,Neon,Both faces and the bag are in frame. Keep rolling. Do not crop away who handed it over.,4e32WqNVWRquDa1OcRYZ,819.493,826.693,S15-P02
+15,S15-N02,Ghost,Someone is coming down the corridor. You have one clean shot.,7fBwqIVI6wI1B4MuKqQi,828.064,832.464,S15-P03
+15,S15-D01,Byte,Please tell me you got that.,wo6udizrrtpIxWGp2qJk,833.836,836.236,S15-P04
+15,S15-D02,Trixie,Every pixel.,dmWfLQZJq7wNPv9WmtiM,836.436,837.236,S15-P04
+15,S15-N03,Trixie,"Save the original and a copy. No filters, no edits.",dmWfLQZJq7wNPv9WmtiM,837.436,841.436,S15-P04
+15,S15-D03,Neon,The audio's ambiguous.,4e32WqNVWRquDa1OcRYZ,842.807,844.007,S15-P05
+15,S15-D04,Trixie,The photograph isn't.,dmWfLQZJq7wNPv9WmtiM,844.207,845.407,S15-P05
+15,S15-N04,Byte,It proves a payment happened. We still cannot label what the money bought.,wo6udizrrtpIxWGp2qJk,845.607,850.807,S15-P05
+15,S15-N05,Trixie,Then we show exactly what we have. Nothing more.,dmWfLQZJq7wNPv9WmtiM,851.007,854.607,S15-P05
+15,S15-N06,Onyx,Patrol is back early. Time to move.,uq0HIbNZKn11Hs5ifEdd,855.979,858.779,S15-P06
+16,S16-D01,Guard,STOP THOSE CATS!,TxWZERZ5Hc6h9dGxVmXa,860.15,861.35,S16-P01
+16,S16-N01,Onyx,This door. Keep moving. I am right behind you.,uq0HIbNZKn11Hs5ifEdd,864.025,867.625,S16-P02
+16,S16-D02,Neon,Emergency bone!,4e32WqNVWRquDa1OcRYZ,870.3,871.1,S16-P03
+16,S16-D03,Byte,Why do you call it that?,wo6udizrrtpIxWGp2qJk,871.3,873.7,S16-P03
+16,S16-D04,Neon,"Because it's for emergencies, dumbass!",4e32WqNVWRquDa1OcRYZ,873.9,875.9,S16-P03
+16,S16-N02,Ghost,"Left at the bins. The ladder goes to the low roof, not the street.",7fBwqIVI6wI1B4MuKqQi,878.575,884.175,S16-P04
+16,S16-N03,Byte,"I have your signal again. Bring the files to me, not the guards.",wo6udizrrtpIxWGp2qJk,886.85,892.05,S16-P05
+16,S16-N04,Trixie,Count off. Byte? Neon? Ghost? Onyx?,dmWfLQZJq7wNPv9WmtiM,894.725,897.125,S16-P06
+16,S16-N05,Onyx,Five cats. One terrible restaurant. Never going back.,uq0HIbNZKn11Hs5ifEdd,897.325,900.525,S16-P06
+17,S17-N01,Ghost,Send the uncut clip with the photograph. Let the newsroom check the timestamp themselves.,7fBwqIVI6wI1B4MuKqQi,910.15,915.75,S17-P01
+17,S17-N02,Neon,Original saved here. Backup sent. They cannot erase it by taking down one post.,4e32WqNVWRquDa1OcRYZ,915.95,921.55,S17-P01
+17,S17-N03,Trixie,The headline says payment. It does not say we solved the shortage.,dmWfLQZJq7wNPv9WmtiM,923.39,928.19,S17-P02
+17,S17-D01,NIP7 Anchor,Exclusive tonight: leaked footage shows Chairman Barkington Orders making an undisclosed cash payment to a senior WOOF7 journalist.,onwK4e9ZLuTAKqWW03F9,930.03,937.23,S17-P03
+17,S17-N04,NIP7 Anchor,The purpose of the payment has not been independently established. We have requested a response from both parties.,onwK4e9ZLuTAKqWW03F9,937.43,944.63,S17-P03
+17,S17-D02,Byte,We fucking got him!,wo6udizrrtpIxWGp2qJk,946.47,948.07,S17-P04
+17,S17-D03,Ghost,We got the payment. Not the reason.,7fBwqIVI6wI1B4MuKqQi,948.27,951.07,S17-P04
+17,S17-D04,Trixie,Then we keep digging.,dmWfLQZJq7wNPv9WmtiM,952.91,954.51,S17-P05
+17,S17-N05,Byte,Fine. A small victory. Can small victories buy dinner?,wo6udizrrtpIxWGp2qJk,954.71,958.31,S17-P05
+18,S18-D01,Byte,We exposed the bastard!,wo6udizrrtpIxWGp2qJk,960.15,961.75,S18-P01
+18,S18-N01,Civilian cat,I read your story. The freezer is still empty. What do we eat tonight?,b5RPB35vTODb3BEmR3Fc,963.51,969.11,S18-P02
+18,S18-N02,Trixie,You are right. A headline is not a meal.,dmWfLQZJq7wNPv9WmtiM,969.31,972.91,S18-P02
+18,S18-D02,Trixie,Then why are the stores still empty?,dmWfLQZJq7wNPv9WmtiM,974.67,977.47,S18-P03
+18,S18-D03,Ghost,Because we exposed a payment. Not the supply chain.,7fBwqIVI6wI1B4MuKqQi,977.67,981.27,S18-P03
+18,S18-D04,Neon,Wait. I've got something.,4e32WqNVWRquDa1OcRYZ,983.03,984.63,S18-P04
+18,S18-N03,Neon,The delivery code matches Byte’s price record.,4e32WqNVWRquDa1OcRYZ,984.83,987.63,S18-P04
+18,S18-N04,Ghost,"Back to the lair. Follow the deliveries, not the speeches.",7fBwqIVI6wI1B4MuKqQi,989.39,993.39,S18-P05
+19,S19-D01,Neon,There isn't a salmon shortage.,4e32WqNVWRquDa1OcRYZ,995.15,997.15,S19-P01
+19,S19-D02,Byte,What?,wo6udizrrtpIxWGp2qJk,997.35,997.75,S19-P01
+19,S19-D03,Neon,There's a salmon shortage for cats.,4e32WqNVWRquDa1OcRYZ,997.95,1000.35,S19-P01
+19,S19-N01,Ghost,These are current dispatch records. Match the truck numbers to the public gate camera before we publish.,7fBwqIVI6wI1B4MuKqQi,1002.95,1009.75,S19-P02
+19,S19-N02,Byte,"District Seven order cancelled. District Two replacement accepted. Same load, same morning.",wo6udizrrtpIxWGp2qJk,1012.35,1017.15,S19-P03
+19,S19-D04,Onyx,Those sons of bitches.,uq0HIbNZKn11Hs5ifEdd,1017.35,1018.95,S19-P03
+19,S19-N03,Trixie,"Save the records. We verify the trucks at the gate, then get that food moving.",dmWfLQZJq7wNPv9WmtiM,1021.55,1027.55,S19-P04
+20,S20-N01,Ghost,The plate matches. That is the truck from the dispatch record.,7fBwqIVI6wI1B4MuKqQi,1035.75,1040.15,S20-P02
+20,S20-D01,Trixie,They've been sitting on our food.,dmWfLQZJq7wNPv9WmtiM,1040.35,1042.75,S20-P02
+20,S20-D02,Byte,"Technically, they've been shipping it.",wo6udizrrtpIxWGp2qJk,1042.95,1044.95,S20-P02
+20,S20-D03,Trixie,"Not helping, Byte.",dmWfLQZJq7wNPv9WmtiM,1045.15,1046.35,S20-P02
+20,S20-N02,Neon,Standing robot dogs on the floor. Red visors. They patrol the line and respond to the alarm.,4e32WqNVWRquDa1OcRYZ,1048.35,1055.15,S20-P03
+20,S20-N03,Trixie,"No one touches the cooling system. We need the fish fresh, and the workers clear.",dmWfLQZJq7wNPv9WmtiM,1057.15,1063.15,S20-P04
+21,S21-N01,Ghost,Service lock is open. Stay behind the tank until the robot turns.,7fBwqIVI6wI1B4MuKqQi,1065.15,1069.95,S21-P01
+21,S21-D01,Byte,That's enough salmon to feed half the city!,wo6udizrrtpIxWGp2qJk,1078.407,1081.607,S21-P03
+21,S21-D02,Trixie,And they told us there was none.,dmWfLQZJq7wNPv9WmtiM,1081.807,1084.607,S21-P03
+21,S21-N02,Neon,Dispatch terminal here. Refrigeration is on a separate circuit.,4e32WqNVWRquDa1OcRYZ,1086.893,1090.493,S21-P04
+21,S21-D03,Onyx,Can I punch something now?,uq0HIbNZKn11Hs5ifEdd,1092.779,1094.779,S21-P05
+21,S21-D04,Trixie,You have my permission.,dmWfLQZJq7wNPv9WmtiM,1094.979,1096.579,S21-P05
+21,S21-N03,Onyx,A robot. I am punching a robot. We are being specific.,uq0HIbNZKn11Hs5ifEdd,1096.779,1101.179,S21-P05
+21,S21-N04,Trixie,"Keep it away from the tanks. Byte, get the truck routes.",dmWfLQZJq7wNPv9WmtiM,1103.464,1107.864,S21-P06
+22,S22-N01,Neon,Dispatch stopped. Cooling stays on. Temperature is stable.,4e32WqNVWRquDa1OcRYZ,1110.15,1113.35,S22-P01
+22,S22-D01,Neon,Corporate routing disabled.,4e32WqNVWRquDa1OcRYZ,1113.55,1114.75,S22-P01
+22,S22-N02,Ghost,Original logs preserved. Public copies include the truck numbers and cancelled orders.,7fBwqIVI6wI1B4MuKqQi,1115.783,1120.583,S22-P02
+22,S22-D02,Ghost,Shipping records released.,7fBwqIVI6wI1B4MuKqQi,1120.783,1121.983,S22-P02
+22,S22-N03,Trixie,Release the already-loaded trucks first. Do not leave fresh stock waiting outside.,dmWfLQZJq7wNPv9WmtiM,1123.017,1127.817,S22-P03
+22,S22-N04,Byte,District Seven delivery accepted. The other neglected districts are next in the queue.,wo6udizrrtpIxWGp2qJk,1128.017,1133.217,S22-P03
+22,S22-D03,Byte,Salmon is going back to the cats!,wo6udizrrtpIxWGp2qJk,1134.25,1137.05,S22-P04
+22,S22-D04,Trixie,Now that's what I call a hostile takeover.,dmWfLQZJq7wNPv9WmtiM,1137.25,1140.45,S22-P04
+23,S23-D01,NIP7 Anchor,Newly released records confirm that Goodboy Global diverted salmon shipments away from feline neighborhoods.,onwK4e9ZLuTAKqWW03F9,1145.15,1150.75,S23-P01
+23,S23-N01,Kitten,You found it!,FGY2WhTYpPnrIDTdsKH5,1152.35,1153.55,S23-P02
+23,S23-N02,Trixie,Your mum was right. This is better than a promise.,dmWfLQZJq7wNPv9WmtiM,1153.75,1157.75,S23-P02
+23,S23-D02,Byte,We saved the fucking city!,wo6udizrrtpIxWGp2qJk,1159.35,1161.35,S23-P03
+23,S23-D03,Trixie,We saved dinner.,dmWfLQZJq7wNPv9WmtiM,1161.55,1162.75,S23-P03
+23,S23-D04,Ghost,For now.,7fBwqIVI6wI1B4MuKqQi,1162.95,1163.75,S23-P03
+24,S24-R01,TV,Goodboy Global confirms that the salmon shortage was caused by a computer inventory mistake. The error has now been corrected.,cjVigY5qzO86Huf0OWal,1170.65,1178.313,S24-P02
+24,S24-R02,Byte,Those no-good dogs.,wo6udizrrtpIxWGp2qJk,1178.513,1180.045,S24-P02
+24,S24-R03,Onyx,Bastards. They're taking credit for fixing their own scam.,uq0HIbNZKn11Hs5ifEdd,1180.245,1183.496,S24-P03
+24,S24-R04,Neon,Is everyone just going to keep lying down for these dogs?,4e32WqNVWRquDa1OcRYZ,1183.696,1186.854,S24-P03
+24,S24-R05,Ghost,They changed the story. We still have the records.,7fBwqIVI6wI1B4MuKqQi,1187.054,1189.933,S24-P04
+24,S24-R06,Trixie,"C'mon. Let's just play the game. We fixed it, even if no one knows it.",dmWfLQZJq7wNPv9WmtiM,1190.133,1193.941,S24-P05
+24,S24-R07,Byte,Fine. But you're not driving.,wo6udizrrtpIxWGp2qJk,1194.141,1195.767,S24-P05

@@ -1,0 +1,12 @@
+{
+  "id": "task_w2GtgqARbIzvib1fqArHEw9i4cHes3eT",
+  "object": "video",
+  "model": "wan-3.0-prime",
+  "status": "completed",
+  "progress": 100,
+  "created_at": 1794015897,
+  "completed_at": 1794016254,
+  "metadata": {
+    "url": "https://z-api.obs.cn-south-1.myhuaweicloud.com/tasks/task_w2GtgqARbIzvib1fqArHEw9i4cHes3eT-store_result/5374f7aec54655413b3cfa26adc0dc677f7324fe0c2d285bd7c856c4138d2887.mp4"
+  }
+}

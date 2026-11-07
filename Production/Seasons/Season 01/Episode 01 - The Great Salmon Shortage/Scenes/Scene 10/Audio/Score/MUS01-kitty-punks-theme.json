@@ -1,0 +1,22 @@
+{
+  "id": "MUS01-kitty-punks-theme",
+  "scenes": [
+    1,
+    4,
+    6,
+    8,
+    10,
+    24
+  ],
+  "request": {
+    "prompt": "Original instrumental cyberpunk caper score for five teenage cat hackers. Playful warm analog synth bass, crisp light drums, small bright five-note synth motif, 106 BPM, D minor. Mischievous friendship and clever banter, not epic. Sparse midrange and restrained dynamics leave space for dialogue. A brief intro, evolving middle, gentle clean ending. No vocals or spoken words.",
+    "music_length_ms": 45000,
+    "force_instrumental": true,
+    "model_id": "music_v1"
+  },
+  "duration_sec": 45.035063,
+  "song_id": "Kx1pzBLUBy4XI5bkpt2s",
+  "character_cost": null,
+  "sha256": "919fbdb272e62a2c0f3aba7f1b87eb60f8d998c9219d1c63d0c05ae90eb2b710",
+  "status": "review_score_cue"
+}

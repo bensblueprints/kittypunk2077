@@ -1,0 +1,22 @@
+{
+  "id": "S24-R02",
+  "line_id": "S24-R02",
+  "scene": 24,
+  "speaker": "Byte",
+  "role_id": "byte",
+  "text": "Those no-good dogs.",
+  "voice_id": "wo6udizrrtpIxWGp2qJk",
+  "voice_name": "Northern Terry",
+  "duration_sec": 1.532517,
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.5,
+    "similarity_boost": 0.75,
+    "style": 0.15,
+    "use_speaker_boost": true
+  },
+  "request_id": "wXv15JuiB94zlBF7XCPS",
+  "provider_character_cost": "4",
+  "sha256": "1595c9ed14d6cc5786d1920200314b8685dea7cdb035443f68dbf56b5ff5dc77",
+  "status": "review_take"
+}

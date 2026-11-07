@@ -43,7 +43,7 @@ def register(app,connect,staff,root,dbpath):
  @staff
  def review_page():
   with connect() as c:
-   versions=[dict(x) for x in c.execute('SELECT * FROM review_versions ORDER BY scene,created DESC')]
+   versions=[dict(x) for x in c.execute("SELECT * FROM review_versions WHERE status != 'archived' ORDER BY scene,created DESC")]
    events=[dict(x) for x in c.execute('SELECT e.*,u.email FROM review_events e LEFT JOIN users u ON u.id=e.owner ORDER BY e.id DESC')]
   return render_template('review.html',versions=versions,events=events,scenes=json.loads((root/'pilot.json').read_text())['scenes'])
 
@@ -57,6 +57,7 @@ def register(app,connect,staff,root,dbpath):
    c.execute('BEGIN IMMEDIATE')
    review=c.execute('SELECT * FROM review_versions WHERE id=?',(version,)).fetchone()
    if not review:abort(404)
+   if review['status']=='archived':abort(409)
    c.execute('INSERT INTO review_events(version_id,decision,feedback,owner,created) VALUES(?,?,?,?,?)',(version,decision,feedback,g.user['id'],time.time()))
    c.execute('UPDATE review_versions SET status=? WHERE id=?',(decision,version))
   message='Review saved'

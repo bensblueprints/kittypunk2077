@@ -1,0 +1,20 @@
+{
+  "id": "MUS04-dinner-is-served",
+  "scenes": [
+    7,
+    17,
+    18,
+    23
+  ],
+  "request": {
+    "prompt": "Original instrumental hopeful neighborhood resistance score. Warm synth chords, plucked electronic melody, understated drum groove, 98 BPM D major. Earned solidarity, humor and relief rather than triumphant propaganda. Intimate hopeful energy, sparse dialogue-friendly arrangement. Gentle resolved ending. No vocals or spoken words.",
+    "music_length_ms": 45000,
+    "force_instrumental": true,
+    "model_id": "music_v1"
+  },
+  "duration_sec": 45.035063,
+  "song_id": "X6ZuApHBoVcQqeFI6Csg",
+  "character_cost": null,
+  "sha256": "4437b6ab104c0d5bc0ff032860aa4f9a51c025e8ff7d97d8feb140f6019b8dfc",
+  "status": "review_score_cue"
+}

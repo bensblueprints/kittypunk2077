@@ -3427,5 +3427,185 @@
     "cost_label": "Unknown credits estimate",
     "refund_status": "Not applicable / unconfirmed",
     "error": ""
+  },
+  {
+    "provider": "ElevenLabs sound effects",
+    "subject": "FX01-hideout-room",
+    "status": "completed",
+    "task_id": "local-receipt-FX01-hideout-room (provider ID not returned)",
+    "cost_label": "110 provider-reported credits",
+    "refund_status": "Not applicable / unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "ElevenLabs sound effects",
+    "subject": "FX02-controller-foley",
+    "status": "completed",
+    "task_id": "local-receipt-FX02-controller-foley (provider ID not returned)",
+    "cost_label": "44 provider-reported credits",
+    "refund_status": "Not applicable / unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "ElevenLabs sound effects",
+    "subject": "FX03-tv-game-action",
+    "status": "completed",
+    "task_id": "local-receipt-FX03-tv-game-action (provider ID not returned)",
+    "cost_label": "82 provider-reported credits",
+    "refund_status": "Not applicable / unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "ElevenLabs sound effects",
+    "subject": "FX04-broadcast-interruption",
+    "status": "completed",
+    "task_id": "local-receipt-FX04-broadcast-interruption (provider ID not returned)",
+    "cost_label": "33 provider-reported credits",
+    "refund_status": "Not applicable / unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "ElevenLabs sound effects",
+    "subject": "FX05-district-street",
+    "status": "completed",
+    "task_id": "local-receipt-FX05-district-street (provider ID not returned)",
+    "cost_label": "110 provider-reported credits",
+    "refund_status": "Not applicable / unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "ElevenLabs sound effects",
+    "subject": "FX06-shop-freezer",
+    "status": "completed",
+    "task_id": "local-receipt-FX06-shop-freezer (provider ID not returned)",
+    "cost_label": "110 provider-reported credits",
+    "refund_status": "Not applicable / unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "ElevenLabs sound effects",
+    "subject": "FX07-crowd-movement",
+    "status": "completed",
+    "task_id": "local-receipt-FX07-crowd-movement (provider ID not returned)",
+    "cost_label": "66 provider-reported credits",
+    "refund_status": "Not applicable / unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "ElevenLabs sound effects",
+    "subject": "FX08-hacking-interface",
+    "status": "completed",
+    "task_id": "local-receipt-FX08-hacking-interface (provider ID not returned)",
+    "cost_label": "55 provider-reported credits",
+    "refund_status": "Not applicable / unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "ElevenLabs sound effects",
+    "subject": "FX09-bone-decoy",
+    "status": "completed",
+    "task_id": "local-receipt-FX09-bone-decoy (provider ID not returned)",
+    "cost_label": "44 provider-reported credits",
+    "refund_status": "Not applicable / unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "ElevenLabs sound effects",
+    "subject": "FX10-luxury-restaurant",
+    "status": "completed",
+    "task_id": "local-receipt-FX10-luxury-restaurant (provider ID not returned)",
+    "cost_label": "110 provider-reported credits",
+    "refund_status": "Not applicable / unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "ElevenLabs sound effects",
+    "subject": "FX11-stealth-footsteps",
+    "status": "completed",
+    "task_id": "local-receipt-FX11-stealth-footsteps (provider ID not returned)",
+    "cost_label": "55 provider-reported credits",
+    "refund_status": "Not applicable / unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "ElevenLabs sound effects",
+    "subject": "FX12-security-alarm",
+    "status": "completed",
+    "task_id": "local-receipt-FX12-security-alarm (provider ID not returned)",
+    "cost_label": "55 provider-reported credits",
+    "refund_status": "Not applicable / unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "ElevenLabs sound effects",
+    "subject": "FX13-salmon-factory",
+    "status": "completed",
+    "task_id": "local-receipt-FX13-salmon-factory (provider ID not returned)",
+    "cost_label": "110 provider-reported credits",
+    "refund_status": "Not applicable / unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "ElevenLabs sound effects",
+    "subject": "FX14-robot-dog-steps",
+    "status": "completed",
+    "task_id": "local-receipt-FX14-robot-dog-steps (provider ID not returned)",
+    "cost_label": "44 provider-reported credits",
+    "refund_status": "Not applicable / unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "ElevenLabs sound effects",
+    "subject": "FX15-truck-delivery",
+    "status": "completed",
+    "task_id": "local-receipt-FX15-truck-delivery (provider ID not returned)",
+    "cost_label": "66 provider-reported credits",
+    "refund_status": "Not applicable / unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "ElevenLabs sound effects",
+    "subject": "FX16-newspaper",
+    "status": "completed",
+    "task_id": "local-receipt-FX16-newspaper (provider ID not returned)",
+    "cost_label": "44 provider-reported credits",
+    "refund_status": "Not applicable / unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "ElevenLabs Music",
+    "subject": "MUS01-kitty-punks-theme",
+    "status": "completed",
+    "task_id": "Kx1pzBLUBy4XI5bkpt2s",
+    "cost_label": "Not returned provider credits",
+    "refund_status": "Not applicable / unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "ElevenLabs Music",
+    "subject": "MUS02-follow-the-money",
+    "status": "completed",
+    "task_id": "0lKGRLjaoqCuroVlVPoh",
+    "cost_label": "Not returned provider credits",
+    "refund_status": "Not applicable / unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "ElevenLabs Music",
+    "subject": "MUS03-salmon-run",
+    "status": "completed",
+    "task_id": "qGvvSSkEELLtg3PosPHt",
+    "cost_label": "Not returned provider credits",
+    "refund_status": "Not applicable / unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "ElevenLabs Music",
+    "subject": "MUS04-dinner-is-served",
+    "status": "completed",
+    "task_id": "X6ZuApHBoVcQqeFI6Csg",
+    "cost_label": "Not returned provider credits",
+    "refund_status": "Not applicable / unconfirmed",
+    "error": ""
   }
 ]

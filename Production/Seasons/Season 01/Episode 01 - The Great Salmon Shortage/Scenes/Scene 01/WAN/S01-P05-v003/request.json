@@ -1,0 +1,13 @@
+{
+  "model": "wan-3.0-prime",
+  "duration_sec": 6,
+  "resolution": "1080p",
+  "aspect_ratio": "16:9",
+  "input_images": [
+    "https://kittypunk.144.76.78.158.sslip.io/generation-input/e8d7e5a3d81e4573a1253cb6b6df554c0c1fc7d70ddb45ccba98b54720746639/shot05.jpg"
+  ],
+  "prompt": "KittyPunk2077 cinematic tactile 3D animated film. Reference image defines exact character identities, wardrobe and set. Locked close shot of the entire real physical CRT casing exactly as reference. Within its inner glass only, the magenta game convertible is wedged against the bank wall, Trixie white magenta driving and orange Byte passenger. Wheels spin uselessly, helicopter searchlight sweeps bank wall and approaching police lights flash. All game motion remains within screen. The real casing, knobs and room do not move. Offscreen couch gamers speak; game avatars DO NOT lip-sync. No new room characters, no zoom into game, no cuts. Input audio 1 is the approved ElevenLabs performance. Match turn-taking and mouth movements to its timing; only the specified speaker moves their mouth. At 0.00s Trixie says: Nobody appreciates experimental driving. At 2.30s Byte says: The police appreciate it. All six helicopters. No added dialogue, narration, music, subtitles, titles or new characters. Preserve reference art quality. This clip will be trimmed at the end to exact editorial duration.",
+  "input_audios": [
+    "https://kittypunk.144.76.78.158.sslip.io/generation-input/e8d7e5a3d81e4573a1253cb6b6df554c0c1fc7d70ddb45ccba98b54720746639/shot05.mp3"
+  ]
+}

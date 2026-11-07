@@ -1,0 +1,22 @@
+{
+  "id": "S07-R01",
+  "line_id": "S07-R01",
+  "scene": 7,
+  "speaker": "Trixie",
+  "role_id": "trixie",
+  "text": "Everyone, listen up. All five of us are here because this shortage affects every family in District Seven.",
+  "voice_id": "dmWfLQZJq7wNPv9WmtiM",
+  "voice_name": "Emma — Wry, Gritty Hero",
+  "duration_sec": 5.665669,
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.35,
+    "similarity_boost": 0.8,
+    "style": 0.55,
+    "use_speaker_boost": true
+  },
+  "request_id": "o5aodk8A7wE0jVmd6Fzp",
+  "provider_character_cost": "23",
+  "sha256": "6f73b9efac74b2e2d6b5229318a2f403f7763dfd72153cb8aa569d655c81083a",
+  "status": "review_take"
+}

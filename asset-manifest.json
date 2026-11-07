@@ -3445,6 +3445,101 @@
     "sha256": "8cf96837bfd2eac07bb411ad1c02ebda67d7fe3169419d8147c1a781ec6bc149"
   },
   {
+    "path": "Production/Archive/Pilot Before Ending And Pacing Revision/1e3754ac2cd1ba43.mp3",
+    "size": 721649,
+    "sha256": "1e3754ac2cd1ba43bf243a5fbaf59413b2e7248ab7b86c64f077afc0f0719f9a"
+  },
+  {
+    "path": "Production/Archive/Pilot Before Ending And Pacing Revision/2c3e383e44633b0f.mp3",
+    "size": 184781,
+    "sha256": "2c3e383e44633b0f853fcccab6a5f84f6de1343120195a30ea9b525e30f829e3"
+  },
+  {
+    "path": "Production/Archive/Pilot Before Ending And Pacing Revision/374038c138cbc2f7.mp3",
+    "size": 40585,
+    "sha256": "374038c138cbc2f7c4d31189f1c3a7d7210bb6c05d7639ed341673c1abd12809"
+  },
+  {
+    "path": "Production/Archive/Pilot Before Ending And Pacing Revision/3e381af73481734c.mp3",
+    "size": 19687,
+    "sha256": "3e381af73481734c9fd4ff49ab365fe32993231012c447f1061c79aecccb2953"
+  },
+  {
+    "path": "Production/Archive/Pilot Before Ending And Pacing Revision/737a1001f0a3bcb0.mp3",
+    "size": 34315,
+    "sha256": "737a1001f0a3bcb0fe0cccd142f0c05ec00db28f749ac907c501c0e7c06e2631"
+  },
+  {
+    "path": "Production/Archive/Pilot Before Ending And Pacing Revision/9b494e6c3c79d94f.mp3",
+    "size": 34315,
+    "sha256": "9b494e6c3c79d94f3e1582d1ded2a7051522f4071e49263b8f72dd92871c5b59"
+  },
+  {
+    "path": "Production/Archive/Pilot Before Ending And Pacing Revision/archive-manifest.json",
+    "size": 396,
+    "sha256": "682df97ee6975a30d0b1aa1258544decc1670d28a7df9e4524334c77547ec9ab"
+  },
+  {
+    "path": "Production/Archive/Pilot Before Ending And Pacing Revision/audio.json",
+    "size": 92419,
+    "sha256": "d37361138de795a80234b0387a79a142fb64bd9dc701b3112d74ffb94087e020"
+  },
+  {
+    "path": "Production/Archive/Pilot Before Ending And Pacing Revision/bb67da4c177f1488.mp3",
+    "size": 35987,
+    "sha256": "bb67da4c177f14880bb4ddb68a5df40d395165bbf2b64c9c49400a0d193515bf"
+  },
+  {
+    "path": "Production/Archive/Pilot Before Ending And Pacing Revision/d72e7d4af72afdc5.mp3",
+    "size": 28801610,
+    "sha256": "d72e7d4af72afdc5b00c701a17bd3389c14e0f2e94c3c1b7f4fc8c5e3dd0de35"
+  },
+  {
+    "path": "Production/Archive/Pilot Before Ending And Pacing Revision/d7c109244c96fb6f.mp3",
+    "size": 1561747,
+    "sha256": "d7c109244c96fb6f799f79acabcdaf5508339d23656356c0ee5fba514d485556"
+  },
+  {
+    "path": "Production/Archive/Pilot Before Ending And Pacing Revision/df9186f64af1e7ff.mp3",
+    "size": 731053,
+    "sha256": "df9186f64af1e7ff94a0b5b0a3d72f6cee72f2634b46d0cf5e43898ab9d8663c"
+  },
+  {
+    "path": "Production/Archive/Pilot Before Ending And Pacing Revision/Downloads/dialogue-cue-sheet-v003.csv",
+    "size": 46057,
+    "sha256": "13c217bc756fc67bb3b682175bcb16cdd0b3d981dd84fac70457318bf2c54140"
+  },
+  {
+    "path": "Production/Archive/Pilot Before Ending And Pacing Revision/Downloads/full-timed-script-v003.txt",
+    "size": 50049,
+    "sha256": "c13f86da5365bb58d997c20a3ebc6d7df8693aa9f57756cee8f1ea09c4e4a22c"
+  },
+  {
+    "path": "Production/Archive/Pilot Before Ending And Pacing Revision/Downloads/pilot-production-map-v003.json",
+    "size": 1011066,
+    "sha256": "ea2984c4fe2e4c57589a3b1183178538d7d560ca25ceaa3783a5d8ccd4a58e32"
+  },
+  {
+    "path": "Production/Archive/Pilot Before Ending And Pacing Revision/Downloads/shot-timeline-v003.csv",
+    "size": 31360,
+    "sha256": "23eaa22eee0a991c67eb39080e0bb45eab015885472c974dac315f8d5ddbbcaa"
+  },
+  {
+    "path": "Production/Archive/Pilot Before Ending And Pacing Revision/Downloads/validation-v003.json",
+    "size": 365,
+    "sha256": "8b3b56092f645c0ed3a4e426454aca0141cd3ea44d093ea1fa73733626884e78"
+  },
+  {
+    "path": "Production/Archive/Pilot Before Ending And Pacing Revision/e836c900dfb032ec.mp3",
+    "size": 28801610,
+    "sha256": "e836c900dfb032ecd940c14923215c354f584636fc3e1ca937e548564b2c842c"
+  },
+  {
+    "path": "Production/Archive/Pilot Before Ending And Pacing Revision/pilot.json",
+    "size": 1126420,
+    "sha256": "1f3bfc0a592ceb16084f0ab658d23f491ee532fb0d5b8a3fe4e298d9d432114a"
+  },
+  {
     "path": "Production/Archive/Season 1 Finale Before BARK/outline.json",
     "size": 1865,
     "sha256": "6d03dcc2e2c1c5efe02a06849b1fd0f736a6d9a1f2defbf3630e1bb19538a436"
@@ -9675,6 +9770,11 @@
     "sha256": "ea2984c4fe2e4c57589a3b1183178538d7d560ca25ceaa3783a5d8ccd4a58e32"
   },
   {
+    "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Production Map/pilot-production-map-v004.json",
+    "size": 1130452,
+    "sha256": "e2e1dbca4f65b5b0b71d1bdc529faebf79b2f2fd450d3da4ee4c872e1456a9e9"
+  },
+  {
     "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Production Map/scene-shot-references.csv",
     "size": 153945,
     "sha256": "fa1c1f23adb7e2b69fdac31afbdc46d5ec998d8b1e6cafa8d2db252092cde4bc"
@@ -10040,6 +10140,16 @@
     "sha256": "bddba67a451abf34361ec1a8d49f89f4487edbc796fdf378e58a96cf6a419a95"
   },
   {
+    "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 01/Audio/Score/MUS01-kitty-punks-theme.json",
+    "size": 829,
+    "sha256": "608418b6f2263f3a51bf711e12a17eed6b1aa8cd91b1b77c1da51b7cee6a8942"
+  },
+  {
+    "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 01/Audio/Score/MUS01-kitty-punks-theme.mp3",
+    "size": 720605,
+    "sha256": "919fbdb272e62a2c0f3aba7f1b87eb60f8d998c9219d1c63d0c05ae90eb2b710"
+  },
+  {
     "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 01/Audio/Sound Effects/FX01-hideout-room.json",
     "size": 681,
     "sha256": "e0aade5054bb3d994baab526eb330d4607c248d70124c0547175751f04d659eb"
@@ -10068,6 +10178,11 @@
     "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 01/Audio/Sound Effects/FX03-tv-game-action.mp3",
     "size": 241205,
     "sha256": "98d98faa481867bbbb7fce4ea04db142721067f670bf0a560f0a3d9320c8b919"
+  },
+  {
+    "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 01/current-dialogue.txt",
+    "size": 776,
+    "sha256": "44a6a27b4b3a9838d7f697c8aecb83e3c8b2c35d280ec0569b8f5d914622257d"
   },
   {
     "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 01/Reference Frames/S01A-gpt26-v001.alignment.json",
@@ -10385,6 +10500,11 @@
     "sha256": "f657d3d594f83ad10165961ff4bc2816ef806a3abaeecc318602d830509fa54d"
   },
   {
+    "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 01/timed-production-map-v004.json",
+    "size": 76149,
+    "sha256": "cd3ee084936eefdb261dcaed460e2cf8411065482cc9becb54c8c9dd45d577bd"
+  },
+  {
     "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 01/WAN/S01-P01-v001/receipt.json",
     "size": 551,
     "sha256": "acf6bd7d0203d4c53c1f1f982ad38c8aea6f4b300b324c99f2a54118193f2f41"
@@ -10560,9 +10680,14 @@
     "sha256": "faad9bcc8403d72de1c23d052c0d9e3f7819b15fa99fef8ec24d50fea28dedf9"
   },
   {
+    "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 01/WAN/S01-P02-v003/output.mp4",
+    "size": 25196337,
+    "sha256": "9427ddb878b5cd698b90ea6a1cdc9aaecc4a3c2790a3fdefce2b57ba35010fab"
+  },
+  {
     "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 01/WAN/S01-P02-v003/receipt.json",
-    "size": 482,
-    "sha256": "366ccc541c77a9fc829658d13f58451011528201993b16213283422dec207b98"
+    "size": 814,
+    "sha256": "e183dd46d9f58968ec197fe89ded870742ed4b70eed74affe0fcac072fca1fa2"
   },
   {
     "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 01/WAN/S01-P02-v003/request.json",
@@ -10576,8 +10701,8 @@
   },
   {
     "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 01/WAN/S01-P02-v003/task.json",
-    "size": 248,
-    "sha256": "4f227a3bd91402e7e5f23be86256063f34702b7d980f5dc4491e80621f4a1a52"
+    "size": 420,
+    "sha256": "abe9d690947a6b0e829c6b4d2d8259af0521d399aaa46f06fcd53552da999296"
   },
   {
     "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 01/WAN/S01-P03-review-v001.mp4",
@@ -10665,9 +10790,14 @@
     "sha256": "9d01e1e92b70d7dce170b396267ba451f8a25b34a3d3efbc30573fc6c9e54ebd"
   },
   {
+    "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 01/WAN/S01-P04-v003/output.mp4",
+    "size": 38675357,
+    "sha256": "5a0d1289c2fe35a24935c07e5bbe006b4c05068ea67d3fb3efaf2332fdd42d9b"
+  },
+  {
     "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 01/WAN/S01-P04-v003/receipt.json",
-    "size": 478,
-    "sha256": "a40189a1d7eaa39c5c6412173da2b67606a6bef9af8fcc6d056f643f6845f4ce"
+    "size": 815,
+    "sha256": "2dec0a132b31ff8555e784f5daa680859072c6e8aa68c82c706d7632795d548c"
   },
   {
     "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 01/WAN/S01-P04-v003/request.json",
@@ -10678,6 +10808,11 @@
     "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 01/WAN/S01-P04-v003/submitted.json",
     "size": 229,
     "sha256": "bbd44baba303094f032526a801aa41916bd04f3c0c792b806639bda3cb7a77c9"
+  },
+  {
+    "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 01/WAN/S01-P04-v003/task.json",
+    "size": 420,
+    "sha256": "fa59e04f9699072368878c3480dad7f6ad0c97d8e8b9c8708ca0a988f461e7d6"
   },
   {
     "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 01/WAN/S01-P05-reference.json",
@@ -10730,6 +10865,41 @@
     "sha256": "bfa0e0ef61d9a2dcdc464d7d89ca9e9ef6ecea00ee32b148bc0b7862da248064"
   },
   {
+    "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 01/WAN/S01-P05-v003/receipt.json",
+    "size": 551,
+    "sha256": "49a8f14fd29c7570e441f7d8ebff8dba8329cab50f6b5fdfe08c04e4d315b3d1"
+  },
+  {
+    "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 01/WAN/S01-P05-v003/request.json",
+    "size": 1556,
+    "sha256": "9e24d42f89ced178c64b0ffa04dfa88c28a93ee31849163d255afb9832dc4977"
+  },
+  {
+    "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 01/WAN/S01-P05-v003/submitted.json",
+    "size": 229,
+    "sha256": "314d6c22aa7064dfc8ed3d4b56511a5e34a632117b87dafc1b314e655d045417"
+  },
+  {
+    "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 01/WAN/S01-P05-v003/task.json",
+    "size": 371,
+    "sha256": "34b11fdbaab0290cc0b43b6dc25f67bc8f57fb1d1ced2faae0198468a35a0d65"
+  },
+  {
+    "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 01/WAN/S01-P05-v004/receipt.json",
+    "size": 482,
+    "sha256": "ff38a5e9f5bb449f04947a79031fb619a58058f777ada0620036c81859414656"
+  },
+  {
+    "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 01/WAN/S01-P05-v004/request.json",
+    "size": 1556,
+    "sha256": "9e24d42f89ced178c64b0ffa04dfa88c28a93ee31849163d255afb9832dc4977"
+  },
+  {
+    "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 01/WAN/S01-P05-v004/submitted.json",
+    "size": 229,
+    "sha256": "a169a580546ebde9d87566004d5ff91816eda922d1fc73f8849b1f11abb37692"
+  },
+  {
     "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 01/WAN/S01-P06-v001/receipt.json",
     "size": 551,
     "sha256": "260a7a5373698bbb2640ef9f3f50809c62c330d00a733b36b34d3940d7873760"
@@ -10750,6 +10920,41 @@
     "sha256": "57080846644693cca536faea46fd888941df15887fae9066b6f11eaeca83f098"
   },
   {
+    "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 01/WAN/S01-P06-v002/receipt.json",
+    "size": 551,
+    "sha256": "3bf6147b4e7e2765a07c59086fa5c004ece9b7e89ecbd44838d75e7ca8eb5dae"
+  },
+  {
+    "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 01/WAN/S01-P06-v002/request.json",
+    "size": 1627,
+    "sha256": "d0bd105c8d8b024c7a17cfb79c497f96e6529eede36b7577f6bd3871d3518ef9"
+  },
+  {
+    "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 01/WAN/S01-P06-v002/submitted.json",
+    "size": 229,
+    "sha256": "10c5c60b324a9ec5e8d0896263eb672f21bd9e5c4740f5599a27bcf06324e3e0"
+  },
+  {
+    "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 01/WAN/S01-P06-v002/task.json",
+    "size": 371,
+    "sha256": "0d59553289613dd7b6064c22004f7755102fd1ae4da82473bf01ad80fb96b08c"
+  },
+  {
+    "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 01/WAN/S01-P06-v003/receipt.json",
+    "size": 477,
+    "sha256": "9b116b2659a10b859f110fd93f1fe7fa00c15358691d5b27cfa676e090c20776"
+  },
+  {
+    "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 01/WAN/S01-P06-v003/request.json",
+    "size": 1627,
+    "sha256": "d0bd105c8d8b024c7a17cfb79c497f96e6529eede36b7577f6bd3871d3518ef9"
+  },
+  {
+    "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 01/WAN/S01-P06-v003/submitted.json",
+    "size": 229,
+    "sha256": "5d7b921ce4ebb6d73510d32842559c1ff7dda248a73a72af07102362c0e59cd0"
+  },
+  {
     "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 01/WAN/S01-P07-v001/receipt.json",
     "size": 551,
     "sha256": "17e82f59c28c18029c29156b23c75cb4e3e98bdc09905be94da153656b2964d1"
@@ -10768,6 +10973,41 @@
     "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 01/WAN/S01-P07-v001/task.json",
     "size": 371,
     "sha256": "ed5ac434d13270e87bf70db53a2b3f5309748ee7501aedb83f53a89906882c44"
+  },
+  {
+    "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 01/WAN/S01-P07-v002/receipt.json",
+    "size": 551,
+    "sha256": "1e1181485734682eb585110f7e0480ebdab388b5097d2d9fec235e77ffbd7753"
+  },
+  {
+    "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 01/WAN/S01-P07-v002/request.json",
+    "size": 1632,
+    "sha256": "b95b27db5a68d3bce6ee3f384cda64da98567a17ee6e232400234b4b6f4b1a1a"
+  },
+  {
+    "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 01/WAN/S01-P07-v002/submitted.json",
+    "size": 229,
+    "sha256": "8297d8d2af3114192946e2870d7f0b19c8338747d1f36a77058676a2157fcfb2"
+  },
+  {
+    "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 01/WAN/S01-P07-v002/task.json",
+    "size": 371,
+    "sha256": "c73847ff34d080c90d667a2d35e72269b48706b5d2875c2752ef6f822a0944fd"
+  },
+  {
+    "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 01/WAN/S01-P07-v003/receipt.json",
+    "size": 477,
+    "sha256": "eed55939a1d57f93b3b3600f2fbf0d9dd2277110fb830d25ef133587ff1570bc"
+  },
+  {
+    "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 01/WAN/S01-P07-v003/request.json",
+    "size": 1632,
+    "sha256": "b95b27db5a68d3bce6ee3f384cda64da98567a17ee6e232400234b4b6f4b1a1a"
+  },
+  {
+    "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 01/WAN/S01-P07-v003/submitted.json",
+    "size": 229,
+    "sha256": "bd414af3aca1f17bdbfa77a0158225d23b4a570064cb911793c74f3b11e45e5d"
   },
   {
     "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 01/WAN/S01-P08-v001/receipt.json",
@@ -10808,6 +11048,41 @@
     "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 01/WAN/S01-P08-v002/task.json",
     "size": 371,
     "sha256": "77c1390465846f15d75ac41240c508346161498d1fcf28aee140f98feafac667"
+  },
+  {
+    "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 01/WAN/S01-P08-v003/receipt.json",
+    "size": 551,
+    "sha256": "219da42fedfa8f2716264409b006b3bc7a767cd25d3ce76d2522862176289d57"
+  },
+  {
+    "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 01/WAN/S01-P08-v003/request.json",
+    "size": 1650,
+    "sha256": "b1c16f9ca9d1cfd4a4826adb1be96225a2d9a1b71eccfaed31c9b964b7b74922"
+  },
+  {
+    "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 01/WAN/S01-P08-v003/submitted.json",
+    "size": 229,
+    "sha256": "8a082acd16665a53b3a929275705ecf80f99127b279ef87a78327a802be4a42a"
+  },
+  {
+    "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 01/WAN/S01-P08-v003/task.json",
+    "size": 371,
+    "sha256": "c48e4b05a242bc5f60641014b6a1f5f681594010c17644f46901e3ba5c1cf37f"
+  },
+  {
+    "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 01/WAN/S01-P08-v004/receipt.json",
+    "size": 477,
+    "sha256": "d7ba5debf0a98014e88880d32afa7f2240d13c950633b4afe9ebc097ef35bdf2"
+  },
+  {
+    "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 01/WAN/S01-P08-v004/request.json",
+    "size": 1650,
+    "sha256": "b1c16f9ca9d1cfd4a4826adb1be96225a2d9a1b71eccfaed31c9b964b7b74922"
+  },
+  {
+    "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 01/WAN/S01-P08-v004/submitted.json",
+    "size": 229,
+    "sha256": "4ca2b8b93842523a81609d4742bb9e8749fb8182b9d22a8dce3cfe2a8c64cffc"
   },
   {
     "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 01/WAN/S01-P09-reference.json",
@@ -10860,6 +11135,26 @@
     "sha256": "14e515029d2405a222daf7c6507fb887a7eaa995cb12b623799c603302082a09"
   },
   {
+    "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 01/WAN/S01-P09-v003/receipt.json",
+    "size": 482,
+    "sha256": "a051a1dbb6b7d9868ea553738d57e34d77ab3c51a1cb01268dde2c3ef90b9b59"
+  },
+  {
+    "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 01/WAN/S01-P09-v003/request.json",
+    "size": 1139,
+    "sha256": "ce4144a374f32a68e44c7dca7abfdd090be5eff47d95679dcb04b567c6e80168"
+  },
+  {
+    "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 01/WAN/S01-P09-v003/submitted.json",
+    "size": 229,
+    "sha256": "3ecd1cd98060068b5fc3eeaf164b54c504c0b61db8cf4692a855f42d82d51a0c"
+  },
+  {
+    "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 01/WAN/S01-P09-v003/task.json",
+    "size": 420,
+    "sha256": "12d74a73f7d70c025ea9bdbb100694774c5fa51f6f80c1ae073034f6f728c650"
+  },
+  {
     "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 01/WAN/S01-P10-v001/receipt.json",
     "size": 551,
     "sha256": "b1c9a0dbefeda3ab2f66901f79b8cea58795ab118ca0c010211f4cbace6084d1"
@@ -10880,9 +11175,14 @@
     "sha256": "eb8fc095a7edcf97faaa4caab14804da5be8d0d2ae43f0eb90d6b246db34e707"
   },
   {
+    "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 01/WAN/S01-P10-v002/output.mp4",
+    "size": 32751171,
+    "sha256": "fe4571e7882e3ba75fdecab62257cecd7863dbb1e53437a615670086853330d7"
+  },
+  {
     "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 01/WAN/S01-P10-v002/receipt.json",
-    "size": 482,
-    "sha256": "0d76fb17c8c86cfdae9306a57ce60dbd5d2503816fbd9bcd9536132570615034"
+    "size": 814,
+    "sha256": "0a5d77fc8f023d5dbc63121684328e40bddaf3f6997d124106eee5465828d881"
   },
   {
     "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 01/WAN/S01-P10-v002/request.json",
@@ -10896,8 +11196,8 @@
   },
   {
     "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 01/WAN/S01-P10-v002/task.json",
-    "size": 248,
-    "sha256": "5fd45e84f549dff587fb7e8183243bf00a9e09e984110adf76db72c8c1988f63"
+    "size": 420,
+    "sha256": "e8c82e2c8c5d0249f05149030df8fcbe61991eca50114615daa7a8bf73576129"
   },
   {
     "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 01/WAN/scene01-approved-dialogue-timeline.wav",
@@ -11165,6 +11465,11 @@
     "sha256": "734d0f3a558a98e9feb78b5cc23176d8b3ca6c528f7cec56d7f8aaf25d180e55"
   },
   {
+    "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 02/current-dialogue.txt",
+    "size": 709,
+    "sha256": "bc187e110be8e1f11c6e75e0b25f855938e54501d97ad47e0ecf7865b59acb3a"
+  },
+  {
     "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 02/Reference Frames/S02A-gpt26-v001.alignment.json",
     "size": 441,
     "sha256": "f561a18c4662ca3be04a0f164432d1fb0cd74081ccec9e34f8c3697aa0c301c3"
@@ -11380,6 +11685,11 @@
     "sha256": "8cc220ec68544b4c3a60a25ec3d91c29da4effbea7f7a69fc69b3c9832f8a2c5"
   },
   {
+    "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 02/timed-production-map-v004.json",
+    "size": 54041,
+    "sha256": "217ddf261136c2c3888d386d8119e2c458d198a75f585fa7c6ebe1456a289c03"
+  },
+  {
     "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 03/Audio/Complete Pilot/S03-N01-neon-take001-alignment.json",
     "size": 6422,
     "sha256": "2376716683c59b21e5cff48556a88405c1e2db76eb2d51e3f24f79a031de497d"
@@ -11573,6 +11883,11 @@
     "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 03/Audio/Sound Effects/FX04-broadcast-interruption.mp3",
     "size": 97009,
     "sha256": "734d0f3a558a98e9feb78b5cc23176d8b3ca6c528f7cec56d7f8aaf25d180e55"
+  },
+  {
+    "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 03/current-dialogue.txt",
+    "size": 775,
+    "sha256": "32da0ce42fea184bdb194d27d2d529255fae47c97460174268249d680e0c76ba"
   },
   {
     "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 03/Reference Frames/S03A-gpt26-v001.alignment.json",
@@ -11790,6 +12105,11 @@
     "sha256": "5f03693f8549c7d40a5edf77c551e4801b4314c27d83bc2eca8042c900b0de4f"
   },
   {
+    "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 03/timed-production-map-v004.json",
+    "size": 49032,
+    "sha256": "3c30d736e385447c4595707fc919f0efcf534930f58b22de216d357494d97275"
+  },
+  {
     "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 04/Audio/Complete Pilot/S04-N01-byte-take001-alignment.json",
     "size": 6968,
     "sha256": "0f63c76886e02478249f0dd63e744149327f7ae72edf14ead9a482e4101287cc"
@@ -11975,6 +12295,16 @@
     "sha256": "59be6e8557616989845580dd1ef70394d2ccf6d3e0dd92f2031ef641ba5ba7a0"
   },
   {
+    "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 04/Audio/Score/MUS01-kitty-punks-theme.json",
+    "size": 829,
+    "sha256": "608418b6f2263f3a51bf711e12a17eed6b1aa8cd91b1b77c1da51b7cee6a8942"
+  },
+  {
+    "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 04/Audio/Score/MUS01-kitty-punks-theme.mp3",
+    "size": 720605,
+    "sha256": "919fbdb272e62a2c0f3aba7f1b87eb60f8d998c9219d1c63d0c05ae90eb2b710"
+  },
+  {
     "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 04/Audio/Sound Effects/FX05-district-street.json",
     "size": 674,
     "sha256": "b7366cd59146dccb25f8617600e1e42ec14d686285257ed171932d7befa24a7a"
@@ -11983,6 +12313,11 @@
     "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 04/Audio/Sound Effects/FX05-district-street.mp3",
     "size": 321035,
     "sha256": "93d47a72f80de3d9b06923ed5b782b19cba6659384f3acc165246473ced7c57c"
+  },
+  {
+    "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 04/current-dialogue.txt",
+    "size": 643,
+    "sha256": "41d31632dcb4e1aa6b7eb837bed37a7a49e6aa244181afd9710ad42b9cf64ea9"
   },
   {
     "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 04/Reference Frames/S04A-gpt26-v001.alignment.json",
@@ -12148,6 +12483,11 @@
     "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 04/timed-production-map-v003.json",
     "size": 35619,
     "sha256": "5bb901c8e8276e8d7e7166bc61447292d01d1f66bc585f3e201549b9e317dd06"
+  },
+  {
+    "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 04/timed-production-map-v004.json",
+    "size": 39181,
+    "sha256": "0057d26582a4b9e195dbdb23e7ef0127463f57e4c499906a9c1067db2832f4f0"
   },
   {
     "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 05/Audio/Mix Preview/Scene05-dialogue-effects-preview-v001.mp3",
@@ -12365,6 +12705,11 @@
     "sha256": "94089fc0a0468e283ab6e4e09d47e89d1d751902d09d99ea00deedf01ab3d629"
   },
   {
+    "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 05/current-dialogue.txt",
+    "size": 617,
+    "sha256": "021f19452640a15634cd5cceca978b1059a2bfc6932c4785a54e7028a6a8f502"
+  },
+  {
     "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 05/scene-brief.txt",
     "size": 623,
     "sha256": "b7ef5caadb3d759f8972c8be01fc2807f15f9b5840522bbb1748f571decfd37a"
@@ -12378,6 +12723,11 @@
     "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 05/timed-production-map-v003.json",
     "size": 36852,
     "sha256": "53d7219d9247f53504acb4f4143b486351575e957a4ab999898f91ccc9a6d215"
+  },
+  {
+    "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 05/timed-production-map-v004.json",
+    "size": 36963,
+    "sha256": "16b8003767ed6ffa0a2e27faaa28bb9c0328fd5dc90583d35e025c5a5b425337"
   },
   {
     "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 06/Audio/Complete Pilot/S06-D01-trixie-take001-alignment.json",
@@ -12545,6 +12895,16 @@
     "sha256": "0117de620d8cc5453834b3daf272428d0c7582fe4b3c3486c97b0297cb121bb8"
   },
   {
+    "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 06/Audio/Score/MUS01-kitty-punks-theme.json",
+    "size": 829,
+    "sha256": "608418b6f2263f3a51bf711e12a17eed6b1aa8cd91b1b77c1da51b7cee6a8942"
+  },
+  {
+    "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 06/Audio/Score/MUS01-kitty-punks-theme.mp3",
+    "size": 720605,
+    "sha256": "919fbdb272e62a2c0f3aba7f1b87eb60f8d998c9219d1c63d0c05ae90eb2b710"
+  },
+  {
     "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 06/Audio/Sound Effects/FX05-district-street.json",
     "size": 674,
     "sha256": "b7366cd59146dccb25f8617600e1e42ec14d686285257ed171932d7befa24a7a"
@@ -12565,6 +12925,11 @@
     "sha256": "3f991fcc0b8af9d057e2f74f28aa49e038a0fc861a133ff3350a789dc7ab046c"
   },
   {
+    "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 06/current-dialogue.txt",
+    "size": 623,
+    "sha256": "3bef89c2a38e9f6f63c93df6525ee17fbbe0a3f02673624aeefe9fc368e624fd"
+  },
+  {
     "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 06/scene-brief.txt",
     "size": 895,
     "sha256": "de2e635b49afef7134ae2170f8a76b99c0ded706edb38f35f480e5b7956f1c93"
@@ -12578,6 +12943,11 @@
     "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 06/timed-production-map-v003.json",
     "size": 34247,
     "sha256": "03e33e22835cdea6b5b4a172d2fc7912adb11029edda5eddb36daf93b24c9f6b"
+  },
+  {
+    "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 06/timed-production-map-v004.json",
+    "size": 38864,
+    "sha256": "cce711a13f247b7df35cc10e7f8290883868a1c6b9b5fa21a43e7bca1eee8df5"
   },
   {
     "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 07/Audio/Complete Pilot/S07-D01-trixie-take001-alignment.json",
@@ -12785,6 +13155,26 @@
     "sha256": "d7c109244c96fb6f799f79acabcdaf5508339d23656356c0ee5fba514d485556"
   },
   {
+    "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 07/Audio/Revision 2/S07-R01.json",
+    "size": 700,
+    "sha256": "f81dca0df5b2c49641608b8fbde92e2ac5ad401a24ea73c43871a9f018b7e9b2"
+  },
+  {
+    "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 07/Audio/Revision 2/S07-R01.mp3",
+    "size": 91576,
+    "sha256": "6f73b9efac74b2e2d6b5229318a2f403f7763dfd72153cb8aa569d655c81083a"
+  },
+  {
+    "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 07/Audio/Score/MUS04-dinner-is-served.json",
+    "size": 769,
+    "sha256": "9b4f75619e8763990d540ab342a757ce79c9e110c54dfdef7533d0ddbb8638e1"
+  },
+  {
+    "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 07/Audio/Score/MUS04-dinner-is-served.mp3",
+    "size": 720605,
+    "sha256": "4437b6ab104c0d5bc0ff032860aa4f9a51c025e8ff7d97d8feb140f6019b8dfc"
+  },
+  {
     "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 07/Audio/Sound Effects/FX07-crowd-movement.json",
     "size": 652,
     "sha256": "1b5578cf41b886e5046d2e0c2763915803e30485c518c900310f84ea07329a74"
@@ -12793,6 +13183,11 @@
     "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 07/Audio/Sound Effects/FX07-crowd-movement.mp3",
     "size": 193140,
     "sha256": "3f991fcc0b8af9d057e2f74f28aa49e038a0fc861a133ff3350a789dc7ab046c"
+  },
+  {
+    "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 07/current-dialogue.txt",
+    "size": 951,
+    "sha256": "dbb8a347be14ddbb9abcd2644c93f4a32d2763003ed93ff1b8c5ae0e190291cd"
   },
   {
     "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 07/scene-brief.txt",
@@ -12808,6 +13203,11 @@
     "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 07/timed-production-map-v003.json",
     "size": 41913,
     "sha256": "a0cae56430c149f0ec95f2630e9a48231eb018b3b736928ee3043af053368e01"
+  },
+  {
+    "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 07/timed-production-map-v004.json",
+    "size": 48888,
+    "sha256": "8be816514b9c40ab5be6f2d632554aa1b17fe7ffe439b8b25e387ce950603952"
   },
   {
     "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 08/Audio/Complete Pilot/S08-D01-district7_kitten-take001-alignment.json",
@@ -12975,6 +13375,16 @@
     "sha256": "8505e0ed750d1ebe685129b8c78d37793a728bc10a670340ef93943b103619c2"
   },
   {
+    "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 08/Audio/Score/MUS01-kitty-punks-theme.json",
+    "size": 829,
+    "sha256": "608418b6f2263f3a51bf711e12a17eed6b1aa8cd91b1b77c1da51b7cee6a8942"
+  },
+  {
+    "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 08/Audio/Score/MUS01-kitty-punks-theme.mp3",
+    "size": 720605,
+    "sha256": "919fbdb272e62a2c0f3aba7f1b87eb60f8d998c9219d1c63d0c05ae90eb2b710"
+  },
+  {
     "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 08/Audio/Sound Effects/FX05-district-street.json",
     "size": 674,
     "sha256": "b7366cd59146dccb25f8617600e1e42ec14d686285257ed171932d7befa24a7a"
@@ -12995,6 +13405,11 @@
     "sha256": "3f991fcc0b8af9d057e2f74f28aa49e038a0fc861a133ff3350a789dc7ab046c"
   },
   {
+    "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 08/current-dialogue.txt",
+    "size": 480,
+    "sha256": "f88c8975f7e4cac3f67ae9538f5640db0235cb181c839868b0b8394d93aa1fa0"
+  },
+  {
     "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 08/scene-brief.txt",
     "size": 954,
     "sha256": "b38389831c26a1db07ecd5ed8a06358aea3e635d4ce57a1ec86911ce4900f328"
@@ -13008,6 +13423,11 @@
     "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 08/timed-production-map-v003.json",
     "size": 27506,
     "sha256": "060d4c0479c44e3eb7ae06e99ebf54092b8ea83989bb81b09b4e82fb5e480a95"
+  },
+  {
+    "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 08/timed-production-map-v004.json",
+    "size": 32020,
+    "sha256": "1907fa660c71233b39c68b0251efae710abfe68392de1aed194a6f74ca42c8aa"
   },
   {
     "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 09/Audio/Complete Pilot/S09-D01-ghost-take001-alignment.json",
@@ -13255,6 +13675,16 @@
     "sha256": "d92a98012cc477a373e0cfefc3739a4d89f58ec3772cc39ab2fbd1522e1c670f"
   },
   {
+    "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 09/Audio/Score/MUS02-follow-the-money.json",
+    "size": 819,
+    "sha256": "0f41499e5819497fc335de8a66aa013e8de471ad8f53b98ec9fb5c16707315a0"
+  },
+  {
+    "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 09/Audio/Score/MUS02-follow-the-money.mp3",
+    "size": 721441,
+    "sha256": "47a929f87d5a6144e68939e6c0e5a5d0a851ffceb41930bd99131c27cf606c54"
+  },
+  {
     "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 09/Audio/Sound Effects/FX01-hideout-room.json",
     "size": 681,
     "sha256": "e0aade5054bb3d994baab526eb330d4607c248d70124c0547175751f04d659eb"
@@ -13275,6 +13705,11 @@
     "sha256": "4e997ba079fc6eb6d285b96c9a4e175caed42a0adf6309c99042c9385d50a34d"
   },
   {
+    "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 09/current-dialogue.txt",
+    "size": 860,
+    "sha256": "fa1762dff2c05851cad8fd3e9ecaecd4fda61b99220e9e2ab763f6b6f174749e"
+  },
+  {
     "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 09/scene-brief.txt",
     "size": 953,
     "sha256": "850fef9aa3fe47541e1577ab98afa33a357e5a940180143fe9d7d28ac1b8c39b"
@@ -13288,6 +13723,11 @@
     "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 09/timed-production-map-v003.json",
     "size": 41856,
     "sha256": "ecdb6f04131c119d290d9110964b4859eda9590dd054f0d50e236db1aa1fe09b"
+  },
+  {
+    "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 09/timed-production-map-v004.json",
+    "size": 48384,
+    "sha256": "6adca0be93a0fbd4a70f9d6aba131fb0a16af8a8eb768c5e88c2f29fb1c090d4"
   },
   {
     "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 10/Audio/Complete Pilot/S10-D01-neon-take001-alignment.json",
@@ -13535,6 +13975,16 @@
     "sha256": "54ca91fe08b78927658fbd28da29c4b0a12732467cd40177341cf850533cf3fa"
   },
   {
+    "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 10/Audio/Score/MUS01-kitty-punks-theme.json",
+    "size": 829,
+    "sha256": "608418b6f2263f3a51bf711e12a17eed6b1aa8cd91b1b77c1da51b7cee6a8942"
+  },
+  {
+    "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 10/Audio/Score/MUS01-kitty-punks-theme.mp3",
+    "size": 720605,
+    "sha256": "919fbdb272e62a2c0f3aba7f1b87eb60f8d998c9219d1c63d0c05ae90eb2b710"
+  },
+  {
     "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 10/Audio/Sound Effects/FX01-hideout-room.json",
     "size": 681,
     "sha256": "e0aade5054bb3d994baab526eb330d4607c248d70124c0547175751f04d659eb"
@@ -13555,6 +14005,11 @@
     "sha256": "fe45734b5df27e859c37fa3b2ce555389270bec93cdd80eee1c77567abfcadd7"
   },
   {
+    "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 10/current-dialogue.txt",
+    "size": 782,
+    "sha256": "6bdbc60be6f8c558a70abb4a183c68bb36398262b012e296999c0a8d8ddb9530"
+  },
+  {
     "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 10/scene-brief.txt",
     "size": 999,
     "sha256": "8df27ae7771dcc55f984442bfc63584f1a490fb3d8dcc375eb87545667bad2ce"
@@ -13568,6 +14023,11 @@
     "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 10/timed-production-map-v003.json",
     "size": 40849,
     "sha256": "bd628051300b448b54783344ceffb700aeba10f3502c798c878f3aef35b4f997"
+  },
+  {
+    "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 10/timed-production-map-v004.json",
+    "size": 47310,
+    "sha256": "a5a250f6a3a6d2c35d8f1c505e4becd035a460928c0cfbd02142363ea4788fb2"
   },
   {
     "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 11/Audio/Complete Pilot/S11-D01-byte-take001-alignment.json",
@@ -13795,6 +14255,16 @@
     "sha256": "4d79d3db78d149553ac83fdd62c1c2d23977ff94b14e685b7b6c8aa15551672a"
   },
   {
+    "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 11/Audio/Score/MUS02-follow-the-money.json",
+    "size": 819,
+    "sha256": "0f41499e5819497fc335de8a66aa013e8de471ad8f53b98ec9fb5c16707315a0"
+  },
+  {
+    "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 11/Audio/Score/MUS02-follow-the-money.mp3",
+    "size": 721441,
+    "sha256": "47a929f87d5a6144e68939e6c0e5a5d0a851ffceb41930bd99131c27cf606c54"
+  },
+  {
     "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 11/Audio/Sound Effects/FX10-luxury-restaurant.json",
     "size": 674,
     "sha256": "2e0cdb8abbf271cfa8f7b055d5436213cc4585f9ccbb77f078b5e353adf6e677"
@@ -13803,6 +14273,11 @@
     "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 11/Audio/Sound Effects/FX10-luxury-restaurant.mp3",
     "size": 321035,
     "sha256": "624a8f812e7731e3449bdc47fdbbbaadc436aa133144d829b3357bcab9945828"
+  },
+  {
+    "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 11/current-dialogue.txt",
+    "size": 800,
+    "sha256": "e07f09c4bec28d7496e45a46816c7e4dfc19eda70534c7341d7ccef99b55b34a"
   },
   {
     "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 11/scene-brief.txt",
@@ -13818,6 +14293,11 @@
     "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 11/timed-production-map-v003.json",
     "size": 45458,
     "sha256": "2209f487e8df3289ffd8328a5c8f66a7ad0822849f4705aea3cfa833813fc149"
+  },
+  {
+    "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 11/timed-production-map-v004.json",
+    "size": 51422,
+    "sha256": "0dee240a6d82d3aa4afc8a941c13c22b50e5ca1bf954e9184d591dd0751cbe25"
   },
   {
     "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 12/Audio/Complete Pilot/S12-D01-dog_guard_a-take001-alignment.json",
@@ -13965,6 +14445,16 @@
     "sha256": "fdbd3ae080f47e7c476a1ecae648491169ba30b6b80279feffcc39f4f88f4e42"
   },
   {
+    "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 12/Audio/Score/MUS02-follow-the-money.json",
+    "size": 819,
+    "sha256": "0f41499e5819497fc335de8a66aa013e8de471ad8f53b98ec9fb5c16707315a0"
+  },
+  {
+    "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 12/Audio/Score/MUS02-follow-the-money.mp3",
+    "size": 721441,
+    "sha256": "47a929f87d5a6144e68939e6c0e5a5d0a851ffceb41930bd99131c27cf606c54"
+  },
+  {
     "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 12/Audio/Sound Effects/FX09-bone-decoy.json",
     "size": 655,
     "sha256": "8438c471b45751e324321e2e8ec209e55469016e1138c5f3e69a580a8a7d901c"
@@ -13973,6 +14463,11 @@
     "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 12/Audio/Sound Effects/FX09-bone-decoy.mp3",
     "size": 129192,
     "sha256": "fe45734b5df27e859c37fa3b2ce555389270bec93cdd80eee1c77567abfcadd7"
+  },
+  {
+    "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 12/current-dialogue.txt",
+    "size": 352,
+    "sha256": "6689c223bc7ebddc7b8a329a723524664909ed1fb1619358d881023ccde7ea4d"
   },
   {
     "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 12/scene-brief.txt",
@@ -13988,6 +14483,11 @@
     "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 12/timed-production-map-v003.json",
     "size": 33834,
     "sha256": "42eb72a148e54fd18653499217efdaff6975e7d204bd0c1175045bcee0ce2bd7"
+  },
+  {
+    "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 12/timed-production-map-v004.json",
+    "size": 37694,
+    "sha256": "f70265427661f687105fef8ceb43b5d251968bb597b40cd93789a4d581203eff"
   },
   {
     "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 13/Audio/Complete Pilot/S13-D01-byte-take001-alignment.json",
@@ -14195,6 +14695,16 @@
     "sha256": "a2fbe46c0edf9865d375f2a5654cc4b3749be6bebb14b7a9a6fabda380e158e8"
   },
   {
+    "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 13/Audio/Score/MUS02-follow-the-money.json",
+    "size": 819,
+    "sha256": "0f41499e5819497fc335de8a66aa013e8de471ad8f53b98ec9fb5c16707315a0"
+  },
+  {
+    "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 13/Audio/Score/MUS02-follow-the-money.mp3",
+    "size": 721441,
+    "sha256": "47a929f87d5a6144e68939e6c0e5a5d0a851ffceb41930bd99131c27cf606c54"
+  },
+  {
     "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 13/Audio/Sound Effects/FX10-luxury-restaurant.json",
     "size": 674,
     "sha256": "2e0cdb8abbf271cfa8f7b055d5436213cc4585f9ccbb77f078b5e353adf6e677"
@@ -14215,6 +14725,11 @@
     "sha256": "8116286f37a9bdda41fe9c70c17179b28352a85871af7ecc583aaf836b440efb"
   },
   {
+    "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 13/current-dialogue.txt",
+    "size": 551,
+    "sha256": "6a872c28e871fda49c89ea9941c14ca1f78686994026046df9b49d40ba1cc9ab"
+  },
+  {
     "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 13/scene-brief.txt",
     "size": 891,
     "sha256": "51cf6691fefe77b2769d94bd243f2b22aa01bef40282f0033af3cee057f2f76d"
@@ -14228,6 +14743,11 @@
     "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 13/timed-production-map-v003.json",
     "size": 32266,
     "sha256": "4cef377637619b557291cb2e4db9289feb180d280e22c25df92815d0228602df"
+  },
+  {
+    "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 13/timed-production-map-v004.json",
+    "size": 37648,
+    "sha256": "a975f4eca2ac5dd56018f4b99a3b8627348956cb5c9ed766aa8d7f58c7c5f7c0"
   },
   {
     "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 14/Audio/Complete Pilot/S14-D01-chairman_barkington-take001-alignment.json",
@@ -14455,6 +14975,16 @@
     "sha256": "003b5566fd113902300d7b1cb29c4a67a2d176200da630881879889e47eda341"
   },
   {
+    "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 14/Audio/Score/MUS02-follow-the-money.json",
+    "size": 819,
+    "sha256": "0f41499e5819497fc335de8a66aa013e8de471ad8f53b98ec9fb5c16707315a0"
+  },
+  {
+    "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 14/Audio/Score/MUS02-follow-the-money.mp3",
+    "size": 721441,
+    "sha256": "47a929f87d5a6144e68939e6c0e5a5d0a851ffceb41930bd99131c27cf606c54"
+  },
+  {
     "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 14/Audio/Sound Effects/FX10-luxury-restaurant.json",
     "size": 674,
     "sha256": "2e0cdb8abbf271cfa8f7b055d5436213cc4585f9ccbb77f078b5e353adf6e677"
@@ -14463,6 +14993,11 @@
     "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 14/Audio/Sound Effects/FX10-luxury-restaurant.mp3",
     "size": 321035,
     "sha256": "624a8f812e7731e3449bdc47fdbbbaadc436aa133144d829b3357bcab9945828"
+  },
+  {
+    "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 14/current-dialogue.txt",
+    "size": 859,
+    "sha256": "3fa90082107763919120e76a7be8eb3c7d01d92a2a5f1e67704238039f300122"
   },
   {
     "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 14/scene-brief.txt",
@@ -14478,6 +15013,11 @@
     "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 14/timed-production-map-v003.json",
     "size": 35404,
     "sha256": "d7b2fd7d1e84db6c774781075b3fd9099d8dc3d6d1ac41618d9306f6a07f12c7"
+  },
+  {
+    "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 14/timed-production-map-v004.json",
+    "size": 41547,
+    "sha256": "e025559668f200ebba8676add06e7b07e63edf5dbf39a47478980e8912a863d9"
   },
   {
     "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 15/Audio/Complete Pilot/S15-D01-byte-take001-alignment.json",
@@ -14685,6 +15225,16 @@
     "sha256": "9352082e22eb01dd3ebf7efc7462c3d321fd75a88816c04b32712d501844aa9e"
   },
   {
+    "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 15/Audio/Score/MUS02-follow-the-money.json",
+    "size": 819,
+    "sha256": "0f41499e5819497fc335de8a66aa013e8de471ad8f53b98ec9fb5c16707315a0"
+  },
+  {
+    "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 15/Audio/Score/MUS02-follow-the-money.mp3",
+    "size": 721441,
+    "sha256": "47a929f87d5a6144e68939e6c0e5a5d0a851ffceb41930bd99131c27cf606c54"
+  },
+  {
     "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 15/Audio/Sound Effects/FX10-luxury-restaurant.json",
     "size": 674,
     "sha256": "2e0cdb8abbf271cfa8f7b055d5436213cc4585f9ccbb77f078b5e353adf6e677"
@@ -14705,6 +15255,11 @@
     "sha256": "8116286f37a9bdda41fe9c70c17179b28352a85871af7ecc583aaf836b440efb"
   },
   {
+    "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 15/current-dialogue.txt",
+    "size": 544,
+    "sha256": "4aaee018ec3e007220e62b0497b658dc09bcf6c7eacb6f61ee8d193450841107"
+  },
+  {
     "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 15/scene-brief.txt",
     "size": 1039,
     "sha256": "aedd22724a2d6ef8367955e2e3246b011a386db392f1fa1d8c9914b2b78cfc9c"
@@ -14718,6 +15273,11 @@
     "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 15/timed-production-map-v003.json",
     "size": 34989,
     "sha256": "a466039fe4842f70058f42203807db825eef51193636ce2cd0b3adfb5707c7d8"
+  },
+  {
+    "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 15/timed-production-map-v004.json",
+    "size": 40380,
+    "sha256": "a8a9a358753ee28b17bba3bb67631dbc0b301b35273b6c69cb3f38a4f5527274"
   },
   {
     "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 16/Audio/Complete Pilot/S16-D01-dog_guard_a-take001-alignment.json",
@@ -14905,6 +15465,16 @@
     "sha256": "a9034103e3cc45eeb9784775be8537d83262b12614051591f9220a675ac65345"
   },
   {
+    "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 16/Audio/Score/MUS03-salmon-run.json",
+    "size": 797,
+    "sha256": "e9df33dad7ee402f6a93c36ae372c9e3622330ed3523ca435b65fd80cac5ca88"
+  },
+  {
+    "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 16/Audio/Score/MUS03-salmon-run.mp3",
+    "size": 720605,
+    "sha256": "e497e22443a53f18a6abe6fcfbbe3b4954bc6fa648f04f02b40160a344eb453a"
+  },
+  {
     "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 16/Audio/Sound Effects/FX09-bone-decoy.json",
     "size": 655,
     "sha256": "8438c471b45751e324321e2e8ec209e55469016e1138c5f3e69a580a8a7d901c"
@@ -14935,6 +15505,11 @@
     "sha256": "260981e848088d93600e1746de3718404c348de9bdce046a6ca6be8ced00e279"
   },
   {
+    "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 16/current-dialogue.txt",
+    "size": 447,
+    "sha256": "75151a639e5a724d949ec9a8757693db0ca4497fc9c841c156a8e1214c10283f"
+  },
+  {
     "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 16/scene-brief.txt",
     "size": 886,
     "sha256": "4b3c755110b56715bdf42013efed09f6697a48059baa39c39b44ee209d140214"
@@ -14948,6 +15523,11 @@
     "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 16/timed-production-map-v003.json",
     "size": 41707,
     "sha256": "a58d1852723905e08677ceada99c2c0c8796df4df32ec9a1c60b5cd21052b274"
+  },
+  {
+    "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 16/timed-production-map-v004.json",
+    "size": 46667,
+    "sha256": "47ca74f43e6f77b627122a560c963d42634f4d4e5030ec6b172af33fb4f1b1a1"
   },
   {
     "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 17/Audio/Complete Pilot/S17-D01-nip7_anchor-take001-alignment.json",
@@ -15135,6 +15715,16 @@
     "sha256": "a04d67005dab31e6843a1a9ee5c7fc4fbd31d2025c8dc34a9b10faf63bb13275"
   },
   {
+    "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 17/Audio/Score/MUS04-dinner-is-served.json",
+    "size": 769,
+    "sha256": "9b4f75619e8763990d540ab342a757ce79c9e110c54dfdef7533d0ddbb8638e1"
+  },
+  {
+    "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 17/Audio/Score/MUS04-dinner-is-served.mp3",
+    "size": 720605,
+    "sha256": "4437b6ab104c0d5bc0ff032860aa4f9a51c025e8ff7d97d8feb140f6019b8dfc"
+  },
+  {
     "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 17/Audio/Sound Effects/FX01-hideout-room.json",
     "size": 681,
     "sha256": "e0aade5054bb3d994baab526eb330d4607c248d70124c0547175751f04d659eb"
@@ -15175,6 +15765,11 @@
     "sha256": "eb73d4d7ee7ff5e7d994b61c1ee097577dd5753db7d794813c5cd8f22a7a2932"
   },
   {
+    "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 17/current-dialogue.txt",
+    "size": 714,
+    "sha256": "54afd0e02e1d953f1ebaf6c28643b76581c25b2d3df09583e855fd4ba891be63"
+  },
+  {
     "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 17/scene-brief.txt",
     "size": 631,
     "sha256": "d8c055d940fe9adf176ab4fb3e10afaef841004934152942368b3d61807b5a2d"
@@ -15188,6 +15783,11 @@
     "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 17/timed-production-map-v003.json",
     "size": 36684,
     "sha256": "30dd098e0a375265e9f63f09b1a695606a458a8f491668c8b0e5fa607419b32d"
+  },
+  {
+    "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 17/timed-production-map-v004.json",
+    "size": 41938,
+    "sha256": "550550582512f62a05affc25b47c77abfc01464a4b5a102f698b7439190ba86b"
   },
   {
     "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 18/Audio/Complete Pilot/S18-D01-byte-take001-alignment.json",
@@ -15355,6 +15955,16 @@
     "sha256": "47b2e884ee95c8f0b011efcd23a56a41d61c2d6f4fe3f433097e8a2db5c1e51e"
   },
   {
+    "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 18/Audio/Score/MUS04-dinner-is-served.json",
+    "size": 769,
+    "sha256": "9b4f75619e8763990d540ab342a757ce79c9e110c54dfdef7533d0ddbb8638e1"
+  },
+  {
+    "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 18/Audio/Score/MUS04-dinner-is-served.mp3",
+    "size": 720605,
+    "sha256": "4437b6ab104c0d5bc0ff032860aa4f9a51c025e8ff7d97d8feb140f6019b8dfc"
+  },
+  {
     "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 18/Audio/Sound Effects/FX05-district-street.json",
     "size": 674,
     "sha256": "b7366cd59146dccb25f8617600e1e42ec14d686285257ed171932d7befa24a7a"
@@ -15375,6 +15985,11 @@
     "sha256": "eb73d4d7ee7ff5e7d994b61c1ee097577dd5753db7d794813c5cd8f22a7a2932"
   },
   {
+    "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 18/current-dialogue.txt",
+    "size": 441,
+    "sha256": "fe9fd0b48893fe78173bfab82807708bc34c86f80ec66bff71855d2bfe21f33f"
+  },
+  {
     "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 18/scene-brief.txt",
     "size": 866,
     "sha256": "9d41482d493e1b4775f00a1048f737a955eb2ed0a8aca19ad0499ae42c5acb41"
@@ -15388,6 +16003,11 @@
     "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 18/timed-production-map-v003.json",
     "size": 32733,
     "sha256": "74a4144935a862194244659e8de076eebb80ea08ab8eb6ddce5f1efc0179170d"
+  },
+  {
+    "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 18/timed-production-map-v004.json",
+    "size": 37168,
+    "sha256": "c510b29f9cba3d2ea22644bc2ad21d3a29697e2e16e8ce8aa000a2ae4d96332d"
   },
   {
     "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 19/Audio/Complete Pilot/S19-D01-neon-take001-alignment.json",
@@ -15535,6 +16155,16 @@
     "sha256": "f4e46e9511b6c881abe85fc52dcfdd6400835b5576f68c85331f4280c91b86a0"
   },
   {
+    "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 19/Audio/Score/MUS02-follow-the-money.json",
+    "size": 819,
+    "sha256": "0f41499e5819497fc335de8a66aa013e8de471ad8f53b98ec9fb5c16707315a0"
+  },
+  {
+    "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 19/Audio/Score/MUS02-follow-the-money.mp3",
+    "size": 721441,
+    "sha256": "47a929f87d5a6144e68939e6c0e5a5d0a851ffceb41930bd99131c27cf606c54"
+  },
+  {
     "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 19/Audio/Sound Effects/FX01-hideout-room.json",
     "size": 681,
     "sha256": "e0aade5054bb3d994baab526eb330d4607c248d70124c0547175751f04d659eb"
@@ -15555,6 +16185,11 @@
     "sha256": "4e997ba079fc6eb6d285b96c9a4e175caed42a0adf6309c99042c9385d50a34d"
   },
   {
+    "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 19/current-dialogue.txt",
+    "size": 434,
+    "sha256": "c08bc89c66b2d27e72614f1f1a7f8ba20c7b43ba26acc439c76ad4d9986a5aae"
+  },
+  {
     "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 19/scene-brief.txt",
     "size": 882,
     "sha256": "5b58ecbef1e362c0e6c7693a83dcdc1865d3a2f78c5f1459a932a9cd96a2ab73"
@@ -15568,6 +16203,11 @@
     "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 19/timed-production-map-v003.json",
     "size": 28396,
     "sha256": "741bac41f6016906b3544fbf65915d7f94b00e75f8c3e4339151a493ee6f6fe6"
+  },
+  {
+    "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 19/timed-production-map-v004.json",
+    "size": 32386,
+    "sha256": "819bec1282074cfd53e327aa5794f5eaec0b43689faef84b2b2336c29215bd25"
   },
   {
     "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 20/Audio/Complete Pilot/S20-D01-trixie-take001-alignment.json",
@@ -15695,6 +16335,16 @@
     "sha256": "3c75c446489949aed127c56fce74e36034713bba6e4368befa989e481f7f37f1"
   },
   {
+    "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 20/Audio/Score/MUS03-salmon-run.json",
+    "size": 797,
+    "sha256": "e9df33dad7ee402f6a93c36ae372c9e3622330ed3523ca435b65fd80cac5ca88"
+  },
+  {
+    "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 20/Audio/Score/MUS03-salmon-run.mp3",
+    "size": 720605,
+    "sha256": "e497e22443a53f18a6abe6fcfbbe3b4954bc6fa648f04f02b40160a344eb453a"
+  },
+  {
     "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 20/Audio/Sound Effects/FX13-salmon-factory.json",
     "size": 664,
     "sha256": "46e6f188856ec9a4a3b168f3bca84668155fe15e04467c15b4a4a32eb94ecf9f"
@@ -15725,6 +16375,11 @@
     "sha256": "5f91e8a4485f2b156d25a5bfdfd573014bd4f6590d328d80b04ddb506097b132"
   },
   {
+    "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 20/current-dialogue.txt",
+    "size": 387,
+    "sha256": "00f4c38b23abc7231ce82d2f48eaa29ff813cc5b2755edc45172fde8fb5e1947"
+  },
+  {
     "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 20/scene-brief.txt",
     "size": 856,
     "sha256": "00bbae15ac1b7c86ef26d32c0decaf3675a3342e44717946af86908221aca059"
@@ -15738,6 +16393,11 @@
     "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 20/timed-production-map-v003.json",
     "size": 27199,
     "sha256": "7986f5bec17a6d8095877577af4169624cc7ace6ac165cfd0544fc5bb2fbe416"
+  },
+  {
+    "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 20/timed-production-map-v004.json",
+    "size": 30812,
+    "sha256": "2ca25f9db54bdaa9df495546ddc69058108148b4645e9a8def02e05c337a5e31"
   },
   {
     "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 21/Audio/Complete Pilot/S21-D01-byte-take001-alignment.json",
@@ -15905,6 +16565,16 @@
     "sha256": "763ab41852c061f079ac092e6bfff365ba89994571d5a31bda1023ca2a7f1c9f"
   },
   {
+    "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 21/Audio/Score/MUS03-salmon-run.json",
+    "size": 797,
+    "sha256": "e9df33dad7ee402f6a93c36ae372c9e3622330ed3523ca435b65fd80cac5ca88"
+  },
+  {
+    "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 21/Audio/Score/MUS03-salmon-run.mp3",
+    "size": 720605,
+    "sha256": "e497e22443a53f18a6abe6fcfbbe3b4954bc6fa648f04f02b40160a344eb453a"
+  },
+  {
     "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 21/Audio/Sound Effects/FX12-security-alarm.json",
     "size": 608,
     "sha256": "1c6608ee81e2ffa6541877fc87037a989ca2527b278c210a38c68a1d5ecf9338"
@@ -15935,6 +16605,11 @@
     "sha256": "f606a728d874a8bcfe19b1ae04f0da95e527942162aba30dc1e2a48c0d27f6a0"
   },
   {
+    "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 21/current-dialogue.txt",
+    "size": 445,
+    "sha256": "d5a2e67c4f18403d7951f68f085a252f727700554288fed025e66eb142991a0b"
+  },
+  {
     "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 21/scene-brief.txt",
     "size": 939,
     "sha256": "b1b72c75007eb03ba7ef08a043226c50f0e8d89ade6adcbe55739d499d810dcb"
@@ -15948,6 +16623,11 @@
     "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 21/timed-production-map-v003.json",
     "size": 36268,
     "sha256": "73b5ed29ca2c0bcf8ae3cc8f068b943a710286653da83adec224713e18ea37a9"
+  },
+  {
+    "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 21/timed-production-map-v004.json",
+    "size": 40794,
+    "sha256": "796ac8472fc81ae3f71027b53196c60fd38e0d4d8dd8c1e56b90b75c6e544eb5"
   },
   {
     "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 22/Audio/Complete Pilot/S22-D01-neon-take001-alignment.json",
@@ -16115,6 +16795,16 @@
     "sha256": "c3a71553b9791fca4fd81268f9834b1d3a3591a7b61538158a38f97c71886089"
   },
   {
+    "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 22/Audio/Score/MUS03-salmon-run.json",
+    "size": 797,
+    "sha256": "e9df33dad7ee402f6a93c36ae372c9e3622330ed3523ca435b65fd80cac5ca88"
+  },
+  {
+    "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 22/Audio/Score/MUS03-salmon-run.mp3",
+    "size": 720605,
+    "sha256": "e497e22443a53f18a6abe6fcfbbe3b4954bc6fa648f04f02b40160a344eb453a"
+  },
+  {
     "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 22/Audio/Sound Effects/FX08-hacking-interface.json",
     "size": 640,
     "sha256": "da8c0d230c74b43edf23bfb13eb40fede638e57a0bd5f080b2604a46cab3eb91"
@@ -16145,6 +16835,11 @@
     "sha256": "5f91e8a4485f2b156d25a5bfdfd573014bd4f6590d328d80b04ddb506097b132"
   },
   {
+    "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 22/current-dialogue.txt",
+    "size": 522,
+    "sha256": "af070fc385fe8531fcfd2f84e33c99e62017ea733364bcae2f7fbe2f818e12af"
+  },
+  {
     "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 22/scene-brief.txt",
     "size": 1061,
     "sha256": "09ab504a30d6253be9abbdd6eff043fd60ba37c0848ad6cd5d30c3eef9da1010"
@@ -16158,6 +16853,11 @@
     "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 22/timed-production-map-v003.json",
     "size": 32907,
     "sha256": "9e712f49f82be41bfc7239829de61e0a40c46bc1d7c1514730edb6b5bc9a914e"
+  },
+  {
+    "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 22/timed-production-map-v004.json",
+    "size": 37494,
+    "sha256": "b12761a50eec633d64373c45a90c53665c4d65275f36da4ff58409d6281282f4"
   },
   {
     "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 23/Audio/Complete Pilot/S23-D01-nip7_anchor-take001-alignment.json",
@@ -16285,6 +16985,16 @@
     "sha256": "7d50d58f5c8fce1d87ef0d62abbaa872436c936e9e068dfaa6c4642fc1a41c50"
   },
   {
+    "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 23/Audio/Score/MUS04-dinner-is-served.json",
+    "size": 769,
+    "sha256": "9b4f75619e8763990d540ab342a757ce79c9e110c54dfdef7533d0ddbb8638e1"
+  },
+  {
+    "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 23/Audio/Score/MUS04-dinner-is-served.mp3",
+    "size": 720605,
+    "sha256": "4437b6ab104c0d5bc0ff032860aa4f9a51c025e8ff7d97d8feb140f6019b8dfc"
+  },
+  {
     "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 23/Audio/Sound Effects/FX05-district-street.json",
     "size": 674,
     "sha256": "b7366cd59146dccb25f8617600e1e42ec14d686285257ed171932d7befa24a7a"
@@ -16315,6 +17025,11 @@
     "sha256": "5f91e8a4485f2b156d25a5bfdfd573014bd4f6590d328d80b04ddb506097b132"
   },
   {
+    "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 23/current-dialogue.txt",
+    "size": 291,
+    "sha256": "f66a88847e3782aabd5109846fe686c22c6d87022a68d61e73af442466f60c02"
+  },
+  {
     "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 23/scene-brief.txt",
     "size": 906,
     "sha256": "1e482698f9ac2301e4dd12a698755f790ed88efadadd32f4266319df7f7d3042"
@@ -16328,6 +17043,11 @@
     "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 23/timed-production-map-v003.json",
     "size": 30831,
     "sha256": "e9c799189e993b7f18e2c0f178d7db280a5cd5b01dc1a146c714ba56d5df7f62"
+  },
+  {
+    "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 23/timed-production-map-v004.json",
+    "size": 34351,
+    "sha256": "0e5528e6b72ee870c9cef66b892b38f7790a4fb8b67be70dbe1d349de8db45a8"
   },
   {
     "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 24/Audio/Complete Pilot/S24-D01-trixie-take001-alignment.json",
@@ -16435,6 +17155,86 @@
     "sha256": "1e3754ac2cd1ba43bf243a5fbaf59413b2e7248ab7b86c64f077afc0f0719f9a"
   },
   {
+    "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 24/Audio/Revision 2/S24-R01.json",
+    "size": 702,
+    "sha256": "da6355bca3dfe330f06901674e0ae82fce0c2b4b737b86c688667f0109e366a9"
+  },
+  {
+    "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 24/Audio/Revision 2/S24-R01.mp3",
+    "size": 123758,
+    "sha256": "37408bce6c06c3539baaef12f6cc3c8ee3da302aec8421e51a7d0188b6f567f6"
+  },
+  {
+    "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 24/Audio/Revision 2/S24-R02.json",
+    "size": 598,
+    "sha256": "e28b4522dbe722178e9bdde1e87f2ce9d8176247f3df8fa0e4f80e2f9c02894e"
+  },
+  {
+    "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 24/Audio/Revision 2/S24-R02.mp3",
+    "size": 25538,
+    "sha256": "1595c9ed14d6cc5786d1920200314b8685dea7cdb035443f68dbf56b5ff5dc77"
+  },
+  {
+    "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 24/Audio/Revision 2/S24-R03.json",
+    "size": 648,
+    "sha256": "47052dc715381eb6c996df61c385ecd89adfba2c9a4332a5d1226f4b2aad9e47"
+  },
+  {
+    "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 24/Audio/Revision 2/S24-R03.mp3",
+    "size": 53123,
+    "sha256": "1605cd9b00e6946fbe289eb582bed2cad0a15bcee542a8d1992de109d832a51b"
+  },
+  {
+    "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 24/Audio/Revision 2/S24-R04.json",
+    "size": 648,
+    "sha256": "da729710845c43fd65da8fd9093a081c003903f2f85f9fc7023431c632755db4"
+  },
+  {
+    "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 24/Audio/Revision 2/S24-R04.mp3",
+    "size": 51452,
+    "sha256": "3237e4caf8f8a5482d30d7697681db9e4f219b741bcdbc7273b66ca968268759"
+  },
+  {
+    "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 24/Audio/Revision 2/S24-R05.json",
+    "size": 635,
+    "sha256": "974f5cce7fa58b034a7444cba14decfb405bf0ccf6a628e064ade684c1af2dd1"
+  },
+  {
+    "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 24/Audio/Revision 2/S24-R05.mp3",
+    "size": 47272,
+    "sha256": "9240f162f50e5641c3dc7e386f1c734cdc557e4feae0f7f4f4b75d29af6920e3"
+  },
+  {
+    "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 24/Audio/Revision 2/S24-R06.json",
+    "size": 665,
+    "sha256": "a644431fe57206d29e3f453446a2434ed2d46280c3451e02ba4a5dfb267d36ee"
+  },
+  {
+    "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 24/Audio/Revision 2/S24-R06.mp3",
+    "size": 61901,
+    "sha256": "dd965f6a25723ee70c3be20d0049cb8078b0c59f930b59b8509fe87aeb4ea896"
+  },
+  {
+    "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 24/Audio/Revision 2/S24-R07.json",
+    "size": 608,
+    "sha256": "6086bd8c405c458aff3a6407681b43dfbcbee10c8ef5d2e2f760dd79d669eee2"
+  },
+  {
+    "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 24/Audio/Revision 2/S24-R07.mp3",
+    "size": 27210,
+    "sha256": "7bb6eef4c4e6f9b649cc8003a5768b464d3b51e8fe68bf64429141372fdc23e9"
+  },
+  {
+    "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 24/Audio/Score/MUS01-kitty-punks-theme.json",
+    "size": 829,
+    "sha256": "608418b6f2263f3a51bf711e12a17eed6b1aa8cd91b1b77c1da51b7cee6a8942"
+  },
+  {
+    "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 24/Audio/Score/MUS01-kitty-punks-theme.mp3",
+    "size": 720605,
+    "sha256": "919fbdb272e62a2c0f3aba7f1b87eb60f8d998c9219d1c63d0c05ae90eb2b710"
+  },
+  {
     "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 24/Audio/Sound Effects/FX01-hideout-room.json",
     "size": 681,
     "sha256": "e0aade5054bb3d994baab526eb330d4607c248d70124c0547175751f04d659eb"
@@ -16465,6 +17265,11 @@
     "sha256": "98d98faa481867bbbb7fce4ea04db142721067f670bf0a560f0a3d9320c8b919"
   },
   {
+    "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 24/current-dialogue.txt",
+    "size": 476,
+    "sha256": "d9a51888785ba39623b74cc8a25dc570321c176a65e2c409afe5d45b29e962c7"
+  },
+  {
     "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 24/scene-brief.txt",
     "size": 3821,
     "sha256": "cbb167c11f74d2ab6aa04e30f1082515d582276a98b1b051e0b57e595a9d1be9"
@@ -16480,6 +17285,11 @@
     "sha256": "c1a99fc95497ba13c62f7af47328cc3b3445409a7b3c08dd8f5137aeab071eed"
   },
   {
+    "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 24/timed-production-map-v004.json",
+    "size": 47556,
+    "sha256": "f4626d8d7eee4a609a94af86529bc46f3b3405813170d812bd99682a6d6086cb"
+  },
+  {
     "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Script/dialogue-additions-v002.json",
     "size": 7256,
     "sha256": "1a30364e91f29ded61466261308f2b8d412a850339d80c9fdfb232923ff64eeb"
@@ -16491,8 +17301,8 @@
   },
   {
     "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Script/working-script.txt",
-    "size": 27740,
-    "sha256": "151666437cbfde37485f0d02823b409a301eb422d34a7342348de3fd885a12bf"
+    "size": 29198,
+    "sha256": "6511d28a9a948aa9a451d64bebf2e4fbc4b5ae28d630ab365a25bc1a6e136363"
   },
   {
     "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Shot Lists/scene-timeline.json",
@@ -22405,6 +23215,191 @@
     "sha256": "8bd34a1eb0f7c65853d2713e18717f1add85f80179c511b5483cb14a493e44e1"
   },
   {
+    "path": "Production/Voices/Pilot Revision 2/master-chapters.json",
+    "size": 3843,
+    "sha256": "d7351e4e63d294a2aa12227e8adcdd3adb676ee8c875863e2afd8a6dbbf2c802"
+  },
+  {
+    "path": "Production/Voices/Pilot Revision 2/MASTER-S01E01-Full-Story-Tight-Edit-v002.mp3",
+    "size": 18643321,
+    "sha256": "aa897089afb8f69b3fcff6313f9150f9928c2129e6cfb239c47b51c6c888d444"
+  },
+  {
+    "path": "Production/Voices/Pilot Revision 2/revision-plan.json",
+    "size": 1790,
+    "sha256": "d2d8fa57d4b8806a6e75a2a58e560b50a76a96e72a53025bc35061200101ce8c"
+  },
+  {
+    "path": "Production/Voices/Pilot Revision 2/Scene07/S07-R01-alignment.json",
+    "size": 8822,
+    "sha256": "f9f3f96038a9cf6229c6f684262b1d541a0b4415b48491855bfb43271c33e1c0"
+  },
+  {
+    "path": "Production/Voices/Pilot Revision 2/Scene07/S07-R01-attempt.json",
+    "size": 52,
+    "sha256": "be3a551fb196dd072b13937658e8f4e5ddf7dd30b187454220f05cfbb9bf63c2"
+  },
+  {
+    "path": "Production/Voices/Pilot Revision 2/Scene07/S07-R01.json",
+    "size": 700,
+    "sha256": "f81dca0df5b2c49641608b8fbde92e2ac5ad401a24ea73c43871a9f018b7e9b2"
+  },
+  {
+    "path": "Production/Voices/Pilot Revision 2/Scene07/S07-R01.mp3",
+    "size": 91576,
+    "sha256": "6f73b9efac74b2e2d6b5229318a2f403f7763dfd72153cb8aa569d655c81083a"
+  },
+  {
+    "path": "Production/Voices/Pilot Revision 2/Scene07-revised-assembly.mp3",
+    "size": 1208781,
+    "sha256": "db978cc0282c52db4deaaba7de306578caa3d08f5822a0520b16e0984b864caf"
+  },
+  {
+    "path": "Production/Voices/Pilot Revision 2/Scene24/S24-R01-alignment.json",
+    "size": 10426,
+    "sha256": "a4ca1be0641852ef51c940620748399a189f2ec75cb8ff49712441338663b27f"
+  },
+  {
+    "path": "Production/Voices/Pilot Revision 2/Scene24/S24-R01-attempt.json",
+    "size": 52,
+    "sha256": "3d3bbcc1b824b047fee7c8c9d11fe8299b9b8b766832df3d19c7673376e22461"
+  },
+  {
+    "path": "Production/Voices/Pilot Revision 2/Scene24/S24-R01.json",
+    "size": 702,
+    "sha256": "da6355bca3dfe330f06901674e0ae82fce0c2b4b737b86c688667f0109e366a9"
+  },
+  {
+    "path": "Production/Voices/Pilot Revision 2/Scene24/S24-R01.mp3",
+    "size": 123758,
+    "sha256": "37408bce6c06c3539baaef12f6cc3c8ee3da302aec8421e51a7d0188b6f567f6"
+  },
+  {
+    "path": "Production/Voices/Pilot Revision 2/Scene24/S24-R02-alignment.json",
+    "size": 1882,
+    "sha256": "596b550a84c8b323aafd5a5c9fecca4f6cf3c30097003fbf54ced58d209d24b6"
+  },
+  {
+    "path": "Production/Voices/Pilot Revision 2/Scene24/S24-R02-attempt.json",
+    "size": 52,
+    "sha256": "806444cb9259454f211fe7e1370fd3f14bf1d2a779054ef71d70cb167a0a686b"
+  },
+  {
+    "path": "Production/Voices/Pilot Revision 2/Scene24/S24-R02.json",
+    "size": 598,
+    "sha256": "e28b4522dbe722178e9bdde1e87f2ce9d8176247f3df8fa0e4f80e2f9c02894e"
+  },
+  {
+    "path": "Production/Voices/Pilot Revision 2/Scene24/S24-R02.mp3",
+    "size": 25538,
+    "sha256": "1595c9ed14d6cc5786d1920200314b8685dea7cdb035443f68dbf56b5ff5dc77"
+  },
+  {
+    "path": "Production/Voices/Pilot Revision 2/Scene24/S24-R03-alignment.json",
+    "size": 5002,
+    "sha256": "f9e337902165f06aaa5f6b9956192d1a2cdc9cc62f5c20a56eb4898098a77064"
+  },
+  {
+    "path": "Production/Voices/Pilot Revision 2/Scene24/S24-R03-attempt.json",
+    "size": 52,
+    "sha256": "a0f8367369c26ffe7ab8c2329ca31a4f84f8dac96a78b028627ffad7eede55d4"
+  },
+  {
+    "path": "Production/Voices/Pilot Revision 2/Scene24/S24-R03.json",
+    "size": 648,
+    "sha256": "47052dc715381eb6c996df61c385ecd89adfba2c9a4332a5d1226f4b2aad9e47"
+  },
+  {
+    "path": "Production/Voices/Pilot Revision 2/Scene24/S24-R03.mp3",
+    "size": 53123,
+    "sha256": "1605cd9b00e6946fbe289eb582bed2cad0a15bcee542a8d1992de109d832a51b"
+  },
+  {
+    "path": "Production/Voices/Pilot Revision 2/Scene24/S24-R04-alignment.json",
+    "size": 4910,
+    "sha256": "fb571e18beea2bccfd85f88ac37dc8cee303c118b9815b71558580c2967b4991"
+  },
+  {
+    "path": "Production/Voices/Pilot Revision 2/Scene24/S24-R04-attempt.json",
+    "size": 52,
+    "sha256": "c24f2c2a690311612d15e5bfaa20de962446e516eaf2421f3c89ce2eb71ad12f"
+  },
+  {
+    "path": "Production/Voices/Pilot Revision 2/Scene24/S24-R04.json",
+    "size": 648,
+    "sha256": "da729710845c43fd65da8fd9093a081c003903f2f85f9fc7023431c632755db4"
+  },
+  {
+    "path": "Production/Voices/Pilot Revision 2/Scene24/S24-R04.mp3",
+    "size": 51452,
+    "sha256": "3237e4caf8f8a5482d30d7697681db9e4f219b741bcdbc7273b66ca968268759"
+  },
+  {
+    "path": "Production/Voices/Pilot Revision 2/Scene24/S24-R05-alignment.json",
+    "size": 4358,
+    "sha256": "c029ce5f444a0d15b712bada6d11b0c34814fdae3f7491973c7b9f0faef2642c"
+  },
+  {
+    "path": "Production/Voices/Pilot Revision 2/Scene24/S24-R05-attempt.json",
+    "size": 52,
+    "sha256": "11d402c8043882169c2a62795c8123cf4e40bb12e383983eca99f5926e2e0155"
+  },
+  {
+    "path": "Production/Voices/Pilot Revision 2/Scene24/S24-R05.json",
+    "size": 635,
+    "sha256": "974f5cce7fa58b034a7444cba14decfb405bf0ccf6a628e064ade684c1af2dd1"
+  },
+  {
+    "path": "Production/Voices/Pilot Revision 2/Scene24/S24-R05.mp3",
+    "size": 47272,
+    "sha256": "9240f162f50e5641c3dc7e386f1c734cdc557e4feae0f7f4f4b75d29af6920e3"
+  },
+  {
+    "path": "Production/Voices/Pilot Revision 2/Scene24/S24-R06-alignment.json",
+    "size": 5952,
+    "sha256": "7d3d8ab39098d3118d1a9be0d9880714c862ade5e9d5805f6e3a4af54dfa4c86"
+  },
+  {
+    "path": "Production/Voices/Pilot Revision 2/Scene24/S24-R06-attempt.json",
+    "size": 52,
+    "sha256": "aff1a726a204ea1d2c85df8dc3c5ae536abfaaa8a4a4239525c127c9f1e96590"
+  },
+  {
+    "path": "Production/Voices/Pilot Revision 2/Scene24/S24-R06.json",
+    "size": 665,
+    "sha256": "a644431fe57206d29e3f453446a2434ed2d46280c3451e02ba4a5dfb267d36ee"
+  },
+  {
+    "path": "Production/Voices/Pilot Revision 2/Scene24/S24-R06.mp3",
+    "size": 61901,
+    "sha256": "dd965f6a25723ee70c3be20d0049cb8078b0c59f930b59b8509fe87aeb4ea896"
+  },
+  {
+    "path": "Production/Voices/Pilot Revision 2/Scene24/S24-R07-alignment.json",
+    "size": 2674,
+    "sha256": "4916a9884ce1a86a35caaff3dfad7cd1908ebee3e6f1f73c6b2522635016f778"
+  },
+  {
+    "path": "Production/Voices/Pilot Revision 2/Scene24/S24-R07-attempt.json",
+    "size": 52,
+    "sha256": "44dc7aa4161e4d1347661e6e0a16f5e8e718bef09f9bfecd332e1a295342fc65"
+  },
+  {
+    "path": "Production/Voices/Pilot Revision 2/Scene24/S24-R07.json",
+    "size": 608,
+    "sha256": "6086bd8c405c458aff3a6407681b43dfbcbee10c8ef5d2e2f760dd79d669eee2"
+  },
+  {
+    "path": "Production/Voices/Pilot Revision 2/Scene24/S24-R07.mp3",
+    "size": 27210,
+    "sha256": "7bb6eef4c4e6f9b649cc8003a5768b464d3b51e8fe68bf64429141372fdc23e9"
+  },
+  {
+    "path": "Production/Voices/Pilot Revision 2/Scene24-revised-assembly.mp3",
+    "size": 604412,
+    "sha256": "c902c5656b097ef6f4117276803783854b310f7d92f096f59b0830d4105af472"
+  },
+  {
     "path": "Production/Voices/Pilot Round 2/batch-receipt.json",
     "size": 27883,
     "sha256": "92d6b30bda9c665fa946403db893ee11ab08bd4a885e96d3192f2f4fbf1850ef"
@@ -22980,6 +23975,81 @@
     "sha256": "1e6236710c062b10c561ab7574ae6122288c8c81b88b6cbcf26bb918b1129088"
   },
   {
+    "path": "Production/Voices/Pilot Score/cue-plan.json",
+    "size": 2113,
+    "sha256": "33e55158586d04e0661fbb498487d7325ba191c27145d29df61f2cdab82be396"
+  },
+  {
+    "path": "Production/Voices/Pilot Score/MUS01-kitty-punks-theme-attempt.json",
+    "size": 65,
+    "sha256": "ac6629a3a8e2e6439579328531ed09b1ea89967f088632e1a09e56c5df1c93a7"
+  },
+  {
+    "path": "Production/Voices/Pilot Score/MUS01-kitty-punks-theme.json",
+    "size": 829,
+    "sha256": "608418b6f2263f3a51bf711e12a17eed6b1aa8cd91b1b77c1da51b7cee6a8942"
+  },
+  {
+    "path": "Production/Voices/Pilot Score/MUS01-kitty-punks-theme.mp3",
+    "size": 720605,
+    "sha256": "919fbdb272e62a2c0f3aba7f1b87eb60f8d998c9219d1c63d0c05ae90eb2b710"
+  },
+  {
+    "path": "Production/Voices/Pilot Score/MUS02-follow-the-money-attempt.json",
+    "size": 65,
+    "sha256": "034847d1047de110076ebf1bc831d9751e0c3e7c8947d89a7c50491e87644205"
+  },
+  {
+    "path": "Production/Voices/Pilot Score/MUS02-follow-the-money.json",
+    "size": 819,
+    "sha256": "0f41499e5819497fc335de8a66aa013e8de471ad8f53b98ec9fb5c16707315a0"
+  },
+  {
+    "path": "Production/Voices/Pilot Score/MUS02-follow-the-money.mp3",
+    "size": 721441,
+    "sha256": "47a929f87d5a6144e68939e6c0e5a5d0a851ffceb41930bd99131c27cf606c54"
+  },
+  {
+    "path": "Production/Voices/Pilot Score/MUS03-salmon-run-attempt.json",
+    "size": 65,
+    "sha256": "a270964ae937540ac7142da96a7fbf45e8ee829f71f7046248a7dc81d1fb24fb"
+  },
+  {
+    "path": "Production/Voices/Pilot Score/MUS03-salmon-run.json",
+    "size": 797,
+    "sha256": "e9df33dad7ee402f6a93c36ae372c9e3622330ed3523ca435b65fd80cac5ca88"
+  },
+  {
+    "path": "Production/Voices/Pilot Score/MUS03-salmon-run.mp3",
+    "size": 720605,
+    "sha256": "e497e22443a53f18a6abe6fcfbbe3b4954bc6fa648f04f02b40160a344eb453a"
+  },
+  {
+    "path": "Production/Voices/Pilot Score/MUS04-dinner-is-served-attempt.json",
+    "size": 65,
+    "sha256": "6e15e970bad42931d6522dbd265b6e88e246c447706eeeed43008481042271d7"
+  },
+  {
+    "path": "Production/Voices/Pilot Score/MUS04-dinner-is-served.json",
+    "size": 769,
+    "sha256": "9b4f75619e8763990d540ab342a757ce79c9e110c54dfdef7533d0ddbb8638e1"
+  },
+  {
+    "path": "Production/Voices/Pilot Score/MUS04-dinner-is-served.mp3",
+    "size": 720605,
+    "sha256": "4437b6ab104c0d5bc0ff032860aa4f9a51c025e8ff7d97d8feb140f6019b8dfc"
+  },
+  {
+    "path": "Production/Voices/Pilot Score/subscription-after.json",
+    "size": 103,
+    "sha256": "9b917e8075b1516cef106b9608c1e8114374b7a018b6fe4f7f4f3a739df3beaf"
+  },
+  {
+    "path": "Production/Voices/Pilot Score/subscription-before.json",
+    "size": 103,
+    "sha256": "9b917e8075b1516cef106b9608c1e8114374b7a018b6fe4f7f4f3a739df3beaf"
+  },
+  {
     "path": "Production/Voices/pilot-dialogue-from-master.json",
     "size": 84577,
     "sha256": "2c15f67f0a10a1a4aa4a7df840535daaa120f975ecc342b6b5ebebd71f6ceb9c"
@@ -23097,12 +24167,12 @@
   {
     "path": "Production/Websites/app.py",
     "size": 8803,
-    "sha256": "1c8caffa4bd33b10b191ff86ba4b340a0689adec6770e791cee2870fb5c60fe3"
+    "sha256": "e83b027e0832595ebf7eb6673e807b14e353590a5e9eb467bc4183b66382fa3d"
   },
   {
     "path": "Production/Websites/audio.json",
-    "size": 92419,
-    "sha256": "d37361138de795a80234b0387a79a142fb64bd9dc701b3112d74ffb94087e020"
+    "size": 93494,
+    "sha256": "1d9be3dfe5922c48569b7b7ce7c69e11e0bf7915ff152bfad3bc66291eee477e"
   },
   {
     "path": "Production/Websites/catalog.json",
@@ -23130,14 +24200,29 @@
     "sha256": "13c217bc756fc67bb3b682175bcb16cdd0b3d981dd84fac70457318bf2c54140"
   },
   {
+    "path": "Production/Websites/downloads/dialogue-cue-sheet-v004.csv",
+    "size": 26406,
+    "sha256": "1729a335b64fc65a185c9529ae16c5ffc663b9b86336d1ce0dd831a1e3423cac"
+  },
+  {
     "path": "Production/Websites/downloads/full-timed-script-v003.txt",
     "size": 50049,
     "sha256": "c13f86da5365bb58d997c20a3ebc6d7df8693aa9f57756cee8f1ea09c4e4a22c"
   },
   {
+    "path": "Production/Websites/downloads/full-timed-script-v004.txt",
+    "size": 29198,
+    "sha256": "6511d28a9a948aa9a451d64bebf2e4fbc4b5ae28d630ab365a25bc1a6e136363"
+  },
+  {
     "path": "Production/Websites/downloads/pilot-production-map-v003.json",
     "size": 1011066,
     "sha256": "ea2984c4fe2e4c57589a3b1183178538d7d560ca25ceaa3783a5d8ccd4a58e32"
+  },
+  {
+    "path": "Production/Websites/downloads/pilot-production-map-v004.json",
+    "size": 1130452,
+    "sha256": "e2e1dbca4f65b5b0b71d1bdc529faebf79b2f2fd450d3da4ee4c872e1456a9e9"
   },
   {
     "path": "Production/Websites/downloads/scene-shot-references.csv",
@@ -23148,6 +24233,11 @@
     "path": "Production/Websites/downloads/shot-timeline-v003.csv",
     "size": 31360,
     "sha256": "23eaa22eee0a991c67eb39080e0bb45eab015885472c974dac315f8d5ddbbcaa"
+  },
+  {
+    "path": "Production/Websites/downloads/shot-timeline-v004.csv",
+    "size": 15173,
+    "sha256": "775195ab5ea6dc294061c17f0e4c5d728055b152cbad9b45d23d19b428b9af55"
   },
   {
     "path": "Production/Websites/downloads/validation-v003.json",
@@ -23176,8 +24266,8 @@
   },
   {
     "path": "Production/Websites/generation-history.json",
-    "size": 100120,
-    "sha256": "1a570554156427621629e6eca8f9ec659a828e9a63c849f2697a20f54928f0fc"
+    "size": 106460,
+    "sha256": "0959c5ed30af51f360b915a497b0b184770a664d52d2164c2579f3e487499469"
   },
   {
     "path": "Production/Websites/generation-job-seeds.json",
@@ -23528,6 +24618,16 @@
     "path": "Production/Websites/library/135fa113457eae53.mp3",
     "size": 38913,
     "sha256": "135fa113457eae5347e65f7885f1a4cf2400d9d7588cbe56ae4c1571dff0aa7d"
+  },
+  {
+    "path": "Production/Websites/library/1595c9ed14d6cc57.mp3",
+    "size": 25538,
+    "sha256": "1595c9ed14d6cc5786d1920200314b8685dea7cdb035443f68dbf56b5ff5dc77"
+  },
+  {
+    "path": "Production/Websites/library/1605cd9b00e6946f.mp3",
+    "size": 53123,
+    "sha256": "1605cd9b00e6946fbe289eb582bed2cad0a15bcee542a8d1992de109d832a51b"
   },
   {
     "path": "Production/Websites/library/16927ffbda7ff041.mp3",
@@ -23895,6 +24995,11 @@
     "sha256": "30fbf091eaaf26961cd50b084b0d1fc5446f3cb46bd21501db21a5ab4e8b50a5"
   },
   {
+    "path": "Production/Websites/library/3237e4caf8f8a548.mp3",
+    "size": 51452,
+    "sha256": "3237e4caf8f8a5482d30d7697681db9e4f219b741bcdbc7273b66ca968268759"
+  },
+  {
     "path": "Production/Websites/library/32464f70744385fa.jpg",
     "size": 1371575,
     "sha256": "00b33b521c973f669e67c715b20505ce63df36c4394aaafd2397e9a0e2e2e244"
@@ -23938,6 +25043,11 @@
     "path": "Production/Websites/library/374038c138cbc2f7.mp3",
     "size": 40585,
     "sha256": "374038c138cbc2f7c4d31189f1c3a7d7210bb6c05d7639ed341673c1abd12809"
+  },
+  {
+    "path": "Production/Websites/library/37408bce6c06c353.mp3",
+    "size": 123758,
+    "sha256": "37408bce6c06c3539baaef12f6cc3c8ee3da302aec8421e51a7d0188b6f567f6"
   },
   {
     "path": "Production/Websites/library/37fb866c93bfd9c5.mp3",
@@ -24140,6 +25250,11 @@
     "sha256": "43c02296bb8a624182d99249c69bff6637133b50b966a22877211a51d84bed6c"
   },
   {
+    "path": "Production/Websites/library/4437b6ab104c0d5b.mp3",
+    "size": 720605,
+    "sha256": "4437b6ab104c0d5bc0ff032860aa4f9a51c025e8ff7d97d8feb140f6019b8dfc"
+  },
+  {
     "path": "Production/Websites/library/4562760aa1996806.jpg",
     "size": 1526318,
     "sha256": "67a4f34fa566ef5e9c8acea0c2952ebbd4ce673b65e52b5237dc7fecb565bd17"
@@ -24198,6 +25313,11 @@
     "path": "Production/Websites/library/472f6aee019817a2.mp3",
     "size": 43510,
     "sha256": "472f6aee019817a2eba97eb172599e88077e2a090ee0d51e0ee0f72634e00c64"
+  },
+  {
+    "path": "Production/Websites/library/47a929f87d5a6144.mp3",
+    "size": 721441,
+    "sha256": "47a929f87d5a6144e68939e6c0e5a5d0a851ffceb41930bd99131c27cf606c54"
   },
   {
     "path": "Production/Websites/library/47b2e884ee95c8f0.mp3",
@@ -24625,6 +25745,11 @@
     "sha256": "82b48a0b8e85ecaa9bc84580579147a09543598920315886a9b609af08eb10db"
   },
   {
+    "path": "Production/Websites/library/6f73b9efac74b2e2.mp3",
+    "size": 91576,
+    "sha256": "6f73b9efac74b2e2d6b5229318a2f403f7763dfd72153cb8aa569d655c81083a"
+  },
+  {
     "path": "Production/Websites/library/6f7d40f540532681.mp3",
     "size": 30972,
     "sha256": "6f7d40f540532681535392f8846034452ea9a17211824eab2f0809cbeb6ab1f3"
@@ -24783,6 +25908,11 @@
     "path": "Production/Websites/library/7b8b523383282f51.mp3",
     "size": 67752,
     "sha256": "7b8b523383282f51c2e3b1aaab4ab0fa6e3ba8bca5e5af76250c65233cc35647"
+  },
+  {
+    "path": "Production/Websites/library/7bb6eef4c4e6f9b6.mp3",
+    "size": 27210,
+    "sha256": "7bb6eef4c4e6f9b649cc8003a5768b464d3b51e8fe68bf64429141372fdc23e9"
   },
   {
     "path": "Production/Websites/library/7beb91e3e618ca83.jpg",
@@ -25095,9 +26225,19 @@
     "sha256": "692e4cfdda4de468bdf0226aabda63f026c766807c303c275e6b9245906ec68d"
   },
   {
+    "path": "Production/Websites/library/919fbdb272e62a2c.mp3",
+    "size": 720605,
+    "sha256": "919fbdb272e62a2c0f3aba7f1b87eb60f8d998c9219d1c63d0c05ae90eb2b710"
+  },
+  {
     "path": "Production/Websites/library/92199ee6b9c06e9e.mp3",
     "size": 31390,
     "sha256": "92199ee6b9c06e9e1c28645d14a852f09a9a6c4b525801db3aa3bcb8a3bb64d7"
+  },
+  {
+    "path": "Production/Websites/library/9240f162f50e5641.mp3",
+    "size": 47272,
+    "sha256": "9240f162f50e5641c3dc7e386f1c734cdc557e4feae0f7f4f4b75d29af6920e3"
   },
   {
     "path": "Production/Websites/library/92693b403069684c.jpg",
@@ -25393,6 +26533,11 @@
     "path": "Production/Websites/library/aa14f50276932f22.webp",
     "size": 99760,
     "sha256": "48bb9fc45f3bdce9723914078434276fba085ca1928e3ca0b08153f756028b60"
+  },
+  {
+    "path": "Production/Websites/library/aa897089afb8f69b.mp3",
+    "size": 18643321,
+    "sha256": "aa897089afb8f69b3fcff6313f9150f9928c2129e6cfb239c47b51c6c888d444"
   },
   {
     "path": "Production/Websites/library/aafc818847c1406d.jpg",
@@ -25840,6 +26985,11 @@
     "sha256": "10db3ca8514b0913a929be7b45e99b40fc6be34c4caba78c1057a6aa2df469b8"
   },
   {
+    "path": "Production/Websites/library/c902c5656b097ef6.mp3",
+    "size": 604412,
+    "sha256": "c902c5656b097ef6f4117276803783854b310f7d92f096f59b0830d4105af472"
+  },
+  {
     "path": "Production/Websites/library/c98d73c6d8808b22.mp3",
     "size": 36823,
     "sha256": "c98d73c6d8808b22958cf9b650f4a52eb816cc7ac999311b8858df0a410e1362"
@@ -26080,6 +27230,11 @@
     "sha256": "db72d6b94e87709dae2b34952242af38395faf9e13fb43fc47b66550c5259d1f"
   },
   {
+    "path": "Production/Websites/library/db978cc0282c52db.mp3",
+    "size": 1208781,
+    "sha256": "db978cc0282c52db4deaaba7de306578caa3d08f5822a0520b16e0984b864caf"
+  },
+  {
     "path": "Production/Websites/library/dba89096c35e8cd5.jpg",
     "size": 2083613,
     "sha256": "f445310aeab9688c203c0bb85bc4b898c04c26c4650da10e649691b8c163d328"
@@ -26128,6 +27283,11 @@
     "path": "Production/Websites/library/dd6d274e0851f433.mp3",
     "size": 30972,
     "sha256": "dd6d274e0851f4337b04999f61cd7e3c4e64c41194aed5d9123a5432350bf285"
+  },
+  {
+    "path": "Production/Websites/library/dd965f6a25723ee7.mp3",
+    "size": 61901,
+    "sha256": "dd965f6a25723ee70c3be20d0049cb8078b0c59f930b59b8509fe87aeb4ea896"
   },
   {
     "path": "Production/Websites/library/ddf261867a51a7d6.mp3",
@@ -26218,6 +27378,11 @@
     "path": "Production/Websites/library/e46ecbd2518d2cea.mp3",
     "size": 35987,
     "sha256": "e46ecbd2518d2ceaf5299f63f2e3de81963366da7cfe77fa12e037423a691283"
+  },
+  {
+    "path": "Production/Websites/library/e497e22443a53f18.mp3",
+    "size": 720605,
+    "sha256": "e497e22443a53f18a6abe6fcfbbe3b4954bc6fa648f04f02b40160a344eb453a"
   },
   {
     "path": "Production/Websites/library/e61aa888d325ad99.mp3",
@@ -26521,13 +27686,13 @@
   },
   {
     "path": "Production/Websites/pilot.json",
-    "size": 1126420,
-    "sha256": "1f3bfc0a592ceb16084f0ab658d23f491ee532fb0d5b8a3fe4e298d9d432114a"
+    "size": 1130452,
+    "sha256": "e2e1dbca4f65b5b0b71d1bdc529faebf79b2f2fd450d3da4ee4c872e1456a9e9"
   },
   {
     "path": "Production/Websites/production.py",
-    "size": 11551,
-    "sha256": "7f7496b491d4bc7ff170ac5379516c9ba07b520a8bbfca97085d2edeaadf3f7b"
+    "size": 11625,
+    "sha256": "72c88eabd3acd9d67c0bb40b5ca263f57409e16fee50aa5359388ede1189fd4f"
   },
   {
     "path": "Production/Websites/production_worker.py",
@@ -26551,8 +27716,8 @@
   },
   {
     "path": "Production/Websites/review-seeds.json",
-    "size": 4672,
-    "sha256": "d5f773f50a24029af582417d45772fe10d27ac8f04c3272ffcf0cfe0def6b6ce"
+    "size": 4728,
+    "sha256": "c86945a06e7922a8b439454ed3c4fc282d41270c7058b0ef53098519d269d841"
   },
   {
     "path": "Production/Websites/review_media/S01-P03-review-v001.mp4",
@@ -26586,8 +27751,8 @@
   },
   {
     "path": "Production/Websites/templates/audio.html",
-    "size": 2723,
-    "sha256": "7f4269fba0c5e011bdeef8696fe4631acb582869b183282156a68762e9644155"
+    "size": 2993,
+    "sha256": "412f7c02fd0ad0f774b53a95cbc51f45a63eb6d18eecfec9751cd28761c01e7d"
   },
   {
     "path": "Production/Websites/templates/auth.html",
@@ -26601,8 +27766,8 @@
   },
   {
     "path": "Production/Websites/templates/episodes.html",
-    "size": 1145,
-    "sha256": "04583c41f32022b84c4085f3cc7791409c7c351cfe47fcae7dc78787a43b07a9"
+    "size": 1584,
+    "sha256": "351895c905c9b40d9da17c3e344f60893915bd3b3f395aa14efd326ca1dcdb13"
   },
   {
     "path": "Production/Websites/templates/error.html",
@@ -26621,8 +27786,8 @@
   },
   {
     "path": "Production/Websites/templates/pilot.html",
-    "size": 7950,
-    "sha256": "b575cc891572340485d55546ee2b5731ff84a060e80044ae75de6013e19d0257"
+    "size": 7947,
+    "sha256": "e36a7054372e7840efca16c1085e321a0654d20278eaba38694908dd8b3b4a7b"
   },
   {
     "path": "Production/Websites/templates/privacy.html",

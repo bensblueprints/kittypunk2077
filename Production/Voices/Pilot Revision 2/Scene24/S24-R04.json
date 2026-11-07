@@ -1,0 +1,22 @@
+{
+  "id": "S24-R04",
+  "line_id": "S24-R04",
+  "scene": 24,
+  "speaker": "Neon",
+  "role_id": "neon",
+  "text": "Is everyone just going to keep lying down for these dogs?",
+  "voice_id": "4e32WqNVWRquDa1OcRYZ",
+  "voice_name": "Ryan — Product Reviewer",
+  "duration_sec": 3.157914,
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.5,
+    "similarity_boost": 0.75,
+    "style": 0.15,
+    "use_speaker_boost": true
+  },
+  "request_id": "Bs6ufyD4MXmBjZPeMGZW",
+  "provider_character_cost": "13",
+  "sha256": "3237e4caf8f8a5482d30d7697681db9e4f219b741bcdbc7273b66ca968268759",
+  "status": "review_take"
+}

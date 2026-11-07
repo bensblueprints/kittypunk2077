@@ -1,0 +1,146 @@
+﻿scene,shot_id,camera_action,start_sec,end_sec,duration_sec
+1,S01-P01,Wide street approach to resistance warehouse; establish District 7 and wet loading apron.,0,6,6
+1,S01-P02,"Rear room master: exactly five cats, left to right Neon, Onyx, Trixie, Byte, Ghost. TV and its casing visible.",6,12,6
+1,S01-P03,Close TV BOX: Trixie avatar drives magenta car toward bank wall; Byte avatar passenger. Rusted bezel and right-hand knobs remain visible.,12,18.566,6.566
+1,S01-P04,"Front couch reverse: Neon complains, Onyx turns to him; Trixie keeps both paws on controller.",18.566,27.778,9.212
+1,S01-P05,"TV BOX close: car lodged at bank entrance, helicopter searchlights cross gameplay. Keep five avatar identities distinct.",27.778,33.301,5.523
+1,S01-P06,"Onyx–Neon couch two-shot; Onyx gestures toward the room window, Neon pauses.",33.301,39.449,6.148
+1,S01-P07,Ghost medium with green visor; rack focus to Trixie turning toward him.,39.449,46.525,7.076
+1,S01-P08,Byte–Ghost–Trixie reactions in one couch coverage setup.,46.525,53.88,7.355
+1,S01-P09,TV BOX insert: Ghost green avatar exits rear bank door carrying duffel; result overlay then restart selection.,53.88,62.0,8.12
+1,S01-P10,Over-shoulder couch with TV in frame: a brief restarted chase reaches bank approach; all five lean in before the override.,62.0,70.0,8.0
+2,S02-P01,TV BOX close: restarted mission freezes; picture tears but rusted casing stays stable.,70,73.65,3.65
+2,S02-P02,"Trixie and Byte couch two-shot, fingers/paws stop on their controllers.",73.65,79.194,5.544
+2,S02-P03,"Neon checks connected controller light, tilts it toward the others.",79.194,89.048,9.854
+2,S02-P04,"Byte deadpan, Trixie points at television without leaving couch.",89.048,97.473,8.425
+2,S02-P05,Ghost changes channels; every screen has same corporate slate inside the TV.,97.473,102.498,5.025
+2,S02-P06,Onyx reaction; wider couch frame shows the others listening.,102.498,113.503,11.005
+2,S02-P07,Ghost close then over-shoulder toward corporate slate in CRT.,113.503,120.0,6.497
+3,S03-P01,"TV BOX centered: Goodboy Global emergency ident, no game HUD.",120,125.424,5.424
+3,S03-P02,"Barkington medium within TV glass; black-and-tan Doberman, black/gold coat, controlled threatening stillness.",125.424,144.844,19.42
+3,S03-P03,TV BOX shifts to map highlighting Districts 7–12 only; cut reaction Neon and Ghost.,144.844,156.556,11.712
+3,S03-P04,Byte checks almost-empty wallet while Trixie watches the TV.,156.556,163.976,7.42
+3,S03-P05,Trixie stands carefully; Byte stays seated with wallet.,163.976,174.888,10.912
+3,S03-P06,Trixie hands Byte his scanner; Onyx remains with Ghost and Neon.,174.888,185.0,10.112
+4,S04-P01,District 7 tracking wide: Trixie and Byte leave hideout and join shoppers moving toward store.,185,194.735,9.735
+4,S04-P02,Walking two-shot: Byte watches queues; Trixie studies shuttered stalls.,194.735,207.878,13.143
+4,S04-P03,Two civilian cats hesitate over last tin at a stall; Trixie moves between without grabbing either.,207.878,222.612,14.734
+4,S04-P04,Byte notices delivery placard; over-shoulder scanner photograph preserves time.,222.612,234.947,12.335
+4,S04-P05,Reveal 7-Catleven frontage; Trixie heads for door while Byte glances at snack poster.,234.947,240.0,5.053
+5,S05-P01,"Freezer aisle establishing: two salmon packs, large new price; Trixie and Byte enter.",240,249.84,9.84
+5,S05-P02,Byte studies label; insert unchanged pack size next to tripled price.,249.84,259.222,9.382
+5,S05-P03,"Scanner insert followed by Byte reaction: old and new prices, timestamps legible.",259.222,270.508,11.286
+5,S05-P04,Wide freezer emptiness with only two packs; Byte counts wallet then looks back.,270.508,282.133,11.625
+5,S05-P05,Trixie directs saving evidence; Byte exports original price history and photo.,282.133,294.162,12.029
+5,S05-P06,Two-shot turn toward exit; Trixie addresses Byte with resolve.,294.162,300.0,5.838
+6,S06-P01,"Market wide; five crew regroup at public screen, Trixie raises scanner.",300,304.56,4.56
+6,S06-P02,"Civilian reaction then Byte, who realizes his joke landed badly.",304.56,318.32,13.76
+6,S06-P03,Neon attaches projector; two price timestamps appear side by side.,318.32,326.08,7.76
+6,S06-P04,Ghost masks personal identifiers before screen goes public.,326.08,333.04,6.96
+6,S06-P05,Trixie climbs low crate; Onyx keeps walkway open as cats gather.,333.04,345.0,11.96
+7,S07-P01,Crane-like wide over rally establishing all five on low stage and clear exits.,345,349.15,4.15
+7,S07-P02,Low-angle Trixie at microphone; faces in crowd listen.,349.15,358.425,9.275
+7,S07-P03,"Byte points to side-by-side price chart, no personal customer data.",358.425,366.1,7.675
+7,S07-P04,Ghost steps beside chart; Trixie accepts evidence limit and looks across crowd.,366.1,382.375,16.275
+7,S07-P05,Neon shows mirrored copies; Onyx guides a shopper through the aisle.,382.375,395.85,13.475
+7,S07-P06,Crowd chant with Onyx and Neon aside in foreground.,395.85,403.525,7.675
+7,S07-P07,Trixie final appeal; crowd disperses into neighboring alleys.,403.525,410.0,6.475
+8,S08-P01,Forward tracking through dispersing rally; new resistance stencil and helpers sharing receipts.,410,413.733,3.733
+8,S08-P02,Low kitten eyeline; Trixie crouches at respectful distance.,413.733,425.6,11.867
+8,S08-P03,Trixie close holds eye contact with kitten.,425.6,433.467,7.867
+8,S08-P04,Byte joins after kitten returns to parent; walking two-shot.,433.467,444.133,10.666
+8,S08-P05,"Trixie looks back once, then directs crew toward hideout.",444.133,450.0,5.867
+9,S09-P01,"Lair master: Byte loads receipts; five fixed stations, established doors remain in place.",450,458.714,8.714
+9,S09-P02,Ghost visor close and metadata display; encrypted content stays unreadable.,458.714,470.429,11.715
+9,S09-P03,Byte and Neon compare names with saved broadcast.,470.429,478.143,7.714
+9,S09-P04,Neon opens restaurant public layout; service route outlined.,478.143,486.457,8.314
+9,S09-P05,Onyx leans forward; Trixie stops impulsive move.,486.457,496.971,10.514
+9,S09-P06,Byte challenges inference; Ghost responds while preserving original files.,496.971,509.086,12.115
+9,S09-P07,Neon places microphone beside camera; Trixie looks at restaurant map.,509.086,520.0,10.914
+10,S10-P01,"Workshop overhead: camera, recorder and three decoys arranged in separate spaces.",520,529.375,9.375
+10,S10-P02,Byte–Trixie two-shot as she checks camera battery and storage.,529.375,535.35,5.975
+10,S10-P03,"Neon demonstrates one bone remote, points to off switch.",535.35,546.325,10.975
+10,S10-P04,Close remote and bone; Neon warns while Onyx accidentally starts demonstration.,546.325,558.7,12.375
+10,S10-P05,Onyx watches decoy turn a corner; Ghost stops it before doorway.,558.7,569.075,10.375
+10,S10-P06,Neon separates two entry decoys from one marked reserve; Byte smirks.,569.075,579.85,10.775
+10,S10-P07,Five crew leave bench in assigned roles; insert recorder running test file.,579.85,585.0,5.15
+11,S11-P01,"Restaurant exterior wide, luxury doorway, wet service alley visible on correct side.",585,593.444,8.444
+11,S11-P02,"Rooftop surveillance POV maps two front guards, one camera, service patrol path.",593.444,603.289,9.845
+11,S11-P03,Byte at external relay cover; Onyx moves toward service-exit post.,603.289,618.133,14.844
+11,S11-P04,"Entourage limousine arrives; Barkington exits with dogs, not his personal Dog Royce.",618.133,626.778,8.645
+11,S11-P05,Private-room window glimpse confirms anchor already seated.,626.778,635.222,8.444
+11,S11-P06,"Ghost marks service-hatch route on compact map, not a new unexplained entrance.",635.222,642.267,7.045
+11,S11-P07,Trixie checks camera; crew waits for patrol to turn.,642.267,653.111,10.844
+11,S11-P08,Neon lowers first decoy beside bins; look from Trixie signals go.,653.111,660.0,6.889
+12,S12-P01,"Low service entrance view: Neon places first decoy, keeps second and reserve distinct.",660,668.829,8.829
+12,S12-P02,Remote camera POV returns to Byte; lens turns away from door.,668.829,676.057,7.228
+12,S12-P03,Guard close as bone rolls through peripheral vision; ears perk.,676.057,682.686,6.629
+12,S12-P04,Second guard lunges after toy; both peel away from service door.,682.686,686.314,3.628
+12,S12-P05,Ghost slips through door with Trixie and Neon in order.,686.314,696.943,10.629
+12,S12-P06,Onyx alone at exit cover while guards disappear around bins.,696.943,705.0,8.057
+13,S13-P01,Service corridor wide establishes hatch ahead and camera above cart.,705,710.229,5.229
+13,S13-P02,Neon sees service robot rotate camera; everyone stops behind cart.,710.229,716.657,6.428
+13,S13-P03,"Trixie whispers to motionless Ghost, who holds perfect stillness.",716.657,724.886,8.229
+13,S13-P04,Byte timer inset on comms unit; Ghost moves behind cart as lens clears.,724.886,735.914,11.028
+13,S13-P05,"At service hatch Trixie finds table angle, Neon places microphone.",735.914,748.543,12.629
+13,S13-P06,Hidden POV settles on two dogs; recording red light shielded from view.,748.543,755.0,6.457
+14,S14-P01,Private dining wide establishes Barkington and Shiba WOOF7 anchor across table.,755,763.943,8.943
+14,S14-P02,"Anchor medium, skeptical rather than openly confessing supply fraud.",763.943,772.286,8.343
+14,S14-P03,Barkington controlled close; only paw and ring move.,772.286,784.429,12.143
+14,S14-P04,"Anchor across table pushes back, eyes on untouched dinner.",784.429,793.371,8.942
+14,S14-P05,Barkington two-shot gives oblique demand for public messaging.,793.371,800.114,6.743
+14,S14-P06,"Anchor glances toward closed door, then back to Barkington.",800.114,807.257,7.143
+14,S14-P07,Barkington close; hand reaches toward bag below table without revealing contents yet.,807.257,815.0,7.743
+15,S15-P01,Table-level insert bag opens enough to show cash; neither face lost in next angle.,815,819.343,4.343
+15,S15-P02,"Hidden over-hatch two-shot preserves payer, recipient and bag in same view.",819.343,827.914,8.571
+15,S15-P03,Trixie camera viewfinder locks faces; Ghost watches approaching corridor feet.,827.914,833.686,5.772
+15,S15-P04,"One shutter; recorded original displayed briefly, Trixie keeps camera steady.",833.686,842.657,8.971
+15,S15-P05,Neon and Trixie whisper over saved waveform; return to uncut clip.,842.657,855.829,13.172
+15,S15-P06,Onyx sees patrol turn early; Trixie withdraws lens from hatch.,855.829,860.0,4.171
+16,S16-P01,Guard discovers door breach and hits alarm button.,860,863.875,3.875
+16,S16-P02,Onyx braces door while three cats run through corridor toward him.,863.875,870.15,6.275
+16,S16-P03,Neon tosses reserved third bone into pursuing guards’ path.,870.15,878.425,8.275
+16,S16-P04,Ghost leads left at bins to low ladder; all five positions remain accounted for.,878.425,886.7,8.275
+16,S16-P05,Byte at relay sees signal return; cats reach him by low roof route.,886.7,894.575,7.875
+16,S16-P06,Trixie headcount; five silhouettes pause safely behind roof parapet.,894.575,903.05,8.475
+16,S16-P07,Wide roof retreat with five cats; Trixie checks camera file intact.,903.05,910.0,6.95
+17,S17-P01,Lair workstation: original clip and photo on local drive; Ghost selects upload copies.,910,923.24,13.24
+17,S17-P02,Trixie checks exact headline draft before sending evidence bundle.,923.24,929.88,6.64
+17,S17-P03,"NIP7 Sphynx anchor appears on physical hideout TV; British delivery, evidence photograph inset.",929.88,946.32,16.44
+17,S17-P04,Byte celebrates beside screen; Ghost remains measured.,946.32,952.76,6.44
+17,S17-P05,Trixie returns to terminal; Byte glances at empty food carton.,952.76,960.0,7.24
+18,S18-P01,Street newspaper close: Catnip Times payment report; civilian turns page beside empty stall.,960,963.36,3.36
+18,S18-P02,Civilian looks from paper to bare freezer; Trixie hears the complaint.,963.36,974.52,11.16
+18,S18-P03,Trixie asks crew; Ghost distinguishes payment from supply evidence.,974.52,982.88,8.36
+18,S18-P04,Neon checks saved price record and delivery code.,982.88,989.24,6.36
+18,S18-P05,"Ghost leads crew toward lair; Trixie folds newspaper, keeps it.",989.24,995.0,5.76
+19,S19-P01,Lair terminal: Neon matches tracking code with dispatch entry.,995,1002.8,7.8
+19,S19-P02,Ghost compares dispatch record to public gate camera and truck plate.,1002.8,1012.2,9.4
+19,S19-P03,Byte highlights cancelled District 7 order and accepted District 2 replacement.,1012.2,1021.4,9.2
+19,S19-P04,Trixie saves immutable source copy and directs crew to verify gate.,1021.4,1030.0,8.6
+20,S20-P01,"Factory exterior: refrigerated truck leaves guarded gate, seven-to-twelve bays remain empty.",1030,1035.6,5.6
+20,S20-P02,Crew cover: Ghost compares plate with recorded gate footage.,1035.6,1048.2,12.6
+20,S20-P03,Window POV shows standing robot dogs with red visors beside tanks and conveyor.,1048.2,1057.0,8.8
+20,S20-P04,Trixie and Neon trace separate cooling/dispatch routes on facility map.,1057.0,1065.0,8.0
+21,S21-P01,Ghost opens service lock; five enter behind cyan tank cover.,1065,1072.086,7.086
+21,S21-P02,"Wide interior: standing robot dogs, central salmon conveyor, cyan tanks, red overhead lamps.",1072.086,1078.257,6.171
+21,S21-P03,"Trixie and Byte discover refrigerated stockpile, not an empty production line.",1078.257,1086.743,8.486
+21,S21-P04,Neon at dispatch terminal identifies separate cooling circuit.,1086.743,1092.629,5.886
+21,S21-P05,Onyx faces approaching robot; Trixie authorizes defensive strike.,1092.629,1103.314,10.685
+21,S21-P06,Onyx blocks robot away from tank; Byte reaches truck controls.,1103.314,1110.0,6.686
+22,S22-P01,"Control panel insert: dispatch OFF, cooling ON, safe temperature visible.",1110,1115.633,5.633
+22,S22-P02,Ghost publishes preserved shipment logs with verifiable IDs.,1115.633,1122.867,7.234
+22,S22-P03,Trixie prioritizes loaded trucks; Byte edits district dispatch queue.,1122.867,1134.1,11.233
+22,S22-P04,Gate monitor shows first loaded refrigerated truck turn toward District 7.,1134.1,1141.333,7.233
+22,S22-P05,Wide control room: all five withdraw via service route while cooling remains active.,1141.333,1145.0,3.667
+23,S23-P01,Market wide: first redirected refrigerated truck opens; vendors receive intact cold crates.,1145,1152.2,7.2
+23,S23-P02,Kitten with parent receives portion from vendor; Trixie crouches nearby.,1152.2,1159.2,7.0
+23,S23-P03,Crew look over reopened market from low rooftop; Byte celebrates.,1159.2,1165.2,6.0
+23,S23-P04,"Wide market recovery, not every district solved instantly.",1165.2,1170.0,4.8
+24,S24-P01,Five cats settle onto the existing lounge couch.,1170,1170.65,0.65
+24,S24-P02,Corporate announcement inside CRT glass; Eric voice offscreen to the room.,1170.65,1178.52,7.87
+24,S24-P03,Byte and Onyx react with disgust to the cover-up.,1178.52,1183.7,5.18
+24,S24-P04,Neon questions the public response; Ghost notes they kept the records.,1183.7,1190.1,6.4
+24,S24-P05,Trixie invites everyone back to the game.,1190.1,1194.2,4.1
+24,S24-P06,Byte refuses to let Trixie drive; game resumes only inside TV.,1194.2,1198,3.8
+24,S24-P07,Final game image remains within TV glass; cut to black.,1198,1200,2

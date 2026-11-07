@@ -1,0 +1,51 @@
+[
+  {
+    "id": "MUS01-kitty-punks-theme",
+    "scenes": [
+      1,
+      4,
+      6,
+      8,
+      10,
+      24
+    ],
+    "prompt": "Original instrumental cyberpunk caper score for five teenage cat hackers. Playful warm analog synth bass, crisp light drums, small bright five-note synth motif, 106 BPM, D minor. Mischievous friendship and clever banter, not epic. Sparse midrange and restrained dynamics leave space for dialogue. A brief intro, evolving middle, gentle clean ending. No vocals or spoken words.",
+    "length_ms": 45000
+  },
+  {
+    "id": "MUS02-follow-the-money",
+    "scenes": [
+      9,
+      11,
+      12,
+      13,
+      14,
+      15,
+      19
+    ],
+    "prompt": "Original instrumental investigative stealth underscore. Quiet pulsing analog bass, sparse glassy electronic notes, brushed mechanical percussion, 80 BPM D minor. Suspicious corporate dinner and hackers following evidence, subtle comic tension without horror. Spacious arrangement under dialogue, no loud hits. Clear soft ending. No vocals or spoken words.",
+    "length_ms": 45000
+  },
+  {
+    "id": "MUS03-salmon-run",
+    "scenes": [
+      16,
+      20,
+      21,
+      22
+    ],
+    "prompt": "Original instrumental cyberpunk heist chase underscore. Driving but restrained synth bass ostinato, tight electronic percussion, short agile arpeggios, 124 BPM D minor. Teamwork, urgency and inventive escape through a neon factory. No cinematic braams, no overpowering drums, leave space for dialogue. Finish with a clean resolved accent. No vocals or spoken words.",
+    "length_ms": 45000
+  },
+  {
+    "id": "MUS04-dinner-is-served",
+    "scenes": [
+      7,
+      17,
+      18,
+      23
+    ],
+    "prompt": "Original instrumental hopeful neighborhood resistance score. Warm synth chords, plucked electronic melody, understated drum groove, 98 BPM D major. Earned solidarity, humor and relief rather than triumphant propaganda. Intimate hopeful energy, sparse dialogue-friendly arrangement. Gentle resolved ending. No vocals or spoken words.",
+    "length_ms": 45000
+  }
+]

@@ -1,0 +1,22 @@
+{
+  "id": "S24-R07",
+  "line_id": "S24-R07",
+  "scene": 24,
+  "speaker": "Byte",
+  "role_id": "byte",
+  "text": "Fine. But you're not driving.",
+  "voice_id": "wo6udizrrtpIxWGp2qJk",
+  "voice_name": "Northern Terry",
+  "duration_sec": 1.625397,
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.5,
+    "similarity_boost": 0.75,
+    "style": 0.15,
+    "use_speaker_boost": true
+  },
+  "request_id": "BSIfxEHVhOfuh3WpJXOR",
+  "provider_character_cost": "6",
+  "sha256": "7bb6eef4c4e6f9b649cc8003a5768b464d3b51e8fe68bf64429141372fdc23e9",
+  "status": "review_take"
+}

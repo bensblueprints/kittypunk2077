@@ -1,0 +1,22 @@
+{
+  "id": "S24-R01",
+  "line_id": "S24-R01",
+  "scene": 24,
+  "speaker": "TV",
+  "role_id": "woof7_anchor",
+  "text": "Goodboy Global confirms that the salmon shortage was caused by a computer inventory mistake. The error has now been corrected.",
+  "voice_id": "cjVigY5qzO86Huf0OWal",
+  "voice_name": "Eric",
+  "duration_sec": 7.662585,
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.5,
+    "similarity_boost": 0.75,
+    "style": 0.15,
+    "use_speaker_boost": true
+  },
+  "request_id": "RgYjmEpUhnnbDYEUzcb6",
+  "provider_character_cost": "28",
+  "sha256": "37408bce6c06c3539baaef12f6cc3c8ee3da302aec8421e51a7d0188b6f567f6",
+  "status": "review_take"
+}

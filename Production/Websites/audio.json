@@ -1,14 +1,5 @@
 [
   {
-    "id": "e836c900dfb032ec",
-    "title": "MASTER — Full Pilot Story",
-    "scene": "Full Pilot",
-    "text": "All 24 scenes and 222 dialogue lines in story order, in one 20-minute file. This dialogue master preserves the original performances; pauses reserve space for action. Music and sound effects are not mixed into this version.",
-    "duration_sec": 1200,
-    "kind": "assembly",
-    "variant": "v001"
-  },
-  {
     "id": "e1af245e3d6a37ac",
     "title": "Scene 01 — play the dialogue assembly",
     "scene": "Scene01",
@@ -654,15 +645,6 @@
     "variant": "take001",
     "voice_name": "Harry — Fierce Warrior",
     "status": "review take"
-  },
-  {
-    "id": "df9186f64af1e7ff",
-    "title": "Scene 07 — complete dialogue review",
-    "scene": "Scene07",
-    "text": "All dialogue in script order. Dialogue-only review; action, effects and final picture timing remain separate.",
-    "duration_sec": 45.63183673469388,
-    "kind": "assembly",
-    "variant": "v003"
   },
   {
     "id": "d6ae632b327c15be",
@@ -2481,70 +2463,6 @@
     "status": "review take"
   },
   {
-    "id": "2c3e383e44633b0f",
-    "title": "Scene 24 — complete dialogue review",
-    "scene": "Scene24",
-    "text": "All dialogue in script order. Dialogue-only review; action, effects and final picture timing remain separate.",
-    "duration_sec": 11.484580498866213,
-    "kind": "assembly",
-    "variant": "v003"
-  },
-  {
-    "id": "737a1001f0a3bcb0",
-    "title": "S24-D01-trixie-take001",
-    "scene": "Scene24",
-    "text": "All right. Now it's time to finish this mission.",
-    "duration_sec": 2.089796,
-    "kind": "take",
-    "variant": "take001",
-    "voice_name": "Emma — Wry, Gritty Hero",
-    "status": "review take"
-  },
-  {
-    "id": "bb67da4c177f1488",
-    "title": "S24-D02-byte-take001",
-    "scene": "Scene24",
-    "text": "We've been trying to finish this shit all day.",
-    "duration_sec": 2.182676,
-    "kind": "take",
-    "variant": "take001",
-    "voice_name": "Northern Terry",
-    "status": "review take"
-  },
-  {
-    "id": "9b494e6c3c79d94f",
-    "title": "S24-D03-neon-take001",
-    "scene": "Scene24",
-    "text": "At least nobody can interrupt us now.",
-    "duration_sec": 2.089796,
-    "kind": "take",
-    "variant": "take001",
-    "voice_name": "Ryan — Product Reviewer",
-    "status": "review take"
-  },
-  {
-    "id": "374038c138cbc2f7",
-    "title": "S24-D04-woof7_anchor-take001",
-    "scene": "Scene24",
-    "text": "Goodboy Global HAS AN IMPORTANT ANNOUNCEMENT—",
-    "duration_sec": 2.461315,
-    "kind": "take",
-    "variant": "take001",
-    "voice_name": "Eric",
-    "status": "review take"
-  },
-  {
-    "id": "3e381af73481734c",
-    "title": "S24-D05-onyx-take001",
-    "scene": "Scene24",
-    "text": "OH, FUCK OFF!",
-    "duration_sec": 1.160998,
-    "kind": "take",
-    "variant": "take001",
-    "voice_name": "Harry — Fierce Warrior",
-    "status": "review take"
-  },
-  {
     "id": "465b4c45475facca",
     "title": "FX01-hideout-room",
     "scene": "Sound Effects",
@@ -2689,15 +2607,6 @@
     "variant": "v001"
   },
   {
-    "id": "d72e7d4af72afdc5",
-    "title": "FULL PILOT — Dialogue + Effects Preview",
-    "scene": "Full Pilot",
-    "kind": "mix",
-    "text": "Draft mix with dialogue, ambience and effects. No music yet; effect timing will follow the approved video. Original dialogue MASTER remains available.",
-    "duration_sec": 1200,
-    "variant": "v001"
-  },
-  {
     "id": "9ce08fe3973f2110",
     "title": "Scene01-dialogue-effects-preview-v001",
     "scene": "Scene01",
@@ -2749,15 +2658,6 @@
     "kind": "mix",
     "text": "Draft mix with dialogue, ambience and effects. No music yet; effect timing will follow the approved video. Original dialogue MASTER remains available.",
     "duration_sec": 45,
-    "variant": "v001"
-  },
-  {
-    "id": "d7c109244c96fb6f",
-    "title": "Scene07-dialogue-effects-preview-v001",
-    "scene": "Scene07",
-    "kind": "mix",
-    "text": "Draft mix with dialogue, ambience and effects. No music yet; effect timing will follow the approved video. Original dialogue MASTER remains available.",
-    "duration_sec": 65,
     "variant": "v001"
   },
   {
@@ -2905,12 +2805,146 @@
     "variant": "v001"
   },
   {
-    "id": "1e3754ac2cd1ba43",
-    "title": "Scene24-dialogue-effects-preview-v001",
+    "title": "S07-R01-trixie-revision2",
+    "scene": "Scene07",
+    "text": "Everyone, listen up. All five of us are here because this shortage affects every family in District Seven.",
+    "duration_sec": 5.665669,
+    "kind": "take",
+    "variant": "revision2",
+    "voice_name": "Emma — Wry, Gritty Hero",
+    "id": "6f73b9efac74b2e2"
+  },
+  {
+    "title": "S24-R01-woof7_anchor-revision2",
     "scene": "Scene24",
-    "kind": "mix",
-    "text": "Draft mix with dialogue, ambience and effects. No music yet; effect timing will follow the approved video. Original dialogue MASTER remains available.",
-    "duration_sec": 30,
-    "variant": "v001"
+    "text": "Goodboy Global confirms that the salmon shortage was caused by a computer inventory mistake. The error has now been corrected.",
+    "duration_sec": 7.662585,
+    "kind": "take",
+    "variant": "revision2",
+    "voice_name": "Eric",
+    "id": "37408bce6c06c353"
+  },
+  {
+    "title": "S24-R02-byte-revision2",
+    "scene": "Scene24",
+    "text": "Those no-good dogs.",
+    "duration_sec": 1.532517,
+    "kind": "take",
+    "variant": "revision2",
+    "voice_name": "Northern Terry",
+    "id": "1595c9ed14d6cc57"
+  },
+  {
+    "title": "S24-R03-onyx-revision2",
+    "scene": "Scene24",
+    "text": "Bastards. They're taking credit for fixing their own scam.",
+    "duration_sec": 3.250794,
+    "kind": "take",
+    "variant": "revision2",
+    "voice_name": "Harry — Fierce Warrior",
+    "id": "1605cd9b00e6946f"
+  },
+  {
+    "title": "S24-R04-neon-revision2",
+    "scene": "Scene24",
+    "text": "Is everyone just going to keep lying down for these dogs?",
+    "duration_sec": 3.157914,
+    "kind": "take",
+    "variant": "revision2",
+    "voice_name": "Ryan — Product Reviewer",
+    "id": "3237e4caf8f8a548"
+  },
+  {
+    "title": "S24-R05-ghost-revision2",
+    "scene": "Scene24",
+    "text": "They changed the story. We still have the records.",
+    "duration_sec": 2.879274,
+    "kind": "take",
+    "variant": "revision2",
+    "voice_name": "Austin — Upbeat",
+    "id": "9240f162f50e5641"
+  },
+  {
+    "title": "S24-R06-trixie-revision2",
+    "scene": "Scene24",
+    "text": "C'mon. Let's just play the game. We fixed it, even if no one knows it.",
+    "duration_sec": 3.808073,
+    "kind": "take",
+    "variant": "revision2",
+    "voice_name": "Emma — Wry, Gritty Hero",
+    "id": "dd965f6a25723ee7"
+  },
+  {
+    "title": "S24-R07-byte-revision2",
+    "scene": "Scene24",
+    "text": "Fine. But you're not driving.",
+    "duration_sec": 1.625397,
+    "kind": "take",
+    "variant": "revision2",
+    "voice_name": "Northern Terry",
+    "id": "7bb6eef4c4e6f9b6"
+  },
+  {
+    "title": "Scene 07 — revised dialogue",
+    "scene": "Scene07",
+    "text": "Revised public rally or ending; short conversational pauses.",
+    "duration_sec": 50.29750566893424,
+    "kind": "assembly",
+    "variant": "revision2",
+    "id": "db978cc0282c52db"
+  },
+  {
+    "title": "Scene 24 — revised dialogue",
+    "scene": "Scene24",
+    "text": "Revised public rally or ending; short conversational pauses.",
+    "duration_sec": 25.11655328798186,
+    "kind": "assembly",
+    "variant": "revision2",
+    "id": "c902c5656b097ef6"
+  },
+  {
+    "title": "MASTER — Full Story · Tight Edit v2",
+    "scene": "Full Pilot",
+    "text": "All 24 scenes in story order, with natural reply gaps and no empty animation placeholders. Includes the five-cat public rally before dinner and the revised Goodboy Global inventory-mistake cover-up at the end. The separate picture plan remains 20 minutes.",
+    "duration_sec": 776.7292743764173,
+    "kind": "assembly",
+    "variant": "revision2",
+    "id": "aa897089afb8f69b"
+  },
+  {
+    "id": "919fbdb272e62a2c",
+    "title": "MUS01-kitty-punks-theme",
+    "scene": "Instrumental Score",
+    "kind": "score",
+    "variant": "v001",
+    "duration_sec": 45.035063,
+    "text": "Original instrumental review cue for scenes 1, 4, 6, 8, 10, 24. Separate track; not yet mixed into MASTER."
+  },
+  {
+    "id": "47a929f87d5a6144",
+    "title": "MUS02-follow-the-money",
+    "scene": "Instrumental Score",
+    "kind": "score",
+    "variant": "v001",
+    "duration_sec": 45.087313,
+    "text": "Original instrumental review cue for scenes 9, 11, 12, 13, 14, 15, 19. Separate track; not yet mixed into MASTER."
+  },
+  {
+    "id": "e497e22443a53f18",
+    "title": "MUS03-salmon-run",
+    "scene": "Instrumental Score",
+    "kind": "score",
+    "variant": "v001",
+    "duration_sec": 45.035063,
+    "text": "Original instrumental review cue for scenes 16, 20, 21, 22. Separate track; not yet mixed into MASTER."
+  },
+  {
+    "id": "4437b6ab104c0d5b",
+    "title": "MUS04-dinner-is-served",
+    "scene": "Instrumental Score",
+    "kind": "score",
+    "variant": "v001",
+    "duration_sec": 45.035063,
+    "text": "Original instrumental review cue for scenes 7, 17, 18, 23. Separate track; not yet mixed into MASTER."
   }
 ]
