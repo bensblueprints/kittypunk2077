@@ -398,22 +398,28 @@
       "reference_overflow": [],
       "wan_plan": {
         "model": "WAN 3.0 Prime",
-        "provider": "awaiting provider confirmation",
-        "mode": "single composed first-frame image-to-video",
+        "provider": "Orbis official A",
+        "mode": "image-reference guidance using input_images",
         "upload_image_count": 1,
         "first_frame_status": "needs shot-specific composition and review",
         "first_frame_id": null,
         "reference_mode_cap": 10,
-        "cap_status": "documented by Runway and Wan API; target provider still to confirm",
+        "cap_status": "confirmed from user-supplied Orbis official-A route document",
         "reference_mode_sources": [
-          "https://dev.runwayml.com/learn/wan-3-0-api",
-          "https://wanapi.app/docs/wan-3-0-prime"
+          "https://orbiorbi.com/api/developer-docs/published/openplane-wan-3-0-prime-official-a"
         ],
-        "audio": false,
-        "audio_policy": "Use the existing/approved ElevenLabs tracks in the edit. Do not generate replacement speech.",
+        "audio_policy": "Default native audio; no documented audio-off field. Mute native video audio during production edit and use approved ElevenLabs dialogue.",
         "requested_duration_seconds": 10,
         "edit_duration_seconds": 9.84,
-        "note": "Source reference pack is for preparing the still. Upload ONE approved composed frame to WAN; do not mix it with this whole reference pack. Trim generated clip to editorial duration; do not stretch speech."
+        "note": "Upload one reviewed composed scene image as input_images reference. This is guidance, not a guaranteed locked first frame. Do not send unsupported first_frame or audio fields. Use public direct media URLs, never private studio URLs or other platform IDs.",
+        "model_id": "wan-3.0-prime",
+        "mixed_reference_limit": 15,
+        "image_limit": 10,
+        "audio_limit": 5,
+        "video_limit": 5,
+        "prompt_character_limit": 3000,
+        "api_image_field": "input_images",
+        "api_duration_field": "duration_sec"
       }
     },
     {
@@ -482,22 +488,28 @@
       "reference_overflow": [],
       "wan_plan": {
         "model": "WAN 3.0 Prime",
-        "provider": "awaiting provider confirmation",
-        "mode": "single composed first-frame image-to-video",
+        "provider": "Orbis official A",
+        "mode": "image-reference guidance using input_images",
         "upload_image_count": 1,
         "first_frame_status": "needs shot-specific composition and review",
         "first_frame_id": null,
         "reference_mode_cap": 10,
-        "cap_status": "documented by Runway and Wan API; target provider still to confirm",
+        "cap_status": "confirmed from user-supplied Orbis official-A route document",
         "reference_mode_sources": [
-          "https://dev.runwayml.com/learn/wan-3-0-api",
-          "https://wanapi.app/docs/wan-3-0-prime"
+          "https://orbiorbi.com/api/developer-docs/published/openplane-wan-3-0-prime-official-a"
         ],
-        "audio": false,
-        "audio_policy": "Use the existing/approved ElevenLabs tracks in the edit. Do not generate replacement speech.",
+        "audio_policy": "Default native audio; no documented audio-off field. Mute native video audio during production edit and use approved ElevenLabs dialogue.",
         "requested_duration_seconds": 10,
         "edit_duration_seconds": 9.382,
-        "note": "Source reference pack is for preparing the still. Upload ONE approved composed frame to WAN; do not mix it with this whole reference pack. Trim generated clip to editorial duration; do not stretch speech."
+        "note": "Upload one reviewed composed scene image as input_images reference. This is guidance, not a guaranteed locked first frame. Do not send unsupported first_frame or audio fields. Use public direct media URLs, never private studio URLs or other platform IDs.",
+        "model_id": "wan-3.0-prime",
+        "mixed_reference_limit": 15,
+        "image_limit": 10,
+        "audio_limit": 5,
+        "video_limit": 5,
+        "prompt_character_limit": 3000,
+        "api_image_field": "input_images",
+        "api_duration_field": "duration_sec"
       }
     },
     {
@@ -566,22 +578,28 @@
       "reference_overflow": [],
       "wan_plan": {
         "model": "WAN 3.0 Prime",
-        "provider": "awaiting provider confirmation",
-        "mode": "single composed first-frame image-to-video",
+        "provider": "Orbis official A",
+        "mode": "image-reference guidance using input_images",
         "upload_image_count": 1,
         "first_frame_status": "needs shot-specific composition and review",
         "first_frame_id": null,
         "reference_mode_cap": 10,
-        "cap_status": "documented by Runway and Wan API; target provider still to confirm",
+        "cap_status": "confirmed from user-supplied Orbis official-A route document",
         "reference_mode_sources": [
-          "https://dev.runwayml.com/learn/wan-3-0-api",
-          "https://wanapi.app/docs/wan-3-0-prime"
+          "https://orbiorbi.com/api/developer-docs/published/openplane-wan-3-0-prime-official-a"
         ],
-        "audio": false,
-        "audio_policy": "Use the existing/approved ElevenLabs tracks in the edit. Do not generate replacement speech.",
+        "audio_policy": "Default native audio; no documented audio-off field. Mute native video audio during production edit and use approved ElevenLabs dialogue.",
         "requested_duration_seconds": 12,
         "edit_duration_seconds": 11.286,
-        "note": "Source reference pack is for preparing the still. Upload ONE approved composed frame to WAN; do not mix it with this whole reference pack. Trim generated clip to editorial duration; do not stretch speech."
+        "note": "Upload one reviewed composed scene image as input_images reference. This is guidance, not a guaranteed locked first frame. Do not send unsupported first_frame or audio fields. Use public direct media URLs, never private studio URLs or other platform IDs.",
+        "model_id": "wan-3.0-prime",
+        "mixed_reference_limit": 15,
+        "image_limit": 10,
+        "audio_limit": 5,
+        "video_limit": 5,
+        "prompt_character_limit": 3000,
+        "api_image_field": "input_images",
+        "api_duration_field": "duration_sec"
       }
     },
     {
@@ -645,22 +663,28 @@
       "reference_overflow": [],
       "wan_plan": {
         "model": "WAN 3.0 Prime",
-        "provider": "awaiting provider confirmation",
-        "mode": "single composed first-frame image-to-video",
+        "provider": "Orbis official A",
+        "mode": "image-reference guidance using input_images",
         "upload_image_count": 1,
         "first_frame_status": "needs shot-specific composition and review",
         "first_frame_id": null,
         "reference_mode_cap": 10,
-        "cap_status": "documented by Runway and Wan API; target provider still to confirm",
+        "cap_status": "confirmed from user-supplied Orbis official-A route document",
         "reference_mode_sources": [
-          "https://dev.runwayml.com/learn/wan-3-0-api",
-          "https://wanapi.app/docs/wan-3-0-prime"
+          "https://orbiorbi.com/api/developer-docs/published/openplane-wan-3-0-prime-official-a"
         ],
-        "audio": false,
-        "audio_policy": "Use the existing/approved ElevenLabs tracks in the edit. Do not generate replacement speech.",
+        "audio_policy": "Default native audio; no documented audio-off field. Mute native video audio during production edit and use approved ElevenLabs dialogue.",
         "requested_duration_seconds": 12,
         "edit_duration_seconds": 11.625,
-        "note": "Source reference pack is for preparing the still. Upload ONE approved composed frame to WAN; do not mix it with this whole reference pack. Trim generated clip to editorial duration; do not stretch speech."
+        "note": "Upload one reviewed composed scene image as input_images reference. This is guidance, not a guaranteed locked first frame. Do not send unsupported first_frame or audio fields. Use public direct media URLs, never private studio URLs or other platform IDs.",
+        "model_id": "wan-3.0-prime",
+        "mixed_reference_limit": 15,
+        "image_limit": 10,
+        "audio_limit": 5,
+        "video_limit": 5,
+        "prompt_character_limit": 3000,
+        "api_image_field": "input_images",
+        "api_duration_field": "duration_sec"
       }
     },
     {
@@ -729,22 +753,28 @@
       "reference_overflow": [],
       "wan_plan": {
         "model": "WAN 3.0 Prime",
-        "provider": "awaiting provider confirmation",
-        "mode": "single composed first-frame image-to-video",
+        "provider": "Orbis official A",
+        "mode": "image-reference guidance using input_images",
         "upload_image_count": 1,
         "first_frame_status": "needs shot-specific composition and review",
         "first_frame_id": null,
         "reference_mode_cap": 10,
-        "cap_status": "documented by Runway and Wan API; target provider still to confirm",
+        "cap_status": "confirmed from user-supplied Orbis official-A route document",
         "reference_mode_sources": [
-          "https://dev.runwayml.com/learn/wan-3-0-api",
-          "https://wanapi.app/docs/wan-3-0-prime"
+          "https://orbiorbi.com/api/developer-docs/published/openplane-wan-3-0-prime-official-a"
         ],
-        "audio": false,
-        "audio_policy": "Use the existing/approved ElevenLabs tracks in the edit. Do not generate replacement speech.",
+        "audio_policy": "Default native audio; no documented audio-off field. Mute native video audio during production edit and use approved ElevenLabs dialogue.",
         "requested_duration_seconds": 13,
         "edit_duration_seconds": 12.029,
-        "note": "Source reference pack is for preparing the still. Upload ONE approved composed frame to WAN; do not mix it with this whole reference pack. Trim generated clip to editorial duration; do not stretch speech."
+        "note": "Upload one reviewed composed scene image as input_images reference. This is guidance, not a guaranteed locked first frame. Do not send unsupported first_frame or audio fields. Use public direct media URLs, never private studio URLs or other platform IDs.",
+        "model_id": "wan-3.0-prime",
+        "mixed_reference_limit": 15,
+        "image_limit": 10,
+        "audio_limit": 5,
+        "video_limit": 5,
+        "prompt_character_limit": 3000,
+        "api_image_field": "input_images",
+        "api_duration_field": "duration_sec"
       }
     },
     {
@@ -799,22 +829,28 @@
       "reference_overflow": [],
       "wan_plan": {
         "model": "WAN 3.0 Prime",
-        "provider": "awaiting provider confirmation",
-        "mode": "single composed first-frame image-to-video",
+        "provider": "Orbis official A",
+        "mode": "image-reference guidance using input_images",
         "upload_image_count": 1,
         "first_frame_status": "needs shot-specific composition and review",
         "first_frame_id": null,
         "reference_mode_cap": 10,
-        "cap_status": "documented by Runway and Wan API; target provider still to confirm",
+        "cap_status": "confirmed from user-supplied Orbis official-A route document",
         "reference_mode_sources": [
-          "https://dev.runwayml.com/learn/wan-3-0-api",
-          "https://wanapi.app/docs/wan-3-0-prime"
+          "https://orbiorbi.com/api/developer-docs/published/openplane-wan-3-0-prime-official-a"
         ],
-        "audio": false,
-        "audio_policy": "Use the existing/approved ElevenLabs tracks in the edit. Do not generate replacement speech.",
+        "audio_policy": "Default native audio; no documented audio-off field. Mute native video audio during production edit and use approved ElevenLabs dialogue.",
         "requested_duration_seconds": 6,
         "edit_duration_seconds": 5.838,
-        "note": "Source reference pack is for preparing the still. Upload ONE approved composed frame to WAN; do not mix it with this whole reference pack. Trim generated clip to editorial duration; do not stretch speech."
+        "note": "Upload one reviewed composed scene image as input_images reference. This is guidance, not a guaranteed locked first frame. Do not send unsupported first_frame or audio fields. Use public direct media URLs, never private studio URLs or other platform IDs.",
+        "model_id": "wan-3.0-prime",
+        "mixed_reference_limit": 15,
+        "image_limit": 10,
+        "audio_limit": 5,
+        "video_limit": 5,
+        "prompt_character_limit": 3000,
+        "api_image_field": "input_images",
+        "api_duration_field": "duration_sec"
       }
     }
   ],

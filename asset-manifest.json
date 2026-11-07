@@ -4957,7 +4957,7 @@
   {
     "path": "Production/local-sync.json",
     "size": 432,
-    "sha256": "05563f338a3ffffda1839e50f16bcd300aee645ccdc8052a09fb66bc11bcbf2c"
+    "sha256": "de60c71ac63ed67f64cc9b6bdc52f87dbd1575088298d2f12bb9f36b2df91a64"
   },
   {
     "path": "Production/Location Sheets GPT Image 2.6/generation-manifest.json",
@@ -8780,6 +8780,11 @@
     "sha256": "fd5daea7684553be91965e9c2a02ce383efa014c9468b3bd8ad639eca68ebbb0"
   },
   {
+    "path": "Production/pilot-production-desk-status.json",
+    "size": 945,
+    "sha256": "c7c722018e695488002d354c7a4a1ed9bf0dc073c50e8030f4b21123e62eba75"
+  },
+  {
     "path": "Production/pilot-working-24-scenes-trixie.txt",
     "size": 27740,
     "sha256": "151666437cbfde37485f0d02823b409a301eb422d34a7342348de3fd885a12bf"
@@ -9611,13 +9616,13 @@
   },
   {
     "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Production Map/pilot-production-map-v003.json",
-    "size": 959067,
-    "sha256": "63d020da64ddfbedad0cf077a7d6aec606aecb42c250c972f49a1c4cc8efd862"
+    "size": 1011066,
+    "sha256": "ea2984c4fe2e4c57589a3b1183178538d7d560ca25ceaa3783a5d8ccd4a58e32"
   },
   {
     "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Production Map/scene-shot-references.csv",
-    "size": 122046,
-    "sha256": "135fc54dfe7626dfc07485dc71ad774b93cee101e174d9c6b89f13d44d1f1de8"
+    "size": 153945,
+    "sha256": "fa1c1f23adb7e2b69fdac31afbdc46d5ec998d8b1e6cafa8d2db252092cde4bc"
   },
   {
     "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Production Map/shot-timeline-v003.csv",
@@ -10286,8 +10291,8 @@
   },
   {
     "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 01/timed-production-map-v003.json",
-    "size": 72554,
-    "sha256": "dfd14ce897215e2ac003ffa9c63395e7d0d54ff4c5929413848c32dc173d396c"
+    "size": 75864,
+    "sha256": "f657d3d594f83ad10165961ff4bc2816ef806a3abaeecc318602d830509fa54d"
   },
   {
     "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 02/Audio/S02-D01-trixie-take001-alignment.json",
@@ -10601,8 +10606,8 @@
   },
   {
     "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 02/timed-production-map-v003.json",
-    "size": 48054,
-    "sha256": "ac925b3670e178147c0faa6a26e82c028057593459fc39ae69f83474b33e3529"
+    "size": 50371,
+    "sha256": "8cc220ec68544b4c3a60a25ec3d91c29da4effbea7f7a69fc69b3c9832f8a2c5"
   },
   {
     "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 03/Audio/S03-D02-byte-take001-alignment.json",
@@ -10876,8 +10881,8 @@
   },
   {
     "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 03/timed-production-map-v003.json",
-    "size": 43560,
-    "sha256": "85e670f66aa2858db4818752afc0c1b93d2025e6bf9cb742afea160754644d0b"
+    "size": 45546,
+    "sha256": "5f03693f8549c7d40a5edf77c551e4801b4314c27d83bc2eca8042c900b0de4f"
   },
   {
     "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 04/Audio/S04-D01-byte-take001-alignment.json",
@@ -11101,8 +11106,8 @@
   },
   {
     "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 04/timed-production-map-v003.json",
-    "size": 33964,
-    "sha256": "207fc27b2760fb507eed49acf993ed71b44ba161f02f9d97c28a94c16ae77c87"
+    "size": 35619,
+    "sha256": "5bb901c8e8276e8d7e7166bc61447292d01d1f66bc585f3e201549b9e317dd06"
   },
   {
     "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 05/Audio/Round 2/S05-D01-byte-take001-alignment.json",
@@ -11316,8 +11321,8 @@
   },
   {
     "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 05/timed-production-map-v003.json",
-    "size": 34866,
-    "sha256": "dfcde662a8b3321094f774aad5f45e3929930d53b216b89601bd24a019ad7bd8"
+    "size": 36852,
+    "sha256": "53d7219d9247f53504acb4f4143b486351575e957a4ab999898f91ccc9a6d215"
   },
   {
     "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 06/scene-brief.txt",
@@ -11331,8 +11336,8 @@
   },
   {
     "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 06/timed-production-map-v003.json",
-    "size": 32592,
-    "sha256": "5fe627d68b14bfcb75a3c85afea26622be20447b83e7e2365a857533edd71d11"
+    "size": 34247,
+    "sha256": "03e33e22835cdea6b5b4a172d2fc7912adb11029edda5eddb36daf93b24c9f6b"
   },
   {
     "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 07/scene-brief.txt",
@@ -11346,8 +11351,8 @@
   },
   {
     "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 07/timed-production-map-v003.json",
-    "size": 39596,
-    "sha256": "974249d90829ed62f8f54111a5e26254fb17cd4b46d218bd997e950cf813efd8"
+    "size": 41913,
+    "sha256": "a0cae56430c149f0ec95f2630e9a48231eb018b3b736928ee3043af053368e01"
   },
   {
     "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 08/scene-brief.txt",
@@ -11361,8 +11366,8 @@
   },
   {
     "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 08/timed-production-map-v003.json",
-    "size": 25851,
-    "sha256": "9a765565e31cab6ce1204cbd1431d9abfc734890285741fa1b6ce873c370b805"
+    "size": 27506,
+    "sha256": "060d4c0479c44e3eb7ae06e99ebf54092b8ea83989bb81b09b4e82fb5e480a95"
   },
   {
     "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 09/scene-brief.txt",
@@ -11376,8 +11381,8 @@
   },
   {
     "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 09/timed-production-map-v003.json",
-    "size": 39539,
-    "sha256": "29222a1e372bdf56dee8f969e1aa9cdafb6ab08a50734dc60cf82e7e911576a9"
+    "size": 41856,
+    "sha256": "ecdb6f04131c119d290d9110964b4859eda9590dd054f0d50e236db1aa1fe09b"
   },
   {
     "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 10/scene-brief.txt",
@@ -11391,8 +11396,8 @@
   },
   {
     "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 10/timed-production-map-v003.json",
-    "size": 38532,
-    "sha256": "652fba2579e794595e4e974ca3456e4133d623c4d1b0b0cb7586c3e351311d9e"
+    "size": 40849,
+    "sha256": "bd628051300b448b54783344ceffb700aeba10f3502c798c878f3aef35b4f997"
   },
   {
     "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 11/scene-brief.txt",
@@ -11406,8 +11411,8 @@
   },
   {
     "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 11/timed-production-map-v003.json",
-    "size": 42810,
-    "sha256": "c1b494c3b6c505dae7612fbacad11ed350eeae730b66d4111b7f4c215b76cd2b"
+    "size": 45458,
+    "sha256": "2209f487e8df3289ffd8328a5c8f66a7ad0822849f4705aea3cfa833813fc149"
   },
   {
     "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 12/scene-brief.txt",
@@ -11421,8 +11426,8 @@
   },
   {
     "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 12/timed-production-map-v003.json",
-    "size": 31848,
-    "sha256": "a09bc61c21f148595fb6eb5824302557906827332872a033b53684e24790320e"
+    "size": 33834,
+    "sha256": "42eb72a148e54fd18653499217efdaff6975e7d204bd0c1175045bcee0ce2bd7"
   },
   {
     "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 13/scene-brief.txt",
@@ -11436,8 +11441,8 @@
   },
   {
     "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 13/timed-production-map-v003.json",
-    "size": 30280,
-    "sha256": "024db574a565876844e943da6e19001d4e05832d656b1474c4b1b52cc694c125"
+    "size": 32266,
+    "sha256": "4cef377637619b557291cb2e4db9289feb180d280e22c25df92815d0228602df"
   },
   {
     "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 14/scene-brief.txt",
@@ -11451,8 +11456,8 @@
   },
   {
     "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 14/timed-production-map-v003.json",
-    "size": 33087,
-    "sha256": "024d76f2c8117efa214e75161d76fc8f798bfd4cdeb318abcc1bb70837b6c43d"
+    "size": 35404,
+    "sha256": "d7b2fd7d1e84db6c774781075b3fd9099d8dc3d6d1ac41618d9306f6a07f12c7"
   },
   {
     "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 15/scene-brief.txt",
@@ -11466,8 +11471,8 @@
   },
   {
     "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 15/timed-production-map-v003.json",
-    "size": 33003,
-    "sha256": "1d3b7bc0ace9e9d83303c588217b64ef07525e20f88ad619281b758def71041b"
+    "size": 34989,
+    "sha256": "a466039fe4842f70058f42203807db825eef51193636ce2cd0b3adfb5707c7d8"
   },
   {
     "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 16/scene-brief.txt",
@@ -11481,8 +11486,8 @@
   },
   {
     "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 16/timed-production-map-v003.json",
-    "size": 39390,
-    "sha256": "0053203d14b99fa41522806fe0f263b467e3750cfd4a0132f8bc8c468c703ef2"
+    "size": 41707,
+    "sha256": "a58d1852723905e08677ceada99c2c0c8796df4df32ec9a1c60b5cd21052b274"
   },
   {
     "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 17/scene-brief.txt",
@@ -11496,8 +11501,8 @@
   },
   {
     "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 17/timed-production-map-v003.json",
-    "size": 35029,
-    "sha256": "4b6f5ede5b1644c07fa62660e721cddf47a24c2a0d3698457be6ab1f2f78ecdb"
+    "size": 36684,
+    "sha256": "30dd098e0a375265e9f63f09b1a695606a458a8f491668c8b0e5fa607419b32d"
   },
   {
     "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 18/scene-brief.txt",
@@ -11511,8 +11516,8 @@
   },
   {
     "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 18/timed-production-map-v003.json",
-    "size": 31078,
-    "sha256": "9af0226f246f24aee1898149659995aab4a020a37a759ee2238dbb42927942f4"
+    "size": 32733,
+    "sha256": "74a4144935a862194244659e8de076eebb80ea08ab8eb6ddce5f1efc0179170d"
   },
   {
     "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 19/scene-brief.txt",
@@ -11526,8 +11531,8 @@
   },
   {
     "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 19/timed-production-map-v003.json",
-    "size": 27072,
-    "sha256": "3169c5dda65ff3a9d4be5dd7a15afd659f7c7cbfca935215fd8baf63ac54256a"
+    "size": 28396,
+    "sha256": "741bac41f6016906b3544fbf65915d7f94b00e75f8c3e4339151a493ee6f6fe6"
   },
   {
     "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 20/scene-brief.txt",
@@ -11541,8 +11546,8 @@
   },
   {
     "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 20/timed-production-map-v003.json",
-    "size": 25875,
-    "sha256": "aa9c64ec45fae968cd46cee8e142dc94097ddf3e575d8d6a2d63471ae15ff43d"
+    "size": 27199,
+    "sha256": "7986f5bec17a6d8095877577af4169624cc7ace6ac165cfd0544fc5bb2fbe416"
   },
   {
     "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 21/scene-brief.txt",
@@ -11556,8 +11561,8 @@
   },
   {
     "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 21/timed-production-map-v003.json",
-    "size": 34282,
-    "sha256": "161b6dc5d4b2d989f6c6025ca74d569f1755bef045ff5ba42d908bf43313a45f"
+    "size": 36268,
+    "sha256": "73b5ed29ca2c0bcf8ae3cc8f068b943a710286653da83adec224713e18ea37a9"
   },
   {
     "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 22/scene-brief.txt",
@@ -11571,8 +11576,8 @@
   },
   {
     "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 22/timed-production-map-v003.json",
-    "size": 31252,
-    "sha256": "c4a883d8e2cf2e29250215ab9737c334b59ff01ff0067d55fc1747c1c487bc6b"
+    "size": 32907,
+    "sha256": "9e712f49f82be41bfc7239829de61e0a40c46bc1d7c1514730edb6b5bc9a914e"
   },
   {
     "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 23/scene-brief.txt",
@@ -11586,8 +11591,8 @@
   },
   {
     "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 23/timed-production-map-v003.json",
-    "size": 29507,
-    "sha256": "cca206ce53e82df0b6547ec529e6fca8657eb5dc26600909183a8228cbe3cbe8"
+    "size": 30831,
+    "sha256": "e9c799189e993b7f18e2c0f178d7db280a5cd5b01dc1a146c714ba56d5df7f62"
   },
   {
     "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 24/scene-brief.txt",
@@ -11601,8 +11606,8 @@
   },
   {
     "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Scenes/Scene 24/timed-production-map-v003.json",
-    "size": 40050,
-    "sha256": "5481982730679102d01560c5c6b7019f79e8e441e66576973c2cbd2619b44a89"
+    "size": 42367,
+    "sha256": "c1a99fc95497ba13c62f7af47328cc3b3445409a7b3c08dd8f5137aeab071eed"
   },
   {
     "path": "Production/Seasons/Season 01/Episode 01 - The Great Salmon Shortage/Script/dialogue-additions-v002.json",
@@ -11863,6 +11868,21 @@
     "path": "Production/story-bible-proposed.json",
     "size": 66237,
     "sha256": "50b63869035aa14702a84b4137fa709717a3ae4657d3072e3d0031f2eef21af3"
+  },
+  {
+    "path": "Production/Tools/minimal-wan-request.json",
+    "size": 195,
+    "sha256": "4b26bfa5c9a7e1725581cb22ccda71e1e114f2d1a9396efb1695754b001e1ad3"
+  },
+  {
+    "path": "Production/Tools/orbis_wan_prime.py",
+    "size": 7049,
+    "sha256": "b51c9c0b79a350068b7c49a6d2d67867e4bd6eb64aff5ada9382dcfae690388c"
+  },
+  {
+    "path": "Production/Tools/WAN-ORBIS-INTEGRATION.txt",
+    "size": 1335,
+    "sha256": "7dda284bc850094246e89113085440d45a641d9db971a33aa655c825d472a608"
   },
   {
     "path": "Production/Voices/additional-cat-voice.json",
@@ -12915,6 +12935,36 @@
     "sha256": "033b1ea78dc63efcc2bd57793add8bb5daa02f903711c616228db7ae18c55434"
   },
   {
+    "path": "Production/Wan Orbis Route Test/output.mp4",
+    "size": 934622,
+    "sha256": "4a5b19c648fa939ccf46333186abc3d2b3cacba04d2e69084e230c7126944e0f"
+  },
+  {
+    "path": "Production/Wan Orbis Route Test/preview.png",
+    "size": 275899,
+    "sha256": "32374dbfe57712742c22b468de90183f1764075f359e5fd22da350a645f51fea"
+  },
+  {
+    "path": "Production/Wan Orbis Route Test/receipt.json",
+    "size": 1476,
+    "sha256": "7c72495712d6c394ba573545137d7ffd623a7ac29d765ca0266efad34862a69b"
+  },
+  {
+    "path": "Production/Wan Orbis Route Test/request.json",
+    "size": 195,
+    "sha256": "4b26bfa5c9a7e1725581cb22ccda71e1e114f2d1a9396efb1695754b001e1ad3"
+  },
+  {
+    "path": "Production/Wan Orbis Route Test/submitted.json",
+    "size": 229,
+    "sha256": "086a7a7ab820ebde623438be65ac7a37ba3de79227a2ab1dbf43ca69a4982ee1"
+  },
+  {
+    "path": "Production/Wan Orbis Route Test/task.json",
+    "size": 420,
+    "sha256": "96ec2117e97df9e81387adf7e7a4d164cac91fe1761098c18a28ef9e19846bb7"
+  },
+  {
     "path": "Production/Websites/.dockerignore",
     "size": 105,
     "sha256": "9a39f148c2d49667618cd6d099b8cdddd61f3e1f87cba7d0722ddcdfcf8320dd"
@@ -12961,13 +13011,13 @@
   },
   {
     "path": "Production/Websites/downloads/pilot-production-map-v003.json",
-    "size": 959067,
-    "sha256": "63d020da64ddfbedad0cf077a7d6aec606aecb42c250c972f49a1c4cc8efd862"
+    "size": 1011066,
+    "sha256": "ea2984c4fe2e4c57589a3b1183178538d7d560ca25ceaa3783a5d8ccd4a58e32"
   },
   {
     "path": "Production/Websites/downloads/scene-shot-references.csv",
-    "size": 122046,
-    "sha256": "135fc54dfe7626dfc07485dc71ad774b93cee101e174d9c6b89f13d44d1f1de8"
+    "size": 153945,
+    "sha256": "fa1c1f23adb7e2b69fdac31afbdc46d5ec998d8b1e6cafa8d2db252092cde4bc"
   },
   {
     "path": "Production/Websites/downloads/shot-timeline-v003.csv",
@@ -14966,8 +15016,8 @@
   },
   {
     "path": "Production/Websites/pilot.json",
-    "size": 959067,
-    "sha256": "63d020da64ddfbedad0cf077a7d6aec606aecb42c250c972f49a1c4cc8efd862"
+    "size": 1011066,
+    "sha256": "ea2984c4fe2e4c57589a3b1183178538d7d560ca25ceaa3783a5d8ccd4a58e32"
   },
   {
     "path": "Production/Websites/README.md",
@@ -15036,8 +15086,8 @@
   },
   {
     "path": "Production/Websites/templates/pilot.html",
-    "size": 7474,
-    "sha256": "1fd7aac8a592ee1937ddaf35ec200bb9d86aad05fc983743178f8572e07c6c83"
+    "size": 7677,
+    "sha256": "06651e69e7cf89c998cefa4c45dc758d1fdc760fef2670b4b259574ed71b24c8"
   },
   {
     "path": "Production/Websites/templates/privacy.html",

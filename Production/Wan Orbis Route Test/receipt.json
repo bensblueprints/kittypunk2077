@@ -1,0 +1,44 @@
+{
+  "model": "wan-3.0-prime",
+  "documentation": "https://orbiorbi.com/api/developer-docs/published/openplane-wan-3-0-prime-official-a",
+  "status": "completed",
+  "created_utc": "2026-11-06T23:58:36.385949+00:00",
+  "post_requests": 1,
+  "auto_retries": 0,
+  "estimated_cny": 0.55,
+  "reference_total": 0,
+  "route_access_verified": true,
+  "task_id": "task_XW17siVbmw8GIniU0ZOygkOr8Jdlk4eN",
+  "progress": 100,
+  "last_polled_utc": "2026-11-07T00:01:44.156940+00:00",
+  "downloaded_file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Wan Orbis Route Test\\output.mp4",
+  "bytes": 934622,
+  "sha256": "4a5b19c648fa939ccf46333186abc3d2b3cacba04d2e69084e230c7126944e0f",
+  "verification": {
+    "ffmpeg_full_decode_passed": true,
+    "preview_inspected": "Boat on calm misty lake in morning light",
+    "probe": {
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "codec_type": "video",
+          "width": 854,
+          "height": 480,
+          "r_frame_rate": "30/1"
+        },
+        {
+          "codec_name": "aac",
+          "codec_type": "audio",
+          "r_frame_rate": "0/0"
+        }
+      ],
+      "format": {
+        "duration": "2.020000"
+      }
+    },
+    "container_duration_note": "2.02 seconds includes audio/container tail; requested 2-second clip",
+    "actual_charge_verified": false
+  }
+}

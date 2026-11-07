@@ -1,0 +1,15 @@
+ORBIS WAN 3.0 PRIME — OFFICIAL A ROUTE
+Python standard-library urllib HTTP; no OpenAI SDK.
+Environment: ORBIS_API_KEY in ignored .env. Never copy .env into a backup or site.
+Commands from the project root:
+python Tools/orbis_wan_prime.py check
+python Tools/orbis_wan_prime.py submit-minimal --out "Outputs/Wan Route Test"
+python Tools/orbis_wan_prime.py poll --out "Outputs/Wan Route Test"
+python Tools/orbis_wan_prime.py download --out "Outputs/Wan Route Test"
+For custom requests use submit --request request.json --out NEW_DIRECTORY.
+Poll every 20 seconds. Reuse the saved receipt/task ID; never repeat submission after a timeout.
+Route limits: 2–30 integer seconds; 480p/720p/1080p; 3000 prompt characters; up to10 images,5 audio,5 videos; mixed total15. References require public direct URLs. Studio links require login and cannot be used directly.
+Native audio defaults on; no documented off flag. For production mute generated audio and lay in ElevenLabs dialogue. input_images are references, not a documented guaranteed first-frame control.
+https://orbiorbi.com/api/developer-docs/published/openplane-wan-3-0-prime-official-a
+
+Minimal test estimate: 2 seconds × CNY0.275 = CNY0.55; actual billed amount not independently verified. The boat/lake prompt is the route documentation example, not a pilot shot.
