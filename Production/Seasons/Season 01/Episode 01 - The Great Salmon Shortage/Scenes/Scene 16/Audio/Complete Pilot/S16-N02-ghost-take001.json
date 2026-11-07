@@ -1,0 +1,21 @@
+{
+  "line_id": "S16-N02",
+  "scene": 16,
+  "role_id": "ghost",
+  "text": "Left at the bins. The ladder goes to the low roof, not the street.",
+  "voice_id": "7fBwqIVI6wI1B4MuKqQi",
+  "voice_name": "Austin — Upbeat",
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.5,
+    "similarity_boost": 0.75,
+    "style": 0.15,
+    "use_speaker_boost": true
+  },
+  "duration_sec": 4.040272,
+  "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Voices\\Pilot Complete\\Scene16\\S16-N02-ghost-take001.mp3",
+  "sha256": "61b217958605ec5a5dfadb6c01d5d7dfda0c33b128779054cef9abdbadd6c782",
+  "request_id": "IEZVmYWMN0ZiVgfN1dnt",
+  "provider_character_cost": "15",
+  "status": "review_take_not_yet_approved"
+}

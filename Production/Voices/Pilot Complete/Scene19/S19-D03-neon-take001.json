@@ -1,0 +1,21 @@
+{
+  "line_id": "S19-D03",
+  "scene": 19,
+  "role_id": "neon",
+  "text": "There's a salmon shortage for cats.",
+  "voice_id": "4e32WqNVWRquDa1OcRYZ",
+  "voice_name": "Ryan — Product Reviewer",
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.5,
+    "similarity_boost": 0.75,
+    "style": 0.15,
+    "use_speaker_boost": true
+  },
+  "duration_sec": 2.275556,
+  "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Voices\\Pilot Complete\\Scene19\\S19-D03-neon-take001.mp3",
+  "sha256": "f5558a3ba4a6921a725e12de18c4aeedd8c12de2c0d438a3901a37d1f69de3f7",
+  "request_id": "yjeHQbEgJsT95NvQuX2u",
+  "provider_character_cost": "8",
+  "status": "review_take_not_yet_approved"
+}

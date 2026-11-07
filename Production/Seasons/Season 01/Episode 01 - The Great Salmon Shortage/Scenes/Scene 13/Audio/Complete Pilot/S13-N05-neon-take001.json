@@ -1,0 +1,21 @@
+{
+  "line_id": "S13-N05",
+  "scene": 13,
+  "role_id": "neon",
+  "text": "Recording locally. If the connection drops, we still keep the file.",
+  "voice_id": "4e32WqNVWRquDa1OcRYZ",
+  "voice_name": "Ryan — Product Reviewer",
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.5,
+    "similarity_boost": 0.75,
+    "style": 0.15,
+    "use_speaker_boost": true
+  },
+  "duration_sec": 3.111474,
+  "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Voices\\Pilot Complete\\Scene13\\S13-N05-neon-take001.mp3",
+  "sha256": "0e4b9cfe43de01e2595d52f1247710de2b3146b683fcc20c9924b9ae8956bda2",
+  "request_id": "mIqwsvaE6zTZuEnji2cr",
+  "provider_character_cost": "15",
+  "status": "review_take_not_yet_approved"
+}

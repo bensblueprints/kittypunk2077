@@ -1,0 +1,68 @@
+{
+  "scene": 15,
+  "duration_seconds": 27.891791383219953,
+  "target_scene_seconds": 45,
+  "placements": [
+    {
+      "line_id": "S15-N01",
+      "start": 0.0,
+      "end": 5.2477097505668935,
+      "text": "Both faces and the bag are in frame. Keep rolling. Do not crop away who handed it over."
+    },
+    {
+      "line_id": "S15-N02",
+      "start": 5.547709750566893,
+      "end": 9.030702947845805,
+      "text": "Someone is coming down the corridor. You have one clean shot."
+    },
+    {
+      "line_id": "S15-D01",
+      "start": 9.330702947845804,
+      "end": 10.538140589569162,
+      "text": "Please tell me you got that."
+    },
+    {
+      "line_id": "S15-D02",
+      "start": 10.83814058956916,
+      "end": 11.627619047619048,
+      "text": "Every pixel."
+    },
+    {
+      "line_id": "S15-N03",
+      "start": 11.927619047619048,
+      "end": 14.853333333333333,
+      "text": "Save the original and a copy. No filters, no edits."
+    },
+    {
+      "line_id": "S15-D03",
+      "start": 15.153333333333334,
+      "end": 16.546530612244897,
+      "text": "The audio's ambiguous."
+    },
+    {
+      "line_id": "S15-D04",
+      "start": 16.846530612244898,
+      "end": 18.100408163265307,
+      "text": "The photograph isn't."
+    },
+    {
+      "line_id": "S15-N04",
+      "start": 18.400408163265308,
+      "end": 22.254920634920634,
+      "text": "It proves a payment happened. We still cannot label what the money bought."
+    },
+    {
+      "line_id": "S15-N05",
+      "start": 22.554920634920634,
+      "end": 24.969795918367346,
+      "text": "Then we show exactly what we have. Nothing more."
+    },
+    {
+      "line_id": "S15-N06",
+      "start": 25.269795918367347,
+      "end": 27.591791383219956,
+      "text": "Patrol is back early. Time to move."
+    }
+  ],
+  "status": "dialogue review assembly, not final soundtrack"
+}

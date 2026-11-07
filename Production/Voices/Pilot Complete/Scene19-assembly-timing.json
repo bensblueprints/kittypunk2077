@@ -1,0 +1,50 @@
+{
+  "scene": 19,
+  "duration_seconds": 23.46235827664399,
+  "target_scene_seconds": 35,
+  "placements": [
+    {
+      "line_id": "S19-D01",
+      "start": 0.0,
+      "end": 1.4396371882086167,
+      "text": "There isn't a salmon shortage."
+    },
+    {
+      "line_id": "S19-D02",
+      "start": 1.7396371882086168,
+      "end": 2.1575963718820863,
+      "text": "What?"
+    },
+    {
+      "line_id": "S19-D03",
+      "start": 2.457596371882086,
+      "end": 4.733151927437642,
+      "text": "There's a salmon shortage for cats."
+    },
+    {
+      "line_id": "S19-N01",
+      "start": 5.0331519274376415,
+      "end": 11.070340136054421,
+      "text": "These are current dispatch records. Match the truck numbers to the public gate camera before we publish."
+    },
+    {
+      "line_id": "S19-N02",
+      "start": 11.370340136054422,
+      "end": 17.17532879818594,
+      "text": "District Seven order cancelled. District Two replacement accepted. Same load, same morning."
+    },
+    {
+      "line_id": "S19-D04",
+      "start": 17.47532879818594,
+      "end": 18.822086167800453,
+      "text": "Those sons of bitches."
+    },
+    {
+      "line_id": "S19-N03",
+      "start": 19.122086167800454,
+      "end": 23.162358276643992,
+      "text": "Save the records. We verify the trucks at the gate, then get that food moving."
+    }
+  ],
+  "status": "dialogue review assembly, not final soundtrack"
+}

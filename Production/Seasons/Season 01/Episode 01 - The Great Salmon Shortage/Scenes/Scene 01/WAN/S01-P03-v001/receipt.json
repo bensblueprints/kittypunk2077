@@ -1,0 +1,17 @@
+{
+  "model": "wan-3.0-prime",
+  "documentation": "https://orbiorbi.com/api/developer-docs/published/openplane-wan-3-0-prime-official-a",
+  "status": "completed",
+  "created_utc": "2026-11-07T00:20:27.448502+00:00",
+  "post_requests": 1,
+  "auto_retries": 0,
+  "estimated_cny": 7.7,
+  "reference_total": 2,
+  "route_access_verified": true,
+  "task_id": "task_tiRz7Nd0Mw2pmEc2yW2xSo3CgieFZhR6",
+  "progress": 100,
+  "last_polled_utc": "2026-11-07T00:30:41.081468+00:00",
+  "downloaded_file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Seasons\\Season 01\\Episode 01 - The Great Salmon Shortage\\Scenes\\Scene 01\\WAN\\S01-P03-v001\\output.mp4",
+  "bytes": 27947907,
+  "sha256": "f6a36b90e9504abaadb56044c42f8d58b4369469bcc5d8c4f0cd7b00d8840177"
+}

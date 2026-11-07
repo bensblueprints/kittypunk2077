@@ -19,7 +19,7 @@ def save(path,obj):
  tmp=path.with_suffix(path.suffix+'.tmp');tmp.write_text(json.dumps(obj,ensure_ascii=False,indent=2),'utf-8');tmp.replace(path)
 
 def request(path,payload=None):
- key=os.environ.get('ORBIS_API_KEY')
+ key=os.environ.get('ORBIS_WAN_API_KEY') or os.environ.get('ORBIS_API_KEY')
  if not key:raise RuntimeError('ORBIS_API_KEY missing')
  req=urllib.request.Request(BASE+path,data=None if payload is None else json.dumps(payload,ensure_ascii=False).encode('utf-8'),headers={'Authorization':'Bearer '+key,'Content-Type':'application/json'})
  try:

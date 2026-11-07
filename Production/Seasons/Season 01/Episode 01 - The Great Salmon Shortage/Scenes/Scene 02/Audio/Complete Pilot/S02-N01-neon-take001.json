@@ -1,0 +1,21 @@
+{
+  "line_id": "S02-N01",
+  "scene": 2,
+  "role_id": "neon",
+  "text": "The console is still running. Look, my controller is connected. Something is taking over the television.",
+  "voice_id": "4e32WqNVWRquDa1OcRYZ",
+  "voice_name": "Ryan — Product Reviewer",
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.5,
+    "similarity_boost": 0.75,
+    "style": 0.15,
+    "use_speaker_boost": true
+  },
+  "duration_sec": 4.87619,
+  "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Voices\\Pilot Complete\\Scene02\\S02-N01-neon-take001.mp3",
+  "sha256": "dc9ffd328ddbbbb73290462ab41fe96bf980bfb8dea4108ddd7e581bdb9a117f",
+  "request_id": "XVbfYYTXNXpdtFzEn7nc",
+  "provider_character_cost": "23",
+  "status": "review_take_not_yet_approved"
+}

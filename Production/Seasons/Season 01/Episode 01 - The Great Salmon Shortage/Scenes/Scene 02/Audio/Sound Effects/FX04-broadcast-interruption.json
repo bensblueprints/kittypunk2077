@@ -1,0 +1,21 @@
+{
+  "id": "FX04-broadcast-interruption",
+  "scenes": [
+    2,
+    3,
+    17
+  ],
+  "request": {
+    "text": "Old CRT television crackle, brief digital interruption glitch followed by a clean corporate news alert chime, then low electronic hum. No speech or music.",
+    "duration_seconds": 6,
+    "loop": false,
+    "prompt_influence": 0.45,
+    "model_id": "eleven_text_to_sound_v2"
+  },
+  "status": "completed",
+  "created": "2026-11-07T01:13:38.650958+00:00",
+  "bytes": 97009,
+  "sha256": "734d0f3a558a98e9feb78b5cc23176d8b3ca6c528f7cec56d7f8aaf25d180e55",
+  "character_cost": "33",
+  "request_id": null
+}

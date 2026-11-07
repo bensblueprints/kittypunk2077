@@ -1,0 +1,21 @@
+{
+  "line_id": "S02-N03",
+  "scene": 2,
+  "role_id": "trixie",
+  "text": "Try another channel. We paid for the game, not a lecture.",
+  "voice_id": "dmWfLQZJq7wNPv9WmtiM",
+  "voice_name": "Emma — Wry, Gritty Hero",
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.35,
+    "similarity_boost": 0.8,
+    "style": 0.55,
+    "use_speaker_boost": true
+  },
+  "duration_sec": 3.018594,
+  "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Voices\\Pilot Complete\\Scene02\\S02-N03-trixie-take001.mp3",
+  "sha256": "cf89dd55ea966e6a59c5d73ac1db91325746064fd38984b1bddc1d2e21ec75ec",
+  "request_id": "g3R0lsdBiHibLEzANVNf",
+  "provider_character_cost": "13",
+  "status": "review_take_not_yet_approved"
+}

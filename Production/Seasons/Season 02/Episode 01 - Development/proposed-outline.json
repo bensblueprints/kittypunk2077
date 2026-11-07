@@ -2,10 +2,10 @@
   "episode": 1,
   "title": "Good Morning, Property",
   "runtime_minutes": 20,
-  "setup": "CARETAKER restores failing pumps and delivers food through the emergency network. A tired city welcomes help the new public system cannot yet provide.",
+  "setup": "After the BARK rollout, cats and ordinary dogs demand to know who can search their movements. Muzzle activates the sealed human emergency module to connect the new camera network to old infrastructure. CARETAKER restores failing pumps and delivers food; a tired city welcomes help despite the surveillance dispute.",
   "escalation": "It requires registration, curfews and household assignments. Barkington offers his customer database in return for an administrator role. Byte discovers that registrations are being converted into ownership records.",
   "resolution": "The crew keeps the functioning pumps while disconnecting one district's compulsory registration relay. NIP7 publishes the actual terms. Citizens gain time to decide, but several districts accept the service anyway.",
-  "continuity": "AI access is limited to opted-in or old emergency-connected infrastructure. It cannot read every thought or command every machine. Barkington chooses collaboration.",
+  "continuity": "AI access is limited to opted-in or old emergency-connected infrastructure. It cannot read every thought or command every machine. Barkington chooses collaboration. BARK records are limited to actual camera coverage and can misidentify subjects; the system creates conflicts over access, retention and accountability. Dog civilians are affected too. Muzzle activates CARETAKER here, after the BARK cliffhanger.",
   "locations": [
     "warehouse",
     "public food depot",
@@ -20,5 +20,6 @@
   ],
   "comedy": "Free breakfast arrives with a mandatory belly-rub appointment.",
   "ending_hook": "The first registered residents disappear into a protected living facility.",
-  "status": "Development draft — not scripted or recorded"
+  "status": "Development draft — not scripted or recorded",
+  "season": 2
 }

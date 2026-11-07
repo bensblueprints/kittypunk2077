@@ -1,0 +1,21 @@
+{
+  "line_id": "S11-N01",
+  "scene": 11,
+  "role_id": "ghost",
+  "text": "Front door has two guards. Service door has one camera. Their patrol crosses the alley every forty seconds.",
+  "voice_id": "7fBwqIVI6wI1B4MuKqQi",
+  "voice_name": "Austin — Upbeat",
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.5,
+    "similarity_boost": 0.75,
+    "style": 0.15,
+    "use_speaker_boost": true
+  },
+  "duration_sec": 6.919546,
+  "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Voices\\Pilot Complete\\Scene11\\S11-N01-ghost-take001.mp3",
+  "sha256": "a34edd18b9f4fdead36454d3693441ee40379d00fc3bbf749131f10b0b03faaf",
+  "request_id": "hOu6yvfaodaWwAkb7Y03",
+  "provider_character_cost": "24",
+  "status": "review_take_not_yet_approved"
+}

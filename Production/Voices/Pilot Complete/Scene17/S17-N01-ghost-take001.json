@@ -1,0 +1,21 @@
+{
+  "line_id": "S17-N01",
+  "scene": 17,
+  "role_id": "ghost",
+  "text": "Send the uncut clip with the photograph. Let the newsroom check the timestamp themselves.",
+  "voice_id": "7fBwqIVI6wI1B4MuKqQi",
+  "voice_name": "Austin — Upbeat",
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.5,
+    "similarity_boost": 0.75,
+    "style": 0.15,
+    "use_speaker_boost": true
+  },
+  "duration_sec": 5.619229,
+  "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Voices\\Pilot Complete\\Scene17\\S17-N01-ghost-take001.mp3",
+  "sha256": "92aa679662b38e601fcdb95cfcb57df5da2e22f66678b48cfb35b1eadc214db4",
+  "request_id": "8bbY4FsKM9iVI80emvkT",
+  "provider_character_cost": "20",
+  "status": "review_take_not_yet_approved"
+}

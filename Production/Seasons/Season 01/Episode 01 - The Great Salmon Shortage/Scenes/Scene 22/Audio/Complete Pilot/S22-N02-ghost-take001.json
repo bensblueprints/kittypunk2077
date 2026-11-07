@@ -1,0 +1,21 @@
+{
+  "line_id": "S22-N02",
+  "scene": 22,
+  "role_id": "ghost",
+  "text": "Original logs preserved. Public copies include the truck numbers and cancelled orders.",
+  "voice_id": "7fBwqIVI6wI1B4MuKqQi",
+  "voice_name": "Austin — Upbeat",
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.5,
+    "similarity_boost": 0.75,
+    "style": 0.15,
+    "use_speaker_boost": true
+  },
+  "duration_sec": 5.10839,
+  "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Voices\\Pilot Complete\\Scene22\\S22-N02-ghost-take001.mp3",
+  "sha256": "564237d7cad1adbd615c03a8a544ecb641ffabd920bba5585ef795fc35237ac7",
+  "request_id": "OBYrb5VqpSw4CRNAzRXJ",
+  "provider_character_cost": "19",
+  "status": "review_take_not_yet_approved"
+}

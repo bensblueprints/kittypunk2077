@@ -1,0 +1,21 @@
+{
+  "line_id": "S18-N02",
+  "scene": 18,
+  "role_id": "trixie",
+  "text": "You are right. A headline is not a meal.",
+  "voice_id": "dmWfLQZJq7wNPv9WmtiM",
+  "voice_name": "Emma — Wry, Gritty Hero",
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.35,
+    "similarity_boost": 0.8,
+    "style": 0.55,
+    "use_speaker_boost": true
+  },
+  "duration_sec": 1.996916,
+  "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Voices\\Pilot Complete\\Scene18\\S18-N02-trixie-take001.mp3",
+  "sha256": "5e3af31f4601d9ebb079aee83d9a1fc60b346a17c17ab8bbaa563c7ed3bebd6d",
+  "request_id": "XmE0gwpzDTmDtSSkeNct",
+  "provider_character_cost": "9",
+  "status": "review_take_not_yet_approved"
+}

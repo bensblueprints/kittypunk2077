@@ -1,0 +1,21 @@
+{
+  "line_id": "S21-N03",
+  "scene": 21,
+  "role_id": "onyx",
+  "text": "A robot. I am punching a robot. We are being specific.",
+  "voice_id": "uq0HIbNZKn11Hs5ifEdd",
+  "voice_name": "Harry — Fierce Warrior",
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.5,
+    "similarity_boost": 0.75,
+    "style": 0.15,
+    "use_speaker_boost": true
+  },
+  "duration_sec": 3.529433,
+  "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Voices\\Pilot Complete\\Scene21\\S21-N03-onyx-take001.mp3",
+  "sha256": "2f6cb5d3ab682bc7679bd1d9843fd4da2cd2c583a5b0717413f06809337ff98c",
+  "request_id": "iIKBD5AKjSO6BvK3qHFn",
+  "provider_character_cost": "12",
+  "status": "review_take_not_yet_approved"
+}

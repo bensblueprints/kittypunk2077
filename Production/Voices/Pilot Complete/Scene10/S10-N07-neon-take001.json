@@ -1,0 +1,21 @@
+{
+  "line_id": "S10-N07",
+  "scene": 10,
+  "role_id": "neon",
+  "text": "Two decoys for entry. One held back. I actually planned for something going wrong.",
+  "voice_id": "4e32WqNVWRquDa1OcRYZ",
+  "voice_name": "Ryan — Product Reviewer",
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.5,
+    "similarity_boost": 0.75,
+    "style": 0.15,
+    "use_speaker_boost": true
+  },
+  "duration_sec": 4.411791,
+  "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Voices\\Pilot Complete\\Scene10\\S10-N07-neon-take001.mp3",
+  "sha256": "55a50f71f6df6a18a82603ea0c92d9bcdc7e93685e22a04a8428b92d28095aba",
+  "request_id": "2dYvjSFphg9azcgFCaGm",
+  "provider_character_cost": "18",
+  "status": "review_take_not_yet_approved"
+}

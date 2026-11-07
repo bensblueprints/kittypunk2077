@@ -1,0 +1,68 @@
+{
+  "scene": 3,
+  "duration_seconds": 46.281995464852606,
+  "target_scene_seconds": 65,
+  "placements": [
+    {
+      "line_id": "S03-D01",
+      "start": 0.0,
+      "end": 17.507845804988662,
+      "text": "Citizens of Districts Seven through Twelve. Due to an unprecedented salmon supply emergency, you are advised to acquire no less than thirty days of fresh salmon immediately. Goodboy Global thanks you for your obedience."
+    },
+    {
+      "line_id": "S03-N01",
+      "start": 17.807845804988663,
+      "end": 22.405396825396824,
+      "text": "Seven through Twelve. Why are the first six districts missing from that map?"
+    },
+    {
+      "line_id": "S03-N02",
+      "start": 22.705396825396825,
+      "end": 26.606349206349208,
+      "text": "Save the broadcast. The original file, with the time on it."
+    },
+    {
+      "line_id": "S03-D02",
+      "start": 26.906349206349205,
+      "end": 29.228344671201814,
+      "text": "Thirty days? I can't afford thirty minutes."
+    },
+    {
+      "line_id": "S03-D03",
+      "start": 29.528344671201815,
+      "end": 30.92154195011338,
+      "text": "Something smells fishy."
+    },
+    {
+      "line_id": "S03-D04",
+      "start": 31.22154195011338,
+      "end": 32.61473922902494,
+      "text": "It's literally fish."
+    },
+    {
+      "line_id": "S03-N03",
+      "start": 32.914739229024946,
+      "end": 35.1902947845805,
+      "text": "We check the shop before we believe any of this."
+    },
+    {
+      "line_id": "S03-N04",
+      "start": 35.4902947845805,
+      "end": 39.39124716553288,
+      "text": "With what money? The emergency does not come with an emergency wallet."
+    },
+    {
+      "line_id": "S03-N05",
+      "start": 39.69124716553288,
+      "end": 42.802721088435376,
+      "text": "Bring your scanner. We need prices, not another argument."
+    },
+    {
+      "line_id": "S03-N06",
+      "start": 43.10272108843537,
+      "end": 45.98199546485261,
+      "text": "I will keep the others here. Tell us what you find."
+    }
+  ],
+  "status": "dialogue review assembly, not final soundtrack"
+}

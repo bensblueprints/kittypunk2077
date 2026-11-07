@@ -1,0 +1,21 @@
+{
+  "line_id": "S19-N01",
+  "scene": 19,
+  "role_id": "ghost",
+  "text": "These are current dispatch records. Match the truck numbers to the public gate camera before we publish.",
+  "voice_id": "7fBwqIVI6wI1B4MuKqQi",
+  "voice_name": "Austin — Upbeat",
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.5,
+    "similarity_boost": 0.75,
+    "style": 0.15,
+    "use_speaker_boost": true
+  },
+  "duration_sec": 6.037188,
+  "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Voices\\Pilot Complete\\Scene19\\S19-N01-ghost-take001.mp3",
+  "sha256": "7f65ea104a569a3d4f12e263203cc4a6118c4fe9d9035f171c9177fce855f8f5",
+  "request_id": "tidfhvnYuDaCRBWcfLhS",
+  "provider_character_cost": "23",
+  "status": "review_take_not_yet_approved"
+}

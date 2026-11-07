@@ -1,0 +1,21 @@
+{
+  "line_id": "S22-D04",
+  "scene": 22,
+  "role_id": "trixie",
+  "text": "Now that's what I call a hostile takeover.",
+  "voice_id": "dmWfLQZJq7wNPv9WmtiM",
+  "voice_name": "Emma — Wry, Gritty Hero",
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.35,
+    "similarity_boost": 0.8,
+    "style": 0.55,
+    "use_speaker_boost": true
+  },
+  "duration_sec": 1.950476,
+  "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Voices\\Pilot Complete\\Scene22\\S22-D04-trixie-take001.mp3",
+  "sha256": "daa7af2e87ab01afcfc114b3b8bf3df0c8f03c70f2bbb2bfe9e4e4c01404fc47",
+  "request_id": "hkJMIxj6VwenhS2mmxN7",
+  "provider_character_cost": "9",
+  "status": "review_take_not_yet_approved"
+}

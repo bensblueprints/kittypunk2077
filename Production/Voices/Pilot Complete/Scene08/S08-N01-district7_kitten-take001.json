@@ -1,0 +1,21 @@
+{
+  "line_id": "S08-N01",
+  "scene": 8,
+  "role_id": "district7_kitten",
+  "text": "Mum says promises do not fit in a bowl.",
+  "voice_id": "FGY2WhTYpPnrIDTdsKH5",
+  "voice_name": "Laura - Enthusiast, Quirky Attitude",
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.5,
+    "similarity_boost": 0.75,
+    "style": 0.15,
+    "use_speaker_boost": true
+  },
+  "duration_sec": 2.182676,
+  "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Voices\\Pilot Complete\\Scene08\\S08-N01-district7_kitten-take001.mp3",
+  "sha256": "e46ecbd2518d2ceaf5299f63f2e3de81963366da7cfe77fa12e037423a691283",
+  "request_id": "BO7hp1spKZDQRh92IXBO",
+  "provider_character_cost": "9",
+  "status": "review_take_not_yet_approved"
+}

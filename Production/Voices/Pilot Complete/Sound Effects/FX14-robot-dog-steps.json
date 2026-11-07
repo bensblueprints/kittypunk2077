@@ -1,0 +1,20 @@
+{
+  "id": "FX14-robot-dog-steps",
+  "scenes": [
+    20,
+    21
+  ],
+  "request": {
+    "text": "Heavy bipedal robotic guard walking on metal factory floor, six measured armored footsteps with joint servos and hydraulic hiss. Two legs, no animal growls, no speech, no music.",
+    "duration_seconds": 8,
+    "loop": false,
+    "prompt_influence": 0.45,
+    "model_id": "eleven_text_to_sound_v2"
+  },
+  "status": "completed",
+  "created": "2026-11-07T01:14:21.474684+00:00",
+  "bytes": 129192,
+  "sha256": "f606a728d874a8bcfe19b1ae04f0da95e527942162aba30dc1e2a48c0d27f6a0",
+  "character_cost": "44",
+  "request_id": null
+}

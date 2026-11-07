@@ -1,0 +1,21 @@
+{
+  "line_id": "S10-N04",
+  "scene": 10,
+  "role_id": "neon",
+  "text": "They follow the sound and the smell. This switch cuts both. Do not press the red button indoors.",
+  "voice_id": "4e32WqNVWRquDa1OcRYZ",
+  "voice_name": "Ryan — Product Reviewer",
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.5,
+    "similarity_boost": 0.75,
+    "style": 0.15,
+    "use_speaker_boost": true
+  },
+  "duration_sec": 6.176508,
+  "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Voices\\Pilot Complete\\Scene10\\S10-N04-neon-take001.mp3",
+  "sha256": "bcefc2ff4d6ce6b131eb004a580a049a84c114214b6270a13281f39260ce661b",
+  "request_id": "nQ43fqxuE9IKMMOxgpif",
+  "provider_character_cost": "21",
+  "status": "review_take_not_yet_approved"
+}

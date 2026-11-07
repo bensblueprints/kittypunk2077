@@ -1,0 +1,56 @@
+{
+  "scene": 18,
+  "duration_seconds": 23.530158730158732,
+  "target_scene_seconds": 35,
+  "placements": [
+    {
+      "line_id": "S18-D01",
+      "start": 0.0,
+      "end": 1.3467573696145125,
+      "text": "We exposed the bastard!"
+    },
+    {
+      "line_id": "S18-N01",
+      "start": 1.6467573696145126,
+      "end": 6.755147392290249,
+      "text": "I read your story. The freezer is still empty. What do we eat tonight?"
+    },
+    {
+      "line_id": "S18-N02",
+      "start": 7.055147392290249,
+      "end": 9.052063492063493,
+      "text": "You are right. A headline is not a meal."
+    },
+    {
+      "line_id": "S18-D02",
+      "start": 9.352063492063492,
+      "end": 11.163219954648525,
+      "text": "Then why are the stores still empty?"
+    },
+    {
+      "line_id": "S18-D03",
+      "start": 11.463219954648526,
+      "end": 14.57469387755102,
+      "text": "Because we exposed a payment. Not the supply chain."
+    },
+    {
+      "line_id": "S18-D04",
+      "start": 14.874693877551021,
+      "end": 16.267891156462586,
+      "text": "Wait. I've got something."
+    },
+    {
+      "line_id": "S18-N03",
+      "start": 16.567891156462586,
+      "end": 19.54004535147392,
+      "text": "The delivery code matches Byte’s price record."
+    },
+    {
+      "line_id": "S18-N04",
+      "start": 19.840045351473922,
+      "end": 23.23015873015873,
+      "text": "Back to the lair. Follow the deliveries, not the speeches."
+    }
+  ],
+  "status": "dialogue review assembly, not final soundtrack"
+}

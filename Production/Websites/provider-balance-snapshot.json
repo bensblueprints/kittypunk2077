@@ -1,0 +1,17 @@
+[
+  {
+    "provider": "ElevenLabs",
+    "result": "Included credits remaining after pilot dialogue batch: 24106; refresh for live balance",
+    "checked": 1794014427.894635
+  },
+  {
+    "provider": "Higgsfield",
+    "result": "2358.25 credits Â· Ultra plan Â· connected-tool snapshot, not a live website API; unlimited trial inactive; one AI Influencer free generation available",
+    "checked": 1794014427.8946366
+  },
+  {
+    "provider": "DeepSeek",
+    "result": "deepseek-v4.1-flash model check and minimal text generation passed; vision not verified",
+    "checked": 1794014427.8946376
+  }
+]

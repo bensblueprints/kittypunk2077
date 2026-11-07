@@ -1,0 +1,21 @@
+{
+  "line_id": "S09-D04",
+  "scene": 9,
+  "role_id": "trixie",
+  "text": "Then let's see what's on the menu.",
+  "voice_id": "dmWfLQZJq7wNPv9WmtiM",
+  "voice_name": "Emma — Wry, Gritty Hero",
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.35,
+    "similarity_boost": 0.8,
+    "style": 0.55,
+    "use_speaker_boost": true
+  },
+  "duration_sec": 1.671837,
+  "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Voices\\Pilot Complete\\Scene09\\S09-D04-trixie-take001.mp3",
+  "sha256": "b92068c6159d951a77ecfe0b227fc869cc69f487f6e363625e2ca9c2cd766254",
+  "request_id": "49ArQMztU34LfET6iJOy",
+  "provider_character_cost": "7",
+  "status": "review_take_not_yet_approved"
+}

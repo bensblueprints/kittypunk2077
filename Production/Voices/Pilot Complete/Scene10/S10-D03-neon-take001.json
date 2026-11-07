@@ -1,0 +1,21 @@
+{
+  "line_id": "S10-D03",
+  "scene": 10,
+  "role_id": "neon",
+  "text": "Then we have a very expensive collection of dog toys.",
+  "voice_id": "4e32WqNVWRquDa1OcRYZ",
+  "voice_name": "Ryan — Product Reviewer",
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.5,
+    "similarity_boost": 0.75,
+    "style": 0.15,
+    "use_speaker_boost": true
+  },
+  "duration_sec": 3.111474,
+  "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Voices\\Pilot Complete\\Scene10\\S10-D03-neon-take001.mp3",
+  "sha256": "b929fd51a13f83b71df43b75f950e6c1ecde25423a192f66f1fb665fcda85ebd",
+  "request_id": "K03Je5zWS90UroapcrPG",
+  "provider_character_cost": "12",
+  "status": "review_take_not_yet_approved"
+}

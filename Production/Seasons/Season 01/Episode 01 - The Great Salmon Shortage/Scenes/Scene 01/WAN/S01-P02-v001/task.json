@@ -1,0 +1,16 @@
+{
+  "id": "task_VcIZenFTycAivciuY97U4IiQBpEFzp43",
+  "object": "video",
+  "model": "wan-3.0-prime",
+  "status": "failed",
+  "progress": 100,
+  "created_at": 1794011994,
+  "completed_at": 1794012296,
+  "error": {
+    "message": "参考素材上传失败，请检查素材 URL 和格式",
+    "code": "upstream_error"
+  },
+  "metadata": {
+    "url": ""
+  }
+}

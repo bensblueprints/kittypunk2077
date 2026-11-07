@@ -1,0 +1,21 @@
+{
+  "line_id": "S21-D01",
+  "scene": 21,
+  "role_id": "byte",
+  "text": "That's enough salmon to feed half the city!",
+  "voice_id": "wo6udizrrtpIxWGp2qJk",
+  "voice_name": "Northern Terry",
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.5,
+    "similarity_boost": 0.75,
+    "style": 0.15,
+    "use_speaker_boost": true
+  },
+  "duration_sec": 2.182676,
+  "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Voices\\Pilot Complete\\Scene21\\S21-D01-byte-take001.mp3",
+  "sha256": "4187ebfb94482a2556fe059e95b83b448cf79aae496358fbf69438bf75199412",
+  "request_id": "nOaL7brYa18wfWebf30h",
+  "provider_character_cost": "9",
+  "status": "review_take_not_yet_approved"
+}

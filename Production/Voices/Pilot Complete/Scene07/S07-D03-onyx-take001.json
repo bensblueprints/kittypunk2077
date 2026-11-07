@@ -1,0 +1,21 @@
+{
+  "line_id": "S07-D03",
+  "scene": 7,
+  "role_id": "onyx",
+  "text": "That's the dumbest chant I've ever heard.",
+  "voice_id": "uq0HIbNZKn11Hs5ifEdd",
+  "voice_name": "Harry — Fierce Warrior",
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.5,
+    "similarity_boost": 0.75,
+    "style": 0.15,
+    "use_speaker_boost": true
+  },
+  "duration_sec": 1.996916,
+  "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Voices\\Pilot Complete\\Scene07\\S07-D03-onyx-take001.mp3",
+  "sha256": "1720134f3b33e31a43e60ae90a77fc72a7fe2a0ddf48c91b8b8a8341315b0415",
+  "request_id": "MK6ri0gWfMBIPxWTloFU",
+  "provider_character_cost": "9",
+  "status": "review_take_not_yet_approved"
+}

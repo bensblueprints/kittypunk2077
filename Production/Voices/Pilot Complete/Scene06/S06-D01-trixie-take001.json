@@ -1,0 +1,21 @@
+{
+  "line_id": "S06-D01",
+  "scene": 6,
+  "role_id": "trixie",
+  "text": "They tripled the price before they announced the shortage!",
+  "voice_id": "dmWfLQZJq7wNPv9WmtiM",
+  "voice_name": "Emma — Wry, Gritty Hero",
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.35,
+    "similarity_boost": 0.8,
+    "style": 0.55,
+    "use_speaker_boost": true
+  },
+  "duration_sec": 2.786395,
+  "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Voices\\Pilot Complete\\Scene06\\S06-D01-trixie-take001.mp3",
+  "sha256": "0c07e9a2484de1a1edaea8181f9c35ad8b5626cfb688a778a483e47dcf622d16",
+  "request_id": "BMIRR2QZHH4oj4ESuDxR",
+  "provider_character_cost": "13",
+  "status": "review_take_not_yet_approved"
+}

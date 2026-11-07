@@ -1,0 +1,21 @@
+{
+  "line_id": "S23-N01",
+  "scene": 23,
+  "role_id": "district7_kitten",
+  "text": "You found it!",
+  "voice_id": "FGY2WhTYpPnrIDTdsKH5",
+  "voice_name": "Laura - Enthusiast, Quirky Attitude",
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.5,
+    "similarity_boost": 0.75,
+    "style": 0.15,
+    "use_speaker_boost": true
+  },
+  "duration_sec": 0.789478,
+  "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Voices\\Pilot Complete\\Scene23\\S23-N01-district7_kitten-take001.mp3",
+  "sha256": "20f9475a0cb15ce8baf3d7d5bf50555016f740ec70ec31e2e9deda217a08f366",
+  "request_id": "SEqQrOTZCPOBJXgsiybp",
+  "provider_character_cost": "3",
+  "status": "review_take_not_yet_approved"
+}

@@ -1,0 +1,74 @@
+{
+  "scene": 14,
+  "duration_seconds": 54.29102040816326,
+  "target_scene_seconds": 60,
+  "placements": [
+    {
+      "line_id": "S14-D01",
+      "start": 0.0,
+      "end": 4.96907029478458,
+      "text": "The public needs reassurance that our supply measures are necessary."
+    },
+    {
+      "line_id": "S14-D02",
+      "start": 5.269070294784581,
+      "end": 7.126666666666667,
+      "text": "And you want that to be tonight's headline?"
+    },
+    {
+      "line_id": "S14-N01",
+      "start": 7.426666666666667,
+      "end": 13.32453514739229,
+      "text": "People are asking why the shelves emptied before the warning. They expect me to ask that question."
+    },
+    {
+      "line_id": "S14-N02",
+      "start": 13.62453514739229,
+      "end": 21.890839002267573,
+      "text": "Questions are useful when they lead the public toward confidence. Less useful when they lead to disorder."
+    },
+    {
+      "line_id": "S14-D03",
+      "start": 22.190839002267573,
+      "end": 26.045351473922903,
+      "text": "I want the public to hear the correct story."
+    },
+    {
+      "line_id": "S14-N03",
+      "start": 26.345351473922904,
+      "end": 30.014104308390024,
+      "text": "Confidence is difficult to sell to an audience that cannot afford dinner."
+    },
+    {
+      "line_id": "S14-D04",
+      "start": 30.31410430839002,
+      "end": 32.078820861678004,
+      "text": "That kind of coverage isn't cheap."
+    },
+    {
+      "line_id": "S14-N04",
+      "start": 32.378820861678,
+      "end": 39.20548752834467,
+      "text": "Then remind them who keeps the streets safe. Panic needs a firm voice."
+    },
+    {
+      "line_id": "S14-N05",
+      "start": 39.50548752834467,
+      "end": 43.31356009070295,
+      "text": "My producers will want a reason to move the other story off the schedule."
+    },
+    {
+      "line_id": "S14-D05",
+      "start": 43.61356009070295,
+      "end": 45.471156462585036,
+      "text": "Neither is loyalty."
+    },
+    {
+      "line_id": "S14-N06",
+      "start": 45.77115646258503,
+      "end": 53.991020408163266,
+      "text": "Tell them we appreciate a reliable partner. Our appreciation is rarely symbolic."
+    }
+  ],
+  "status": "dialogue review assembly, not final soundtrack"
+}

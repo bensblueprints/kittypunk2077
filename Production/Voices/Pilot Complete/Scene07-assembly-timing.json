@@ -1,0 +1,68 @@
+{
+  "scene": 7,
+  "duration_seconds": 45.63183673469388,
+  "target_scene_seconds": 65,
+  "placements": [
+    {
+      "line_id": "S07-D01",
+      "start": 0.0,
+      "end": 5.851428571428571,
+      "text": "They think we're stupid! They think they can take our food, triple the price, and tell us to be grateful!"
+    },
+    {
+      "line_id": "S07-N01",
+      "start": 6.151428571428571,
+      "end": 12.095736961451248,
+      "text": "Here is yesterday’s price. Here is this morning’s. Same shop, same pack, three times the money."
+    },
+    {
+      "line_id": "S07-N02",
+      "start": 12.395736961451247,
+      "end": 18.24716553287982,
+      "text": "This proves the timing. It does not tell us where the fish went. We still need the shipping records."
+    },
+    {
+      "line_id": "S07-N03",
+      "start": 18.54716553287982,
+      "end": 23.74843537414966,
+      "text": "Then we ask for them. Every district deserves to know who gets fed and who gets left out."
+    },
+    {
+      "line_id": "S07-N04",
+      "start": 24.04843537414966,
+      "end": 28.274467120181406,
+      "text": "I have mirrored the receipts. If this screen goes dark, the evidence stays online."
+    },
+    {
+      "line_id": "S07-N05",
+      "start": 28.574467120181406,
+      "end": 34.51877551020408,
+      "text": "And nobody smashes the stalls. These people are our neighbors, not the people setting the prices."
+    },
+    {
+      "line_id": "S07-D02",
+      "start": 34.818775510204084,
+      "end": 37.233650793650796,
+      "text": "NO MORE BONES! GIVE US SALMON!"
+    },
+    {
+      "line_id": "S07-D03",
+      "start": 37.53365079365079,
+      "end": 39.53056689342404,
+      "text": "That's the dumbest chant I've ever heard."
+    },
+    {
+      "line_id": "S07-D04",
+      "start": 39.830566893424034,
+      "end": 40.89868480725624,
+      "text": "It's trending."
+    },
+    {
+      "line_id": "S07-N06",
+      "start": 41.198684807256235,
+      "end": 45.33183673469388,
+      "text": "Keep your receipts. Help your neighbors. We are going to find an answer."
+    }
+  ],
+  "status": "dialogue review assembly, not final soundtrack"
+}

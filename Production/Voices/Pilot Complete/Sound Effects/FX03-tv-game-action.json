@@ -1,0 +1,20 @@
+{
+  "id": "FX03-tv-game-action",
+  "scenes": [
+    1,
+    24
+  ],
+  "request": {
+    "text": "Fictional arcade car chase heard from a small old television speaker: engine revving, tire skid, short cartoon bank-heist gunfire bursts, distant police siren, a crash and debris. No speech, no music. Narrow small speaker sound.",
+    "duration_seconds": 15,
+    "loop": false,
+    "prompt_influence": 0.45,
+    "model_id": "eleven_text_to_sound_v2"
+  },
+  "status": "completed",
+  "created": "2026-11-07T01:13:34.134475+00:00",
+  "bytes": 241205,
+  "sha256": "98d98faa481867bbbb7fce4ea04db142721067f670bf0a560f0a3d9320c8b919",
+  "character_cost": "82",
+  "request_id": null
+}

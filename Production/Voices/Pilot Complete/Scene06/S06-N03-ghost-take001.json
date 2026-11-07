@@ -1,0 +1,21 @@
+{
+  "line_id": "S06-N03",
+  "scene": 6,
+  "role_id": "ghost",
+  "text": "Hide the customers’ names. We need prices, not a list of people for the patrols.",
+  "voice_id": "7fBwqIVI6wI1B4MuKqQi",
+  "voice_name": "Austin — Upbeat",
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.5,
+    "similarity_boost": 0.75,
+    "style": 0.15,
+    "use_speaker_boost": true
+  },
+  "duration_sec": 4.643991,
+  "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Voices\\Pilot Complete\\Scene06\\S06-N03-ghost-take001.mp3",
+  "sha256": "bc5798e98917113d6f49586493c07b3d51e5d2d5073ac9f06fd2812a4d3309b9",
+  "request_id": "B4Hpenz7DLcFHFkKZoMm",
+  "provider_character_cost": "18",
+  "status": "review_take_not_yet_approved"
+}

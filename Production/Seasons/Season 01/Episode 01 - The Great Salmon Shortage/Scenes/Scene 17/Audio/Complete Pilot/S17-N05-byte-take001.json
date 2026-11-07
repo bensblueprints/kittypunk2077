@@ -1,0 +1,21 @@
+{
+  "line_id": "S17-N05",
+  "scene": 17,
+  "role_id": "byte",
+  "text": "Fine. A small victory. Can small victories buy dinner?",
+  "voice_id": "wo6udizrrtpIxWGp2qJk",
+  "voice_name": "Northern Terry",
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.5,
+    "similarity_boost": 0.75,
+    "style": 0.15,
+    "use_speaker_boost": true
+  },
+  "duration_sec": 3.482993,
+  "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Voices\\Pilot Complete\\Scene17\\S17-N05-byte-take001.mp3",
+  "sha256": "db72d6b94e87709dae2b34952242af38395faf9e13fb43fc47b66550c5259d1f",
+  "request_id": "lNLKWa7qGNYRoOrv69jc",
+  "provider_character_cost": "12",
+  "status": "review_take_not_yet_approved"
+}

@@ -1,0 +1,56 @@
+{
+  "scene": 6,
+  "duration_seconds": 33.282539682539685,
+  "target_scene_seconds": 45,
+  "placements": [
+    {
+      "line_id": "S06-D01",
+      "start": 0.0,
+      "end": 2.786394557823129,
+      "text": "They tripled the price before they announced the shortage!"
+    },
+    {
+      "line_id": "S06-D02",
+      "start": 3.0863945578231293,
+      "end": 6.98734693877551,
+      "text": "Those bastards! I sold my litter box to buy dinner!"
+    },
+    {
+      "line_id": "S06-D03",
+      "start": 7.28734693877551,
+      "end": 9.702222222222222,
+      "text": "Okay, that's a personal budgeting problem."
+    },
+    {
+      "line_id": "S06-N01",
+      "start": 10.002222222222223,
+      "end": 14.739092970521542,
+      "text": "Bad joke. Sorry. Keep your receipt; it can help us prove when the price changed."
+    },
+    {
+      "line_id": "S06-N02",
+      "start": 15.039092970521542,
+      "end": 20.14748299319728,
+      "text": "I can put the two timestamps side by side. Big enough for the back of the market."
+    },
+    {
+      "line_id": "S06-N03",
+      "start": 20.44748299319728,
+      "end": 25.091473922902495,
+      "text": "Hide the customers’ names. We need prices, not a list of people for the patrols."
+    },
+    {
+      "line_id": "S06-N04",
+      "start": 25.391473922902495,
+      "end": 29.338866213151928,
+      "text": "If you bought fish today, compare your receipt. Do not take our word for it."
+    },
+    {
+      "line_id": "S06-N05",
+      "start": 29.63886621315193,
+      "end": 32.98253968253968,
+      "text": "Leave a path through the crowd. People still need to get home."
+    }
+  ],
+  "status": "dialogue review assembly, not final soundtrack"
+}

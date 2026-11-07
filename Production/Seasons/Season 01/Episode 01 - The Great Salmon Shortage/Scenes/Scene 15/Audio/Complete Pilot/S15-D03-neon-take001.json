@@ -1,0 +1,21 @@
+{
+  "line_id": "S15-D03",
+  "scene": 15,
+  "role_id": "neon",
+  "text": "The audio's ambiguous.",
+  "voice_id": "4e32WqNVWRquDa1OcRYZ",
+  "voice_name": "Ryan — Product Reviewer",
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.5,
+    "similarity_boost": 0.75,
+    "style": 0.15,
+    "use_speaker_boost": true
+  },
+  "duration_sec": 1.393197,
+  "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Voices\\Pilot Complete\\Scene15\\S15-D03-neon-take001.mp3",
+  "sha256": "8c804900809d1424e331ad896355bdbaecbf962f2d10add9a25ae4f4d23143d6",
+  "request_id": "Fl3qygmNoihuJmvWeLAm",
+  "provider_character_cost": "5",
+  "status": "review_take_not_yet_approved"
+}

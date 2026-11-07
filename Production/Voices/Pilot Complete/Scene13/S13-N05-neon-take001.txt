@@ -1,0 +1,1 @@
+Recording locally. If the connection drops, we still keep the file.

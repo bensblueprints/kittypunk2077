@@ -1,0 +1,21 @@
+{
+  "line_id": "S12-N04",
+  "scene": 12,
+  "role_id": "onyx",
+  "text": "I have the exit. Do not make me come looking for you.",
+  "voice_id": "uq0HIbNZKn11Hs5ifEdd",
+  "voice_name": "Harry — Fierce Warrior",
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.5,
+    "similarity_boost": 0.75,
+    "style": 0.15,
+    "use_speaker_boost": true
+  },
+  "duration_sec": 2.879274,
+  "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Voices\\Pilot Complete\\Scene12\\S12-N04-onyx-take001.mp3",
+  "sha256": "4619ceac529a88b567b9cbc3b0c9bdf9e7705fcf23f83c23423d5ba972b8d2d3",
+  "request_id": "W3IIqGg2fFeSOqNA6jnf",
+  "provider_character_cost": "12",
+  "status": "review_take_not_yet_approved"
+}

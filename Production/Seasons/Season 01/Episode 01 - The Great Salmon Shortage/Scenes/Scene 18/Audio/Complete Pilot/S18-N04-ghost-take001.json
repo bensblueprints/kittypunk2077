@@ -1,0 +1,21 @@
+{
+  "line_id": "S18-N04",
+  "scene": 18,
+  "role_id": "ghost",
+  "text": "Back to the lair. Follow the deliveries, not the speeches.",
+  "voice_id": "7fBwqIVI6wI1B4MuKqQi",
+  "voice_name": "Austin — Upbeat",
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.5,
+    "similarity_boost": 0.75,
+    "style": 0.15,
+    "use_speaker_boost": true
+  },
+  "duration_sec": 3.390113,
+  "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Voices\\Pilot Complete\\Scene18\\S18-N04-ghost-take001.mp3",
+  "sha256": "9b0dc58ecd21b9a08ebb49d2ebcbfc5eedf0c7bddd0a9c52e8aead5f3cb2ca1a",
+  "request_id": "vn2RH77pO8F3cVDhYzax",
+  "provider_character_cost": "13",
+  "status": "review_take_not_yet_approved"
+}

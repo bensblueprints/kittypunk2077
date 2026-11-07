@@ -1,0 +1,21 @@
+{
+  "line_id": "S21-D03",
+  "scene": 21,
+  "role_id": "onyx",
+  "text": "Can I punch something now?",
+  "voice_id": "uq0HIbNZKn11Hs5ifEdd",
+  "voice_name": "Harry — Fierce Warrior",
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.5,
+    "similarity_boost": 0.75,
+    "style": 0.15,
+    "use_speaker_boost": true
+  },
+  "duration_sec": 1.439637,
+  "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Voices\\Pilot Complete\\Scene21\\S21-D03-onyx-take001.mp3",
+  "sha256": "20bbdb55378cbeed68a1b9828eff51e57fcf3e0f21dc8dfa7f61556b18dc858a",
+  "request_id": "6hUqwcFEQhRHQ9g2dVY7",
+  "provider_character_cost": "6",
+  "status": "review_take_not_yet_approved"
+}

@@ -1,0 +1,682 @@
+{
+  "status": "Draft dialogue and effects mix; music not included; effect timing awaits approved picture",
+  "sample_rate": 44100,
+  "channels": 2,
+  "preserved_dialogue_sources": true,
+  "scenes": [
+    {
+      "scene": 1,
+      "duration": 70,
+      "effects": [
+        {
+          "effect": 1,
+          "start_seconds": 0,
+          "duration_seconds": 70.0,
+          "type": "ambience"
+        },
+        {
+          "effect": 2,
+          "start_seconds": 6,
+          "duration_seconds": 8.0,
+          "type": "effect"
+        },
+        {
+          "effect": 3,
+          "start_seconds": 12,
+          "duration_seconds": 15.0,
+          "type": "effect"
+        },
+        {
+          "effect": 2,
+          "start_seconds": 23,
+          "duration_seconds": 8.0,
+          "type": "effect"
+        },
+        {
+          "effect": 3,
+          "start_seconds": 28,
+          "duration_seconds": 15.0,
+          "type": "effect"
+        },
+        {
+          "effect": 2,
+          "start_seconds": 48,
+          "duration_seconds": 8.0,
+          "type": "effect"
+        },
+        {
+          "effect": 3,
+          "start_seconds": 54,
+          "duration_seconds": 15.0,
+          "type": "effect"
+        }
+      ],
+      "output_peak": 0.95,
+      "gain_to_avoid_clipping": 0.92884343678166,
+      "file": "Scene01-dialogue-effects-preview-v001.mp3"
+    },
+    {
+      "scene": 2,
+      "duration": 50,
+      "effects": [
+        {
+          "effect": 1,
+          "start_seconds": 0,
+          "duration_seconds": 50.0,
+          "type": "ambience"
+        },
+        {
+          "effect": 4,
+          "start_seconds": 0,
+          "duration_seconds": 6.0,
+          "type": "effect"
+        },
+        {
+          "effect": 2,
+          "start_seconds": 7,
+          "duration_seconds": 8.0,
+          "type": "effect"
+        }
+      ],
+      "output_peak": 0.6564384698867798,
+      "gain_to_avoid_clipping": 1,
+      "file": "Scene02-dialogue-effects-preview-v001.mp3"
+    },
+    {
+      "scene": 3,
+      "duration": 65,
+      "effects": [
+        {
+          "effect": 1,
+          "start_seconds": 0,
+          "duration_seconds": 65.0,
+          "type": "ambience"
+        },
+        {
+          "effect": 4,
+          "start_seconds": 0,
+          "duration_seconds": 6.0,
+          "type": "effect"
+        }
+      ],
+      "output_peak": 0.6442795395851135,
+      "gain_to_avoid_clipping": 1,
+      "file": "Scene03-dialogue-effects-preview-v001.mp3"
+    },
+    {
+      "scene": 4,
+      "duration": 55,
+      "effects": [
+        {
+          "effect": 5,
+          "start_seconds": 0,
+          "duration_seconds": 55.0,
+          "type": "ambience"
+        },
+        {
+          "effect": 15,
+          "start_seconds": 4,
+          "duration_seconds": 12.0,
+          "type": "effect"
+        }
+      ],
+      "output_peak": 0.7031587958335876,
+      "gain_to_avoid_clipping": 1,
+      "file": "Scene04-dialogue-effects-preview-v001.mp3"
+    },
+    {
+      "scene": 5,
+      "duration": 60,
+      "effects": [
+        {
+          "effect": 6,
+          "start_seconds": 0,
+          "duration_seconds": 60.0,
+          "type": "ambience"
+        },
+        {
+          "effect": 8,
+          "start_seconds": 20,
+          "duration_seconds": 10.0,
+          "type": "effect"
+        }
+      ],
+      "output_peak": 0.9166773557662964,
+      "gain_to_avoid_clipping": 1,
+      "file": "Scene05-dialogue-effects-preview-v001.mp3"
+    },
+    {
+      "scene": 6,
+      "duration": 45,
+      "effects": [
+        {
+          "effect": 5,
+          "start_seconds": 0,
+          "duration_seconds": 45.0,
+          "type": "ambience"
+        },
+        {
+          "effect": 7,
+          "start_seconds": 4,
+          "duration_seconds": 12.0,
+          "type": "effect"
+        },
+        {
+          "effect": 8,
+          "start_seconds": 15,
+          "duration_seconds": 10.0,
+          "type": "effect"
+        }
+      ],
+      "output_peak": 0.95,
+      "gain_to_avoid_clipping": 0.9819868272033739,
+      "file": "Scene06-dialogue-effects-preview-v001.mp3"
+    },
+    {
+      "scene": 7,
+      "duration": 65,
+      "effects": [
+        {
+          "effect": 5,
+          "start_seconds": 0,
+          "duration_seconds": 65.0,
+          "type": "ambience"
+        },
+        {
+          "effect": 7,
+          "start_seconds": 0,
+          "duration_seconds": 12.0,
+          "type": "effect"
+        },
+        {
+          "effect": 7,
+          "start_seconds": 31,
+          "duration_seconds": 12.0,
+          "type": "effect"
+        },
+        {
+          "effect": 7,
+          "start_seconds": 52,
+          "duration_seconds": 12.0,
+          "type": "effect"
+        }
+      ],
+      "output_peak": 0.6417227387428284,
+      "gain_to_avoid_clipping": 1,
+      "file": "Scene07-dialogue-effects-preview-v001.mp3"
+    },
+    {
+      "scene": 8,
+      "duration": 40,
+      "effects": [
+        {
+          "effect": 5,
+          "start_seconds": 0,
+          "duration_seconds": 40.0,
+          "type": "ambience"
+        },
+        {
+          "effect": 7,
+          "start_seconds": 0,
+          "duration_seconds": 12.0,
+          "type": "effect"
+        }
+      ],
+      "output_peak": 0.6534343957901001,
+      "gain_to_avoid_clipping": 1,
+      "file": "Scene08-dialogue-effects-preview-v001.mp3"
+    },
+    {
+      "scene": 9,
+      "duration": 70,
+      "effects": [
+        {
+          "effect": 1,
+          "start_seconds": 0,
+          "duration_seconds": 70.0,
+          "type": "ambience"
+        },
+        {
+          "effect": 8,
+          "start_seconds": 5,
+          "duration_seconds": 10.0,
+          "type": "effect"
+        },
+        {
+          "effect": 8,
+          "start_seconds": 35,
+          "duration_seconds": 10.0,
+          "type": "effect"
+        }
+      ],
+      "output_peak": 0.95,
+      "gain_to_avoid_clipping": 0.9814807491379905,
+      "file": "Scene09-dialogue-effects-preview-v001.mp3"
+    },
+    {
+      "scene": 10,
+      "duration": 65,
+      "effects": [
+        {
+          "effect": 1,
+          "start_seconds": 0,
+          "duration_seconds": 65.0,
+          "type": "ambience"
+        },
+        {
+          "effect": 9,
+          "start_seconds": 10,
+          "duration_seconds": 8.0,
+          "type": "effect"
+        },
+        {
+          "effect": 8,
+          "start_seconds": 30,
+          "duration_seconds": 10.0,
+          "type": "effect"
+        },
+        {
+          "effect": 9,
+          "start_seconds": 48,
+          "duration_seconds": 8.0,
+          "type": "effect"
+        }
+      ],
+      "output_peak": 0.95,
+      "gain_to_avoid_clipping": 0.47172018530276016,
+      "file": "Scene10-dialogue-effects-preview-v001.mp3"
+    },
+    {
+      "scene": 11,
+      "duration": 75,
+      "effects": [
+        {
+          "effect": 5,
+          "start_seconds": 0,
+          "duration_seconds": 75.0,
+          "type": "ambience"
+        },
+        {
+          "effect": 15,
+          "start_seconds": 10,
+          "duration_seconds": 12.0,
+          "type": "effect"
+        },
+        {
+          "effect": 11,
+          "start_seconds": 48,
+          "duration_seconds": 10.0,
+          "type": "effect"
+        }
+      ],
+      "output_peak": 0.7911285161972046,
+      "gain_to_avoid_clipping": 1,
+      "file": "Scene11-dialogue-effects-preview-v001.mp3"
+    },
+    {
+      "scene": 12,
+      "duration": 45,
+      "effects": [
+        {
+          "effect": 10,
+          "start_seconds": 0,
+          "duration_seconds": 45.0,
+          "type": "ambience"
+        },
+        {
+          "effect": 9,
+          "start_seconds": 3,
+          "duration_seconds": 8.0,
+          "type": "effect"
+        },
+        {
+          "effect": 9,
+          "start_seconds": 19,
+          "duration_seconds": 8.0,
+          "type": "effect"
+        },
+        {
+          "effect": 11,
+          "start_seconds": 31,
+          "duration_seconds": 10.0,
+          "type": "effect"
+        }
+      ],
+      "output_peak": 0.95,
+      "gain_to_avoid_clipping": 0.4720595768677599,
+      "file": "Scene12-dialogue-effects-preview-v001.mp3"
+    },
+    {
+      "scene": 13,
+      "duration": 50,
+      "effects": [
+        {
+          "effect": 10,
+          "start_seconds": 0,
+          "duration_seconds": 50.0,
+          "type": "ambience"
+        },
+        {
+          "effect": 11,
+          "start_seconds": 3,
+          "duration_seconds": 10.0,
+          "type": "effect"
+        },
+        {
+          "effect": 14,
+          "start_seconds": 22,
+          "duration_seconds": 8.0,
+          "type": "effect"
+        }
+      ],
+      "output_peak": 0.8507423400878906,
+      "gain_to_avoid_clipping": 1,
+      "file": "Scene13-dialogue-effects-preview-v001.mp3"
+    },
+    {
+      "scene": 14,
+      "duration": 60,
+      "effects": [
+        {
+          "effect": 10,
+          "start_seconds": 0,
+          "duration_seconds": 60.0,
+          "type": "ambience"
+        }
+      ],
+      "output_peak": 0.9115235209465027,
+      "gain_to_avoid_clipping": 1,
+      "file": "Scene14-dialogue-effects-preview-v001.mp3"
+    },
+    {
+      "scene": 15,
+      "duration": 45,
+      "effects": [
+        {
+          "effect": 10,
+          "start_seconds": 0,
+          "duration_seconds": 45.0,
+          "type": "ambience"
+        },
+        {
+          "effect": 11,
+          "start_seconds": 25,
+          "duration_seconds": 10.0,
+          "type": "effect"
+        }
+      ],
+      "output_peak": 0.95,
+      "gain_to_avoid_clipping": 0.994809740479534,
+      "file": "Scene15-dialogue-effects-preview-v001.mp3"
+    },
+    {
+      "scene": 16,
+      "duration": 50,
+      "effects": [
+        {
+          "effect": 5,
+          "start_seconds": 0,
+          "duration_seconds": 50.0,
+          "type": "ambience"
+        },
+        {
+          "effect": 12,
+          "start_seconds": 0,
+          "duration_seconds": 10.0,
+          "type": "effect"
+        },
+        {
+          "effect": 9,
+          "start_seconds": 12,
+          "duration_seconds": 8.0,
+          "type": "effect"
+        },
+        {
+          "effect": 11,
+          "start_seconds": 27,
+          "duration_seconds": 10.0,
+          "type": "effect"
+        }
+      ],
+      "output_peak": 0.7008386254310608,
+      "gain_to_avoid_clipping": 1,
+      "file": "Scene16-dialogue-effects-preview-v001.mp3"
+    },
+    {
+      "scene": 17,
+      "duration": 50,
+      "effects": [
+        {
+          "effect": 1,
+          "start_seconds": 0,
+          "duration_seconds": 50.0,
+          "type": "ambience"
+        },
+        {
+          "effect": 8,
+          "start_seconds": 0,
+          "duration_seconds": 10.0,
+          "type": "effect"
+        },
+        {
+          "effect": 4,
+          "start_seconds": 12,
+          "duration_seconds": 6.0,
+          "type": "effect"
+        },
+        {
+          "effect": 16,
+          "start_seconds": 33,
+          "duration_seconds": 8.0,
+          "type": "effect"
+        }
+      ],
+      "output_peak": 0.6929880976676941,
+      "gain_to_avoid_clipping": 1,
+      "file": "Scene17-dialogue-effects-preview-v001.mp3"
+    },
+    {
+      "scene": 18,
+      "duration": 35,
+      "effects": [
+        {
+          "effect": 5,
+          "start_seconds": 0,
+          "duration_seconds": 35.0,
+          "type": "ambience"
+        },
+        {
+          "effect": 16,
+          "start_seconds": 2,
+          "duration_seconds": 8.0,
+          "type": "effect"
+        }
+      ],
+      "output_peak": 0.95,
+      "gain_to_avoid_clipping": 0.914602393820001,
+      "file": "Scene18-dialogue-effects-preview-v001.mp3"
+    },
+    {
+      "scene": 19,
+      "duration": 35,
+      "effects": [
+        {
+          "effect": 1,
+          "start_seconds": 0,
+          "duration_seconds": 35.0,
+          "type": "ambience"
+        },
+        {
+          "effect": 8,
+          "start_seconds": 3,
+          "duration_seconds": 10.0,
+          "type": "effect"
+        },
+        {
+          "effect": 8,
+          "start_seconds": 20,
+          "duration_seconds": 10.0,
+          "type": "effect"
+        }
+      ],
+      "output_peak": 0.8612417578697205,
+      "gain_to_avoid_clipping": 1,
+      "file": "Scene19-dialogue-effects-preview-v001.mp3"
+    },
+    {
+      "scene": 20,
+      "duration": 35,
+      "effects": [
+        {
+          "effect": 13,
+          "start_seconds": 0,
+          "duration_seconds": 35.0,
+          "type": "ambience"
+        },
+        {
+          "effect": 15,
+          "start_seconds": 0,
+          "duration_seconds": 12.0,
+          "type": "effect"
+        },
+        {
+          "effect": 14,
+          "start_seconds": 19,
+          "duration_seconds": 8.0,
+          "type": "effect"
+        }
+      ],
+      "output_peak": 0.95,
+      "gain_to_avoid_clipping": 0.8414768185641551,
+      "file": "Scene20-dialogue-effects-preview-v001.mp3"
+    },
+    {
+      "scene": 21,
+      "duration": 45,
+      "effects": [
+        {
+          "effect": 13,
+          "start_seconds": 0,
+          "duration_seconds": 45.0,
+          "type": "ambience"
+        },
+        {
+          "effect": 14,
+          "start_seconds": 3,
+          "duration_seconds": 8.0,
+          "type": "effect"
+        },
+        {
+          "effect": 8,
+          "start_seconds": 15,
+          "duration_seconds": 10.0,
+          "type": "effect"
+        },
+        {
+          "effect": 12,
+          "start_seconds": 26,
+          "duration_seconds": 10.0,
+          "type": "effect"
+        }
+      ],
+      "output_peak": 0.8887243866920471,
+      "gain_to_avoid_clipping": 1,
+      "file": "Scene21-dialogue-effects-preview-v001.mp3"
+    },
+    {
+      "scene": 22,
+      "duration": 35,
+      "effects": [
+        {
+          "effect": 13,
+          "start_seconds": 0,
+          "duration_seconds": 35.0,
+          "type": "ambience"
+        },
+        {
+          "effect": 8,
+          "start_seconds": 1,
+          "duration_seconds": 10.0,
+          "type": "effect"
+        },
+        {
+          "effect": 15,
+          "start_seconds": 19,
+          "duration_seconds": 12.0,
+          "type": "effect"
+        }
+      ],
+      "output_peak": 0.7596673369407654,
+      "gain_to_avoid_clipping": 1,
+      "file": "Scene22-dialogue-effects-preview-v001.mp3"
+    },
+    {
+      "scene": 23,
+      "duration": 25,
+      "effects": [
+        {
+          "effect": 5,
+          "start_seconds": 0,
+          "duration_seconds": 25.0,
+          "type": "ambience"
+        },
+        {
+          "effect": 15,
+          "start_seconds": 0,
+          "duration_seconds": 12.0,
+          "type": "effect"
+        },
+        {
+          "effect": 7,
+          "start_seconds": 12,
+          "duration_seconds": 12.0,
+          "type": "effect"
+        },
+        {
+          "effect": 4,
+          "start_seconds": 18,
+          "duration_seconds": 6.0,
+          "type": "effect"
+        }
+      ],
+      "output_peak": 0.693108081817627,
+      "gain_to_avoid_clipping": 1,
+      "file": "Scene23-dialogue-effects-preview-v001.mp3"
+    },
+    {
+      "scene": 24,
+      "duration": 30,
+      "effects": [
+        {
+          "effect": 1,
+          "start_seconds": 0,
+          "duration_seconds": 30.0,
+          "type": "ambience"
+        },
+        {
+          "effect": 2,
+          "start_seconds": 2,
+          "duration_seconds": 8.0,
+          "type": "effect"
+        },
+        {
+          "effect": 4,
+          "start_seconds": 7,
+          "duration_seconds": 6.0,
+          "type": "effect"
+        },
+        {
+          "effect": 3,
+          "start_seconds": 14,
+          "duration_seconds": 15.0,
+          "type": "effect"
+        }
+      ],
+      "output_peak": 0.7196148633956909,
+      "gain_to_avoid_clipping": 1,
+      "file": "Scene24-dialogue-effects-preview-v001.mp3"
+    }
+  ],
+  "master_sha256": "d72e7d4af72afdc5b00c701a17bd3389c14e0f2e94c3c1b7f4fc8c5e3dd0de35",
+  "runtime_seconds": 1200
+}

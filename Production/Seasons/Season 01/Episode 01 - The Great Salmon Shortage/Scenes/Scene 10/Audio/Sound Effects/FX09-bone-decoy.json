@@ -1,0 +1,21 @@
+{
+  "id": "FX09-bone-decoy",
+  "scenes": [
+    10,
+    12,
+    16
+  ],
+  "request": {
+    "text": "Small plastic mechanical dog chew bone squeaks twice, tiny servo whirr, rolls across concrete, bounces three times and squeaks again. Comic practical prop sound, no animal voices, no music.",
+    "duration_seconds": 8,
+    "loop": false,
+    "prompt_influence": 0.45,
+    "model_id": "eleven_text_to_sound_v2"
+  },
+  "status": "completed",
+  "created": "2026-11-07T01:14:00.690143+00:00",
+  "bytes": 129192,
+  "sha256": "fe45734b5df27e859c37fa3b2ce555389270bec93cdd80eee1c77567abfcadd7",
+  "character_cost": "44",
+  "request_id": null
+}

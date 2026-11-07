@@ -1,0 +1,21 @@
+{
+  "id": "FX02-controller-foley",
+  "scenes": [
+    1,
+    2,
+    24
+  ],
+  "request": {
+    "text": "Close dry plastic game controller button clicks and thumbstick movements in short irregular bursts, two controllers, no voices, no music, no background.",
+    "duration_seconds": 8,
+    "loop": false,
+    "prompt_influence": 0.45,
+    "model_id": "eleven_text_to_sound_v2"
+  },
+  "status": "completed",
+  "created": "2026-11-07T01:13:31.429613+00:00",
+  "bytes": 129192,
+  "sha256": "17a8bdafed2d26ba687fbecb525c378432a9c32aa57a2312802d80f576b70d84",
+  "character_cost": "44",
+  "request_id": null
+}

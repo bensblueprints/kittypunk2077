@@ -1,0 +1,21 @@
+{
+  "line_id": "S10-D02",
+  "scene": 10,
+  "role_id": "byte",
+  "text": "What if they don't?",
+  "voice_id": "wo6udizrrtpIxWGp2qJk",
+  "voice_name": "Northern Terry",
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.5,
+    "similarity_boost": 0.75,
+    "style": 0.15,
+    "use_speaker_boost": true
+  },
+  "duration_sec": 1.068118,
+  "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Voices\\Pilot Complete\\Scene10\\S10-D02-byte-take001.mp3",
+  "sha256": "ddf261867a51a7d61f50a2988f6592c9a418905f31198637b16cae683b1f916a",
+  "request_id": "uU0k3o7RqPqo1nSZQbDm",
+  "provider_character_cost": "4",
+  "status": "review_take_not_yet_approved"
+}

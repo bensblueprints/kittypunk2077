@@ -1,0 +1,21 @@
+{
+  "line_id": "S09-N06",
+  "scene": 9,
+  "role_id": "byte",
+  "text": "A photograph of two dogs having dinner is not going to prove much.",
+  "voice_id": "wo6udizrrtpIxWGp2qJk",
+  "voice_name": "Northern Terry",
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.5,
+    "similarity_boost": 0.75,
+    "style": 0.15,
+    "use_speaker_boost": true
+  },
+  "duration_sec": 3.808073,
+  "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Voices\\Pilot Complete\\Scene09\\S09-N06-byte-take001.mp3",
+  "sha256": "04527479172aee892e6f16a432be50cdd5ebc179b15ba35de03020b296d7ff37",
+  "request_id": "t378FdsbcJYE3Pe8Qw1B",
+  "provider_character_cost": "15",
+  "status": "review_take_not_yet_approved"
+}

@@ -1,0 +1,21 @@
+{
+  "line_id": "S11-D01",
+  "scene": 11,
+  "role_id": "byte",
+  "text": "That restaurant costs more per meal than our entire building.",
+  "voice_id": "wo6udizrrtpIxWGp2qJk",
+  "voice_name": "Northern Terry",
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.5,
+    "similarity_boost": 0.75,
+    "style": 0.15,
+    "use_speaker_boost": true
+  },
+  "duration_sec": 3.204354,
+  "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Voices\\Pilot Complete\\Scene11\\S11-D01-byte-take001.mp3",
+  "sha256": "3464e6832e10af8c37b0bdddeceddfd56d23764e9789f35285aea3f529243ee3",
+  "request_id": "JvzY8ByJ0UAeobzsaupI",
+  "provider_character_cost": "13",
+  "status": "review_take_not_yet_approved"
+}

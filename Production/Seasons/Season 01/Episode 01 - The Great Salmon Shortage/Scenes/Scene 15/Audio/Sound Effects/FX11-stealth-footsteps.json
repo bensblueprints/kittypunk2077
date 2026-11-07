@@ -1,0 +1,21 @@
+{
+  "id": "FX11-stealth-footsteps",
+  "scenes": [
+    13,
+    15,
+    16
+  ],
+  "request": {
+    "text": "Soft stealth boots moving on polished stone corridor, pause, gentle cloth movement, one quiet camera shutter click. Close dry foley, no voices, no music.",
+    "duration_seconds": 10,
+    "loop": false,
+    "prompt_influence": 0.45,
+    "model_id": "eleven_text_to_sound_v2"
+  },
+  "status": "completed",
+  "created": "2026-11-07T01:14:09.445538+00:00",
+  "bytes": 160957,
+  "sha256": "8116286f37a9bdda41fe9c70c17179b28352a85871af7ecc583aaf836b440efb",
+  "character_cost": "55",
+  "request_id": null
+}

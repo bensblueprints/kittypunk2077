@@ -1,0 +1,21 @@
+{
+  "line_id": "S22-N04",
+  "scene": 22,
+  "role_id": "byte",
+  "text": "District Seven delivery accepted. The other neglected districts are next in the queue.",
+  "voice_id": "wo6udizrrtpIxWGp2qJk",
+  "voice_name": "Northern Terry",
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.5,
+    "similarity_boost": 0.75,
+    "style": 0.15,
+    "use_speaker_boost": true
+  },
+  "duration_sec": 4.365351,
+  "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Voices\\Pilot Complete\\Scene22\\S22-N04-byte-take001.mp3",
+  "sha256": "8a9c8a387bbb0aac37d11ac115243c5c661ab9dfb07da7eee521f084719bc828",
+  "request_id": "HoXj5GghgiDOxjRayugF",
+  "provider_character_cost": "19",
+  "status": "review_take_not_yet_approved"
+}

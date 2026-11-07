@@ -1,0 +1,10 @@
+{
+  "model": "wan-3.0-prime",
+  "duration_sec": 6,
+  "resolution": "1080p",
+  "aspect_ratio": "16:9",
+  "input_images": [
+    "https://kittypunk.144.76.78.158.sslip.io/generation-input/838fac350ffd8091ebe0c673d534148c6894f5b288fce67bfe4c1ab7334123b1/warehouse.png"
+  ],
+  "prompt": "Six-second cinematic establishing shot of the exact resistance warehouse in reference image 1, District 7 at rainy night. Preserve this rectangular old brick warehouse, black steel high windows, closed rusted cargo shutter, narrow staff door to its right, pink resistance stencil, corrugated roof and neon city skyline. Very slow subtle dolly forward from wet loading apron, gentle falling rain and ripples in puddles, a few cherry blossom petals drifting at upper left. Amber interior practical light behind windows, magenta cyan reflections. No characters, no vehicles, no new doors or architecture, no text overlays, no cuts. Tactile detailed stylized 3D animated cinema, restrained atmospheric motion. No speech or music."
+}

@@ -1,0 +1,21 @@
+{
+  "line_id": "S18-D04",
+  "scene": 18,
+  "role_id": "neon",
+  "text": "Wait. I've got something.",
+  "voice_id": "4e32WqNVWRquDa1OcRYZ",
+  "voice_name": "Ryan — Product Reviewer",
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.5,
+    "similarity_boost": 0.75,
+    "style": 0.15,
+    "use_speaker_boost": true
+  },
+  "duration_sec": 1.393197,
+  "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Voices\\Pilot Complete\\Scene18\\S18-D04-neon-take001.mp3",
+  "sha256": "90ab06b780b7dbd4f9ab20b320fdcad007ca937b42dd134883966a37da1118fa",
+  "request_id": "gN3GcFQ8Cz00XhD0ilKr",
+  "provider_character_cost": "5",
+  "status": "review_take_not_yet_approved"
+}

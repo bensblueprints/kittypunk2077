@@ -1,0 +1,38 @@
+{
+  "scene": 24,
+  "duration_seconds": 11.484580498866213,
+  "target_scene_seconds": 30,
+  "placements": [
+    {
+      "line_id": "S24-D01",
+      "start": 0.0,
+      "end": 2.089795918367347,
+      "text": "All right. Now it's time to finish this mission."
+    },
+    {
+      "line_id": "S24-D02",
+      "start": 2.389795918367347,
+      "end": 4.5724716553287985,
+      "text": "We've been trying to finish this shit all day."
+    },
+    {
+      "line_id": "S24-D03",
+      "start": 4.872471655328798,
+      "end": 6.9622675736961455,
+      "text": "At least nobody can interrupt us now."
+    },
+    {
+      "line_id": "S24-D04",
+      "start": 7.262267573696145,
+      "end": 9.72358276643991,
+      "text": "Goodboy Global HAS AN IMPORTANT ANNOUNCEMENT—"
+    },
+    {
+      "line_id": "S24-D05",
+      "start": 10.02358276643991,
+      "end": 11.184580498866213,
+      "text": "OH, FUCK OFF!"
+    }
+  ],
+  "status": "dialogue review assembly, not final soundtrack"
+}

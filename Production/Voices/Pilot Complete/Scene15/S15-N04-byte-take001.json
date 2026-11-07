@@ -1,0 +1,21 @@
+{
+  "line_id": "S15-N04",
+  "scene": 15,
+  "role_id": "byte",
+  "text": "It proves a payment happened. We still cannot label what the money bought.",
+  "voice_id": "wo6udizrrtpIxWGp2qJk",
+  "voice_name": "Northern Terry",
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.5,
+    "similarity_boost": 0.75,
+    "style": 0.15,
+    "use_speaker_boost": true
+  },
+  "duration_sec": 3.854512,
+  "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Voices\\Pilot Complete\\Scene15\\S15-N04-byte-take001.mp3",
+  "sha256": "48ab3426655ce481cd8206320d8ef8d83b74f9c84313b5149f880be4d4682092",
+  "request_id": "rNKfQQ3xe398eonJ5yqF",
+  "provider_character_cost": "16",
+  "status": "review_take_not_yet_approved"
+}

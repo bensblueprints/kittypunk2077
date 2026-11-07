@@ -1,0 +1,21 @@
+{
+  "line_id": "S09-N03",
+  "scene": 9,
+  "role_id": "neon",
+  "text": "Steak and Bone. Their public booking map shows a service corridor behind the dining room.",
+  "voice_id": "4e32WqNVWRquDa1OcRYZ",
+  "voice_name": "Ryan — Product Reviewer",
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.5,
+    "similarity_boost": 0.75,
+    "style": 0.15,
+    "use_speaker_boost": true
+  },
+  "duration_sec": 4.96907,
+  "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Voices\\Pilot Complete\\Scene09\\S09-N03-neon-take001.mp3",
+  "sha256": "2c7628eb3a46987ae627c32ded66f37132f4d6cfb0b7a065b8091834ebe73300",
+  "request_id": "JYkKcQZoasjK8XB2K55e",
+  "provider_character_cost": "20",
+  "status": "review_take_not_yet_approved"
+}

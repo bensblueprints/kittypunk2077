@@ -1,0 +1,21 @@
+{
+  "line_id": "S16-N05",
+  "scene": 16,
+  "role_id": "onyx",
+  "text": "Five cats. One terrible restaurant. Never going back.",
+  "voice_id": "uq0HIbNZKn11Hs5ifEdd",
+  "voice_name": "Harry — Fierce Warrior",
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.5,
+    "similarity_boost": 0.75,
+    "style": 0.15,
+    "use_speaker_boost": true
+  },
+  "duration_sec": 3.575873,
+  "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Voices\\Pilot Complete\\Scene16\\S16-N05-onyx-take001.mp3",
+  "sha256": "aafebffc4c1aeb3193b4327cf4d0d6842850fcb762a0250594b9a9ed09ca2cd4",
+  "request_id": "KgvKfB55TQe74AvPuOQN",
+  "provider_character_cost": "12",
+  "status": "review_take_not_yet_approved"
+}

@@ -1,0 +1,1 @@
+Same signal on every channel. This is a district-wide override.

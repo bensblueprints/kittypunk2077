@@ -1,0 +1,25 @@
+{
+  "id": "FX01-hideout-room",
+  "scenes": [
+    1,
+    2,
+    9,
+    10,
+    17,
+    19,
+    24
+  ],
+  "request": {
+    "text": "Quiet abandoned warehouse living room at night, soft old computer cooling fans, distant rain against high windows, low electrical CRT hum. Intimate room tone, no music, no voices.",
+    "duration_seconds": 20,
+    "loop": true,
+    "prompt_influence": 0.45,
+    "model_id": "eleven_text_to_sound_v2"
+  },
+  "status": "completed",
+  "created": "2026-11-07T01:13:25.709507+00:00",
+  "bytes": 321035,
+  "sha256": "465b4c45475facca8f23dadb2b0ebcc00b19a30c3d1f63584184ecd640817834",
+  "character_cost": "110",
+  "request_id": null
+}

@@ -1,0 +1,21 @@
+{
+  "line_id": "S04-N06",
+  "scene": 4,
+  "role_id": "trixie",
+  "text": "Photograph that notice. Let us see what changed inside.",
+  "voice_id": "dmWfLQZJq7wNPv9WmtiM",
+  "voice_name": "Emma — Wry, Gritty Hero",
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.35,
+    "similarity_boost": 0.8,
+    "style": 0.55,
+    "use_speaker_boost": true
+  },
+  "duration_sec": 2.507755,
+  "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Voices\\Pilot Complete\\Scene04\\S04-N06-trixie-take001.mp3",
+  "sha256": "a5d2adb33c53f0606efeac84a2413bd76904b0a6f4c33e189b5d4f3d4bb3ab23",
+  "request_id": "URqSulnnawmBFDDS8Ulm",
+  "provider_character_cost": "12",
+  "status": "review_take_not_yet_approved"
+}

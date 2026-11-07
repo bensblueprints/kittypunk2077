@@ -1,0 +1,21 @@
+{
+  "line_id": "S14-D02",
+  "scene": 14,
+  "role_id": "woof7_anchor",
+  "text": "And you want that to be tonight's headline?",
+  "voice_id": "cjVigY5qzO86Huf0OWal",
+  "voice_name": "Eric",
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.5,
+    "similarity_boost": 0.75,
+    "style": 0.15,
+    "use_speaker_boost": true
+  },
+  "duration_sec": 1.857596,
+  "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Voices\\Pilot Complete\\Scene14\\S14-D02-woof7_anchor-take001.mp3",
+  "sha256": "4569a75e333999b812ca14ca575e936d4e47a5192ce3e19265cef311268478d9",
+  "request_id": "ZD3LcsDt9KHJJg5ig7Vl",
+  "provider_character_cost": "9",
+  "status": "review_take_not_yet_approved"
+}

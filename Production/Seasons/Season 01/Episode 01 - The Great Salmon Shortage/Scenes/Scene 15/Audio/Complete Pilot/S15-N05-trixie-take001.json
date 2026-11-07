@@ -1,0 +1,21 @@
+{
+  "line_id": "S15-N05",
+  "scene": 15,
+  "role_id": "trixie",
+  "text": "Then we show exactly what we have. Nothing more.",
+  "voice_id": "dmWfLQZJq7wNPv9WmtiM",
+  "voice_name": "Emma — Wry, Gritty Hero",
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.35,
+    "similarity_boost": 0.8,
+    "style": 0.55,
+    "use_speaker_boost": true
+  },
+  "duration_sec": 2.414875,
+  "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Voices\\Pilot Complete\\Scene15\\S15-N05-trixie-take001.mp3",
+  "sha256": "1d8c3df2f5733995de47b55b60b6825a337d80b237b47b76dc8eba04641dcd9c",
+  "request_id": "fGnJ7EoA7nyl9bQCAYPs",
+  "provider_character_cost": "11",
+  "status": "review_take_not_yet_approved"
+}

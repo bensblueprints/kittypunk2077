@@ -1,0 +1,21 @@
+{
+  "line_id": "S23-N02",
+  "scene": 23,
+  "role_id": "trixie",
+  "text": "Your mum was right. This is better than a promise.",
+  "voice_id": "dmWfLQZJq7wNPv9WmtiM",
+  "voice_name": "Emma — Wry, Gritty Hero",
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.35,
+    "similarity_boost": 0.8,
+    "style": 0.55,
+    "use_speaker_boost": true
+  },
+  "duration_sec": 2.972154,
+  "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Voices\\Pilot Complete\\Scene23\\S23-N02-trixie-take001.mp3",
+  "sha256": "0f446d2ba049d2f978bda2785845f1e9c7b2220af0e2e26ee5a55189699f5cc8",
+  "request_id": "XOFigh6r3Zx8sBAxRb0F",
+  "provider_character_cost": "11",
+  "status": "review_take_not_yet_approved"
+}

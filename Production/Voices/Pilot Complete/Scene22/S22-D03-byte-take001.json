@@ -1,0 +1,21 @@
+{
+  "line_id": "S22-D03",
+  "scene": 22,
+  "role_id": "byte",
+  "text": "Salmon is going back to the cats!",
+  "voice_id": "wo6udizrrtpIxWGp2qJk",
+  "voice_name": "Northern Terry",
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.5,
+    "similarity_boost": 0.75,
+    "style": 0.15,
+    "use_speaker_boost": true
+  },
+  "duration_sec": 1.857596,
+  "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Voices\\Pilot Complete\\Scene22\\S22-D03-byte-take001.mp3",
+  "sha256": "6f7d40f540532681535392f8846034452ea9a17211824eab2f0809cbeb6ab1f3",
+  "request_id": "BqaHUnhWTpRvj9H5h31C",
+  "provider_character_cost": "7",
+  "status": "review_take_not_yet_approved"
+}

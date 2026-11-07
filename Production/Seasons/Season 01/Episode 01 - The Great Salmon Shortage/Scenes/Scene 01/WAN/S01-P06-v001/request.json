@@ -1,0 +1,13 @@
+{
+  "model": "wan-3.0-prime",
+  "duration_sec": 7,
+  "resolution": "1080p",
+  "aspect_ratio": "16:9",
+  "input_images": [
+    "https://kittypunk.144.76.78.158.sslip.io/generation-input/838fac350ffd8091ebe0c673d534148c6894f5b288fce67bfe4c1ab7334123b1/front.jpg"
+  ],
+  "prompt": "KittyPunk2077 cinematic tactile 3D animated film. Reference image defines exact character identities, wardrobe and set. Compose a medium two-shot of Onyx and Neon in the two RIGHTMOST seats of the front couch reference. Onyx is the black cat with amber eyes, violet paw headphones; Neon is silver grey cyan visor and blue scarf. Onyx dryly threatens the window while gesturing briefly toward offscreen window to camera left, then returns paw to controller. Neon asks In the game?; Onyx replies Keep testing me. Preserve adjacent seating, identities, clothing and room. Other three cats stay offscreen, no new character. TV behind camera. No actual violence. Restrained funny reactions. No cuts. Input audio 1 is the approved ElevenLabs performance. Match turn-taking and mouth movements to its timing; only the specified speaker moves their mouth. At 0.00s Onyx says: One more crash and somebody is going through that window. At 3.32s Neon says: In the game? At 4.55s Onyx says: Keep testing me. No added dialogue, narration, music, subtitles, titles or new characters. Preserve reference art quality. This clip will be trimmed at the end to exact editorial duration.",
+  "input_audios": [
+    "https://kittypunk.144.76.78.158.sslip.io/generation-input/838fac350ffd8091ebe0c673d534148c6894f5b288fce67bfe4c1ab7334123b1/shot06-approved.wav"
+  ]
+}

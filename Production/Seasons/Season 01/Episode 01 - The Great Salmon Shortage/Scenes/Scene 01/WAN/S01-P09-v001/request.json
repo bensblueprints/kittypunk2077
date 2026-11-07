@@ -1,0 +1,10 @@
+{
+  "model": "wan-3.0-prime",
+  "duration_sec": 9,
+  "resolution": "1080p",
+  "aspect_ratio": "16:9",
+  "input_images": [
+    "https://kittypunk.144.76.78.158.sslip.io/generation-input/838fac350ffd8091ebe0c673d534148c6894f5b288fce67bfe4c1ab7334123b1/victory.jpg"
+  ],
+  "prompt": "KittyPunk2077 cinematic tactile 3D animated film. Reference image defines exact character identities, wardrobe and set. Locked close shot of exact full real CRT casing, right knobs and room. ONLY within inner glass: Ghost grey tabby green visor hood game avatar walks a few steps out of bank rear door carrying duffel, green MISSION COMPLETE banner pulses, payout ticks upward, then a small RESTART selection appears near the end. No dialogue, no lip-sync, no other avatars, no real cats. Game HUD is for a walking character, no speedometer or KM/H readout. Preserve all casing and room; game never leaves TV glass. Never zoom through the bezel. No cuts in real-world camera. No added dialogue, narration, music, subtitles, titles or new characters. Preserve reference art quality. This clip will be trimmed at the end to exact editorial duration."
+}

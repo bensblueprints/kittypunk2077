@@ -1,0 +1,21 @@
+{
+  "line_id": "S15-N01",
+  "scene": 15,
+  "role_id": "neon",
+  "text": "Both faces and the bag are in frame. Keep rolling. Do not crop away who handed it over.",
+  "voice_id": "4e32WqNVWRquDa1OcRYZ",
+  "voice_name": "Ryan — Product Reviewer",
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.5,
+    "similarity_boost": 0.75,
+    "style": 0.15,
+    "use_speaker_boost": true
+  },
+  "duration_sec": 5.24771,
+  "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Voices\\Pilot Complete\\Scene15\\S15-N01-neon-take001.mp3",
+  "sha256": "a8835f2075d11f7d4200a975918cd1adf346f8e7f0036316ce77076b6a7722f3",
+  "request_id": "vaZSWOMADUVqZ6iSJ9cn",
+  "provider_character_cost": "19",
+  "status": "review_take_not_yet_approved"
+}

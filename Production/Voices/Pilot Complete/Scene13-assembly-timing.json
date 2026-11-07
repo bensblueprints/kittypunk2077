@@ -1,0 +1,68 @@
+{
+  "scene": 13,
+  "duration_seconds": 29.470748299319727,
+  "target_scene_seconds": 50,
+  "placements": [
+    {
+      "line_id": "S13-D01",
+      "start": 0.0,
+      "end": 2.36843537414966,
+      "text": "You have forty seconds before patrol returns."
+    },
+    {
+      "line_id": "S13-N01",
+      "start": 2.66843537414966,
+      "end": 6.058548752834467,
+      "text": "Service robot. Hold. Its camera turns before the wheels do."
+    },
+    {
+      "line_id": "S13-D02",
+      "start": 6.3585487528344675,
+      "end": 7.148027210884353,
+      "text": "Ghost, move."
+    },
+    {
+      "line_id": "S13-D03",
+      "start": 7.448027210884354,
+      "end": 8.609024943310658,
+      "text": "I am moving."
+    },
+    {
+      "line_id": "S13-D04",
+      "start": 8.909024943310657,
+      "end": 10.441541950113379,
+      "text": "You're literally standing still."
+    },
+    {
+      "line_id": "S13-D05",
+      "start": 10.741541950113378,
+      "end": 12.134739229024943,
+      "text": "That's why I'm good."
+    },
+    {
+      "line_id": "S13-N02",
+      "start": 12.434739229024943,
+      "end": 15.964172335600907,
+      "text": "Twenty seconds. Stop narrating your stealth and actually do some."
+    },
+    {
+      "line_id": "S13-N03",
+      "start": 16.264172335600907,
+      "end": 20.490204081632655,
+      "text": "Now. Stay behind the cart; the lens cannot see through it."
+    },
+    {
+      "line_id": "S13-N04",
+      "start": 20.790204081632652,
+      "end": 25.759274376417235,
+      "text": "There is the hatch. Neon, microphone first. I need the table and both faces."
+    },
+    {
+      "line_id": "S13-N05",
+      "start": 26.059274376417232,
+      "end": 29.17074829931973,
+      "text": "Recording locally. If the connection drops, we still keep the file."
+    }
+  ],
+  "status": "dialogue review assembly, not final soundtrack"
+}

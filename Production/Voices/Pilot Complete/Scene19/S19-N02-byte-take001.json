@@ -1,0 +1,21 @@
+{
+  "line_id": "S19-N02",
+  "scene": 19,
+  "role_id": "byte",
+  "text": "District Seven order cancelled. District Two replacement accepted. Same load, same morning.",
+  "voice_id": "wo6udizrrtpIxWGp2qJk",
+  "voice_name": "Northern Terry",
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.5,
+    "similarity_boost": 0.75,
+    "style": 0.15,
+    "use_speaker_boost": true
+  },
+  "duration_sec": 5.804989,
+  "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Voices\\Pilot Complete\\Scene19\\S19-N02-byte-take001.mp3",
+  "sha256": "ea3f0cba6aa003560e75decd3476908bd39e7bf9a160430b48537786c8424c48",
+  "request_id": "DEP664ofg7QHMKr8JS8I",
+  "provider_character_cost": "20",
+  "status": "review_take_not_yet_approved"
+}

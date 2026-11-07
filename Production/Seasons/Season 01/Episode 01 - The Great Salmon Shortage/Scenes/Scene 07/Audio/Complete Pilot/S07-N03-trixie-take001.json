@@ -1,0 +1,21 @@
+{
+  "line_id": "S07-N03",
+  "scene": 7,
+  "role_id": "trixie",
+  "text": "Then we ask for them. Every district deserves to know who gets fed and who gets left out.",
+  "voice_id": "dmWfLQZJq7wNPv9WmtiM",
+  "voice_name": "Emma — Wry, Gritty Hero",
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.35,
+    "similarity_boost": 0.8,
+    "style": 0.55,
+    "use_speaker_boost": true
+  },
+  "duration_sec": 5.20127,
+  "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Voices\\Pilot Complete\\Scene07\\S07-N03-trixie-take001.mp3",
+  "sha256": "b3aab994562691c198f3e7f87fb01ff9a444af7e560fc1b9b66b801f130df5ad",
+  "request_id": "ubO30x8I2AT6JOCPCuGi",
+  "provider_character_cost": "20",
+  "status": "review_take_not_yet_approved"
+}

@@ -1,0 +1,21 @@
+{
+  "line_id": "S16-N03",
+  "scene": 16,
+  "role_id": "byte",
+  "text": "I have your signal again. Bring the files to me, not the guards.",
+  "voice_id": "wo6udizrrtpIxWGp2qJk",
+  "voice_name": "Northern Terry",
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.5,
+    "similarity_boost": 0.75,
+    "style": 0.15,
+    "use_speaker_boost": true
+  },
+  "duration_sec": 3.343673,
+  "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Voices\\Pilot Complete\\Scene16\\S16-N03-byte-take001.mp3",
+  "sha256": "72960c26affc1a4154465c08a4afd32de7f9772c43394cbe7dcf76560b4b4178",
+  "request_id": "CI1v0EB1P5h3RTNjnY3p",
+  "provider_character_cost": "14",
+  "status": "review_take_not_yet_approved"
+}

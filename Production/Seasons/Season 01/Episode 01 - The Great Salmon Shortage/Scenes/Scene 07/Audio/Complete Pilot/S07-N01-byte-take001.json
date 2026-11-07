@@ -1,0 +1,21 @@
+{
+  "line_id": "S07-N01",
+  "scene": 7,
+  "role_id": "byte",
+  "text": "Here is yesterday’s price. Here is this morning’s. Same shop, same pack, three times the money.",
+  "voice_id": "wo6udizrrtpIxWGp2qJk",
+  "voice_name": "Northern Terry",
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.5,
+    "similarity_boost": 0.75,
+    "style": 0.15,
+    "use_speaker_boost": true
+  },
+  "duration_sec": 5.944308,
+  "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Voices\\Pilot Complete\\Scene07\\S07-N01-byte-take001.mp3",
+  "sha256": "1896cdf4be1439865d6243237389fc6979caeb59bea10fb2cc77af371db67031",
+  "request_id": "0yn0GnfjFdWZdN8UF6ZL",
+  "provider_character_cost": "21",
+  "status": "review_take_not_yet_approved"
+}

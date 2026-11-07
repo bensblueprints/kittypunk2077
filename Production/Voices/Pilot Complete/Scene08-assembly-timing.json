@@ -1,0 +1,56 @@
+{
+  "scene": 8,
+  "duration_seconds": 23.158639455782314,
+  "target_scene_seconds": 40,
+  "placements": [
+    {
+      "line_id": "S08-D01",
+      "start": 0.0,
+      "end": 2.2755555555555556,
+      "text": "Are you really going to bring the salmon back?"
+    },
+    {
+      "line_id": "S08-D02",
+      "start": 2.5755555555555554,
+      "end": 4.247392290249433,
+      "text": "We're going to find out where it went."
+    },
+    {
+      "line_id": "S08-N01",
+      "start": 4.547392290249433,
+      "end": 6.730068027210884,
+      "text": "Mum says promises do not fit in a bowl."
+    },
+    {
+      "line_id": "S08-N02",
+      "start": 7.030068027210884,
+      "end": 11.90625850340136,
+      "text": "She is right. I will not promise what I cannot deliver. But I will not forget you."
+    },
+    {
+      "line_id": "S08-D03",
+      "start": 12.20625850340136,
+      "end": 14.899773242630385,
+      "text": "You realize we have no fucking idea where it went?"
+    },
+    {
+      "line_id": "S08-D04",
+      "start": 15.199773242630386,
+      "end": 16.221451247165533,
+      "text": "Working on that."
+    },
+    {
+      "line_id": "S08-N03",
+      "start": 16.521451247165533,
+      "end": 19.354285714285716,
+      "text": "You have made that significantly harder to walk away from."
+    },
+    {
+      "line_id": "S08-N04",
+      "start": 19.654285714285713,
+      "end": 22.858639455782313,
+      "text": "Good. Get the others. We start with who profits from the panic."
+    }
+  ],
+  "status": "dialogue review assembly, not final soundtrack"
+}

@@ -1,0 +1,21 @@
+{
+  "line_id": "S08-N02",
+  "scene": 8,
+  "role_id": "trixie",
+  "text": "She is right. I will not promise what I cannot deliver. But I will not forget you.",
+  "voice_id": "dmWfLQZJq7wNPv9WmtiM",
+  "voice_name": "Emma — Wry, Gritty Hero",
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.35,
+    "similarity_boost": 0.8,
+    "style": 0.55,
+    "use_speaker_boost": true
+  },
+  "duration_sec": 4.87619,
+  "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Voices\\Pilot Complete\\Scene08\\S08-N02-trixie-take001.mp3",
+  "sha256": "12ca54be99d021f263278cb773ba3a60515a5796710fb4f654ec6949e0ff4b29",
+  "request_id": "9vMPSi1CvyzSd70v87lE",
+  "provider_character_cost": "18",
+  "status": "review_take_not_yet_approved"
+}

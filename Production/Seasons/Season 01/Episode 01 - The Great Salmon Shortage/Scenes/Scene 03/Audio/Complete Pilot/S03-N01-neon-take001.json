@@ -1,0 +1,21 @@
+{
+  "line_id": "S03-N01",
+  "scene": 3,
+  "role_id": "neon",
+  "text": "Seven through Twelve. Why are the first six districts missing from that map?",
+  "voice_id": "4e32WqNVWRquDa1OcRYZ",
+  "voice_name": "Ryan — Product Reviewer",
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.5,
+    "similarity_boost": 0.75,
+    "style": 0.15,
+    "use_speaker_boost": true
+  },
+  "duration_sec": 4.597551,
+  "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Voices\\Pilot Complete\\Scene03\\S03-N01-neon-take001.mp3",
+  "sha256": "e67e50090128b2bdd5b8f9d346e88669378a722f692a554715795672117c6eae",
+  "request_id": "vx0kVCcLXpbVEDh8aNxm",
+  "provider_character_cost": "17",
+  "status": "review_take_not_yet_approved"
+}

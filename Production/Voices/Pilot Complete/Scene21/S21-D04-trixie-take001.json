@@ -1,0 +1,21 @@
+{
+  "line_id": "S21-D04",
+  "scene": 21,
+  "role_id": "trixie",
+  "text": "You have my permission.",
+  "voice_id": "dmWfLQZJq7wNPv9WmtiM",
+  "voice_name": "Emma — Wry, Gritty Hero",
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.35,
+    "similarity_boost": 0.8,
+    "style": 0.55,
+    "use_speaker_boost": true
+  },
+  "duration_sec": 1.207438,
+  "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Voices\\Pilot Complete\\Scene21\\S21-D04-trixie-take001.mp3",
+  "sha256": "6cbdcbef2a7acf0515499366a9092d4a07f7dc724492250e0a22cbab7b524df2",
+  "request_id": "Bvza4FtNly6cvrlxV3RM",
+  "provider_character_cost": "5",
+  "status": "review_take_not_yet_approved"
+}

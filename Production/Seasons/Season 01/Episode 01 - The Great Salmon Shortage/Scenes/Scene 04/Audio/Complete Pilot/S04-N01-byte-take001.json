@@ -1,0 +1,21 @@
+{
+  "line_id": "S04-N01",
+  "scene": 4,
+  "role_id": "byte",
+  "text": "That queue was not here ten minutes ago. They have not even opened the second till.",
+  "voice_id": "wo6udizrrtpIxWGp2qJk",
+  "voice_name": "Northern Terry",
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.5,
+    "similarity_boost": 0.75,
+    "style": 0.15,
+    "use_speaker_boost": true
+  },
+  "duration_sec": 4.179592,
+  "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Voices\\Pilot Complete\\Scene04\\S04-N01-byte-take001.mp3",
+  "sha256": "ea3f1c4fdf6b829e616427ed4ebb01f72fa367e4e21e60706cb64cdffba5cbf8",
+  "request_id": "26J5HHxrl783hScHc8HX",
+  "provider_character_cost": "18",
+  "status": "review_take_not_yet_approved"
+}

@@ -1,3 +1,4 @@
+from database import ClosingConnection
 import os, json, sqlite3, secrets, time, re
 from pathlib import Path
 from functools import wraps
@@ -10,7 +11,7 @@ app.config.update(SECRET_KEY=os.environ['SECRET_KEY'],SESSION_COOKIE_SECURE=os.e
 app.wsgi_app=ProxyFix(app.wsgi_app,x_for=1,x_proto=1)
 DB=os.environ.get('DATABASE',str(ROOT/'data/site.sqlite3'))
 def db():
- c=sqlite3.connect(DB,timeout=20);c.row_factory=sqlite3.Row;return c
+ c=sqlite3.connect(DB,timeout=20,factory=ClosingConnection);c.row_factory=sqlite3.Row;return c
 with db() as c:
  c.executescript('CREATE TABLE IF NOT EXISTS users(id INTEGER PRIMARY KEY,email TEXT UNIQUE,password TEXT,staff INTEGER DEFAULT 0,created INTEGER); CREATE TABLE IF NOT EXISTS sessions(token TEXT PRIMARY KEY,user_id INTEGER,expires INTEGER); CREATE TABLE IF NOT EXISTS attempts(ip TEXT,at INTEGER);')
  if not c.execute('SELECT 1 FROM users WHERE staff=1').fetchone():
@@ -44,6 +45,17 @@ def staff(fn):
  return wrapped
 @app.route('/')
 def home():return render_template('home.html')
+@app.route('/generation-input/<token>/<filename>')
+def generation_input(token,filename):
+ if not re.fullmatch(r'[a-f0-9]{64}',token):abort(404)
+ folder=Path(DB).parent/'wan-inputs'/token
+ try:manifest=json.loads((folder/'manifest.json').read_text('utf-8'))
+ except (OSError,ValueError):abort(404)
+ if time.time()>manifest.get('expires',0) or filename not in manifest.get('files',[]):abort(404)
+ response=send_from_directory(folder,filename,conditional=True)
+ response.headers['Cache-Control']='private, no-store'
+ response.headers['X-Robots-Tag']='noindex, nofollow, noarchive'
+ return response
 @app.route('/health')
 def health():
  with db() as c:c.execute('SELECT 1').fetchone()
@@ -122,7 +134,7 @@ def account():
   elif 12<=len(request.form.get('new',''))<=128:
    with db() as c:c.execute('UPDATE users SET password=? WHERE id=?',(generate_password_hash(request.form['new']),g.user['id']));c.execute('DELETE FROM sessions WHERE user_id=? AND token<>?',(g.user['id'],session['token']))
    message='Password updated. Other sessions have been signed out.'
-  else:error='Use a new password of 12–128 characters.'
+  else:error='Use a new password of 12â€“128 characters.'
  return render_template('account.html',error=error,message=message)
 @app.route('/privacy')
 def privacy():return render_template('privacy.html')
@@ -131,3 +143,6 @@ def privacy():return render_template('privacy.html')
 @app.errorhandler(429)
 @app.errorhandler(400)
 def error(e):return render_template('error.html',code=e.code),e.code
+
+from production import register
+register(app,db,staff,ROOT,DB)

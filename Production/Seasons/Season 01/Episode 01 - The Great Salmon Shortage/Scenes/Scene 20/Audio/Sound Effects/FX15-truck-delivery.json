@@ -1,0 +1,21 @@
+{
+  "id": "FX15-truck-delivery",
+  "scenes": [
+    20,
+    22,
+    23
+  ],
+  "request": {
+    "text": "Electric refrigerated delivery truck approaches slowly, brakes hiss, motor stops, cargo door slides open, wooden crate lands gently on pavement. No voices, no music.",
+    "duration_seconds": 12,
+    "loop": false,
+    "prompt_influence": 0.45,
+    "model_id": "eleven_text_to_sound_v2"
+  },
+  "status": "completed",
+  "created": "2026-11-07T01:14:59.831269+00:00",
+  "bytes": 193140,
+  "sha256": "5f91e8a4485f2b156d25a5bfdfd573014bd4f6590d328d80b04ddb506097b132",
+  "character_cost": "66",
+  "request_id": null
+}

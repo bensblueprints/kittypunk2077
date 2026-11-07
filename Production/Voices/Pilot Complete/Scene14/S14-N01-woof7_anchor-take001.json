@@ -1,0 +1,21 @@
+{
+  "line_id": "S14-N01",
+  "scene": 14,
+  "role_id": "woof7_anchor",
+  "text": "People are asking why the shelves emptied before the warning. They expect me to ask that question.",
+  "voice_id": "cjVigY5qzO86Huf0OWal",
+  "voice_name": "Eric",
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.5,
+    "similarity_boost": 0.75,
+    "style": 0.15,
+    "use_speaker_boost": true
+  },
+  "duration_sec": 5.897868,
+  "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Voices\\Pilot Complete\\Scene14\\S14-N01-woof7_anchor-take001.mp3",
+  "sha256": "6c8e39ae9ea1ece8bbf05320d81bf13d52f0fe08aaf620d5865aa768735ec620",
+  "request_id": "zy5NOQOn646qBdh6Wqry",
+  "provider_character_cost": "22",
+  "status": "review_take_not_yet_approved"
+}

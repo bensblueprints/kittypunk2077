@@ -1,0 +1,21 @@
+{
+  "line_id": "S03-N05",
+  "scene": 3,
+  "role_id": "trixie",
+  "text": "Bring your scanner. We need prices, not another argument.",
+  "voice_id": "dmWfLQZJq7wNPv9WmtiM",
+  "voice_name": "Emma — Wry, Gritty Hero",
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.35,
+    "similarity_boost": 0.8,
+    "style": 0.55,
+    "use_speaker_boost": true
+  },
+  "duration_sec": 3.111474,
+  "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Voices\\Pilot Complete\\Scene03\\S03-N05-trixie-take001.mp3",
+  "sha256": "4ce7428b46ac861df76e20025b31e0b5e790242bbabc610f4b1b94738cec730c",
+  "request_id": "mu78sO3434d60mP6nSPv",
+  "provider_character_cost": "13",
+  "status": "review_take_not_yet_approved"
+}

@@ -1,0 +1,181 @@
+[
+  {
+    "id": "FX01-hideout-room",
+    "duration_seconds": 20,
+    "loop": true,
+    "scenes": [
+      1,
+      2,
+      9,
+      10,
+      17,
+      19,
+      24
+    ],
+    "prompt": "Quiet abandoned warehouse living room at night, soft old computer cooling fans, distant rain against high windows, low electrical CRT hum. Intimate room tone, no music, no voices."
+  },
+  {
+    "id": "FX02-controller-foley",
+    "duration_seconds": 8,
+    "loop": false,
+    "scenes": [
+      1,
+      2,
+      24
+    ],
+    "prompt": "Close dry plastic game controller button clicks and thumbstick movements in short irregular bursts, two controllers, no voices, no music, no background."
+  },
+  {
+    "id": "FX03-tv-game-action",
+    "duration_seconds": 15,
+    "loop": false,
+    "scenes": [
+      1,
+      24
+    ],
+    "prompt": "Fictional arcade car chase heard from a small old television speaker: engine revving, tire skid, short cartoon bank-heist gunfire bursts, distant police siren, a crash and debris. No speech, no music. Narrow small speaker sound."
+  },
+  {
+    "id": "FX04-broadcast-interruption",
+    "duration_seconds": 6,
+    "loop": false,
+    "scenes": [
+      2,
+      3,
+      17
+    ],
+    "prompt": "Old CRT television crackle, brief digital interruption glitch followed by a clean corporate news alert chime, then low electronic hum. No speech or music."
+  },
+  {
+    "id": "FX05-district-street",
+    "duration_seconds": 20,
+    "loop": true,
+    "scenes": [
+      4,
+      6,
+      8,
+      18,
+      23
+    ],
+    "prompt": "Rainy neon city backstreet ambience, distant traffic passing, wet pavement tire hiss, faint market awnings creaking, urban ventilation. No intelligible or unintelligible voices, no music."
+  },
+  {
+    "id": "FX06-shop-freezer",
+    "duration_seconds": 20,
+    "loop": true,
+    "scenes": [
+      5
+    ],
+    "prompt": "Small convenience store freezer aisle room tone, refrigerator compressors and fluorescent light hum, gentle cold ventilation, very quiet. No voices, no music."
+  },
+  {
+    "id": "FX07-crowd-movement",
+    "duration_seconds": 12,
+    "loop": true,
+    "scenes": [
+      6,
+      7,
+      8,
+      23
+    ],
+    "prompt": "Large outdoor rally crowd physical movement only: many soft footsteps, clothing rustle, occasional handclaps, flags flapping. No speech, no chanting, no vocal sounds, no music."
+  },
+  {
+    "id": "FX08-hacking-interface",
+    "duration_seconds": 10,
+    "loop": false,
+    "scenes": [
+      9,
+      17,
+      19,
+      22
+    ],
+    "prompt": "Cyberpunk computer keyboard typing in several short bursts, restrained electronic confirmation beeps, final successful data upload chime. No speech, no music."
+  },
+  {
+    "id": "FX09-bone-decoy",
+    "duration_seconds": 8,
+    "loop": false,
+    "scenes": [
+      10,
+      12,
+      16
+    ],
+    "prompt": "Small plastic mechanical dog chew bone squeaks twice, tiny servo whirr, rolls across concrete, bounces three times and squeaks again. Comic practical prop sound, no animal voices, no music."
+  },
+  {
+    "id": "FX10-luxury-restaurant",
+    "duration_seconds": 20,
+    "loop": true,
+    "scenes": [
+      11,
+      13,
+      14,
+      15
+    ],
+    "prompt": "Elegant restaurant ambience without people voices: subtle crystal glass clinks and silver cutlery, soft room ventilation, distant kitchen dishes, spacious plush interior. No voices, no music."
+  },
+  {
+    "id": "FX11-stealth-footsteps",
+    "duration_seconds": 10,
+    "loop": false,
+    "scenes": [
+      13,
+      15,
+      16
+    ],
+    "prompt": "Soft stealth boots moving on polished stone corridor, pause, gentle cloth movement, one quiet camera shutter click. Close dry foley, no voices, no music."
+  },
+  {
+    "id": "FX12-security-alarm",
+    "duration_seconds": 10,
+    "loop": true,
+    "scenes": [
+      16,
+      21
+    ],
+    "prompt": "Industrial security alarm, measured alternating electronic warning tones in a concrete corridor, distant heavy boot footsteps. No speech, no music."
+  },
+  {
+    "id": "FX13-salmon-factory",
+    "duration_seconds": 20,
+    "loop": true,
+    "scenes": [
+      20,
+      21,
+      22
+    ],
+    "prompt": "Large refrigerated fish processing plant, steady conveyor belt motors, aquarium water pumps, robotic arm pneumatic servos moving periodically, deep refrigeration compressor. No voices or music."
+  },
+  {
+    "id": "FX14-robot-dog-steps",
+    "duration_seconds": 8,
+    "loop": false,
+    "scenes": [
+      20,
+      21
+    ],
+    "prompt": "Heavy bipedal robotic guard walking on metal factory floor, six measured armored footsteps with joint servos and hydraulic hiss. Two legs, no animal growls, no speech, no music."
+  },
+  {
+    "id": "FX15-truck-delivery",
+    "duration_seconds": 12,
+    "loop": false,
+    "scenes": [
+      20,
+      22,
+      23
+    ],
+    "prompt": "Electric refrigerated delivery truck approaches slowly, brakes hiss, motor stops, cargo door slides open, wooden crate lands gently on pavement. No voices, no music."
+  },
+  {
+    "id": "FX16-newspaper",
+    "duration_seconds": 8,
+    "loop": false,
+    "scenes": [
+      17,
+      18
+    ],
+    "prompt": "Newspaper printing rollers run briefly, followed by crisp newspaper unfolding and page turning close to microphone. No speech, no music."
+  }
+]

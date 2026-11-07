@@ -1,0 +1,21 @@
+{
+  "line_id": "S08-D04",
+  "scene": 8,
+  "role_id": "trixie",
+  "text": "Working on that.",
+  "voice_id": "dmWfLQZJq7wNPv9WmtiM",
+  "voice_name": "Emma — Wry, Gritty Hero",
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.35,
+    "similarity_boost": 0.8,
+    "style": 0.55,
+    "use_speaker_boost": true
+  },
+  "duration_sec": 1.021678,
+  "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Voices\\Pilot Complete\\Scene08\\S08-D04-trixie-take001.mp3",
+  "sha256": "f14a35be8a488c63b51dbdeeae5b080f4341a135a9d2e257a12150d656dc06bb",
+  "request_id": "JXPNrOT83vV79z8LZ0Rn",
+  "provider_character_cost": "4",
+  "status": "review_take_not_yet_approved"
+}

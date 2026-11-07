@@ -1,0 +1,21 @@
+{
+  "id": "FX13-salmon-factory",
+  "scenes": [
+    20,
+    21,
+    22
+  ],
+  "request": {
+    "text": "Large refrigerated fish processing plant, steady conveyor belt motors, aquarium water pumps, robotic arm pneumatic servos moving periodically, deep refrigeration compressor. No voices or music.",
+    "duration_seconds": 20,
+    "loop": true,
+    "prompt_influence": 0.45,
+    "model_id": "eleven_text_to_sound_v2"
+  },
+  "status": "completed",
+  "created": "2026-11-07T01:14:16.001807+00:00",
+  "bytes": 321035,
+  "sha256": "582b7e63729b4dfd98163a5b9114429be923293bdd3143cf663c6f639f7547d2",
+  "character_cost": "110",
+  "request_id": null
+}

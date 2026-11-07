@@ -1,0 +1,21 @@
+{
+  "line_id": "S23-D01",
+  "scene": 23,
+  "role_id": "nip7_anchor",
+  "text": "Newly released records confirm that Goodboy Global diverted salmon shipments away from feline neighborhoods.",
+  "voice_id": "onwK4e9ZLuTAKqWW03F9",
+  "voice_name": "Daniel",
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.5,
+    "similarity_boost": 0.75,
+    "style": 0.15,
+    "use_speaker_boost": true
+  },
+  "duration_sec": 7.151746,
+  "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Voices\\Pilot Complete\\Scene23\\S23-D01-nip7_anchor-take001.mp3",
+  "sha256": "bdcbac6d002c774ee98277a1016c0a8568a9e124508d5f5f0da7d52448576850",
+  "request_id": "ZSGC7JwFKBeBUamVkoh3",
+  "provider_character_cost": "24",
+  "status": "review_take_not_yet_approved"
+}

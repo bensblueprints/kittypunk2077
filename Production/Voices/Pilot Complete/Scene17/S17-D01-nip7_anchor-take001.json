@@ -1,0 +1,21 @@
+{
+  "line_id": "S17-D01",
+  "scene": 17,
+  "role_id": "nip7_anchor",
+  "text": "Exclusive tonight: leaked footage shows Chairman Barkington Orders making an undisclosed cash payment to a senior WOOF7 journalist.",
+  "voice_id": "onwK4e9ZLuTAKqWW03F9",
+  "voice_name": "Daniel",
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.5,
+    "similarity_boost": 0.75,
+    "style": 0.15,
+    "use_speaker_boost": true
+  },
+  "duration_sec": 10.1239,
+  "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Voices\\Pilot Complete\\Scene17\\S17-D01-nip7_anchor-take001.mp3",
+  "sha256": "0562bb16c553237f1d35febd984b1bda79cbfca08fecb40585f28771624ee22c",
+  "request_id": "UOIYqPg00jNOqTsLxSML",
+  "provider_character_cost": "29",
+  "status": "review_take_not_yet_approved"
+}

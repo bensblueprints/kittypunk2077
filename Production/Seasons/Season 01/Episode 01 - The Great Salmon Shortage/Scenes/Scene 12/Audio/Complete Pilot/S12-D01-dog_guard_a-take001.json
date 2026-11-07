@@ -1,0 +1,21 @@
+{
+  "line_id": "S12-D01",
+  "scene": 12,
+  "role_id": "dog_guard_a",
+  "text": "Maintain your positions!",
+  "voice_id": "TxWZERZ5Hc6h9dGxVmXa",
+  "voice_name": "Jerry B. - Gruff and Gritty Commander",
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.5,
+    "similarity_boost": 0.75,
+    "style": 0.15,
+    "use_speaker_boost": true
+  },
+  "duration_sec": 1.578957,
+  "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Voices\\Pilot Complete\\Scene12\\S12-D01-dog_guard_a-take001.mp3",
+  "sha256": "4cecd882ff015d2aad6a5aa4c10a1958e5358345d7bdb3587af5221e4d4d8f03",
+  "request_id": "xhS3f5gqOyYopOe2flbV",
+  "provider_character_cost": "5",
+  "status": "review_take_not_yet_approved"
+}

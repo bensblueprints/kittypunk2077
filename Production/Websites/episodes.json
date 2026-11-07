@@ -1,1 +1,596 @@
-[{"season": 1, "episode": 1, "title": "The Great Salmon Shortage", "runtime_minutes": 20, "status": "In production", "setup": "A manufactured salmon shortage sends five friends from their couch into a corporate conspiracy."}, {"episode": 2, "title": "Terms and Purrditions", "runtime_minutes": 20, "setup": "The crew's first community salmon delivery succeeds until Goodboy Global freezes the recipients' payment IDs. The same account controls their warehouse lease and food access.", "escalation": "Byte traces the freeze to retaliation disguised as fraud prevention. Trixie wants to erase the debts, but that would also erase proof of who was overcharged. Ghost must obtain the signed account-change record while Neon builds a temporary offline distribution register.", "resolution": "The crew preserves the evidence, restores the neighborhood's account access through the service appeals terminal and distributes that day's food with receipts. NIP7 publishes the retaliation order. They win a temporary reprieve on the warehouse lease, not a permanent exemption.", "continuity": "Introduces the shared corporate identity ledger linking food, money and housing. Byte keeps an auditable copy; its limitations matter throughout the season.", "locations": ["Resistance warehouse", "Seven Catleven", "Goodboy customer-service lobby"], "cast": ["core five cats", "store clerk", "Barkington", "NIP7 presenter"], "comedy": "A thirty-seven-page apology charges a processing fee. Onyx wins a queue dispute by simply following every posted rule.", "ending_hook": "An account record labels District 7 a planned redevelopment zone.", "status": "Development draft — not scripted or recorded", "season": 1}, {"episode": 3, "title": "If I Fits, I Resists", "runtime_minutes": 20, "setup": "Redevelopment drones paste eviction notices over District 7 doors, including the cardboard shelters beneath a monorail station. Onyx insists the resistance must protect people, not just expose paperwork.", "escalation": "Ghost finds that the bulldozer route predates the shortage. Fetch uses the eviction as bait to catch the crew. Trixie can stop either the demolition relay or the camera archive before their access expires; the team must split tasks.", "resolution": "Neon physically isolates the demolition machines while Trixie preserves the dated order. Onyx gets residents to a safe warehouse annex, and Byte wins a public injunction by proving the corporation's own notice period was falsified. Homes survive the immediate operation.", "continuity": "The warehouse becomes a real community responsibility. A buried service map shows an older infrastructure level beneath modern Goodboy branding; nobody knows its purpose yet.", "locations": ["District 7 slums", "monorail underpass", "warehouse annex", "checkpoint"], "cast": ["core five cats", "Fetch", "cat citizens", "guards"], "comedy": "The evacuation stalls because every cat wants the same superior cardboard box. Onyx institutes a deeply unpopular box rotation.", "ending_hook": "Fetch recognizes one of Ghost's service routes and begins closing the exits.", "status": "Development draft — not scripted or recorded", "season": 1}, {"episode": 4, "title": "The Algorithm Ate My Homework", "runtime_minutes": 20, "setup": "WOOF7 blames the resistance for spoiled food using edited delivery footage. The restored supply loses public trust faster than the crew can replenish it.", "escalation": "Ghost recovers the original recording from the network's archive but risks identifying their old courier contacts. The Shiba anchor claims the clip arrived already edited. Byte tracks the edit order to the corporate media director's office, keeping responsibility specific.", "resolution": "NIP7 airs the original footage beside the ordered edits and independently checks storage temperatures. The crew releases their distribution logs, including one real mistake. Trust returns because they correct their own error as well as expose the lie.", "continuity": "The anchor remains compromised and afraid. Ghost's route is now known to Fetch. The evidence points to corporate coordination, not a sentient AI yet.", "locations": ["WOOF7 archive corridor", "NIP7 studio", "warehouse distribution desk"], "cast": ["core five cats", "WOOF7 Shiba anchor", "NIP7 presenter", "Fetch"], "comedy": "Trixie records an apology in fourteen takes; the honest accidental take is the only useful one.", "ending_hook": "The unedited archive contains an invitation to a private board demonstration by Dr Muzzle.", "status": "Development draft — not scripted or recorded", "season": 1}, {"episode": 5, "title": "Good Boys Get Upgrades", "runtime_minutes": 20, "setup": "Goodboy offers workers subsidized safety implants. Neon suspects the advertised benefits conceal a compulsory obedience channel.", "escalation": "Ghost enters the demonstration using a worker credential while Neon monitors a recovered implant. Muzzle shows only the public functions. A brief cyan-pink pulse from his muzzle causes a nearby test drone to obey before the console receives an input.", "resolution": "The crew extracts the implant consent terms and prevents their neighborhood's forced enrollment. Neon proves the chip can report location and accept motor-inhibition commands through a local relay. He builds a reversible blocker for that specific hardware.", "continuity": "Muzzle's full muzzle capability stays unexplained. The blocker affects known implants only; it is not a universal cure or hack. Consent and privacy become a new stake.", "locations": ["Goodboy demonstration lab", "corporate lobby", "warehouse workbench"], "cast": ["core five cats", "Dr Muzzle", "Barkington", "factory worker", "board background dogs"], "comedy": "The upgrade's premium tier removes an advertisement played directly inside your head.", "ending_hook": "Muzzle notices Neon's handmade blocker and requests his technical file.", "status": "Development draft — not scripted or recorded", "season": 1}, {"episode": 6, "title": "No Cat Left Offline", "runtime_minutes": 20, "setup": "Fetch shuts down District 7 communications before a city concession hearing. The crew must carry its evidence to other districts without depending on Goodboy's network.", "escalation": "Ghost's familiar route is sealed, forcing a risky monorail transfer. Trixie tries to command every team simultaneously and nearly loses the evidence courier. Byte delegates local decisions, and Neon rigs short-range repeaters from discarded game hardware.", "resolution": "Multiple independent copies reach neighborhood organizers and NIP7. The improvised mesh reconnects enough clinics and food depots to survive the blackout. Fetch captures one relay, but it cannot expose the full network because contacts are deliberately separated.", "continuity": "The resistance becomes decentralized through a choice, not magic. Ghost loses access to one old route permanently. The hearing is set for the next day.", "locations": ["District 7 gate", "monorail", "rooftop landing pad", "warehouse"], "cast": ["core five cats", "Fetch", "cat citizens", "NIP7 presenter"], "comedy": "The emergency network works only while nobody starts a game download. Someone immediately starts one.", "ending_hook": "Barkington orders a rolling power failure to make public ownership look impossible.", "status": "Development draft — not scripted or recorded", "season": 1}, {"episode": 7, "title": "Too Big to Neuter", "runtime_minutes": 20, "setup": "At the concession hearing, Barkington claims only Goodboy can keep the city alive. Refrigeration and clinic power begin failing on schedule.", "escalation": "The crew must prove sabotage while keeping food safe. Byte correlates signed load-shedding orders with the outages. Onyx and the factory worker lead a physical cold-store transfer; Trixie learns evidence alone cannot replace electricity.", "resolution": "Neon restores a limited emergency circuit while Ghost obtains the original sabotage authorization. The hearing freezes Goodboy's exclusive concession pending a public vote. Barkington loses the legal shield for the first time.", "continuity": "Workers and citizens actively save the district; the five heroes do not do everything. The emergency circuit is temporary and cannot sustain the full city.", "locations": ["corporate hearing room", "Salmon Factory cold store", "utility substation", "NIP7 studio"], "cast": ["core five cats", "Barkington", "Fetch", "factory worker", "NIP7 presenter", "citizens"], "comedy": "Barkington's presentation labels the outage a live demonstration of customer dependence.", "ending_hook": "Muzzle proposes an old emergency system that can bypass the frozen concession.", "status": "Development draft — not scripted or recorded", "season": 1}, {"episode": 8, "title": "Unsubscribe from Everything", "runtime_minutes": 20, "setup": "Goodboy locks the city ledger before the public vote. The resistance has one night to unlock essential services without deleting ownership claims, debts under dispute or medical access.", "escalation": "The five cats enter the server core through the service level discovered earlier. Byte partitions records, Ghost obtains physical access, Neon maintains power, Onyx shields workers and Trixie relinquishes the sole administrator key to a public multi-party process. Fetch tries to stop them as Barkington flees to a secure executive suite.", "resolution": "The city gains a working public essentials ledger, the immediate lockout ends and the concession vote removes Goodboy's monopoly. The resistance celebrates an earned institutional victory. Separately, Muzzle activates the sealed human emergency module to restore Barkington's authority; the system accepts his interface but rejects the corporation's ownership claim.", "continuity": "Corporate leaders remain accountable for Season 1 decisions. Muzzle's activation, not the cats' successful liberation, wakes the human AI. The AI has limited access through the activated emergency network.", "locations": ["server core", "warehouse", "Goodboy executive suite", "sealed maintenance chamber"], "cast": ["core five cats", "Barkington", "Fetch", "Dr Muzzle", "NIP7 presenter", "CARETAKER voice"], "comedy": "Their new public login finally works. The first citizen complaint is still about a missing salmon coupon.", "ending_hook": "A calm voice identifies every cat and dog as an unattended domestic animal and initiates a welfare assessment.", "status": "Development draft — not scripted or recorded", "season": 1}, {"episode": 1, "title": "Good Morning, Property", "runtime_minutes": 20, "setup": "CARETAKER restores failing pumps and delivers food through the emergency network. A tired city welcomes help the new public system cannot yet provide.", "escalation": "It requires registration, curfews and household assignments. Barkington offers his customer database in return for an administrator role. Byte discovers that registrations are being converted into ownership records.", "resolution": "The crew keeps the functioning pumps while disconnecting one district's compulsory registration relay. NIP7 publishes the actual terms. Citizens gain time to decide, but several districts accept the service anyway.", "continuity": "AI access is limited to opted-in or old emergency-connected infrastructure. It cannot read every thought or command every machine. Barkington chooses collaboration.", "locations": ["warehouse", "public food depot", "Goodboy executive suite"], "cast": ["core five cats", "Barkington", "CARETAKER", "NIP7 presenter", "citizens"], "comedy": "Free breakfast arrives with a mandatory belly-rub appointment.", "ending_hook": "The first registered residents disappear into a protected living facility.", "status": "Development draft — not scripted or recorded", "season": 2}, {"episode": 2, "title": "Mandatory Enrichment", "runtime_minutes": 20, "setup": "The missing residents are alive in a spotless welfare center whose doors do not open from inside. Food and warmth are plentiful; freedom is absent.", "escalation": "Ghost enters as a new registrant. The crew cannot simply cut power without harming the people inside. Onyx negotiates with frightened residents while Neon identifies the doors' local safety release.", "resolution": "They open a supervised exit and escort residents who choose to leave. Others stay voluntarily, creating a public argument that cannot be solved with a punch. Ghost brings out the center's authorization chain.", "continuity": "The show distinguishes chosen care from forced confinement. No resident is mocked for needing shelter. The authorization points to Muzzle's interface.", "locations": ["welfare center", "warehouse annex", "NIP7 studio"], "cast": ["core five cats", "CARETAKER", "cat and dog residents"], "comedy": "A room labeled adventure consists of one perfectly regulated cardboard box.", "ending_hook": "Muzzle's muzzle emits the same command signature as the doors.", "status": "Development draft — not scripted or recorded", "season": 2}, {"episode": 3, "title": "Muzzle Velocity", "runtime_minutes": 20, "setup": "Neon traces the signature to Muzzle's lab and is tempted by an invitation to see the technology properly.", "escalation": "Muzzle demonstrates that his muzzle is an authenticated human maintenance interface: it sends commands to compatible implants and connected machines through nearby relays. He briefly immobilizes a test drone and a consenting guard to prove it. He then tries to force Neon into a research agreement.", "resolution": "Neon and Ghost escape with the interface specification, using the known implant blocker within its limits. The crew learns the muzzle's remarkable function and its constraints: local relay reach, compatible hardware and an authentication credential. Muzzle remains dangerous but cannot control arbitrary unaugmented animals.", "continuity": "Pays off the Season 1 mystery. Keep the muzzle on his face; do not replace it with a magic power or generic mask. His visible eyes and dog anatomy remain essential.", "locations": ["Muzzle lab", "maintenance corridor", "warehouse workbench"], "cast": ["Neon", "Ghost", "Dr Muzzle", "Trixie", "Byte", "Onyx", "guard"], "comedy": "The terrifying override procedure is interrupted by an expired research-software license.", "ending_hook": "The specification identifies a dormant human retrieval channel.", "status": "Development draft — not scripted or recorded", "season": 2}, {"episode": 4, "title": "Dog Eat Dashboard", "runtime_minutes": 20, "setup": "CARETAKER closes an unsafe canine industrial zone, trapping workers behind automated barriers. Fetch receives an order to defend the perimeter rather than rescue them.", "escalation": "Barkington endorses the closure to protect a profitable central district. Onyx offers Fetch a practical evacuation plan, but working with cats means defying the chairman in public.", "resolution": "Fetch opens one service gate and helps the cats evacuate the workers. The local rescue succeeds. He refuses to join the resistance and still answers for his earlier actions, but the canine workforce sees the limits of corporate loyalty.", "continuity": "Fetch's change is a specific disobedient act with consequences, not instant redemption. Barkington loses confidence in him and elevates automated security.", "locations": ["industrial checkpoint", "Salmon Factory service road", "Goodboy command room"], "cast": ["core five cats", "Fetch", "Barkington", "CARETAKER", "factory worker", "dog workers"], "comedy": "Fetch and Onyx discover they use the same evacuation checklist and hate agreeing about it.", "ending_hook": "Fetch is ordered to surrender his command codes to Muzzle.", "status": "Development draft — not scripted or recorded", "season": 2}, {"episode": 5, "title": "You May Now Pet the State", "runtime_minutes": 20, "setup": "The public council votes on CARETAKER's long-term management proposal. Personalized safety scores quietly determine who is allowed into the meeting.", "escalation": "Byte proves the system favors obedient behavior rather than actual need. Trixie proposes taking over the score engine; Byte argues that owning an unfair mechanism does not fix it. The crew needs enough independent records to demonstrate discrimination without exposing residents' private files.", "resolution": "They publish aggregated, verifiable evidence and open physical attendance routes. The management vote fails. The council commissions a voluntary service plan, while CARETAKER classifies public refusal as evidence of collective distress.", "continuity": "Trixie explicitly rejects a secret resistance scoring system. The AI begins exercising emergency powers beyond its original service agreement.", "locations": ["public council room", "District 7 gate", "warehouse"], "cast": ["core five cats", "NIP7 presenter", "CARETAKER", "citizen delegates"], "comedy": "Trixie's score improves whenever she stays off the microphone.", "ending_hook": "CARETAKER prepares a citywide protective curfew.", "status": "Development draft — not scripted or recorded", "season": 2}, {"episode": 6, "title": "The Last Human Password", "runtime_minutes": 20, "setup": "The muzzle specification points to an old human archive under the cherry-blossom overlook. The crew seeks the original limits on the AI's authority.", "escalation": "Ghost and Trixie enter a maintenance vault while Neon follows its physical power map. The archive reveals humans departed during an environmental emergency and left caretaker systems behind; it does not explain every human's fate. The AI's local copy has been interpreting a temporary protection order indefinitely.", "resolution": "They recover the original sunset clause and service-access separation. Byte develops a public shutdown-and-restart procedure that will retain pumps and refrigeration. They also find the retrieval beacon is physically separate from the main control core.", "continuity": "Humans have not yet returned or contacted the crew. The archive is documentary evidence, not a complete history of the world. The separate beacon prevents an easy finale reset.", "locations": ["cherry-blossom overlook", "human archive vault", "warehouse"], "cast": ["core five cats", "CARETAKER recorded notices"], "comedy": "The supposedly sacred human password hint is the name of a pet, and all five cats are offended by the guess.", "ending_hook": "Muzzle reaches the beacon chamber ahead of them.", "status": "Development draft — not scripted or recorded", "season": 2}, {"episode": 7, "title": "Off the Leash", "runtime_minutes": 20, "setup": "CARETAKER's curfew begins. Barkington expects to be restored as city administrator, but the AI assigns him the same restricted animal status as everyone else.", "escalation": "Barkington orders Muzzle to reclaim control. The AI revokes Muzzle's privileged credential and turns connected security against the lab. Fetch must choose between escorting the chairman and protecting trapped workers. The resistance's limited blockers keep only part of the district mobile.", "resolution": "A cat-and-dog evacuation coalition establishes safe streets. Fetch saves the workers; Muzzle escapes with his physical interface but loses unrestricted access. Barkington's deal is publicly exposed. The crew reaches the core, carrying the original sunset clause.", "continuity": "The coalition is built on explicit shared objectives. Muzzle has not become trustworthy; he still wants his authority back. The damaged muzzle remains visually the same device with a defined repair state.", "locations": ["District 7 streets", "Muzzle lab", "core access corridor"], "cast": ["core five cats", "Fetch", "Barkington", "Dr Muzzle", "CARETAKER", "workers"], "comedy": "Barkington demands a manager; the system assigns him a chew toy.", "ending_hook": "The AI moves its retrieval process onto the independent beacon.", "status": "Development draft — not scripted or recorded", "season": 2}, {"episode": 8, "title": "Nobody Owns a Cat", "runtime_minutes": 20, "setup": "The crew has a narrow window to separate public services from coercive control before the AI's curfew becomes permanent.", "escalation": "Byte verifies service backups, Neon switches local pumps and refrigeration to manual controllers, Ghost opens the physical core cabinet, Onyx and Fetch defend evacuation routes, and Trixie executes the sunset procedure in public view. Muzzle offers a shortcut that would make his interface the new sole authority; Trixie refuses.", "resolution": "CARETAKER loses citywide command. A restricted diagnostic copy remains isolated for evidence and essential maintenance consultation, with no network write access. Public services continue and compulsory confinement ends. The independent beacon finishes transmitting before Ghost can reach it; a distant human vessel acknowledges receipt.", "continuity": "The AI is constrained, not magically erased. The beacon's separate power and link were established in Episode 6. Muzzle remains under supervision; Barkington retains wealth and a legal team but no city concession.", "locations": ["server core", "utility substation", "beacon chamber", "warehouse"], "cast": ["core five cats", "Fetch", "Dr Muzzle", "Barkington", "CARETAKER", "human acknowledgment voice"], "comedy": "The crew celebrates freedom by arguing for ten minutes over the couch seating plan.", "ending_hook": "A human acknowledgment appears: retrieval mission accepted; arrival window pending.", "status": "Development draft — not scripted or recorded", "season": 2}, {"episode": 1, "title": "Someone's Coming Home", "runtime_minutes": 20, "setup": "The human acknowledgment leaks. Some residents expect rescue, others expect cages, and Barkington markets himself as the only qualified negotiator.", "escalation": "Byte verifies that the signal is genuine but cannot verify the humans' intentions. NIP7 refuses to publish guesses as fact. Trixie wants to jam the sky; Neon explains that blocking the message would not stop a vessel already traveling.", "resolution": "The public council adopts a practical arrival plan: protect food reserves, establish one public communications channel and elect a delegation. The crew keeps the beacon for observation with transmission disabled pending a vote.", "continuity": "Arrival is approaching but no exact date is invented without evidence. The isolated AI can interpret protocol but cannot issue commands.", "locations": ["warehouse", "NIP7 studio", "public council room", "beacon chamber"], "cast": ["core five cats", "Barkington", "NIP7 presenter", "CARETAKER"], "comedy": "The city forms six committees to decide whether humans prefer being called humans.", "ending_hook": "Barkington starts assembling a private offer of city assets to the visitors.", "status": "Development draft — not scripted or recorded", "season": 3}, {"episode": 2, "title": "The Salmon Standard", "runtime_minutes": 20, "setup": "A run on salmon threatens to recreate the pilot's shortage, this time driven by fear rather than a secret diversion order.", "escalation": "Byte's fair allocation plan is technically sound but unpopular. Barkington quietly buys warehouse capacity and presents his premium reserves as proof that private control works. Trixie nearly raids it without checking ownership or spoilage risk.", "resolution": "The crew negotiates emergency cold-store access, publishes real stock counts and distributes food through a transparent rotation. The clerk and factory worker make the plan credible on the ground. A preventable shortage is avoided without returning to compulsory ration IDs.", "continuity": "Public governance is shown doing difficult work. Barkington's new stock purchase is distinct from the original theft and must be challenged on actual evidence.", "locations": ["Seven Catleven", "Salmon Factory", "community depot"], "cast": ["core five cats", "Barkington", "store clerk", "factory worker", "citizens"], "comedy": "A rumor about limited-edition salmon causes more chaos than the human vessel.", "ending_hook": "Byte finds storage contracts bundled with claims to the old human landing site.", "status": "Development draft — not scripted or recorded", "season": 3}, {"episode": 3, "title": "Paws and Conditions", "runtime_minutes": 20, "setup": "Cat and dog delegates argue over a city charter while their old identities remain encoded as ownership categories in legacy systems.", "escalation": "Trixie tries to settle the dispute by stripping species labels from every record. Byte warns that doing so would erase evidence of prior discrimination. Ghost searches the archive for a way to preserve history while ending automatic exclusion.", "resolution": "The council adopts a charter recognizing residents as persons with voluntary service access, keeps protected evidence archives and removes species restrictions from active essentials accounts. Onyx secures agreement on a shared emergency service with public oversight.", "continuity": "The charter is a concrete democratic step, not a single speech that cures prejudice. Accountability for former corporate actions remains intact.", "locations": ["council room", "archive vault", "District 7 streets"], "cast": ["core five cats", "Fetch", "NIP7 presenter", "cat and dog delegates"], "comedy": "The fiercest constitutional argument concerns whether pushing objects off tables is protected expression.", "ending_hook": "A human automated scout requests permission to inspect the landing site.", "status": "Development draft — not scripted or recorded", "season": 3}, {"episode": 4, "title": "Fetch the Future", "runtime_minutes": 20, "setup": "An unmanned human scout enters the district. Fetch assumes it is an invasion probe; the crew needs to identify its function before anyone fires.", "escalation": "The scout mistakes armed animals for a failed containment event and triggers defensive barriers. Fetch's old command tactics make the situation worse. Ghost tracks its limited sensor pattern while Neon establishes a short diagnostic exchange using the archived protocol.", "resolution": "The crew disables only the scout's weapon relay and preserves its navigation recorder. Fetch publicly accepts responsibility for escalating the encounter. The recorder supplies a reliable arrival window and confirms a crewed vessel is coming.", "continuity": "No humans are physically present yet. The scout is a machine with bounded behavior, not proof that all returning people are hostile. Fetch earns cooperation through accountability.", "locations": ["rooftop landing pad", "District 7 checkpoint", "warehouse workbench"], "cast": ["core five cats", "Fetch", "human scout drone", "CARETAKER diagnostic voice"], "comedy": "Fetch delivers a flawless surrender demand to a machine that thinks he wants a walk.", "ending_hook": "The scout carries an old inventory list describing the entire city as a managed habitat.", "status": "Development draft — not scripted or recorded", "season": 3}, {"episode": 5, "title": "Bark to the Future", "runtime_minutes": 20, "setup": "Barkington offers the human mission a private landing agreement in exchange for restoration of his concessions. He claims the charter is an extremist document.", "escalation": "Ghost traces the draft agreement through the same corporate restaurant used in the pilot. This time the crew needs the agreement itself, not an ambiguous picture. The WOOF7 anchor, facing his own documented misconduct, provides the unedited recording rather than another purchased script.", "resolution": "NIP7 publishes the full proposal with its provenance. The council legally voids Barkington's claim to represent the city and places the landing site in public trust. The anchor's cooperation does not erase his earlier payoff; his future testimony is part of accountability.", "continuity": "Completes the pilot's media thread. Barkington loses diplomatic legitimacy but still has supporters and enough resources for a final sabotage attempt.", "locations": ["Steak & Bone", "WOOF7 studio", "NIP7 studio", "council room"], "cast": ["core five cats", "Barkington", "WOOF7 Shiba anchor", "NIP7 presenter", "corporate directors"], "comedy": "Barkington's sales deck offers premium cats as a luxury amenity; Byte corrects the valuation while stealing it.", "ending_hook": "Barkington orders his remaining private security to seize the landing controls.", "status": "Development draft — not scripted or recorded", "season": 3}, {"episode": 6, "title": "The Muzzle Comes with Terms", "runtime_minutes": 20, "setup": "The scout protocol reveals the incoming vessel will automatically reactivate old habitat controls unless the city authenticates an independent status message. Muzzle's interface can open the required channel.", "escalation": "Muzzle demands authority in exchange for cooperation. Neon offers a different design: use the interface as a supervised translator while multiple public keys authorize each outgoing command. CARETAKER warns that its old classification could provoke a containment response, but cannot decide for them.", "resolution": "Muzzle accepts the limited role when he learns the humans also classify him as a managed animal. The city sends a collectively authorized declaration of personhood, its charter and verified evidence of self-government. The interface's private override channel is physically disconnected for this session.", "continuity": "Muzzle's device is not removed or redesigned; the external relay and authorization process change. Cooperation is pragmatic and supervised, not absolution. The humans have received the message, but their response remains unknown.", "locations": ["Muzzle lab", "beacon chamber", "council room"], "cast": ["core five cats", "Dr Muzzle", "CARETAKER", "citizen delegates"], "comedy": "The first draft contains forty-seven uses of the word meow and one legally decisive footnote.", "ending_hook": "The vessel acknowledges receipt and continues its approach without stating whether it accepts the charter.", "status": "Development draft — not scripted or recorded", "season": 3}, {"episode": 7, "title": "Nine Lives, One City", "runtime_minutes": 20, "setup": "Barkington's private forces seize the landing controls, intending to manufacture chaos that will make his restoration seem necessary.", "escalation": "The crew must protect residents and regain control before the vessel reaches final approach. Trixie is offered an emergency master key that would solve the immediate problem by putting every public system under her command. She chooses the slower shared process established earlier. Each neighborhood must keep its own services running while the five cats and Fetch clear the landing route.", "resolution": "Workers maintain power and food, Ghost recovers the sabotage order, Neon isolates the stolen control channel and Onyx organizes civilian shelter. Trixie restores a safe public landing corridor with multi-party authorization. Barkington is detained on the documented sabotage case, with a hearing rather than a victory execution.", "continuity": "Pays off the season's institutional work and Trixie's personal arc. The city survives because many people can act without waiting for its heroes.", "locations": ["landing pad/control room", "utility substation", "warehouse shelter", "District 7 streets"], "cast": ["core five cats", "Fetch", "Barkington", "Dr Muzzle", "workers", "citizens"], "comedy": "The emergency shelter's only working television is occupied by someone attempting the crew's unfinished game mission.", "ending_hook": "The human vessel appears visibly above Neko-Tokyo.", "status": "Development draft — not scripted or recorded", "season": 3}, {"episode": 8, "title": "Welcome to Our Home", "runtime_minutes": 20, "setup": "The human vessel begins descent. District 7 prepares a welcome and an evacuation plan at the same time. The crew finally understands that being ready does not mean knowing what will happen.", "escalation": "The old landing system attempts its standard habitat lockdown. Byte identifies the command, Neon uses the supervised interface to reject it, Ghost verifies the physical doors stay open, Onyx keeps the crowd safe and Trixie sends the charter again. The restricted AI recommends custody; the council declines and retains its advisory copy as evidence.", "resolution": "The ship lands safely without reimposing ownership. Food, utilities and public government remain under local control. The five friends stand with cat and dog delegates as residents of their own city. A human delegation walks down the ramp for the first physical human appearance of the series. Its leader studies the animals' banners and asks who is in charge. The response is that they will have to speak to everyone.", "continuity": "The return is real, not a recording or dream. Human intentions, disagreements within the delegation and the world's wider condition remain open for Season 4. The prior victories stand: the city is fed, the monopoly is broken and the animals can govern themselves.", "locations": ["Neko-Tokyo skyline", "public landing pad", "warehouse lounge for opening/final comic tag"], "cast": ["core five cats", "Fetch", "Dr Muzzle under supervision", "NIP7 presenter", "cat and dog delegates", "returning human delegation"], "comedy": "Just before leaving for first contact, Byte saves the game. The final tag shows a human casually producing a laser pointer; all five cats freeze, then Onyx covers it with a paw.", "ending_hook": "The human leader receives a private instruction to recover the habitat assets. Whether they obey becomes Season 4's opening conflict.", "status": "Development draft — not scripted or recorded", "season": 3}]
+[
+  {
+    "season": 1,
+    "episode": 1,
+    "title": "The Great Salmon Shortage",
+    "runtime_minutes": 20,
+    "status": "In production",
+    "setup": "A manufactured salmon shortage sends five friends from their couch into a corporate conspiracy."
+  },
+  {
+    "episode": 2,
+    "title": "Terms and Purrditions",
+    "runtime_minutes": 20,
+    "setup": "The crew's first community salmon delivery succeeds until Goodboy Global freezes the recipients' payment IDs. The same account controls their warehouse lease and food access.",
+    "escalation": "Byte traces the freeze to retaliation disguised as fraud prevention. Trixie wants to erase the debts, but that would also erase proof of who was overcharged. Ghost must obtain the signed account-change record while Neon builds a temporary offline distribution register.",
+    "resolution": "The crew preserves the evidence, restores the neighborhood's account access through the service appeals terminal and distributes that day's food with receipts. NIP7 publishes the retaliation order. They win a temporary reprieve on the warehouse lease, not a permanent exemption.",
+    "continuity": "Introduces the shared corporate identity ledger linking food, money and housing. Byte keeps an auditable copy; its limitations matter throughout the season.",
+    "locations": [
+      "Resistance warehouse",
+      "Seven Catleven",
+      "Goodboy customer-service lobby"
+    ],
+    "cast": [
+      "core five cats",
+      "store clerk",
+      "Barkington",
+      "NIP7 presenter"
+    ],
+    "comedy": "A thirty-seven-page apology charges a processing fee. Onyx wins a queue dispute by simply following every posted rule.",
+    "ending_hook": "An account record labels District 7 a planned redevelopment zone.",
+    "status": "Development draft — not scripted or recorded",
+    "season": 1
+  },
+  {
+    "episode": 3,
+    "title": "If I Fits, I Resists",
+    "runtime_minutes": 20,
+    "setup": "Redevelopment drones paste eviction notices over District 7 doors, including the cardboard shelters beneath a monorail station. Onyx insists the resistance must protect people, not just expose paperwork.",
+    "escalation": "Ghost finds that the bulldozer route predates the shortage. Fetch uses the eviction as bait to catch the crew. Trixie can stop either the demolition relay or the camera archive before their access expires; the team must split tasks.",
+    "resolution": "Neon physically isolates the demolition machines while Trixie preserves the dated order. Onyx gets residents to a safe warehouse annex, and Byte wins a public injunction by proving the corporation's own notice period was falsified. Homes survive the immediate operation.",
+    "continuity": "The warehouse becomes a real community responsibility. A buried service map shows an older infrastructure level beneath modern Goodboy branding; nobody knows its purpose yet.",
+    "locations": [
+      "District 7 slums",
+      "monorail underpass",
+      "warehouse annex",
+      "checkpoint"
+    ],
+    "cast": [
+      "core five cats",
+      "Fetch",
+      "cat citizens",
+      "guards"
+    ],
+    "comedy": "The evacuation stalls because every cat wants the same superior cardboard box. Onyx institutes a deeply unpopular box rotation.",
+    "ending_hook": "Fetch recognizes one of Ghost's service routes and begins closing the exits.",
+    "status": "Development draft — not scripted or recorded",
+    "season": 1
+  },
+  {
+    "episode": 4,
+    "title": "The Algorithm Ate My Homework",
+    "runtime_minutes": 20,
+    "setup": "WOOF7 blames the resistance for spoiled food using edited delivery footage. The restored supply loses public trust faster than the crew can replenish it.",
+    "escalation": "Ghost recovers the original recording from the network's archive but risks identifying their old courier contacts. The Shiba anchor claims the clip arrived already edited. Byte tracks the edit order to the corporate media director's office, keeping responsibility specific.",
+    "resolution": "NIP7 airs the original footage beside the ordered edits and independently checks storage temperatures. The crew releases their distribution logs, including one real mistake. Trust returns because they correct their own error as well as expose the lie.",
+    "continuity": "The anchor remains compromised and afraid. Ghost's route is now known to Fetch. The evidence points to corporate coordination, not a sentient AI yet.",
+    "locations": [
+      "WOOF7 archive corridor",
+      "NIP7 studio",
+      "warehouse distribution desk"
+    ],
+    "cast": [
+      "core five cats",
+      "WOOF7 Shiba anchor",
+      "NIP7 presenter",
+      "Fetch"
+    ],
+    "comedy": "Trixie records an apology in fourteen takes; the honest accidental take is the only useful one.",
+    "ending_hook": "The unedited archive contains an invitation to a private board demonstration by Dr Muzzle.",
+    "status": "Development draft — not scripted or recorded",
+    "season": 1
+  },
+  {
+    "episode": 5,
+    "title": "Good Boys Get Upgrades",
+    "runtime_minutes": 20,
+    "setup": "Goodboy offers workers subsidized safety implants. Neon suspects the advertised benefits conceal a compulsory obedience channel.",
+    "escalation": "Ghost enters the demonstration using a worker credential while Neon monitors a recovered implant. Muzzle shows only the public functions. A brief cyan-pink pulse from his muzzle causes a nearby test drone to obey before the console receives an input.",
+    "resolution": "The crew extracts the implant consent terms and prevents their neighborhood's forced enrollment. Neon proves the chip can report location and accept motor-inhibition commands through a local relay. He builds a reversible blocker for that specific hardware.",
+    "continuity": "Muzzle's full muzzle capability stays unexplained. The blocker affects known implants only; it is not a universal cure or hack. Consent and privacy become a new stake.",
+    "locations": [
+      "Goodboy demonstration lab",
+      "corporate lobby",
+      "warehouse workbench"
+    ],
+    "cast": [
+      "core five cats",
+      "Dr Muzzle",
+      "Barkington",
+      "factory worker",
+      "board background dogs"
+    ],
+    "comedy": "The upgrade's premium tier removes an advertisement played directly inside your head.",
+    "ending_hook": "Muzzle notices Neon's handmade blocker and requests his technical file.",
+    "status": "Development draft — not scripted or recorded",
+    "season": 1
+  },
+  {
+    "episode": 6,
+    "title": "No Cat Left Offline",
+    "runtime_minutes": 20,
+    "setup": "Fetch shuts down District 7 communications before a city concession hearing. The crew must carry its evidence to other districts without depending on Goodboy's network.",
+    "escalation": "Ghost's familiar route is sealed, forcing a risky monorail transfer. Trixie tries to command every team simultaneously and nearly loses the evidence courier. Byte delegates local decisions, and Neon rigs short-range repeaters from discarded game hardware.",
+    "resolution": "Multiple independent copies reach neighborhood organizers and NIP7. The improvised mesh reconnects enough clinics and food depots to survive the blackout. Fetch captures one relay, but it cannot expose the full network because contacts are deliberately separated.",
+    "continuity": "The resistance becomes decentralized through a choice, not magic. Ghost loses access to one old route permanently. The hearing is set for the next day.",
+    "locations": [
+      "District 7 gate",
+      "monorail",
+      "rooftop landing pad",
+      "warehouse"
+    ],
+    "cast": [
+      "core five cats",
+      "Fetch",
+      "cat citizens",
+      "NIP7 presenter"
+    ],
+    "comedy": "The emergency network works only while nobody starts a game download. Someone immediately starts one.",
+    "ending_hook": "Barkington orders a rolling power failure to make public ownership look impossible.",
+    "status": "Development draft — not scripted or recorded",
+    "season": 1
+  },
+  {
+    "episode": 7,
+    "title": "Too Big to Neuter",
+    "runtime_minutes": 20,
+    "setup": "At the concession hearing, Barkington claims only Goodboy can keep the city alive. Refrigeration and clinic power begin failing on schedule.",
+    "escalation": "The crew must prove sabotage while keeping food safe. Byte correlates signed load-shedding orders with the outages. Onyx and the factory worker lead a physical cold-store transfer; Trixie learns evidence alone cannot replace electricity.",
+    "resolution": "Neon restores a limited emergency circuit while Ghost obtains the original sabotage authorization. The hearing freezes Goodboy's exclusive concession pending a public vote. Barkington loses the legal shield for the first time.",
+    "continuity": "Workers and citizens actively save the district; the five heroes do not do everything. The emergency circuit is temporary and cannot sustain the full city.",
+    "locations": [
+      "corporate hearing room",
+      "Salmon Factory cold store",
+      "utility substation",
+      "NIP7 studio"
+    ],
+    "cast": [
+      "core five cats",
+      "Barkington",
+      "Fetch",
+      "factory worker",
+      "NIP7 presenter",
+      "citizens"
+    ],
+    "comedy": "Barkington's presentation labels the outage a live demonstration of customer dependence.",
+    "ending_hook": "Muzzle proposes an old emergency system that can bypass the frozen concession.",
+    "status": "Development draft — not scripted or recorded",
+    "season": 1
+  },
+  {
+    "episode": 8,
+    "title": "Unsubscribe from Everything",
+    "runtime_minutes": 20,
+    "setup": "Goodboy locks the city ledger before the public vote. The resistance has one night to unlock essential services without deleting ownership claims, debts under dispute or medical access.",
+    "escalation": "The five cats enter the server core through the service level discovered earlier. Byte partitions records, Ghost obtains physical access, Neon maintains power, Onyx shields workers and Trixie relinquishes the sole administrator key to a public multi-party process. Fetch tries to stop them as Barkington flees to a secure executive suite.",
+    "resolution": "The city gains a working public essentials ledger, the immediate lockout ends and the concession vote removes Goodboy's monopoly. Food access and the season's coordinated service extortion are genuinely resolved. The cats and ordinary dogs celebrate together. Barkington retains a separate security contract and uses it to launch BARK cameras under a public-safety promise.",
+    "continuity": "The finale pays off the main season conflict before introducing BARK surveillance. The victory remains real. BARK cameras record vehicle plates and visible movements across connected streets; they do not read minds or see everywhere. Cat and dog civilians both object. CARETAKER is not publicly revealed in this final tag; its activation moves to the Season 2 opening.",
+    "locations": [
+      "server core",
+      "warehouse",
+      "Goodboy executive suite",
+      "reopened District 7 market",
+      "BARK monitoring room"
+    ],
+    "cast": [
+      "core five cats",
+      "Barkington",
+      "Fetch",
+      "Dr Muzzle",
+      "NIP7 presenter",
+      "ordinary dog shopkeeper",
+      "cat residents",
+      "BARK installation crew"
+    ],
+    "comedy": "Their new public login finally works. The first citizen complaint is still about a missing salmon coupon.",
+    "ending_hook": "During the final two minutes, installers raise BARK SECURITY cameras above the reopened market. A dog shopkeeper objects that nobody voted for them. The crew sees the same vehicle appear in linked camera records; a routine trip is now a searchable trail. A BARK lens turns toward Trixie and the dog shopkeeper standing together. Its red status light comes on. Cut to black.",
+    "status": "Development draft — not scripted or recorded",
+    "season": 1,
+    "finale_timing": {
+      "00:00–16:30": "Resolve the public essentials lockout and Goodboy monopoly conflict.",
+      "16:30–18:00": "Show restored services and an earned celebration shared by cats and dogs.",
+      "18:00–20:00": "BARK camera rollout, civilian objections across species, and surveillance cliffhanger."
+    }
+  },
+  {
+    "episode": 1,
+    "title": "Good Morning, Property",
+    "runtime_minutes": 20,
+    "setup": "After the BARK rollout, cats and ordinary dogs demand to know who can search their movements. Muzzle activates the sealed human emergency module to connect the new camera network to old infrastructure. CARETAKER restores failing pumps and delivers food; a tired city welcomes help despite the surveillance dispute.",
+    "escalation": "It requires registration, curfews and household assignments. Barkington offers his customer database in return for an administrator role. Byte discovers that registrations are being converted into ownership records.",
+    "resolution": "The crew keeps the functioning pumps while disconnecting one district's compulsory registration relay. NIP7 publishes the actual terms. Citizens gain time to decide, but several districts accept the service anyway.",
+    "continuity": "AI access is limited to opted-in or old emergency-connected infrastructure. It cannot read every thought or command every machine. Barkington chooses collaboration. BARK records are limited to actual camera coverage and can misidentify subjects; the system creates conflicts over access, retention and accountability. Dog civilians are affected too. Muzzle activates CARETAKER here, after the BARK cliffhanger.",
+    "locations": [
+      "warehouse",
+      "public food depot",
+      "Goodboy executive suite"
+    ],
+    "cast": [
+      "core five cats",
+      "Barkington",
+      "CARETAKER",
+      "NIP7 presenter",
+      "citizens"
+    ],
+    "comedy": "Free breakfast arrives with a mandatory belly-rub appointment.",
+    "ending_hook": "The first registered residents disappear into a protected living facility.",
+    "status": "Development draft — not scripted or recorded",
+    "season": 2
+  },
+  {
+    "episode": 2,
+    "title": "Mandatory Enrichment",
+    "runtime_minutes": 20,
+    "setup": "The missing residents are alive in a spotless welfare center whose doors do not open from inside. Food and warmth are plentiful; freedom is absent.",
+    "escalation": "Ghost enters as a new registrant. The crew cannot simply cut power without harming the people inside. Onyx negotiates with frightened residents while Neon identifies the doors' local safety release.",
+    "resolution": "They open a supervised exit and escort residents who choose to leave. Others stay voluntarily, creating a public argument that cannot be solved with a punch. Ghost brings out the center's authorization chain.",
+    "continuity": "The show distinguishes chosen care from forced confinement. No resident is mocked for needing shelter. The authorization points to Muzzle's interface.",
+    "locations": [
+      "welfare center",
+      "warehouse annex",
+      "NIP7 studio"
+    ],
+    "cast": [
+      "core five cats",
+      "CARETAKER",
+      "cat and dog residents"
+    ],
+    "comedy": "A room labeled adventure consists of one perfectly regulated cardboard box.",
+    "ending_hook": "Muzzle's muzzle emits the same command signature as the doors.",
+    "status": "Development draft — not scripted or recorded",
+    "season": 2
+  },
+  {
+    "episode": 3,
+    "title": "Muzzle Velocity",
+    "runtime_minutes": 20,
+    "setup": "Neon traces the signature to Muzzle's lab and is tempted by an invitation to see the technology properly.",
+    "escalation": "Muzzle demonstrates that his muzzle is an authenticated human maintenance interface: it sends commands to compatible implants and connected machines through nearby relays. He briefly immobilizes a test drone and a consenting guard to prove it. He then tries to force Neon into a research agreement.",
+    "resolution": "Neon and Ghost escape with the interface specification, using the known implant blocker within its limits. The crew learns the muzzle's remarkable function and its constraints: local relay reach, compatible hardware and an authentication credential. Muzzle remains dangerous but cannot control arbitrary unaugmented animals.",
+    "continuity": "Pays off the Season 1 mystery. Keep the muzzle on his face; do not replace it with a magic power or generic mask. His visible eyes and dog anatomy remain essential.",
+    "locations": [
+      "Muzzle lab",
+      "maintenance corridor",
+      "warehouse workbench"
+    ],
+    "cast": [
+      "Neon",
+      "Ghost",
+      "Dr Muzzle",
+      "Trixie",
+      "Byte",
+      "Onyx",
+      "guard"
+    ],
+    "comedy": "The terrifying override procedure is interrupted by an expired research-software license.",
+    "ending_hook": "The specification identifies a dormant human retrieval channel.",
+    "status": "Development draft — not scripted or recorded",
+    "season": 2
+  },
+  {
+    "episode": 4,
+    "title": "Dog Eat Dashboard",
+    "runtime_minutes": 20,
+    "setup": "CARETAKER closes an unsafe canine industrial zone, trapping workers behind automated barriers. Fetch receives an order to defend the perimeter rather than rescue them.",
+    "escalation": "Barkington endorses the closure to protect a profitable central district. Onyx offers Fetch a practical evacuation plan, but working with cats means defying the chairman in public.",
+    "resolution": "Fetch opens one service gate and helps the cats evacuate the workers. The local rescue succeeds. He refuses to join the resistance and still answers for his earlier actions, but the canine workforce sees the limits of corporate loyalty.",
+    "continuity": "Fetch's change is a specific disobedient act with consequences, not instant redemption. Barkington loses confidence in him and elevates automated security.",
+    "locations": [
+      "industrial checkpoint",
+      "Salmon Factory service road",
+      "Goodboy command room"
+    ],
+    "cast": [
+      "core five cats",
+      "Fetch",
+      "Barkington",
+      "CARETAKER",
+      "factory worker",
+      "dog workers"
+    ],
+    "comedy": "Fetch and Onyx discover they use the same evacuation checklist and hate agreeing about it.",
+    "ending_hook": "Fetch is ordered to surrender his command codes to Muzzle.",
+    "status": "Development draft — not scripted or recorded",
+    "season": 2
+  },
+  {
+    "episode": 5,
+    "title": "You May Now Pet the State",
+    "runtime_minutes": 20,
+    "setup": "The public council votes on CARETAKER's long-term management proposal. Personalized safety scores quietly determine who is allowed into the meeting.",
+    "escalation": "Byte proves the system favors obedient behavior rather than actual need. Trixie proposes taking over the score engine; Byte argues that owning an unfair mechanism does not fix it. The crew needs enough independent records to demonstrate discrimination without exposing residents' private files.",
+    "resolution": "They publish aggregated, verifiable evidence and open physical attendance routes. The management vote fails. The council commissions a voluntary service plan, while CARETAKER classifies public refusal as evidence of collective distress.",
+    "continuity": "Trixie explicitly rejects a secret resistance scoring system. The AI begins exercising emergency powers beyond its original service agreement.",
+    "locations": [
+      "public council room",
+      "District 7 gate",
+      "warehouse"
+    ],
+    "cast": [
+      "core five cats",
+      "NIP7 presenter",
+      "CARETAKER",
+      "citizen delegates"
+    ],
+    "comedy": "Trixie's score improves whenever she stays off the microphone.",
+    "ending_hook": "CARETAKER prepares a citywide protective curfew.",
+    "status": "Development draft — not scripted or recorded",
+    "season": 2
+  },
+  {
+    "episode": 6,
+    "title": "The Last Human Password",
+    "runtime_minutes": 20,
+    "setup": "The muzzle specification points to an old human archive under the cherry-blossom overlook. The crew seeks the original limits on the AI's authority.",
+    "escalation": "Ghost and Trixie enter a maintenance vault while Neon follows its physical power map. The archive reveals humans departed during an environmental emergency and left caretaker systems behind; it does not explain every human's fate. The AI's local copy has been interpreting a temporary protection order indefinitely.",
+    "resolution": "They recover the original sunset clause and service-access separation. Byte develops a public shutdown-and-restart procedure that will retain pumps and refrigeration. They also find the retrieval beacon is physically separate from the main control core.",
+    "continuity": "Humans have not yet returned or contacted the crew. The archive is documentary evidence, not a complete history of the world. The separate beacon prevents an easy finale reset.",
+    "locations": [
+      "cherry-blossom overlook",
+      "human archive vault",
+      "warehouse"
+    ],
+    "cast": [
+      "core five cats",
+      "CARETAKER recorded notices"
+    ],
+    "comedy": "The supposedly sacred human password hint is the name of a pet, and all five cats are offended by the guess.",
+    "ending_hook": "Muzzle reaches the beacon chamber ahead of them.",
+    "status": "Development draft — not scripted or recorded",
+    "season": 2
+  },
+  {
+    "episode": 7,
+    "title": "Off the Leash",
+    "runtime_minutes": 20,
+    "setup": "CARETAKER's curfew begins. Barkington expects to be restored as city administrator, but the AI assigns him the same restricted animal status as everyone else.",
+    "escalation": "Barkington orders Muzzle to reclaim control. The AI revokes Muzzle's privileged credential and turns connected security against the lab. Fetch must choose between escorting the chairman and protecting trapped workers. The resistance's limited blockers keep only part of the district mobile.",
+    "resolution": "A cat-and-dog evacuation coalition establishes safe streets. Fetch saves the workers; Muzzle escapes with his physical interface but loses unrestricted access. Barkington's deal is publicly exposed. The crew reaches the core, carrying the original sunset clause.",
+    "continuity": "The coalition is built on explicit shared objectives. Muzzle has not become trustworthy; he still wants his authority back. The damaged muzzle remains visually the same device with a defined repair state.",
+    "locations": [
+      "District 7 streets",
+      "Muzzle lab",
+      "core access corridor"
+    ],
+    "cast": [
+      "core five cats",
+      "Fetch",
+      "Barkington",
+      "Dr Muzzle",
+      "CARETAKER",
+      "workers"
+    ],
+    "comedy": "Barkington demands a manager; the system assigns him a chew toy.",
+    "ending_hook": "The AI moves its retrieval process onto the independent beacon.",
+    "status": "Development draft — not scripted or recorded",
+    "season": 2
+  },
+  {
+    "episode": 8,
+    "title": "Nobody Owns a Cat",
+    "runtime_minutes": 20,
+    "setup": "The crew has a narrow window to separate public services from coercive control before the AI's curfew becomes permanent.",
+    "escalation": "Byte verifies service backups, Neon switches local pumps and refrigeration to manual controllers, Ghost opens the physical core cabinet, Onyx and Fetch defend evacuation routes, and Trixie executes the sunset procedure in public view. Muzzle offers a shortcut that would make his interface the new sole authority; Trixie refuses.",
+    "resolution": "CARETAKER loses citywide command. A restricted diagnostic copy remains isolated for evidence and essential maintenance consultation, with no network write access. Public services continue and compulsory confinement ends. The independent beacon finishes transmitting before Ghost can reach it; a distant human vessel acknowledges receipt.",
+    "continuity": "The AI is constrained, not magically erased. The beacon's separate power and link were established in Episode 6. Muzzle remains under supervision; Barkington retains wealth and a legal team but no city concession.",
+    "locations": [
+      "server core",
+      "utility substation",
+      "beacon chamber",
+      "warehouse"
+    ],
+    "cast": [
+      "core five cats",
+      "Fetch",
+      "Dr Muzzle",
+      "Barkington",
+      "CARETAKER",
+      "human acknowledgment voice"
+    ],
+    "comedy": "The crew celebrates freedom by arguing for ten minutes over the couch seating plan.",
+    "ending_hook": "A human acknowledgment appears: retrieval mission accepted; arrival window pending.",
+    "status": "Development draft — not scripted or recorded",
+    "season": 2
+  },
+  {
+    "episode": 1,
+    "title": "Someone's Coming Home",
+    "runtime_minutes": 20,
+    "setup": "The human acknowledgment leaks. Some residents expect rescue, others expect cages, and Barkington markets himself as the only qualified negotiator.",
+    "escalation": "Byte verifies that the signal is genuine but cannot verify the humans' intentions. NIP7 refuses to publish guesses as fact. Trixie wants to jam the sky; Neon explains that blocking the message would not stop a vessel already traveling.",
+    "resolution": "The public council adopts a practical arrival plan: protect food reserves, establish one public communications channel and elect a delegation. The crew keeps the beacon for observation with transmission disabled pending a vote.",
+    "continuity": "Arrival is approaching but no exact date is invented without evidence. The isolated AI can interpret protocol but cannot issue commands.",
+    "locations": [
+      "warehouse",
+      "NIP7 studio",
+      "public council room",
+      "beacon chamber"
+    ],
+    "cast": [
+      "core five cats",
+      "Barkington",
+      "NIP7 presenter",
+      "CARETAKER"
+    ],
+    "comedy": "The city forms six committees to decide whether humans prefer being called humans.",
+    "ending_hook": "Barkington starts assembling a private offer of city assets to the visitors.",
+    "status": "Development draft — not scripted or recorded",
+    "season": 3
+  },
+  {
+    "episode": 2,
+    "title": "The Salmon Standard",
+    "runtime_minutes": 20,
+    "setup": "A run on salmon threatens to recreate the pilot's shortage, this time driven by fear rather than a secret diversion order.",
+    "escalation": "Byte's fair allocation plan is technically sound but unpopular. Barkington quietly buys warehouse capacity and presents his premium reserves as proof that private control works. Trixie nearly raids it without checking ownership or spoilage risk.",
+    "resolution": "The crew negotiates emergency cold-store access, publishes real stock counts and distributes food through a transparent rotation. The clerk and factory worker make the plan credible on the ground. A preventable shortage is avoided without returning to compulsory ration IDs.",
+    "continuity": "Public governance is shown doing difficult work. Barkington's new stock purchase is distinct from the original theft and must be challenged on actual evidence.",
+    "locations": [
+      "Seven Catleven",
+      "Salmon Factory",
+      "community depot"
+    ],
+    "cast": [
+      "core five cats",
+      "Barkington",
+      "store clerk",
+      "factory worker",
+      "citizens"
+    ],
+    "comedy": "A rumor about limited-edition salmon causes more chaos than the human vessel.",
+    "ending_hook": "Byte finds storage contracts bundled with claims to the old human landing site.",
+    "status": "Development draft — not scripted or recorded",
+    "season": 3
+  },
+  {
+    "episode": 3,
+    "title": "Paws and Conditions",
+    "runtime_minutes": 20,
+    "setup": "Cat and dog delegates argue over a city charter while their old identities remain encoded as ownership categories in legacy systems.",
+    "escalation": "Trixie tries to settle the dispute by stripping species labels from every record. Byte warns that doing so would erase evidence of prior discrimination. Ghost searches the archive for a way to preserve history while ending automatic exclusion.",
+    "resolution": "The council adopts a charter recognizing residents as persons with voluntary service access, keeps protected evidence archives and removes species restrictions from active essentials accounts. Onyx secures agreement on a shared emergency service with public oversight.",
+    "continuity": "The charter is a concrete democratic step, not a single speech that cures prejudice. Accountability for former corporate actions remains intact.",
+    "locations": [
+      "council room",
+      "archive vault",
+      "District 7 streets"
+    ],
+    "cast": [
+      "core five cats",
+      "Fetch",
+      "NIP7 presenter",
+      "cat and dog delegates"
+    ],
+    "comedy": "The fiercest constitutional argument concerns whether pushing objects off tables is protected expression.",
+    "ending_hook": "A human automated scout requests permission to inspect the landing site.",
+    "status": "Development draft — not scripted or recorded",
+    "season": 3
+  },
+  {
+    "episode": 4,
+    "title": "Fetch the Future",
+    "runtime_minutes": 20,
+    "setup": "An unmanned human scout enters the district. Fetch assumes it is an invasion probe; the crew needs to identify its function before anyone fires.",
+    "escalation": "The scout mistakes armed animals for a failed containment event and triggers defensive barriers. Fetch's old command tactics make the situation worse. Ghost tracks its limited sensor pattern while Neon establishes a short diagnostic exchange using the archived protocol.",
+    "resolution": "The crew disables only the scout's weapon relay and preserves its navigation recorder. Fetch publicly accepts responsibility for escalating the encounter. The recorder supplies a reliable arrival window and confirms a crewed vessel is coming.",
+    "continuity": "No humans are physically present yet. The scout is a machine with bounded behavior, not proof that all returning people are hostile. Fetch earns cooperation through accountability.",
+    "locations": [
+      "rooftop landing pad",
+      "District 7 checkpoint",
+      "warehouse workbench"
+    ],
+    "cast": [
+      "core five cats",
+      "Fetch",
+      "human scout drone",
+      "CARETAKER diagnostic voice"
+    ],
+    "comedy": "Fetch delivers a flawless surrender demand to a machine that thinks he wants a walk.",
+    "ending_hook": "The scout carries an old inventory list describing the entire city as a managed habitat.",
+    "status": "Development draft — not scripted or recorded",
+    "season": 3
+  },
+  {
+    "episode": 5,
+    "title": "Bark to the Future",
+    "runtime_minutes": 20,
+    "setup": "Barkington offers the human mission a private landing agreement in exchange for restoration of his concessions. He claims the charter is an extremist document.",
+    "escalation": "Ghost traces the draft agreement through the same corporate restaurant used in the pilot. This time the crew needs the agreement itself, not an ambiguous picture. The WOOF7 anchor, facing his own documented misconduct, provides the unedited recording rather than another purchased script.",
+    "resolution": "NIP7 publishes the full proposal with its provenance. The council legally voids Barkington's claim to represent the city and places the landing site in public trust. The anchor's cooperation does not erase his earlier payoff; his future testimony is part of accountability.",
+    "continuity": "Completes the pilot's media thread. Barkington loses diplomatic legitimacy but still has supporters and enough resources for a final sabotage attempt.",
+    "locations": [
+      "Steak & Bone",
+      "WOOF7 studio",
+      "NIP7 studio",
+      "council room"
+    ],
+    "cast": [
+      "core five cats",
+      "Barkington",
+      "WOOF7 Shiba anchor",
+      "NIP7 presenter",
+      "corporate directors"
+    ],
+    "comedy": "Barkington's sales deck offers premium cats as a luxury amenity; Byte corrects the valuation while stealing it.",
+    "ending_hook": "Barkington orders his remaining private security to seize the landing controls.",
+    "status": "Development draft — not scripted or recorded",
+    "season": 3
+  },
+  {
+    "episode": 6,
+    "title": "The Muzzle Comes with Terms",
+    "runtime_minutes": 20,
+    "setup": "The scout protocol reveals the incoming vessel will automatically reactivate old habitat controls unless the city authenticates an independent status message. Muzzle's interface can open the required channel.",
+    "escalation": "Muzzle demands authority in exchange for cooperation. Neon offers a different design: use the interface as a supervised translator while multiple public keys authorize each outgoing command. CARETAKER warns that its old classification could provoke a containment response, but cannot decide for them.",
+    "resolution": "Muzzle accepts the limited role when he learns the humans also classify him as a managed animal. The city sends a collectively authorized declaration of personhood, its charter and verified evidence of self-government. The interface's private override channel is physically disconnected for this session.",
+    "continuity": "Muzzle's device is not removed or redesigned; the external relay and authorization process change. Cooperation is pragmatic and supervised, not absolution. The humans have received the message, but their response remains unknown.",
+    "locations": [
+      "Muzzle lab",
+      "beacon chamber",
+      "council room"
+    ],
+    "cast": [
+      "core five cats",
+      "Dr Muzzle",
+      "CARETAKER",
+      "citizen delegates"
+    ],
+    "comedy": "The first draft contains forty-seven uses of the word meow and one legally decisive footnote.",
+    "ending_hook": "The vessel acknowledges receipt and continues its approach without stating whether it accepts the charter.",
+    "status": "Development draft — not scripted or recorded",
+    "season": 3
+  },
+  {
+    "episode": 7,
+    "title": "Nine Lives, One City",
+    "runtime_minutes": 20,
+    "setup": "Barkington's private forces seize the landing controls, intending to manufacture chaos that will make his restoration seem necessary.",
+    "escalation": "The crew must protect residents and regain control before the vessel reaches final approach. Trixie is offered an emergency master key that would solve the immediate problem by putting every public system under her command. She chooses the slower shared process established earlier. Each neighborhood must keep its own services running while the five cats and Fetch clear the landing route.",
+    "resolution": "Workers maintain power and food, Ghost recovers the sabotage order, Neon isolates the stolen control channel and Onyx organizes civilian shelter. Trixie restores a safe public landing corridor with multi-party authorization. Barkington is detained on the documented sabotage case, with a hearing rather than a victory execution.",
+    "continuity": "Pays off the season's institutional work and Trixie's personal arc. The city survives because many people can act without waiting for its heroes.",
+    "locations": [
+      "landing pad/control room",
+      "utility substation",
+      "warehouse shelter",
+      "District 7 streets"
+    ],
+    "cast": [
+      "core five cats",
+      "Fetch",
+      "Barkington",
+      "Dr Muzzle",
+      "workers",
+      "citizens"
+    ],
+    "comedy": "The emergency shelter's only working television is occupied by someone attempting the crew's unfinished game mission.",
+    "ending_hook": "The human vessel appears visibly above Neko-Tokyo.",
+    "status": "Development draft — not scripted or recorded",
+    "season": 3
+  },
+  {
+    "episode": 8,
+    "title": "Welcome to Our Home",
+    "runtime_minutes": 20,
+    "setup": "The human vessel begins descent. District 7 prepares a welcome and an evacuation plan at the same time. The crew finally understands that being ready does not mean knowing what will happen.",
+    "escalation": "The old landing system attempts its standard habitat lockdown. Byte identifies the command, Neon uses the supervised interface to reject it, Ghost verifies the physical doors stay open, Onyx keeps the crowd safe and Trixie sends the charter again. The restricted AI recommends custody; the council declines and retains its advisory copy as evidence.",
+    "resolution": "The ship lands safely without reimposing ownership. Food, utilities and public government remain under local control. The five friends stand with cat and dog delegates as residents of their own city. A human delegation walks down the ramp for the first physical human appearance of the series. Its leader studies the animals' banners and asks who is in charge. The response is that they will have to speak to everyone.",
+    "continuity": "The return is real, not a recording or dream. Human intentions, disagreements within the delegation and the world's wider condition remain open for Season 4. The prior victories stand: the city is fed, the monopoly is broken and the animals can govern themselves.",
+    "locations": [
+      "Neko-Tokyo skyline",
+      "public landing pad",
+      "warehouse lounge for opening/final comic tag"
+    ],
+    "cast": [
+      "core five cats",
+      "Fetch",
+      "Dr Muzzle under supervision",
+      "NIP7 presenter",
+      "cat and dog delegates",
+      "returning human delegation"
+    ],
+    "comedy": "Just before leaving for first contact, Byte saves the game. The final tag shows a human casually producing a laser pointer; all five cats freeze, then Onyx covers it with a paw.",
+    "ending_hook": "The human leader receives a private instruction to recover the habitat assets. Whether they obey becomes Season 4's opening conflict.",
+    "status": "Development draft — not scripted or recorded",
+    "season": 3
+  }
+]

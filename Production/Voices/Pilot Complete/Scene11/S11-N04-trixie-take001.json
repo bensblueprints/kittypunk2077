@@ -1,0 +1,21 @@
+{
+  "line_id": "S11-N04",
+  "scene": 11,
+  "role_id": "trixie",
+  "text": "That is Barkington. The entourage came in the limousine. Keep the plate in the recording.",
+  "voice_id": "dmWfLQZJq7wNPv9WmtiM",
+  "voice_name": "Emma — Wry, Gritty Hero",
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.35,
+    "similarity_boost": 0.8,
+    "style": 0.55,
+    "use_speaker_boost": true
+  },
+  "duration_sec": 5.15483,
+  "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Voices\\Pilot Complete\\Scene11\\S11-N04-trixie-take001.mp3",
+  "sha256": "ad8269894cac3ce05c1f6abeb95c179c821c363fc3d84a2837ea45ec9107ddb7",
+  "request_id": "jAAwVNoox9FCxo7CMMh2",
+  "provider_character_cost": "20",
+  "status": "review_take_not_yet_approved"
+}

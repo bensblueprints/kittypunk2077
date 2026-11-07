@@ -1,0 +1,10 @@
+{
+  "model": "wan-3.0-prime",
+  "duration_sec": 8,
+  "resolution": "1080p",
+  "aspect_ratio": "16:9",
+  "input_images": [
+    "https://kittypunk.144.76.78.158.sslip.io/generation-input/838fac350ffd8091ebe0c673d534148c6894f5b288fce67bfe4c1ab7334123b1/rear.jpg"
+  ],
+  "prompt": "KittyPunk2077 cinematic tactile 3D animated film. Reference image defines exact character identities, wardrobe and set. Locked rear living-room shot with exactly five cats as reference: left to right Neon cyan, Onyx black violet, Trixie white magenta, Byte orange, Ghost green hood. They all lean in slightly and resume controller play, relaxed competitive gestures. Inside TV GLASS ONLY, gameplay restarts the neon bank car chase. Game camera and cars remain entirely inside screen, TV shell/knobs never change. Last second the in-screen gameplay briefly freezes with a subtle static flicker to lead into an interruption. No news image yet, no dialogue, no subtitles, no sixth cat. No cuts or camera move. No added dialogue, narration, music, subtitles, titles or new characters. Preserve reference art quality. This clip will be trimmed at the end to exact editorial duration."
+}

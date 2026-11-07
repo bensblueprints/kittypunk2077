@@ -1,0 +1,21 @@
+{
+  "line_id": "S02-N05",
+  "scene": 2,
+  "role_id": "onyx",
+  "text": "They can fix every television at once, but not the lift in our building.",
+  "voice_id": "uq0HIbNZKn11Hs5ifEdd",
+  "voice_name": "Harry — Fierce Warrior",
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.5,
+    "similarity_boost": 0.75,
+    "style": 0.15,
+    "use_speaker_boost": true
+  },
+  "duration_sec": 3.808073,
+  "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Voices\\Pilot Complete\\Scene02\\S02-N05-onyx-take001.mp3",
+  "sha256": "8bef8ea9852b7eac385107f81a6b83a7b1bbb8a37a6d3f12236076038a79063c",
+  "request_id": "dZrCPZ6wOI6hKPzrSuU9",
+  "provider_character_cost": "16",
+  "status": "review_take_not_yet_approved"
+}

@@ -1,0 +1,56 @@
+{
+  "scene": 22,
+  "duration_seconds": 26.502312925170067,
+  "target_scene_seconds": 35,
+  "placements": [
+    {
+      "line_id": "S22-N01",
+      "start": 0.0,
+      "end": 2.9257142857142857,
+      "text": "Dispatch stopped. Cooling stays on. Temperature is stable."
+    },
+    {
+      "line_id": "S22-D01",
+      "start": 3.2257142857142855,
+      "end": 4.7582312925170065,
+      "text": "Corporate routing disabled."
+    },
+    {
+      "line_id": "S22-N02",
+      "start": 5.058231292517007,
+      "end": 10.166621315192744,
+      "text": "Original logs preserved. Public copies include the truck numbers and cancelled orders."
+    },
+    {
+      "line_id": "S22-D02",
+      "start": 10.466621315192743,
+      "end": 12.184897959183674,
+      "text": "Shipping records released."
+    },
+    {
+      "line_id": "S22-N03",
+      "start": 12.484897959183673,
+      "end": 17.128888888888888,
+      "text": "Release the already-loaded trucks first. Do not leave fresh stock waiting outside."
+    },
+    {
+      "line_id": "S22-N04",
+      "start": 17.42888888888889,
+      "end": 21.79424036281179,
+      "text": "District Seven delivery accepted. The other neglected districts are next in the queue."
+    },
+    {
+      "line_id": "S22-D03",
+      "start": 22.094240362811792,
+      "end": 23.951836734693877,
+      "text": "Salmon is going back to the cats!"
+    },
+    {
+      "line_id": "S22-D04",
+      "start": 24.251836734693878,
+      "end": 26.20231292517007,
+      "text": "Now that's what I call a hostile takeover."
+    }
+  ],
+  "status": "dialogue review assembly, not final soundtrack"
+}

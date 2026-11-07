@@ -1,0 +1,21 @@
+{
+  "line_id": "S13-D05",
+  "scene": 13,
+  "role_id": "ghost",
+  "text": "That's why I'm good.",
+  "voice_id": "7fBwqIVI6wI1B4MuKqQi",
+  "voice_name": "Austin — Upbeat",
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.5,
+    "similarity_boost": 0.75,
+    "style": 0.15,
+    "use_speaker_boost": true
+  },
+  "duration_sec": 1.393197,
+  "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Voices\\Pilot Complete\\Scene13\\S13-D05-ghost-take001.mp3",
+  "sha256": "a30e4eea07a0f67523d303d82a9d745df619c1e9b6f692844b82cb6c6d1bf499",
+  "request_id": "ST4mDSyUWO3ApJyR9Vf5",
+  "provider_character_cost": "4",
+  "status": "review_take_not_yet_approved"
+}

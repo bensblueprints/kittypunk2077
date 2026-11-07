@@ -1,0 +1,21 @@
+{
+  "line_id": "S24-D03",
+  "scene": 24,
+  "role_id": "neon",
+  "text": "At least nobody can interrupt us now.",
+  "voice_id": "4e32WqNVWRquDa1OcRYZ",
+  "voice_name": "Ryan — Product Reviewer",
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.5,
+    "similarity_boost": 0.75,
+    "style": 0.15,
+    "use_speaker_boost": true
+  },
+  "duration_sec": 2.089796,
+  "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Voices\\Pilot Complete\\Scene24\\S24-D03-neon-take001.mp3",
+  "sha256": "9b494e6c3c79d94f3e1582d1ded2a7051522f4071e49263b8f72dd92871c5b59",
+  "request_id": "dyZmFVOSOdYtUwbK1PJu",
+  "provider_character_cost": "8",
+  "status": "review_take_not_yet_approved"
+}

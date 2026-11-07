@@ -1,0 +1,21 @@
+{
+  "line_id": "S19-N03",
+  "scene": 19,
+  "role_id": "trixie",
+  "text": "Save the records. We verify the trucks at the gate, then get that food moving.",
+  "voice_id": "dmWfLQZJq7wNPv9WmtiM",
+  "voice_name": "Emma — Wry, Gritty Hero",
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.35,
+    "similarity_boost": 0.8,
+    "style": 0.55,
+    "use_speaker_boost": true
+  },
+  "duration_sec": 4.040272,
+  "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Voices\\Pilot Complete\\Scene19\\S19-N03-trixie-take001.mp3",
+  "sha256": "093b9642399b831b61209e390eda94d813277c080af1526a09ddb9817228611b",
+  "request_id": "Vv2T1YNWJYIgluMdAtOs",
+  "provider_character_cost": "17",
+  "status": "review_take_not_yet_approved"
+}

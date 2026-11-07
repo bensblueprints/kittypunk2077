@@ -1,0 +1,21 @@
+{
+  "line_id": "S21-N04",
+  "scene": 21,
+  "role_id": "trixie",
+  "text": "Keep it away from the tanks. Byte, get the truck routes.",
+  "voice_id": "dmWfLQZJq7wNPv9WmtiM",
+  "voice_name": "Emma — Wry, Gritty Hero",
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.35,
+    "similarity_boost": 0.8,
+    "style": 0.55,
+    "use_speaker_boost": true
+  },
+  "duration_sec": 3.715193,
+  "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Voices\\Pilot Complete\\Scene21\\S21-N04-trixie-take001.mp3",
+  "sha256": "c28027bb3323f5dad6d4c057bada2eb08f91f6a73fa9acddf0a88e54eaef7f6f",
+  "request_id": "NzzXTlJc61UnxbhPoz3b",
+  "provider_character_cost": "12",
+  "status": "review_take_not_yet_approved"
+}

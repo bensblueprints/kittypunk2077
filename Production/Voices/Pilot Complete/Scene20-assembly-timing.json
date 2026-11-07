@@ -1,0 +1,44 @@
+{
+  "scene": 20,
+  "duration_seconds": 19.122086167800454,
+  "target_scene_seconds": 35,
+  "placements": [
+    {
+      "line_id": "S20-N01",
+      "start": 0.0,
+      "end": 3.1579138321995464,
+      "text": "The plate matches. That is the truck from the dispatch record."
+    },
+    {
+      "line_id": "S20-D01",
+      "start": 3.4579138321995466,
+      "end": 5.129750566893424,
+      "text": "They've been sitting on our food."
+    },
+    {
+      "line_id": "S20-D02",
+      "start": 5.429750566893424,
+      "end": 7.333786848072562,
+      "text": "Technically, they've been shipping it."
+    },
+    {
+      "line_id": "S20-D03",
+      "start": 7.633786848072562,
+      "end": 8.701904761904762,
+      "text": "Not helping, Byte."
+    },
+    {
+      "line_id": "S20-N02",
+      "start": 9.001904761904761,
+      "end": 14.34249433106576,
+      "text": "Standing robot dogs on the floor. Red visors. They patrol the line and respond to the alarm."
+    },
+    {
+      "line_id": "S20-N03",
+      "start": 14.642494331065759,
+      "end": 18.822086167800453,
+      "text": "No one touches the cooling system. We need the fish fresh, and the workers clear."
+    }
+  ],
+  "status": "dialogue review assembly, not final soundtrack"
+}

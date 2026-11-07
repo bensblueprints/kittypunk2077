@@ -43,5 +43,16 @@
     "Catnip Times": "cat resistance / purple-black",
     "cross_reading": "both factions sometimes read or mock the other publication"
   },
-  "district_lore": "../district-lore-and-businesses.md"
+  "district_lore": "../district-lore-and-businesses.md",
+  "bark_security": {
+    "placement_assumption": "Season 1 finale; pilot unchanged",
+    "user_direction": "Resolve the main dog conflict, then introduce BARK cameras opposed by cats and ordinary dogs.",
+    "inspiration": "Fictional street surveillance network inspired by the user's Flock-camera comparison.",
+    "story_rule": "Preserve the earned victory; civilian dogs are not uniformly aligned with Barkington.",
+    "draft_final_exchange": [
+      "Dog shopkeeper: I thought we voted to get our streets back.",
+      "Trixie: We did.",
+      "Byte: Then why does that camera already know where you've been?"
+    ]
+  }
 }

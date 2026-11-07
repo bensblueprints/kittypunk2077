@@ -1,0 +1,21 @@
+{
+  "line_id": "S13-D01",
+  "scene": 13,
+  "role_id": "byte",
+  "text": "You have forty seconds before patrol returns.",
+  "voice_id": "wo6udizrrtpIxWGp2qJk",
+  "voice_name": "Northern Terry",
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.5,
+    "similarity_boost": 0.75,
+    "style": 0.15,
+    "use_speaker_boost": true
+  },
+  "duration_sec": 2.368435,
+  "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Voices\\Pilot Complete\\Scene13\\S13-D01-byte-take001.mp3",
+  "sha256": "e45438d7534d9d692a6ad3d5773c5c6aa3fffb95c7d86bf07fa3f8bc718890bc",
+  "request_id": "VLVDakEbZYxwFEuQem2x",
+  "provider_character_cost": "10",
+  "status": "review_take_not_yet_approved"
+}

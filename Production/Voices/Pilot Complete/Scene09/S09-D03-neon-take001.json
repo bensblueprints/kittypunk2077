@@ -1,0 +1,21 @@
+{
+  "line_id": "S09-D03",
+  "scene": 9,
+  "role_id": "neon",
+  "text": "The same network telling everyone to panic-buy salmon.",
+  "voice_id": "4e32WqNVWRquDa1OcRYZ",
+  "voice_name": "Ryan — Product Reviewer",
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.5,
+    "similarity_boost": 0.75,
+    "style": 0.15,
+    "use_speaker_boost": true
+  },
+  "duration_sec": 3.204354,
+  "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Voices\\Pilot Complete\\Scene09\\S09-D03-neon-take001.mp3",
+  "sha256": "b899d5483b8c29d44e092474a914ad53ecbd1c567e080efa5075f94d68806f88",
+  "request_id": "bOMfdiOpkOg9BFYquxF5",
+  "provider_character_cost": "12",
+  "status": "review_take_not_yet_approved"
+}

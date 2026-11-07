@@ -1,0 +1,21 @@
+{
+  "line_id": "S21-N02",
+  "scene": 21,
+  "role_id": "neon",
+  "text": "Dispatch terminal here. Refrigeration is on a separate circuit.",
+  "voice_id": "4e32WqNVWRquDa1OcRYZ",
+  "voice_name": "Ryan — Product Reviewer",
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.5,
+    "similarity_boost": 0.75,
+    "style": 0.15,
+    "use_speaker_boost": true
+  },
+  "duration_sec": 3.575873,
+  "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Voices\\Pilot Complete\\Scene21\\S21-N02-neon-take001.mp3",
+  "sha256": "625e36a188113e5447c2e9e19459c1530a57251330ee6813c95ea0edff574e45",
+  "request_id": "zAPo1ufji2eGGgOL3azv",
+  "provider_character_cost": "14",
+  "status": "review_take_not_yet_approved"
+}

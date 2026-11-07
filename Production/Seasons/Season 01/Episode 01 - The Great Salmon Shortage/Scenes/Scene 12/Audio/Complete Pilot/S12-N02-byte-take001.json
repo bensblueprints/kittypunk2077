@@ -1,0 +1,21 @@
+{
+  "line_id": "S12-N02",
+  "scene": 12,
+  "role_id": "byte",
+  "text": "Camera is looking at the alley. You have your opening.",
+  "voice_id": "wo6udizrrtpIxWGp2qJk",
+  "voice_name": "Northern Terry",
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.5,
+    "similarity_boost": 0.75,
+    "style": 0.15,
+    "use_speaker_boost": true
+  },
+  "duration_sec": 2.647075,
+  "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Voices\\Pilot Complete\\Scene12\\S12-N02-byte-take001.mp3",
+  "sha256": "2a6946b7672583be50e095c8c7f016bc9b2254aa1296616dd217929db7d85e0c",
+  "request_id": "jDud27YXGdUKEber5orv",
+  "provider_character_cost": "12",
+  "status": "review_take_not_yet_approved"
+}

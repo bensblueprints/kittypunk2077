@@ -1,0 +1,20 @@
+{
+  "id": "FX12-security-alarm",
+  "scenes": [
+    16,
+    21
+  ],
+  "request": {
+    "text": "Industrial security alarm, measured alternating electronic warning tones in a concrete corridor, distant heavy boot footsteps. No speech, no music.",
+    "duration_seconds": 10,
+    "loop": true,
+    "prompt_influence": 0.45,
+    "model_id": "eleven_text_to_sound_v2"
+  },
+  "status": "completed",
+  "created": "2026-11-07T01:14:12.223727+00:00",
+  "bytes": 160957,
+  "sha256": "260981e848088d93600e1746de3718404c348de9bdce046a6ca6be8ced00e279",
+  "character_cost": "55",
+  "request_id": null
+}

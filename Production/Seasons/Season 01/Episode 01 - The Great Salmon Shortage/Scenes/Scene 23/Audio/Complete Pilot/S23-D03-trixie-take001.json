@@ -1,0 +1,21 @@
+{
+  "line_id": "S23-D03",
+  "scene": 23,
+  "role_id": "trixie",
+  "text": "We saved dinner.",
+  "voice_id": "dmWfLQZJq7wNPv9WmtiM",
+  "voice_name": "Emma — Wry, Gritty Hero",
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.35,
+    "similarity_boost": 0.8,
+    "style": 0.55,
+    "use_speaker_boost": true
+  },
+  "duration_sec": 1.160998,
+  "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Voices\\Pilot Complete\\Scene23\\S23-D03-trixie-take001.mp3",
+  "sha256": "b785a62c44c27ece37d80e043abdeb2aca2ec37d352ea97a6aec971f95b7ff59",
+  "request_id": "b4UrIS5Yb2p0rwJaRFw0",
+  "provider_character_cost": "4",
+  "status": "review_take_not_yet_approved"
+}

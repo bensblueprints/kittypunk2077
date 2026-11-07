@@ -1,0 +1,44 @@
+{
+  "scene": 23,
+  "duration_seconds": 16.19637188208617,
+  "target_scene_seconds": 25,
+  "placements": [
+    {
+      "line_id": "S23-D01",
+      "start": 0.0,
+      "end": 7.151746031746032,
+      "text": "Newly released records confirm that Goodboy Global diverted salmon shipments away from feline neighborhoods."
+    },
+    {
+      "line_id": "S23-N01",
+      "start": 7.451746031746032,
+      "end": 8.241224489795918,
+      "text": "You found it!"
+    },
+    {
+      "line_id": "S23-N02",
+      "start": 8.541224489795919,
+      "end": 11.513378684807256,
+      "text": "Your mum was right. This is better than a promise."
+    },
+    {
+      "line_id": "S23-D02",
+      "start": 11.813378684807256,
+      "end": 13.299455782312926,
+      "text": "We saved the fucking city!"
+    },
+    {
+      "line_id": "S23-D03",
+      "start": 13.599455782312925,
+      "end": 14.760453514739229,
+      "text": "We saved dinner."
+    },
+    {
+      "line_id": "S23-D04",
+      "start": 15.06045351473923,
+      "end": 15.896371882086168,
+      "text": "For now."
+    }
+  ],
+  "status": "dialogue review assembly, not final soundtrack"
+}

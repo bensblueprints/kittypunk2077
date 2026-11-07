@@ -1,0 +1,21 @@
+{
+  "line_id": "S09-N08",
+  "scene": 9,
+  "role_id": "neon",
+  "text": "The microphone needs line of sight. I can hide it in the service hatch.",
+  "voice_id": "4e32WqNVWRquDa1OcRYZ",
+  "voice_name": "Ryan — Product Reviewer",
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.5,
+    "similarity_boost": 0.75,
+    "style": 0.15,
+    "use_speaker_boost": true
+  },
+  "duration_sec": 3.761633,
+  "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Voices\\Pilot Complete\\Scene09\\S09-N08-neon-take001.mp3",
+  "sha256": "54d3f54bf9bb70c695349bc028fbf520cbad9329b74ec005ad5208decda3fa89",
+  "request_id": "ZoL1YgnKVsovYBntUCW8",
+  "provider_character_cost": "16",
+  "status": "review_take_not_yet_approved"
+}

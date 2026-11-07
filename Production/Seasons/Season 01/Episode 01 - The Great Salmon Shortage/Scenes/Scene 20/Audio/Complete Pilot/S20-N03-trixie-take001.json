@@ -1,0 +1,21 @@
+{
+  "line_id": "S20-N03",
+  "scene": 20,
+  "role_id": "trixie",
+  "text": "No one touches the cooling system. We need the fish fresh, and the workers clear.",
+  "voice_id": "dmWfLQZJq7wNPv9WmtiM",
+  "voice_name": "Emma — Wry, Gritty Hero",
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.35,
+    "similarity_boost": 0.8,
+    "style": 0.55,
+    "use_speaker_boost": true
+  },
+  "duration_sec": 4.179592,
+  "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Voices\\Pilot Complete\\Scene20\\S20-N03-trixie-take001.mp3",
+  "sha256": "29cf9a6ed279e1b9a3f9699def2e37eb500510052028618f3ca5fc92e6a2eae8",
+  "request_id": "S6nrvawldQ5VMJV1bAr4",
+  "provider_character_cost": "18",
+  "status": "review_take_not_yet_approved"
+}

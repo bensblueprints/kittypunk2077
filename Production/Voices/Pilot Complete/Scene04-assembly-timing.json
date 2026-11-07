@@ -1,0 +1,62 @@
+{
+  "scene": 4,
+  "duration_seconds": 31.910702947845806,
+  "target_scene_seconds": 55,
+  "placements": [
+    {
+      "line_id": "S04-N01",
+      "start": 0.0,
+      "end": 4.179591836734694,
+      "text": "That queue was not here ten minutes ago. They have not even opened the second till."
+    },
+    {
+      "line_id": "S04-D01",
+      "start": 4.479591836734694,
+      "end": 6.151428571428571,
+      "text": "You think there's really a shortage?"
+    },
+    {
+      "line_id": "S04-D02",
+      "start": 6.451428571428571,
+      "end": 8.58766439909297,
+      "text": "I think someone wants us to believe there is."
+    },
+    {
+      "line_id": "S04-N02",
+      "start": 8.887664399092971,
+      "end": 12.927936507936508,
+      "text": "Look at them. Everyone heard the same warning and ran for the same shelf."
+    },
+    {
+      "line_id": "S04-N03",
+      "start": 13.227936507936509,
+      "end": 17.314648526077097,
+      "text": "Please. That is the last tin. My little one has not eaten."
+    },
+    {
+      "line_id": "S04-N04",
+      "start": 17.614648526077097,
+      "end": 22.258639455782312,
+      "text": "Hey. There is room for both of you. Fighting each other will not fill the freezer."
+    },
+    {
+      "line_id": "S04-N05",
+      "start": 22.558639455782313,
+      "end": 26.78467120181406,
+      "text": "The board says fresh delivery this morning. Why are they already rationing it?"
+    },
+    {
+      "line_id": "S04-N06",
+      "start": 27.084671201814057,
+      "end": 29.592426303854875,
+      "text": "Photograph that notice. Let us see what changed inside."
+    },
+    {
+      "line_id": "S04-D03",
+      "start": 29.892426303854876,
+      "end": 31.610702947845805,
+      "text": "So... we're not getting snacks?"
+    }
+  ],
+  "status": "dialogue review assembly, not final soundtrack"
+}

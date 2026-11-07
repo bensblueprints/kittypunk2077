@@ -1,0 +1,3431 @@
+[
+  {
+    "provider": "Higgsfield stills",
+    "subject": "LOC01-resistance-warehouse-exterior-gpt26-v001",
+    "status": "completed",
+    "task_id": "45c5930e-0bed-4112-adf8-cea085d78798",
+    "cost_label": "4.25 credits estimate",
+    "refund_status": "Not applicable / unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "Higgsfield stills",
+    "subject": "LOC02-resistance-warehouse-lounge-gpt26-v001",
+    "status": "completed",
+    "task_id": "0f7f5150-d119-4c41-a621-bc0ce59be580",
+    "cost_label": "4.25 credits estimate",
+    "refund_status": "Not applicable / unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "Higgsfield stills",
+    "subject": "LOC03-hacking-operations-gpt26-v001",
+    "status": "completed",
+    "task_id": "6f450946-c84c-48d9-a960-589e1720bf85",
+    "cost_label": "4.25 credits estimate",
+    "refund_status": "Not applicable / unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "Higgsfield stills",
+    "subject": "LOC04-engineering-workshop-gpt26-v001",
+    "status": "completed",
+    "task_id": "041969d4-ae6b-4bf0-bee6-39bebac3c74b",
+    "cost_label": "4.25 credits estimate",
+    "refund_status": "Not applicable / unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "Higgsfield stills",
+    "subject": "LOC05-district-7-streets-and-alleys-gpt26-v001",
+    "status": "completed",
+    "task_id": "50392746-c8e8-4a41-a188-f425a34cb97a",
+    "cost_label": "4.25 credits estimate",
+    "refund_status": "Not applicable / unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "Higgsfield stills",
+    "subject": "LOC06-7-catleven-exterior-gpt26-v001",
+    "status": "completed",
+    "task_id": "318dec43-f2f2-4e30-aa19-3f9ceda2aa4f",
+    "cost_label": "4.25 credits estimate",
+    "refund_status": "Not applicable / unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "Higgsfield stills",
+    "subject": "LOC07-7-catleven-interior-and-freezer-gpt26-v001",
+    "status": "completed",
+    "task_id": "79748588-3aa3-4066-bbe4-29bfcbddfe60",
+    "cost_label": "4.25 credits estimate",
+    "refund_status": "Not applicable / unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "Higgsfield stills",
+    "subject": "LOC08-district-7-market-gpt26-v001",
+    "status": "completed",
+    "task_id": "2811dddf-4bb9-4ed7-87db-56a4784cf342",
+    "cost_label": "4.25 credits estimate",
+    "refund_status": "Not applicable / unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "Higgsfield stills",
+    "subject": "LOC09-district-7-rally-stage-and-plaza-gpt26-v001",
+    "status": "completed",
+    "task_id": "46b26057-43d8-4189-b205-d7db509333c3",
+    "cost_label": "4.25 credits estimate",
+    "refund_status": "Not applicable / unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "Higgsfield stills",
+    "subject": "LOC10-steak-bone-exterior-and-security-gpt26-v001",
+    "status": "completed",
+    "task_id": "a3ac58ad-cbe9-4788-9c9e-3b73b4045473",
+    "cost_label": "4.25 credits estimate",
+    "refund_status": "Not applicable / unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "Higgsfield stills",
+    "subject": "LOC11-steak-bone-service-corridors-gpt26-v001",
+    "status": "completed",
+    "task_id": "ac35a11a-fe34-4457-b3cc-7242e3855e56",
+    "cost_label": "4.25 credits estimate",
+    "refund_status": "Not applicable / unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "Higgsfield stills",
+    "subject": "LOC12-steak-bone-private-dining-room-gpt26-v001",
+    "status": "completed",
+    "task_id": "0a9fde31-cd79-4250-bc0b-a3307aca342c",
+    "cost_label": "4.25 credits estimate",
+    "refund_status": "Not applicable / unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "Higgsfield stills",
+    "subject": "LOC13-woof7-news-studio-gpt26-v001",
+    "status": "completed",
+    "task_id": "a7ded282-736c-4689-96eb-2c6b2560e2da",
+    "cost_label": "4.25 credits estimate",
+    "refund_status": "Not applicable / unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "Higgsfield stills",
+    "subject": "LOC14-nip7-investigative-newsroom-gpt26-v001",
+    "status": "completed",
+    "task_id": "ff0ebf82-90d0-4e97-9a2c-fc571051c24e",
+    "cost_label": "4.25 credits estimate",
+    "refund_status": "Not applicable / unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "Higgsfield stills",
+    "subject": "LOC15-salmon-facility-exterior-and-loading-gpt26-v001",
+    "status": "completed",
+    "task_id": "4900dbeb-7aac-4e20-b790-494a61158bcb",
+    "cost_label": "4.25 credits estimate",
+    "refund_status": "Not applicable / unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "Higgsfield stills",
+    "subject": "LOC16-salmon-cold-store-and-processing-hall-gpt26-v001",
+    "status": "completed",
+    "task_id": "2fd97582-3e6c-40fb-9ad9-8ba25e38bf3f",
+    "cost_label": "4.25 credits estimate",
+    "refund_status": "Not applicable / unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "Higgsfield stills",
+    "subject": "LOC17-salmon-routing-control-room-gpt26-v001",
+    "status": "completed",
+    "task_id": "1ff30d51-ee41-4522-83f9-e31fdf86d234",
+    "cost_label": "4.25 credits estimate",
+    "refund_status": "Not applicable / unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "Higgsfield stills",
+    "subject": "LOC18-catnip-times-pressroom-gpt26-v001",
+    "status": "completed",
+    "task_id": "c63ca08c-a862-47c7-b9ea-cb2d2e282e8d",
+    "cost_label": "4.25 credits estimate",
+    "refund_status": "Not applicable / unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "Higgsfield stills",
+    "subject": "LOC19-game-world-great-dog-national-bank-gpt26-v001",
+    "status": "completed",
+    "task_id": "3125b8da-3299-489c-8851-777f9c759db8",
+    "cost_label": "4.25 credits estimate",
+    "refund_status": "Not applicable / unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "Higgsfield stills",
+    "subject": "LOC20-district-7-market-rooftop-overlook-gpt26-v001",
+    "status": "completed",
+    "task_id": "e3591226-836c-4837-a643-5cc9bd9fdc04",
+    "cost_label": "4.25 credits estimate",
+    "refund_status": "Not applicable / unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "wan",
+    "subject": "Wan Orbis Route Test",
+    "status": "queued",
+    "task_id": "task_XW17siVbmw8GIniU0ZOygkOr8Jdlk4eN",
+    "cost_label": "Unknown CNY estimate",
+    "refund_status": "Refund unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "ElevenLabs",
+    "subject": "S01-D01",
+    "status": "completed",
+    "task_id": "ccLure5b0RztUvpWjh8A",
+    "cost_label": "8 provider-reported units",
+    "refund_status": "Unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "ElevenLabs",
+    "subject": "S01-D02",
+    "status": "completed",
+    "task_id": "YZkSQXWZaC37VPR7bDtp",
+    "cost_label": "6 provider-reported units",
+    "refund_status": "Unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "ElevenLabs",
+    "subject": "S01-D03",
+    "status": "completed",
+    "task_id": "1oGpwKnkywvn92W8GWky",
+    "cost_label": "7 provider-reported units",
+    "refund_status": "Unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "ElevenLabs",
+    "subject": "S01-D04",
+    "status": "completed",
+    "task_id": "X0gSz4cZYo6aRssIVuEp",
+    "cost_label": "12 provider-reported units",
+    "refund_status": "Unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "ElevenLabs",
+    "subject": "S01-D05",
+    "status": "completed",
+    "task_id": "dAFRTvr6vKJioyOHTPgK",
+    "cost_label": "10 provider-reported units",
+    "refund_status": "Unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "ElevenLabs",
+    "subject": "S01-D06",
+    "status": "completed",
+    "task_id": "VkMOQ5oxARMRm4iAoMaZ",
+    "cost_label": "9 provider-reported units",
+    "refund_status": "Unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "ElevenLabs",
+    "subject": "S01-D07",
+    "status": "completed",
+    "task_id": "az7M0Yw4KqsZ3SkpUkWO",
+    "cost_label": "9 provider-reported units",
+    "refund_status": "Unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "ElevenLabs",
+    "subject": "S01-D08",
+    "status": "completed",
+    "task_id": "yh33c8NJvr9VlJLeYkgl",
+    "cost_label": "10 provider-reported units",
+    "refund_status": "Unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "ElevenLabs",
+    "subject": "S01-D09",
+    "status": "completed",
+    "task_id": "EPIzRWvMstvM2pgLfgJI",
+    "cost_label": "13 provider-reported units",
+    "refund_status": "Unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "ElevenLabs",
+    "subject": "S01-D10",
+    "status": "completed",
+    "task_id": "WZq680rDmop5nACGW4ZK",
+    "cost_label": "3 provider-reported units",
+    "refund_status": "Unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "ElevenLabs",
+    "subject": "S01-D11",
+    "status": "completed",
+    "task_id": "4sKJC9PHkO7jLk8Hk1n2",
+    "cost_label": "4 provider-reported units",
+    "refund_status": "Unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "ElevenLabs",
+    "subject": "S01-D12",
+    "status": "completed",
+    "task_id": "R7VBp4tuEEa5m4EYUMTh",
+    "cost_label": "5 provider-reported units",
+    "refund_status": "Unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "ElevenLabs",
+    "subject": "S01-D13",
+    "status": "completed",
+    "task_id": "NcyhwDd0aWhxFV9gCsdH",
+    "cost_label": "7 provider-reported units",
+    "refund_status": "Unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "ElevenLabs",
+    "subject": "S01-D14",
+    "status": "completed",
+    "task_id": "TGNLTE9mNweYMd4ytUM5",
+    "cost_label": "8 provider-reported units",
+    "refund_status": "Unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "ElevenLabs",
+    "subject": "S01-D15",
+    "status": "completed",
+    "task_id": "WQHthtpiDOehbMFqgOfB",
+    "cost_label": "3 provider-reported units",
+    "refund_status": "Unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "ElevenLabs",
+    "subject": "S01-D16",
+    "status": "completed",
+    "task_id": "rsysYPnqItglB3FIP8n2",
+    "cost_label": "9 provider-reported units",
+    "refund_status": "Unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "ElevenLabs",
+    "subject": "S01-D17",
+    "status": "completed",
+    "task_id": "YalY5MNwPRHeU12KTWne",
+    "cost_label": "10 provider-reported units",
+    "refund_status": "Unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "ElevenLabs",
+    "subject": "S05-D01",
+    "status": "completed",
+    "task_id": "aeLkNE8Ny3bD0ofRwsI9",
+    "cost_label": "12 provider-reported units",
+    "refund_status": "Unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "ElevenLabs",
+    "subject": "S05-D02",
+    "status": "completed",
+    "task_id": "wPaUcypMgeOTI22F4p9B",
+    "cost_label": "10 provider-reported units",
+    "refund_status": "Unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "ElevenLabs",
+    "subject": "S05-D03",
+    "status": "completed",
+    "task_id": "zpsk7oymKadKMzWvYxdb",
+    "cost_label": "17 provider-reported units",
+    "refund_status": "Unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "ElevenLabs",
+    "subject": "S05-D04",
+    "status": "completed",
+    "task_id": "EIze54Wrck0vH7xPJFNr",
+    "cost_label": "8 provider-reported units",
+    "refund_status": "Unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "ElevenLabs",
+    "subject": "S05-D05",
+    "status": "completed",
+    "task_id": "hr5yiH6S9KemiEoHVRV1",
+    "cost_label": "13 provider-reported units",
+    "refund_status": "Unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "ElevenLabs",
+    "subject": "S05-D06",
+    "status": "completed",
+    "task_id": "vxPegyH7o3s5hCMzCioV",
+    "cost_label": "6 provider-reported units",
+    "refund_status": "Unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "ElevenLabs",
+    "subject": "S05-D07",
+    "status": "completed",
+    "task_id": "hIPz9DQjdCcfK3hLPjm2",
+    "cost_label": "8 provider-reported units",
+    "refund_status": "Unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "ElevenLabs",
+    "subject": "S05-D08",
+    "status": "completed",
+    "task_id": "p3tbPSPGmXJ7q8HcM5rY",
+    "cost_label": "16 provider-reported units",
+    "refund_status": "Unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "ElevenLabs",
+    "subject": "S05-D09",
+    "status": "completed",
+    "task_id": "8b89cPXvoae8WS8cTCXQ",
+    "cost_label": "12 provider-reported units",
+    "refund_status": "Unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "ElevenLabs",
+    "subject": "S05-D10",
+    "status": "completed",
+    "task_id": "Gn9G7RmG8n3IprQR3Shs",
+    "cost_label": "9 provider-reported units",
+    "refund_status": "Unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "ElevenLabs",
+    "subject": "S02-N01",
+    "status": "completed",
+    "task_id": "XVbfYYTXNXpdtFzEn7nc",
+    "cost_label": "23 provider-reported units",
+    "refund_status": "Unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "ElevenLabs",
+    "subject": "S02-N02",
+    "status": "completed",
+    "task_id": "iy7xqZHU8GDub3Q4vje8",
+    "cost_label": "8 provider-reported units",
+    "refund_status": "Unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "ElevenLabs",
+    "subject": "S02-N03",
+    "status": "completed",
+    "task_id": "g3R0lsdBiHibLEzANVNf",
+    "cost_label": "13 provider-reported units",
+    "refund_status": "Unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "ElevenLabs",
+    "subject": "S02-N04",
+    "status": "completed",
+    "task_id": "lujmusy7L3kzsczyLcxJ",
+    "cost_label": "14 provider-reported units",
+    "refund_status": "Unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "ElevenLabs",
+    "subject": "S02-N05",
+    "status": "completed",
+    "task_id": "dZrCPZ6wOI6hKPzrSuU9",
+    "cost_label": "16 provider-reported units",
+    "refund_status": "Unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "ElevenLabs",
+    "subject": "S02-N06",
+    "status": "completed",
+    "task_id": "lw9iKpT1yiLoWBZkKBqR",
+    "cost_label": "11 provider-reported units",
+    "refund_status": "Unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "ElevenLabs",
+    "subject": "S03-N01",
+    "status": "completed",
+    "task_id": "vx0kVCcLXpbVEDh8aNxm",
+    "cost_label": "17 provider-reported units",
+    "refund_status": "Unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "ElevenLabs",
+    "subject": "S03-N02",
+    "status": "completed",
+    "task_id": "XiMBwEGpginwPztJSxbA",
+    "cost_label": "13 provider-reported units",
+    "refund_status": "Unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "ElevenLabs",
+    "subject": "S03-N03",
+    "status": "completed",
+    "task_id": "6gZBqTSZSYsFDmwwEP4t",
+    "cost_label": "11 provider-reported units",
+    "refund_status": "Unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "ElevenLabs",
+    "subject": "S03-N04",
+    "status": "completed",
+    "task_id": "XcrfZolAufOrcSy3P249",
+    "cost_label": "15 provider-reported units",
+    "refund_status": "Unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "ElevenLabs",
+    "subject": "S03-N05",
+    "status": "completed",
+    "task_id": "mu78sO3434d60mP6nSPv",
+    "cost_label": "13 provider-reported units",
+    "refund_status": "Unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "ElevenLabs",
+    "subject": "S03-N06",
+    "status": "completed",
+    "task_id": "ljyBxmbAkjtjGbtMcfCu",
+    "cost_label": "11 provider-reported units",
+    "refund_status": "Unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "ElevenLabs",
+    "subject": "S04-N01",
+    "status": "completed",
+    "task_id": "26J5HHxrl783hScHc8HX",
+    "cost_label": "18 provider-reported units",
+    "refund_status": "Unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "ElevenLabs",
+    "subject": "S04-N02",
+    "status": "completed",
+    "task_id": "FkS1RnrSpbYdJJBVckb2",
+    "cost_label": "16 provider-reported units",
+    "refund_status": "Unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "ElevenLabs",
+    "subject": "S04-N03",
+    "status": "completed",
+    "task_id": "wYyQDqVvBwzENqeEiRk3",
+    "cost_label": "13 provider-reported units",
+    "refund_status": "Unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "ElevenLabs",
+    "subject": "S04-N04",
+    "status": "completed",
+    "task_id": "SPCxyvjnrrMo0ggtsY7x",
+    "cost_label": "18 provider-reported units",
+    "refund_status": "Unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "ElevenLabs",
+    "subject": "S04-N05",
+    "status": "completed",
+    "task_id": "J5UJqHQq2r41U1dqQoK0",
+    "cost_label": "17 provider-reported units",
+    "refund_status": "Unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "ElevenLabs",
+    "subject": "S04-N06",
+    "status": "completed",
+    "task_id": "URqSulnnawmBFDDS8Ulm",
+    "cost_label": "12 provider-reported units",
+    "refund_status": "Unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "ElevenLabs",
+    "subject": "S06-D01",
+    "status": "completed",
+    "task_id": "BMIRR2QZHH4oj4ESuDxR",
+    "cost_label": "13 provider-reported units",
+    "refund_status": "Unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "ElevenLabs",
+    "subject": "S06-D02",
+    "status": "completed",
+    "task_id": "jpyGe7AlMrEWNyePFmTa",
+    "cost_label": "11 provider-reported units",
+    "refund_status": "Unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "ElevenLabs",
+    "subject": "S06-D03",
+    "status": "completed",
+    "task_id": "ERcHzfzwMgcf2rrTXAgC",
+    "cost_label": "9 provider-reported units",
+    "refund_status": "Unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "ElevenLabs",
+    "subject": "S06-N01",
+    "status": "completed",
+    "task_id": "egfLQXXIe2K9EHPFZCHp",
+    "cost_label": "18 provider-reported units",
+    "refund_status": "Unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "ElevenLabs",
+    "subject": "S06-N02",
+    "status": "completed",
+    "task_id": "3mBGotXlR9OXjQ8VDOfi",
+    "cost_label": "18 provider-reported units",
+    "refund_status": "Unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "ElevenLabs",
+    "subject": "S06-N03",
+    "status": "completed",
+    "task_id": "B4Hpenz7DLcFHFkKZoMm",
+    "cost_label": "18 provider-reported units",
+    "refund_status": "Unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "ElevenLabs",
+    "subject": "S06-N04",
+    "status": "completed",
+    "task_id": "Miu9tQgcsomUQ9D5EkiH",
+    "cost_label": "17 provider-reported units",
+    "refund_status": "Unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "ElevenLabs",
+    "subject": "S06-N05",
+    "status": "completed",
+    "task_id": "nrXz2mkbLi0lJ5QAKuEO",
+    "cost_label": "14 provider-reported units",
+    "refund_status": "Unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "ElevenLabs",
+    "subject": "S07-D01",
+    "status": "completed",
+    "task_id": "EFDQzXZB8OCjHXPvUVFQ",
+    "cost_label": "23 provider-reported units",
+    "refund_status": "Unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "ElevenLabs",
+    "subject": "S07-D02",
+    "status": "completed",
+    "task_id": "n1RAjt9FRu2X5bmVDVlA",
+    "cost_label": "7 provider-reported units",
+    "refund_status": "Unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "ElevenLabs",
+    "subject": "S07-D03",
+    "status": "completed",
+    "task_id": "MK6ri0gWfMBIPxWTloFU",
+    "cost_label": "9 provider-reported units",
+    "refund_status": "Unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "ElevenLabs",
+    "subject": "S07-D04",
+    "status": "completed",
+    "task_id": "zsRoVHsVsDuNRZobvtRv",
+    "cost_label": "3 provider-reported units",
+    "refund_status": "Unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "ElevenLabs",
+    "subject": "S07-N01",
+    "status": "completed",
+    "task_id": "0yn0GnfjFdWZdN8UF6ZL",
+    "cost_label": "21 provider-reported units",
+    "refund_status": "Unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "ElevenLabs",
+    "subject": "S07-N02",
+    "status": "completed",
+    "task_id": "t4pOXChcy09TIUmpwxU1",
+    "cost_label": "22 provider-reported units",
+    "refund_status": "Unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "ElevenLabs",
+    "subject": "S07-N03",
+    "status": "completed",
+    "task_id": "ubO30x8I2AT6JOCPCuGi",
+    "cost_label": "20 provider-reported units",
+    "refund_status": "Unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "ElevenLabs",
+    "subject": "S07-N04",
+    "status": "completed",
+    "task_id": "sWSwGVAP8IxE0NWFPu3y",
+    "cost_label": "18 provider-reported units",
+    "refund_status": "Unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "ElevenLabs",
+    "subject": "S07-N05",
+    "status": "completed",
+    "task_id": "cXg2DSM6nFW3YFL09xUE",
+    "cost_label": "21 provider-reported units",
+    "refund_status": "Unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "ElevenLabs",
+    "subject": "S07-N06",
+    "status": "completed",
+    "task_id": "JcmRHeoygxBTE44JQvm9",
+    "cost_label": "16 provider-reported units",
+    "refund_status": "Unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "ElevenLabs",
+    "subject": "S08-D01",
+    "status": "completed",
+    "task_id": "wZblcYtISYAGhIu5dmBW",
+    "cost_label": "10 provider-reported units",
+    "refund_status": "Unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "ElevenLabs",
+    "subject": "S08-D02",
+    "status": "completed",
+    "task_id": "XDJYyJ7nR2V1oJPgFQ06",
+    "cost_label": "8 provider-reported units",
+    "refund_status": "Unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "ElevenLabs",
+    "subject": "S08-D03",
+    "status": "completed",
+    "task_id": "5I9XwJhHp7wsKuXNpPnX",
+    "cost_label": "11 provider-reported units",
+    "refund_status": "Unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "ElevenLabs",
+    "subject": "S08-D04",
+    "status": "completed",
+    "task_id": "JXPNrOT83vV79z8LZ0Rn",
+    "cost_label": "4 provider-reported units",
+    "refund_status": "Unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "ElevenLabs",
+    "subject": "S08-N01",
+    "status": "completed",
+    "task_id": "BO7hp1spKZDQRh92IXBO",
+    "cost_label": "9 provider-reported units",
+    "refund_status": "Unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "ElevenLabs",
+    "subject": "S08-N02",
+    "status": "completed",
+    "task_id": "9vMPSi1CvyzSd70v87lE",
+    "cost_label": "18 provider-reported units",
+    "refund_status": "Unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "ElevenLabs",
+    "subject": "S08-N03",
+    "status": "completed",
+    "task_id": "BCXG9bFYbBX4b6H9h1WE",
+    "cost_label": "13 provider-reported units",
+    "refund_status": "Unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "ElevenLabs",
+    "subject": "S08-N04",
+    "status": "completed",
+    "task_id": "Coo0yxIpZxaaanT7yCMb",
+    "cost_label": "14 provider-reported units",
+    "refund_status": "Unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "ElevenLabs",
+    "subject": "S09-D01",
+    "status": "completed",
+    "task_id": "6WWRsGco0z7jkYbO12V7",
+    "cost_label": "9 provider-reported units",
+    "refund_status": "Unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "ElevenLabs",
+    "subject": "S09-D02",
+    "status": "completed",
+    "task_id": "0jUcBLYTYtSFH2agFxoH",
+    "cost_label": "6 provider-reported units",
+    "refund_status": "Unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "ElevenLabs",
+    "subject": "S09-D03",
+    "status": "completed",
+    "task_id": "bOMfdiOpkOg9BFYquxF5",
+    "cost_label": "12 provider-reported units",
+    "refund_status": "Unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "ElevenLabs",
+    "subject": "S09-D04",
+    "status": "completed",
+    "task_id": "49ArQMztU34LfET6iJOy",
+    "cost_label": "7 provider-reported units",
+    "refund_status": "Unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "ElevenLabs",
+    "subject": "S09-N01",
+    "status": "completed",
+    "task_id": "NGHN317b3atEQpNwbUMc",
+    "cost_label": "22 provider-reported units",
+    "refund_status": "Unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "ElevenLabs",
+    "subject": "S09-N02",
+    "status": "completed",
+    "task_id": "8cffpoIbPAOJ0WkdLGYM",
+    "cost_label": "24 provider-reported units",
+    "refund_status": "Unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "ElevenLabs",
+    "subject": "S09-N03",
+    "status": "completed",
+    "task_id": "JYkKcQZoasjK8XB2K55e",
+    "cost_label": "20 provider-reported units",
+    "refund_status": "Unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "ElevenLabs",
+    "subject": "S09-N04",
+    "status": "completed",
+    "task_id": "nlAv1Jd3AZzU6ldXeNO0",
+    "cost_label": "6 provider-reported units",
+    "refund_status": "Unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "ElevenLabs",
+    "subject": "S09-N05",
+    "status": "completed",
+    "task_id": "TZeeDZBeAHjutlykmjuU",
+    "cost_label": "15 provider-reported units",
+    "refund_status": "Unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "ElevenLabs",
+    "subject": "S09-N06",
+    "status": "completed",
+    "task_id": "t378FdsbcJYE3Pe8Qw1B",
+    "cost_label": "15 provider-reported units",
+    "refund_status": "Unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "ElevenLabs",
+    "subject": "S09-N07",
+    "status": "completed",
+    "task_id": "t9k32M39myuVR9deZk7i",
+    "cost_label": "11 provider-reported units",
+    "refund_status": "Unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "ElevenLabs",
+    "subject": "S09-N08",
+    "status": "completed",
+    "task_id": "ZoL1YgnKVsovYBntUCW8",
+    "cost_label": "16 provider-reported units",
+    "refund_status": "Unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "ElevenLabs",
+    "subject": "S10-D01",
+    "status": "completed",
+    "task_id": "6R5dn071nJNrOldby5tj",
+    "cost_label": "9 provider-reported units",
+    "refund_status": "Unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "ElevenLabs",
+    "subject": "S10-D02",
+    "status": "completed",
+    "task_id": "uU0k3o7RqPqo1nSZQbDm",
+    "cost_label": "4 provider-reported units",
+    "refund_status": "Unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "ElevenLabs",
+    "subject": "S10-D03",
+    "status": "completed",
+    "task_id": "K03Je5zWS90UroapcrPG",
+    "cost_label": "12 provider-reported units",
+    "refund_status": "Unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "ElevenLabs",
+    "subject": "S10-D04",
+    "status": "completed",
+    "task_id": "83T8n8ZMJzFE5dj6SqKo",
+    "cost_label": "4 provider-reported units",
+    "refund_status": "Unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "ElevenLabs",
+    "subject": "S10-N01",
+    "status": "completed",
+    "task_id": "UXSCt7GmmQndUt52Lx8t",
+    "cost_label": "24 provider-reported units",
+    "refund_status": "Unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "ElevenLabs",
+    "subject": "S10-N02",
+    "status": "completed",
+    "task_id": "yO3ExZBsCEE23WcsO96o",
+    "cost_label": "2 provider-reported units",
+    "refund_status": "Unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "ElevenLabs",
+    "subject": "S10-N03",
+    "status": "completed",
+    "task_id": "i68JDaTdTElr6dq2jdSv",
+    "cost_label": "10 provider-reported units",
+    "refund_status": "Unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "ElevenLabs",
+    "subject": "S10-N04",
+    "status": "completed",
+    "task_id": "nQ43fqxuE9IKMMOxgpif",
+    "cost_label": "21 provider-reported units",
+    "refund_status": "Unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "ElevenLabs",
+    "subject": "S10-N05",
+    "status": "completed",
+    "task_id": "vPA6ISEQ36qrykCNqUQy",
+    "cost_label": "11 provider-reported units",
+    "refund_status": "Unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "ElevenLabs",
+    "subject": "S10-N06",
+    "status": "completed",
+    "task_id": "pa92vOo7KbowDcEjKphU",
+    "cost_label": "20 provider-reported units",
+    "refund_status": "Unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "ElevenLabs",
+    "subject": "S10-N07",
+    "status": "completed",
+    "task_id": "2dYvjSFphg9azcgFCaGm",
+    "cost_label": "18 provider-reported units",
+    "refund_status": "Unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "ElevenLabs",
+    "subject": "S10-N08",
+    "status": "completed",
+    "task_id": "8tOj2Ygm6dIvQiw9VKNL",
+    "cost_label": "10 provider-reported units",
+    "refund_status": "Unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "ElevenLabs",
+    "subject": "S11-D01",
+    "status": "completed",
+    "task_id": "JvzY8ByJ0UAeobzsaupI",
+    "cost_label": "13 provider-reported units",
+    "refund_status": "Unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "ElevenLabs",
+    "subject": "S11-D02",
+    "status": "completed",
+    "task_id": "HyCNH868fq18k1G3XmdJ",
+    "cost_label": "4 provider-reported units",
+    "refund_status": "Unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "ElevenLabs",
+    "subject": "S11-D03",
+    "status": "completed",
+    "task_id": "Tgm0pImZggiAEEc5EBy8",
+    "cost_label": "4 provider-reported units",
+    "refund_status": "Unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "ElevenLabs",
+    "subject": "S11-D04",
+    "status": "completed",
+    "task_id": "CrSfIxgFZjI6LocIkh5W",
+    "cost_label": "10 provider-reported units",
+    "refund_status": "Unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "ElevenLabs",
+    "subject": "S11-N01",
+    "status": "completed",
+    "task_id": "hOu6yvfaodaWwAkb7Y03",
+    "cost_label": "24 provider-reported units",
+    "refund_status": "Unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "ElevenLabs",
+    "subject": "S11-N02",
+    "status": "completed",
+    "task_id": "TgtDYothm6AZnXGe8qSU",
+    "cost_label": "20 provider-reported units",
+    "refund_status": "Unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "ElevenLabs",
+    "subject": "S11-N03",
+    "status": "completed",
+    "task_id": "gcJbd16glIk4IbXU9HVu",
+    "cost_label": "12 provider-reported units",
+    "refund_status": "Unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "ElevenLabs",
+    "subject": "S11-N04",
+    "status": "completed",
+    "task_id": "jAAwVNoox9FCxo7CMMh2",
+    "cost_label": "20 provider-reported units",
+    "refund_status": "Unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "ElevenLabs",
+    "subject": "S11-N05",
+    "status": "completed",
+    "task_id": "R7kRjt9AFt7SEmiCKkI2",
+    "cost_label": "16 provider-reported units",
+    "refund_status": "Unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "ElevenLabs",
+    "subject": "S11-N06",
+    "status": "completed",
+    "task_id": "t6S68JBjJDsaYSzjWg6u",
+    "cost_label": "13 provider-reported units",
+    "refund_status": "Unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "ElevenLabs",
+    "subject": "S11-N07",
+    "status": "completed",
+    "task_id": "Of813XXsTOv37oScZl4u",
+    "cost_label": "15 provider-reported units",
+    "refund_status": "Unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "ElevenLabs",
+    "subject": "S12-D01",
+    "status": "completed",
+    "task_id": "xhS3f5gqOyYopOe2flbV",
+    "cost_label": "5 provider-reported units",
+    "refund_status": "Unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "ElevenLabs",
+    "subject": "S12-D02",
+    "status": "completed",
+    "task_id": "0GHPk1TSDBcbHBgsmWGa",
+    "cost_label": "7 provider-reported units",
+    "refund_status": "Unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "ElevenLabs",
+    "subject": "S12-D03",
+    "status": "completed",
+    "task_id": "libHrBywKEvIAU9p3t7f",
+    "cost_label": "1 provider-reported units",
+    "refund_status": "Unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "ElevenLabs",
+    "subject": "S12-N01",
+    "status": "completed",
+    "task_id": "Ht622dgYYYEoeBLrNAg2",
+    "cost_label": "17 provider-reported units",
+    "refund_status": "Unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "ElevenLabs",
+    "subject": "S12-N02",
+    "status": "completed",
+    "task_id": "jDud27YXGdUKEber5orv",
+    "cost_label": "12 provider-reported units",
+    "refund_status": "Unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "ElevenLabs",
+    "subject": "S12-N03",
+    "status": "completed",
+    "task_id": "MQP2xnJWORGDU2rzW8kG",
+    "cost_label": "6 provider-reported units",
+    "refund_status": "Unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "ElevenLabs",
+    "subject": "S12-N04",
+    "status": "completed",
+    "task_id": "W3IIqGg2fFeSOqNA6jnf",
+    "cost_label": "12 provider-reported units",
+    "refund_status": "Unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "ElevenLabs",
+    "subject": "S13-D01",
+    "status": "completed",
+    "task_id": "VLVDakEbZYxwFEuQem2x",
+    "cost_label": "10 provider-reported units",
+    "refund_status": "Unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "ElevenLabs",
+    "subject": "S13-D02",
+    "status": "completed",
+    "task_id": "AgGJF1YdtsedBS7lP9mz",
+    "cost_label": "3 provider-reported units",
+    "refund_status": "Unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "ElevenLabs",
+    "subject": "S13-D03",
+    "status": "completed",
+    "task_id": "cHrwQ9N5dzuzzEHzhQOc",
+    "cost_label": "3 provider-reported units",
+    "refund_status": "Unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "ElevenLabs",
+    "subject": "S13-D04",
+    "status": "completed",
+    "task_id": "4pmwybPaeqBuvUVzD0xU",
+    "cost_label": "7 provider-reported units",
+    "refund_status": "Unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "ElevenLabs",
+    "subject": "S13-D05",
+    "status": "completed",
+    "task_id": "ST4mDSyUWO3ApJyR9Vf5",
+    "cost_label": "4 provider-reported units",
+    "refund_status": "Unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "ElevenLabs",
+    "subject": "S13-N01",
+    "status": "completed",
+    "task_id": "3rV03AlORxzQdgdaUZDv",
+    "cost_label": "13 provider-reported units",
+    "refund_status": "Unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "ElevenLabs",
+    "subject": "S13-N02",
+    "status": "completed",
+    "task_id": "H8lJ9s7PTPiM6vFujRSi",
+    "cost_label": "14 provider-reported units",
+    "refund_status": "Unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "ElevenLabs",
+    "subject": "S13-N03",
+    "status": "completed",
+    "task_id": "Abu79I6oWKwylXzwZpkj",
+    "cost_label": "13 provider-reported units",
+    "refund_status": "Unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "ElevenLabs",
+    "subject": "S13-N04",
+    "status": "completed",
+    "task_id": "Nraad4YKOMZxeVZ3vCt5",
+    "cost_label": "17 provider-reported units",
+    "refund_status": "Unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "ElevenLabs",
+    "subject": "S13-N05",
+    "status": "completed",
+    "task_id": "mIqwsvaE6zTZuEnji2cr",
+    "cost_label": "15 provider-reported units",
+    "refund_status": "Unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "ElevenLabs",
+    "subject": "S14-D01",
+    "status": "completed",
+    "task_id": "3wpIm35GEF2PXDmyTf7W",
+    "cost_label": "25 provider-reported units",
+    "refund_status": "Unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "ElevenLabs",
+    "subject": "S14-D02",
+    "status": "completed",
+    "task_id": "ZD3LcsDt9KHJJg5ig7Vl",
+    "cost_label": "9 provider-reported units",
+    "refund_status": "Unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "ElevenLabs",
+    "subject": "S14-D03",
+    "status": "completed",
+    "task_id": "qaIlVeBtGIVOPRJsalVE",
+    "cost_label": "17 provider-reported units",
+    "refund_status": "Unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "ElevenLabs",
+    "subject": "S14-D04",
+    "status": "completed",
+    "task_id": "nLuC7NNcwrMk101tR3hj",
+    "cost_label": "7 provider-reported units",
+    "refund_status": "Unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "ElevenLabs",
+    "subject": "S14-D05",
+    "status": "completed",
+    "task_id": "M0Cqf1641dQEw2soRmAz",
+    "cost_label": "7 provider-reported units",
+    "refund_status": "Unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "ElevenLabs",
+    "subject": "S14-N01",
+    "status": "completed",
+    "task_id": "zy5NOQOn646qBdh6Wqry",
+    "cost_label": "22 provider-reported units",
+    "refund_status": "Unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "ElevenLabs",
+    "subject": "S14-N02",
+    "status": "completed",
+    "task_id": "tcLZ8CntZNuBFBTp8UlK",
+    "cost_label": "39 provider-reported units",
+    "refund_status": "Unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "ElevenLabs",
+    "subject": "S14-N03",
+    "status": "completed",
+    "task_id": "ot9Be2LJaeLaMSGbW2wb",
+    "cost_label": "16 provider-reported units",
+    "refund_status": "Unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "ElevenLabs",
+    "subject": "S14-N04",
+    "status": "completed",
+    "task_id": "RrPj9x32hthSfe7imsFi",
+    "cost_label": "26 provider-reported units",
+    "refund_status": "Unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "ElevenLabs",
+    "subject": "S14-N05",
+    "status": "completed",
+    "task_id": "EajcAJq5M20k8jaqI8eU",
+    "cost_label": "16 provider-reported units",
+    "refund_status": "Unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "ElevenLabs",
+    "subject": "S14-N06",
+    "status": "completed",
+    "task_id": "iT4vIdcskxZ2YoMaZAVk",
+    "cost_label": "30 provider-reported units",
+    "refund_status": "Unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "ElevenLabs",
+    "subject": "S15-D01",
+    "status": "completed",
+    "task_id": "Su55zXRNHS3NirftC2wo",
+    "cost_label": "6 provider-reported units",
+    "refund_status": "Unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "ElevenLabs",
+    "subject": "S15-D02",
+    "status": "completed",
+    "task_id": "2FbSemzrcuUlxFnyeHik",
+    "cost_label": "3 provider-reported units",
+    "refund_status": "Unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "ElevenLabs",
+    "subject": "S15-D03",
+    "status": "completed",
+    "task_id": "Fl3qygmNoihuJmvWeLAm",
+    "cost_label": "5 provider-reported units",
+    "refund_status": "Unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "ElevenLabs",
+    "subject": "S15-D04",
+    "status": "completed",
+    "task_id": "htKcBZsgOoPS6jNvVvil",
+    "cost_label": "5 provider-reported units",
+    "refund_status": "Unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "ElevenLabs",
+    "subject": "S15-N01",
+    "status": "completed",
+    "task_id": "vaZSWOMADUVqZ6iSJ9cn",
+    "cost_label": "19 provider-reported units",
+    "refund_status": "Unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "ElevenLabs",
+    "subject": "S15-N02",
+    "status": "completed",
+    "task_id": "AbOeoaHlMs9qsKCPkH7T",
+    "cost_label": "13 provider-reported units",
+    "refund_status": "Unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "ElevenLabs",
+    "subject": "S15-N03",
+    "status": "completed",
+    "task_id": "TZlMBSWVahPbT3ECeJgu",
+    "cost_label": "11 provider-reported units",
+    "refund_status": "Unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "ElevenLabs",
+    "subject": "S15-N04",
+    "status": "completed",
+    "task_id": "rNKfQQ3xe398eonJ5yqF",
+    "cost_label": "16 provider-reported units",
+    "refund_status": "Unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "ElevenLabs",
+    "subject": "S15-N05",
+    "status": "completed",
+    "task_id": "fGnJ7EoA7nyl9bQCAYPs",
+    "cost_label": "11 provider-reported units",
+    "refund_status": "Unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "ElevenLabs",
+    "subject": "S15-N06",
+    "status": "completed",
+    "task_id": "O8fU85xjZGKxe6glzemr",
+    "cost_label": "8 provider-reported units",
+    "refund_status": "Unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "ElevenLabs",
+    "subject": "S16-D01",
+    "status": "completed",
+    "task_id": "6MIGv4GAAtKZ9e9XNjQi",
+    "cost_label": "4 provider-reported units",
+    "refund_status": "Unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "ElevenLabs",
+    "subject": "S16-D02",
+    "status": "completed",
+    "task_id": "KCuYr6YDz2Zjh7uNHlhW",
+    "cost_label": "3 provider-reported units",
+    "refund_status": "Unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "ElevenLabs",
+    "subject": "S16-D03",
+    "status": "completed",
+    "task_id": "ha4vB64IH3OgbymhVly2",
+    "cost_label": "5 provider-reported units",
+    "refund_status": "Unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "ElevenLabs",
+    "subject": "S16-D04",
+    "status": "completed",
+    "task_id": "E7jtdjSAB20OvSjrwfjt",
+    "cost_label": "8 provider-reported units",
+    "refund_status": "Unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "ElevenLabs",
+    "subject": "S16-N01",
+    "status": "completed",
+    "task_id": "vpHnwR9lGiyReZYeBCrU",
+    "cost_label": "10 provider-reported units",
+    "refund_status": "Unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "ElevenLabs",
+    "subject": "S16-N02",
+    "status": "completed",
+    "task_id": "IEZVmYWMN0ZiVgfN1dnt",
+    "cost_label": "15 provider-reported units",
+    "refund_status": "Unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "ElevenLabs",
+    "subject": "S16-N03",
+    "status": "completed",
+    "task_id": "CI1v0EB1P5h3RTNjnY3p",
+    "cost_label": "14 provider-reported units",
+    "refund_status": "Unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "ElevenLabs",
+    "subject": "S16-N04",
+    "status": "completed",
+    "task_id": "S4Pq3QXxBU8bTg8o95ec",
+    "cost_label": "8 provider-reported units",
+    "refund_status": "Unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "ElevenLabs",
+    "subject": "S16-N05",
+    "status": "completed",
+    "task_id": "KgvKfB55TQe74AvPuOQN",
+    "cost_label": "12 provider-reported units",
+    "refund_status": "Unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "ElevenLabs",
+    "subject": "S17-D01",
+    "status": "completed",
+    "task_id": "UOIYqPg00jNOqTsLxSML",
+    "cost_label": "29 provider-reported units",
+    "refund_status": "Unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "ElevenLabs",
+    "subject": "S17-D02",
+    "status": "completed",
+    "task_id": "QlJLMfg2zjKMoOdDYjJf",
+    "cost_label": "4 provider-reported units",
+    "refund_status": "Unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "ElevenLabs",
+    "subject": "S17-D03",
+    "status": "completed",
+    "task_id": "mhpSBtd35S5F1lEL7Uku",
+    "cost_label": "8 provider-reported units",
+    "refund_status": "Unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "ElevenLabs",
+    "subject": "S17-D04",
+    "status": "completed",
+    "task_id": "MeR90oftLn4t1hQ9us4b",
+    "cost_label": "5 provider-reported units",
+    "refund_status": "Unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "ElevenLabs",
+    "subject": "S17-N01",
+    "status": "completed",
+    "task_id": "8bbY4FsKM9iVI80emvkT",
+    "cost_label": "20 provider-reported units",
+    "refund_status": "Unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "ElevenLabs",
+    "subject": "S17-N02",
+    "status": "completed",
+    "task_id": "y9iAv8BEy0vdV1ehGkFX",
+    "cost_label": "17 provider-reported units",
+    "refund_status": "Unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "ElevenLabs",
+    "subject": "S17-N03",
+    "status": "completed",
+    "task_id": "pWgFrJZqiInknbMmPZlX",
+    "cost_label": "15 provider-reported units",
+    "refund_status": "Unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "ElevenLabs",
+    "subject": "S17-N04",
+    "status": "completed",
+    "task_id": "Gvxcj5EDsKFjS78izLWU",
+    "cost_label": "25 provider-reported units",
+    "refund_status": "Unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "ElevenLabs",
+    "subject": "S17-N05",
+    "status": "completed",
+    "task_id": "lNLKWa7qGNYRoOrv69jc",
+    "cost_label": "12 provider-reported units",
+    "refund_status": "Unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "ElevenLabs",
+    "subject": "S18-D01",
+    "status": "completed",
+    "task_id": "xkU9qa3sTNMHImetywER",
+    "cost_label": "5 provider-reported units",
+    "refund_status": "Unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "ElevenLabs",
+    "subject": "S18-D02",
+    "status": "completed",
+    "task_id": "ZGKymvUcAgKlM3Xfx5YY",
+    "cost_label": "8 provider-reported units",
+    "refund_status": "Unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "ElevenLabs",
+    "subject": "S18-D03",
+    "status": "completed",
+    "task_id": "3SicVipX9xl6DnrrXhF6",
+    "cost_label": "11 provider-reported units",
+    "refund_status": "Unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "ElevenLabs",
+    "subject": "S18-D04",
+    "status": "completed",
+    "task_id": "gN3GcFQ8Cz00XhD0ilKr",
+    "cost_label": "5 provider-reported units",
+    "refund_status": "Unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "ElevenLabs",
+    "subject": "S18-N01",
+    "status": "completed",
+    "task_id": "oc4kMxQUyI4OWbOduyue",
+    "cost_label": "15 provider-reported units",
+    "refund_status": "Unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "ElevenLabs",
+    "subject": "S18-N02",
+    "status": "completed",
+    "task_id": "XmE0gwpzDTmDtSSkeNct",
+    "cost_label": "9 provider-reported units",
+    "refund_status": "Unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "ElevenLabs",
+    "subject": "S18-N03",
+    "status": "completed",
+    "task_id": "3M27GzBZ8N6G08OdB6m7",
+    "cost_label": "10 provider-reported units",
+    "refund_status": "Unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "ElevenLabs",
+    "subject": "S18-N04",
+    "status": "completed",
+    "task_id": "vn2RH77pO8F3cVDhYzax",
+    "cost_label": "13 provider-reported units",
+    "refund_status": "Unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "ElevenLabs",
+    "subject": "S19-D01",
+    "status": "completed",
+    "task_id": "VnymgmANhxV0G3f3GSDx",
+    "cost_label": "7 provider-reported units",
+    "refund_status": "Unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "ElevenLabs",
+    "subject": "S19-D02",
+    "status": "completed",
+    "task_id": "PBmyxokDl4JXFU2EzqZe",
+    "cost_label": "1 provider-reported units",
+    "refund_status": "Unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "ElevenLabs",
+    "subject": "S19-D03",
+    "status": "completed",
+    "task_id": "yjeHQbEgJsT95NvQuX2u",
+    "cost_label": "8 provider-reported units",
+    "refund_status": "Unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "ElevenLabs",
+    "subject": "S19-D04",
+    "status": "completed",
+    "task_id": "8Uy2Zkso5pZ9MubjNzVP",
+    "cost_label": "5 provider-reported units",
+    "refund_status": "Unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "ElevenLabs",
+    "subject": "S19-N01",
+    "status": "completed",
+    "task_id": "tidfhvnYuDaCRBWcfLhS",
+    "cost_label": "23 provider-reported units",
+    "refund_status": "Unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "ElevenLabs",
+    "subject": "S19-N02",
+    "status": "completed",
+    "task_id": "DEP664ofg7QHMKr8JS8I",
+    "cost_label": "20 provider-reported units",
+    "refund_status": "Unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "ElevenLabs",
+    "subject": "S19-N03",
+    "status": "completed",
+    "task_id": "Vv2T1YNWJYIgluMdAtOs",
+    "cost_label": "17 provider-reported units",
+    "refund_status": "Unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "ElevenLabs",
+    "subject": "S20-D01",
+    "status": "completed",
+    "task_id": "SQ8nkPGJgHcZs1ty5gYs",
+    "cost_label": "7 provider-reported units",
+    "refund_status": "Unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "ElevenLabs",
+    "subject": "S20-D02",
+    "status": "completed",
+    "task_id": "QsPLaOPr3yKihfVO5nlT",
+    "cost_label": "8 provider-reported units",
+    "refund_status": "Unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "ElevenLabs",
+    "subject": "S20-D03",
+    "status": "completed",
+    "task_id": "J64fezfMVvWsQX63ctMh",
+    "cost_label": "4 provider-reported units",
+    "refund_status": "Unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "ElevenLabs",
+    "subject": "S20-N01",
+    "status": "completed",
+    "task_id": "JMIe6PgDY1AF1jqevmWc",
+    "cost_label": "14 provider-reported units",
+    "refund_status": "Unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "ElevenLabs",
+    "subject": "S20-N02",
+    "status": "completed",
+    "task_id": "nTgaI38RDBDegijzkWev",
+    "cost_label": "20 provider-reported units",
+    "refund_status": "Unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "ElevenLabs",
+    "subject": "S20-N03",
+    "status": "completed",
+    "task_id": "S6nrvawldQ5VMJV1bAr4",
+    "cost_label": "18 provider-reported units",
+    "refund_status": "Unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "ElevenLabs",
+    "subject": "S21-D01",
+    "status": "completed",
+    "task_id": "nOaL7brYa18wfWebf30h",
+    "cost_label": "9 provider-reported units",
+    "refund_status": "Unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "ElevenLabs",
+    "subject": "S21-D02",
+    "status": "completed",
+    "task_id": "Bjl7yAPPwlXKZwMH6uql",
+    "cost_label": "7 provider-reported units",
+    "refund_status": "Unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "ElevenLabs",
+    "subject": "S21-D03",
+    "status": "completed",
+    "task_id": "6hUqwcFEQhRHQ9g2dVY7",
+    "cost_label": "6 provider-reported units",
+    "refund_status": "Unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "ElevenLabs",
+    "subject": "S21-D04",
+    "status": "completed",
+    "task_id": "Bvza4FtNly6cvrlxV3RM",
+    "cost_label": "5 provider-reported units",
+    "refund_status": "Unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "ElevenLabs",
+    "subject": "S21-N01",
+    "status": "completed",
+    "task_id": "hJS9f2j0Bv0YJp0BNSxg",
+    "cost_label": "14 provider-reported units",
+    "refund_status": "Unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "ElevenLabs",
+    "subject": "S21-N02",
+    "status": "completed",
+    "task_id": "zAPo1ufji2eGGgOL3azv",
+    "cost_label": "14 provider-reported units",
+    "refund_status": "Unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "ElevenLabs",
+    "subject": "S21-N03",
+    "status": "completed",
+    "task_id": "iIKBD5AKjSO6BvK3qHFn",
+    "cost_label": "12 provider-reported units",
+    "refund_status": "Unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "ElevenLabs",
+    "subject": "S21-N04",
+    "status": "completed",
+    "task_id": "NzzXTlJc61UnxbhPoz3b",
+    "cost_label": "12 provider-reported units",
+    "refund_status": "Unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "ElevenLabs",
+    "subject": "S22-D01",
+    "status": "completed",
+    "task_id": "y10p7KFd2NczcQ510jKK",
+    "cost_label": "6 provider-reported units",
+    "refund_status": "Unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "ElevenLabs",
+    "subject": "S22-D02",
+    "status": "completed",
+    "task_id": "4vH5W2ZDv3krm3JI6GxQ",
+    "cost_label": "6 provider-reported units",
+    "refund_status": "Unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "ElevenLabs",
+    "subject": "S22-D03",
+    "status": "completed",
+    "task_id": "BqaHUnhWTpRvj9H5h31C",
+    "cost_label": "7 provider-reported units",
+    "refund_status": "Unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "ElevenLabs",
+    "subject": "S22-D04",
+    "status": "completed",
+    "task_id": "hkJMIxj6VwenhS2mmxN7",
+    "cost_label": "9 provider-reported units",
+    "refund_status": "Unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "ElevenLabs",
+    "subject": "S22-N01",
+    "status": "completed",
+    "task_id": "rZNyiRjhGWzztlLTBFUB",
+    "cost_label": "13 provider-reported units",
+    "refund_status": "Unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "ElevenLabs",
+    "subject": "S22-N02",
+    "status": "completed",
+    "task_id": "OBYrb5VqpSw4CRNAzRXJ",
+    "cost_label": "19 provider-reported units",
+    "refund_status": "Unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "ElevenLabs",
+    "subject": "S22-N03",
+    "status": "completed",
+    "task_id": "6nYDwRC2LV1MQaof2ktx",
+    "cost_label": "18 provider-reported units",
+    "refund_status": "Unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "ElevenLabs",
+    "subject": "S22-N04",
+    "status": "completed",
+    "task_id": "HoXj5GghgiDOxjRayugF",
+    "cost_label": "19 provider-reported units",
+    "refund_status": "Unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "ElevenLabs",
+    "subject": "S23-D01",
+    "status": "completed",
+    "task_id": "ZSGC7JwFKBeBUamVkoh3",
+    "cost_label": "24 provider-reported units",
+    "refund_status": "Unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "ElevenLabs",
+    "subject": "S23-D02",
+    "status": "completed",
+    "task_id": "5k60EUrtRH6hF0cav0u6",
+    "cost_label": "6 provider-reported units",
+    "refund_status": "Unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "ElevenLabs",
+    "subject": "S23-D03",
+    "status": "completed",
+    "task_id": "b4UrIS5Yb2p0rwJaRFw0",
+    "cost_label": "4 provider-reported units",
+    "refund_status": "Unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "ElevenLabs",
+    "subject": "S23-D04",
+    "status": "completed",
+    "task_id": "6e4EDtLCZ3CbTR4Z3TV6",
+    "cost_label": "2 provider-reported units",
+    "refund_status": "Unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "ElevenLabs",
+    "subject": "S23-N01",
+    "status": "completed",
+    "task_id": "SEqQrOTZCPOBJXgsiybp",
+    "cost_label": "3 provider-reported units",
+    "refund_status": "Unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "ElevenLabs",
+    "subject": "S23-N02",
+    "status": "completed",
+    "task_id": "XOFigh6r3Zx8sBAxRb0F",
+    "cost_label": "11 provider-reported units",
+    "refund_status": "Unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "ElevenLabs",
+    "subject": "S24-D01",
+    "status": "completed",
+    "task_id": "IjU70r75Odezc0KK1dnc",
+    "cost_label": "11 provider-reported units",
+    "refund_status": "Unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "ElevenLabs",
+    "subject": "S24-D02",
+    "status": "completed",
+    "task_id": "8OMqE7v8r8qjJTJcPLzg",
+    "cost_label": "10 provider-reported units",
+    "refund_status": "Unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "ElevenLabs",
+    "subject": "S24-D03",
+    "status": "completed",
+    "task_id": "dyZmFVOSOdYtUwbK1PJu",
+    "cost_label": "8 provider-reported units",
+    "refund_status": "Unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "ElevenLabs",
+    "subject": "S24-D04",
+    "status": "completed",
+    "task_id": "7KF8M3GaStg4DuwmxrLB",
+    "cost_label": "10 provider-reported units",
+    "refund_status": "Unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "ElevenLabs",
+    "subject": "S24-D05",
+    "status": "completed",
+    "task_id": "uhMQPXW5cKVhl7S546ZO",
+    "cost_label": "3 provider-reported units",
+    "refund_status": "Unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "Higgsfield stills",
+    "subject": "Wide street tracking composition",
+    "status": "completed",
+    "task_id": "c53b1a95-4407-44d5-adb7-53ceb54d2883",
+    "cost_label": "Unknown credits estimate",
+    "refund_status": "Not applicable / unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "Higgsfield stills",
+    "subject": "Close-up on desperate shoppers",
+    "status": "completed",
+    "task_id": "c2081037-b415-4520-b3c6-7d5994fdda82",
+    "cost_label": "Unknown credits estimate",
+    "refund_status": "Not applicable / unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "Higgsfield stills",
+    "subject": "Walking two-shot favoring Byte",
+    "status": "completed",
+    "task_id": "91372ace-38b7-4997-8da2-74037da12cee",
+    "cost_label": "Unknown credits estimate",
+    "refund_status": "Not applicable / unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "Higgsfield stills",
+    "subject": "Trixie walking reaction / matching two-shot",
+    "status": "completed",
+    "task_id": "0611eba1-81f6-49a2-9591-01b298071983",
+    "cost_label": "Unknown credits estimate",
+    "refund_status": "Not applicable / unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "Higgsfield stills",
+    "subject": "Byte walking reaction",
+    "status": "completed",
+    "task_id": "d6a8c1ab-ed7b-4c15-9126-d00e8b127a42",
+    "cost_label": "Unknown credits estimate",
+    "refund_status": "Not applicable / unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "Higgsfield stills",
+    "subject": "7-Catleven storefront reveal",
+    "status": "completed",
+    "task_id": "5f5ef4a9-d495-44c2-90dd-2d8c8e0b625f",
+    "cost_label": "Unknown credits estimate",
+    "refund_status": "Not applicable / unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "Higgsfield stills",
+    "subject": "CRT news graphic insert",
+    "status": "completed",
+    "task_id": "f588870e-b4dd-45a8-bc5d-ddf746ac7d82",
+    "cost_label": "Unknown credits estimate",
+    "refund_status": "Not applicable / unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "Higgsfield stills",
+    "subject": "CRT news graphic insert",
+    "status": "completed",
+    "task_id": "7502209c-f4b7-4d13-aa74-234a0352995c",
+    "cost_label": "Unknown credits estimate",
+    "refund_status": "Not applicable / unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "Higgsfield stills",
+    "subject": "Barkington broadcast medium shot",
+    "status": "completed",
+    "task_id": "fddd56a3-05f9-48b7-987c-12e91c8fcbc1",
+    "cost_label": "Unknown credits estimate",
+    "refund_status": "Not applicable / unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "Higgsfield stills",
+    "subject": "District shortage map insert",
+    "status": "completed",
+    "task_id": "21092435-4c4d-4a2d-adf0-3082eba021d6",
+    "cost_label": "Unknown credits estimate",
+    "refund_status": "Not applicable / unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "Higgsfield stills",
+    "subject": "Extreme close-up of Barkington",
+    "status": "completed",
+    "task_id": "636dd57b-8cdb-44a6-8d86-54924ca2753a",
+    "cost_label": "Unknown credits estimate",
+    "refund_status": "Not applicable / unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "Higgsfield stills",
+    "subject": "Byte couch reaction",
+    "status": "completed",
+    "task_id": "1d960a2f-c9a3-4ac6-8ab8-b502d324ed32",
+    "cost_label": "Unknown credits estimate",
+    "refund_status": "Not applicable / unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "Higgsfield stills",
+    "subject": "Trixie couch reaction",
+    "status": "completed",
+    "task_id": "55301465-9c04-43e8-983e-e9dce836ed79",
+    "cost_label": "Unknown credits estimate",
+    "refund_status": "Not applicable / unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "Higgsfield stills",
+    "subject": "Onyx reaction",
+    "status": "completed",
+    "task_id": "ac5cdd8f-caa6-4cbf-aa9c-7a1f324d61cd",
+    "cost_label": "Unknown credits estimate",
+    "refund_status": "Not applicable / unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "Higgsfield stills",
+    "subject": "CRT extreme close-up",
+    "status": "completed",
+    "task_id": "2ce86fcc-4548-4ccf-8762-9dc0976681fb",
+    "cost_label": "Unknown credits estimate",
+    "refund_status": "Not applicable / unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "Higgsfield stills",
+    "subject": "Controller and paw insert",
+    "status": "completed",
+    "task_id": "616fb279-94ac-4b88-aa9a-46b2a5e2ba2b",
+    "cost_label": "Unknown credits estimate",
+    "refund_status": "Not applicable / unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "Higgsfield stills",
+    "subject": "Trixie irritated close-up",
+    "status": "completed",
+    "task_id": "5442a547-f73d-4bee-abf4-0925a36f1561",
+    "cost_label": "Unknown credits estimate",
+    "refund_status": "Not applicable / unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "Higgsfield stills",
+    "subject": "Trixie irritated close-up",
+    "status": "completed",
+    "task_id": "13ec06fe-313e-44b9-a1c2-103a77fcc827",
+    "cost_label": "Unknown credits estimate",
+    "refund_status": "Not applicable / unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "Higgsfield stills",
+    "subject": "Byte close-up",
+    "status": "completed",
+    "task_id": "550af82c-7052-45fc-b6f3-b73122b734a7",
+    "cost_label": "Unknown credits estimate",
+    "refund_status": "Not applicable / unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "Higgsfield stills",
+    "subject": "Neon close-up",
+    "status": "completed",
+    "task_id": "5763edc4-8ea0-4ea4-99f2-d69130ee1dda",
+    "cost_label": "Unknown credits estimate",
+    "refund_status": "Not applicable / unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "Higgsfield stills",
+    "subject": "Onyx close-up / group reaction",
+    "status": "completed",
+    "task_id": "990ccd5e-41c1-48b1-9a99-4c88bfb11638",
+    "cost_label": "Unknown credits estimate",
+    "refund_status": "Not applicable / unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "Higgsfield stills",
+    "subject": "Ghost close-up then crew attention to screen",
+    "status": "completed",
+    "task_id": "4f1da04c-5d9b-4cd1-896b-cacfb857217d",
+    "cost_label": "Unknown credits estimate",
+    "refund_status": "Not applicable / unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "Higgsfield stills",
+    "subject": "Exterior wide",
+    "status": "completed",
+    "task_id": "07364241-980c-44ef-96b7-6cc3cdae209e",
+    "cost_label": "Unknown credits estimate",
+    "refund_status": "Not applicable / unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "Higgsfield stills",
+    "subject": "Wide room establishing from southwest",
+    "status": "completed",
+    "task_id": "92920f43-f7fe-4adf-b9d3-6db6e66a61a9",
+    "cost_label": "Unknown credits estimate",
+    "refund_status": "Not applicable / unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "Higgsfield stills",
+    "subject": "Rear couch over-the-shoulder toward television",
+    "status": "completed",
+    "task_id": "cb938d2c-27e5-4ba7-ba0f-8f4b47b652bb",
+    "cost_label": "Unknown credits estimate",
+    "refund_status": "Not applicable / unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "Higgsfield stills",
+    "subject": "Game-screen insert",
+    "status": "completed",
+    "task_id": "182712c0-cf71-4af0-bd4f-ba3895e38062",
+    "cost_label": "Unknown credits estimate",
+    "refund_status": "Not applicable / unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "Higgsfield stills",
+    "subject": "Byte reaction with Trixie eyeline",
+    "status": "completed",
+    "task_id": "acb0ad2f-78f5-4cb7-9489-7b660d73073c",
+    "cost_label": "Unknown credits estimate",
+    "refund_status": "Not applicable / unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "Higgsfield stills",
+    "subject": "Byte reaction with Trixie eyeline",
+    "status": "completed",
+    "task_id": "1d0989cd-7254-4121-984f-a6a426b6fb4b",
+    "cost_label": "Unknown credits estimate",
+    "refund_status": "Not applicable / unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "Higgsfield stills",
+    "subject": "Neon reaction and controller grip",
+    "status": "completed",
+    "task_id": "e67d2a81-1cd0-4827-aad4-f6ca09d61d3f",
+    "cost_label": "Unknown credits estimate",
+    "refund_status": "Not applicable / unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "Higgsfield stills",
+    "subject": "Neon reaction and controller grip",
+    "status": "completed",
+    "task_id": "58a87e2f-be98-413b-9c21-ead0448b3d86",
+    "cost_label": "Unknown credits estimate",
+    "refund_status": "Not applicable / unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "Higgsfield stills",
+    "subject": "Onyx reaction",
+    "status": "completed",
+    "task_id": "7b719e27-f9a5-4e37-8525-7b31d3898be1",
+    "cost_label": "Unknown credits estimate",
+    "refund_status": "Not applicable / unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "Higgsfield stills",
+    "subject": "Onyx reaction",
+    "status": "completed",
+    "task_id": "67e57774-1a59-4c47-834e-4b99ca6a2f9f",
+    "cost_label": "Unknown credits estimate",
+    "refund_status": "Not applicable / unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "Higgsfield stills",
+    "subject": "Ghost reaction",
+    "status": "completed",
+    "task_id": "75372dfe-5d73-4d6f-a120-e0abee024825",
+    "cost_label": "Unknown credits estimate",
+    "refund_status": "Not applicable / unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "Higgsfield stills",
+    "subject": "Ghost reaction",
+    "status": "completed",
+    "task_id": "ea72d07d-5124-4caa-8239-b3c6f09aa2a0",
+    "cost_label": "Unknown credits estimate",
+    "refund_status": "Not applicable / unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "Higgsfield stills",
+    "subject": "S01-P02-reference",
+    "status": "completed",
+    "task_id": "6a3d5d2c-ed0e-44f8-a0a0-66685b756c01",
+    "cost_label": "Unknown credits estimate",
+    "refund_status": "Not applicable / unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "Higgsfield stills",
+    "subject": "S01-P04-reference",
+    "status": "completed",
+    "task_id": "076f39de-bd8f-4639-ace9-e2f17304e1d9",
+    "cost_label": "Unknown credits estimate",
+    "refund_status": "Not applicable / unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "Higgsfield stills",
+    "subject": "S01-P05-reference",
+    "status": "completed",
+    "task_id": "979d3fa1-be18-4fbe-8015-4f169bca4626",
+    "cost_label": "Unknown credits estimate",
+    "refund_status": "Not applicable / unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "Higgsfield stills",
+    "subject": "S01-P09-reference",
+    "status": "completed",
+    "task_id": "a48fef2d-2d33-4705-be81-6f62c8532a5e",
+    "cost_label": "Unknown credits estimate",
+    "refund_status": "Not applicable / unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "Higgsfield stills",
+    "subject": "tv-reference-receipt",
+    "status": "completed",
+    "task_id": "443aeaab-0efa-4efd-8219-a528bd40480c",
+    "cost_label": "4.25 credits estimate",
+    "refund_status": "Not applicable / unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "wan",
+    "subject": "S01-P01-v001",
+    "status": "queued",
+    "task_id": "task_zvKObwF1YaTfGuRxAzCmtibIslxxnhGe",
+    "cost_label": "Unknown CNY estimate",
+    "refund_status": "Refund unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "wan",
+    "subject": "S01-P01-v002",
+    "status": "queued",
+    "task_id": "task_80oJCgsZzXm99Fq3a8igythpnTsQ8snh",
+    "cost_label": "Unknown CNY estimate",
+    "refund_status": "Refund unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "wan",
+    "subject": "S01-P01-v003",
+    "status": "queued",
+    "task_id": "task_sjziyXRzSrzfxn2nUFzeETkOeMlu7lZ8",
+    "cost_label": "Unknown CNY estimate",
+    "refund_status": "Refund unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "wan",
+    "subject": "S01-P01-v004",
+    "status": "queued",
+    "task_id": "task_ZklR4elwLsND6gul5LyddjQOXZKIDFqK",
+    "cost_label": "Unknown CNY estimate",
+    "refund_status": "Refund unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "wan",
+    "subject": "S01-P01-v005",
+    "status": "queued",
+    "task_id": "task_qDpwYuH51geCEnpQW95JXweCwSnwQSYu",
+    "cost_label": "Unknown CNY estimate",
+    "refund_status": "Refund unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "wan",
+    "subject": "S01-P02-v001",
+    "status": "queued",
+    "task_id": "task_VcIZenFTycAivciuY97U4IiQBpEFzp43",
+    "cost_label": "Unknown CNY estimate",
+    "refund_status": "Refund unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "wan",
+    "subject": "S01-P02-v002",
+    "status": "queued",
+    "task_id": "task_hlmoEaYU4vCh7RHZBTyE7igEur7l5FDp",
+    "cost_label": "Unknown CNY estimate",
+    "refund_status": "Refund unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "wan",
+    "subject": "S01-P03-v001",
+    "status": "queued",
+    "task_id": "task_tiRz7Nd0Mw2pmEc2yW2xSo3CgieFZhR6",
+    "cost_label": "Unknown CNY estimate",
+    "refund_status": "Refund unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "wan",
+    "subject": "S01-P04-v001",
+    "status": "queued",
+    "task_id": "task_jH9Q4KiGMpd7DwfZKFAG5sc7QXOJz2KA",
+    "cost_label": "Unknown CNY estimate",
+    "refund_status": "Refund unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "wan",
+    "subject": "S01-P04-v002",
+    "status": "queued",
+    "task_id": "task_S5F4lbVw5O53g0jxyLdtbTYsV74vlLYp",
+    "cost_label": "Unknown CNY estimate",
+    "refund_status": "Refund unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "wan",
+    "subject": "S01-P05-v001",
+    "status": "queued",
+    "task_id": "task_cd3DqwjKHhZT3GdUb7xCf3xOUBoumoiz",
+    "cost_label": "Unknown CNY estimate",
+    "refund_status": "Refund unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "wan",
+    "subject": "S01-P05-v002",
+    "status": "queued",
+    "task_id": "task_AZ1ZeupDYfGMLSKPXiSRVD27m7gOltZv",
+    "cost_label": "Unknown CNY estimate",
+    "refund_status": "Refund unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "wan",
+    "subject": "S01-P06-v001",
+    "status": "queued",
+    "task_id": "task_UKq774StfrGhbYJ2nwXF4HQBCNKBss4b",
+    "cost_label": "Unknown CNY estimate",
+    "refund_status": "Refund unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "wan",
+    "subject": "S01-P07-v001",
+    "status": "queued",
+    "task_id": "task_kJVnvBVI7nfarbnDh1yaQkLnInZV1atd",
+    "cost_label": "Unknown CNY estimate",
+    "refund_status": "Refund unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "wan",
+    "subject": "S01-P08-v001",
+    "status": "queued",
+    "task_id": "task_MhxJYkWTRg1dXFUfJGd3aJwz68vFXeUU",
+    "cost_label": "Unknown CNY estimate",
+    "refund_status": "Refund unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "wan",
+    "subject": "S01-P08-v002",
+    "status": "queued",
+    "task_id": "task_h5FizNqKvVBEJ2ElqvlB4I7JDrHtVeQD",
+    "cost_label": "Unknown CNY estimate",
+    "refund_status": "Refund unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "wan",
+    "subject": "S01-P09-v001",
+    "status": "queued",
+    "task_id": "task_oZKsSkIYC4N9HKJlLnbe9ROoCYWuHEDq",
+    "cost_label": "Unknown CNY estimate",
+    "refund_status": "Refund unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "wan",
+    "subject": "S01-P09-v002",
+    "status": "queued",
+    "task_id": "task_6yao9D0cPcHj37pNCGXCEKhCmTxCA1pw",
+    "cost_label": "Unknown CNY estimate",
+    "refund_status": "Refund unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "wan",
+    "subject": "S01-P10-v001",
+    "status": "queued",
+    "task_id": "task_G0sRtHZnn1Q0y1fl2pEcGWrAbHUirViB",
+    "cost_label": "Unknown CNY estimate",
+    "refund_status": "Refund unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "Higgsfield stills",
+    "subject": "Restaurant payment photograph",
+    "status": "completed",
+    "task_id": "ad9c2c8b-be21-4015-8961-90e6b603ecc1",
+    "cost_label": "4.25 credits estimate",
+    "refund_status": "Not applicable / unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "Higgsfield stills",
+    "subject": "Salmon warning photograph",
+    "status": "completed",
+    "task_id": "f8fc180b-1e73-41e1-b240-97cca2bd778d",
+    "cost_label": "4.25 credits estimate",
+    "refund_status": "Not applicable / unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "Higgsfield stills",
+    "subject": "Newspaper physical master and blank page",
+    "status": "completed",
+    "task_id": "4a6faa5b-2928-4eb3-a2ab-9ffce8f43b1a",
+    "cost_label": "4.25 credits estimate",
+    "refund_status": "Not applicable / unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "Higgsfield stills",
+    "subject": "Catnip Times warning front page",
+    "status": "completed",
+    "task_id": "c11466e2-3ccc-4b63-b87c-82cf67d20451",
+    "cost_label": "4.25 credits estimate",
+    "refund_status": "Not applicable / unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "Higgsfield stills",
+    "subject": "Catnip Times payment exposé front page",
+    "status": "completed",
+    "task_id": "6b5a3e04-4df3-4e24-9d49-38cd320eaca6",
+    "cost_label": "4.25 credits estimate",
+    "refund_status": "Not applicable / unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "Higgsfield stills",
+    "subject": "Two salmon packs and price notice",
+    "status": "completed",
+    "task_id": "5fea34ca-2278-4d38-b9c2-79350ad7ff13",
+    "cost_label": "4.25 credits estimate",
+    "refund_status": "Not applicable / unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "Higgsfield stills",
+    "subject": "Silent service robot",
+    "status": "completed",
+    "task_id": "51265bab-6f28-48ff-9382-eccbd81a7b2c",
+    "cost_label": "4.25 credits estimate",
+    "refund_status": "Not applicable / unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "Higgsfield stills",
+    "subject": "Cash bag and banknotes",
+    "status": "completed",
+    "task_id": "9a145743-80f6-4b8e-b8fa-a6d03f87eb6d",
+    "cost_label": "4.25 credits estimate",
+    "refund_status": "Not applicable / unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "Higgsfield stills",
+    "subject": "Restaurant limousine",
+    "status": "completed",
+    "task_id": "bbc72e5d-6bf8-4dbf-a146-6003dc1685d3",
+    "cost_label": "4.25 credits estimate",
+    "refund_status": "Not applicable / unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "Higgsfield stills",
+    "subject": "Security hardware",
+    "status": "completed",
+    "task_id": "9fafcf8c-d95b-4985-a676-a3ce81a7e653",
+    "cost_label": "4.25 credits estimate",
+    "refund_status": "Not applicable / unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "Higgsfield stills",
+    "subject": "Private dining tableware",
+    "status": "completed",
+    "task_id": "cda6a33a-a6d0-4499-96fd-b147a3ac2f14",
+    "cost_label": "4.25 credits estimate",
+    "refund_status": "Not applicable / unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "Higgsfield stills",
+    "subject": "Refrigerated delivery truck",
+    "status": "completed",
+    "task_id": "bf9b5df4-9cba-46a2-bc42-3d4f159453ca",
+    "cost_label": "4.25 credits estimate",
+    "refund_status": "Not applicable / unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "Higgsfield stills",
+    "subject": "Salmon cartons and pallets",
+    "status": "completed",
+    "task_id": "73f26f83-18bb-4943-a9e1-ee2193859524",
+    "cost_label": "4.25 credits estimate",
+    "refund_status": "Not applicable / unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "Higgsfield stills",
+    "subject": "Factory loading door states",
+    "status": "completed",
+    "task_id": "bd9382ad-76e8-4e68-ab4b-9fb9870f35ce",
+    "cost_label": "4.25 credits estimate",
+    "refund_status": "Not applicable / unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "Higgsfield stills",
+    "subject": "Goodboy badge and evidence document system",
+    "status": "completed",
+    "task_id": "c9a1e54d-3b4f-469c-96d2-27950a7eb350",
+    "cost_label": "4.25 credits estimate",
+    "refund_status": "Not applicable / unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "Higgsfield stills",
+    "subject": "Surveillance kit",
+    "status": "completed",
+    "task_id": "d4089266-01da-46d9-a1ea-6776ee4c46fc",
+    "cost_label": "4.25 credits estimate",
+    "refund_status": "Not applicable / unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "Higgsfield stills",
+    "subject": "Rally microphone and PA",
+    "status": "completed",
+    "task_id": "42049427-90e6-492f-88e9-3a7ed9ebbbaf",
+    "cost_label": "4.25 credits estimate",
+    "refund_status": "Not applicable / unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "Higgsfield stills",
+    "subject": "Projector and rally banners",
+    "status": "completed",
+    "task_id": "dce11bf0-0c8a-4b92-894a-4aa9988aa5f7",
+    "cost_label": "4.25 credits estimate",
+    "refund_status": "Not applicable / unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "Higgsfield stills",
+    "subject": "Vendor stall and scale states",
+    "status": "completed",
+    "task_id": "050ece91-5cf7-4fc4-b7ec-ffe41f17cb89",
+    "cost_label": "4.25 credits estimate",
+    "refund_status": "Not applicable / unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "Higgsfield stills",
+    "subject": "Hideout CRT television",
+    "status": "completed",
+    "task_id": "e483a15c-207c-43af-9221-69fcb3f2cc75",
+    "cost_label": "4.25 credits estimate",
+    "refund_status": "Not applicable / unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "Higgsfield stills",
+    "subject": "CatStation 5 console",
+    "status": "completed",
+    "task_id": "23aca75c-f31d-44b6-9357-70c57ec0aa7b",
+    "cost_label": "4.25 credits estimate",
+    "refund_status": "Not applicable / unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "Higgsfield stills",
+    "subject": "Five assigned game controllers",
+    "status": "completed",
+    "task_id": "b52eeb43-35ec-4697-b57f-ae853fd80b1d",
+    "cost_label": "4.25 credits estimate",
+    "refund_status": "Not applicable / unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "Higgsfield stills",
+    "subject": "Canonical lounge couch",
+    "status": "completed",
+    "task_id": "1a046e54-c3a8-4e64-bbe4-ef4474c50980",
+    "cost_label": "4.25 credits estimate",
+    "refund_status": "Not applicable / unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "Higgsfield stills",
+    "subject": "Corrected canonical lounge couch",
+    "status": "completed",
+    "task_id": "bd899a44-f901-49aa-ba1e-2daa08669bdb",
+    "cost_label": "4.25 credits estimate",
+    "refund_status": "Not applicable / unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "Higgsfield stills",
+    "subject": "Byte handheld price scanner",
+    "status": "completed",
+    "task_id": "1504fbbc-11c7-4c74-a88e-3c00084d4515",
+    "cost_label": "4.25 credits estimate",
+    "refund_status": "Not applicable / unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "Higgsfield stills",
+    "subject": "Byte price scanner branding correction",
+    "status": "completed",
+    "task_id": "839d8434-569a-453c-b512-754a869c35b4",
+    "cost_label": "4.25 credits estimate",
+    "refund_status": "Not applicable / unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "Higgsfield stills",
+    "subject": "Electronic bone decoy and remote",
+    "status": "completed",
+    "task_id": "7b12ccbe-3e6b-4c57-94c6-37815b94f724",
+    "cost_label": "4.25 credits estimate",
+    "refund_status": "Not applicable / unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "Higgsfield stills",
+    "subject": "Neon bone decoy branding correction",
+    "status": "completed",
+    "task_id": "26c82ed5-b981-4a81-8ed7-fea4484b8c76",
+    "cost_label": "4.25 credits estimate",
+    "refund_status": "Not applicable / unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "Higgsfield stills",
+    "subject": "Hacking laptop and portable data chip",
+    "status": "completed",
+    "task_id": "1c250ec2-a57b-43e1-8f2d-b91ea9c7bcb9",
+    "cost_label": "4.25 credits estimate",
+    "refund_status": "Not applicable / unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "Higgsfield stills",
+    "subject": "Chairman Barkington",
+    "status": "completed",
+    "task_id": "fe451286-dd58-49b8-adc2-65e60e503c41",
+    "cost_label": "Unknown credits estimate",
+    "refund_status": "Not applicable / unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "Higgsfield stills",
+    "subject": "Chairman Barkington",
+    "status": "completed",
+    "task_id": "3ca7db12-882a-4b9b-89eb-ad9a60690a6d",
+    "cost_label": "Unknown credits estimate",
+    "refund_status": "Not applicable / unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "Higgsfield stills",
+    "subject": "Trixie aka CatGirl",
+    "status": "completed",
+    "task_id": "308a2d12-476f-46e4-bed0-29848d380513",
+    "cost_label": "Unknown credits estimate",
+    "refund_status": "Not applicable / unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "Higgsfield stills",
+    "subject": "Byte",
+    "status": "completed",
+    "task_id": "a05743e3-1cba-447d-a335-91b04a383395",
+    "cost_label": "Unknown credits estimate",
+    "refund_status": "Not applicable / unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "Higgsfield stills",
+    "subject": "Ghost",
+    "status": "completed",
+    "task_id": "bc85255d-a23d-4720-b787-8f8b1aac04c3",
+    "cost_label": "Unknown credits estimate",
+    "refund_status": "Not applicable / unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "Higgsfield stills",
+    "subject": "Onyx",
+    "status": "completed",
+    "task_id": "7f2e0e60-e05d-42d8-9ecc-3e4ecafc3cd1",
+    "cost_label": "Unknown credits estimate",
+    "refund_status": "Not applicable / unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "Higgsfield stills",
+    "subject": "Neon",
+    "status": "completed",
+    "task_id": "0c466b0b-44c3-41d7-bd9b-d67f481fffad",
+    "cost_label": "Unknown credits estimate",
+    "refund_status": "Not applicable / unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "Higgsfield stills",
+    "subject": "Viper",
+    "status": "completed",
+    "task_id": "b335e596-0097-4eec-94a7-b1102e1e984f",
+    "cost_label": "Unknown credits estimate",
+    "refund_status": "Not applicable / unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "Higgsfield stills",
+    "subject": "Frost",
+    "status": "completed",
+    "task_id": "c7ec224d-d5af-41d1-a551-c7ed96b4bf68",
+    "cost_label": "Unknown credits estimate",
+    "refund_status": "Not applicable / unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "Higgsfield stills",
+    "subject": "Stone",
+    "status": "completed",
+    "task_id": "ed7ffbfc-e05c-4a43-a010-8a37e917d0b0",
+    "cost_label": "Unknown credits estimate",
+    "refund_status": "Not applicable / unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "Higgsfield stills",
+    "subject": "Velvet",
+    "status": "completed",
+    "task_id": "6c268e3c-71ab-4041-997a-4fba9cde38d4",
+    "cost_label": "Unknown credits estimate",
+    "refund_status": "Not applicable / unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "Higgsfield stills",
+    "subject": "Domino",
+    "status": "completed",
+    "task_id": "8e9d64ca-d093-42a5-8c86-89a60f911262",
+    "cost_label": "Unknown credits estimate",
+    "refund_status": "Not applicable / unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "Higgsfield stills",
+    "subject": "HQ00-goodboy-executive-level-master-gpt26-v001",
+    "status": "completed",
+    "task_id": "ec655739-dcce-42b0-8233-cf70db7dea38",
+    "cost_label": "4.25 credits estimate",
+    "refund_status": "Not applicable / unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "Higgsfield stills",
+    "subject": "HQ00-goodboy-executive-level-master-gpt26-v002",
+    "status": "completed",
+    "task_id": "bfe0d618-2d61-4d2f-8c30-4b63ad1238f8",
+    "cost_label": "4.25 credits estimate",
+    "refund_status": "Not applicable / unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "Higgsfield stills",
+    "subject": "HQ01-goodboy-main-boardroom-gpt26-v001",
+    "status": "completed",
+    "task_id": "598785e7-f1f9-4a87-bb46-f5204df2606e",
+    "cost_label": "4.25 credits estimate",
+    "refund_status": "Not applicable / unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "Higgsfield stills",
+    "subject": "HQ02-goodboy-executive-lobby-gpt26-v001",
+    "status": "completed",
+    "task_id": "1d5ac72c-d4da-4329-ad26-053f154db342",
+    "cost_label": "4.25 credits estimate",
+    "refund_status": "Not applicable / unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "Higgsfield stills",
+    "subject": "HQ03-barkington-ceo-office-gpt26-v001",
+    "status": "completed",
+    "task_id": "4542b6d5-e815-4a56-9434-b45d4d017d6b",
+    "cost_label": "4.25 credits estimate",
+    "refund_status": "Not applicable / unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "Higgsfield stills",
+    "subject": "HQ04-project-obedience-rd-lab-gpt26-v001",
+    "status": "completed",
+    "task_id": "23dc4d31-0b18-4d1a-a529-3707b6c16f88",
+    "cost_label": "4.25 credits estimate",
+    "refund_status": "Not applicable / unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "Higgsfield stills",
+    "subject": "HQ04-project-obedience-rd-lab-gpt26-v002",
+    "status": "completed",
+    "task_id": "9d94a359-4275-4240-97b8-5bb51051d788",
+    "cost_label": "4.25 credits estimate",
+    "refund_status": "Not applicable / unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "Higgsfield stills",
+    "subject": "HQ05-goodboy-security-control-gpt26-v001",
+    "status": "completed",
+    "task_id": "d413312e-280a-4001-aaaf-a41a8be803e6",
+    "cost_label": "4.25 credits estimate",
+    "refund_status": "Not applicable / unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "Higgsfield stills",
+    "subject": "HQ05-goodboy-security-control-gpt26-v002",
+    "status": "completed",
+    "task_id": "2a03cc44-4ba8-4835-bbd1-88a03e57ba8f",
+    "cost_label": "4.25 credits estimate",
+    "refund_status": "Not applicable / unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "Higgsfield stills",
+    "subject": "HQ06-goodboy-secure-elevators-gpt26-v001",
+    "status": "completed",
+    "task_id": "d33ef514-4283-4041-8431-a1638214fff1",
+    "cost_label": "4.25 credits estimate",
+    "refund_status": "Not applicable / unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "Higgsfield stills",
+    "subject": "HQ06-goodboy-secure-elevators-gpt26-v002",
+    "status": "completed",
+    "task_id": "f3740c4b-da8b-419a-85a4-abbc7eebab5b",
+    "cost_label": "4.25 credits estimate",
+    "refund_status": "Not applicable / unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "Higgsfield stills",
+    "subject": "HQ07-goodboy-server-ai-core-gpt26-v001",
+    "status": "completed",
+    "task_id": "848bf833-197d-4cdd-8e1f-e95bdb6bb318",
+    "cost_label": "4.25 credits estimate",
+    "refund_status": "Not applicable / unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "Higgsfield stills",
+    "subject": "HQ08-goodboy-vip-lounge-gpt26-v001",
+    "status": "completed",
+    "task_id": "4a78ceed-421d-4355-b3bd-567db6baa6e1",
+    "cost_label": "4.25 credits estimate",
+    "refund_status": "Not applicable / unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "Higgsfield stills",
+    "subject": "HQ09-goodboy-corridor-stairs-gpt26-v001",
+    "status": "completed",
+    "task_id": "119db381-2a95-4bc8-9f7e-f6d1c7cb6295",
+    "cost_label": "4.25 credits estimate",
+    "refund_status": "Not applicable / unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "Higgsfield stills",
+    "subject": "HQ09-goodboy-corridor-stairs-gpt26-v002",
+    "status": "completed",
+    "task_id": "ad602717-e9b9-4097-8ec5-fe3d368b043d",
+    "cost_label": "4.25 credits estimate",
+    "refund_status": "Not applicable / unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "Higgsfield stills",
+    "subject": "Lounge clean rear master",
+    "status": "completed",
+    "task_id": "33f0565d-8a2d-48a1-b9fc-06e3126aae62",
+    "cost_label": "4.25 credits estimate",
+    "refund_status": "Not applicable / unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "Higgsfield stills",
+    "subject": "Lounge true front reverse",
+    "status": "completed",
+    "task_id": "a8de5630-f81b-4f05-b584-c87e28597935",
+    "cost_label": "4.25 credits estimate",
+    "refund_status": "Not applicable / unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "Higgsfield stills",
+    "subject": "Hacking lair desk master",
+    "status": "completed",
+    "task_id": "2fc598ec-6515-4833-8193-b73c824c4562",
+    "cost_label": "4.25 credits estimate",
+    "refund_status": "Not applicable / unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "Higgsfield stills",
+    "subject": "Hacking lair true reverse",
+    "status": "completed",
+    "task_id": "7988c00d-92a9-4e73-831e-6ac5fa13160f",
+    "cost_label": "4.25 credits estimate",
+    "refund_status": "Not applicable / unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "Higgsfield stills",
+    "subject": "Cream civilian",
+    "status": "completed",
+    "task_id": "2786a4cc-3746-41c6-8307-2a92ce52bfad",
+    "cost_label": "4.25 credits estimate",
+    "refund_status": "Not applicable / unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "Higgsfield stills",
+    "subject": "Brown tabby worker",
+    "status": "completed",
+    "task_id": "4a2bc7f6-7394-46ec-a765-bcf7d0ba9afa",
+    "cost_label": "4.25 credits estimate",
+    "refund_status": "Not applicable / unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "Higgsfield stills",
+    "subject": "Calico vendor",
+    "status": "completed",
+    "task_id": "2c1bd6c4-b084-4098-b039-0c4996e7ff03",
+    "cost_label": "4.25 credits estimate",
+    "refund_status": "Not applicable / unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "Higgsfield stills",
+    "subject": "Grey factory worker",
+    "status": "completed",
+    "task_id": "6327c459-7fdf-4c8d-8eca-d247ae768d2f",
+    "cost_label": "4.25 credits estimate",
+    "refund_status": "Not applicable / unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "Higgsfield stills",
+    "subject": "Ginger-white vendor",
+    "status": "completed",
+    "task_id": "f7433666-8bf1-4d19-ad82-122dec7e56f7",
+    "cost_label": "4.25 credits estimate",
+    "refund_status": "Not applicable / unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "Higgsfield stills",
+    "subject": "Tuxedo citizen",
+    "status": "completed",
+    "task_id": "c59c76b8-556d-4040-886a-e6cc7cfe49e7",
+    "cost_label": "4.25 credits estimate",
+    "refund_status": "Not applicable / unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "Higgsfield stills",
+    "subject": "Beagle shopkeeper",
+    "status": "completed",
+    "task_id": "4d097f81-370b-4673-849d-49ccb98ec223",
+    "cost_label": "4.25 credits estimate",
+    "refund_status": "Not applicable / unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "Higgsfield stills",
+    "subject": "Poodle salon customer",
+    "status": "completed",
+    "task_id": "942a22b0-2cbc-43bd-89c7-b50b101e9de7",
+    "cost_label": "4.25 credits estimate",
+    "refund_status": "Not applicable / unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "Higgsfield stills",
+    "subject": "Corgi commuter",
+    "status": "completed",
+    "task_id": "72ad272a-2ce7-4fb4-bb05-f232d8a8002b",
+    "cost_label": "4.25 credits estimate",
+    "refund_status": "Not applicable / unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "Higgsfield stills",
+    "subject": "Labrador parent",
+    "status": "completed",
+    "task_id": "915456bc-d521-4080-8f92-f73ec75ab6b5",
+    "cost_label": "4.25 credits estimate",
+    "refund_status": "Not applicable / unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "Higgsfield stills",
+    "subject": "Terrier café owner",
+    "status": "completed",
+    "task_id": "4ab92bb4-312f-45ef-a6f4-5336579dd5fa",
+    "cost_label": "4.25 credits estimate",
+    "refund_status": "Not applicable / unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "Higgsfield stills",
+    "subject": "Clean salmon broadcast insert",
+    "status": "completed",
+    "task_id": "6b0be907-66c5-4f70-bfc2-ef2535a3c6be",
+    "cost_label": "4.25 credits estimate",
+    "refund_status": "Not applicable / unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "Higgsfield stills",
+    "subject": "CRT casing continuity",
+    "status": "completed",
+    "task_id": "ecf9bef7-78b5-4f62-8270-46d5475f4d8c",
+    "cost_label": "4.25 credits estimate",
+    "refund_status": "Not applicable / unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "Higgsfield stills",
+    "subject": "Barkington broadcast paws",
+    "status": "completed",
+    "task_id": "6af0553b-36e8-4701-af1f-5f3e4949abb5",
+    "cost_label": "4.25 credits estimate",
+    "refund_status": "Not applicable / unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "Higgsfield stills",
+    "subject": "Couch orientation reference",
+    "status": "completed",
+    "task_id": "5853247d-aae6-4ef6-a0f2-556f5a38cf69",
+    "cost_label": "4.25 credits estimate",
+    "refund_status": "Not applicable / unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "Higgsfield stills",
+    "subject": "HQ empty laboratory inset",
+    "status": "completed",
+    "task_id": "8c0ec2a8-9ff8-4126-8569-50699410913e",
+    "cost_label": "4.25 credits estimate",
+    "refund_status": "Not applicable / unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "Higgsfield stills",
+    "subject": "Standing factory robot dog",
+    "status": "completed",
+    "task_id": "c6adadb3-823d-41ad-a870-d1edd6b8ab8a",
+    "cost_label": "4.25 credits estimate",
+    "refund_status": "Not applicable / unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "Higgsfield stills",
+    "subject": "Proposed returning commander",
+    "status": "completed",
+    "task_id": "d30664b3-96a9-4820-a755-f00beb2c5e57",
+    "cost_label": "4.25 credits estimate",
+    "refund_status": "Not applicable / unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "Higgsfield stills",
+    "subject": "Proposed human return ship",
+    "status": "completed",
+    "task_id": "a8040397-81c9-4014-b1e8-e776298e77d0",
+    "cost_label": "4.25 credits estimate",
+    "refund_status": "Not applicable / unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "Higgsfield stills",
+    "subject": "Proposed District 2 boulevard",
+    "status": "completed",
+    "task_id": "af0c0918-1c64-491c-aa86-5591518a77e6",
+    "cost_label": "4.25 credits estimate",
+    "refund_status": "Not applicable / unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "Higgsfield stills",
+    "subject": "7-Catleven Clerk",
+    "status": "completed",
+    "task_id": "34d8fe00-9d0b-4565-9b68-a9731665aa95",
+    "cost_label": "4.25 credits estimate",
+    "refund_status": "Not applicable / unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "Higgsfield stills",
+    "subject": "Dog Guard A",
+    "status": "completed",
+    "task_id": "a2c92d7e-e8dc-41ac-ad88-236ce256f19b",
+    "cost_label": "4.25 credits estimate",
+    "refund_status": "Not applicable / unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "Higgsfield stills",
+    "subject": "Dog Guard B",
+    "status": "completed",
+    "task_id": "5441166e-bac8-4398-8081-a04194d78f39",
+    "cost_label": "4.25 credits estimate",
+    "refund_status": "Not applicable / unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "Higgsfield stills",
+    "subject": "WOOF7 Anchor",
+    "status": "completed",
+    "task_id": "22cf0b28-19f5-42dd-b982-7caa2f72ad34",
+    "cost_label": "4.25 credits estimate",
+    "refund_status": "Not applicable / unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "Higgsfield stills",
+    "subject": "NIP7 Anchor",
+    "status": "completed",
+    "task_id": "ef500885-2016-43a8-abf4-84c9cb7bda7f",
+    "cost_label": "4.25 credits estimate",
+    "refund_status": "Not applicable / unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "Higgsfield stills",
+    "subject": "District 7 Kitten",
+    "status": "completed",
+    "task_id": "4e21f540-fb17-4b26-bf59-5a70a6458477",
+    "cost_label": "4.25 credits estimate",
+    "refund_status": "Not applicable / unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "Higgsfield stills",
+    "subject": "Kitten scale and eyeline",
+    "status": "completed",
+    "task_id": "e834dea3-6202-4499-9788-be110e0faaed",
+    "cost_label": "4.25 credits estimate",
+    "refund_status": "Not applicable / unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "Higgsfield stills",
+    "subject": "PAW01-character-sheet-v001",
+    "status": "completed",
+    "task_id": "63c7ac42-a384-4c00-b92c-ed753784ba12",
+    "cost_label": "Unknown credits estimate",
+    "refund_status": "Not applicable / unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "Higgsfield stills",
+    "subject": "PAW02-character-sheet-v001",
+    "status": "completed",
+    "task_id": "932b5940-76af-4cd8-933e-f7e28368ae64",
+    "cost_label": "Unknown credits estimate",
+    "refund_status": "Not applicable / unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "Higgsfield stills",
+    "subject": "PAW03-character-sheet-v001",
+    "status": "completed",
+    "task_id": "d8297363-d9d8-42cf-87ed-93f245f38909",
+    "cost_label": "Unknown credits estimate",
+    "refund_status": "Not applicable / unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "Higgsfield stills",
+    "subject": "PAW04-character-sheet-v001",
+    "status": "completed",
+    "task_id": "e9a4eef3-0ade-446a-be19-25e6d25b43f8",
+    "cost_label": "Unknown credits estimate",
+    "refund_status": "Not applicable / unconfirmed",
+    "error": ""
+  },
+  {
+    "provider": "Higgsfield stills",
+    "subject": "PAW05-character-sheet-v001",
+    "status": "completed",
+    "task_id": "584a9ee3-25e5-4b6d-b417-268788bb0d3a",
+    "cost_label": "Unknown credits estimate",
+    "refund_status": "Not applicable / unconfirmed",
+    "error": ""
+  }
+]

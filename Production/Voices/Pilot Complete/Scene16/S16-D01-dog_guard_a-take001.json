@@ -1,0 +1,21 @@
+{
+  "line_id": "S16-D01",
+  "scene": 16,
+  "role_id": "dog_guard_a",
+  "text": "STOP THOSE CATS!",
+  "voice_id": "TxWZERZ5Hc6h9dGxVmXa",
+  "voice_name": "Jerry B. - Gruff and Gritty Commander",
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.5,
+    "similarity_boost": 0.75,
+    "style": 0.15,
+    "use_speaker_boost": true
+  },
+  "duration_sec": 1.300317,
+  "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Voices\\Pilot Complete\\Scene16\\S16-D01-dog_guard_a-take001.mp3",
+  "sha256": "09786d5724d59f8f81ed781152d9825c0793810d5d214405e3a85251e9a168e7",
+  "request_id": "6MIGv4GAAtKZ9e9XNjQi",
+  "provider_character_cost": "4",
+  "status": "review_take_not_yet_approved"
+}

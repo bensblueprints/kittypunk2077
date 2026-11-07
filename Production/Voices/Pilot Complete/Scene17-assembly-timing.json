@@ -1,0 +1,62 @@
+{
+  "scene": 17,
+  "duration_seconds": 41.98816326530612,
+  "target_scene_seconds": 50,
+  "placements": [
+    {
+      "line_id": "S17-N01",
+      "start": 0.0,
+      "end": 5.61922902494331,
+      "text": "Send the uncut clip with the photograph. Let the newsroom check the timestamp themselves."
+    },
+    {
+      "line_id": "S17-N02",
+      "start": 5.919229024943311,
+      "end": 10.098820861678005,
+      "text": "Original saved here. Backup sent. They cannot erase it by taking down one post."
+    },
+    {
+      "line_id": "S17-N03",
+      "start": 10.398820861678004,
+      "end": 13.881814058956916,
+      "text": "The headline says payment. It does not say we solved the shortage."
+    },
+    {
+      "line_id": "S17-D01",
+      "start": 14.181814058956917,
+      "end": 24.305714285714284,
+      "text": "Exclusive tonight: leaked footage shows Chairman Barkington Orders making an undisclosed cash payment to a senior WOOF7 journalist."
+    },
+    {
+      "line_id": "S17-N04",
+      "start": 24.605714285714285,
+      "end": 31.896780045351473,
+      "text": "The purpose of the payment has not been independently established. We have requested a response from both parties."
+    },
+    {
+      "line_id": "S17-D02",
+      "start": 32.196780045351474,
+      "end": 33.49709750566893,
+      "text": "We fucking got him!"
+    },
+    {
+      "line_id": "S17-D03",
+      "start": 33.79709750566894,
+      "end": 36.4441723356009,
+      "text": "We got the payment. Not the reason."
+    },
+    {
+      "line_id": "S17-D04",
+      "start": 36.74417233560091,
+      "end": 37.90517006802721,
+      "text": "Then we keep digging."
+    },
+    {
+      "line_id": "S17-N05",
+      "start": 38.20517006802721,
+      "end": 41.68816326530612,
+      "text": "Fine. A small victory. Can small victories buy dinner?"
+    }
+  ],
+  "status": "dialogue review assembly, not final soundtrack"
+}

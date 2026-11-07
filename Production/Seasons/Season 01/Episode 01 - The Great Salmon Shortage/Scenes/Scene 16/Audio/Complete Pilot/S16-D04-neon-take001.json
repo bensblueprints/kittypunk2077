@@ -1,0 +1,21 @@
+{
+  "line_id": "S16-D04",
+  "scene": 16,
+  "role_id": "neon",
+  "text": "Because it's for emergencies, dumbass!",
+  "voice_id": "4e32WqNVWRquDa1OcRYZ",
+  "voice_name": "Ryan — Product Reviewer",
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.5,
+    "similarity_boost": 0.75,
+    "style": 0.15,
+    "use_speaker_boost": true
+  },
+  "duration_sec": 2.554195,
+  "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Voices\\Pilot Complete\\Scene16\\S16-D04-neon-take001.mp3",
+  "sha256": "c0454ffd2e923ff8e143c8e5be2d9e6d9aee2fa862a41316e5111e35d1170063",
+  "request_id": "E7jtdjSAB20OvSjrwfjt",
+  "provider_character_cost": "8",
+  "status": "review_take_not_yet_approved"
+}

@@ -1,0 +1,21 @@
+{
+  "line_id": "S15-N06",
+  "scene": 15,
+  "role_id": "onyx",
+  "text": "Patrol is back early. Time to move.",
+  "voice_id": "uq0HIbNZKn11Hs5ifEdd",
+  "voice_name": "Harry — Fierce Warrior",
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.5,
+    "similarity_boost": 0.75,
+    "style": 0.15,
+    "use_speaker_boost": true
+  },
+  "duration_sec": 2.321995,
+  "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Voices\\Pilot Complete\\Scene15\\S15-N06-onyx-take001.mp3",
+  "sha256": "8afa461f91d4f78eda65daede8dac0cab4dac26e1bd70757a828a79a184770e8",
+  "request_id": "O8fU85xjZGKxe6glzemr",
+  "provider_character_cost": "8",
+  "status": "review_take_not_yet_approved"
+}

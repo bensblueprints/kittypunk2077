@@ -1,0 +1,21 @@
+{
+  "line_id": "S19-D02",
+  "scene": 19,
+  "role_id": "byte",
+  "text": "What?",
+  "voice_id": "wo6udizrrtpIxWGp2qJk",
+  "voice_name": "Northern Terry",
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.5,
+    "similarity_boost": 0.75,
+    "style": 0.15,
+    "use_speaker_boost": true
+  },
+  "duration_sec": 0.417959,
+  "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Voices\\Pilot Complete\\Scene19\\S19-D02-byte-take001.mp3",
+  "sha256": "201477a23035604a7d2e83a4891106c6448ff9d6b04c600de7394ccdbb94d8ca",
+  "request_id": "PBmyxokDl4JXFU2EzqZe",
+  "provider_character_cost": "1",
+  "status": "review_take_not_yet_approved"
+}

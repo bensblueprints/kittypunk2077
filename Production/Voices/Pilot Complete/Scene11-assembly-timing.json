@@ -1,0 +1,74 @@
+{
+  "scene": 11,
+  "duration_seconds": 42.58816326530612,
+  "target_scene_seconds": 75,
+  "placements": [
+    {
+      "line_id": "S11-D01",
+      "start": 0.0,
+      "end": 3.2043537414965986,
+      "text": "That restaurant costs more per meal than our entire building."
+    },
+    {
+      "line_id": "S11-D02",
+      "start": 3.504353741496599,
+      "end": 4.7582312925170065,
+      "text": "Can we eat first?"
+    },
+    {
+      "line_id": "S11-N01",
+      "start": 5.058231292517007,
+      "end": 11.977777777777778,
+      "text": "Front door has two guards. Service door has one camera. Their patrol crosses the alley every forty seconds."
+    },
+    {
+      "line_id": "S11-N02",
+      "start": 12.277777777777779,
+      "end": 17.29328798185941,
+      "text": "I am staying at this relay point. If you lose my signal, do not invent a heroic alternative."
+    },
+    {
+      "line_id": "S11-N03",
+      "start": 17.59328798185941,
+      "end": 20.983401360544217,
+      "text": "I stay by the service exit. Same way in, same way out."
+    },
+    {
+      "line_id": "S11-N04",
+      "start": 21.283401360544218,
+      "end": 26.438231292517006,
+      "text": "That is Barkington. The entourage came in the limousine. Keep the plate in the recording."
+    },
+    {
+      "line_id": "S11-N05",
+      "start": 26.738231292517007,
+      "end": 30.871383219954648,
+      "text": "The anchor is already inside. Private room, rear wall, blinds half closed."
+    },
+    {
+      "line_id": "S11-D03",
+      "start": 31.17138321995465,
+      "end": 32.56458049886621,
+      "text": "Target's inside."
+    },
+    {
+      "line_id": "S11-N06",
+      "start": 32.86458049886621,
+      "end": 36.161814058956914,
+      "text": "We can reach the hatch without crossing the main dining room."
+    },
+    {
+      "line_id": "S11-D04",
+      "start": 36.46181405895692,
+      "end": 38.69092970521542,
+      "text": "Nobody touches anything until we have evidence."
+    },
+    {
+      "line_id": "S11-N07",
+      "start": 38.99092970521542,
+      "end": 42.288163265306125,
+      "text": "Wait for the patrol to turn. We go together, and we leave together."
+    }
+  ],
+  "status": "dialogue review assembly, not final soundtrack"
+}

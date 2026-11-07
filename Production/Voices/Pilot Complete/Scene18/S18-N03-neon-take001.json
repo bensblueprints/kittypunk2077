@@ -1,0 +1,21 @@
+{
+  "line_id": "S18-N03",
+  "scene": 18,
+  "role_id": "neon",
+  "text": "The delivery code matches Byte’s price record.",
+  "voice_id": "4e32WqNVWRquDa1OcRYZ",
+  "voice_name": "Ryan — Product Reviewer",
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.5,
+    "similarity_boost": 0.75,
+    "style": 0.15,
+    "use_speaker_boost": true
+  },
+  "duration_sec": 2.972154,
+  "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Voices\\Pilot Complete\\Scene18\\S18-N03-neon-take001.mp3",
+  "sha256": "0fc3ec9c6273dfda931b8655f855708ea1cb1a0e14a393c592ed0dd3859655fb",
+  "request_id": "3M27GzBZ8N6G08OdB6m7",
+  "provider_character_cost": "10",
+  "status": "review_take_not_yet_approved"
+}

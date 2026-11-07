@@ -1,0 +1,21 @@
+{
+  "line_id": "S24-D01",
+  "scene": 24,
+  "role_id": "trixie",
+  "text": "All right. Now it's time to finish this mission.",
+  "voice_id": "dmWfLQZJq7wNPv9WmtiM",
+  "voice_name": "Emma — Wry, Gritty Hero",
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.35,
+    "similarity_boost": 0.8,
+    "style": 0.55,
+    "use_speaker_boost": true
+  },
+  "duration_sec": 2.089796,
+  "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Voices\\Pilot Complete\\Scene24\\S24-D01-trixie-take001.mp3",
+  "sha256": "737a1001f0a3bcb0fe0cccd142f0c05ec00db28f749ac907c501c0e7c06e2631",
+  "request_id": "IjU70r75Odezc0KK1dnc",
+  "provider_character_cost": "11",
+  "status": "review_take_not_yet_approved"
+}

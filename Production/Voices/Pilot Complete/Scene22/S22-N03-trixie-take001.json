@@ -1,0 +1,21 @@
+{
+  "line_id": "S22-N03",
+  "scene": 22,
+  "role_id": "trixie",
+  "text": "Release the already-loaded trucks first. Do not leave fresh stock waiting outside.",
+  "voice_id": "dmWfLQZJq7wNPv9WmtiM",
+  "voice_name": "Emma — Wry, Gritty Hero",
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.35,
+    "similarity_boost": 0.8,
+    "style": 0.55,
+    "use_speaker_boost": true
+  },
+  "duration_sec": 4.643991,
+  "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Voices\\Pilot Complete\\Scene22\\S22-N03-trixie-take001.mp3",
+  "sha256": "9d67aa9a754a308c7c48206cf45430a41672a79f3d4406513469a81ae97a83ec",
+  "request_id": "6nYDwRC2LV1MQaof2ktx",
+  "provider_character_cost": "18",
+  "status": "review_take_not_yet_approved"
+}

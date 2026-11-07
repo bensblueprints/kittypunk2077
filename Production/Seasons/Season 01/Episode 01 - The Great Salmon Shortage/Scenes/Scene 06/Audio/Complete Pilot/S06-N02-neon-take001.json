@@ -1,0 +1,21 @@
+{
+  "line_id": "S06-N02",
+  "scene": 6,
+  "role_id": "neon",
+  "text": "I can put the two timestamps side by side. Big enough for the back of the market.",
+  "voice_id": "4e32WqNVWRquDa1OcRYZ",
+  "voice_name": "Ryan — Product Reviewer",
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.5,
+    "similarity_boost": 0.75,
+    "style": 0.15,
+    "use_speaker_boost": true
+  },
+  "duration_sec": 5.10839,
+  "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Voices\\Pilot Complete\\Scene06\\S06-N02-neon-take001.mp3",
+  "sha256": "1189929cda56852f732037c04b918867f85373ddb2ca87a86ec36a898e08dab9",
+  "request_id": "3mBGotXlR9OXjQ8VDOfi",
+  "provider_character_cost": "18",
+  "status": "review_take_not_yet_approved"
+}

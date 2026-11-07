@@ -1,0 +1,13 @@
+{
+  "model": "wan-3.0-prime",
+  "duration_sec": 8,
+  "resolution": "1080p",
+  "aspect_ratio": "16:9",
+  "input_images": [
+    "https://kittypunk.144.76.78.158.sslip.io/generation-input/838fac350ffd8091ebe0c673d534148c6894f5b288fce67bfe4c1ab7334123b1/front.jpg"
+  ],
+  "prompt": "KittyPunk2077 cinematic tactile 3D animated film. Reference image defines exact character identities, wardrobe and set. Compose a medium shot emphasizing Ghost at LEFT end of the exact couch from the front reference, grey tabby green visor black green hood. Ghost calmly says he finished the mission. Gently pan to white female Trixie in middle magenta jacket for her surprised response, then settle on Ghost as he replies. Byte orange occupies the seat BETWEEN them; no seat swaps, no new cats. This is the same five-cat living room; Onyx and Neon remain farther right. Preserve outfits, faces and room. TV behind camera never visible. Natural restrained controller handling. No cuts. Input audio 1 is the approved ElevenLabs performance. Match turn-taking and mouth movements to its timing; only the specified speaker moves their mouth. At 0.00s Ghost says: I finished the mission. At 1.65s Trixie says: How? We are still inside the bank. At 4.32s Ghost says: I walked out the back. With the money. No added dialogue, narration, music, subtitles, titles or new characters. Preserve reference art quality. This clip will be trimmed at the end to exact editorial duration.",
+  "input_audios": [
+    "https://kittypunk.144.76.78.158.sslip.io/generation-input/838fac350ffd8091ebe0c673d534148c6894f5b288fce67bfe4c1ab7334123b1/shot07-approved.wav"
+  ]
+}

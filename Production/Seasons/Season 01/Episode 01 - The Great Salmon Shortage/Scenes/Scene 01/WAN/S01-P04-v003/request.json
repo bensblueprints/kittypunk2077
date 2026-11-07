@@ -1,0 +1,13 @@
+{
+  "model": "wan-3.0-prime",
+  "duration_sec": 10,
+  "resolution": "1080p",
+  "aspect_ratio": "16:9",
+  "input_images": [
+    "https://kittypunk.144.76.78.158.sslip.io/generation-input/f72678b88af0461e9b6f15829344c4500be8de1ff4274d5a840ab3d2a9f9cc1a/couch.jpg"
+  ],
+  "prompt": "KittyPunk2077 cinematic tactile 3D animated film. Reference image defines exact character identities, wardrobe and set. Front couch medium-wide exactly as reference image 1. EXACTLY five cats: left to right Ghost green, Byte orange, Trixie white magenta female, Onyx black violet, Neon silver cyan. Neon far right complains at his controller; Onyx second from right turns toward him with dry disbelief; Neon indignantly replies. Others react silently while holding controllers. TV is behind camera and never visible. Subtle natural paws, blinking, breathing, no extra limbs or standing. Keep the seat order, wall and corridor unchanged. Locked camera, one continuous shot. Input audio 1 is the approved ElevenLabs performance. Match turn-taking and mouth movements to its timing; only the specified speaker moves their mouth. At 0.00s Neon says: My controller has input lag. I pressed jump yesterday. At 3.55s Onyx says: You are in a car. Why are you pressing jump? At 6.54s Neon says: Because she keeps driving into buildings! No added dialogue, narration, music, subtitles, titles or new characters. Preserve reference art quality. This clip will be trimmed at the end to exact editorial duration.",
+  "input_audios": [
+    "https://kittypunk.144.76.78.158.sslip.io/generation-input/f72678b88af0461e9b6f15829344c4500be8de1ff4274d5a840ab3d2a9f9cc1a/approved.mp3"
+  ]
+}

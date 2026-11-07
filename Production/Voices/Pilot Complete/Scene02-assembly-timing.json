@@ -1,0 +1,74 @@
+{
+  "scene": 2,
+  "duration_seconds": 37.201133786848075,
+  "target_scene_seconds": 50,
+  "placements": [
+    {
+      "line_id": "S02-D01",
+      "start": 0.0,
+      "end": 1.9504761904761905,
+      "text": "What the fuck? We were almost done!"
+    },
+    {
+      "line_id": "S02-D02",
+      "start": 2.2504761904761903,
+      "end": 4.618911564625851,
+      "text": "Why do the dogs always have to interrupt our fun?"
+    },
+    {
+      "line_id": "S02-D03",
+      "start": 4.9189115646258506,
+      "end": 7.148027210884353,
+      "text": "They're literally stealing our playtime."
+    },
+    {
+      "line_id": "S02-N01",
+      "start": 7.448027210884354,
+      "end": 12.32421768707483,
+      "text": "The console is still running. Look, my controller is connected. Something is taking over the television."
+    },
+    {
+      "line_id": "S02-N02",
+      "start": 12.62421768707483,
+      "end": 14.899773242630385,
+      "text": "Great. Even our screen has a landlord."
+    },
+    {
+      "line_id": "S02-N03",
+      "start": 15.199773242630386,
+      "end": 18.218367346938777,
+      "text": "Try another channel. We paid for the game, not a lecture."
+    },
+    {
+      "line_id": "S02-N04",
+      "start": 18.518367346938774,
+      "end": 22.883718820861677,
+      "text": "Same signal on every channel. This is a district-wide override."
+    },
+    {
+      "line_id": "S02-D04",
+      "start": 23.183718820861678,
+      "end": 27.363310657596372,
+      "text": "If this is another mandatory obedience announcement, I'm gonna lose my shit."
+    },
+    {
+      "line_id": "S02-N05",
+      "start": 27.663310657596373,
+      "end": 31.47138321995465,
+      "text": "They can fix every television at once, but not the lift in our building."
+    },
+    {
+      "line_id": "S02-N06",
+      "start": 31.77138321995465,
+      "end": 34.9292970521542,
+      "text": "That is not a fault. Somebody wants our attention."
+    },
+    {
+      "line_id": "S02-D05",
+      "start": 35.229297052154195,
+      "end": 36.90113378684807,
+      "text": "Shh. Listen."
+    }
+  ],
+  "status": "dialogue review assembly, not final soundtrack"
+}

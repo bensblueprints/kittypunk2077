@@ -1,0 +1,21 @@
+{
+  "line_id": "S09-N05",
+  "scene": 9,
+  "role_id": "trixie",
+  "text": "We watch. We record. We leave. Nobody starts a fight over a suspicion.",
+  "voice_id": "dmWfLQZJq7wNPv9WmtiM",
+  "voice_name": "Emma — Wry, Gritty Hero",
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.35,
+    "similarity_boost": 0.8,
+    "style": 0.55,
+    "use_speaker_boost": true
+  },
+  "duration_sec": 5.24771,
+  "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Voices\\Pilot Complete\\Scene09\\S09-N05-trixie-take001.mp3",
+  "sha256": "3ba42e1a512f5196c5588306986ecd4671e4f4992c6ace2ce6ae7dbd09faef55",
+  "request_id": "TZeeDZBeAHjutlykmjuU",
+  "provider_character_cost": "15",
+  "status": "review_take_not_yet_approved"
+}

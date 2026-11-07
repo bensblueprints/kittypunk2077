@@ -1,0 +1,21 @@
+{
+  "line_id": "S10-D04",
+  "scene": 10,
+  "role_id": "onyx",
+  "text": "Holy shit. It works.",
+  "voice_id": "uq0HIbNZKn11Hs5ifEdd",
+  "voice_name": "Harry — Fierce Warrior",
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.5,
+    "similarity_boost": 0.75,
+    "style": 0.15,
+    "use_speaker_boost": true
+  },
+  "duration_sec": 1.718277,
+  "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Voices\\Pilot Complete\\Scene10\\S10-D04-onyx-take001.mp3",
+  "sha256": "9fe222f6f7cf62eecebfad54a76c21c1aef1bfb8c9c5c1db324862ffc4f9d82f",
+  "request_id": "83T8n8ZMJzFE5dj6SqKo",
+  "provider_character_cost": "4",
+  "status": "review_take_not_yet_approved"
+}

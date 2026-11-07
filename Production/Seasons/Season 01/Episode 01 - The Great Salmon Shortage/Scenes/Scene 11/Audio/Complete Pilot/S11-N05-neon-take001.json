@@ -1,0 +1,21 @@
+{
+  "line_id": "S11-N05",
+  "scene": 11,
+  "role_id": "neon",
+  "text": "The anchor is already inside. Private room, rear wall, blinds half closed.",
+  "voice_id": "4e32WqNVWRquDa1OcRYZ",
+  "voice_name": "Ryan — Product Reviewer",
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.5,
+    "similarity_boost": 0.75,
+    "style": 0.15,
+    "use_speaker_boost": true
+  },
+  "duration_sec": 4.133152,
+  "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Voices\\Pilot Complete\\Scene11\\S11-N05-neon-take001.mp3",
+  "sha256": "2fdb7f40a26a5bc8b6822f7772cb88e2e37dd8620424d10b736e60246d491764",
+  "request_id": "R7kRjt9AFt7SEmiCKkI2",
+  "provider_character_cost": "16",
+  "status": "review_take_not_yet_approved"
+}

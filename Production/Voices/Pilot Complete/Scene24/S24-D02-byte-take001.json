@@ -1,0 +1,21 @@
+{
+  "line_id": "S24-D02",
+  "scene": 24,
+  "role_id": "byte",
+  "text": "We've been trying to finish this shit all day.",
+  "voice_id": "wo6udizrrtpIxWGp2qJk",
+  "voice_name": "Northern Terry",
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.5,
+    "similarity_boost": 0.75,
+    "style": 0.15,
+    "use_speaker_boost": true
+  },
+  "duration_sec": 2.182676,
+  "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Voices\\Pilot Complete\\Scene24\\S24-D02-byte-take001.mp3",
+  "sha256": "bb67da4c177f14880bb4ddb68a5df40d395165bbf2b64c9c49400a0d193515bf",
+  "request_id": "8OMqE7v8r8qjJTJcPLzg",
+  "provider_character_cost": "10",
+  "status": "review_take_not_yet_approved"
+}

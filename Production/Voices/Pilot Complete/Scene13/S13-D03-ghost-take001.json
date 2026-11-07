@@ -1,0 +1,21 @@
+{
+  "line_id": "S13-D03",
+  "scene": 13,
+  "role_id": "ghost",
+  "text": "I am moving.",
+  "voice_id": "7fBwqIVI6wI1B4MuKqQi",
+  "voice_name": "Austin — Upbeat",
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.5,
+    "similarity_boost": 0.75,
+    "style": 0.15,
+    "use_speaker_boost": true
+  },
+  "duration_sec": 1.160998,
+  "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Voices\\Pilot Complete\\Scene13\\S13-D03-ghost-take001.mp3",
+  "sha256": "84d000a4d86230d419ddf4f3efd709d369c0aa558b9a50237639aa96a76880e9",
+  "request_id": "cHrwQ9N5dzuzzEHzhQOc",
+  "provider_character_cost": "3",
+  "status": "review_take_not_yet_approved"
+}

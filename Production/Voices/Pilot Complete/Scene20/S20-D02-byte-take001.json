@@ -1,0 +1,21 @@
+{
+  "line_id": "S20-D02",
+  "scene": 20,
+  "role_id": "byte",
+  "text": "Technically, they've been shipping it.",
+  "voice_id": "wo6udizrrtpIxWGp2qJk",
+  "voice_name": "Northern Terry",
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.5,
+    "similarity_boost": 0.75,
+    "style": 0.15,
+    "use_speaker_boost": true
+  },
+  "duration_sec": 1.904036,
+  "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Voices\\Pilot Complete\\Scene20\\S20-D02-byte-take001.mp3",
+  "sha256": "26f47182222bcfc4af7db642bc2c677dc26399eec6a41c317caa31df589ae122",
+  "request_id": "QsPLaOPr3yKihfVO5nlT",
+  "provider_character_cost": "8",
+  "status": "review_take_not_yet_approved"
+}

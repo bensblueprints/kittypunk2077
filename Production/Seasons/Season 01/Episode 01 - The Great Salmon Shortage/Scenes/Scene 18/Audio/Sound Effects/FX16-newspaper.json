@@ -1,0 +1,20 @@
+{
+  "id": "FX16-newspaper",
+  "scenes": [
+    17,
+    18
+  ],
+  "request": {
+    "text": "Newspaper printing rollers run briefly, followed by crisp newspaper unfolding and page turning close to microphone. No speech, no music.",
+    "duration_seconds": 8,
+    "loop": false,
+    "prompt_influence": 0.45,
+    "model_id": "eleven_text_to_sound_v2"
+  },
+  "status": "completed",
+  "created": "2026-11-07T01:15:03.128106+00:00",
+  "bytes": 129192,
+  "sha256": "eb73d4d7ee7ff5e7d994b61c1ee097577dd5753db7d794813c5cd8f22a7a2932",
+  "character_cost": "44",
+  "request_id": null
+}

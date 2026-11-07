@@ -1,0 +1,21 @@
+{
+  "line_id": "S18-N01",
+  "scene": 18,
+  "role_id": "civilian_2",
+  "text": "I read your story. The freezer is still empty. What do we eat tonight?",
+  "voice_id": "b5RPB35vTODb3BEmR3Fc",
+  "voice_name": "Serein - Friendly, Casual and Balanced",
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.5,
+    "similarity_boost": 0.75,
+    "style": 0.15,
+    "use_speaker_boost": true
+  },
+  "duration_sec": 5.10839,
+  "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Voices\\Pilot Complete\\Scene18\\S18-N01-civilian_2-take001.mp3",
+  "sha256": "3e21d7eac94426581814871f4bf96f5ef091faf85fca78c4d011d48c52f1319e",
+  "request_id": "oc4kMxQUyI4OWbOduyue",
+  "provider_character_cost": "15",
+  "status": "review_take_not_yet_approved"
+}

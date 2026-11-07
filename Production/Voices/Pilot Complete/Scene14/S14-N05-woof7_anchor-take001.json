@@ -1,0 +1,21 @@
+{
+  "line_id": "S14-N05",
+  "scene": 14,
+  "role_id": "woof7_anchor",
+  "text": "My producers will want a reason to move the other story off the schedule.",
+  "voice_id": "cjVigY5qzO86Huf0OWal",
+  "voice_name": "Eric",
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.5,
+    "similarity_boost": 0.75,
+    "style": 0.15,
+    "use_speaker_boost": true
+  },
+  "duration_sec": 3.808073,
+  "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Voices\\Pilot Complete\\Scene14\\S14-N05-woof7_anchor-take001.mp3",
+  "sha256": "47002c871e15dd4650ef3ce83dbd38f62571839e195594e85a4a772116382a8f",
+  "request_id": "EajcAJq5M20k8jaqI8eU",
+  "provider_character_cost": "16",
+  "status": "review_take_not_yet_approved"
+}

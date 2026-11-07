@@ -1,0 +1,10 @@
+{
+  "model": "wan-3.0-prime",
+  "duration_sec": 6,
+  "resolution": "1080p",
+  "aspect_ratio": "16:9",
+  "input_images": [
+    "https://d8j0ntlcm91z4.cloudfront.net/user_3FexRxU2V7FefQUvOnG7eFCKfmw/hf_20261107_002352_6a3d5d2c-ed0e-44f8-a0a0-66685b756c01.png"
+  ],
+  "prompt": "KittyPunk2077 cinematic tactile 3D animated film. Reference image defines exact character identities, wardrobe and set. Locked rear medium-wide of the exact FIVE cats playing on the couch in reference image 1. Keep left to right Neon cyan, Onyx black violet, Trixie white magenta, Byte orange, Ghost green hood. Subtle excited shoulder movement, controller button presses, ear twitches. Nobody stands or swaps seats. Inside the distant TV screen the magenta car races toward the bank. All moving game imagery ONLY inside inner TV glass; casing and room geometry fixed. No dialogue. No camera movement or cuts. No added dialogue, narration, music, subtitles, titles or new characters. Preserve reference art quality. This clip will be trimmed at the end to exact editorial duration."
+}

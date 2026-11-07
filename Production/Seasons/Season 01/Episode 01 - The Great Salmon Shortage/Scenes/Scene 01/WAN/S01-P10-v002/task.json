@@ -1,0 +1,12 @@
+{
+  "id": "task_mPWpHt8xTo4jmNllliqkIFXbvn0hNIPf",
+  "object": "video",
+  "model": "wan-3.0-prime",
+  "status": "in_progress",
+  "progress": 0,
+  "created_at": 1794014995,
+  "completed_at": 1794015248,
+  "metadata": {
+    "url": ""
+  }
+}

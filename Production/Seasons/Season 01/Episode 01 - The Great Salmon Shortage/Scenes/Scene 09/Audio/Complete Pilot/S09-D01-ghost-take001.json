@@ -1,0 +1,21 @@
+{
+  "line_id": "S09-D01",
+  "scene": 9,
+  "role_id": "ghost",
+  "text": "Barkington has a private dinner tonight.",
+  "voice_id": "7fBwqIVI6wI1B4MuKqQi",
+  "voice_name": "Austin — Upbeat",
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.5,
+    "similarity_boost": 0.75,
+    "style": 0.15,
+    "use_speaker_boost": true
+  },
+  "duration_sec": 2.507755,
+  "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Voices\\Pilot Complete\\Scene09\\S09-D01-ghost-take001.mp3",
+  "sha256": "329123d0558426cfdd7cc828f38f68362cd88ab7d63b7092c702cb9daad1d707",
+  "request_id": "6WWRsGco0z7jkYbO12V7",
+  "provider_character_cost": "9",
+  "status": "review_take_not_yet_approved"
+}

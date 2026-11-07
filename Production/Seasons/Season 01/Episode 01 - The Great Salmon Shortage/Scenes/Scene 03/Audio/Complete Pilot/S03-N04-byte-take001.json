@@ -1,0 +1,21 @@
+{
+  "line_id": "S03-N04",
+  "scene": 3,
+  "role_id": "byte",
+  "text": "With what money? The emergency does not come with an emergency wallet.",
+  "voice_id": "wo6udizrrtpIxWGp2qJk",
+  "voice_name": "Northern Terry",
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.5,
+    "similarity_boost": 0.75,
+    "style": 0.15,
+    "use_speaker_boost": true
+  },
+  "duration_sec": 3.900952,
+  "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Voices\\Pilot Complete\\Scene03\\S03-N04-byte-take001.mp3",
+  "sha256": "ac92b527415a2272e52d2bf128cc9b283320f65e54b6515eed43973c555422c6",
+  "request_id": "XcrfZolAufOrcSy3P249",
+  "provider_character_cost": "15",
+  "status": "review_take_not_yet_approved"
+}

@@ -1,0 +1,21 @@
+{
+  "line_id": "S07-D01",
+  "scene": 7,
+  "role_id": "trixie",
+  "text": "They think we're stupid! They think they can take our food, triple the price, and tell us to be grateful!",
+  "voice_id": "dmWfLQZJq7wNPv9WmtiM",
+  "voice_name": "Emma — Wry, Gritty Hero",
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.35,
+    "similarity_boost": 0.8,
+    "style": 0.55,
+    "use_speaker_boost": true
+  },
+  "duration_sec": 5.851429,
+  "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Voices\\Pilot Complete\\Scene07\\S07-D01-trixie-take001.mp3",
+  "sha256": "d6ae632b327c15be4fe4b516bc403568b4133d9d87fb1c9644aef92948e78da9",
+  "request_id": "EFDQzXZB8OCjHXPvUVFQ",
+  "provider_character_cost": "23",
+  "status": "review_take_not_yet_approved"
+}

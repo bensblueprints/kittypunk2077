@@ -1,0 +1,1783 @@
+{
+  "runtime_seconds": 1200,
+  "status": "complete dialogue timeline; action gaps reserved, effects and score mix pending",
+  "speech_time_stretched": false,
+  "placements": [
+    {
+      "line_id": "S01-D01",
+      "scene": 1,
+      "start": 12.0,
+      "end": 14.461315192743765,
+      "source_audio_id": "7385c78a469a020b",
+      "text": "Left! LEFT! That is a wall, Trixie!"
+    },
+    {
+      "line_id": "S01-D02",
+      "scene": 1,
+      "start": 14.761,
+      "end": 16.339956916099773,
+      "source_audio_id": "fd5f566859105b8b",
+      "text": "Relax. I found a shortcut."
+    },
+    {
+      "line_id": "S01-D03",
+      "scene": 1,
+      "start": 16.64,
+      "end": 18.265396825396827,
+      "source_audio_id": "5c4a58b6f02aa3aa",
+      "text": "Through the bank we just robbed?"
+    },
+    {
+      "line_id": "S01-D04",
+      "scene": 1,
+      "start": 18.566,
+      "end": 21.81679365079365,
+      "source_audio_id": "818608a43905e9cf",
+      "text": "My controller has input lag. I pressed jump yesterday."
+    },
+    {
+      "line_id": "S01-D05",
+      "scene": 1,
+      "start": 22.116,
+      "end": 24.809514739229023,
+      "source_audio_id": "f566da8f795b96b4",
+      "text": "You are in a car. Why are you pressing jump?"
+    },
+    {
+      "line_id": "S01-D06",
+      "scene": 1,
+      "start": 25.11,
+      "end": 27.478435374149658,
+      "source_audio_id": "f17afb44f68acf74",
+      "text": "Because she keeps driving into buildings!"
+    },
+    {
+      "line_id": "S01-D07",
+      "scene": 1,
+      "start": 27.778,
+      "end": 29.774916099773243,
+      "source_audio_id": "2b378909e3ed77be",
+      "text": "Nobody appreciates experimental driving."
+    },
+    {
+      "line_id": "S01-D08",
+      "scene": 1,
+      "start": 30.075,
+      "end": 33.00071428571429,
+      "source_audio_id": "8e65abf758172867",
+      "text": "The police appreciate it. All six helicopters."
+    },
+    {
+      "line_id": "S01-D09",
+      "scene": 1,
+      "start": 33.301,
+      "end": 36.31959410430839,
+      "source_audio_id": "ad385f5b4a5245a5",
+      "text": "One more crash and somebody is going through that window."
+    },
+    {
+      "line_id": "S01-D10",
+      "scene": 1,
+      "start": 36.62,
+      "end": 37.54879818594104,
+      "source_audio_id": "8882e5aa14734d9e",
+      "text": "In the game?"
+    },
+    {
+      "line_id": "S01-D11",
+      "scene": 1,
+      "start": 37.848,
+      "end": 39.14831746031746,
+      "source_audio_id": "d9fbaee68ad9e5c3",
+      "text": "Keep testing me."
+    },
+    {
+      "line_id": "S01-D12",
+      "scene": 1,
+      "start": 39.449,
+      "end": 40.79575736961451,
+      "source_audio_id": "6f7e93070e785fda",
+      "text": "I finished the mission."
+    },
+    {
+      "line_id": "S01-D13",
+      "scene": 1,
+      "start": 41.096,
+      "end": 43.46443537414966,
+      "source_audio_id": "01512a53e577f0ad",
+      "text": "How? We are still inside the bank."
+    },
+    {
+      "line_id": "S01-D14",
+      "scene": 1,
+      "start": 43.764,
+      "end": 46.225315192743764,
+      "source_audio_id": "3bd795b77bfd1453",
+      "text": "I walked out the back. With the money."
+    },
+    {
+      "line_id": "S01-D15",
+      "scene": 1,
+      "start": 46.525,
+      "end": 47.45379818594104,
+      "source_audio_id": "06baa0dd3cde4e08",
+      "text": "You left us?"
+    },
+    {
+      "line_id": "S01-D16",
+      "scene": 1,
+      "start": 47.754,
+      "end": 50.81903401360544,
+      "source_audio_id": "85b71d454c9aa924",
+      "text": "You said cover the exit. I covered my exit."
+    },
+    {
+      "line_id": "S01-D17",
+      "scene": 1,
+      "start": 51.119,
+      "end": 53.58031519274376,
+      "source_audio_id": "754034e203627c42",
+      "text": "Rematch. Nobody leaves the couch until we win."
+    },
+    {
+      "line_id": "S02-D01",
+      "scene": 2,
+      "start": 73.8,
+      "end": 75.75047619047619,
+      "source_audio_id": "76bdf0c7a9bbdcb0",
+      "text": "What the fuck? We were almost done!"
+    },
+    {
+      "line_id": "S02-D02",
+      "scene": 2,
+      "start": 75.95,
+      "end": 78.31843537414966,
+      "source_audio_id": "135fa113457eae53",
+      "text": "Why do the dogs always have to interrupt our fun?"
+    },
+    {
+      "line_id": "S02-D03",
+      "scene": 2,
+      "start": 79.344,
+      "end": 81.5731156462585,
+      "source_audio_id": "c1a02019a3d43be2",
+      "text": "They're literally stealing our playtime."
+    },
+    {
+      "line_id": "S02-N01",
+      "scene": 2,
+      "start": 81.773,
+      "end": 86.64919047619047,
+      "source_audio_id": "dc9ffd328ddbbbb7",
+      "text": "The console is still running. Look, my controller is connected. Something is taking over the television."
+    },
+    {
+      "line_id": "S02-N02",
+      "scene": 2,
+      "start": 89.198,
+      "end": 91.47355555555555,
+      "source_audio_id": "0b66785b7e5f0ea5",
+      "text": "Great. Even our screen has a landlord."
+    },
+    {
+      "line_id": "S02-N03",
+      "scene": 2,
+      "start": 92.198,
+      "end": 95.21659410430838,
+      "source_audio_id": "cf89dd55ea966e6a",
+      "text": "Try another channel. We paid for the game, not a lecture."
+    },
+    {
+      "line_id": "S02-N04",
+      "scene": 2,
+      "start": 97.623,
+      "end": 101.9883514739229,
+      "source_audio_id": "03020e20384fae2a",
+      "text": "Same signal on every channel. This is a district-wide override."
+    },
+    {
+      "line_id": "S02-D04",
+      "scene": 2,
+      "start": 102.648,
+      "end": 106.82759183673468,
+      "source_audio_id": "27b8e269d7538438",
+      "text": "If this is another mandatory obedience announcement, I'm gonna lose my shit."
+    },
+    {
+      "line_id": "S02-N05",
+      "scene": 2,
+      "start": 107.028,
+      "end": 110.83607256235828,
+      "source_audio_id": "8bef8ea9852b7eac",
+      "text": "They can fix every television at once, but not the lift in our building."
+    },
+    {
+      "line_id": "S02-N06",
+      "scene": 2,
+      "start": 113.653,
+      "end": 116.81091383219955,
+      "source_audio_id": "0e03d6ea096c6119",
+      "text": "That is not a fault. Somebody wants our attention."
+    },
+    {
+      "line_id": "S02-D05",
+      "scene": 2,
+      "start": 117.453,
+      "end": 119.12483673469389,
+      "source_audio_id": "76a032efcdedac1d",
+      "text": "Shh. Listen."
+    },
+    {
+      "line_id": "S03-D01",
+      "scene": 3,
+      "start": 125.574,
+      "end": 143.08184580498866,
+      "source_audio_id": "50cd626442b36bd7",
+      "text": "Citizens of Districts Seven through Twelve. Due to an unprecedented salmon supply emergency, you are advised to acquire no less than thirty days of fresh salmon immediately. Goodboy Global thanks you for your obedience."
+    },
+    {
+      "line_id": "S03-N01",
+      "scene": 3,
+      "start": 144.994,
+      "end": 149.59155102040816,
+      "source_audio_id": "e67e50090128b2bd",
+      "text": "Seven through Twelve. Why are the first six districts missing from that map?"
+    },
+    {
+      "line_id": "S03-N02",
+      "scene": 3,
+      "start": 150.394,
+      "end": 154.2949523809524,
+      "source_audio_id": "ef22231b8eb9e58b",
+      "text": "Save the broadcast. The original file, with the time on it."
+    },
+    {
+      "line_id": "S03-D02",
+      "scene": 3,
+      "start": 156.706,
+      "end": 159.0279954648526,
+      "source_audio_id": "2a856c2ddfb3552a",
+      "text": "Thirty days? I can't afford thirty minutes."
+    },
+    {
+      "line_id": "S03-D03",
+      "scene": 3,
+      "start": 159.228,
+      "end": 160.62119727891158,
+      "source_audio_id": "c830331d348befa2",
+      "text": "Something smells fishy."
+    },
+    {
+      "line_id": "S03-D04",
+      "scene": 3,
+      "start": 160.821,
+      "end": 162.21419727891157,
+      "source_audio_id": "570ba44dbfead2b1",
+      "text": "It's literally fish."
+    },
+    {
+      "line_id": "S03-N03",
+      "scene": 3,
+      "start": 164.126,
+      "end": 166.40155555555555,
+      "source_audio_id": "fea426bb05166e65",
+      "text": "We check the shop before we believe any of this."
+    },
+    {
+      "line_id": "S03-N04",
+      "scene": 3,
+      "start": 168.326,
+      "end": 172.22695238095238,
+      "source_audio_id": "ac92b527415a2272",
+      "text": "With what money? The emergency does not come with an emergency wallet."
+    },
+    {
+      "line_id": "S03-N05",
+      "scene": 3,
+      "start": 175.038,
+      "end": 178.1494739229025,
+      "source_audio_id": "4ce7428b46ac861d",
+      "text": "Bring your scanner. We need prices, not another argument."
+    },
+    {
+      "line_id": "S03-N06",
+      "scene": 3,
+      "start": 178.838,
+      "end": 181.71727437641724,
+      "source_audio_id": "e24c7b2faa0e1577",
+      "text": "I will keep the others here. Tell us what you find."
+    },
+    {
+      "line_id": "S04-N01",
+      "scene": 4,
+      "start": 185.15,
+      "end": 189.3295918367347,
+      "source_audio_id": "ea3f1c4fdf6b829e",
+      "text": "That queue was not here ten minutes ago. They have not even opened the second till."
+    },
+    {
+      "line_id": "S04-D01",
+      "scene": 4,
+      "start": 194.885,
+      "end": 196.55683673469386,
+      "source_audio_id": "6252916fa5ca06c7",
+      "text": "You think there's really a shortage?"
+    },
+    {
+      "line_id": "S04-D02",
+      "scene": 4,
+      "start": 196.757,
+      "end": 198.8932358276644,
+      "source_audio_id": "3487a5bc76bab84c",
+      "text": "I think someone wants us to believe there is."
+    },
+    {
+      "line_id": "S04-N02",
+      "scene": 4,
+      "start": 199.093,
+      "end": 203.13327210884353,
+      "source_audio_id": "ec82acb65bad40d7",
+      "text": "Look at them. Everyone heard the same warning and ran for the same shelf."
+    },
+    {
+      "line_id": "S04-N03",
+      "scene": 4,
+      "start": 208.028,
+      "end": 212.11471201814058,
+      "source_audio_id": "de5fcd676410a0dd",
+      "text": "Please. That is the last tin. My little one has not eaten."
+    },
+    {
+      "line_id": "S04-N04",
+      "scene": 4,
+      "start": 213.028,
+      "end": 217.6719909297052,
+      "source_audio_id": "9edf71064ae60420",
+      "text": "Hey. There is room for both of you. Fighting each other will not fill the freezer."
+    },
+    {
+      "line_id": "S04-N05",
+      "scene": 4,
+      "start": 222.762,
+      "end": 226.98803174603174,
+      "source_audio_id": "43c02296bb8a6241",
+      "text": "The board says fresh delivery this morning. Why are they already rationing it?"
+    },
+    {
+      "line_id": "S04-N06",
+      "scene": 4,
+      "start": 228.162,
+      "end": 230.66975510204082,
+      "source_audio_id": "a5d2adb33c53f060",
+      "text": "Photograph that notice. Let us see what changed inside."
+    },
+    {
+      "line_id": "S04-D03",
+      "scene": 4,
+      "start": 235.097,
+      "end": 236.81527664399093,
+      "source_audio_id": "f2b3fc3444d12f1e",
+      "text": "So... we're not getting snacks?"
+    },
+    {
+      "line_id": "S05-D01",
+      "scene": 5,
+      "start": 249.99,
+      "end": 253.14791383219955,
+      "source_audio_id": "edba6892c03401a4",
+      "text": "Thirty bucks for a piece of fish? Last week it was ten!"
+    },
+    {
+      "line_id": "S05-D02",
+      "scene": 5,
+      "start": 253.348,
+      "end": 255.25203628117916,
+      "source_audio_id": "92199ee6b9c06e9e",
+      "text": "Check the price history. When did it change?"
+    },
+    {
+      "line_id": "S05-D03",
+      "scene": 5,
+      "start": 259.372,
+      "end": 263.6444716553288,
+      "source_audio_id": "128ebbff88f6429f",
+      "text": "Before the broadcast. They raised it before anyone knew there was an emergency."
+    },
+    {
+      "line_id": "S05-D04",
+      "scene": 5,
+      "start": 263.844,
+      "end": 266.53751473922904,
+      "source_audio_id": "058a2dab04079c72",
+      "text": "They knew. We were the last ones told."
+    },
+    {
+      "line_id": "S05-D05",
+      "scene": 5,
+      "start": 270.658,
+      "end": 274.00167346938775,
+      "source_audio_id": "8620f648a4e1abee",
+      "text": "Two packs left. At this price, we can afford to look at one."
+    },
+    {
+      "line_id": "S05-D06",
+      "scene": 5,
+      "start": 274.202,
+      "end": 275.8273968253968,
+      "source_audio_id": "a09055fa02125aea",
+      "text": "They are manufacturing panic."
+    },
+    {
+      "line_id": "S05-D07",
+      "scene": 5,
+      "start": 276.027,
+      "end": 278.1632358276644,
+      "source_audio_id": "08849ce6b81483d9",
+      "text": "Well, it is working. I am panicking."
+    },
+    {
+      "line_id": "S05-D08",
+      "scene": 5,
+      "start": 282.283,
+      "end": 286.8341111111111,
+      "source_audio_id": "c4ac0341a87d779e",
+      "text": "Save the timestamp. And the old price. We need something people can check."
+    },
+    {
+      "line_id": "S05-D09",
+      "scene": 5,
+      "start": 287.034,
+      "end": 290.19191383219953,
+      "source_audio_id": "ce7fbd909311958c",
+      "text": "Done. Apparently dinner now comes with an investigation."
+    },
+    {
+      "line_id": "S05-D10",
+      "scene": 5,
+      "start": 294.312,
+      "end": 296.03027664399093,
+      "source_audio_id": "e6d9ff89ba19bb1b",
+      "text": "We are going to tell the whole district."
+    },
+    {
+      "line_id": "S06-D01",
+      "scene": 6,
+      "start": 300.15,
+      "end": 302.9363945578231,
+      "source_audio_id": "0c07e9a2484de1a1",
+      "text": "They tripled the price before they announced the shortage!"
+    },
+    {
+      "line_id": "S06-D02",
+      "scene": 6,
+      "start": 304.71,
+      "end": 308.61095238095237,
+      "source_audio_id": "f76fe0fb27b24564",
+      "text": "Those bastards! I sold my litter box to buy dinner!"
+    },
+    {
+      "line_id": "S06-D03",
+      "scene": 6,
+      "start": 308.91,
+      "end": 311.3248752834467,
+      "source_audio_id": "8d6fbe3864d9b8e1",
+      "text": "Okay, that's a personal budgeting problem."
+    },
+    {
+      "line_id": "S06-N01",
+      "scene": 6,
+      "start": 311.51,
+      "end": 316.24687074829933,
+      "source_audio_id": "61bdeed850213415",
+      "text": "Bad joke. Sorry. Keep your receipt; it can help us prove when the price changed."
+    },
+    {
+      "line_id": "S06-N02",
+      "scene": 6,
+      "start": 318.47,
+      "end": 323.57839002267576,
+      "source_audio_id": "1189929cda56852f",
+      "text": "I can put the two timestamps side by side. Big enough for the back of the market."
+    },
+    {
+      "line_id": "S06-N03",
+      "scene": 6,
+      "start": 326.23,
+      "end": 330.87399092970526,
+      "source_audio_id": "bc5798e98917113d",
+      "text": "Hide the customers\u2019 names. We need prices, not a list of people for the patrols."
+    },
+    {
+      "line_id": "S06-N04",
+      "scene": 6,
+      "start": 333.19,
+      "end": 337.1373922902494,
+      "source_audio_id": "498edf117906ea38",
+      "text": "If you bought fish today, compare your receipt. Do not take our word for it."
+    },
+    {
+      "line_id": "S06-N05",
+      "scene": 6,
+      "start": 339.39,
+      "end": 342.7336734693877,
+      "source_audio_id": "eb94c6e205852527",
+      "text": "Leave a path through the crowd. People still need to get home."
+    },
+    {
+      "line_id": "S07-D01",
+      "scene": 7,
+      "start": 349.3,
+      "end": 355.1514285714286,
+      "source_audio_id": "d6ae632b327c15be",
+      "text": "They think we're stupid! They think they can take our food, triple the price, and tell us to be grateful!"
+    },
+    {
+      "line_id": "S07-N01",
+      "scene": 7,
+      "start": 358.575,
+      "end": 364.5193083900227,
+      "source_audio_id": "1896cdf4be143986",
+      "text": "Here is yesterday\u2019s price. Here is this morning\u2019s. Same shop, same pack, three times the money."
+    },
+    {
+      "line_id": "S07-N02",
+      "scene": 7,
+      "start": 366.25,
+      "end": 372.1014285714286,
+      "source_audio_id": "b7c17f32158bd8f6",
+      "text": "This proves the timing. It does not tell us where the fish went. We still need the shipping records."
+    },
+    {
+      "line_id": "S07-N03",
+      "scene": 7,
+      "start": 374.05,
+      "end": 379.25126984126985,
+      "source_audio_id": "b3aab994562691c1",
+      "text": "Then we ask for them. Every district deserves to know who gets fed and who gets left out."
+    },
+    {
+      "line_id": "S07-N04",
+      "scene": 7,
+      "start": 382.525,
+      "end": 386.75103174603174,
+      "source_audio_id": "8384eafae2893dc5",
+      "text": "I have mirrored the receipts. If this screen goes dark, the evidence stays online."
+    },
+    {
+      "line_id": "S07-N05",
+      "scene": 7,
+      "start": 388.325,
+      "end": 394.2693083900227,
+      "source_audio_id": "0257bb8af7632878",
+      "text": "And nobody smashes the stalls. These people are our neighbors, not the people setting the prices."
+    },
+    {
+      "line_id": "S07-D02",
+      "scene": 7,
+      "start": 396.0,
+      "end": 398.4148752834467,
+      "source_audio_id": "8e393d41783bfd08",
+      "text": "NO MORE BONES! GIVE US SALMON!"
+    },
+    {
+      "line_id": "S07-D03",
+      "scene": 7,
+      "start": 398.6,
+      "end": 400.59691609977324,
+      "source_audio_id": "1720134f3b33e31a",
+      "text": "That's the dumbest chant I've ever heard."
+    },
+    {
+      "line_id": "S07-D04",
+      "scene": 7,
+      "start": 401.6,
+      "end": 402.66811791383225,
+      "source_audio_id": "213c9be1365e667b",
+      "text": "It's trending."
+    },
+    {
+      "line_id": "S07-N06",
+      "scene": 7,
+      "start": 403.675,
+      "end": 407.8081519274377,
+      "source_audio_id": "a6604956d07e55ee",
+      "text": "Keep your receipts. Help your neighbors. We are going to find an answer."
+    },
+    {
+      "line_id": "S08-D01",
+      "scene": 8,
+      "start": 413.883,
+      "end": 416.15855555555555,
+      "source_audio_id": "4ca116ed5146fe75",
+      "text": "Are you really going to bring the salmon back?"
+    },
+    {
+      "line_id": "S08-D02",
+      "scene": 8,
+      "start": 417.683,
+      "end": 419.3548367346939,
+      "source_audio_id": "fbb98f0cd53d7c50",
+      "text": "We're going to find out where it went."
+    },
+    {
+      "line_id": "S08-N01",
+      "scene": 8,
+      "start": 421.083,
+      "end": 423.2656757369615,
+      "source_audio_id": "e46ecbd2518d2cea",
+      "text": "Mum says promises do not fit in a bowl."
+    },
+    {
+      "line_id": "S08-N02",
+      "scene": 8,
+      "start": 425.75,
+      "end": 430.62619047619046,
+      "source_audio_id": "12ca54be99d021f2",
+      "text": "She is right. I will not promise what I cannot deliver. But I will not forget you."
+    },
+    {
+      "line_id": "S08-D03",
+      "scene": 8,
+      "start": 433.617,
+      "end": 436.31051473922906,
+      "source_audio_id": "836eca4b98d71261",
+      "text": "You realize we have no fucking idea where it went?"
+    },
+    {
+      "line_id": "S08-D04",
+      "scene": 8,
+      "start": 437.817,
+      "end": 438.83867800453515,
+      "source_audio_id": "f14a35be8a488c63",
+      "text": "Working on that."
+    },
+    {
+      "line_id": "S08-N03",
+      "scene": 8,
+      "start": 439.217,
+      "end": 442.04983446712015,
+      "source_audio_id": "a3831c3b429ab511",
+      "text": "You have made that significantly harder to walk away from."
+    },
+    {
+      "line_id": "S08-N04",
+      "scene": 8,
+      "start": 444.283,
+      "end": 447.48735374149663,
+      "source_audio_id": "df748da2d9b9d8e6",
+      "text": "Good. Get the others. We start with who profits from the panic."
+    },
+    {
+      "line_id": "S09-N01",
+      "scene": 9,
+      "start": 450.15,
+      "end": 455.81566893424036,
+      "source_audio_id": "fc3d46871a6b3142",
+      "text": "Every price update came through the same corporate feed. The shops did not choose it individually."
+    },
+    {
+      "line_id": "S09-N02",
+      "scene": 9,
+      "start": 458.864,
+      "end": 465.9228662131519,
+      "source_audio_id": "2b95f82dcdc7bfb1",
+      "text": "The message content is encrypted. The meeting confirmation is not. Same names, same time, one private room."
+    },
+    {
+      "line_id": "S09-D01",
+      "scene": 9,
+      "start": 466.0728662131519,
+      "end": 468.5806213151927,
+      "source_audio_id": "329123d0558426cf",
+      "text": "Barkington has a private dinner tonight."
+    },
+    {
+      "line_id": "S09-D02",
+      "scene": 9,
+      "start": 470.579,
+      "end": 472.2508367346939,
+      "source_audio_id": "4882a090655333a3",
+      "text": "With the WOOF7 news anchor."
+    },
+    {
+      "line_id": "S09-D03",
+      "scene": 9,
+      "start": 472.779,
+      "end": 475.9833537414966,
+      "source_audio_id": "b899d5483b8c29d4",
+      "text": "The same network telling everyone to panic-buy salmon."
+    },
+    {
+      "line_id": "S09-N03",
+      "scene": 9,
+      "start": 478.293,
+      "end": 483.26207029478456,
+      "source_audio_id": "2c7628eb3a46987a",
+      "text": "Steak and Bone. Their public booking map shows a service corridor behind the dining room."
+    },
+    {
+      "line_id": "S09-N04",
+      "scene": 9,
+      "start": 486.607,
+      "end": 488.4645963718821,
+      "source_audio_id": "ca99e8842f825ec3",
+      "text": "So we walk in and ask nicely?"
+    },
+    {
+      "line_id": "S09-N05",
+      "scene": 9,
+      "start": 489.607,
+      "end": 494.85470975056694,
+      "source_audio_id": "3ba42e1a512f5196",
+      "text": "We watch. We record. We leave. Nobody starts a fight over a suspicion."
+    },
+    {
+      "line_id": "S09-N06",
+      "scene": 9,
+      "start": 497.121,
+      "end": 500.9290725623583,
+      "source_audio_id": "04527479172aee89",
+      "text": "A photograph of two dogs having dinner is not going to prove much."
+    },
+    {
+      "line_id": "S09-N07",
+      "scene": 9,
+      "start": 502.521,
+      "end": 505.86467346938775,
+      "source_audio_id": "d03e6a27697fd02c",
+      "text": "Correct. Which is why we need to hear what they say."
+    },
+    {
+      "line_id": "S09-N08",
+      "scene": 9,
+      "start": 509.236,
+      "end": 512.9976326530613,
+      "source_audio_id": "54d3f54bf9bb70c6",
+      "text": "The microphone needs line of sight. I can hide it in the service hatch."
+    },
+    {
+      "line_id": "S09-D04",
+      "scene": 9,
+      "start": 515.036,
+      "end": 516.7078367346938,
+      "source_audio_id": "b92068c6159d951a",
+      "text": "Then let's see what's on the menu."
+    },
+    {
+      "line_id": "S10-N01",
+      "scene": 10,
+      "start": 520.15,
+      "end": 526.6980272108843,
+      "source_audio_id": "db6597ecd9b201e2",
+      "text": "One job each. Ghost finds the route. Neon handles the decoys. Byte watches the cameras. Onyx covers the exit."
+    },
+    {
+      "line_id": "S10-N02",
+      "scene": 10,
+      "start": 529.525,
+      "end": 530.1751587301587,
+      "source_audio_id": "da1e0f647ec7ff9d",
+      "text": "And you?"
+    },
+    {
+      "line_id": "S10-N03",
+      "scene": 10,
+      "start": 530.525,
+      "end": 532.5683560090703,
+      "source_audio_id": "71ca4e41423c7beb",
+      "text": "I get close enough to photograph the meeting."
+    },
+    {
+      "line_id": "S10-D01",
+      "scene": 10,
+      "start": 535.5,
+      "end": 537.6826757369614,
+      "source_audio_id": "fd96d71e32f49eb7",
+      "text": "The guards will chase these instead of us."
+    },
+    {
+      "line_id": "S10-D02",
+      "scene": 10,
+      "start": 538.9,
+      "end": 539.9681179138322,
+      "source_audio_id": "ddf261867a51a7d6",
+      "text": "What if they don't?"
+    },
+    {
+      "line_id": "S10-D03",
+      "scene": 10,
+      "start": 540.7,
+      "end": 543.8114739229026,
+      "source_audio_id": "b929fd51a13f83b7",
+      "text": "Then we have a very expensive collection of dog toys."
+    },
+    {
+      "line_id": "S10-N04",
+      "scene": 10,
+      "start": 546.475,
+      "end": 552.651507936508,
+      "source_audio_id": "bcefc2ff4d6ce6b1",
+      "text": "They follow the sound and the smell. This switch cuts both. Do not press the red button indoors."
+    },
+    {
+      "line_id": "S10-N05",
+      "scene": 10,
+      "start": 553.875,
+      "end": 556.1505555555556,
+      "source_audio_id": "22025f4d986f4fe3",
+      "text": "You could have said that before the demonstration."
+    },
+    {
+      "line_id": "S10-D04",
+      "scene": 10,
+      "start": 558.85,
+      "end": 560.568276643991,
+      "source_audio_id": "9fe222f6f7cf62ee",
+      "text": "Holy shit. It works."
+    },
+    {
+      "line_id": "S10-N06",
+      "scene": 10,
+      "start": 560.718276643991,
+      "end": 566.5697052154195,
+      "source_audio_id": "8747ebdec95902a6",
+      "text": "The return path has to stay clear. A distraction that traps us is just a different problem."
+    },
+    {
+      "line_id": "S10-N07",
+      "scene": 10,
+      "start": 569.225,
+      "end": 573.6367913832199,
+      "source_audio_id": "55a50f71f6df6a18",
+      "text": "Two decoys for entry. One held back. I actually planned for something going wrong."
+    },
+    {
+      "line_id": "S10-N08",
+      "scene": 10,
+      "start": 575.025,
+      "end": 577.5791950113379,
+      "source_audio_id": "b4267eb5ae0e3b02",
+      "text": "Write down the date. We should celebrate this."
+    },
+    {
+      "line_id": "S11-D01",
+      "scene": 11,
+      "start": 585.15,
+      "end": 588.3543537414965,
+      "source_audio_id": "3464e6832e10af8c",
+      "text": "That restaurant costs more per meal than our entire building."
+    },
+    {
+      "line_id": "S11-D02",
+      "scene": 11,
+      "start": 589.35,
+      "end": 590.6038775510204,
+      "source_audio_id": "b3d8cc9ae3d1965f",
+      "text": "Can we eat first?"
+    },
+    {
+      "line_id": "S11-N01",
+      "scene": 11,
+      "start": 593.594,
+      "end": 600.5135464852608,
+      "source_audio_id": "a34edd18b9f4fdea",
+      "text": "Front door has two guards. Service door has one camera. Their patrol crosses the alley every forty seconds."
+    },
+    {
+      "line_id": "S11-N02",
+      "scene": 11,
+      "start": 603.439,
+      "end": 608.4545102040815,
+      "source_audio_id": "fddcc2026c0c99a7",
+      "text": "I am staying at this relay point. If you lose my signal, do not invent a heroic alternative."
+    },
+    {
+      "line_id": "S11-N03",
+      "scene": 11,
+      "start": 610.839,
+      "end": 614.2291133786848,
+      "source_audio_id": "1e9fba7af5927830",
+      "text": "I stay by the service exit. Same way in, same way out."
+    },
+    {
+      "line_id": "S11-N04",
+      "scene": 11,
+      "start": 618.283,
+      "end": 623.4378299319728,
+      "source_audio_id": "ad8269894cac3ce0",
+      "text": "That is Barkington. The entourage came in the limousine. Keep the plate in the recording."
+    },
+    {
+      "line_id": "S11-N05",
+      "scene": 11,
+      "start": 626.928,
+      "end": 631.0611519274377,
+      "source_audio_id": "2fdb7f40a26a5bc8",
+      "text": "The anchor is already inside. Private room, rear wall, blinds half closed."
+    },
+    {
+      "line_id": "S11-D03",
+      "scene": 11,
+      "start": 631.928,
+      "end": 633.3211972789115,
+      "source_audio_id": "e6f172e52b3c3411",
+      "text": "Target's inside."
+    },
+    {
+      "line_id": "S11-N06",
+      "scene": 11,
+      "start": 635.372,
+      "end": 638.6692335600907,
+      "source_audio_id": "16927ffbda7ff041",
+      "text": "We can reach the hatch without crossing the main dining room."
+    },
+    {
+      "line_id": "S11-D04",
+      "scene": 11,
+      "start": 642.417,
+      "end": 644.6461156462585,
+      "source_audio_id": "c98d73c6d8808b22",
+      "text": "Nobody touches anything until we have evidence."
+    },
+    {
+      "line_id": "S11-N07",
+      "scene": 11,
+      "start": 645.417,
+      "end": 648.7142335600907,
+      "source_audio_id": "bb7c162162d188e9",
+      "text": "Wait for the patrol to turn. We go together, and we leave together."
+    },
+    {
+      "line_id": "S12-N01",
+      "scene": 12,
+      "start": 660.15,
+      "end": 664.0509523809524,
+      "source_audio_id": "3413892bc8fc111c",
+      "text": "First decoy on the ground. Second one stays behind the bins until they move."
+    },
+    {
+      "line_id": "S12-N02",
+      "scene": 12,
+      "start": 668.979,
+      "end": 671.626074829932,
+      "source_audio_id": "2a6946b7672583be",
+      "text": "Camera is looking at the alley. You have your opening."
+    },
+    {
+      "line_id": "S12-D01",
+      "scene": 12,
+      "start": 676.207,
+      "end": 677.7859569160997,
+      "source_audio_id": "4cecd882ff015d2a",
+      "text": "Maintain your positions!"
+    },
+    {
+      "line_id": "S12-D02",
+      "scene": 12,
+      "start": 677.9359569160997,
+      "end": 680.2579523809524,
+      "source_audio_id": "1aa0ab1c0f9ea6f6",
+      "text": "...Is that a bacon-flavored bone?"
+    },
+    {
+      "line_id": "S12-D03",
+      "scene": 12,
+      "start": 682.836,
+      "end": 683.718358276644,
+      "source_audio_id": "70c521b0d6d4ab79",
+      "text": "MINE!"
+    },
+    {
+      "line_id": "S12-N03",
+      "scene": 12,
+      "start": 686.464,
+      "end": 689.111074829932,
+      "source_audio_id": "472f6aee019817a2",
+      "text": "Door is clear. Trixie, on me."
+    },
+    {
+      "line_id": "S12-N04",
+      "scene": 12,
+      "start": 689.261074829932,
+      "end": 692.1403492063492,
+      "source_audio_id": "4619ceac529a88b5",
+      "text": "I have the exit. Do not make me come looking for you."
+    },
+    {
+      "line_id": "S13-D01",
+      "scene": 13,
+      "start": 705.15,
+      "end": 707.5184353741496,
+      "source_audio_id": "e45438d7534d9d69",
+      "text": "You have forty seconds before patrol returns."
+    },
+    {
+      "line_id": "S13-N01",
+      "scene": 13,
+      "start": 710.379,
+      "end": 713.7691133786848,
+      "source_audio_id": "4260409ca795e92b",
+      "text": "Service robot. Hold. Its camera turns before the wheels do."
+    },
+    {
+      "line_id": "S13-D02",
+      "scene": 13,
+      "start": 716.807,
+      "end": 717.5964784580499,
+      "source_audio_id": "d10adc6b07419f85",
+      "text": "Ghost, move."
+    },
+    {
+      "line_id": "S13-D03",
+      "scene": 13,
+      "start": 717.807,
+      "end": 718.9679977324263,
+      "source_audio_id": "84d000a4d86230d4",
+      "text": "I am moving."
+    },
+    {
+      "line_id": "S13-D04",
+      "scene": 13,
+      "start": 719.207,
+      "end": 720.7395170068028,
+      "source_audio_id": "f4ea27cdcacd8155",
+      "text": "You're literally standing still."
+    },
+    {
+      "line_id": "S13-D05",
+      "scene": 13,
+      "start": 721.007,
+      "end": 722.4001972789115,
+      "source_audio_id": "a30e4eea07a0f675",
+      "text": "That's why I'm good."
+    },
+    {
+      "line_id": "S13-N02",
+      "scene": 13,
+      "start": 725.036,
+      "end": 728.5654331065759,
+      "source_audio_id": "198eceaf131e18c2",
+      "text": "Twenty seconds. Stop narrating your stealth and actually do some."
+    },
+    {
+      "line_id": "S13-N03",
+      "scene": 13,
+      "start": 729.236,
+      "end": 733.4620317460317,
+      "source_audio_id": "42018be204960d3e",
+      "text": "Now. Stay behind the cart; the lens cannot see through it."
+    },
+    {
+      "line_id": "S13-N04",
+      "scene": 13,
+      "start": 736.064,
+      "end": 741.0330702947846,
+      "source_audio_id": "8d9a9a71e44a3753",
+      "text": "There is the hatch. Neon, microphone first. I need the table and both faces."
+    },
+    {
+      "line_id": "S13-N05",
+      "scene": 13,
+      "start": 741.864,
+      "end": 744.9754739229026,
+      "source_audio_id": "0e4b9cfe43de01e2",
+      "text": "Recording locally. If the connection drops, we still keep the file."
+    },
+    {
+      "line_id": "S14-D01",
+      "scene": 14,
+      "start": 755.7507482993198,
+      "end": 760.7198185941044,
+      "source_audio_id": "469b752a7b860b9d",
+      "text": "The public needs reassurance that our supply measures are necessary."
+    },
+    {
+      "line_id": "S14-D02",
+      "scene": 14,
+      "start": 761.470566893424,
+      "end": 763.3281632653061,
+      "source_audio_id": "4569a75e333999b8",
+      "text": "And you want that to be tonight's headline?"
+    },
+    {
+      "line_id": "S14-N01",
+      "scene": 14,
+      "start": 764.0789115646259,
+      "end": 769.9767800453515,
+      "source_audio_id": "6c8e39ae9ea1ece8",
+      "text": "People are asking why the shelves emptied before the warning. They expect me to ask that question."
+    },
+    {
+      "line_id": "S14-N02",
+      "scene": 14,
+      "start": 770.7275283446712,
+      "end": 778.9938321995465,
+      "source_audio_id": "e83e32795806604d",
+      "text": "Questions are useful when they lead the public toward confidence. Less useful when they lead to disorder."
+    },
+    {
+      "line_id": "S14-D03",
+      "scene": 14,
+      "start": 779.7445804988662,
+      "end": 783.5990929705215,
+      "source_audio_id": "7f788a73a31c56f6",
+      "text": "I want the public to hear the correct story."
+    },
+    {
+      "line_id": "S14-N03",
+      "scene": 14,
+      "start": 784.3498412698412,
+      "end": 788.0185941043084,
+      "source_audio_id": "7e09d41132107a5b",
+      "text": "Confidence is difficult to sell to an audience that cannot afford dinner."
+    },
+    {
+      "line_id": "S14-D04",
+      "scene": 14,
+      "start": 788.7693424036281,
+      "end": 790.534058956916,
+      "source_audio_id": "4865934a58d24901",
+      "text": "That kind of coverage isn't cheap."
+    },
+    {
+      "line_id": "S14-N04",
+      "scene": 14,
+      "start": 791.2848072562358,
+      "end": 798.1114739229025,
+      "source_audio_id": "c3840d81dd7338e5",
+      "text": "Then remind them who keeps the streets safe. Panic needs a firm voice."
+    },
+    {
+      "line_id": "S14-N05",
+      "scene": 14,
+      "start": 798.8622222222222,
+      "end": 802.6702947845804,
+      "source_audio_id": "47002c871e15dd46",
+      "text": "My producers will want a reason to move the other story off the schedule."
+    },
+    {
+      "line_id": "S14-D05",
+      "scene": 14,
+      "start": 803.4210430839001,
+      "end": 805.2786394557822,
+      "source_audio_id": "dd6d274e0851f433",
+      "text": "Neither is loyalty."
+    },
+    {
+      "line_id": "S14-N06",
+      "scene": 14,
+      "start": 806.029387755102,
+      "end": 814.2492517006802,
+      "source_audio_id": "bc54c274fc27ddfb",
+      "text": "Tell them we appreciate a reliable partner. Our appreciation is rarely symbolic."
+    },
+    {
+      "line_id": "S15-N01",
+      "scene": 15,
+      "start": 819.493,
+      "end": 824.7407097505669,
+      "source_audio_id": "a8835f2075d11f7d",
+      "text": "Both faces and the bag are in frame. Keep rolling. Do not crop away who handed it over."
+    },
+    {
+      "line_id": "S15-N02",
+      "scene": 15,
+      "start": 828.064,
+      "end": 831.5469931972789,
+      "source_audio_id": "c11b1932b0d0a9fb",
+      "text": "Someone is coming down the corridor. You have one clean shot."
+    },
+    {
+      "line_id": "S15-D01",
+      "scene": 15,
+      "start": 833.836,
+      "end": 835.0434376417234,
+      "source_audio_id": "d016188888da9c5f",
+      "text": "Please tell me you got that."
+    },
+    {
+      "line_id": "S15-D02",
+      "scene": 15,
+      "start": 836.436,
+      "end": 837.2254784580499,
+      "source_audio_id": "0c17f02e49e121d2",
+      "text": "Every pixel."
+    },
+    {
+      "line_id": "S15-N03",
+      "scene": 15,
+      "start": 837.436,
+      "end": 840.3617142857144,
+      "source_audio_id": "30fbf091eaaf2696",
+      "text": "Save the original and a copy. No filters, no edits."
+    },
+    {
+      "line_id": "S15-D03",
+      "scene": 15,
+      "start": 842.807,
+      "end": 844.2001972789116,
+      "source_audio_id": "8c804900809d1424",
+      "text": "The audio's ambiguous."
+    },
+    {
+      "line_id": "S15-D04",
+      "scene": 15,
+      "start": 844.3501972789115,
+      "end": 845.604074829932,
+      "source_audio_id": "0d95f7a070186b4c",
+      "text": "The photograph isn't."
+    },
+    {
+      "line_id": "S15-N04",
+      "scene": 15,
+      "start": 845.7540748299319,
+      "end": 849.6085873015872,
+      "source_audio_id": "48ab3426655ce481",
+      "text": "It proves a payment happened. We still cannot label what the money bought."
+    },
+    {
+      "line_id": "S15-N05",
+      "scene": 15,
+      "start": 851.007,
+      "end": 853.4218752834466,
+      "source_audio_id": "1d8c3df2f5733995",
+      "text": "Then we show exactly what we have. Nothing more."
+    },
+    {
+      "line_id": "S15-N06",
+      "scene": 15,
+      "start": 855.979,
+      "end": 858.3009954648527,
+      "source_audio_id": "8afa461f91d4f78e",
+      "text": "Patrol is back early. Time to move."
+    },
+    {
+      "line_id": "S16-D01",
+      "scene": 16,
+      "start": 860.15,
+      "end": 861.4503174603175,
+      "source_audio_id": "09786d5724d59f8f",
+      "text": "STOP THOSE CATS!"
+    },
+    {
+      "line_id": "S16-N01",
+      "scene": 16,
+      "start": 864.025,
+      "end": 867.1364739229025,
+      "source_audio_id": "2fbd6cdb5fe64ac6",
+      "text": "This door. Keep moving. I am right behind you."
+    },
+    {
+      "line_id": "S16-D02",
+      "scene": 16,
+      "start": 870.3,
+      "end": 871.5074376417233,
+      "source_audio_id": "0cc549cb3c99e4da",
+      "text": "Emergency bone!"
+    },
+    {
+      "line_id": "S16-D03",
+      "scene": 16,
+      "start": 871.6574376417233,
+      "end": 872.8184353741495,
+      "source_audio_id": "ef2016d40384f274",
+      "text": "Why do you call it that?"
+    },
+    {
+      "line_id": "S16-D04",
+      "scene": 16,
+      "start": 873.9,
+      "end": 876.4541950113379,
+      "source_audio_id": "c0454ffd2e923ff8",
+      "text": "Because it's for emergencies, dumbass!"
+    },
+    {
+      "line_id": "S16-N02",
+      "scene": 16,
+      "start": 878.575,
+      "end": 882.6152721088436,
+      "source_audio_id": "61b217958605ec5a",
+      "text": "Left at the bins. The ladder goes to the low roof, not the street."
+    },
+    {
+      "line_id": "S16-N03",
+      "scene": 16,
+      "start": 886.85,
+      "end": 890.1936734693878,
+      "source_audio_id": "72960c26affc1a41",
+      "text": "I have your signal again. Bring the files to me, not the guards."
+    },
+    {
+      "line_id": "S16-N04",
+      "scene": 16,
+      "start": 894.725,
+      "end": 897.6507142857143,
+      "source_audio_id": "9623556637b30b4e",
+      "text": "Count off. Byte? Neon? Ghost? Onyx?"
+    },
+    {
+      "line_id": "S16-N05",
+      "scene": 16,
+      "start": 897.8007142857143,
+      "end": 901.3765873015874,
+      "source_audio_id": "aafebffc4c1aeb31",
+      "text": "Five cats. One terrible restaurant. Never going back."
+    },
+    {
+      "line_id": "S17-N01",
+      "scene": 17,
+      "start": 910.15,
+      "end": 915.7692290249433,
+      "source_audio_id": "92aa679662b38e60",
+      "text": "Send the uncut clip with the photograph. Let the newsroom check the timestamp themselves."
+    },
+    {
+      "line_id": "S17-N02",
+      "scene": 17,
+      "start": 915.95,
+      "end": 920.1295918367348,
+      "source_audio_id": "397205a4ce693900",
+      "text": "Original saved here. Backup sent. They cannot erase it by taking down one post."
+    },
+    {
+      "line_id": "S17-N03",
+      "scene": 17,
+      "start": 923.39,
+      "end": 926.8729931972789,
+      "source_audio_id": "faed1cedf45e85af",
+      "text": "The headline says payment. It does not say we solved the shortage."
+    },
+    {
+      "line_id": "S17-D01",
+      "scene": 17,
+      "start": 930.03,
+      "end": 940.1539002267573,
+      "source_audio_id": "0562bb16c553237f",
+      "text": "Exclusive tonight: leaked footage shows Chairman Barkington Orders making an undisclosed cash payment to a senior WOOF7 journalist."
+    },
+    {
+      "line_id": "S17-N04",
+      "scene": 17,
+      "start": 940.3039002267573,
+      "end": 947.5949659863944,
+      "source_audio_id": "365b81d87408287b",
+      "text": "The purpose of the payment has not been independently established. We have requested a response from both parties."
+    },
+    {
+      "line_id": "S17-D02",
+      "scene": 17,
+      "start": 947.7449659863944,
+      "end": 949.0452834467119,
+      "source_audio_id": "75c6c372ee9edde2",
+      "text": "We fucking got him!"
+    },
+    {
+      "line_id": "S17-D03",
+      "scene": 17,
+      "start": 949.1952834467119,
+      "end": 951.8423582766438,
+      "source_audio_id": "4386faf7b70959ca",
+      "text": "We got the payment. Not the reason."
+    },
+    {
+      "line_id": "S17-D04",
+      "scene": 17,
+      "start": 952.91,
+      "end": 954.0709977324262,
+      "source_audio_id": "b092cf3ae8f2f906",
+      "text": "Then we keep digging."
+    },
+    {
+      "line_id": "S17-N05",
+      "scene": 17,
+      "start": 954.71,
+      "end": 958.192993197279,
+      "source_audio_id": "db72d6b94e87709d",
+      "text": "Fine. A small victory. Can small victories buy dinner?"
+    },
+    {
+      "line_id": "S18-D01",
+      "scene": 18,
+      "start": 960.15,
+      "end": 961.4967573696144,
+      "source_audio_id": "b87f6ede3f46c5a3",
+      "text": "We exposed the bastard!"
+    },
+    {
+      "line_id": "S18-N01",
+      "scene": 18,
+      "start": 963.51,
+      "end": 968.6183900226757,
+      "source_audio_id": "3e21d7eac9442658",
+      "text": "I read your story. The freezer is still empty. What do we eat tonight?"
+    },
+    {
+      "line_id": "S18-N02",
+      "scene": 18,
+      "start": 969.31,
+      "end": 971.3069160997732,
+      "source_audio_id": "5e3af31f4601d9eb",
+      "text": "You are right. A headline is not a meal."
+    },
+    {
+      "line_id": "S18-D02",
+      "scene": 18,
+      "start": 974.67,
+      "end": 976.481156462585,
+      "source_audio_id": "62aef5861532c318",
+      "text": "Then why are the stores still empty?"
+    },
+    {
+      "line_id": "S18-D03",
+      "scene": 18,
+      "start": 977.67,
+      "end": 980.7814739229025,
+      "source_audio_id": "f29e3aa48a4d82ab",
+      "text": "Because we exposed a payment. Not the supply chain."
+    },
+    {
+      "line_id": "S18-D04",
+      "scene": 18,
+      "start": 983.03,
+      "end": 984.4231972789115,
+      "source_audio_id": "90ab06b780b7dbd4",
+      "text": "Wait. I've got something."
+    },
+    {
+      "line_id": "S18-N03",
+      "scene": 18,
+      "start": 984.83,
+      "end": 987.8021541950113,
+      "source_audio_id": "0fc3ec9c6273dfda",
+      "text": "The delivery code matches Byte\u2019s price record."
+    },
+    {
+      "line_id": "S18-N04",
+      "scene": 18,
+      "start": 989.39,
+      "end": 992.7801133786847,
+      "source_audio_id": "9b0dc58ecd21b9a0",
+      "text": "Back to the lair. Follow the deliveries, not the speeches."
+    },
+    {
+      "line_id": "S19-D01",
+      "scene": 19,
+      "start": 995.15,
+      "end": 996.5896371882086,
+      "source_audio_id": "c3d0f607e466100b",
+      "text": "There isn't a salmon shortage."
+    },
+    {
+      "line_id": "S19-D02",
+      "scene": 19,
+      "start": 997.35,
+      "end": 997.7679591836735,
+      "source_audio_id": "201477a23035604a",
+      "text": "What?"
+    },
+    {
+      "line_id": "S19-D03",
+      "scene": 19,
+      "start": 997.95,
+      "end": 1000.2255555555556,
+      "source_audio_id": "f5558a3ba4a6921a",
+      "text": "There's a salmon shortage for cats."
+    },
+    {
+      "line_id": "S19-N01",
+      "scene": 19,
+      "start": 1002.95,
+      "end": 1008.9871882086168,
+      "source_audio_id": "7f65ea104a569a3d",
+      "text": "These are current dispatch records. Match the truck numbers to the public gate camera before we publish."
+    },
+    {
+      "line_id": "S19-N02",
+      "scene": 19,
+      "start": 1012.35,
+      "end": 1018.1549886621316,
+      "source_audio_id": "ea3f0cba6aa00356",
+      "text": "District Seven order cancelled. District Two replacement accepted. Same load, same morning."
+    },
+    {
+      "line_id": "S19-D04",
+      "scene": 19,
+      "start": 1018.3049886621316,
+      "end": 1019.651746031746,
+      "source_audio_id": "f8e20a42a801983b",
+      "text": "Those sons of bitches."
+    },
+    {
+      "line_id": "S19-N03",
+      "scene": 19,
+      "start": 1021.55,
+      "end": 1025.5902721088435,
+      "source_audio_id": "093b9642399b831b",
+      "text": "Save the records. We verify the trucks at the gate, then get that food moving."
+    },
+    {
+      "line_id": "S20-N01",
+      "scene": 20,
+      "start": 1035.75,
+      "end": 1038.9079138321995,
+      "source_audio_id": "9dae433fdf201fd7",
+      "text": "The plate matches. That is the truck from the dispatch record."
+    },
+    {
+      "line_id": "S20-D01",
+      "scene": 20,
+      "start": 1040.35,
+      "end": 1042.0218367346938,
+      "source_audio_id": "69d2c15f9f607879",
+      "text": "They've been sitting on our food."
+    },
+    {
+      "line_id": "S20-D02",
+      "scene": 20,
+      "start": 1042.95,
+      "end": 1044.854036281179,
+      "source_audio_id": "26f47182222bcfc4",
+      "text": "Technically, they've been shipping it."
+    },
+    {
+      "line_id": "S20-D03",
+      "scene": 20,
+      "start": 1045.15,
+      "end": 1046.2181179138322,
+      "source_audio_id": "5e5b3700322614e9",
+      "text": "Not helping, Byte."
+    },
+    {
+      "line_id": "S20-N02",
+      "scene": 20,
+      "start": 1048.35,
+      "end": 1053.690589569161,
+      "source_audio_id": "b40de29e63fcf6d2",
+      "text": "Standing robot dogs on the floor. Red visors. They patrol the line and respond to the alarm."
+    },
+    {
+      "line_id": "S20-N03",
+      "scene": 20,
+      "start": 1057.15,
+      "end": 1061.3295918367348,
+      "source_audio_id": "29cf9a6ed279e1b9",
+      "text": "No one touches the cooling system. We need the fish fresh, and the workers clear."
+    },
+    {
+      "line_id": "S21-N01",
+      "scene": 21,
+      "start": 1065.15,
+      "end": 1069.3295918367348,
+      "source_audio_id": "7b8b523383282f51",
+      "text": "Service lock is open. Stay behind the tank until the robot turns."
+    },
+    {
+      "line_id": "S21-D01",
+      "scene": 21,
+      "start": 1078.407,
+      "end": 1080.5896757369615,
+      "source_audio_id": "4187ebfb94482a25",
+      "text": "That's enough salmon to feed half the city!"
+    },
+    {
+      "line_id": "S21-D02",
+      "scene": 21,
+      "start": 1081.807,
+      "end": 1083.3859569160998,
+      "source_audio_id": "ea724886576fc5e9",
+      "text": "And they told us there was none."
+    },
+    {
+      "line_id": "S21-N02",
+      "scene": 21,
+      "start": 1086.893,
+      "end": 1090.468873015873,
+      "source_audio_id": "625e36a188113e54",
+      "text": "Dispatch terminal here. Refrigeration is on a separate circuit."
+    },
+    {
+      "line_id": "S21-D03",
+      "scene": 21,
+      "start": 1092.779,
+      "end": 1094.2186371882085,
+      "source_audio_id": "20bbdb55378cbeed",
+      "text": "Can I punch something now?"
+    },
+    {
+      "line_id": "S21-D04",
+      "scene": 21,
+      "start": 1094.979,
+      "end": 1096.1864376417234,
+      "source_audio_id": "6cbdcbef2a7acf05",
+      "text": "You have my permission."
+    },
+    {
+      "line_id": "S21-N03",
+      "scene": 21,
+      "start": 1096.779,
+      "end": 1100.3084331065759,
+      "source_audio_id": "2f6cb5d3ab682bc7",
+      "text": "A robot. I am punching a robot. We are being specific."
+    },
+    {
+      "line_id": "S21-N04",
+      "scene": 21,
+      "start": 1103.464,
+      "end": 1107.1791927437641,
+      "source_audio_id": "c28027bb3323f5da",
+      "text": "Keep it away from the tanks. Byte, get the truck routes."
+    },
+    {
+      "line_id": "S22-N01",
+      "scene": 22,
+      "start": 1110.15,
+      "end": 1113.0757142857144,
+      "source_audio_id": "37fb866c93bfd9c5",
+      "text": "Dispatch stopped. Cooling stays on. Temperature is stable."
+    },
+    {
+      "line_id": "S22-D01",
+      "scene": 22,
+      "start": 1113.55,
+      "end": 1115.0825170068026,
+      "source_audio_id": "ac97237efc59021a",
+      "text": "Corporate routing disabled."
+    },
+    {
+      "line_id": "S22-N02",
+      "scene": 22,
+      "start": 1115.783,
+      "end": 1120.8913900226758,
+      "source_audio_id": "564237d7cad1adbd",
+      "text": "Original logs preserved. Public copies include the truck numbers and cancelled orders."
+    },
+    {
+      "line_id": "S22-D02",
+      "scene": 22,
+      "start": 1121.0413900226758,
+      "end": 1122.7596666666668,
+      "source_audio_id": "29b4b8ba3dea7179",
+      "text": "Shipping records released."
+    },
+    {
+      "line_id": "S22-N03",
+      "scene": 22,
+      "start": 1123.017,
+      "end": 1127.6609909297053,
+      "source_audio_id": "9d67aa9a754a308c",
+      "text": "Release the already-loaded trucks first. Do not leave fresh stock waiting outside."
+    },
+    {
+      "line_id": "S22-N04",
+      "scene": 22,
+      "start": 1128.017,
+      "end": 1132.3823514739229,
+      "source_audio_id": "8a9c8a387bbb0aac",
+      "text": "District Seven delivery accepted. The other neglected districts are next in the queue."
+    },
+    {
+      "line_id": "S22-D03",
+      "scene": 22,
+      "start": 1134.25,
+      "end": 1136.107596371882,
+      "source_audio_id": "6f7d40f540532681",
+      "text": "Salmon is going back to the cats!"
+    },
+    {
+      "line_id": "S22-D04",
+      "scene": 22,
+      "start": 1137.25,
+      "end": 1139.2004761904761,
+      "source_audio_id": "daa7af2e87ab01af",
+      "text": "Now that's what I call a hostile takeover."
+    },
+    {
+      "line_id": "S23-D01",
+      "scene": 23,
+      "start": 1145.15,
+      "end": 1152.3017460317462,
+      "source_audio_id": "bdcbac6d002c774e",
+      "text": "Newly released records confirm that Goodboy Global diverted salmon shipments away from feline neighborhoods."
+    },
+    {
+      "line_id": "S23-N01",
+      "scene": 23,
+      "start": 1152.4517460317463,
+      "end": 1153.2412244897962,
+      "source_audio_id": "20f9475a0cb15ce8",
+      "text": "You found it!"
+    },
+    {
+      "line_id": "S23-N02",
+      "scene": 23,
+      "start": 1153.75,
+      "end": 1156.7221541950114,
+      "source_audio_id": "0f446d2ba049d2f9",
+      "text": "Your mum was right. This is better than a promise."
+    },
+    {
+      "line_id": "S23-D02",
+      "scene": 23,
+      "start": 1159.35,
+      "end": 1160.8360770975055,
+      "source_audio_id": "e61aa888d325ad99",
+      "text": "We saved the fucking city!"
+    },
+    {
+      "line_id": "S23-D03",
+      "scene": 23,
+      "start": 1161.55,
+      "end": 1162.7109977324262,
+      "source_audio_id": "b785a62c44c27ece",
+      "text": "We saved dinner."
+    },
+    {
+      "line_id": "S23-D04",
+      "scene": 23,
+      "start": 1162.95,
+      "end": 1163.785918367347,
+      "source_audio_id": "b00412a2debd6c72",
+      "text": "For now."
+    },
+    {
+      "line_id": "S24-D01",
+      "scene": 24,
+      "start": 1174.13,
+      "end": 1176.2197959183675,
+      "source_audio_id": "737a1001f0a3bcb0",
+      "text": "All right. Now it's time to finish this mission."
+    },
+    {
+      "line_id": "S24-D02",
+      "scene": 24,
+      "start": 1177.93,
+      "end": 1180.1126757369616,
+      "source_audio_id": "bb67da4c177f1488",
+      "text": "We've been trying to finish this shit all day."
+    },
+    {
+      "line_id": "S24-D03",
+      "scene": 24,
+      "start": 1186.7,
+      "end": 1188.7897959183674,
+      "source_audio_id": "9b494e6c3c79d94f",
+      "text": "At least nobody can interrupt us now."
+    },
+    {
+      "line_id": "S24-D04",
+      "scene": 24,
+      "start": 1190.69,
+      "end": 1193.1513151927438,
+      "source_audio_id": "374038c138cbc2f7",
+      "text": "Goodboy Global HAS AN IMPORTANT ANNOUNCEMENT\u2014"
+    },
+    {
+      "line_id": "S24-D05",
+      "scene": 24,
+      "start": 1194.28,
+      "end": 1195.4409977324262,
+      "source_audio_id": "3e381af73481734c",
+      "text": "OH, FUCK OFF!"
+    }
+  ]
+}

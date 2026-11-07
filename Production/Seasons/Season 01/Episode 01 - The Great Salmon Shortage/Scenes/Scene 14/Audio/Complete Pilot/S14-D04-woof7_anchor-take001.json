@@ -1,0 +1,21 @@
+{
+  "line_id": "S14-D04",
+  "scene": 14,
+  "role_id": "woof7_anchor",
+  "text": "That kind of coverage isn't cheap.",
+  "voice_id": "cjVigY5qzO86Huf0OWal",
+  "voice_name": "Eric",
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.5,
+    "similarity_boost": 0.75,
+    "style": 0.15,
+    "use_speaker_boost": true
+  },
+  "duration_sec": 1.764717,
+  "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Voices\\Pilot Complete\\Scene14\\S14-D04-woof7_anchor-take001.mp3",
+  "sha256": "4865934a58d249019cda3406406b7afda5017009efc76c26126c0dbd0aa77f58",
+  "request_id": "nLuC7NNcwrMk101tR3hj",
+  "provider_character_cost": "7",
+  "status": "review_take_not_yet_approved"
+}

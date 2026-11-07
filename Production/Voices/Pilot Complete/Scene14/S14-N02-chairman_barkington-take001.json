@@ -1,0 +1,22 @@
+{
+  "line_id": "S14-N02",
+  "scene": 14,
+  "role_id": "chairman_barkington",
+  "text": "Questions are useful when they lead the public toward confidence. Less useful when they lead to disorder.",
+  "voice_id": "bwCXcoVxWNYMlC6Esa8u",
+  "voice_name": "Matthew Schmitz - Gravel, Deep Anti-Hero",
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.4,
+    "similarity_boost": 0.75,
+    "style": 0.65,
+    "use_speaker_boost": true,
+    "speed": 0.9
+  },
+  "duration_sec": 8.266304,
+  "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Voices\\Pilot Complete\\Scene14\\S14-N02-chairman_barkington-take001.mp3",
+  "sha256": "e83e32795806604d0cf4ad9c1b6acc9cc17416c214fdb36cc2d0fedf45a9065c",
+  "request_id": "tcLZ8CntZNuBFBTp8UlK",
+  "provider_character_cost": "39",
+  "status": "review_take_not_yet_approved"
+}

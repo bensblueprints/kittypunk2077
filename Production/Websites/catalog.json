@@ -916,5 +916,50 @@
     "file": "SET04-lair-true-reverse-gpt26-v001.png",
     "source": "Phase 2\\Setting Plates\\SET04-lair-true-reverse-gpt26-v001.png",
     "voice": null
+  },
+  {
+    "id": "6c4f0a7860912420",
+    "title": "PAW01 — Unnamed German shepherd officer",
+    "category": "Characters",
+    "group": "Dogs - Pawlice",
+    "file": "PAW01-character-sheet-v001.png",
+    "source": "Characters\\Dogs\\Pawlice\\PAW01\\PAW01-character-sheet-v001.png",
+    "voice": "Not assigned — unnamed background officer"
+  },
+  {
+    "id": "506fcf8463006a48",
+    "title": "PAW02 — Unnamed Rottweiler officer",
+    "category": "Characters",
+    "group": "Dogs - Pawlice",
+    "file": "PAW02-character-sheet-v001.png",
+    "source": "Characters\\Dogs\\Pawlice\\PAW02\\PAW02-character-sheet-v001.png",
+    "voice": "Not assigned — unnamed background officer"
+  },
+  {
+    "id": "5f8c4fda28a705d7",
+    "title": "PAW03 — Unnamed Dalmatian officer",
+    "category": "Characters",
+    "group": "Dogs - Pawlice",
+    "file": "PAW03-character-sheet-v001.png",
+    "source": "Characters\\Dogs\\Pawlice\\PAW03\\PAW03-character-sheet-v001.png",
+    "voice": "Not assigned — unnamed background officer"
+  },
+  {
+    "id": "8fe53fc24f26a9e1",
+    "title": "PAW04 — Unnamed Bloodhound officer",
+    "category": "Characters",
+    "group": "Dogs - Pawlice",
+    "file": "PAW04-character-sheet-v001.png",
+    "source": "Characters\\Dogs\\Pawlice\\PAW04\\PAW04-character-sheet-v001.png",
+    "voice": "Not assigned — unnamed background officer"
+  },
+  {
+    "id": "654694df086ce83e",
+    "title": "PAW05 — Unnamed Boxer officer",
+    "category": "Characters",
+    "group": "Dogs - Pawlice",
+    "file": "PAW05-character-sheet-v001.png",
+    "source": "Characters\\Dogs\\Pawlice\\PAW05\\PAW05-character-sheet-v001.png",
+    "voice": "Not assigned — unnamed background officer"
   }
 ]

@@ -1,0 +1,22 @@
+{
+  "id": "FX07-crowd-movement",
+  "scenes": [
+    6,
+    7,
+    8,
+    23
+  ],
+  "request": {
+    "text": "Large outdoor rally crowd physical movement only: many soft footsteps, clothing rustle, occasional handclaps, flags flapping. No speech, no chanting, no vocal sounds, no music.",
+    "duration_seconds": 12,
+    "loop": true,
+    "prompt_influence": 0.45,
+    "model_id": "eleven_text_to_sound_v2"
+  },
+  "status": "completed",
+  "created": "2026-11-07T01:13:52.313143+00:00",
+  "bytes": 193140,
+  "sha256": "3f991fcc0b8af9d057e2f74f28aa49e038a0fc861a133ff3350a789dc7ab046c",
+  "character_cost": "66",
+  "request_id": null
+}

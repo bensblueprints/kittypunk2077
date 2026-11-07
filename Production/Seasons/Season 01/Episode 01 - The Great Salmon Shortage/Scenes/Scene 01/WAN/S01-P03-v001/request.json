@@ -1,0 +1,13 @@
+{
+  "model": "wan-3.0-prime",
+  "duration_sec": 7,
+  "resolution": "1080p",
+  "aspect_ratio": "16:9",
+  "input_images": [
+    "https://d8j0ntlcm91z4.cloudfront.net/user_3FexRxU2V7FefQUvOnG7eFCKfmw/hf_20261107_001508_443aeaab-0efa-4efd-8219-a528bd40480c.png"
+  ],
+  "input_audios": [
+    "https://kittypunk.144.76.78.158.sslip.io/generation-input/838fac350ffd8091ebe0c673d534148c6894f5b288fce67bfe4c1ab7334123b1/shot03-approved.wav"
+  ],
+  "prompt": "A continuous seven-second locked-off close-up of this exact physical rusty CRT television in the KittyPunk2077 living room. Reference image 1 defines the entire shot and must be maintained: same full television casing, curved glass boundary, two knobs on the right, speaker, room background and fixed camera. The video game is a moving image displayed ONLY WITHIN THE INNER TV GLASS. At every frame the complete casing remains visible and immobile. Never enter the game world, never fill the film frame with gameplay, never place HUD, cars, avatars or game effects outside the glass. No cuts, no camera zoom, no new room characters.\nAnimate only the game inside the screen: white blue-eyed female cat Trixie in magenta drives the magenta convertible, orange tabby Byte with sunglasses and orange paw headphones rides passenger. Third-person game camera tracks the moving car inside the display. During 0-2.5 seconds the car veers toward the bank wall as Byte shouts his warning. At approximately 2.6 seconds a small comical low-speed collision stops its front bumper against the bank masonry, a brief spark and skid entirely inside the display. At 3-7 seconds wheels spin uselessly and police lights approach behind. Keep the car, two avatars, bank architecture and their identities consistent. Stylized cinematic 3D cyberpunk game graphics with subtle CRT scanlines, neon reflections. No injury, no explosions.\nInput audio 1 is the approved off-screen couch gamers, preserve its timing: Byte says Left! LEFT! That is a wall, Trixie!; Trixie replies Relax. I found a shortcut.; Byte says Through the bank we just robbed? These voices are OFF-SCREEN PLAYERS, not speaking game avatars. Do not lip-sync avatars. No additional dialogue or narrator. Room and television shell remain still while gameplay moves within the glass only."
+}

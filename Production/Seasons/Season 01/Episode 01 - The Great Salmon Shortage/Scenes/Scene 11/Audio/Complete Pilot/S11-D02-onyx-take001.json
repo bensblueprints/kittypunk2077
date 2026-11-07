@@ -1,0 +1,21 @@
+{
+  "line_id": "S11-D02",
+  "scene": 11,
+  "role_id": "onyx",
+  "text": "Can we eat first?",
+  "voice_id": "uq0HIbNZKn11Hs5ifEdd",
+  "voice_name": "Harry — Fierce Warrior",
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.5,
+    "similarity_boost": 0.75,
+    "style": 0.15,
+    "use_speaker_boost": true
+  },
+  "duration_sec": 1.253878,
+  "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Voices\\Pilot Complete\\Scene11\\S11-D02-onyx-take001.mp3",
+  "sha256": "b3d8cc9ae3d1965f0e6a210fb3a960ca29d60c81bc96326b9d9e233c3df2b866",
+  "request_id": "HyCNH868fq18k1G3XmdJ",
+  "provider_character_cost": "4",
+  "status": "review_take_not_yet_approved"
+}

@@ -1,0 +1,21 @@
+{
+  "line_id": "S15-D04",
+  "scene": 15,
+  "role_id": "trixie",
+  "text": "The photograph isn't.",
+  "voice_id": "dmWfLQZJq7wNPv9WmtiM",
+  "voice_name": "Emma — Wry, Gritty Hero",
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.35,
+    "similarity_boost": 0.8,
+    "style": 0.55,
+    "use_speaker_boost": true
+  },
+  "duration_sec": 1.253878,
+  "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Voices\\Pilot Complete\\Scene15\\S15-D04-trixie-take001.mp3",
+  "sha256": "0d95f7a070186b4c12c9ca6b616cbb86b376fd92a5e851a38038089b2287064a",
+  "request_id": "htKcBZsgOoPS6jNvVvil",
+  "provider_character_cost": "5",
+  "status": "review_take_not_yet_approved"
+}

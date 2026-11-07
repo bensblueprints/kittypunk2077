@@ -1,0 +1,21 @@
+{
+  "line_id": "S11-N03",
+  "scene": 11,
+  "role_id": "onyx",
+  "text": "I stay by the service exit. Same way in, same way out.",
+  "voice_id": "uq0HIbNZKn11Hs5ifEdd",
+  "voice_name": "Harry — Fierce Warrior",
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.5,
+    "similarity_boost": 0.75,
+    "style": 0.15,
+    "use_speaker_boost": true
+  },
+  "duration_sec": 3.390113,
+  "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Voices\\Pilot Complete\\Scene11\\S11-N03-onyx-take001.mp3",
+  "sha256": "1e9fba7af5927830c9e28d7418930d443278082744351c5d481a2c00cd1daecf",
+  "request_id": "gcJbd16glIk4IbXU9HVu",
+  "provider_character_cost": "12",
+  "status": "review_take_not_yet_approved"
+}

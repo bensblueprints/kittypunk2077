@@ -1,0 +1,21 @@
+{
+  "line_id": "S04-N03",
+  "scene": 4,
+  "role_id": "civilian_2",
+  "text": "Please. That is the last tin. My little one has not eaten.",
+  "voice_id": "b5RPB35vTODb3BEmR3Fc",
+  "voice_name": "Serein - Friendly, Casual and Balanced",
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.5,
+    "similarity_boost": 0.75,
+    "style": 0.15,
+    "use_speaker_boost": true
+  },
+  "duration_sec": 4.086712,
+  "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Voices\\Pilot Complete\\Scene04\\S04-N03-civilian_2-take001.mp3",
+  "sha256": "de5fcd676410a0dd721fc2a6ce26fa83b9122ea4ed57544dabdc46d8f5f664c3",
+  "request_id": "wYyQDqVvBwzENqeEiRk3",
+  "provider_character_cost": "13",
+  "status": "review_take_not_yet_approved"
+}

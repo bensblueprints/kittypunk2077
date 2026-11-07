@@ -1,0 +1,21 @@
+{
+  "line_id": "S22-D01",
+  "scene": 22,
+  "role_id": "neon",
+  "text": "Corporate routing disabled.",
+  "voice_id": "4e32WqNVWRquDa1OcRYZ",
+  "voice_name": "Ryan — Product Reviewer",
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.5,
+    "similarity_boost": 0.75,
+    "style": 0.15,
+    "use_speaker_boost": true
+  },
+  "duration_sec": 1.532517,
+  "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Voices\\Pilot Complete\\Scene22\\S22-D01-neon-take001.mp3",
+  "sha256": "ac97237efc59021ad71ca4d2d4a0857c5e166836d89c0315f6719dab593cbbb9",
+  "request_id": "y10p7KFd2NczcQ510jKK",
+  "provider_character_cost": "6",
+  "status": "review_take_not_yet_approved"
+}

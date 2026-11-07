@@ -1,0 +1,21 @@
+{
+  "line_id": "S12-D03",
+  "scene": 12,
+  "role_id": "dog_guard_b",
+  "text": "MINE!",
+  "voice_id": "lAqElvydqyTzitpwAdj6",
+  "voice_name": "Hugo - Loyal Henchman",
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.5,
+    "similarity_boost": 0.75,
+    "style": 0.15,
+    "use_speaker_boost": true
+  },
+  "duration_sec": 0.882358,
+  "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Voices\\Pilot Complete\\Scene12\\S12-D03-dog_guard_b-take001.mp3",
+  "sha256": "70c521b0d6d4ab79214d8c737e65e5dac94ee267fad43949b876a699af95c3b5",
+  "request_id": "libHrBywKEvIAU9p3t7f",
+  "provider_character_cost": "1",
+  "status": "review_take_not_yet_approved"
+}

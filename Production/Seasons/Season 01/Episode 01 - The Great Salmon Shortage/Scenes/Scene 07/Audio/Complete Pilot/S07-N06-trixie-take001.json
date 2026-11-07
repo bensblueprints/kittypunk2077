@@ -1,0 +1,21 @@
+{
+  "line_id": "S07-N06",
+  "scene": 7,
+  "role_id": "trixie",
+  "text": "Keep your receipts. Help your neighbors. We are going to find an answer.",
+  "voice_id": "dmWfLQZJq7wNPv9WmtiM",
+  "voice_name": "Emma — Wry, Gritty Hero",
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.35,
+    "similarity_boost": 0.8,
+    "style": 0.55,
+    "use_speaker_boost": true
+  },
+  "duration_sec": 4.133152,
+  "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Voices\\Pilot Complete\\Scene07\\S07-N06-trixie-take001.mp3",
+  "sha256": "a6604956d07e55eebb5fe398d693275c77f3033ecb325ce8baeeded3791e8cda",
+  "request_id": "JcmRHeoygxBTE44JQvm9",
+  "provider_character_cost": "16",
+  "status": "review_take_not_yet_approved"
+}

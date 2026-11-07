@@ -1,0 +1,22 @@
+{
+  "line_id": "S14-N04",
+  "scene": 14,
+  "role_id": "chairman_barkington",
+  "text": "Then remind them who keeps the streets safe. Panic needs a firm voice.",
+  "voice_id": "bwCXcoVxWNYMlC6Esa8u",
+  "voice_name": "Matthew Schmitz - Gravel, Deep Anti-Hero",
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.4,
+    "similarity_boost": 0.75,
+    "style": 0.65,
+    "use_speaker_boost": true,
+    "speed": 0.9
+  },
+  "duration_sec": 6.826667,
+  "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Voices\\Pilot Complete\\Scene14\\S14-N04-chairman_barkington-take001.mp3",
+  "sha256": "c3840d81dd7338e52a53551bf21ef2cba7719a20cda208a80eba6c2160f88c71",
+  "request_id": "RrPj9x32hthSfe7imsFi",
+  "provider_character_cost": "26",
+  "status": "review_take_not_yet_approved"
+}

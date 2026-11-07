@@ -1,0 +1,21 @@
+{
+  "line_id": "S02-N06",
+  "scene": 2,
+  "role_id": "ghost",
+  "text": "That is not a fault. Somebody wants our attention.",
+  "voice_id": "7fBwqIVI6wI1B4MuKqQi",
+  "voice_name": "Austin — Upbeat",
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.5,
+    "similarity_boost": 0.75,
+    "style": 0.15,
+    "use_speaker_boost": true
+  },
+  "duration_sec": 3.157914,
+  "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Voices\\Pilot Complete\\Scene02\\S02-N06-ghost-take001.mp3",
+  "sha256": "0e03d6ea096c61190d6399f1199c635cb9f7f55d459c5384109cd2f88707b7d0",
+  "request_id": "lw9iKpT1yiLoWBZkKBqR",
+  "provider_character_cost": "11",
+  "status": "review_take_not_yet_approved"
+}

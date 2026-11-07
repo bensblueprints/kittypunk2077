@@ -1,0 +1,21 @@
+{
+  "line_id": "S08-D01",
+  "scene": 8,
+  "role_id": "district7_kitten",
+  "text": "Are you really going to bring the salmon back?",
+  "voice_id": "FGY2WhTYpPnrIDTdsKH5",
+  "voice_name": "Laura - Enthusiast, Quirky Attitude",
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.5,
+    "similarity_boost": 0.75,
+    "style": 0.15,
+    "use_speaker_boost": true
+  },
+  "duration_sec": 2.275556,
+  "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Voices\\Pilot Complete\\Scene08\\S08-D01-district7_kitten-take001.mp3",
+  "sha256": "4ca116ed5146fe75705bb9d410e2b5b91a6d6254f4297ee22e953968ea33307d",
+  "request_id": "wZblcYtISYAGhIu5dmBW",
+  "provider_character_cost": "10",
+  "status": "review_take_not_yet_approved"
+}

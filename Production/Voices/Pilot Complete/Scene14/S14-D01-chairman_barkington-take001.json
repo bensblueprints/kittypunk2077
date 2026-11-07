@@ -1,0 +1,22 @@
+{
+  "line_id": "S14-D01",
+  "scene": 14,
+  "role_id": "chairman_barkington",
+  "text": "The public needs reassurance that our supply measures are necessary.",
+  "voice_id": "bwCXcoVxWNYMlC6Esa8u",
+  "voice_name": "Matthew Schmitz - Gravel, Deep Anti-Hero",
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.4,
+    "similarity_boost": 0.75,
+    "style": 0.65,
+    "use_speaker_boost": true,
+    "speed": 0.9
+  },
+  "duration_sec": 4.96907,
+  "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Voices\\Pilot Complete\\Scene14\\S14-D01-chairman_barkington-take001.mp3",
+  "sha256": "469b752a7b860b9def304735b62e2244d26c37147bdeffae1a4ec1bca05cfd0d",
+  "request_id": "3wpIm35GEF2PXDmyTf7W",
+  "provider_character_cost": "25",
+  "status": "review_take_not_yet_approved"
+}

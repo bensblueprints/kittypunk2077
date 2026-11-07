@@ -1,0 +1,22 @@
+{
+  "line_id": "S14-N06",
+  "scene": 14,
+  "role_id": "chairman_barkington",
+  "text": "Tell them we appreciate a reliable partner. Our appreciation is rarely symbolic.",
+  "voice_id": "bwCXcoVxWNYMlC6Esa8u",
+  "voice_name": "Matthew Schmitz - Gravel, Deep Anti-Hero",
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.4,
+    "similarity_boost": 0.75,
+    "style": 0.65,
+    "use_speaker_boost": true,
+    "speed": 0.9
+  },
+  "duration_sec": 8.219864,
+  "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Voices\\Pilot Complete\\Scene14\\S14-N06-chairman_barkington-take001.mp3",
+  "sha256": "bc54c274fc27ddfb18a405f6027e93d1a95461152e3ead5c0c8c2ec36c65b223",
+  "request_id": "iT4vIdcskxZ2YoMaZAVk",
+  "provider_character_cost": "30",
+  "status": "review_take_not_yet_approved"
+}

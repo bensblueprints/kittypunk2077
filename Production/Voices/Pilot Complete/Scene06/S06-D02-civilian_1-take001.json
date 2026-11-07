@@ -1,0 +1,21 @@
+{
+  "line_id": "S06-D02",
+  "scene": 6,
+  "role_id": "civilian_1",
+  "text": "Those bastards! I sold my litter box to buy dinner!",
+  "voice_id": "DODLEQrClDo8wCz460ld",
+  "voice_name": "Lauren - Friendly, Comforting and Soft",
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.5,
+    "similarity_boost": 0.75,
+    "style": 0.15,
+    "use_speaker_boost": true
+  },
+  "duration_sec": 3.900952,
+  "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Voices\\Pilot Complete\\Scene06\\S06-D02-civilian_1-take001.mp3",
+  "sha256": "f76fe0fb27b24564808ac4e0a1bda3502b6d4f55a73610a651f96c77efe36966",
+  "request_id": "jpyGe7AlMrEWNyePFmTa",
+  "provider_character_cost": "11",
+  "status": "review_take_not_yet_approved"
+}

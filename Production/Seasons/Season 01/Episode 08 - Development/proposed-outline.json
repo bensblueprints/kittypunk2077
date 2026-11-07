@@ -4,13 +4,14 @@
   "runtime_minutes": 20,
   "setup": "Goodboy locks the city ledger before the public vote. The resistance has one night to unlock essential services without deleting ownership claims, debts under dispute or medical access.",
   "escalation": "The five cats enter the server core through the service level discovered earlier. Byte partitions records, Ghost obtains physical access, Neon maintains power, Onyx shields workers and Trixie relinquishes the sole administrator key to a public multi-party process. Fetch tries to stop them as Barkington flees to a secure executive suite.",
-  "resolution": "The city gains a working public essentials ledger, the immediate lockout ends and the concession vote removes Goodboy's monopoly. The resistance celebrates an earned institutional victory. Separately, Muzzle activates the sealed human emergency module to restore Barkington's authority; the system accepts his interface but rejects the corporation's ownership claim.",
-  "continuity": "Corporate leaders remain accountable for Season 1 decisions. Muzzle's activation, not the cats' successful liberation, wakes the human AI. The AI has limited access through the activated emergency network.",
+  "resolution": "The city gains a working public essentials ledger, the immediate lockout ends and the concession vote removes Goodboy's monopoly. Food access and the season's coordinated service extortion are genuinely resolved. The cats and ordinary dogs celebrate together. Barkington retains a separate security contract and uses it to launch BARK cameras under a public-safety promise.",
+  "continuity": "The finale pays off the main season conflict before introducing BARK surveillance. The victory remains real. BARK cameras record vehicle plates and visible movements across connected streets; they do not read minds or see everywhere. Cat and dog civilians both object. CARETAKER is not publicly revealed in this final tag; its activation moves to the Season 2 opening.",
   "locations": [
     "server core",
     "warehouse",
     "Goodboy executive suite",
-    "sealed maintenance chamber"
+    "reopened District 7 market",
+    "BARK monitoring room"
   ],
   "cast": [
     "core five cats",
@@ -18,9 +19,17 @@
     "Fetch",
     "Dr Muzzle",
     "NIP7 presenter",
-    "CARETAKER voice"
+    "ordinary dog shopkeeper",
+    "cat residents",
+    "BARK installation crew"
   ],
   "comedy": "Their new public login finally works. The first citizen complaint is still about a missing salmon coupon.",
-  "ending_hook": "A calm voice identifies every cat and dog as an unattended domestic animal and initiates a welfare assessment.",
-  "status": "Development draft — not scripted or recorded"
+  "ending_hook": "During the final two minutes, installers raise BARK SECURITY cameras above the reopened market. A dog shopkeeper objects that nobody voted for them. The crew sees the same vehicle appear in linked camera records; a routine trip is now a searchable trail. A BARK lens turns toward Trixie and the dog shopkeeper standing together. Its red status light comes on. Cut to black.",
+  "status": "Development draft — not scripted or recorded",
+  "season": 1,
+  "finale_timing": {
+    "00:00–16:30": "Resolve the public essentials lockout and Goodboy monopoly conflict.",
+    "16:30–18:00": "Show restored services and an earned celebration shared by cats and dogs.",
+    "18:00–20:00": "BARK camera rollout, civilian objections across species, and surveillance cliffhanger."
+  }
 }

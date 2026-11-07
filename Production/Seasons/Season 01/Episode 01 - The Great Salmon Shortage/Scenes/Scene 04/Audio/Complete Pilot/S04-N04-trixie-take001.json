@@ -1,0 +1,21 @@
+{
+  "line_id": "S04-N04",
+  "scene": 4,
+  "role_id": "trixie",
+  "text": "Hey. There is room for both of you. Fighting each other will not fill the freezer.",
+  "voice_id": "dmWfLQZJq7wNPv9WmtiM",
+  "voice_name": "Emma — Wry, Gritty Hero",
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.35,
+    "similarity_boost": 0.8,
+    "style": 0.55,
+    "use_speaker_boost": true
+  },
+  "duration_sec": 4.643991,
+  "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Voices\\Pilot Complete\\Scene04\\S04-N04-trixie-take001.mp3",
+  "sha256": "9edf71064ae60420224bf17160c3e2ebb37197b8d7dc7c085c55d3a166dbdcc4",
+  "request_id": "SPCxyvjnrrMo0ggtsY7x",
+  "provider_character_cost": "18",
+  "status": "review_take_not_yet_approved"
+}

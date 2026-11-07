@@ -1,0 +1,21 @@
+{
+  "line_id": "S21-N01",
+  "scene": 21,
+  "role_id": "ghost",
+  "text": "Service lock is open. Stay behind the tank until the robot turns.",
+  "voice_id": "7fBwqIVI6wI1B4MuKqQi",
+  "voice_name": "Austin — Upbeat",
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.5,
+    "similarity_boost": 0.75,
+    "style": 0.15,
+    "use_speaker_boost": true
+  },
+  "duration_sec": 4.179592,
+  "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Voices\\Pilot Complete\\Scene21\\S21-N01-ghost-take001.mp3",
+  "sha256": "7b8b523383282f51c2e3b1aaab4ab0fa6e3ba8bca5e5af76250c65233cc35647",
+  "request_id": "hJS9f2j0Bv0YJp0BNSxg",
+  "provider_character_cost": "14",
+  "status": "review_take_not_yet_approved"
+}

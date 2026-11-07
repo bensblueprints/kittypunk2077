@@ -1,0 +1,21 @@
+{
+  "line_id": "S10-N01",
+  "scene": 10,
+  "role_id": "trixie",
+  "text": "One job each. Ghost finds the route. Neon handles the decoys. Byte watches the cameras. Onyx covers the exit.",
+  "voice_id": "dmWfLQZJq7wNPv9WmtiM",
+  "voice_name": "Emma — Wry, Gritty Hero",
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.35,
+    "similarity_boost": 0.8,
+    "style": 0.55,
+    "use_speaker_boost": true
+  },
+  "duration_sec": 6.548027,
+  "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Voices\\Pilot Complete\\Scene10\\S10-N01-trixie-take001.mp3",
+  "sha256": "db6597ecd9b201e238bdf9b96db0018ea00544fb2b0da662f31da4adbc6a72b6",
+  "request_id": "UXSCt7GmmQndUt52Lx8t",
+  "provider_character_cost": "24",
+  "status": "review_take_not_yet_approved"
+}

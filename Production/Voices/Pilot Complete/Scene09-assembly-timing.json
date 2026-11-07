@@ -1,0 +1,80 @@
+{
+  "scene": 9,
+  "duration_seconds": 48.36807256235828,
+  "target_scene_seconds": 70,
+  "placements": [
+    {
+      "line_id": "S09-N01",
+      "start": 0.0,
+      "end": 5.6656689342403626,
+      "text": "Every price update came through the same corporate feed. The shops did not choose it individually."
+    },
+    {
+      "line_id": "S09-N02",
+      "start": 5.965668934240362,
+      "end": 13.02453514739229,
+      "text": "The message content is encrypted. The meeting confirmation is not. Same names, same time, one private room."
+    },
+    {
+      "line_id": "S09-D01",
+      "start": 13.32453514739229,
+      "end": 15.832290249433106,
+      "text": "Barkington has a private dinner tonight."
+    },
+    {
+      "line_id": "S09-D02",
+      "start": 16.132290249433108,
+      "end": 17.804126984126984,
+      "text": "With the WOOF7 news anchor."
+    },
+    {
+      "line_id": "S09-D03",
+      "start": 18.104126984126985,
+      "end": 21.308480725623582,
+      "text": "The same network telling everyone to panic-buy salmon."
+    },
+    {
+      "line_id": "S09-N03",
+      "start": 21.608480725623583,
+      "end": 26.577551020408162,
+      "text": "Steak and Bone. Their public booking map shows a service corridor behind the dining room."
+    },
+    {
+      "line_id": "S09-N04",
+      "start": 26.877551020408163,
+      "end": 28.735147392290248,
+      "text": "So we walk in and ask nicely?"
+    },
+    {
+      "line_id": "S09-N05",
+      "start": 29.03514739229025,
+      "end": 34.28285714285714,
+      "text": "We watch. We record. We leave. Nobody starts a fight over a suspicion."
+    },
+    {
+      "line_id": "S09-N06",
+      "start": 34.582857142857144,
+      "end": 38.39092970521542,
+      "text": "A photograph of two dogs having dinner is not going to prove much."
+    },
+    {
+      "line_id": "S09-N07",
+      "start": 38.69092970521542,
+      "end": 42.03460317460318,
+      "text": "Correct. Which is why we need to hear what they say."
+    },
+    {
+      "line_id": "S09-N08",
+      "start": 42.334603174603174,
+      "end": 46.0962358276644,
+      "text": "The microphone needs line of sight. I can hide it in the service hatch."
+    },
+    {
+      "line_id": "S09-D04",
+      "start": 46.3962358276644,
+      "end": 48.068072562358275,
+      "text": "Then let's see what's on the menu."
+    }
+  ],
+  "status": "dialogue review assembly, not final soundtrack"
+}

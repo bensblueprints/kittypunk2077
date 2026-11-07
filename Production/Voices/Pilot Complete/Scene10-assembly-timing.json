@@ -1,0 +1,80 @@
+{
+  "scene": 10,
+  "duration_seconds": 42.19156462585034,
+  "target_scene_seconds": 65,
+  "placements": [
+    {
+      "line_id": "S10-N01",
+      "start": 0.0,
+      "end": 6.548027210884354,
+      "text": "One job each. Ghost finds the route. Neon handles the decoys. Byte watches the cameras. Onyx covers the exit."
+    },
+    {
+      "line_id": "S10-N02",
+      "start": 6.848027210884354,
+      "end": 7.498185941043084,
+      "text": "And you?"
+    },
+    {
+      "line_id": "S10-N03",
+      "start": 7.798185941043084,
+      "end": 9.84154195011338,
+      "text": "I get close enough to photograph the meeting."
+    },
+    {
+      "line_id": "S10-D01",
+      "start": 10.141541950113378,
+      "end": 12.32421768707483,
+      "text": "The guards will chase these instead of us."
+    },
+    {
+      "line_id": "S10-D02",
+      "start": 12.62421768707483,
+      "end": 13.692335600907029,
+      "text": "What if they don't?"
+    },
+    {
+      "line_id": "S10-D03",
+      "start": 13.99233560090703,
+      "end": 17.103809523809524,
+      "text": "Then we have a very expensive collection of dog toys."
+    },
+    {
+      "line_id": "S10-N04",
+      "start": 17.403809523809525,
+      "end": 23.58031746031746,
+      "text": "They follow the sound and the smell. This switch cuts both. Do not press the red button indoors."
+    },
+    {
+      "line_id": "S10-N05",
+      "start": 23.88031746031746,
+      "end": 26.155873015873016,
+      "text": "You could have said that before the demonstration."
+    },
+    {
+      "line_id": "S10-D04",
+      "start": 26.455873015873017,
+      "end": 28.174149659863946,
+      "text": "Holy shit. It works."
+    },
+    {
+      "line_id": "S10-N06",
+      "start": 28.474149659863947,
+      "end": 34.32557823129252,
+      "text": "The return path has to stay clear. A distraction that traps us is just a different problem."
+    },
+    {
+      "line_id": "S10-N07",
+      "start": 34.625578231292515,
+      "end": 39.03736961451247,
+      "text": "Two decoys for entry. One held back. I actually planned for something going wrong."
+    },
+    {
+      "line_id": "S10-N08",
+      "start": 39.33736961451247,
+      "end": 41.89156462585034,
+      "text": "Write down the date. We should celebrate this."
+    }
+  ],
+  "status": "dialogue review assembly, not final soundtrack"
+}

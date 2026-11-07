@@ -1,0 +1,21 @@
+{
+  "line_id": "S15-D02",
+  "scene": 15,
+  "role_id": "trixie",
+  "text": "Every pixel.",
+  "voice_id": "dmWfLQZJq7wNPv9WmtiM",
+  "voice_name": "Emma — Wry, Gritty Hero",
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.35,
+    "similarity_boost": 0.8,
+    "style": 0.55,
+    "use_speaker_boost": true
+  },
+  "duration_sec": 0.789478,
+  "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Voices\\Pilot Complete\\Scene15\\S15-D02-trixie-take001.mp3",
+  "sha256": "0c17f02e49e121d2810b76af278c9948f2336f9b6f19dbab9ac347f0791ed19a",
+  "request_id": "2FbSemzrcuUlxFnyeHik",
+  "provider_character_cost": "3",
+  "status": "review_take_not_yet_approved"
+}

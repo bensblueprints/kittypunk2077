@@ -1,0 +1,23 @@
+{
+  "id": "FX05-district-street",
+  "scenes": [
+    4,
+    6,
+    8,
+    18,
+    23
+  ],
+  "request": {
+    "text": "Rainy neon city backstreet ambience, distant traffic passing, wet pavement tire hiss, faint market awnings creaking, urban ventilation. No intelligible or unintelligible voices, no music.",
+    "duration_seconds": 20,
+    "loop": true,
+    "prompt_influence": 0.45,
+    "model_id": "eleven_text_to_sound_v2"
+  },
+  "status": "completed",
+  "created": "2026-11-07T01:13:41.259625+00:00",
+  "bytes": 321035,
+  "sha256": "93d47a72f80de3d9b06923ed5b782b19cba6659384f3acc165246473ced7c57c",
+  "character_cost": "110",
+  "request_id": null
+}

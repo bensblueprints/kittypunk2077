@@ -1,0 +1,22 @@
+{
+  "id": "FX10-luxury-restaurant",
+  "scenes": [
+    11,
+    13,
+    14,
+    15
+  ],
+  "request": {
+    "text": "Elegant restaurant ambience without people voices: subtle crystal glass clinks and silver cutlery, soft room ventilation, distant kitchen dishes, spacious plush interior. No voices, no music.",
+    "duration_seconds": 20,
+    "loop": true,
+    "prompt_influence": 0.45,
+    "model_id": "eleven_text_to_sound_v2"
+  },
+  "status": "completed",
+  "created": "2026-11-07T01:14:03.739570+00:00",
+  "bytes": 321035,
+  "sha256": "624a8f812e7731e3449bdc47fdbbbaadc436aa133144d829b3357bcab9945828",
+  "character_cost": "110",
+  "request_id": null
+}

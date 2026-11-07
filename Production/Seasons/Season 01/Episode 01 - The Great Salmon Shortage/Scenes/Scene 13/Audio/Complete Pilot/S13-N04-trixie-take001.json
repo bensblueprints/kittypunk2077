@@ -1,0 +1,21 @@
+{
+  "line_id": "S13-N04",
+  "scene": 13,
+  "role_id": "trixie",
+  "text": "There is the hatch. Neon, microphone first. I need the table and both faces.",
+  "voice_id": "dmWfLQZJq7wNPv9WmtiM",
+  "voice_name": "Emma — Wry, Gritty Hero",
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.35,
+    "similarity_boost": 0.8,
+    "style": 0.55,
+    "use_speaker_boost": true
+  },
+  "duration_sec": 4.96907,
+  "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Voices\\Pilot Complete\\Scene13\\S13-N04-trixie-take001.mp3",
+  "sha256": "8d9a9a71e44a3753d5d15c0c85357b8e257e557da8f8c4d138610bcca20c9f70",
+  "request_id": "Nraad4YKOMZxeVZ3vCt5",
+  "provider_character_cost": "17",
+  "status": "review_take_not_yet_approved"
+}

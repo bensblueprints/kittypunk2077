@@ -1,0 +1,22 @@
+{
+  "id": "FX08-hacking-interface",
+  "scenes": [
+    9,
+    17,
+    19,
+    22
+  ],
+  "request": {
+    "text": "Cyberpunk computer keyboard typing in several short bursts, restrained electronic confirmation beeps, final successful data upload chime. No speech, no music.",
+    "duration_seconds": 10,
+    "loop": false,
+    "prompt_influence": 0.45,
+    "model_id": "eleven_text_to_sound_v2"
+  },
+  "status": "completed",
+  "created": "2026-11-07T01:13:57.715168+00:00",
+  "bytes": 160957,
+  "sha256": "4e997ba079fc6eb6d285b96c9a4e175caed42a0adf6309c99042c9385d50a34d",
+  "character_cost": "55",
+  "request_id": null
+}

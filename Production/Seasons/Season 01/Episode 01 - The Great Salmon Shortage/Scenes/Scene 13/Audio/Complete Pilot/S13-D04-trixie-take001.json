@@ -1,0 +1,21 @@
+{
+  "line_id": "S13-D04",
+  "scene": 13,
+  "role_id": "trixie",
+  "text": "You're literally standing still.",
+  "voice_id": "dmWfLQZJq7wNPv9WmtiM",
+  "voice_name": "Emma — Wry, Gritty Hero",
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.35,
+    "similarity_boost": 0.8,
+    "style": 0.55,
+    "use_speaker_boost": true
+  },
+  "duration_sec": 1.532517,
+  "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Voices\\Pilot Complete\\Scene13\\S13-D04-trixie-take001.mp3",
+  "sha256": "f4ea27cdcacd81556db266a8cbdfb06301ff03c165c91438c1f696dcd548a87a",
+  "request_id": "4pmwybPaeqBuvUVzD0xU",
+  "provider_character_cost": "7",
+  "status": "review_take_not_yet_approved"
+}

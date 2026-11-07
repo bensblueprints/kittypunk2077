@@ -1,0 +1,21 @@
+{
+  "line_id": "S17-N04",
+  "scene": 17,
+  "role_id": "nip7_anchor",
+  "text": "The purpose of the payment has not been independently established. We have requested a response from both parties.",
+  "voice_id": "onwK4e9ZLuTAKqWW03F9",
+  "voice_name": "Daniel",
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.5,
+    "similarity_boost": 0.75,
+    "style": 0.15,
+    "use_speaker_boost": true
+  },
+  "duration_sec": 7.291066,
+  "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Voices\\Pilot Complete\\Scene17\\S17-N04-nip7_anchor-take001.mp3",
+  "sha256": "365b81d87408287be33e06e9311498eb8bceb4c39e22341ce557fde546f33547",
+  "request_id": "Gvxcj5EDsKFjS78izLWU",
+  "provider_character_cost": "25",
+  "status": "review_take_not_yet_approved"
+}

@@ -1,0 +1,21 @@
+{
+  "line_id": "S07-D04",
+  "scene": 7,
+  "role_id": "neon",
+  "text": "It's trending.",
+  "voice_id": "4e32WqNVWRquDa1OcRYZ",
+  "voice_name": "Ryan — Product Reviewer",
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.5,
+    "similarity_boost": 0.75,
+    "style": 0.15,
+    "use_speaker_boost": true
+  },
+  "duration_sec": 1.068118,
+  "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Voices\\Pilot Complete\\Scene07\\S07-D04-neon-take001.mp3",
+  "sha256": "213c9be1365e667bf9722da7f72bdd38abd27dcb1ac88f3b7afecc09ae0fa0ad",
+  "request_id": "zsRoVHsVsDuNRZobvtRv",
+  "provider_character_cost": "3",
+  "status": "review_take_not_yet_approved"
+}

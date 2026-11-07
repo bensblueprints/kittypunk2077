@@ -1,0 +1,21 @@
+{
+  "line_id": "S10-D01",
+  "scene": 10,
+  "role_id": "neon",
+  "text": "The guards will chase these instead of us.",
+  "voice_id": "4e32WqNVWRquDa1OcRYZ",
+  "voice_name": "Ryan — Product Reviewer",
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.5,
+    "similarity_boost": 0.75,
+    "style": 0.15,
+    "use_speaker_boost": true
+  },
+  "duration_sec": 2.182676,
+  "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Voices\\Pilot Complete\\Scene10\\S10-D01-neon-take001.mp3",
+  "sha256": "fd96d71e32f49eb764bd96792446fa1091cd43390cbe51f74fabed0f5e08188b",
+  "request_id": "6R5dn071nJNrOldby5tj",
+  "provider_character_cost": "9",
+  "status": "review_take_not_yet_approved"
+}

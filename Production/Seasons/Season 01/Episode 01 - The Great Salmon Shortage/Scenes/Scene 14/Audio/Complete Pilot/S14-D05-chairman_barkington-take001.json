@@ -1,0 +1,22 @@
+{
+  "line_id": "S14-D05",
+  "scene": 14,
+  "role_id": "chairman_barkington",
+  "text": "Neither is loyalty.",
+  "voice_id": "bwCXcoVxWNYMlC6Esa8u",
+  "voice_name": "Matthew Schmitz - Gravel, Deep Anti-Hero",
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.4,
+    "similarity_boost": 0.75,
+    "style": 0.65,
+    "use_speaker_boost": true,
+    "speed": 0.9
+  },
+  "duration_sec": 1.857596,
+  "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Voices\\Pilot Complete\\Scene14\\S14-D05-chairman_barkington-take001.mp3",
+  "sha256": "dd6d274e0851f4337b04999f61cd7e3c4e64c41194aed5d9123a5432350bf285",
+  "request_id": "M0Cqf1641dQEw2soRmAz",
+  "provider_character_cost": "7",
+  "status": "review_take_not_yet_approved"
+}

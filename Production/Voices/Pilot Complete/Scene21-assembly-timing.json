@@ -1,0 +1,56 @@
+{
+  "scene": 21,
+  "duration_seconds": 23.808798185941043,
+  "target_scene_seconds": 45,
+  "placements": [
+    {
+      "line_id": "S21-N01",
+      "start": 0.0,
+      "end": 4.179591836734694,
+      "text": "Service lock is open. Stay behind the tank until the robot turns."
+    },
+    {
+      "line_id": "S21-D01",
+      "start": 4.479591836734694,
+      "end": 6.662267573696145,
+      "text": "That's enough salmon to feed half the city!"
+    },
+    {
+      "line_id": "S21-D02",
+      "start": 6.9622675736961455,
+      "end": 8.541224489795919,
+      "text": "And they told us there was none."
+    },
+    {
+      "line_id": "S21-N02",
+      "start": 8.841224489795918,
+      "end": 12.417097505668934,
+      "text": "Dispatch terminal here. Refrigeration is on a separate circuit."
+    },
+    {
+      "line_id": "S21-D03",
+      "start": 12.717097505668935,
+      "end": 14.156734693877551,
+      "text": "Can I punch something now?"
+    },
+    {
+      "line_id": "S21-D04",
+      "start": 14.456734693877552,
+      "end": 15.664172335600908,
+      "text": "You have my permission."
+    },
+    {
+      "line_id": "S21-N03",
+      "start": 15.964172335600907,
+      "end": 19.49360544217687,
+      "text": "A robot. I am punching a robot. We are being specific."
+    },
+    {
+      "line_id": "S21-N04",
+      "start": 19.793605442176872,
+      "end": 23.508798185941043,
+      "text": "Keep it away from the tanks. Byte, get the truck routes."
+    }
+  ],
+  "status": "dialogue review assembly, not final soundtrack"
+}

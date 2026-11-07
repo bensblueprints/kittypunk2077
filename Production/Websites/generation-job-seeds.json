@@ -1,0 +1,474 @@
+[
+  {
+    "id": "task_zvKObwF1YaTfGuRxAzCmtibIslxxnhGe",
+    "task_id": "task_zvKObwF1YaTfGuRxAzCmtibIslxxnhGe",
+    "provider": "wan",
+    "subject": "S01-P01",
+    "scene": 1,
+    "payload": {
+      "model": "wan-3.0-prime",
+      "duration_sec": 6,
+      "resolution": "1080p",
+      "aspect_ratio": "16:9",
+      "input_images": [
+        "https://d8j0ntlcm91z4.cloudfront.net/user_3FexRxU2V7FefQUvOnG7eFCKfmw/hf_20261106_194305_07364241-980c-44ef-96b7-6cc3cdae209e.png"
+      ],
+      "prompt": "Six-second cinematic establishing shot of the exact resistance warehouse in reference image 1, District 7 at rainy night. Preserve this rectangular old brick warehouse, black steel high windows, closed rusted cargo shutter, narrow staff door to its right, pink resistance stencil, corrugated roof and neon city skyline. Very slow subtle dolly forward from wet loading apron, gentle falling rain and ripples in puddles, a few cherry blossom petals drifting at upper left. Amber interior practical light behind windows, magenta cyan reflections. No characters, no vehicles, no new doors or architecture, no text overlays, no cuts. Tactile detailed stylized 3D animated cinema, restrained atmospheric motion. No speech or music.",
+      "edit_duration": 6
+    },
+    "status": "failed",
+    "error": "参考素材上传失败，请检查素材 URL 和格式",
+    "created": 1794010923.70442,
+    "estimate": 6.6
+  },
+  {
+    "id": "task_80oJCgsZzXm99Fq3a8igythpnTsQ8snh",
+    "task_id": "task_80oJCgsZzXm99Fq3a8igythpnTsQ8snh",
+    "provider": "wan",
+    "subject": "S01-P01",
+    "scene": 1,
+    "payload": {
+      "model": "wan-3.0-prime",
+      "duration_sec": 6,
+      "resolution": "1080p",
+      "aspect_ratio": "16:9",
+      "input_images": [
+        "https://kittypunk.144.76.78.158.sslip.io/generation-input/838fac350ffd8091ebe0c673d534148c6894f5b288fce67bfe4c1ab7334123b1/warehouse.png"
+      ],
+      "prompt": "Six-second cinematic establishing shot of the exact resistance warehouse in reference image 1, District 7 at rainy night. Preserve this rectangular old brick warehouse, black steel high windows, closed rusted cargo shutter, narrow staff door to its right, pink resistance stencil, corrugated roof and neon city skyline. Very slow subtle dolly forward from wet loading apron, gentle falling rain and ripples in puddles, a few cherry blossom petals drifting at upper left. Amber interior practical light behind windows, magenta cyan reflections. No characters, no vehicles, no new doors or architecture, no text overlays, no cuts. Tactile detailed stylized 3D animated cinema, restrained atmospheric motion. No speech or music.",
+      "edit_duration": 6
+    },
+    "status": "failed",
+    "error": "参考素材上传失败，请检查素材 URL 和格式",
+    "created": 1794011307.293839,
+    "estimate": 6.6
+  },
+  {
+    "id": "task_sjziyXRzSrzfxn2nUFzeETkOeMlu7lZ8",
+    "task_id": "task_sjziyXRzSrzfxn2nUFzeETkOeMlu7lZ8",
+    "provider": "wan",
+    "subject": "S01-P01",
+    "scene": 1,
+    "payload": {
+      "model": "wan-3.0-prime",
+      "duration_sec": 6,
+      "resolution": "1080p",
+      "aspect_ratio": "16:9",
+      "input_images": [
+        "https://kittypunk.144.76.78.158.sslip.io/generation-input/838fac350ffd8091ebe0c673d534148c6894f5b288fce67bfe4c1ab7334123b1/warehouse.jpg"
+      ],
+      "prompt": "Six-second cinematic establishing shot of the exact resistance warehouse in reference image 1, District 7 at rainy night. Preserve this rectangular old brick warehouse, black steel high windows, closed rusted cargo shutter, narrow staff door to its right, pink resistance stencil, corrugated roof and neon city skyline. Very slow subtle dolly forward from wet loading apron, gentle falling rain and ripples in puddles, a few cherry blossom petals drifting at upper left. Amber interior practical light behind windows, magenta cyan reflections. No characters, no vehicles, no new doors or architecture, no text overlays, no cuts. Tactile detailed stylized 3D animated cinema, restrained atmospheric motion. No speech or music.",
+      "edit_duration": 6
+    },
+    "status": "failed",
+    "error": "参考素材上传失败，请检查素材 URL 和格式",
+    "created": 1794011993.909632,
+    "estimate": 6.6
+  },
+  {
+    "id": "task_ZklR4elwLsND6gul5LyddjQOXZKIDFqK",
+    "task_id": "task_ZklR4elwLsND6gul5LyddjQOXZKIDFqK",
+    "provider": "wan",
+    "subject": "S01-P01",
+    "scene": 1,
+    "payload": {
+      "model": "wan-3.0-prime",
+      "duration_sec": 6,
+      "resolution": "1080p",
+      "aspect_ratio": "16:9",
+      "input_images": [
+        "https://d8j0ntlcm91z4.cloudfront.net/user_3FexRxU2V7FefQUvOnG7eFCKfmw/hf_20261106_194305_07364241-980c-44ef-96b7-6cc3cdae209e.png"
+      ],
+      "prompt": "Six-second cinematic establishing shot of the exact resistance warehouse in reference image 1, District 7 at rainy night. Preserve this rectangular old brick warehouse, black steel high windows, closed rusted cargo shutter, narrow staff door to its right, pink resistance stencil, corrugated roof and neon city skyline. Very slow subtle dolly forward from wet loading apron, gentle falling rain and ripples in puddles, a few cherry blossom petals drifting at upper left. Amber interior practical light behind windows, magenta cyan reflections. No characters, no vehicles, no new doors or architecture, no text overlays, no cuts. Tactile detailed stylized 3D animated cinema, restrained atmospheric motion. No speech or music.",
+      "edit_duration": 6
+    },
+    "status": "failed",
+    "error": "参考素材上传失败，请检查素材 URL 和格式",
+    "created": 1794012837.940756,
+    "estimate": 6.6
+  },
+  {
+    "id": "task_qDpwYuH51geCEnpQW95JXweCwSnwQSYu",
+    "task_id": "task_qDpwYuH51geCEnpQW95JXweCwSnwQSYu",
+    "provider": "wan",
+    "subject": "S01-P01",
+    "scene": 1,
+    "payload": {
+      "model": "wan-3.0-prime",
+      "duration_sec": 6,
+      "resolution": "1080p",
+      "aspect_ratio": "16:9",
+      "input_images": [
+        "https://d8j0ntlcm91z4.cloudfront.net/user_3FexRxU2V7FefQUvOnG7eFCKfmw/hf_20261106_194305_07364241-980c-44ef-96b7-6cc3cdae209e.png"
+      ],
+      "prompt": "Six-second cinematic establishing shot of the exact resistance warehouse in reference image 1, District 7 at rainy night. Preserve this rectangular old brick warehouse, black steel high windows, closed rusted cargo shutter, narrow staff door to its right, pink resistance stencil, corrugated roof and neon city skyline. Very slow subtle dolly forward from wet loading apron, gentle falling rain and ripples in puddles, a few cherry blossom petals drifting at upper left. Amber interior practical light behind windows, magenta cyan reflections. No characters, no vehicles, no new doors or architecture, no text overlays, no cuts. Tactile detailed stylized 3D animated cinema, restrained atmospheric motion. No speech or music.",
+      "edit_duration": 6
+    },
+    "status": "failed",
+    "error": "参考素材上传失败，请检查素材 URL 和格式",
+    "created": 1794013957.444649,
+    "estimate": 6.6
+  },
+  {
+    "id": "task_VcIZenFTycAivciuY97U4IiQBpEFzp43",
+    "task_id": "task_VcIZenFTycAivciuY97U4IiQBpEFzp43",
+    "provider": "wan",
+    "subject": "S01-P02",
+    "scene": 1,
+    "payload": {
+      "model": "wan-3.0-prime",
+      "duration_sec": 6,
+      "resolution": "1080p",
+      "aspect_ratio": "16:9",
+      "input_images": [
+        "https://kittypunk.144.76.78.158.sslip.io/generation-input/838fac350ffd8091ebe0c673d534148c6894f5b288fce67bfe4c1ab7334123b1/rear.jpg"
+      ],
+      "prompt": "KittyPunk2077 cinematic tactile 3D animated film. Reference image defines exact character identities, wardrobe and set. Locked rear medium-wide of the exact FIVE cats playing on the couch in reference image 1. Keep left to right Neon cyan, Onyx black violet, Trixie white magenta, Byte orange, Ghost green hood. Subtle excited shoulder movement, controller button presses, ear twitches. Nobody stands or swaps seats. Inside the distant TV screen the magenta car races toward the bank. All moving game imagery ONLY inside inner TV glass; casing and room geometry fixed. No dialogue. No camera movement or cuts. No added dialogue, narration, music, subtitles, titles or new characters. Preserve reference art quality. This clip will be trimmed at the end to exact editorial duration.",
+      "edit_duration": 6
+    },
+    "status": "failed",
+    "error": "参考素材上传失败，请检查素材 URL 和格式",
+    "created": 1794011994.592677,
+    "estimate": 6.6
+  },
+  {
+    "id": "task_hlmoEaYU4vCh7RHZBTyE7igEur7l5FDp",
+    "task_id": "task_hlmoEaYU4vCh7RHZBTyE7igEur7l5FDp",
+    "provider": "wan",
+    "subject": "S01-P02",
+    "scene": 1,
+    "payload": {
+      "model": "wan-3.0-prime",
+      "duration_sec": 6,
+      "resolution": "1080p",
+      "aspect_ratio": "16:9",
+      "input_images": [
+        "https://d8j0ntlcm91z4.cloudfront.net/user_3FexRxU2V7FefQUvOnG7eFCKfmw/hf_20261107_002352_6a3d5d2c-ed0e-44f8-a0a0-66685b756c01.png"
+      ],
+      "prompt": "KittyPunk2077 cinematic tactile 3D animated film. Reference image defines exact character identities, wardrobe and set. Locked rear medium-wide of the exact FIVE cats playing on the couch in reference image 1. Keep left to right Neon cyan, Onyx black violet, Trixie white magenta, Byte orange, Ghost green hood. Subtle excited shoulder movement, controller button presses, ear twitches. Nobody stands or swaps seats. Inside the distant TV screen the magenta car races toward the bank. All moving game imagery ONLY inside inner TV glass; casing and room geometry fixed. No dialogue. No camera movement or cuts. No added dialogue, narration, music, subtitles, titles or new characters. Preserve reference art quality. This clip will be trimmed at the end to exact editorial duration.",
+      "edit_duration": 6
+    },
+    "status": "failed",
+    "error": "参考素材上传失败，请检查素材 URL 和格式",
+    "created": 1794012838.328456,
+    "estimate": 6.6
+  },
+  {
+    "id": "task_tiRz7Nd0Mw2pmEc2yW2xSo3CgieFZhR6",
+    "task_id": "task_tiRz7Nd0Mw2pmEc2yW2xSo3CgieFZhR6",
+    "provider": "wan",
+    "subject": "S01-P03",
+    "scene": 1,
+    "payload": {
+      "model": "wan-3.0-prime",
+      "duration_sec": 7,
+      "resolution": "1080p",
+      "aspect_ratio": "16:9",
+      "input_images": [
+        "https://d8j0ntlcm91z4.cloudfront.net/user_3FexRxU2V7FefQUvOnG7eFCKfmw/hf_20261107_001508_443aeaab-0efa-4efd-8219-a528bd40480c.png"
+      ],
+      "input_audios": [
+        "https://kittypunk.144.76.78.158.sslip.io/generation-input/838fac350ffd8091ebe0c673d534148c6894f5b288fce67bfe4c1ab7334123b1/shot03-approved.wav"
+      ],
+      "prompt": "A continuous seven-second locked-off close-up of this exact physical rusty CRT television in the KittyPunk2077 living room. Reference image 1 defines the entire shot and must be maintained: same full television casing, curved glass boundary, two knobs on the right, speaker, room background and fixed camera. The video game is a moving image displayed ONLY WITHIN THE INNER TV GLASS. At every frame the complete casing remains visible and immobile. Never enter the game world, never fill the film frame with gameplay, never place HUD, cars, avatars or game effects outside the glass. No cuts, no camera zoom, no new room characters.\nAnimate only the game inside the screen: white blue-eyed female cat Trixie in magenta drives the magenta convertible, orange tabby Byte with sunglasses and orange paw headphones rides passenger. Third-person game camera tracks the moving car inside the display. During 0-2.5 seconds the car veers toward the bank wall as Byte shouts his warning. At approximately 2.6 seconds a small comical low-speed collision stops its front bumper against the bank masonry, a brief spark and skid entirely inside the display. At 3-7 seconds wheels spin uselessly and police lights approach behind. Keep the car, two avatars, bank architecture and their identities consistent. Stylized cinematic 3D cyberpunk game graphics with subtle CRT scanlines, neon reflections. No injury, no explosions.\nInput audio 1 is the approved off-screen couch gamers, preserve its timing: Byte says Left! LEFT! That is a wall, Trixie!; Trixie replies Relax. I found a shortcut.; Byte says Through the bank we just robbed? These voices are OFF-SCREEN PLAYERS, not speaking game avatars. Do not lip-sync avatars. No additional dialogue or narrator. Room and television shell remain still while gameplay moves within the glass only.",
+      "edit_duration": 6.566,
+      "source_audio": [
+        "generation_sources/shot03-approved.wav"
+      ]
+    },
+    "status": "completed",
+    "error": null,
+    "created": 1794010827.448502,
+    "estimate": 7.7
+  },
+  {
+    "id": "task_jH9Q4KiGMpd7DwfZKFAG5sc7QXOJz2KA",
+    "task_id": "task_jH9Q4KiGMpd7DwfZKFAG5sc7QXOJz2KA",
+    "provider": "wan",
+    "subject": "S01-P04",
+    "scene": 1,
+    "payload": {
+      "model": "wan-3.0-prime",
+      "duration_sec": 10,
+      "resolution": "1080p",
+      "aspect_ratio": "16:9",
+      "input_images": [
+        "https://kittypunk.144.76.78.158.sslip.io/generation-input/838fac350ffd8091ebe0c673d534148c6894f5b288fce67bfe4c1ab7334123b1/front.jpg"
+      ],
+      "prompt": "KittyPunk2077 cinematic tactile 3D animated film. Reference image defines exact character identities, wardrobe and set. Front couch medium-wide exactly as reference image 1. EXACTLY five cats: left to right Ghost green, Byte orange, Trixie white magenta female, Onyx black violet, Neon silver cyan. Neon far right complains at his controller; Onyx second from right turns toward him with dry disbelief; Neon indignantly replies. Others react silently while holding controllers. TV is behind camera and never visible. Subtle natural paws, blinking, breathing, no extra limbs or standing. Keep the seat order, wall and corridor unchanged. Locked camera, one continuous shot. Input audio 1 is the approved ElevenLabs performance. Match turn-taking and mouth movements to its timing; only the specified speaker moves their mouth. At 0.00s Neon says: My controller has input lag. I pressed jump yesterday. At 3.55s Onyx says: You are in a car. Why are you pressing jump? At 6.54s Neon says: Because she keeps driving into buildings! No added dialogue, narration, music, subtitles, titles or new characters. Preserve reference art quality. This clip will be trimmed at the end to exact editorial duration.",
+      "input_audios": [
+        "https://kittypunk.144.76.78.158.sslip.io/generation-input/838fac350ffd8091ebe0c673d534148c6894f5b288fce67bfe4c1ab7334123b1/shot04-approved.wav"
+      ],
+      "edit_duration": 9.212,
+      "source_audio": [
+        "generation_sources/shot04-approved.wav"
+      ]
+    },
+    "status": "failed",
+    "error": "参考素材上传失败，请检查素材 URL 和格式",
+    "created": 1794011995.254854,
+    "estimate": 11.0
+  },
+  {
+    "id": "task_S5F4lbVw5O53g0jxyLdtbTYsV74vlLYp",
+    "task_id": "task_S5F4lbVw5O53g0jxyLdtbTYsV74vlLYp",
+    "provider": "wan",
+    "subject": "S01-P04",
+    "scene": 1,
+    "payload": {
+      "model": "wan-3.0-prime",
+      "duration_sec": 10,
+      "resolution": "1080p",
+      "aspect_ratio": "16:9",
+      "input_images": [
+        "https://d8j0ntlcm91z4.cloudfront.net/user_3FexRxU2V7FefQUvOnG7eFCKfmw/hf_20261107_002632_076f39de-bd8f-4639-ace9-e2f17304e1d9.png"
+      ],
+      "prompt": "KittyPunk2077 cinematic tactile 3D animated film. Reference image defines exact character identities, wardrobe and set. Front couch medium-wide exactly as reference image 1. EXACTLY five cats: left to right Ghost green, Byte orange, Trixie white magenta female, Onyx black violet, Neon silver cyan. Neon far right complains at his controller; Onyx second from right turns toward him with dry disbelief; Neon indignantly replies. Others react silently while holding controllers. TV is behind camera and never visible. Subtle natural paws, blinking, breathing, no extra limbs or standing. Keep the seat order, wall and corridor unchanged. Locked camera, one continuous shot. Input audio 1 is the approved ElevenLabs performance. Match turn-taking and mouth movements to its timing; only the specified speaker moves their mouth. At 0.00s Neon says: My controller has input lag. I pressed jump yesterday. At 3.55s Onyx says: You are in a car. Why are you pressing jump? At 6.54s Neon says: Because she keeps driving into buildings! No added dialogue, narration, music, subtitles, titles or new characters. Preserve reference art quality. This clip will be trimmed at the end to exact editorial duration.",
+      "input_audios": [
+        "https://kittypunk.144.76.78.158.sslip.io/generation-input/838fac350ffd8091ebe0c673d534148c6894f5b288fce67bfe4c1ab7334123b1/shot04-approved.wav"
+      ],
+      "edit_duration": 9.212,
+      "source_audio": [
+        "generation_sources/shot04-approved.wav"
+      ]
+    },
+    "status": "failed",
+    "error": "参考素材上传失败，请检查素材 URL 和格式",
+    "created": 1794012838.725939,
+    "estimate": 11.0
+  },
+  {
+    "id": "task_cd3DqwjKHhZT3GdUb7xCf3xOUBoumoiz",
+    "task_id": "task_cd3DqwjKHhZT3GdUb7xCf3xOUBoumoiz",
+    "provider": "wan",
+    "subject": "S01-P05",
+    "scene": 1,
+    "payload": {
+      "model": "wan-3.0-prime",
+      "duration_sec": 6,
+      "resolution": "1080p",
+      "aspect_ratio": "16:9",
+      "input_images": [
+        "https://kittypunk.144.76.78.158.sslip.io/generation-input/838fac350ffd8091ebe0c673d534148c6894f5b288fce67bfe4c1ab7334123b1/crash.jpg"
+      ],
+      "prompt": "KittyPunk2077 cinematic tactile 3D animated film. Reference image defines exact character identities, wardrobe and set. Locked close shot of the entire real physical CRT casing exactly as reference. Within its inner glass only, the magenta game convertible is wedged against the bank wall, Trixie white magenta driving and orange Byte passenger. Wheels spin uselessly, helicopter searchlight sweeps bank wall and approaching police lights flash. All game motion remains within screen. The real casing, knobs and room do not move. Offscreen couch gamers speak; game avatars DO NOT lip-sync. No new room characters, no zoom into game, no cuts. Input audio 1 is the approved ElevenLabs performance. Match turn-taking and mouth movements to its timing; only the specified speaker moves their mouth. At 0.00s Trixie says: Nobody appreciates experimental driving. At 2.30s Byte says: The police appreciate it. All six helicopters. No added dialogue, narration, music, subtitles, titles or new characters. Preserve reference art quality. This clip will be trimmed at the end to exact editorial duration.",
+      "input_audios": [
+        "https://kittypunk.144.76.78.158.sslip.io/generation-input/838fac350ffd8091ebe0c673d534148c6894f5b288fce67bfe4c1ab7334123b1/shot05-approved.wav"
+      ],
+      "edit_duration": 5.523,
+      "source_audio": [
+        "generation_sources/shot05-approved.wav"
+      ]
+    },
+    "status": "failed",
+    "error": "参考素材上传失败，请检查素材 URL 和格式",
+    "created": 1794012107.002259,
+    "estimate": 6.6
+  },
+  {
+    "id": "task_AZ1ZeupDYfGMLSKPXiSRVD27m7gOltZv",
+    "task_id": "task_AZ1ZeupDYfGMLSKPXiSRVD27m7gOltZv",
+    "provider": "wan",
+    "subject": "S01-P05",
+    "scene": 1,
+    "payload": {
+      "model": "wan-3.0-prime",
+      "duration_sec": 6,
+      "resolution": "1080p",
+      "aspect_ratio": "16:9",
+      "input_images": [
+        "https://d8j0ntlcm91z4.cloudfront.net/user_3FexRxU2V7FefQUvOnG7eFCKfmw/hf_20261107_002704_979d3fa1-be18-4fbe-8015-4f169bca4626.png"
+      ],
+      "prompt": "KittyPunk2077 cinematic tactile 3D animated film. Reference image defines exact character identities, wardrobe and set. Locked close shot of the entire real physical CRT casing exactly as reference. Within its inner glass only, the magenta game convertible is wedged against the bank wall, Trixie white magenta driving and orange Byte passenger. Wheels spin uselessly, helicopter searchlight sweeps bank wall and approaching police lights flash. All game motion remains within screen. The real casing, knobs and room do not move. Offscreen couch gamers speak; game avatars DO NOT lip-sync. No new room characters, no zoom into game, no cuts. Input audio 1 is the approved ElevenLabs performance. Match turn-taking and mouth movements to its timing; only the specified speaker moves their mouth. At 0.00s Trixie says: Nobody appreciates experimental driving. At 2.30s Byte says: The police appreciate it. All six helicopters. No added dialogue, narration, music, subtitles, titles or new characters. Preserve reference art quality. This clip will be trimmed at the end to exact editorial duration.",
+      "input_audios": [
+        "https://kittypunk.144.76.78.158.sslip.io/generation-input/838fac350ffd8091ebe0c673d534148c6894f5b288fce67bfe4c1ab7334123b1/shot05-approved.wav"
+      ],
+      "edit_duration": 5.523,
+      "source_audio": [
+        "generation_sources/shot05-approved.wav"
+      ]
+    },
+    "status": "failed",
+    "error": "参考素材上传失败，请检查素材 URL 和格式",
+    "created": 1794012839.142125,
+    "estimate": 6.6
+  },
+  {
+    "id": "task_UKq774StfrGhbYJ2nwXF4HQBCNKBss4b",
+    "task_id": "task_UKq774StfrGhbYJ2nwXF4HQBCNKBss4b",
+    "provider": "wan",
+    "subject": "S01-P06",
+    "scene": 1,
+    "payload": {
+      "model": "wan-3.0-prime",
+      "duration_sec": 7,
+      "resolution": "1080p",
+      "aspect_ratio": "16:9",
+      "input_images": [
+        "https://kittypunk.144.76.78.158.sslip.io/generation-input/838fac350ffd8091ebe0c673d534148c6894f5b288fce67bfe4c1ab7334123b1/front.jpg"
+      ],
+      "prompt": "KittyPunk2077 cinematic tactile 3D animated film. Reference image defines exact character identities, wardrobe and set. Compose a medium two-shot of Onyx and Neon in the two RIGHTMOST seats of the front couch reference. Onyx is the black cat with amber eyes, violet paw headphones; Neon is silver grey cyan visor and blue scarf. Onyx dryly threatens the window while gesturing briefly toward offscreen window to camera left, then returns paw to controller. Neon asks In the game?; Onyx replies Keep testing me. Preserve adjacent seating, identities, clothing and room. Other three cats stay offscreen, no new character. TV behind camera. No actual violence. Restrained funny reactions. No cuts. Input audio 1 is the approved ElevenLabs performance. Match turn-taking and mouth movements to its timing; only the specified speaker moves their mouth. At 0.00s Onyx says: One more crash and somebody is going through that window. At 3.32s Neon says: In the game? At 4.55s Onyx says: Keep testing me. No added dialogue, narration, music, subtitles, titles or new characters. Preserve reference art quality. This clip will be trimmed at the end to exact editorial duration.",
+      "input_audios": [
+        "https://kittypunk.144.76.78.158.sslip.io/generation-input/838fac350ffd8091ebe0c673d534148c6894f5b288fce67bfe4c1ab7334123b1/shot06-approved.wav"
+      ],
+      "edit_duration": 6.148,
+      "source_audio": [
+        "generation_sources/shot06-approved.wav"
+      ]
+    },
+    "status": "failed",
+    "error": "参考素材上传失败，请检查素材 URL 和格式",
+    "created": 1794012107.383096,
+    "estimate": 7.7
+  },
+  {
+    "id": "task_kJVnvBVI7nfarbnDh1yaQkLnInZV1atd",
+    "task_id": "task_kJVnvBVI7nfarbnDh1yaQkLnInZV1atd",
+    "provider": "wan",
+    "subject": "S01-P07",
+    "scene": 1,
+    "payload": {
+      "model": "wan-3.0-prime",
+      "duration_sec": 8,
+      "resolution": "1080p",
+      "aspect_ratio": "16:9",
+      "input_images": [
+        "https://kittypunk.144.76.78.158.sslip.io/generation-input/838fac350ffd8091ebe0c673d534148c6894f5b288fce67bfe4c1ab7334123b1/front.jpg"
+      ],
+      "prompt": "KittyPunk2077 cinematic tactile 3D animated film. Reference image defines exact character identities, wardrobe and set. Compose a medium shot emphasizing Ghost at LEFT end of the exact couch from the front reference, grey tabby green visor black green hood. Ghost calmly says he finished the mission. Gently pan to white female Trixie in middle magenta jacket for her surprised response, then settle on Ghost as he replies. Byte orange occupies the seat BETWEEN them; no seat swaps, no new cats. This is the same five-cat living room; Onyx and Neon remain farther right. Preserve outfits, faces and room. TV behind camera never visible. Natural restrained controller handling. No cuts. Input audio 1 is the approved ElevenLabs performance. Match turn-taking and mouth movements to its timing; only the specified speaker moves their mouth. At 0.00s Ghost says: I finished the mission. At 1.65s Trixie says: How? We are still inside the bank. At 4.32s Ghost says: I walked out the back. With the money. No added dialogue, narration, music, subtitles, titles or new characters. Preserve reference art quality. This clip will be trimmed at the end to exact editorial duration.",
+      "input_audios": [
+        "https://kittypunk.144.76.78.158.sslip.io/generation-input/838fac350ffd8091ebe0c673d534148c6894f5b288fce67bfe4c1ab7334123b1/shot07-approved.wav"
+      ],
+      "edit_duration": 7.076,
+      "source_audio": [
+        "generation_sources/shot07-approved.wav"
+      ]
+    },
+    "status": "failed",
+    "error": "参考素材上传失败，请检查素材 URL 和格式",
+    "created": 1794012107.745356,
+    "estimate": 8.8
+  },
+  {
+    "id": "task_MhxJYkWTRg1dXFUfJGd3aJwz68vFXeUU",
+    "task_id": "task_MhxJYkWTRg1dXFUfJGd3aJwz68vFXeUU",
+    "provider": "wan",
+    "subject": "S01-P08",
+    "scene": 1,
+    "payload": {
+      "model": "wan-3.0-prime",
+      "duration_sec": 8,
+      "resolution": "1080p",
+      "aspect_ratio": "16:9",
+      "input_images": [
+        "https://kittypunk.144.76.78.158.sslip.io/generation-input/838fac350ffd8091ebe0c673d534148c6894f5b288fce67bfe4c1ab7334123b1/front.jpg"
+      ],
+      "prompt": "KittyPunk2077 cinematic tactile 3D animated film. Reference image defines exact character identities, wardrobe and set. Frame the THREE LEFTMOST seated cats of front reference: Ghost green hood at left, orange Byte in middle, white female Trixie magenta at right. Byte turns toward Ghost asking You left us? Ghost gives a tiny deadpan shrug and his reply. Trixie then leans forward with controller for Rematch. Nobody leaves the couch until we win. Keep character identities and positions, cat paws, natural small mouth motion and comedic expressions, no exaggerated flailing. Other two cats are outside this close framing, not removed from world. TV behind camera not visible. One continuous shot. Input audio 1 is the approved ElevenLabs performance. Match turn-taking and mouth movements to its timing; only the specified speaker moves their mouth. At 0.00s Byte says: You left us? At 1.23s Ghost says: You said cover the exit. I covered my exit. At 4.59s Trixie says: Rematch. Nobody leaves the couch until we win. No added dialogue, narration, music, subtitles, titles or new characters. Preserve reference art quality. This clip will be trimmed at the end to exact editorial duration.",
+      "input_audios": [
+        "https://kittypunk.144.76.78.158.sslip.io/generation-input/838fac350ffd8091ebe0c673d534148c6894f5b288fce67bfe4c1ab7334123b1/shot08-approved.wav"
+      ],
+      "edit_duration": 7.355,
+      "source_audio": [
+        "generation_sources/shot08-approved.wav"
+      ]
+    },
+    "status": "failed",
+    "error": "参考素材上传失败，请检查素材 URL 和格式",
+    "created": 1794012136.147586,
+    "estimate": 8.8
+  },
+  {
+    "id": "task_h5FizNqKvVBEJ2ElqvlB4I7JDrHtVeQD",
+    "task_id": "task_h5FizNqKvVBEJ2ElqvlB4I7JDrHtVeQD",
+    "provider": "wan",
+    "subject": "S01-P08",
+    "scene": 1,
+    "payload": {
+      "model": "wan-3.0-prime",
+      "duration_sec": 8,
+      "resolution": "1080p",
+      "aspect_ratio": "16:9",
+      "input_images": [
+        "https://d8j0ntlcm91z4.cloudfront.net/user_3FexRxU2V7FefQUvOnG7eFCKfmw/hf_20261107_002632_076f39de-bd8f-4639-ace9-e2f17304e1d9.png"
+      ],
+      "prompt": "KittyPunk2077 cinematic tactile 3D animated film. Reference image defines exact character identities, wardrobe and set. Frame the THREE LEFTMOST seated cats of front reference: Ghost green hood at left, orange Byte in middle, white female Trixie magenta at right. Byte turns toward Ghost asking You left us? Ghost gives a tiny deadpan shrug and his reply. Trixie then leans forward with controller for Rematch. Nobody leaves the couch until we win. Keep character identities and positions, cat paws, natural small mouth motion and comedic expressions, no exaggerated flailing. Other two cats are outside this close framing, not removed from world. TV behind camera not visible. One continuous shot. Input audio 1 is the approved ElevenLabs performance. Match turn-taking and mouth movements to its timing; only the specified speaker moves their mouth. At 0.00s Byte says: You left us? At 1.23s Ghost says: You said cover the exit. I covered my exit. At 4.59s Trixie says: Rematch. Nobody leaves the couch until we win. No added dialogue, narration, music, subtitles, titles or new characters. Preserve reference art quality. This clip will be trimmed at the end to exact editorial duration.",
+      "input_audios": [
+        "https://kittypunk.144.76.78.158.sslip.io/generation-input/838fac350ffd8091ebe0c673d534148c6894f5b288fce67bfe4c1ab7334123b1/shot08-approved.wav"
+      ],
+      "edit_duration": 7.355,
+      "source_audio": [
+        "generation_sources/shot08-approved.wav"
+      ]
+    },
+    "status": "failed",
+    "error": "参考素材上传失败，请检查素材 URL 和格式",
+    "created": 1794012839.495425,
+    "estimate": 8.8
+  },
+  {
+    "id": "task_oZKsSkIYC4N9HKJlLnbe9ROoCYWuHEDq",
+    "task_id": "task_oZKsSkIYC4N9HKJlLnbe9ROoCYWuHEDq",
+    "provider": "wan",
+    "subject": "S01-P09",
+    "scene": 1,
+    "payload": {
+      "model": "wan-3.0-prime",
+      "duration_sec": 9,
+      "resolution": "1080p",
+      "aspect_ratio": "16:9",
+      "input_images": [
+        "https://kittypunk.144.76.78.158.sslip.io/generation-input/838fac350ffd8091ebe0c673d534148c6894f5b288fce67bfe4c1ab7334123b1/victory.jpg"
+      ],
+      "prompt": "KittyPunk2077 cinematic tactile 3D animated film. Reference image defines exact character identities, wardrobe and set. Locked close shot of exact full real CRT casing, right knobs and room. ONLY within inner glass: Ghost grey tabby green visor hood game avatar walks a few steps out of bank rear door carrying duffel, green MISSION COMPLETE banner pulses, payout ticks upward, then a small RESTART selection appears near the end. No dialogue, no lip-sync, no other avatars, no real cats. Game HUD is for a walking character, no speedometer or KM/H readout. Preserve all casing and room; game never leaves TV glass. Never zoom through the bezel. No cuts in real-world camera. No added dialogue, narration, music, subtitles, titles or new characters. Preserve reference art quality. This clip will be trimmed at the end to exact editorial duration.",
+      "edit_duration": 8.12
+    },
+    "status": "failed",
+    "error": "参考素材上传失败，请检查素材 URL 和格式",
+    "created": 1794012136.545453,
+    "estimate": 9.9
+  },
+  {
+    "id": "task_6yao9D0cPcHj37pNCGXCEKhCmTxCA1pw",
+    "task_id": "task_6yao9D0cPcHj37pNCGXCEKhCmTxCA1pw",
+    "provider": "wan",
+    "subject": "S01-P09",
+    "scene": 1,
+    "payload": {
+      "model": "wan-3.0-prime",
+      "duration_sec": 9,
+      "resolution": "1080p",
+      "aspect_ratio": "16:9",
+      "input_images": [
+        "https://d8j0ntlcm91z4.cloudfront.net/user_3FexRxU2V7FefQUvOnG7eFCKfmw/hf_20261107_002919_a48fef2d-2d33-4705-be81-6f62c8532a5e.png"
+      ],
+      "prompt": "KittyPunk2077 cinematic tactile 3D animated film. Reference image defines exact character identities, wardrobe and set. Locked close shot of exact full real CRT casing, right knobs and room. ONLY within inner glass: Ghost grey tabby green visor hood game avatar walks a few steps out of bank rear door carrying duffel, green MISSION COMPLETE banner pulses, payout ticks upward, then a small RESTART selection appears near the end. No dialogue, no lip-sync, no other avatars, no real cats. Game HUD is for a walking character, no speedometer or KM/H readout. Preserve all casing and room; game never leaves TV glass. Never zoom through the bezel. No cuts in real-world camera. No added dialogue, narration, music, subtitles, titles or new characters. Preserve reference art quality. This clip will be trimmed at the end to exact editorial duration.",
+      "edit_duration": 8.12
+    },
+    "status": "failed",
+    "error": "参考素材上传失败，请检查素材 URL 和格式",
+    "created": 1794012839.877555,
+    "estimate": 9.9
+  },
+  {
+    "id": "task_G0sRtHZnn1Q0y1fl2pEcGWrAbHUirViB",
+    "task_id": "task_G0sRtHZnn1Q0y1fl2pEcGWrAbHUirViB",
+    "provider": "wan",
+    "subject": "S01-P10",
+    "scene": 1,
+    "payload": {
+      "model": "wan-3.0-prime",
+      "duration_sec": 8,
+      "resolution": "1080p",
+      "aspect_ratio": "16:9",
+      "input_images": [
+        "https://kittypunk.144.76.78.158.sslip.io/generation-input/838fac350ffd8091ebe0c673d534148c6894f5b288fce67bfe4c1ab7334123b1/rear.jpg"
+      ],
+      "prompt": "KittyPunk2077 cinematic tactile 3D animated film. Reference image defines exact character identities, wardrobe and set. Locked rear living-room shot with exactly five cats as reference: left to right Neon cyan, Onyx black violet, Trixie white magenta, Byte orange, Ghost green hood. They all lean in slightly and resume controller play, relaxed competitive gestures. Inside TV GLASS ONLY, gameplay restarts the neon bank car chase. Game camera and cars remain entirely inside screen, TV shell/knobs never change. Last second the in-screen gameplay briefly freezes with a subtle static flicker to lead into an interruption. No news image yet, no dialogue, no subtitles, no sixth cat. No cuts or camera move. No added dialogue, narration, music, subtitles, titles or new characters. Preserve reference art quality. This clip will be trimmed at the end to exact editorial duration.",
+      "edit_duration": 8.0
+    },
+    "status": "failed",
+    "error": "参考素材上传失败，请检查素材 URL 和格式",
+    "created": 1794012136.914561,
+    "estimate": 8.8
+  }
+]

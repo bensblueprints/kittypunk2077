@@ -1,0 +1,21 @@
+{
+  "line_id": "S07-N04",
+  "scene": 7,
+  "role_id": "neon",
+  "text": "I have mirrored the receipts. If this screen goes dark, the evidence stays online.",
+  "voice_id": "4e32WqNVWRquDa1OcRYZ",
+  "voice_name": "Ryan — Product Reviewer",
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.5,
+    "similarity_boost": 0.75,
+    "style": 0.15,
+    "use_speaker_boost": true
+  },
+  "duration_sec": 4.226032,
+  "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Voices\\Pilot Complete\\Scene07\\S07-N04-neon-take001.mp3",
+  "sha256": "8384eafae2893dc500a50949fbb157ad05d65968f76f65f144850c48aa303952",
+  "request_id": "sWSwGVAP8IxE0NWFPu3y",
+  "provider_character_cost": "18",
+  "status": "review_take_not_yet_approved"
+}

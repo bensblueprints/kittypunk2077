@@ -1,0 +1,21 @@
+{
+  "line_id": "S06-N05",
+  "scene": 6,
+  "role_id": "onyx",
+  "text": "Leave a path through the crowd. People still need to get home.",
+  "voice_id": "uq0HIbNZKn11Hs5ifEdd",
+  "voice_name": "Harry — Fierce Warrior",
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.5,
+    "similarity_boost": 0.75,
+    "style": 0.15,
+    "use_speaker_boost": true
+  },
+  "duration_sec": 3.343673,
+  "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Voices\\Pilot Complete\\Scene06\\S06-N05-onyx-take001.mp3",
+  "sha256": "eb94c6e205852527fe0eb8cea0c7cfc23c805fbdca161e5d8010ab98692fe7cf",
+  "request_id": "nrXz2mkbLi0lJ5QAKuEO",
+  "provider_character_cost": "14",
+  "status": "review_take_not_yet_approved"
+}

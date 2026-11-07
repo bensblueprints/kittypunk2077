@@ -1,0 +1,50 @@
+{
+  "scene": 12,
+  "duration_seconds": 18.95768707482993,
+  "target_scene_seconds": 45,
+  "placements": [
+    {
+      "line_id": "S12-N01",
+      "start": 0.0,
+      "end": 3.900952380952381,
+      "text": "First decoy on the ground. Second one stays behind the bins until they move."
+    },
+    {
+      "line_id": "S12-N02",
+      "start": 4.200952380952381,
+      "end": 6.848027210884354,
+      "text": "Camera is looking at the alley. You have your opening."
+    },
+    {
+      "line_id": "S12-D01",
+      "start": 7.148027210884353,
+      "end": 8.726984126984126,
+      "text": "Maintain your positions!"
+    },
+    {
+      "line_id": "S12-D02",
+      "start": 9.026984126984127,
+      "end": 11.348979591836734,
+      "text": "...Is that a bacon-flavored bone?"
+    },
+    {
+      "line_id": "S12-D03",
+      "start": 11.648979591836735,
+      "end": 12.531337868480726,
+      "text": "MINE!"
+    },
+    {
+      "line_id": "S12-N03",
+      "start": 12.831337868480725,
+      "end": 15.478412698412699,
+      "text": "Door is clear. Trixie, on me."
+    },
+    {
+      "line_id": "S12-N04",
+      "start": 15.778412698412698,
+      "end": 18.657687074829933,
+      "text": "I have the exit. Do not make me come looking for you."
+    }
+  ],
+  "status": "dialogue review assembly, not final soundtrack"
+}
