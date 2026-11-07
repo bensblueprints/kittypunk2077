@@ -1,0 +1,200 @@
+[
+  {
+    "id": "9ce08fe3973f2110",
+    "title": "Scene01-dialogue-effects-preview-v001",
+    "scene": "Scene01",
+    "kind": "mix",
+    "text": "Draft mix with dialogue, ambience and effects. No music yet; effect timing will follow the approved video. Original dialogue MASTER remains available.",
+    "duration_sec": 70,
+    "variant": "v001"
+  },
+  {
+    "id": "59b9e4a72c570bb5",
+    "title": "Scene02-dialogue-effects-preview-v001",
+    "scene": "Scene02",
+    "kind": "mix",
+    "text": "Draft mix with dialogue, ambience and effects. No music yet; effect timing will follow the approved video. Original dialogue MASTER remains available.",
+    "duration_sec": 50,
+    "variant": "v001"
+  },
+  {
+    "id": "61f1e419dd56ada5",
+    "title": "Scene03-dialogue-effects-preview-v001",
+    "scene": "Scene03",
+    "kind": "mix",
+    "text": "Draft mix with dialogue, ambience and effects. No music yet; effect timing will follow the approved video. Original dialogue MASTER remains available.",
+    "duration_sec": 65,
+    "variant": "v001"
+  },
+  {
+    "id": "35156bb144e5d829",
+    "title": "Scene04-dialogue-effects-preview-v001",
+    "scene": "Scene04",
+    "kind": "mix",
+    "text": "Draft mix with dialogue, ambience and effects. No music yet; effect timing will follow the approved video. Original dialogue MASTER remains available.",
+    "duration_sec": 55,
+    "variant": "v001"
+  },
+  {
+    "id": "256daa155be121a7",
+    "title": "Scene05-dialogue-effects-preview-v001",
+    "scene": "Scene05",
+    "kind": "mix",
+    "text": "Draft mix with dialogue, ambience and effects. No music yet; effect timing will follow the approved video. Original dialogue MASTER remains available.",
+    "duration_sec": 60,
+    "variant": "v001"
+  },
+  {
+    "id": "0117de620d8cc545",
+    "title": "Scene06-dialogue-effects-preview-v001",
+    "scene": "Scene06",
+    "kind": "mix",
+    "text": "Draft mix with dialogue, ambience and effects. No music yet; effect timing will follow the approved video. Original dialogue MASTER remains available.",
+    "duration_sec": 45,
+    "variant": "v001"
+  },
+  {
+    "id": "8505e0ed750d1ebe",
+    "title": "Scene08-dialogue-effects-preview-v001",
+    "scene": "Scene08",
+    "kind": "mix",
+    "text": "Draft mix with dialogue, ambience and effects. No music yet; effect timing will follow the approved video. Original dialogue MASTER remains available.",
+    "duration_sec": 40,
+    "variant": "v001"
+  },
+  {
+    "id": "d92a98012cc477a3",
+    "title": "Scene09-dialogue-effects-preview-v001",
+    "scene": "Scene09",
+    "kind": "mix",
+    "text": "Draft mix with dialogue, ambience and effects. No music yet; effect timing will follow the approved video. Original dialogue MASTER remains available.",
+    "duration_sec": 70,
+    "variant": "v001"
+  },
+  {
+    "id": "54ca91fe08b78927",
+    "title": "Scene10-dialogue-effects-preview-v001",
+    "scene": "Scene10",
+    "kind": "mix",
+    "text": "Draft mix with dialogue, ambience and effects. No music yet; effect timing will follow the approved video. Original dialogue MASTER remains available.",
+    "duration_sec": 65,
+    "variant": "v001"
+  },
+  {
+    "id": "4d79d3db78d14955",
+    "title": "Scene11-dialogue-effects-preview-v001",
+    "scene": "Scene11",
+    "kind": "mix",
+    "text": "Draft mix with dialogue, ambience and effects. No music yet; effect timing will follow the approved video. Original dialogue MASTER remains available.",
+    "duration_sec": 75,
+    "variant": "v001"
+  },
+  {
+    "id": "fdbd3ae080f47e7c",
+    "title": "Scene12-dialogue-effects-preview-v001",
+    "scene": "Scene12",
+    "kind": "mix",
+    "text": "Draft mix with dialogue, ambience and effects. No music yet; effect timing will follow the approved video. Original dialogue MASTER remains available.",
+    "duration_sec": 45,
+    "variant": "v001"
+  },
+  {
+    "id": "a2fbe46c0edf9865",
+    "title": "Scene13-dialogue-effects-preview-v001",
+    "scene": "Scene13",
+    "kind": "mix",
+    "text": "Draft mix with dialogue, ambience and effects. No music yet; effect timing will follow the approved video. Original dialogue MASTER remains available.",
+    "duration_sec": 50,
+    "variant": "v001"
+  },
+  {
+    "id": "003b5566fd113902",
+    "title": "Scene14-dialogue-effects-preview-v001",
+    "scene": "Scene14",
+    "kind": "mix",
+    "text": "Draft mix with dialogue, ambience and effects. No music yet; effect timing will follow the approved video. Original dialogue MASTER remains available.",
+    "duration_sec": 60,
+    "variant": "v001"
+  },
+  {
+    "id": "9352082e22eb01dd",
+    "title": "Scene15-dialogue-effects-preview-v001",
+    "scene": "Scene15",
+    "kind": "mix",
+    "text": "Draft mix with dialogue, ambience and effects. No music yet; effect timing will follow the approved video. Original dialogue MASTER remains available.",
+    "duration_sec": 45,
+    "variant": "v001"
+  },
+  {
+    "id": "a9034103e3cc45ee",
+    "title": "Scene16-dialogue-effects-preview-v001",
+    "scene": "Scene16",
+    "kind": "mix",
+    "text": "Draft mix with dialogue, ambience and effects. No music yet; effect timing will follow the approved video. Original dialogue MASTER remains available.",
+    "duration_sec": 50,
+    "variant": "v001"
+  },
+  {
+    "id": "a04d67005dab31e6",
+    "title": "Scene17-dialogue-effects-preview-v001",
+    "scene": "Scene17",
+    "kind": "mix",
+    "text": "Draft mix with dialogue, ambience and effects. No music yet; effect timing will follow the approved video. Original dialogue MASTER remains available.",
+    "duration_sec": 50,
+    "variant": "v001"
+  },
+  {
+    "id": "47b2e884ee95c8f0",
+    "title": "Scene18-dialogue-effects-preview-v001",
+    "scene": "Scene18",
+    "kind": "mix",
+    "text": "Draft mix with dialogue, ambience and effects. No music yet; effect timing will follow the approved video. Original dialogue MASTER remains available.",
+    "duration_sec": 35,
+    "variant": "v001"
+  },
+  {
+    "id": "f4e46e9511b6c881",
+    "title": "Scene19-dialogue-effects-preview-v001",
+    "scene": "Scene19",
+    "kind": "mix",
+    "text": "Draft mix with dialogue, ambience and effects. No music yet; effect timing will follow the approved video. Original dialogue MASTER remains available.",
+    "duration_sec": 35,
+    "variant": "v001"
+  },
+  {
+    "id": "3c75c446489949ae",
+    "title": "Scene20-dialogue-effects-preview-v001",
+    "scene": "Scene20",
+    "kind": "mix",
+    "text": "Draft mix with dialogue, ambience and effects. No music yet; effect timing will follow the approved video. Original dialogue MASTER remains available.",
+    "duration_sec": 35,
+    "variant": "v001"
+  },
+  {
+    "id": "763ab41852c061f0",
+    "title": "Scene21-dialogue-effects-preview-v001",
+    "scene": "Scene21",
+    "kind": "mix",
+    "text": "Draft mix with dialogue, ambience and effects. No music yet; effect timing will follow the approved video. Original dialogue MASTER remains available.",
+    "duration_sec": 45,
+    "variant": "v001"
+  },
+  {
+    "id": "c3a71553b9791fca",
+    "title": "Scene22-dialogue-effects-preview-v001",
+    "scene": "Scene22",
+    "kind": "mix",
+    "text": "Draft mix with dialogue, ambience and effects. No music yet; effect timing will follow the approved video. Original dialogue MASTER remains available.",
+    "duration_sec": 35,
+    "variant": "v001"
+  },
+  {
+    "id": "7d50d58f5c8fce1d",
+    "title": "Scene23-dialogue-effects-preview-v001",
+    "scene": "Scene23",
+    "kind": "mix",
+    "text": "Draft mix with dialogue, ambience and effects. No music yet; effect timing will follow the approved video. Original dialogue MASTER remains available.",
+    "duration_sec": 25,
+    "variant": "v001"
+  }
+]

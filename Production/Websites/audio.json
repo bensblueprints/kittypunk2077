@@ -2607,204 +2607,6 @@
     "variant": "v001"
   },
   {
-    "id": "9ce08fe3973f2110",
-    "title": "Scene01-dialogue-effects-preview-v001",
-    "scene": "Scene01",
-    "kind": "mix",
-    "text": "Draft mix with dialogue, ambience and effects. No music yet; effect timing will follow the approved video. Original dialogue MASTER remains available.",
-    "duration_sec": 70,
-    "variant": "v001"
-  },
-  {
-    "id": "59b9e4a72c570bb5",
-    "title": "Scene02-dialogue-effects-preview-v001",
-    "scene": "Scene02",
-    "kind": "mix",
-    "text": "Draft mix with dialogue, ambience and effects. No music yet; effect timing will follow the approved video. Original dialogue MASTER remains available.",
-    "duration_sec": 50,
-    "variant": "v001"
-  },
-  {
-    "id": "61f1e419dd56ada5",
-    "title": "Scene03-dialogue-effects-preview-v001",
-    "scene": "Scene03",
-    "kind": "mix",
-    "text": "Draft mix with dialogue, ambience and effects. No music yet; effect timing will follow the approved video. Original dialogue MASTER remains available.",
-    "duration_sec": 65,
-    "variant": "v001"
-  },
-  {
-    "id": "35156bb144e5d829",
-    "title": "Scene04-dialogue-effects-preview-v001",
-    "scene": "Scene04",
-    "kind": "mix",
-    "text": "Draft mix with dialogue, ambience and effects. No music yet; effect timing will follow the approved video. Original dialogue MASTER remains available.",
-    "duration_sec": 55,
-    "variant": "v001"
-  },
-  {
-    "id": "256daa155be121a7",
-    "title": "Scene05-dialogue-effects-preview-v001",
-    "scene": "Scene05",
-    "kind": "mix",
-    "text": "Draft mix with dialogue, ambience and effects. No music yet; effect timing will follow the approved video. Original dialogue MASTER remains available.",
-    "duration_sec": 60,
-    "variant": "v001"
-  },
-  {
-    "id": "0117de620d8cc545",
-    "title": "Scene06-dialogue-effects-preview-v001",
-    "scene": "Scene06",
-    "kind": "mix",
-    "text": "Draft mix with dialogue, ambience and effects. No music yet; effect timing will follow the approved video. Original dialogue MASTER remains available.",
-    "duration_sec": 45,
-    "variant": "v001"
-  },
-  {
-    "id": "8505e0ed750d1ebe",
-    "title": "Scene08-dialogue-effects-preview-v001",
-    "scene": "Scene08",
-    "kind": "mix",
-    "text": "Draft mix with dialogue, ambience and effects. No music yet; effect timing will follow the approved video. Original dialogue MASTER remains available.",
-    "duration_sec": 40,
-    "variant": "v001"
-  },
-  {
-    "id": "d92a98012cc477a3",
-    "title": "Scene09-dialogue-effects-preview-v001",
-    "scene": "Scene09",
-    "kind": "mix",
-    "text": "Draft mix with dialogue, ambience and effects. No music yet; effect timing will follow the approved video. Original dialogue MASTER remains available.",
-    "duration_sec": 70,
-    "variant": "v001"
-  },
-  {
-    "id": "54ca91fe08b78927",
-    "title": "Scene10-dialogue-effects-preview-v001",
-    "scene": "Scene10",
-    "kind": "mix",
-    "text": "Draft mix with dialogue, ambience and effects. No music yet; effect timing will follow the approved video. Original dialogue MASTER remains available.",
-    "duration_sec": 65,
-    "variant": "v001"
-  },
-  {
-    "id": "4d79d3db78d14955",
-    "title": "Scene11-dialogue-effects-preview-v001",
-    "scene": "Scene11",
-    "kind": "mix",
-    "text": "Draft mix with dialogue, ambience and effects. No music yet; effect timing will follow the approved video. Original dialogue MASTER remains available.",
-    "duration_sec": 75,
-    "variant": "v001"
-  },
-  {
-    "id": "fdbd3ae080f47e7c",
-    "title": "Scene12-dialogue-effects-preview-v001",
-    "scene": "Scene12",
-    "kind": "mix",
-    "text": "Draft mix with dialogue, ambience and effects. No music yet; effect timing will follow the approved video. Original dialogue MASTER remains available.",
-    "duration_sec": 45,
-    "variant": "v001"
-  },
-  {
-    "id": "a2fbe46c0edf9865",
-    "title": "Scene13-dialogue-effects-preview-v001",
-    "scene": "Scene13",
-    "kind": "mix",
-    "text": "Draft mix with dialogue, ambience and effects. No music yet; effect timing will follow the approved video. Original dialogue MASTER remains available.",
-    "duration_sec": 50,
-    "variant": "v001"
-  },
-  {
-    "id": "003b5566fd113902",
-    "title": "Scene14-dialogue-effects-preview-v001",
-    "scene": "Scene14",
-    "kind": "mix",
-    "text": "Draft mix with dialogue, ambience and effects. No music yet; effect timing will follow the approved video. Original dialogue MASTER remains available.",
-    "duration_sec": 60,
-    "variant": "v001"
-  },
-  {
-    "id": "9352082e22eb01dd",
-    "title": "Scene15-dialogue-effects-preview-v001",
-    "scene": "Scene15",
-    "kind": "mix",
-    "text": "Draft mix with dialogue, ambience and effects. No music yet; effect timing will follow the approved video. Original dialogue MASTER remains available.",
-    "duration_sec": 45,
-    "variant": "v001"
-  },
-  {
-    "id": "a9034103e3cc45ee",
-    "title": "Scene16-dialogue-effects-preview-v001",
-    "scene": "Scene16",
-    "kind": "mix",
-    "text": "Draft mix with dialogue, ambience and effects. No music yet; effect timing will follow the approved video. Original dialogue MASTER remains available.",
-    "duration_sec": 50,
-    "variant": "v001"
-  },
-  {
-    "id": "a04d67005dab31e6",
-    "title": "Scene17-dialogue-effects-preview-v001",
-    "scene": "Scene17",
-    "kind": "mix",
-    "text": "Draft mix with dialogue, ambience and effects. No music yet; effect timing will follow the approved video. Original dialogue MASTER remains available.",
-    "duration_sec": 50,
-    "variant": "v001"
-  },
-  {
-    "id": "47b2e884ee95c8f0",
-    "title": "Scene18-dialogue-effects-preview-v001",
-    "scene": "Scene18",
-    "kind": "mix",
-    "text": "Draft mix with dialogue, ambience and effects. No music yet; effect timing will follow the approved video. Original dialogue MASTER remains available.",
-    "duration_sec": 35,
-    "variant": "v001"
-  },
-  {
-    "id": "f4e46e9511b6c881",
-    "title": "Scene19-dialogue-effects-preview-v001",
-    "scene": "Scene19",
-    "kind": "mix",
-    "text": "Draft mix with dialogue, ambience and effects. No music yet; effect timing will follow the approved video. Original dialogue MASTER remains available.",
-    "duration_sec": 35,
-    "variant": "v001"
-  },
-  {
-    "id": "3c75c446489949ae",
-    "title": "Scene20-dialogue-effects-preview-v001",
-    "scene": "Scene20",
-    "kind": "mix",
-    "text": "Draft mix with dialogue, ambience and effects. No music yet; effect timing will follow the approved video. Original dialogue MASTER remains available.",
-    "duration_sec": 35,
-    "variant": "v001"
-  },
-  {
-    "id": "763ab41852c061f0",
-    "title": "Scene21-dialogue-effects-preview-v001",
-    "scene": "Scene21",
-    "kind": "mix",
-    "text": "Draft mix with dialogue, ambience and effects. No music yet; effect timing will follow the approved video. Original dialogue MASTER remains available.",
-    "duration_sec": 45,
-    "variant": "v001"
-  },
-  {
-    "id": "c3a71553b9791fca",
-    "title": "Scene22-dialogue-effects-preview-v001",
-    "scene": "Scene22",
-    "kind": "mix",
-    "text": "Draft mix with dialogue, ambience and effects. No music yet; effect timing will follow the approved video. Original dialogue MASTER remains available.",
-    "duration_sec": 35,
-    "variant": "v001"
-  },
-  {
-    "id": "7d50d58f5c8fce1d",
-    "title": "Scene23-dialogue-effects-preview-v001",
-    "scene": "Scene23",
-    "kind": "mix",
-    "text": "Draft mix with dialogue, ambience and effects. No music yet; effect timing will follow the approved video. Original dialogue MASTER remains available.",
-    "duration_sec": 25,
-    "variant": "v001"
-  },
-  {
     "title": "S07-R01-trixie-revision2",
     "scene": "Scene07",
     "text": "Everyone, listen up. All five of us are here because this shortage affects every family in District Seven.",
@@ -2946,5 +2748,230 @@
     "variant": "v001",
     "duration_sec": 45.035063,
     "text": "Original instrumental review cue for scenes 7, 17, 18, 23. Separate track; not yet mixed into MASTER."
+  },
+  {
+    "id": "d57002e041287424",
+    "title": "FULL STORY — Tight Mix v2 · Music + Ambience",
+    "scene": "Full Pilot",
+    "duration_sec": 776.7292743764173,
+    "kind": "mix",
+    "variant": "v002",
+    "text": "Current revised story with quiet instrumental score and ambience. No empty animation waits. Detailed action effects remain separate for final picture sync; dialogue-only MASTER is unchanged."
+  },
+  {
+    "id": "26877a861f27768b",
+    "title": "Scene 01 — tight mix v2",
+    "scene": "Scene01",
+    "duration_sec": 41.88040816326531,
+    "kind": "mix",
+    "variant": "v002",
+    "text": "Current revised story with quiet instrumental score and ambience. No empty animation waits. Detailed action effects remain separate for final picture sync; dialogue-only MASTER is unchanged."
+  },
+  {
+    "id": "d968bb4258a83756",
+    "title": "Scene 02 — tight mix v2",
+    "scene": "Scene02",
+    "duration_sec": 35.901133786848064,
+    "kind": "mix",
+    "variant": "v002",
+    "text": "Current revised story with quiet instrumental score and ambience. No empty animation waits. Detailed action effects remain separate for final picture sync; dialogue-only MASTER is unchanged."
+  },
+  {
+    "id": "3e08f643bff7a44f",
+    "title": "Scene 03 — tight mix v2",
+    "scene": "Scene03",
+    "duration_sec": 45.08199546485261,
+    "kind": "mix",
+    "variant": "v002",
+    "text": "Current revised story with quiet instrumental score and ambience. No empty animation waits. Detailed action effects remain separate for final picture sync; dialogue-only MASTER is unchanged."
+  },
+  {
+    "id": "7352d5a7ab748bc6",
+    "title": "Scene 04 — tight mix v2",
+    "scene": "Scene04",
+    "duration_sec": 30.81070294784581,
+    "kind": "mix",
+    "variant": "v002",
+    "text": "Current revised story with quiet instrumental score and ambience. No empty animation waits. Detailed action effects remain separate for final picture sync; dialogue-only MASTER is unchanged."
+  },
+  {
+    "id": "1dfe04a20d0af839",
+    "title": "Scene 05 — tight mix v2",
+    "scene": "Scene05",
+    "duration_sec": 30.360544217687078,
+    "kind": "mix",
+    "variant": "v002",
+    "text": "Current revised story with quiet instrumental score and ambience. No empty animation waits. Detailed action effects remain separate for final picture sync; dialogue-only MASTER is unchanged."
+  },
+  {
+    "id": "67435c5296be68b6",
+    "title": "Scene 06 — tight mix v2",
+    "scene": "Scene06",
+    "duration_sec": 32.28253968253969,
+    "kind": "mix",
+    "variant": "v002",
+    "text": "Current revised story with quiet instrumental score and ambience. No empty animation waits. Detailed action effects remain separate for final picture sync; dialogue-only MASTER is unchanged."
+  },
+  {
+    "id": "ae041783dae25366",
+    "title": "Scene 07 — tight mix v2",
+    "scene": "Scene07",
+    "duration_sec": 50.297505668934235,
+    "kind": "mix",
+    "variant": "v002",
+    "text": "Current revised story with quiet instrumental score and ambience. No empty animation waits. Detailed action effects remain separate for final picture sync; dialogue-only MASTER is unchanged."
+  },
+  {
+    "id": "e105f8a6ee97c737",
+    "title": "Scene 08 — tight mix v2",
+    "scene": "Scene08",
+    "duration_sec": 22.158639455782293,
+    "kind": "mix",
+    "variant": "v002",
+    "text": "Current revised story with quiet instrumental score and ambience. No empty animation waits. Detailed action effects remain separate for final picture sync; dialogue-only MASTER is unchanged."
+  },
+  {
+    "id": "4a5a5d2140669ab5",
+    "title": "Scene 09 — tight mix v2",
+    "scene": "Scene09",
+    "duration_sec": 46.96807256235826,
+    "kind": "mix",
+    "variant": "v002",
+    "text": "Current revised story with quiet instrumental score and ambience. No empty animation waits. Detailed action effects remain separate for final picture sync; dialogue-only MASTER is unchanged."
+  },
+  {
+    "id": "f78c3f6f16f93fa2",
+    "title": "Scene 10 — tight mix v2",
+    "scene": "Scene10",
+    "duration_sec": 40.791564625850356,
+    "kind": "mix",
+    "variant": "v002",
+    "text": "Current revised story with quiet instrumental score and ambience. No empty animation waits. Detailed action effects remain separate for final picture sync; dialogue-only MASTER is unchanged."
+  },
+  {
+    "id": "b3d6a5078f055a37",
+    "title": "Scene 11 — tight mix v2",
+    "scene": "Scene11",
+    "duration_sec": 41.28816326530614,
+    "kind": "mix",
+    "variant": "v002",
+    "text": "Current revised story with quiet instrumental score and ambience. No empty animation waits. Detailed action effects remain separate for final picture sync; dialogue-only MASTER is unchanged."
+  },
+  {
+    "id": "163432cf55beec6c",
+    "title": "Scene 12 — tight mix v2",
+    "scene": "Scene12",
+    "duration_sec": 18.057687074829914,
+    "kind": "mix",
+    "variant": "v002",
+    "text": "Current revised story with quiet instrumental score and ambience. No empty animation waits. Detailed action effects remain separate for final picture sync; dialogue-only MASTER is unchanged."
+  },
+  {
+    "id": "4e9577c9b4d8c996",
+    "title": "Scene 13 — tight mix v2",
+    "scene": "Scene13",
+    "duration_sec": 28.270748299319735,
+    "kind": "mix",
+    "variant": "v002",
+    "text": "Current revised story with quiet instrumental score and ambience. No empty animation waits. Detailed action effects remain separate for final picture sync; dialogue-only MASTER is unchanged."
+  },
+  {
+    "id": "71dd0792be91ffae",
+    "title": "Scene 14 — tight mix v2",
+    "scene": "Scene14",
+    "duration_sec": 52.99102040816331,
+    "kind": "mix",
+    "variant": "v002",
+    "text": "Current revised story with quiet instrumental score and ambience. No empty animation waits. Detailed action effects remain separate for final picture sync; dialogue-only MASTER is unchanged."
+  },
+  {
+    "id": "1e51a176667ff686",
+    "title": "Scene 15 — tight mix v2",
+    "scene": "Scene15",
+    "duration_sec": 26.691791383219993,
+    "kind": "mix",
+    "variant": "v002",
+    "text": "Current revised story with quiet instrumental score and ambience. No empty animation waits. Detailed action effects remain separate for final picture sync; dialogue-only MASTER is unchanged."
+  },
+  {
+    "id": "96b1d9806dd7e5d3",
+    "title": "Scene 16 — tight mix v2",
+    "scene": "Scene16",
+    "duration_sec": 24.81995464852605,
+    "kind": "mix",
+    "variant": "v002",
+    "text": "Current revised story with quiet instrumental score and ambience. No empty animation waits. Detailed action effects remain separate for final picture sync; dialogue-only MASTER is unchanged."
+  },
+  {
+    "id": "1a10db0c8f12d532",
+    "title": "Scene 17 — tight mix v2",
+    "scene": "Scene17",
+    "duration_sec": 40.88816326530616,
+    "kind": "mix",
+    "variant": "v002",
+    "text": "Current revised story with quiet instrumental score and ambience. No empty animation waits. Detailed action effects remain separate for final picture sync; dialogue-only MASTER is unchanged."
+  },
+  {
+    "id": "73682e920595b6ff",
+    "title": "Scene 18 — tight mix v2",
+    "scene": "Scene18",
+    "duration_sec": 22.530158730158746,
+    "kind": "mix",
+    "variant": "v002",
+    "text": "Current revised story with quiet instrumental score and ambience. No empty animation waits. Detailed action effects remain separate for final picture sync; dialogue-only MASTER is unchanged."
+  },
+  {
+    "id": "b90f257e4305aaec",
+    "title": "Scene 19 — tight mix v2",
+    "scene": "Scene19",
+    "duration_sec": 22.562358276643977,
+    "kind": "mix",
+    "variant": "v002",
+    "text": "Current revised story with quiet instrumental score and ambience. No empty animation waits. Detailed action effects remain separate for final picture sync; dialogue-only MASTER is unchanged."
+  },
+  {
+    "id": "fcf9e41e8be67dcb",
+    "title": "Scene 20 — tight mix v2",
+    "scene": "Scene20",
+    "duration_sec": 18.32208616780042,
+    "kind": "mix",
+    "variant": "v002",
+    "text": "Current revised story with quiet instrumental score and ambience. No empty animation waits. Detailed action effects remain separate for final picture sync; dialogue-only MASTER is unchanged."
+  },
+  {
+    "id": "c3dc5fa0bc7a3b72",
+    "title": "Scene 21 — tight mix v2",
+    "scene": "Scene21",
+    "duration_sec": 22.8087981859411,
+    "kind": "mix",
+    "variant": "v002",
+    "text": "Current revised story with quiet instrumental score and ambience. No empty animation waits. Detailed action effects remain separate for final picture sync; dialogue-only MASTER is unchanged."
+  },
+  {
+    "id": "5190db95b6a307ec",
+    "title": "Scene 22 — tight mix v2",
+    "scene": "Scene22",
+    "duration_sec": 25.50231292517003,
+    "kind": "mix",
+    "variant": "v002",
+    "text": "Current revised story with quiet instrumental score and ambience. No empty animation waits. Detailed action effects remain separate for final picture sync; dialogue-only MASTER is unchanged."
+  },
+  {
+    "id": "b7bee85ac1672b54",
+    "title": "Scene 23 — tight mix v2",
+    "scene": "Scene23",
+    "duration_sec": 15.396371882086214,
+    "kind": "mix",
+    "variant": "v002",
+    "text": "Current revised story with quiet instrumental score and ambience. No empty animation waits. Detailed action effects remain separate for final picture sync; dialogue-only MASTER is unchanged."
+  },
+  {
+    "id": "c041155efe96c68d",
+    "title": "Scene 24 — tight mix v2",
+    "scene": "Scene24",
+    "duration_sec": 25.1165532879819,
+    "kind": "mix",
+    "variant": "v002",
+    "text": "Current revised story with quiet instrumental score and ambience. No empty animation waits. Detailed action effects remain separate for final picture sync; dialogue-only MASTER is unchanged."
   }
 ]

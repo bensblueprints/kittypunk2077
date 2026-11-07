@@ -1,0 +1,265 @@
+{
+  "status": "Review mix; ambience and instrumental score, detailed action Foley remains separate for picture conform",
+  "runtime_seconds": 776.7292743764173,
+  "scenes": [
+    {
+      "scene": 1,
+      "start": 0,
+      "end": 41.88040816326531,
+      "ambience": "FX01-hideout-room",
+      "score": [
+        "MUS01-kitty-punks-theme"
+      ],
+      "peak": 0.6638447642326355,
+      "speech_stretched": false
+    },
+    {
+      "scene": 2,
+      "start": 42.53040816326531,
+      "end": 78.43154195011337,
+      "ambience": "FX01-hideout-room",
+      "score": [],
+      "peak": 0.6366538405418396,
+      "speech_stretched": false
+    },
+    {
+      "scene": 3,
+      "start": 79.08154195011338,
+      "end": 124.16353741496599,
+      "ambience": "FX01-hideout-room",
+      "score": [],
+      "peak": 0.6347202658653259,
+      "speech_stretched": false
+    },
+    {
+      "scene": 4,
+      "start": 124.81353741496599,
+      "end": 155.6242403628118,
+      "ambience": "FX05-district-street",
+      "score": [
+        "MUS01-kitty-punks-theme"
+      ],
+      "peak": 0.656028687953949,
+      "speech_stretched": false
+    },
+    {
+      "scene": 5,
+      "start": 156.2742403628118,
+      "end": 186.6347845804989,
+      "ambience": "FX06-shop-freezer",
+      "score": [],
+      "peak": 0.6519432067871094,
+      "speech_stretched": false
+    },
+    {
+      "scene": 6,
+      "start": 187.2847845804989,
+      "end": 219.56732426303859,
+      "ambience": "FX05-district-street",
+      "score": [
+        "MUS01-kitty-punks-theme"
+      ],
+      "peak": 0.6416541337966919,
+      "speech_stretched": false
+    },
+    {
+      "scene": 7,
+      "start": 220.2173242630386,
+      "end": 270.5148299319728,
+      "ambience": "FX05-district-street",
+      "score": [
+        "MUS04-dinner-is-served"
+      ],
+      "peak": 0.6276268362998962,
+      "speech_stretched": false
+    },
+    {
+      "scene": 8,
+      "start": 271.1648299319728,
+      "end": 293.3234693877551,
+      "ambience": "FX05-district-street",
+      "score": [
+        "MUS01-kitty-punks-theme"
+      ],
+      "peak": 0.6515162587165833,
+      "speech_stretched": false
+    },
+    {
+      "scene": 9,
+      "start": 293.9734693877551,
+      "end": 340.94154195011333,
+      "ambience": "FX01-hideout-room",
+      "score": [
+        "MUS02-follow-the-money"
+      ],
+      "peak": 0.6379864811897278,
+      "speech_stretched": false
+    },
+    {
+      "scene": 10,
+      "start": 341.5915419501133,
+      "end": 382.38310657596367,
+      "ambience": "FX01-hideout-room",
+      "score": [
+        "MUS01-kitty-punks-theme"
+      ],
+      "peak": 0.6699068546295166,
+      "speech_stretched": false
+    },
+    {
+      "scene": 11,
+      "start": 383.03310657596364,
+      "end": 424.3212698412698,
+      "ambience": "FX05-district-street",
+      "score": [
+        "MUS02-follow-the-money"
+      ],
+      "peak": 0.6523011922836304,
+      "speech_stretched": false
+    },
+    {
+      "scene": 12,
+      "start": 424.97126984126976,
+      "end": 443.0289569160997,
+      "ambience": "FX10-luxury-restaurant",
+      "score": [
+        "MUS02-follow-the-money"
+      ],
+      "peak": 0.6447042226791382,
+      "speech_stretched": false
+    },
+    {
+      "scene": 13,
+      "start": 443.67895691609965,
+      "end": 471.9497052154194,
+      "ambience": "FX10-luxury-restaurant",
+      "score": [
+        "MUS02-follow-the-money"
+      ],
+      "peak": 0.616334080696106,
+      "speech_stretched": false
+    },
+    {
+      "scene": 14,
+      "start": 472.59970521541936,
+      "end": 525.5907256235827,
+      "ambience": "FX10-luxury-restaurant",
+      "score": [
+        "MUS02-follow-the-money"
+      ],
+      "peak": 0.5651370882987976,
+      "speech_stretched": false
+    },
+    {
+      "scene": 15,
+      "start": 526.2407256235826,
+      "end": 552.9325170068026,
+      "ambience": "FX10-luxury-restaurant",
+      "score": [
+        "MUS02-follow-the-money"
+      ],
+      "peak": 0.6460251808166504,
+      "speech_stretched": false
+    },
+    {
+      "scene": 16,
+      "start": 553.5825170068026,
+      "end": 578.4024716553287,
+      "ambience": "FX05-district-street",
+      "score": [
+        "MUS03-salmon-run"
+      ],
+      "peak": 0.6339857578277588,
+      "speech_stretched": false
+    },
+    {
+      "scene": 17,
+      "start": 579.0524716553286,
+      "end": 619.9406349206348,
+      "ambience": "FX01-hideout-room",
+      "score": [
+        "MUS04-dinner-is-served"
+      ],
+      "peak": 0.6891850829124451,
+      "speech_stretched": false
+    },
+    {
+      "scene": 18,
+      "start": 620.5906349206348,
+      "end": 643.1207936507935,
+      "ambience": "FX05-district-street",
+      "score": [
+        "MUS04-dinner-is-served"
+      ],
+      "peak": 0.6182821393013,
+      "speech_stretched": false
+    },
+    {
+      "scene": 19,
+      "start": 643.7707936507935,
+      "end": 666.3331519274375,
+      "ambience": "FX01-hideout-room",
+      "score": [
+        "MUS02-follow-the-money"
+      ],
+      "peak": 0.6604189872741699,
+      "speech_stretched": false
+    },
+    {
+      "scene": 20,
+      "start": 666.9831519274375,
+      "end": 685.3052380952379,
+      "ambience": "FX13-salmon-factory",
+      "score": [
+        "MUS03-salmon-run"
+      ],
+      "peak": 0.6678954362869263,
+      "speech_stretched": false
+    },
+    {
+      "scene": 21,
+      "start": 685.9552380952379,
+      "end": 708.764036281179,
+      "ambience": "FX13-salmon-factory",
+      "score": [
+        "MUS03-salmon-run"
+      ],
+      "peak": 0.6316906809806824,
+      "speech_stretched": false
+    },
+    {
+      "scene": 22,
+      "start": 709.4140362811789,
+      "end": 734.916349206349,
+      "ambience": "FX13-salmon-factory",
+      "score": [
+        "MUS03-salmon-run"
+      ],
+      "peak": 0.6713247299194336,
+      "speech_stretched": false
+    },
+    {
+      "scene": 23,
+      "start": 735.566349206349,
+      "end": 750.9627210884352,
+      "ambience": "FX05-district-street",
+      "score": [
+        "MUS04-dinner-is-served"
+      ],
+      "peak": 0.6241582036018372,
+      "speech_stretched": false
+    },
+    {
+      "scene": 24,
+      "start": 751.6127210884351,
+      "end": 776.729274376417,
+      "ambience": "FX01-hideout-room",
+      "score": [
+        "MUS01-kitty-punks-theme"
+      ],
+      "peak": 0.5899301767349243,
+      "speech_stretched": false
+    }
+  ],
+  "master_sha256": "d57002e041287424c67a12fb57fc3479726d750cc15c207ff63554d1a5332642"
+}

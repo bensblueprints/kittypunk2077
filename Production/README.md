@@ -35,7 +35,7 @@ HQ and prop revisions are distinct versions, not new asset types. The four clean
 
 **Provider policy:** Higgsfield is for still images only. Never use Higgsfield for speech, other audio or video. All character/narrator/radio voice generation uses the user’s ElevenLabs account only. This documentation update authorizes no new generation.
 
-**Voices:** 22 distinct ElevenLabs review recordings: seven auditions, two requested-line versions, one narrator trial and 12 exact Scene 02–04 dialogue takes. [Listen to all review recordings](Voices/listen.html) or [the opening dialogue](<Voices/Opening Scenes/listen.html>). The 12 takes total 36.502 seconds and 629 text characters, with provider timings and receipts. Their settled cost was 139 included credits; the saved 29,711 remaining balance is a historical check, not a live balance. No take is final-approved.
+**Voices:** All 225 current pilot dialogue cues are recorded in the assigned ElevenLabs voices. The live [Pilot Audio desk](https://kittypunk.144.76.78.158.sslip.io/studio/audio) contains the tight listening MASTER, 24 scene assemblies, separate effects and score cues. Earlier audition pages are historical.
 
 Current company canon is **Goodboy Global**. Preserve historical sources, old recordings and exact transcripts. Current selected voices are Trixie/Emma, Byte/Northern Terry, Ghost/Austin—Upbeat, Neon/Ryan, Onyx/Harry, NIP7/Daniel, Barkington/Brian and WOOF7/Eric. Countdown Casey is the separate recurring radio host; narrator Austin remains a trial. Jerry B. is selected for Guard A and Hugo for Guard B; see the [supporting cast selections](Voices/supporting-cast-selections.md). New selections are not auditioned recordings.
 
@@ -307,17 +307,15 @@ P0 = pilot dependency; P1 = later-season/council development. Existing reference
 
 ## Voice, audio and sound deliverables
 
-**Current selected casting:** Trixie/Emma; Byte/Northern Terry; Ghost/Austin—Upbeat; Neon/Ryan; Onyx/Harry; NIP7/Daniel; Barkington/Brian; WOOF7/Eric. Account access is confirmed. Trixie is female19; the four boys remain15–19. Voice selection does not approve final takes. Countdown Casey remains the separate recurring car-radio host.
+Current authority: `Websites/pilot.json` and `Websites/voices.json`; current script and cue downloads are v004. All 225 current dialogue lines are recorded. The five-cat public rally is Scene 7, before dinner. Scene 24 contains Goodboy Global's computer-inventory-mistake cover story, the crew's objections, and Trixie's return to gaming. The opening announcement is unchanged.
 
-**Pending assignments / trials:** Austin—Deep, Raspy and Authentic remains the opening-narrator trial, distinct from Ghost. Jerry B. and Hugo remain separate unassigned dogs; Jerry B. is explicitly not Commander/Barkington. Guards, kitten and civilians still need casting. Ryan and Harry are now assigned to Neon and Onyx.
-
-Latest requested Trixie recording: [Emma — salmon factory v002](<Voices/Requested Lines/trixie-salmon-factory-emma-v002.mp3>), **7.52 seconds**. Austin’s [opening narration trial](Voices/Narration/kitty-punks-opening-austin-v001.mp3) is **30.00 seconds**. Their pilot placement is unassigned; the 24-scene, 20:00 master is unchanged. Both earlier Lauren recordings remain preserved as superseded casting.
-
-Use the [current casting overview](Voices/casting-overview.md), [casting pack](Voices/voice-casting-pack.md), [voice registry](Voices/voice-casting-registry.json), and [listening gallery](Voices/listen.html). The gallery accounts for **22 distinct review recordings across both listening pages**: seven original auditions, two requested-line versions, one narrator trial and 12 exact Scene 02–04 dialogue takes, excluding mirrored copies. Voice selection does not imply approval of a take as final dialogue.
-
-The original pilot plan remains **17 voices**:11 individual principal/supporting voices including the kitten plus six proposed civilians. It excludes narrator/radio additions. The21-entry registry and silent service robot are unchanged. All eight principal/supporting role choices are selected; final performances, guards/kitten/civilians and Scene01 exact game banter remain unfinished. Austin’s decade-of-hacking claim needs chronology review against crew ages15–19 before placement.
-
-ElevenLabs is the requested source. Current recording receipts identify their actual voices and settings. The earlier baseline audit of 17 local MP3 references remains historical and does not establish approved casting. The historical account check found three custom slots full; recheck live usage before a full batch.
+- [Pilot Audio desk](https://kittypunk.144.76.78.158.sslip.io/studio/audio): MASTER — Tight Edit v2 runs 12:56.729 without animation placeholders. The episode picture plan remains 20:00.
+- `Voices/Pilot Revision 2/`: current revised lines, scene assemblies, master chapters and tight listening mixes. Dialogue-only MASTER remains separate from mixes.
+- `Voices/Pilot Complete/Sound Effects/`: 16 generated effects and ambience tracks with scene assignments.
+- `Voices/Pilot Score/`: four original instrumental review cues, generated in ElevenLabs and organized into scene audio folders.
+- Original approved Scene 1 gaming recordings are unchanged. Barkington uses Matthew Schmitz. Old Brian recordings and superseded ending/master versions are archived.
+- Source audio has been decoded and duration-checked. Final performance approval, detailed Foley sync and picture-conformed mix still require producer review and the finished edit.
+- Historical audition counts and unplaced narrator/radio trials do not describe the current pilot. Earlier versions remain in Archive or their explicitly versioned source folders.
 
 | Group / asset IDs | Direction / output |
 | --- | --- |
@@ -364,7 +362,7 @@ Current location snapshot UTC: 2026-11-06T18:49:14.931317+00:00. All 20 new imag
 
 ## Current pilot production desk
 
-S01E01 production map v003: 24 scenes, 145 continuous shots, 222 dialogue cues, 2,082 words; editorial runtime 20:00. Timings for unrecorded lines remain estimates.
+S01E01 production map v004: 24 scenes, 145 planned shots, 225 recorded dialogue cues, 2138 words; picture target 20:00. The tight story-listening MASTER is 12:56.729. Picture timing must still be conformed to the final performances and action.
 
 - [Pilot timeline](https://kittypunk.144.76.78.158.sslip.io/studio/episodes/1/1)
 - [Current voice IDs and exports](https://kittypunk.144.76.78.158.sslip.io/studio/voices)
@@ -372,3 +370,6 @@ S01E01 production map v003: 24 scenes, 145 continuous shots, 222 dialogue cues, 
 - Approved Barkington voice: Matthew Schmitz; Brian archived.
 - Approval policy: active manifests use approved replacements; superseded files move to Archive.
 - Gameplay is always inside the existing television casing. Approved gaming dialogue remains unchanged.
+
+
+Current production controls: [Approvals](https://kittypunk.144.76.78.158.sslip.io/studio/review) · [Generate & task log](https://kittypunk.144.76.78.158.sslip.io/studio/generate). Five unnamed Pawlice sheets are in `Characters/Dogs/Pawlice/`, separate from the five resistance cats and standing factory robot dogs.
