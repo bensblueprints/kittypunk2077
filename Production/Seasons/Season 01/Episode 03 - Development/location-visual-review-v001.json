@@ -1,0 +1,54 @@
+{
+  "review_type": "Internal visual inspection; not producer approval",
+  "locations": [
+    {
+      "id": "LOC21",
+      "file": "Location Drafts/LOC21-gpt26-v001.png",
+      "status": "draft_requires_correction",
+      "findings": [
+        "Three empty north-wall shelters and clear aisle established",
+        "Plan camera 3 is on north wall facing outward instead of from south facing north; revise camera directions before treating sheet as spatial authority"
+      ]
+    },
+    {
+      "id": "LOC22",
+      "file": "Location Drafts/LOC22-gpt26-v001.png",
+      "status": "usable_reference_pending_producer_review",
+      "findings": [
+        "Warehouse brick shell consistent",
+        "Opposing main double doors and single emergency exit visible",
+        "West bed area, east tea table and clear center aisle consistent across perspectives",
+        "Use perspective panels to anchor bed placement; overhead remains schematic"
+      ]
+    },
+    {
+      "id": "LOC23",
+      "status": "draft_requires_correction",
+      "job_id": "71f775bf-3131-4521-b000-fbcaf07235ef",
+      "file": "Location Drafts/LOC23-gpt26-v002.png",
+      "findings": [
+        "Checkpoint layout and pedestrian bypass consistent in perspectives",
+        "Plan reverse camera 2 points north instead of south; side camera markers do not match wall views; fix diagram before spatial use"
+      ]
+    },
+    {
+      "id": "LOC24",
+      "file": "Location Drafts/LOC24-gpt26-v001.png",
+      "status": "draft_requires_correction",
+      "findings": [
+        "Single inert loader and east disconnect cabinet consistent",
+        "Plan reverse camera B points north rather than south; correct diagram arrow before publication"
+      ]
+    },
+    {
+      "id": "LOC25",
+      "file": "Location Drafts/LOC25-gpt26-v001.png",
+      "status": "draft_requires_correction",
+      "findings": [
+        "Archive cabinet swaps north/south between perspective and plan",
+        "Junction plate labeled north wall is drawn on west branch side",
+        "Correct mirrored perspectives to match north-up plan before WAN use"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "results": [
+    {
+      "id": "71f775bf-3131-4521-b000-fbcaf07235ef",
+      "type": "image",
+      "status": "pending",
+      "model": "gpt_image_2_6",
+      "params": {
+        "prompt": "Create one finished 16:9 4K architectural production location sheet for KittyPunk2077. Cinematic tactile stylized 3D realism matching supplied District 7 reference: old red-brown brick, worn concrete, steel, cyan and magenta neon, amber lamps. Exactly nine panels in clean 3x3 grid, narrow charcoal gutters, short labels. SAME physical set in every panel: fix doors, furniture, conduits and wear. Empty set, no people, cats, dogs, robots, silhouettes or character posters. Props specified allowed. Blank screens. Panel 1 HERO WIDE; 2 REVERSE WIDE; 3 LEFT WALL; 4 RIGHT WALL; 5 ENTRY; 6 OVERHEAD PLAN; 7 CEILING AND FLOOR; 8 FIXED PROPS; 9 SECOND STAGING ANGLE. Plan north up and camera arrows consistent with views. Only small location title and panel labels; no dense captions, watermark or source filenames. References are visual context only. Bright inspectable architecture with camera clearance. Location: LOC23 — DISTRICT 7 CLEARANCE CHECKPOINT. A modest temporary street checkpoint on north-south District7 service road. East side small open-front officer canopy with command desk and blank monitor facing road. West side continuous protected pedestrian bypass separated by short barriers and never gated. Vehicle barrier across central road, parked inactive gray loader beyond it to north. Utility access hatch in east brick wall south of canopy. Single old box security camera on canopy, no BARK branding or futuristic surveillance network. Orange cones, wet asphalt, distant neon. Include view from both sides of checkpoint and overhead matching canopy east, bypass west, loader north.",
+        "aspect_ratio": "16:9",
+        "reference_images": [
+          "b0eaed19-7889-4f08-a39f-9c1cec0db639"
+        ],
+        "quality": "high",
+        "resolution": "4k"
+      }
+    }
+  ],
+  "adjustments": {
+    "medias[0].role": {
+      "requested": "image",
+      "used": "image_references",
+      "reason": "GPT Image 2.6 backend expects schema-key media roles"
+    }
+  }
+}

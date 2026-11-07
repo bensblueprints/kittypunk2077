@@ -1,0 +1,160 @@
+{
+  "requests": [
+    {
+      "index": 21,
+      "params": {
+        "model": "gpt_image_2_6",
+        "quality": "high",
+        "resolution": "4k",
+        "aspect_ratio": "16:9",
+        "count": 1,
+        "use_unlim": false,
+        "prompt": "Create one finished 16:9 4K architectural production location sheet for KittyPunk2077. Cinematic tactile stylized 3D realism matching supplied District 7 reference: old red-brown brick, worn concrete, steel, cyan and magenta neon, amber lamps. Exactly nine panels in clean 3x3 grid, narrow charcoal gutters, short labels. SAME physical set in every panel: fix doors, furniture, conduits and wear. Empty set, no people, cats, dogs, robots, silhouettes or character posters. Props specified allowed. Blank screens. Panel 1 HERO WIDE; 2 REVERSE WIDE; 3 LEFT WALL; 4 RIGHT WALL; 5 ENTRY; 6 OVERHEAD PLAN; 7 CEILING AND FLOOR; 8 FIXED PROPS; 9 SECOND STAGING ANGLE. Plan north up and camera arrows consistent with views. Only small location title and panel labels; no dense captions, watermark or source filenames. References are visual context only. Bright inspectable architecture with camera clearance. Location: LOC21 — DISTRICT 7 MONORAIL UNDERPASS SHELTERS. Long east-west elevated concrete rail viaduct on rectangular pillars, no train. Along north retaining wall three improvised empty shelters built from corrugated panels, insulated boxes and blue tarps; each entrance faces south into generous continuous east-west pedestrian aisle. South side open toward District 7 street, amber worklamps on pillars, rain-wet outer pavement but dry shelter floors. West exit to street visible; east exit unobstructed toward warehouse route. Box trolley parked beside north wall, no body shapes. No readable eviction text.",
+        "medias": [
+          {
+            "role": "image",
+            "value": "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/3bd909f3e732f8d1.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "index": 22,
+      "params": {
+        "model": "gpt_image_2_6",
+        "quality": "high",
+        "resolution": "4k",
+        "aspect_ratio": "16:9",
+        "count": 1,
+        "use_unlim": false,
+        "prompt": "Create one finished 16:9 4K architectural production location sheet for KittyPunk2077. Cinematic tactile stylized 3D realism matching supplied District 7 reference: old red-brown brick, worn concrete, steel, cyan and magenta neon, amber lamps. Exactly nine panels in clean 3x3 grid, narrow charcoal gutters, short labels. SAME physical set in every panel: fix doors, furniture, conduits and wear. Empty set, no people, cats, dogs, robots, silhouettes or character posters. Props specified allowed. Blank screens. Panel 1 HERO WIDE; 2 REVERSE WIDE; 3 LEFT WALL; 4 RIGHT WALL; 5 ENTRY; 6 OVERHEAD PLAN; 7 CEILING AND FLOOR; 8 FIXED PROPS; 9 SECOND STAGING ANGLE. Plan north up and camera arrows consistent with views. Only small location title and panel labels; no dense captions, watermark or source filenames. References are visual context only. Bright inspectable architecture with camera clearance. Location: LOC22 — RESISTANCE COMMUNITY ANNEX. A modest rectangular ground-floor room inside the referenced warehouse, separate from its lounge and corporate buildings. Red-brown brick walls with black steel columns and high east industrial windows. South central double doors to warehouse circulation; north-west outward emergency door to rear service lane, both clear. Four folding beds in two pairs against west wall, two freestanding plain fabric privacy dividers. East wall water and tea table, sealed water containers, marked socket above table. North-east coats/hooks and storage rack. Clear central north-south aisle and access to both doors. Worn concrete, amber hanging lamps and faint pink window spill. No corporate logos.",
+        "medias": [
+          {
+            "role": "image",
+            "value": "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/c171160ce2dfdaef.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "index": 23,
+      "params": {
+        "model": "gpt_image_2_6",
+        "quality": "high",
+        "resolution": "4k",
+        "aspect_ratio": "16:9",
+        "count": 1,
+        "use_unlim": false,
+        "prompt": "Create one finished 16:9 4K architectural production location sheet for KittyPunk2077. Cinematic tactile stylized 3D realism matching supplied District 7 reference: old red-brown brick, worn concrete, steel, cyan and magenta neon, amber lamps. Exactly nine panels in clean 3x3 grid, narrow charcoal gutters, short labels. SAME physical set in every panel: fix doors, furniture, conduits and wear. Empty set, no people, cats, dogs, robots, silhouettes or character posters. Props specified allowed. Blank screens. Panel 1 HERO WIDE; 2 REVERSE WIDE; 3 LEFT WALL; 4 RIGHT WALL; 5 ENTRY; 6 OVERHEAD PLAN; 7 CEILING AND FLOOR; 8 FIXED PROPS; 9 SECOND STAGING ANGLE. Plan north up and camera arrows consistent with views. Only small location title and panel labels; no dense captions, watermark or source filenames. References are visual context only. Bright inspectable architecture with camera clearance. Location: LOC23 — DISTRICT 7 CLEARANCE CHECKPOINT. A modest temporary street checkpoint on north-south District7 service road. East side small open-front officer canopy with command desk and blank monitor facing road. West side continuous protected pedestrian bypass separated by short barriers and never gated. Vehicle barrier across central road, parked inactive gray loader beyond it to north. Utility access hatch in east brick wall south of canopy. Single old box security camera on canopy, no BARK branding or futuristic surveillance network. Orange cones, wet asphalt, distant neon. Include view from both sides of checkpoint and overhead matching canopy east, bypass west, loader north.",
+        "medias": [
+          {
+            "role": "image",
+            "value": "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/3bd909f3e732f8d1.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "index": 24,
+      "params": {
+        "model": "gpt_image_2_6",
+        "quality": "high",
+        "resolution": "4k",
+        "aspect_ratio": "16:9",
+        "count": 1,
+        "use_unlim": false,
+        "prompt": "Create one finished 16:9 4K architectural production location sheet for KittyPunk2077. Cinematic tactile stylized 3D realism matching supplied District 7 reference: old red-brown brick, worn concrete, steel, cyan and magenta neon, amber lamps. Exactly nine panels in clean 3x3 grid, narrow charcoal gutters, short labels. SAME physical set in every panel: fix doors, furniture, conduits and wear. Empty set, no people, cats, dogs, robots, silhouettes or character posters. Props specified allowed. Blank screens. Panel 1 HERO WIDE; 2 REVERSE WIDE; 3 LEFT WALL; 4 RIGHT WALL; 5 ENTRY; 6 OVERHEAD PLAN; 7 CEILING AND FLOOR; 8 FIXED PROPS; 9 SECOND STAGING ANGLE. Plan north up and camera arrows consistent with views. Only small location title and panel labels; no dense captions, watermark or source filenames. References are visual context only. Bright inspectable architecture with camera clearance. Location: LOC24 — STATIONARY MACHINERY MAINTENANCE BAY. A rectangular open-front industrial maintenance bay off District7 service road. One inert gray compact demolition loader with bucket resting flat on floor at north-center, parking blocks, zero movement and no occupants. Yellow exclusion line encloses machine; separate walkway along east wall to simple closed maintenance disconnect cabinet with OFF indicator, accessed entirely outside machine boundary. North wall tool rack, south wide vehicle opening, west high windows, amber overhead lamps and cyan spill. Generic stylized fictional machinery, no technical wiring diagram or operational instructions. Same exact loader and cabinet across panels.",
+        "medias": [
+          {
+            "role": "image",
+            "value": "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/3bd909f3e732f8d1.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "index": 25,
+      "params": {
+        "model": "gpt_image_2_6",
+        "quality": "high",
+        "resolution": "4k",
+        "aspect_ratio": "16:9",
+        "count": 1,
+        "use_unlim": false,
+        "prompt": "Create one finished 16:9 4K architectural production location sheet for KittyPunk2077. Cinematic tactile stylized 3D realism matching supplied District 7 reference: old red-brown brick, worn concrete, steel, cyan and magenta neon, amber lamps. Exactly nine panels in clean 3x3 grid, narrow charcoal gutters, short labels. SAME physical set in every panel: fix doors, furniture, conduits and wear. Empty set, no people, cats, dogs, robots, silhouettes or character posters. Props specified allowed. Blank screens. Panel 1 HERO WIDE; 2 REVERSE WIDE; 3 LEFT WALL; 4 RIGHT WALL; 5 ENTRY; 6 OVERHEAD PLAN; 7 CEILING AND FLOOR; 8 FIXED PROPS; 9 SECOND STAGING ANGLE. Plan north up and camera arrows consistent with views. Only small location title and panel labels; no dense captions, watermark or source filenames. References are visual context only. Bright inspectable architecture with camera clearance. Location: LOC25 — DISTRICT 7 UTILITY RECORDS PASSAGE. Narrow but filmable L-shaped old brick service passage: long east-west corridor turns north at western end. Main steel door at east end; low outward-opening escape door at north end. Midpoint south wall tall locked archive cabinet with frosted glass upper door and lower drawers; adjacent small inspection shelf with one closed ledger. North wall exposed pipes and obsolete unlit brass junction plate, no AI or powered hologram. Amber cage lamps, damp concrete edges, dry walkway, cyan street light at door threshold. Plan must show exact L-turn, both exits, archive on south wall, plate north. Blank record surfaces pending separate evidence prop.",
+        "medias": [
+          {
+            "role": "image",
+            "value": "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/3bd909f3e732f8d1.jpg"
+          }
+        ]
+      }
+    }
+  ],
+  "submission": {
+    "jobs": [
+      {
+        "index": 21,
+        "job_id": "a9ff0392-b69e-41f9-b316-7f051e0d6e0d",
+        "status": "pending",
+        "adjustments": {
+          "medias[0].role": {
+            "requested": "image",
+            "used": "image_references",
+            "reason": "GPT Image 2.6 backend expects schema-key media roles"
+          }
+        }
+      },
+      {
+        "index": 22,
+        "job_id": "de001306-2799-4567-8bcb-7b2abc7ca5ad",
+        "status": "pending",
+        "adjustments": {
+          "medias[0].role": {
+            "requested": "image",
+            "used": "image_references",
+            "reason": "GPT Image 2.6 backend expects schema-key media roles"
+          }
+        }
+      },
+      {
+        "index": 23,
+        "job_id": "ffe61abf-620c-43c6-8216-1802f2994101",
+        "status": "pending",
+        "adjustments": {
+          "medias[0].role": {
+            "requested": "image",
+            "used": "image_references",
+            "reason": "GPT Image 2.6 backend expects schema-key media roles"
+          }
+        }
+      },
+      {
+        "index": 24,
+        "job_id": "7ed7f43c-3099-4a08-be82-0adf57151bc2",
+        "status": "pending",
+        "adjustments": {
+          "medias[0].role": {
+            "requested": "image",
+            "used": "image_references",
+            "reason": "GPT Image 2.6 backend expects schema-key media roles"
+          }
+        }
+      },
+      {
+        "index": 25,
+        "job_id": "02a38d78-5efd-42c7-8f97-7765070d377c",
+        "status": "pending",
+        "adjustments": {
+          "medias[0].role": {
+            "requested": "image",
+            "used": "image_references",
+            "reason": "GPT Image 2.6 backend expects schema-key media roles"
+          }
+        }
+      }
+    ],
+    "submitted_count": 5,
+    "failed_count": 0
+  }
+}

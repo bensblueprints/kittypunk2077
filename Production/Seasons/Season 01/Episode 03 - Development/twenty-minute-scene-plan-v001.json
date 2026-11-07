@@ -6,7 +6,7 @@
     2500,
     3000
   ],
-  "status": "Detailed 20-minute scene plan; not scripted, recorded or submitted",
+  "status": "2776 spoken words recorded; 73 measured shots planned; location and prop completion pending; no Episode 3 WAN submissions",
   "continuity": [
     "Warehouse 30-day reprieve remains temporary",
     "No BARK surveillance rollout before S1 finale",
@@ -34,7 +34,7 @@
       "duration_sec": 45,
       "end_sec": 45,
       "action": "A notice drone pastes a clearance order onto a lived-in doorway. Onyx stops Neon peeling it off: the posting time is evidence. They discover the same order on every door in the block.",
-      "status": "Detailed scene plan; full dialogue, measured audio and shot breakdown still required"
+      "status": "Dialogue recorded and measured; shot plan prepared; video assets pending"
     },
     {
       "id": "E03-S02",
@@ -54,7 +54,7 @@
       "duration_sec": 50,
       "end_sec": 95,
       "action": "Under the monorail, a resident insists a sturdy insulated box is a home, not rubbish. Onyx listens before offering shelter. Neon measures whether the box can travel intact.",
-      "status": "Detailed scene plan; full dialogue, measured audio and shot breakdown still required"
+      "status": "Dialogue recorded and measured; shot plan prepared; video assets pending"
     },
     {
       "id": "E03-S03",
@@ -76,7 +76,7 @@
       "duration_sec": 45,
       "end_sec": 140,
       "action": "The warehouse reprieve from Episode 2 protects only its lease. It does not protect neighbors. Trixie initially wants to challenge paperwork; Onyx insists they also need a safe place tonight.",
-      "status": "Detailed scene plan; full dialogue, measured audio and shot breakdown still required"
+      "status": "Dialogue recorded and measured; shot plan prepared; video assets pending"
     },
     {
       "id": "E03-S04",
@@ -96,7 +96,7 @@
       "duration_sec": 55,
       "end_sec": 195,
       "action": "Ghost compares the newly posted notice with a delivery record claiming it was served weeks earlier. Byte finds the demolition route was approved before the salmon shortage. They need the original posting log.",
-      "status": "Detailed scene plan; full dialogue, measured audio and shot breakdown still required"
+      "status": "Dialogue recorded and measured; shot plan prepared; video assets pending"
     },
     {
       "id": "E03-S05",
@@ -114,7 +114,7 @@
       "duration_sec": 45,
       "end_sec": 240,
       "action": "Fetch orders an orderly clearance, keeping the machinery conspicuous to draw the crew. An organic Pawlice officer asks where residents should go; Fetch says relocation is another office responsibility.",
-      "status": "Detailed scene plan; full dialogue, measured audio and shot breakdown still required"
+      "status": "Dialogue recorded and measured; shot plan prepared; video assets pending"
     },
     {
       "id": "E03-S06",
@@ -134,7 +134,7 @@
       "duration_sec": 50,
       "end_sec": 290,
       "action": "Onyx opens an unused ground-floor warehouse annex to temporary guests. Neon checks exits and power before moving beds. A resident asks when they can go home; Onyx refuses to promise a date.",
-      "status": "Detailed scene plan; full dialogue, measured audio and shot breakdown still required"
+      "status": "Dialogue recorded and measured; shot plan prepared; video assets pending"
     },
     {
       "id": "E03-S07",
@@ -158,7 +158,7 @@
       "duration_sec": 55,
       "end_sec": 345,
       "action": "Trixie assigns Ghost archive access, Byte the appeal, Neon machinery isolation, Onyx evacuation and herself the original order. They agree to preserve proof and stop if anyone is in the machine zone.",
-      "status": "Detailed scene plan; full dialogue, measured audio and shot breakdown still required"
+      "status": "Dialogue recorded and measured; shot plan prepared; video assets pending"
     },
     {
       "id": "E03-S08",
@@ -178,7 +178,7 @@
       "duration_sec": 45,
       "end_sec": 390,
       "action": "A resident demonstrates yesterday photographic record of an unposted wall. Trixie records testimony with permission. Byte preserves a private original while keeping identifying details out of public copies.",
-      "status": "Detailed scene plan; full dialogue, measured audio and shot breakdown still required"
+      "status": "Dialogue recorded and measured; shot plan prepared; video assets pending"
     },
     {
       "id": "E03-S09",
@@ -196,7 +196,7 @@
       "duration_sec": 50,
       "end_sec": 440,
       "action": "Fetch recognizes a utility hatch near the checkpoint and predicts Ghost route. He orders one exit watched rather than chasing a decoy. Existing local security cameras only, not the later BARK network.",
-      "status": "Detailed scene plan; full dialogue, measured audio and shot breakdown still required"
+      "status": "Dialogue recorded and measured; shot plan prepared; video assets pending"
     },
     {
       "id": "E03-S10",
@@ -214,7 +214,7 @@
       "duration_sec": 55,
       "end_sec": 495,
       "action": "At the parked demolition machines, Neon finds a physical maintenance disconnect. Ghost confirms it cannot stop a rolling vehicle. They must isolate power while the machines remain stationary and outside the resident zone.",
-      "status": "Detailed scene plan; full dialogue, measured audio and shot breakdown still required"
+      "status": "Dialogue recorded and measured; shot plan prepared; video assets pending"
     },
     {
       "id": "E03-S11",
@@ -234,7 +234,7 @@
       "duration_sec": 50,
       "end_sec": 545,
       "action": "Several residents want the same large moving box. Onyx establishes a rotation, then learns it contains a sleeping kitten. The whole box moves first; the joke ends in practical care rather than ridicule.",
-      "status": "Detailed scene plan; full dialogue, measured audio and shot breakdown still required"
+      "status": "Dialogue recorded and measured; shot plan prepared; video assets pending"
     },
     {
       "id": "E03-S12",
@@ -254,7 +254,7 @@
       "duration_sec": 45,
       "end_sec": 590,
       "action": "The legitimate appeal attachment link expires when the clearance starts. Ghost can retrieve the posting log or maintain the machinery-monitor feed, not both. Byte needs the full record, not a cropped image.",
-      "status": "Detailed scene plan; full dialogue, measured audio and shot breakdown still required"
+      "status": "Dialogue recorded and measured; shot plan prepared; video assets pending"
     },
     {
       "id": "E03-S13",
@@ -274,7 +274,7 @@
       "duration_sec": 55,
       "end_sec": 645,
       "action": "Trixie tries to coordinate both routes. Onyx reminds her that leadership means trusting the jobs she assigned. She chooses the evidence route; Neon and Onyx retain responsibility for the physical rescue.",
-      "status": "Detailed scene plan; full dialogue, measured audio and shot breakdown still required"
+      "status": "Dialogue recorded and measured; shot plan prepared; video assets pending"
     },
     {
       "id": "E03-S14",
@@ -292,7 +292,7 @@
       "duration_sec": 50,
       "end_sec": 695,
       "action": "Neon isolates the stationary machine power under the marked maintenance procedure. Onyx keeps residents clear. Controls go dark; neither cat enters moving machinery or pretends this permanently defeats the corporation.",
-      "status": "Detailed scene plan; full dialogue, measured audio and shot breakdown still required"
+      "status": "Dialogue recorded and measured; shot plan prepared; video assets pending"
     },
     {
       "id": "E03-S15",
@@ -310,7 +310,7 @@
       "duration_sec": 45,
       "end_sec": 740,
       "action": "Onyx checks each shelter and discovers a resident returned for a family photograph. They leave together with the picture and the insulated box. He confirms the shelter zone is clear before reporting success.",
-      "status": "Detailed scene plan; full dialogue, measured audio and shot breakdown still required"
+      "status": "Dialogue recorded and measured; shot plan prepared; video assets pending"
     },
     {
       "id": "E03-S16",
@@ -328,7 +328,7 @@
       "duration_sec": 55,
       "end_sec": 795,
       "action": "At the utility records cabinet Ghost retrieves the dated log under the existing appeal access. Trixie records the whole page and its seal. The claimed delivery predates the actual issue date: both records are retained.",
-      "status": "Detailed scene plan; full dialogue, measured audio and shot breakdown still required"
+      "status": "Dialogue recorded and measured; shot plan prepared; video assets pending"
     },
     {
       "id": "E03-S17",
@@ -348,7 +348,7 @@
       "duration_sec": 50,
       "end_sec": 845,
       "action": "Fetch spots movement near the utility route and blocks the nearest exit. Ghost reports the closure over comms from cover, remaining offscreen during Fetch coverage. No teleporting between checkpoint and lair.",
-      "status": "Detailed scene plan; full dialogue, measured audio and shot breakdown still required"
+      "status": "Dialogue recorded and measured; shot plan prepared; video assets pending"
     },
     {
       "id": "E03-S18",
@@ -368,7 +368,7 @@
       "duration_sec": 45,
       "end_sec": 890,
       "action": "Trixie and Ghost take a longer service passage while Neon guides them remotely using the maintenance map. They pass an obsolete junction plate. They photograph it without activating or identifying the old system.",
-      "status": "Detailed scene plan; full dialogue, measured audio and shot breakdown still required"
+      "status": "Dialogue recorded and measured; shot plan prepared; video assets pending"
     },
     {
       "id": "E03-S19",
@@ -386,7 +386,7 @@
       "duration_sec": 55,
       "end_sec": 945,
       "action": "Byte presents the original order, posting log and witness record through the established paper-appeal channel. The NIP7 presenter verifies chronology remotely and asks what the evidence does not establish.",
-      "status": "Detailed scene plan; full dialogue, measured audio and shot breakdown still required"
+      "status": "Dialogue recorded and measured; shot plan prepared; video assets pending"
     },
     {
       "id": "E03-S20",
@@ -404,7 +404,7 @@
       "duration_sec": 50,
       "end_sec": 995,
       "action": "NIP7 reports a dated temporary stay pending review, citing the specific notice failure. Trixie says the immediate clearance must stop, not that every housing problem is solved. Private witness details remain withheld.",
-      "status": "Detailed scene plan; full dialogue, measured audio and shot breakdown still required"
+      "status": "Dialogue recorded and measured; shot plan prepared; video assets pending"
     },
     {
       "id": "E03-S21",
@@ -422,7 +422,7 @@
       "duration_sec": 45,
       "end_sec": 1040,
       "action": "The officer verifies the signed stay and refuses to restart clearance. Fetch is furious but orders machines held. The pause has a visible institutional cause; the crew did not create a magic override.",
-      "status": "Detailed scene plan; full dialogue, measured audio and shot breakdown still required"
+      "status": "Dialogue recorded and measured; shot plan prepared; video assets pending"
     },
     {
       "id": "E03-S22",
@@ -444,7 +444,7 @@
       "duration_sec": 55,
       "end_sec": 1095,
       "action": "Residents arrive at the safe annex and choose sleeping spaces themselves. Neon parks the precious box beside a bed. Onyx posts temporary house rules and asks residents to help improve them.",
-      "status": "Detailed scene plan; full dialogue, measured audio and shot breakdown still required"
+      "status": "Dialogue recorded and measured; shot plan prepared; video assets pending"
     },
     {
       "id": "E03-S23",
@@ -468,7 +468,7 @@
       "duration_sec": 45,
       "end_sec": 1140,
       "action": "The crew celebrates the stayed demolition and confronts the work of hosting neighbors. Byte keeps the appeal deadline visible. Onyx accepts help. Ghost quietly compares the obsolete junction to the service map.",
-      "status": "Detailed scene plan; full dialogue, measured audio and shot breakdown still required"
+      "status": "Dialogue recorded and measured; shot plan prepared; video assets pending"
     },
     {
       "id": "E03-S24",
@@ -484,7 +484,7 @@
       "duration_sec": 60,
       "end_sec": 1200,
       "action": "Fetch studies the utility route used in the escape and marks the next exits for closure. Intercut a silent lair insert of the old service map only as a separate shot. End with human-scale pursuit, no premature AI reveal.",
-      "status": "Detailed scene plan; full dialogue, measured audio and shot breakdown still required"
+      "status": "Dialogue recorded and measured; shot plan prepared; video assets pending"
     }
   ],
   "asset_requirements": [
