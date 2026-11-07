@@ -1,0 +1,25 @@
+{
+  "checked_utc": "2026-11-07T02:28:29.181061+00:00",
+  "active_wan_jobs": [
+    "task_MozsbciILVGVAqdLkAueYAlGi63h0rFy",
+    "task_eUZmhXThr3mxp3VEsp98uUiWHg7H7YDt",
+    "task_WpXMWwSExwmUPQmIVyLNWlwGaQPEGVck"
+  ],
+  "provider_download_evidence": "Nginx access log: Go-http-client from 43.198.27.102 fetched shot6.wav, shot7.wav, shot8.wav with HTTP 200 and full expected byte counts.",
+  "reference_bytes": [
+    617478,
+    705678,
+    705678
+  ],
+  "job_status": "queued; not complete",
+  "producer_checks": [
+    "review page and controls present",
+    "private review video range streaming returns 206",
+    "anonymous review access redirects to login",
+    "ElevenLabs account balance check succeeds"
+  ],
+  "visual_ending_checks": {
+    "S01-P04-v003": "Sampled seconds 6\u20139 retain exactly five cats and consistent seating; performance approval pending.",
+    "S01-P09-v003": "Sampled seconds 6\u20138 keep gameplay and restart UI inside TV glass; earlier HUD inconsistency remains a review note."
+  }
+}

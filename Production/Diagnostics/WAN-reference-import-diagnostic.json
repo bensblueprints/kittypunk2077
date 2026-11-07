@@ -1,0 +1,308 @@
+{
+  "checked_utc": "2026-11-07T02:41:22.964619+00:00",
+  "provider": "Orbis Wan3.0Prime official-A",
+  "model": "wan-3.0-prime",
+  "symptom": "Repeated upstream_error: reference material upload failed; check URL and format",
+  "verified": [
+    "Public HTTPS references have GET 200, HEAD 200 and Range 206",
+    "Go-http-client at provider address fetched full WAV byte counts with HTTP 200",
+    "Reference service now independent of web app restarts",
+    "MP3 48k mono, MP3 44.1k stereo, PCM signed 16-bit WAV 44.1k mono have been attempted",
+    "Same image used by a successful shot is supplied",
+    "No duplicate submission of a nonterminal job"
+  ],
+  "limits": {
+    "images": 1,
+    "audios": 1,
+    "duration_seconds": [
+      7,
+      8,
+      8
+    ],
+    "resolution": "1080p"
+  },
+  "jobs": [
+    {
+      "shot": 6,
+      "version": "S01-P06-v001",
+      "task_id": "task_UKq774StfrGhbYJ2nwXF4HQBCNKBss4b",
+      "status": "failed",
+      "error": {
+        "message": "参考素材上传失败，请检查素材 URL 和格式",
+        "code": "upstream_error"
+      },
+      "processing_seconds": 705
+    },
+    {
+      "shot": 6,
+      "version": "S01-P06-v002",
+      "task_id": "task_Ahetos2baxxFh6cwSBjCARjGo7nVYwzu",
+      "status": "failed",
+      "error": {
+        "message": "参考素材上传失败，请检查素材 URL 和格式",
+        "code": "upstream_error"
+      },
+      "processing_seconds": 1
+    },
+    {
+      "shot": 6,
+      "version": "S01-P06-v003",
+      "task_id": "task_PMcvhV2ds8On8Xdf3i9fAMAtI7rRXnWZ",
+      "status": "failed",
+      "error": {
+        "message": "参考素材上传失败，请检查素材 URL 和格式",
+        "code": "upstream_error"
+      },
+      "processing_seconds": 307
+    },
+    {
+      "shot": 6,
+      "version": "S01-P06-v004",
+      "task_id": "task_Z8OXYB38DSNOIW6qugwQmdAJeMSBoel7",
+      "status": "failed",
+      "error": {
+        "message": "参考素材上传失败，请检查素材 URL 和格式",
+        "code": "upstream_error"
+      },
+      "processing_seconds": 308
+    },
+    {
+      "shot": 6,
+      "version": "S01-P06-v005",
+      "task_id": "task_FSbtgADKYORtCj5rFFHxnBwDDqdfDWZP",
+      "status": "failed",
+      "error": {
+        "message": "参考素材上传失败，请检查素材 URL 和格式",
+        "code": "upstream_error"
+      },
+      "processing_seconds": 310
+    },
+    {
+      "shot": 6,
+      "version": "S01-P06-v006",
+      "task_id": "task_my4jJCYOJ9TYPre6YDgB6KZLlPjIXcLy",
+      "status": "failed",
+      "error": {
+        "message": "参考素材上传失败，请检查素材 URL 和格式",
+        "code": "upstream_error"
+      },
+      "processing_seconds": 307
+    },
+    {
+      "shot": 6,
+      "version": "S01-P06-v007",
+      "task_id": "task_MozsbciILVGVAqdLkAueYAlGi63h0rFy",
+      "status": "failed",
+      "error": {
+        "message": "参考素材上传失败，请检查素材 URL 和格式",
+        "code": "upstream_error"
+      },
+      "processing_seconds": 374
+    },
+    {
+      "shot": 6,
+      "version": "S01-P06-v008",
+      "task_id": "task_9HwdAZvpvQzL0FbnU2eNwslVQLbsJ0x1",
+      "status": "failed",
+      "error": {
+        "message": "参考素材上传失败，请检查素材 URL 和格式",
+        "code": "upstream_error"
+      },
+      "processing_seconds": 422
+    },
+    {
+      "shot": 7,
+      "version": "S01-P07-v001",
+      "task_id": "task_kJVnvBVI7nfarbnDh1yaQkLnInZV1atd",
+      "status": "failed",
+      "error": {
+        "message": "参考素材上传失败，请检查素材 URL 和格式",
+        "code": "upstream_error"
+      },
+      "processing_seconds": 1030
+    },
+    {
+      "shot": 7,
+      "version": "S01-P07-v002",
+      "task_id": "task_EgJWp6ShVo9MZzIUBSI5uZWPN8WMOGHb",
+      "status": "failed",
+      "error": {
+        "message": "参考素材上传失败，请检查素材 URL 和格式",
+        "code": "upstream_error"
+      },
+      "processing_seconds": 2
+    },
+    {
+      "shot": 7,
+      "version": "S01-P07-v003",
+      "task_id": "task_37n4aN2WCQrETt8VDewrSrvY5GU8glds",
+      "status": "failed",
+      "error": {
+        "message": "参考素材上传失败，请检查素材 URL 和格式",
+        "code": "upstream_error"
+      },
+      "processing_seconds": 314
+    },
+    {
+      "shot": 7,
+      "version": "S01-P07-v004",
+      "task_id": "task_sAGQdu3XeJNNPwAcjHVHDbWNWFlWWon2",
+      "status": "failed",
+      "error": {
+        "message": "参考素材上传失败，请检查素材 URL 和格式",
+        "code": "upstream_error"
+      },
+      "processing_seconds": 310
+    },
+    {
+      "shot": 7,
+      "version": "S01-P07-v005",
+      "task_id": "task_F6yPGzc1L01H3Wd6i9prYS6WBruhpGIs",
+      "status": "failed",
+      "error": {
+        "message": "参考素材上传失败，请检查素材 URL 和格式",
+        "code": "upstream_error"
+      },
+      "processing_seconds": 311
+    },
+    {
+      "shot": 7,
+      "version": "S01-P07-v006",
+      "task_id": "task_IOrh50F5rj7By0iHv2WL5D7Dc1sFD2OS",
+      "status": "failed",
+      "error": {
+        "message": "参考素材上传失败，请检查素材 URL 和格式",
+        "code": "upstream_error"
+      },
+      "processing_seconds": 312
+    },
+    {
+      "shot": 7,
+      "version": "S01-P07-v007",
+      "task_id": "task_eUZmhXThr3mxp3VEsp98uUiWHg7H7YDt",
+      "status": "failed",
+      "error": {
+        "message": "参考素材上传失败，请检查素材 URL 和格式",
+        "code": "upstream_error"
+      },
+      "processing_seconds": 348
+    },
+    {
+      "shot": 7,
+      "version": "S01-P07-v008",
+      "task_id": "task_pyJu558CtCWeN5KGoj7ETJMV8Yyb8gzu",
+      "status": "failed",
+      "error": {
+        "message": "参考素材上传失败，请检查素材 URL 和格式",
+        "code": "upstream_error"
+      },
+      "processing_seconds": 442
+    },
+    {
+      "shot": 8,
+      "version": "S01-P08-v001",
+      "task_id": "task_MhxJYkWTRg1dXFUfJGd3aJwz68vFXeUU",
+      "status": "failed",
+      "error": {
+        "message": "参考素材上传失败，请检查素材 URL 和格式",
+        "code": "upstream_error"
+      },
+      "processing_seconds": 603
+    },
+    {
+      "shot": 8,
+      "version": "S01-P08-v002",
+      "task_id": "task_h5FizNqKvVBEJ2ElqvlB4I7JDrHtVeQD",
+      "status": "failed",
+      "error": {
+        "message": "参考素材上传失败，请检查素材 URL 和格式",
+        "code": "upstream_error"
+      },
+      "processing_seconds": 878
+    },
+    {
+      "shot": 8,
+      "version": "S01-P08-v003",
+      "task_id": "task_6ZKxoTXeV4dcWNGZtVbV4jmrW56xPPR8",
+      "status": "failed",
+      "error": {
+        "message": "参考素材上传失败，请检查素材 URL 和格式",
+        "code": "upstream_error"
+      },
+      "processing_seconds": 4
+    },
+    {
+      "shot": 8,
+      "version": "S01-P08-v004",
+      "task_id": "task_OViNjnfNVmcEbECyz4SlLD5rKCjw7mUr",
+      "status": "failed",
+      "error": {
+        "message": "参考素材上传失败，请检查素材 URL 和格式",
+        "code": "upstream_error"
+      },
+      "processing_seconds": 325
+    },
+    {
+      "shot": 8,
+      "version": "S01-P08-v005",
+      "task_id": "task_4fyWW2JHo1JLwCgePKGXi9QB3VQZimre",
+      "status": "failed",
+      "error": {
+        "message": "参考素材上传失败，请检查素材 URL 和格式",
+        "code": "upstream_error"
+      },
+      "processing_seconds": 319
+    },
+    {
+      "shot": 8,
+      "version": "S01-P08-v006",
+      "task_id": "task_Ug0Qbtad862F7iiyvrsKFsrUC8TLdrQ2",
+      "status": "failed",
+      "error": {
+        "message": "参考素材上传失败，请检查素材 URL 和格式",
+        "code": "upstream_error"
+      },
+      "processing_seconds": 313
+    },
+    {
+      "shot": 8,
+      "version": "S01-P08-v007",
+      "task_id": "task_ziWS2OeZiXyzcq98tvi1f72Ixq3MVVux",
+      "status": "failed",
+      "error": {
+        "message": "参考素材上传失败，请检查素材 URL 和格式",
+        "code": "upstream_error"
+      },
+      "processing_seconds": 313
+    },
+    {
+      "shot": 8,
+      "version": "S01-P08-v008",
+      "task_id": "task_WpXMWwSExwmUPQmIVyLNWlwGaQPEGVck",
+      "status": "failed",
+      "error": {
+        "message": "参考素材上传失败，请检查素材 URL 和格式",
+        "code": "upstream_error"
+      },
+      "processing_seconds": 384
+    },
+    {
+      "shot": 8,
+      "version": "S01-P08-v009",
+      "task_id": "task_ptsvjUN1RYtgcez7GXet8wlsGaI44Esv",
+      "status": "failed",
+      "error": {
+        "message": "参考素材上传失败，请检查素材 URL 和格式",
+        "code": "upstream_error"
+      },
+      "processing_seconds": 441
+    }
+  ],
+  "questions_for_provider": [
+    "Does audio-reference import currently work on this route?",
+    "Which reference failed: image or audio?",
+    "Can you expose the upstream import status/response?",
+    "Were failed generations refunded? Refunds are unconfirmed locally."
+  ],
+  "privacy": "No API keys, producer credentials, or public reference access tokens included."
+}

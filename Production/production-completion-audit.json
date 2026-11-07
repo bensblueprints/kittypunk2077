@@ -1,0 +1,313 @@
+{
+  "audio": {
+    "current_lines": 225,
+    "scenes": 24,
+    "all_voice_ids_match": true,
+    "all_takes_exist": true,
+    "listening_master_seconds": 776.729274,
+    "master_sha256": "aa897089afb8f69b3fcff6313f9150f9928c2129e6cfb239c47b51c6c888d444",
+    "picture_plan_seconds": 1200,
+    "effects": 16,
+    "score_cues": 4
+  },
+  "pawlice": [
+    {
+      "id": "PAW01",
+      "dimensions": [
+        3840,
+        2160
+      ],
+      "sha256": "6c4f0a786091242043739de8a3e1e839c7bba7494fa33937dfd3f9b0532082d2"
+    },
+    {
+      "id": "PAW02",
+      "dimensions": [
+        3840,
+        2160
+      ],
+      "sha256": "506fcf8463006a48f833a7d9e70b065976c946c6cbd6dc8e01220fb37cd08763"
+    },
+    {
+      "id": "PAW03",
+      "dimensions": [
+        3840,
+        2160
+      ],
+      "sha256": "5f8c4fda28a705d7329e9c509cabaaccabbd892c4d39b5eadfb0b038f99b5694"
+    },
+    {
+      "id": "PAW04",
+      "dimensions": [
+        3840,
+        2160
+      ],
+      "sha256": "8fe53fc24f26a9e1fb60d76cff346f5e02aad38933ff7e958ad7cb86d045685c"
+    },
+    {
+      "id": "PAW05",
+      "dimensions": [
+        3840,
+        2160
+      ],
+      "sha256": "654694df086ce83eede5c651a83912d95f28a7136c2ac18a9a8a3a31dcc6f685"
+    }
+  ],
+  "scene1": {
+    "S01-P01": [
+      {
+        "version": "S01-P01-v001",
+        "status": "failed",
+        "downloaded": false
+      },
+      {
+        "version": "S01-P01-v002",
+        "status": "failed",
+        "downloaded": false
+      },
+      {
+        "version": "S01-P01-v003",
+        "status": "failed",
+        "downloaded": false
+      },
+      {
+        "version": "S01-P01-v004",
+        "status": "failed",
+        "downloaded": false
+      },
+      {
+        "version": "S01-P01-v005",
+        "status": "failed",
+        "downloaded": false
+      },
+      {
+        "version": "S01-P01-v006",
+        "status": "completed",
+        "downloaded": true
+      }
+    ],
+    "S01-P02": [
+      {
+        "version": "S01-P02-v001",
+        "status": "failed",
+        "downloaded": false
+      },
+      {
+        "version": "S01-P02-v002",
+        "status": "failed",
+        "downloaded": false
+      },
+      {
+        "version": "S01-P02-v003",
+        "status": "completed",
+        "downloaded": true
+      }
+    ],
+    "S01-P03": [
+      {
+        "version": "S01-P03-v001",
+        "status": "completed",
+        "downloaded": true
+      }
+    ],
+    "S01-P04": [
+      {
+        "version": "S01-P04-v001",
+        "status": "failed",
+        "downloaded": false
+      },
+      {
+        "version": "S01-P04-v002",
+        "status": "failed",
+        "downloaded": false
+      },
+      {
+        "version": "S01-P04-v003",
+        "status": "completed",
+        "downloaded": true
+      }
+    ],
+    "S01-P05": [
+      {
+        "version": "S01-P05-v001",
+        "status": "failed",
+        "downloaded": false
+      },
+      {
+        "version": "S01-P05-v002",
+        "status": "failed",
+        "downloaded": false
+      },
+      {
+        "version": "S01-P05-v003",
+        "status": "failed",
+        "downloaded": false
+      },
+      {
+        "version": "S01-P05-v004",
+        "status": "completed",
+        "downloaded": true
+      }
+    ],
+    "S01-P06": [
+      {
+        "version": "S01-P06-v001",
+        "status": "failed",
+        "downloaded": false
+      },
+      {
+        "version": "S01-P06-v002",
+        "status": "failed",
+        "downloaded": false
+      },
+      {
+        "version": "S01-P06-v003",
+        "status": "failed",
+        "downloaded": false
+      },
+      {
+        "version": "S01-P06-v004",
+        "status": "failed",
+        "downloaded": false
+      },
+      {
+        "version": "S01-P06-v005",
+        "status": "failed",
+        "downloaded": false
+      },
+      {
+        "version": "S01-P06-v006",
+        "status": "failed",
+        "downloaded": false
+      },
+      {
+        "version": "S01-P06-v007",
+        "status": "failed",
+        "downloaded": false
+      },
+      {
+        "version": "S01-P06-v008",
+        "status": "failed",
+        "downloaded": false
+      }
+    ],
+    "S01-P07": [
+      {
+        "version": "S01-P07-v001",
+        "status": "failed",
+        "downloaded": false
+      },
+      {
+        "version": "S01-P07-v002",
+        "status": "failed",
+        "downloaded": false
+      },
+      {
+        "version": "S01-P07-v003",
+        "status": "failed",
+        "downloaded": false
+      },
+      {
+        "version": "S01-P07-v004",
+        "status": "failed",
+        "downloaded": false
+      },
+      {
+        "version": "S01-P07-v005",
+        "status": "failed",
+        "downloaded": false
+      },
+      {
+        "version": "S01-P07-v006",
+        "status": "failed",
+        "downloaded": false
+      },
+      {
+        "version": "S01-P07-v007",
+        "status": "failed",
+        "downloaded": false
+      },
+      {
+        "version": "S01-P07-v008",
+        "status": "failed",
+        "downloaded": false
+      }
+    ],
+    "S01-P08": [
+      {
+        "version": "S01-P08-v001",
+        "status": "failed",
+        "downloaded": false
+      },
+      {
+        "version": "S01-P08-v002",
+        "status": "failed",
+        "downloaded": false
+      },
+      {
+        "version": "S01-P08-v003",
+        "status": "failed",
+        "downloaded": false
+      },
+      {
+        "version": "S01-P08-v004",
+        "status": "failed",
+        "downloaded": false
+      },
+      {
+        "version": "S01-P08-v005",
+        "status": "failed",
+        "downloaded": false
+      },
+      {
+        "version": "S01-P08-v006",
+        "status": "failed",
+        "downloaded": false
+      },
+      {
+        "version": "S01-P08-v007",
+        "status": "failed",
+        "downloaded": false
+      },
+      {
+        "version": "S01-P08-v008",
+        "status": "failed",
+        "downloaded": false
+      },
+      {
+        "version": "S01-P08-v009",
+        "status": "failed",
+        "downloaded": false
+      }
+    ],
+    "S01-P09": [
+      {
+        "version": "S01-P09-v001",
+        "status": "failed",
+        "downloaded": false
+      },
+      {
+        "version": "S01-P09-v002",
+        "status": "failed",
+        "downloaded": false
+      },
+      {
+        "version": "S01-P09-v003",
+        "status": "completed",
+        "downloaded": true
+      }
+    ],
+    "S01-P10": [
+      {
+        "version": "S01-P10-v001",
+        "status": "failed",
+        "downloaded": false
+      },
+      {
+        "version": "S01-P10-v002",
+        "status": "completed",
+        "downloaded": true
+      }
+    ]
+  },
+  "completion": "not complete; Scene 1 render/assembly pending"
+}

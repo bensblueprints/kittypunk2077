@@ -1,0 +1,2031 @@
+{
+  "takes": [
+    {
+      "scene": 1,
+      "line": "S01-D01",
+      "take": "7385c78a469a020b",
+      "voice_id": "wo6udizrrtpIxWGp2qJk",
+      "decode_ok": true,
+      "sha256": "7385c78a469a020befc74d29ba2a362069252976c2ccdeb6333e20f4a943c223",
+      "error": ""
+    },
+    {
+      "scene": 1,
+      "line": "S01-D02",
+      "take": "fd5f566859105b8b",
+      "voice_id": "dmWfLQZJq7wNPv9WmtiM",
+      "decode_ok": true,
+      "sha256": "fd5f566859105b8b53dc79df6d6560e5297dfec5b4426d276142f9af867f00fd",
+      "error": ""
+    },
+    {
+      "scene": 1,
+      "line": "S01-D03",
+      "take": "5c4a58b6f02aa3aa",
+      "voice_id": "wo6udizrrtpIxWGp2qJk",
+      "decode_ok": true,
+      "sha256": "5c4a58b6f02aa3aa54907658d609a5f42d939b4d29589ae171b2cac58015391c",
+      "error": ""
+    },
+    {
+      "scene": 1,
+      "line": "S01-D04",
+      "take": "818608a43905e9cf",
+      "voice_id": "4e32WqNVWRquDa1OcRYZ",
+      "decode_ok": true,
+      "sha256": "818608a43905e9cf3c4de74bf44e89e9e3c0d6f8648c5410a97f25a6401d690c",
+      "error": ""
+    },
+    {
+      "scene": 1,
+      "line": "S01-D05",
+      "take": "f566da8f795b96b4",
+      "voice_id": "uq0HIbNZKn11Hs5ifEdd",
+      "decode_ok": true,
+      "sha256": "f566da8f795b96b49895b7e6243b65db72bbf471c275d84c6f5271e9eca29595",
+      "error": ""
+    },
+    {
+      "scene": 1,
+      "line": "S01-D06",
+      "take": "f17afb44f68acf74",
+      "voice_id": "4e32WqNVWRquDa1OcRYZ",
+      "decode_ok": true,
+      "sha256": "f17afb44f68acf74d110c5befc34d0611ba2e61da4e1bee6bdd3aa8621c0af1f",
+      "error": ""
+    },
+    {
+      "scene": 1,
+      "line": "S01-D07",
+      "take": "2b378909e3ed77be",
+      "voice_id": "dmWfLQZJq7wNPv9WmtiM",
+      "decode_ok": true,
+      "sha256": "2b378909e3ed77be41b5286070ad156314514185a7df3eb4e2cb4d3895072818",
+      "error": ""
+    },
+    {
+      "scene": 1,
+      "line": "S01-D08",
+      "take": "8e65abf758172867",
+      "voice_id": "wo6udizrrtpIxWGp2qJk",
+      "decode_ok": true,
+      "sha256": "8e65abf7581728673ac0dd4d358338286a862499e329b40485b341332564c9ef",
+      "error": ""
+    },
+    {
+      "scene": 1,
+      "line": "S01-D09",
+      "take": "ad385f5b4a5245a5",
+      "voice_id": "uq0HIbNZKn11Hs5ifEdd",
+      "decode_ok": true,
+      "sha256": "ad385f5b4a5245a54eb3f27a136026aaaef6331ce7d6bcaf929228902d9bb6fe",
+      "error": ""
+    },
+    {
+      "scene": 1,
+      "line": "S01-D10",
+      "take": "8882e5aa14734d9e",
+      "voice_id": "4e32WqNVWRquDa1OcRYZ",
+      "decode_ok": true,
+      "sha256": "8882e5aa14734d9e4bfc457c9c1a9072467ae21e22e802d09cbbb6376d046cb4",
+      "error": ""
+    },
+    {
+      "scene": 1,
+      "line": "S01-D11",
+      "take": "d9fbaee68ad9e5c3",
+      "voice_id": "uq0HIbNZKn11Hs5ifEdd",
+      "decode_ok": true,
+      "sha256": "d9fbaee68ad9e5c3fbd29dc8b5d3f2ddea43441e5f74d6d4662b0cf67c7d5541",
+      "error": ""
+    },
+    {
+      "scene": 1,
+      "line": "S01-D12",
+      "take": "6f7e93070e785fda",
+      "voice_id": "7fBwqIVI6wI1B4MuKqQi",
+      "decode_ok": true,
+      "sha256": "6f7e93070e785fda1049f7d988e313bb428809f090e055af1a79c0f2b9f64910",
+      "error": ""
+    },
+    {
+      "scene": 1,
+      "line": "S01-D13",
+      "take": "01512a53e577f0ad",
+      "voice_id": "dmWfLQZJq7wNPv9WmtiM",
+      "decode_ok": true,
+      "sha256": "01512a53e577f0ad5ed142859a93d8a52230d43857332d776d3d2a9a39c8656d",
+      "error": ""
+    },
+    {
+      "scene": 1,
+      "line": "S01-D14",
+      "take": "3bd795b77bfd1453",
+      "voice_id": "7fBwqIVI6wI1B4MuKqQi",
+      "decode_ok": true,
+      "sha256": "3bd795b77bfd145397126170b8d3ee8f698c34492943d84250a74559523d86a2",
+      "error": ""
+    },
+    {
+      "scene": 1,
+      "line": "S01-D15",
+      "take": "06baa0dd3cde4e08",
+      "voice_id": "wo6udizrrtpIxWGp2qJk",
+      "decode_ok": true,
+      "sha256": "06baa0dd3cde4e08a3372b76453f30824a32a25d37618243faec4c7fa883a604",
+      "error": ""
+    },
+    {
+      "scene": 1,
+      "line": "S01-D16",
+      "take": "85b71d454c9aa924",
+      "voice_id": "7fBwqIVI6wI1B4MuKqQi",
+      "decode_ok": true,
+      "sha256": "85b71d454c9aa9246ff30a2bd24dc434a48e25c84c01b4d86320bf2f22f093f0",
+      "error": ""
+    },
+    {
+      "scene": 1,
+      "line": "S01-D17",
+      "take": "754034e203627c42",
+      "voice_id": "dmWfLQZJq7wNPv9WmtiM",
+      "decode_ok": true,
+      "sha256": "754034e203627c42dd658c44544f36e052673aeac1975690e9fd1228ea847266",
+      "error": ""
+    },
+    {
+      "scene": 2,
+      "line": "S02-D01",
+      "take": "76bdf0c7a9bbdcb0",
+      "voice_id": "dmWfLQZJq7wNPv9WmtiM",
+      "decode_ok": true,
+      "sha256": "76bdf0c7a9bbdcb013eb790902ac874443eb1d821fe20eecd6996fc1ff7845b4",
+      "error": ""
+    },
+    {
+      "scene": 2,
+      "line": "S02-D02",
+      "take": "135fa113457eae53",
+      "voice_id": "wo6udizrrtpIxWGp2qJk",
+      "decode_ok": true,
+      "sha256": "135fa113457eae5347e65f7885f1a4cf2400d9d7588cbe56ae4c1571dff0aa7d",
+      "error": ""
+    },
+    {
+      "scene": 2,
+      "line": "S02-D03",
+      "take": "c1a02019a3d43be2",
+      "voice_id": "4e32WqNVWRquDa1OcRYZ",
+      "decode_ok": true,
+      "sha256": "c1a02019a3d43be276dcaa802418f9f0818c57a3ab56bdb3a33e09bc98df8dd5",
+      "error": ""
+    },
+    {
+      "scene": 2,
+      "line": "S02-N01",
+      "take": "dc9ffd328ddbbbb7",
+      "voice_id": "4e32WqNVWRquDa1OcRYZ",
+      "decode_ok": true,
+      "sha256": "dc9ffd328ddbbbb73290462ab41fe96bf980bfb8dea4108ddd7e581bdb9a117f",
+      "error": ""
+    },
+    {
+      "scene": 2,
+      "line": "S02-N02",
+      "take": "0b66785b7e5f0ea5",
+      "voice_id": "wo6udizrrtpIxWGp2qJk",
+      "decode_ok": true,
+      "sha256": "0b66785b7e5f0ea5b3fdb13aeda3f57de23133070f1c7fc03de3ba18863cad82",
+      "error": ""
+    },
+    {
+      "scene": 2,
+      "line": "S02-N03",
+      "take": "cf89dd55ea966e6a",
+      "voice_id": "dmWfLQZJq7wNPv9WmtiM",
+      "decode_ok": true,
+      "sha256": "cf89dd55ea966e6a59c5d73ac1db91325746064fd38984b1bddc1d2e21ec75ec",
+      "error": ""
+    },
+    {
+      "scene": 2,
+      "line": "S02-N04",
+      "take": "03020e20384fae2a",
+      "voice_id": "7fBwqIVI6wI1B4MuKqQi",
+      "decode_ok": true,
+      "sha256": "03020e20384fae2aec8d2a0515cb78015f086498b6cc123eb8466b46f7a9c3e4",
+      "error": ""
+    },
+    {
+      "scene": 2,
+      "line": "S02-D04",
+      "take": "27b8e269d7538438",
+      "voice_id": "uq0HIbNZKn11Hs5ifEdd",
+      "decode_ok": true,
+      "sha256": "27b8e269d7538438b77678139e7bee5572171273e311fd35346dd5929ee6ed23",
+      "error": ""
+    },
+    {
+      "scene": 2,
+      "line": "S02-N05",
+      "take": "8bef8ea9852b7eac",
+      "voice_id": "uq0HIbNZKn11Hs5ifEdd",
+      "decode_ok": true,
+      "sha256": "8bef8ea9852b7eac385107f81a6b83a7b1bbb8a37a6d3f12236076038a79063c",
+      "error": ""
+    },
+    {
+      "scene": 2,
+      "line": "S02-N06",
+      "take": "0e03d6ea096c6119",
+      "voice_id": "7fBwqIVI6wI1B4MuKqQi",
+      "decode_ok": true,
+      "sha256": "0e03d6ea096c61190d6399f1199c635cb9f7f55d459c5384109cd2f88707b7d0",
+      "error": ""
+    },
+    {
+      "scene": 2,
+      "line": "S02-D05",
+      "take": "76a032efcdedac1d",
+      "voice_id": "7fBwqIVI6wI1B4MuKqQi",
+      "decode_ok": true,
+      "sha256": "76a032efcdedac1d417b71456fed417a68478be2da231476c4610b335c6edeed",
+      "error": ""
+    },
+    {
+      "scene": 3,
+      "line": "S03-D01",
+      "take": "50cd626442b36bd7",
+      "voice_id": "bwCXcoVxWNYMlC6Esa8u",
+      "decode_ok": true,
+      "sha256": "50cd626442b36bd7ac877569d4436a1f0fe9fe9dcdc0bd5807edafa279b0dd7f",
+      "error": ""
+    },
+    {
+      "scene": 3,
+      "line": "S03-N01",
+      "take": "e67e50090128b2bd",
+      "voice_id": "4e32WqNVWRquDa1OcRYZ",
+      "decode_ok": true,
+      "sha256": "e67e50090128b2bdd5b8f9d346e88669378a722f692a554715795672117c6eae",
+      "error": ""
+    },
+    {
+      "scene": 3,
+      "line": "S03-N02",
+      "take": "ef22231b8eb9e58b",
+      "voice_id": "7fBwqIVI6wI1B4MuKqQi",
+      "decode_ok": true,
+      "sha256": "ef22231b8eb9e58b848e4fd9bfa6556345ab5d92b309ee19da295bab68ce72a4",
+      "error": ""
+    },
+    {
+      "scene": 3,
+      "line": "S03-D02",
+      "take": "2a856c2ddfb3552a",
+      "voice_id": "wo6udizrrtpIxWGp2qJk",
+      "decode_ok": true,
+      "sha256": "2a856c2ddfb3552aa95fdfaa9c22794216a06fd2f4102255d3def7c6efd6de66",
+      "error": ""
+    },
+    {
+      "scene": 3,
+      "line": "S03-D03",
+      "take": "c830331d348befa2",
+      "voice_id": "dmWfLQZJq7wNPv9WmtiM",
+      "decode_ok": true,
+      "sha256": "c830331d348befa2676bb29a4f62486b6506c18caa39d44b49cce97bdecc4a0b",
+      "error": ""
+    },
+    {
+      "scene": 3,
+      "line": "S03-D04",
+      "take": "570ba44dbfead2b1",
+      "voice_id": "uq0HIbNZKn11Hs5ifEdd",
+      "decode_ok": true,
+      "sha256": "570ba44dbfead2b1a287ace7ffedc2f9613a06318fdf483cdc70f00c2cc7bb63",
+      "error": ""
+    },
+    {
+      "scene": 3,
+      "line": "S03-N03",
+      "take": "fea426bb05166e65",
+      "voice_id": "dmWfLQZJq7wNPv9WmtiM",
+      "decode_ok": true,
+      "sha256": "fea426bb05166e65ed7898d02fe75f18c49520f6fab2e65ae3c9d261b8030d3f",
+      "error": ""
+    },
+    {
+      "scene": 3,
+      "line": "S03-N04",
+      "take": "ac92b527415a2272",
+      "voice_id": "wo6udizrrtpIxWGp2qJk",
+      "decode_ok": true,
+      "sha256": "ac92b527415a2272e52d2bf128cc9b283320f65e54b6515eed43973c555422c6",
+      "error": ""
+    },
+    {
+      "scene": 3,
+      "line": "S03-N05",
+      "take": "4ce7428b46ac861d",
+      "voice_id": "dmWfLQZJq7wNPv9WmtiM",
+      "decode_ok": true,
+      "sha256": "4ce7428b46ac861df76e20025b31e0b5e790242bbabc610f4b1b94738cec730c",
+      "error": ""
+    },
+    {
+      "scene": 3,
+      "line": "S03-N06",
+      "take": "e24c7b2faa0e1577",
+      "voice_id": "uq0HIbNZKn11Hs5ifEdd",
+      "decode_ok": true,
+      "sha256": "e24c7b2faa0e15777e905e1eb64d881be07a7ed8598d6c8ce393cf78a00aa4ce",
+      "error": ""
+    },
+    {
+      "scene": 4,
+      "line": "S04-N01",
+      "take": "ea3f1c4fdf6b829e",
+      "voice_id": "wo6udizrrtpIxWGp2qJk",
+      "decode_ok": true,
+      "sha256": "ea3f1c4fdf6b829e616427ed4ebb01f72fa367e4e21e60706cb64cdffba5cbf8",
+      "error": ""
+    },
+    {
+      "scene": 4,
+      "line": "S04-D01",
+      "take": "6252916fa5ca06c7",
+      "voice_id": "wo6udizrrtpIxWGp2qJk",
+      "decode_ok": true,
+      "sha256": "6252916fa5ca06c7916b44fdf2b1a278031741d7d98e99bae6f4c937110beebf",
+      "error": ""
+    },
+    {
+      "scene": 4,
+      "line": "S04-D02",
+      "take": "3487a5bc76bab84c",
+      "voice_id": "dmWfLQZJq7wNPv9WmtiM",
+      "decode_ok": true,
+      "sha256": "3487a5bc76bab84c613a19538ac1d3bc52cf3188ff5e223af0ed31483f1e8ba1",
+      "error": ""
+    },
+    {
+      "scene": 4,
+      "line": "S04-N02",
+      "take": "ec82acb65bad40d7",
+      "voice_id": "dmWfLQZJq7wNPv9WmtiM",
+      "decode_ok": true,
+      "sha256": "ec82acb65bad40d7b89c64d060e530359fdf3757e88c40f3c14df90769063f9f",
+      "error": ""
+    },
+    {
+      "scene": 4,
+      "line": "S04-N03",
+      "take": "de5fcd676410a0dd",
+      "voice_id": "b5RPB35vTODb3BEmR3Fc",
+      "decode_ok": true,
+      "sha256": "de5fcd676410a0dd721fc2a6ce26fa83b9122ea4ed57544dabdc46d8f5f664c3",
+      "error": ""
+    },
+    {
+      "scene": 4,
+      "line": "S04-N04",
+      "take": "9edf71064ae60420",
+      "voice_id": "dmWfLQZJq7wNPv9WmtiM",
+      "decode_ok": true,
+      "sha256": "9edf71064ae60420224bf17160c3e2ebb37197b8d7dc7c085c55d3a166dbdcc4",
+      "error": ""
+    },
+    {
+      "scene": 4,
+      "line": "S04-N05",
+      "take": "43c02296bb8a6241",
+      "voice_id": "wo6udizrrtpIxWGp2qJk",
+      "decode_ok": true,
+      "sha256": "43c02296bb8a624182d99249c69bff6637133b50b966a22877211a51d84bed6c",
+      "error": ""
+    },
+    {
+      "scene": 4,
+      "line": "S04-N06",
+      "take": "a5d2adb33c53f060",
+      "voice_id": "dmWfLQZJq7wNPv9WmtiM",
+      "decode_ok": true,
+      "sha256": "a5d2adb33c53f0606efeac84a2413bd76904b0a6f4c33e189b5d4f3d4bb3ab23",
+      "error": ""
+    },
+    {
+      "scene": 4,
+      "line": "S04-D03",
+      "take": "f2b3fc3444d12f1e",
+      "voice_id": "wo6udizrrtpIxWGp2qJk",
+      "decode_ok": true,
+      "sha256": "f2b3fc3444d12f1ea3432a3a9ba1037b0224628d351bbfd7b611a47db40a1d17",
+      "error": ""
+    },
+    {
+      "scene": 5,
+      "line": "S05-D01",
+      "take": "edba6892c03401a4",
+      "voice_id": "wo6udizrrtpIxWGp2qJk",
+      "decode_ok": true,
+      "sha256": "edba6892c03401a4f6089aa74915c7a945f3ef22500c630d128650f81f5ba892",
+      "error": ""
+    },
+    {
+      "scene": 5,
+      "line": "S05-D02",
+      "take": "92199ee6b9c06e9e",
+      "voice_id": "dmWfLQZJq7wNPv9WmtiM",
+      "decode_ok": true,
+      "sha256": "92199ee6b9c06e9e1c28645d14a852f09a9a6c4b525801db3aa3bcb8a3bb64d7",
+      "error": ""
+    },
+    {
+      "scene": 5,
+      "line": "S05-D03",
+      "take": "128ebbff88f6429f",
+      "voice_id": "wo6udizrrtpIxWGp2qJk",
+      "decode_ok": true,
+      "sha256": "128ebbff88f6429f54741dc0b436a6a070a7b3f9ab5782575a710693cbfc555c",
+      "error": ""
+    },
+    {
+      "scene": 5,
+      "line": "S05-D04",
+      "take": "058a2dab04079c72",
+      "voice_id": "dmWfLQZJq7wNPv9WmtiM",
+      "decode_ok": true,
+      "sha256": "058a2dab04079c72c6f528328a6b9959a66084a9a4745d77b8bcc23f51b47a42",
+      "error": ""
+    },
+    {
+      "scene": 5,
+      "line": "S05-D05",
+      "take": "8620f648a4e1abee",
+      "voice_id": "wo6udizrrtpIxWGp2qJk",
+      "decode_ok": true,
+      "sha256": "8620f648a4e1abeece994a38808d0f6d5f38072b2f8d7e78a1f9cc721f4f8b0e",
+      "error": ""
+    },
+    {
+      "scene": 5,
+      "line": "S05-D06",
+      "take": "a09055fa02125aea",
+      "voice_id": "dmWfLQZJq7wNPv9WmtiM",
+      "decode_ok": true,
+      "sha256": "a09055fa02125aeab7bf10ef01e8fc7d9d1958b899e4d760d35cc4b8e703539d",
+      "error": ""
+    },
+    {
+      "scene": 5,
+      "line": "S05-D07",
+      "take": "08849ce6b81483d9",
+      "voice_id": "wo6udizrrtpIxWGp2qJk",
+      "decode_ok": true,
+      "sha256": "08849ce6b81483d94d7351cca1f64a204eec566926f111bf587d7be2319f0263",
+      "error": ""
+    },
+    {
+      "scene": 5,
+      "line": "S05-D08",
+      "take": "c4ac0341a87d779e",
+      "voice_id": "dmWfLQZJq7wNPv9WmtiM",
+      "decode_ok": true,
+      "sha256": "c4ac0341a87d779e74590b6917d333d8cad24a9a41a322100cfc0772f985fa90",
+      "error": ""
+    },
+    {
+      "scene": 5,
+      "line": "S05-D09",
+      "take": "ce7fbd909311958c",
+      "voice_id": "wo6udizrrtpIxWGp2qJk",
+      "decode_ok": true,
+      "sha256": "ce7fbd909311958c17b5f282c69643c42c488135c37920ac1dd17548999880f5",
+      "error": ""
+    },
+    {
+      "scene": 5,
+      "line": "S05-D10",
+      "take": "e6d9ff89ba19bb1b",
+      "voice_id": "dmWfLQZJq7wNPv9WmtiM",
+      "decode_ok": true,
+      "sha256": "e6d9ff89ba19bb1bb045f976bc836825b3db386567379fb3409b3b076fd7aca4",
+      "error": ""
+    },
+    {
+      "scene": 6,
+      "line": "S06-D01",
+      "take": "0c07e9a2484de1a1",
+      "voice_id": "dmWfLQZJq7wNPv9WmtiM",
+      "decode_ok": true,
+      "sha256": "0c07e9a2484de1a1edaea8181f9c35ad8b5626cfb688a778a483e47dcf622d16",
+      "error": ""
+    },
+    {
+      "scene": 6,
+      "line": "S06-D02",
+      "take": "f76fe0fb27b24564",
+      "voice_id": "DODLEQrClDo8wCz460ld",
+      "decode_ok": true,
+      "sha256": "f76fe0fb27b24564808ac4e0a1bda3502b6d4f55a73610a651f96c77efe36966",
+      "error": ""
+    },
+    {
+      "scene": 6,
+      "line": "S06-D03",
+      "take": "8d6fbe3864d9b8e1",
+      "voice_id": "wo6udizrrtpIxWGp2qJk",
+      "decode_ok": true,
+      "sha256": "8d6fbe3864d9b8e11effeb7da97e45aa1323e1bab76a049e7fb15199ef8f8bb8",
+      "error": ""
+    },
+    {
+      "scene": 6,
+      "line": "S06-N01",
+      "take": "61bdeed850213415",
+      "voice_id": "wo6udizrrtpIxWGp2qJk",
+      "decode_ok": true,
+      "sha256": "61bdeed850213415b22cc12d16fe60cb46c0bf9ee8a612cd8a6a92ce02e42a55",
+      "error": ""
+    },
+    {
+      "scene": 6,
+      "line": "S06-N02",
+      "take": "1189929cda56852f",
+      "voice_id": "4e32WqNVWRquDa1OcRYZ",
+      "decode_ok": true,
+      "sha256": "1189929cda56852f732037c04b918867f85373ddb2ca87a86ec36a898e08dab9",
+      "error": ""
+    },
+    {
+      "scene": 6,
+      "line": "S06-N03",
+      "take": "bc5798e98917113d",
+      "voice_id": "7fBwqIVI6wI1B4MuKqQi",
+      "decode_ok": true,
+      "sha256": "bc5798e98917113d6f49586493c07b3d51e5d2d5073ac9f06fd2812a4d3309b9",
+      "error": ""
+    },
+    {
+      "scene": 6,
+      "line": "S06-N04",
+      "take": "498edf117906ea38",
+      "voice_id": "dmWfLQZJq7wNPv9WmtiM",
+      "decode_ok": true,
+      "sha256": "498edf117906ea38a343553fcc5a6bbf202af155f551bb179fb5fceec8146a05",
+      "error": ""
+    },
+    {
+      "scene": 6,
+      "line": "S06-N05",
+      "take": "eb94c6e205852527",
+      "voice_id": "uq0HIbNZKn11Hs5ifEdd",
+      "decode_ok": true,
+      "sha256": "eb94c6e205852527fe0eb8cea0c7cfc23c805fbdca161e5d8010ab98692fe7cf",
+      "error": ""
+    },
+    {
+      "scene": 7,
+      "line": "S07-R01",
+      "take": "6f73b9efac74b2e2",
+      "voice_id": "dmWfLQZJq7wNPv9WmtiM",
+      "decode_ok": true,
+      "sha256": "6f73b9efac74b2e2d6b5229318a2f403f7763dfd72153cb8aa569d655c81083a",
+      "error": ""
+    },
+    {
+      "scene": 7,
+      "line": "S07-D01",
+      "take": "d6ae632b327c15be",
+      "voice_id": "dmWfLQZJq7wNPv9WmtiM",
+      "decode_ok": true,
+      "sha256": "d6ae632b327c15be4fe4b516bc403568b4133d9d87fb1c9644aef92948e78da9",
+      "error": ""
+    },
+    {
+      "scene": 7,
+      "line": "S07-N01",
+      "take": "1896cdf4be143986",
+      "voice_id": "wo6udizrrtpIxWGp2qJk",
+      "decode_ok": true,
+      "sha256": "1896cdf4be1439865d6243237389fc6979caeb59bea10fb2cc77af371db67031",
+      "error": ""
+    },
+    {
+      "scene": 7,
+      "line": "S07-N02",
+      "take": "b7c17f32158bd8f6",
+      "voice_id": "7fBwqIVI6wI1B4MuKqQi",
+      "decode_ok": true,
+      "sha256": "b7c17f32158bd8f6ba55f60ab108a982b17e8d0a132b7f003c743b5b7409d397",
+      "error": ""
+    },
+    {
+      "scene": 7,
+      "line": "S07-N03",
+      "take": "b3aab994562691c1",
+      "voice_id": "dmWfLQZJq7wNPv9WmtiM",
+      "decode_ok": true,
+      "sha256": "b3aab994562691c198f3e7f87fb01ff9a444af7e560fc1b9b66b801f130df5ad",
+      "error": ""
+    },
+    {
+      "scene": 7,
+      "line": "S07-N04",
+      "take": "8384eafae2893dc5",
+      "voice_id": "4e32WqNVWRquDa1OcRYZ",
+      "decode_ok": true,
+      "sha256": "8384eafae2893dc500a50949fbb157ad05d65968f76f65f144850c48aa303952",
+      "error": ""
+    },
+    {
+      "scene": 7,
+      "line": "S07-N05",
+      "take": "0257bb8af7632878",
+      "voice_id": "uq0HIbNZKn11Hs5ifEdd",
+      "decode_ok": true,
+      "sha256": "0257bb8af76328782f0cfc20eecdd575f44a955843b2537688f6907ed471b49c",
+      "error": ""
+    },
+    {
+      "scene": 7,
+      "line": "S07-D02",
+      "take": "8e393d41783bfd08",
+      "voice_id": "DODLEQrClDo8wCz460ld",
+      "decode_ok": true,
+      "sha256": "8e393d41783bfd0854841c895b0d243b258c61bc3a17d8c4b0fad01f28fc52c3",
+      "error": ""
+    },
+    {
+      "scene": 7,
+      "line": "S07-D03",
+      "take": "1720134f3b33e31a",
+      "voice_id": "uq0HIbNZKn11Hs5ifEdd",
+      "decode_ok": true,
+      "sha256": "1720134f3b33e31a43e60ae90a77fc72a7fe2a0ddf48c91b8b8a8341315b0415",
+      "error": ""
+    },
+    {
+      "scene": 7,
+      "line": "S07-D04",
+      "take": "213c9be1365e667b",
+      "voice_id": "4e32WqNVWRquDa1OcRYZ",
+      "decode_ok": true,
+      "sha256": "213c9be1365e667bf9722da7f72bdd38abd27dcb1ac88f3b7afecc09ae0fa0ad",
+      "error": ""
+    },
+    {
+      "scene": 7,
+      "line": "S07-N06",
+      "take": "a6604956d07e55ee",
+      "voice_id": "dmWfLQZJq7wNPv9WmtiM",
+      "decode_ok": true,
+      "sha256": "a6604956d07e55eebb5fe398d693275c77f3033ecb325ce8baeeded3791e8cda",
+      "error": ""
+    },
+    {
+      "scene": 8,
+      "line": "S08-D01",
+      "take": "4ca116ed5146fe75",
+      "voice_id": "FGY2WhTYpPnrIDTdsKH5",
+      "decode_ok": true,
+      "sha256": "4ca116ed5146fe75705bb9d410e2b5b91a6d6254f4297ee22e953968ea33307d",
+      "error": ""
+    },
+    {
+      "scene": 8,
+      "line": "S08-D02",
+      "take": "fbb98f0cd53d7c50",
+      "voice_id": "dmWfLQZJq7wNPv9WmtiM",
+      "decode_ok": true,
+      "sha256": "fbb98f0cd53d7c50472a1e95c2d84dd94ec4c8fa940abca011bbbc67b3061d6b",
+      "error": ""
+    },
+    {
+      "scene": 8,
+      "line": "S08-N01",
+      "take": "e46ecbd2518d2cea",
+      "voice_id": "FGY2WhTYpPnrIDTdsKH5",
+      "decode_ok": true,
+      "sha256": "e46ecbd2518d2ceaf5299f63f2e3de81963366da7cfe77fa12e037423a691283",
+      "error": ""
+    },
+    {
+      "scene": 8,
+      "line": "S08-N02",
+      "take": "12ca54be99d021f2",
+      "voice_id": "dmWfLQZJq7wNPv9WmtiM",
+      "decode_ok": true,
+      "sha256": "12ca54be99d021f263278cb773ba3a60515a5796710fb4f654ec6949e0ff4b29",
+      "error": ""
+    },
+    {
+      "scene": 8,
+      "line": "S08-D03",
+      "take": "836eca4b98d71261",
+      "voice_id": "wo6udizrrtpIxWGp2qJk",
+      "decode_ok": true,
+      "sha256": "836eca4b98d71261d321c7340baf590c5b86c355e92735d86395703dcb5e9cd0",
+      "error": ""
+    },
+    {
+      "scene": 8,
+      "line": "S08-D04",
+      "take": "f14a35be8a488c63",
+      "voice_id": "dmWfLQZJq7wNPv9WmtiM",
+      "decode_ok": true,
+      "sha256": "f14a35be8a488c63b51dbdeeae5b080f4341a135a9d2e257a12150d656dc06bb",
+      "error": ""
+    },
+    {
+      "scene": 8,
+      "line": "S08-N03",
+      "take": "a3831c3b429ab511",
+      "voice_id": "wo6udizrrtpIxWGp2qJk",
+      "decode_ok": true,
+      "sha256": "a3831c3b429ab511e130482307a48a005eeabfff5db0c448f49faa9c13bc16cc",
+      "error": ""
+    },
+    {
+      "scene": 8,
+      "line": "S08-N04",
+      "take": "df748da2d9b9d8e6",
+      "voice_id": "dmWfLQZJq7wNPv9WmtiM",
+      "decode_ok": true,
+      "sha256": "df748da2d9b9d8e69ae4c613b30e422ff82b1947d9fb67534436b0d750f1a1db",
+      "error": ""
+    },
+    {
+      "scene": 9,
+      "line": "S09-N01",
+      "take": "fc3d46871a6b3142",
+      "voice_id": "wo6udizrrtpIxWGp2qJk",
+      "decode_ok": true,
+      "sha256": "fc3d46871a6b314267d808690f9c4c60a1bc4d75d4b388bd291c785092e41247",
+      "error": ""
+    },
+    {
+      "scene": 9,
+      "line": "S09-N02",
+      "take": "2b95f82dcdc7bfb1",
+      "voice_id": "7fBwqIVI6wI1B4MuKqQi",
+      "decode_ok": true,
+      "sha256": "2b95f82dcdc7bfb18275d4ec7832364493a0ea454e347e095a46ff326623e0af",
+      "error": ""
+    },
+    {
+      "scene": 9,
+      "line": "S09-D01",
+      "take": "329123d0558426cf",
+      "voice_id": "7fBwqIVI6wI1B4MuKqQi",
+      "decode_ok": true,
+      "sha256": "329123d0558426cfdd7cc828f38f68362cd88ab7d63b7092c702cb9daad1d707",
+      "error": ""
+    },
+    {
+      "scene": 9,
+      "line": "S09-D02",
+      "take": "4882a090655333a3",
+      "voice_id": "wo6udizrrtpIxWGp2qJk",
+      "decode_ok": true,
+      "sha256": "4882a090655333a3e13722fc8f12e4923374bbcba48f49944db46d8a98de2abf",
+      "error": ""
+    },
+    {
+      "scene": 9,
+      "line": "S09-D03",
+      "take": "b899d5483b8c29d4",
+      "voice_id": "4e32WqNVWRquDa1OcRYZ",
+      "decode_ok": true,
+      "sha256": "b899d5483b8c29d44e092474a914ad53ecbd1c567e080efa5075f94d68806f88",
+      "error": ""
+    },
+    {
+      "scene": 9,
+      "line": "S09-N03",
+      "take": "2c7628eb3a46987a",
+      "voice_id": "4e32WqNVWRquDa1OcRYZ",
+      "decode_ok": true,
+      "sha256": "2c7628eb3a46987ae627c32ded66f37132f4d6cfb0b7a065b8091834ebe73300",
+      "error": ""
+    },
+    {
+      "scene": 9,
+      "line": "S09-N04",
+      "take": "ca99e8842f825ec3",
+      "voice_id": "uq0HIbNZKn11Hs5ifEdd",
+      "decode_ok": true,
+      "sha256": "ca99e8842f825ec3ce7c1b1b79fbc0ec93052a01650eee5db2d546764700da22",
+      "error": ""
+    },
+    {
+      "scene": 9,
+      "line": "S09-N05",
+      "take": "3ba42e1a512f5196",
+      "voice_id": "dmWfLQZJq7wNPv9WmtiM",
+      "decode_ok": true,
+      "sha256": "3ba42e1a512f5196c5588306986ecd4671e4f4992c6ace2ce6ae7dbd09faef55",
+      "error": ""
+    },
+    {
+      "scene": 9,
+      "line": "S09-N06",
+      "take": "04527479172aee89",
+      "voice_id": "wo6udizrrtpIxWGp2qJk",
+      "decode_ok": true,
+      "sha256": "04527479172aee892e6f16a432be50cdd5ebc179b15ba35de03020b296d7ff37",
+      "error": ""
+    },
+    {
+      "scene": 9,
+      "line": "S09-N07",
+      "take": "d03e6a27697fd02c",
+      "voice_id": "7fBwqIVI6wI1B4MuKqQi",
+      "decode_ok": true,
+      "sha256": "d03e6a27697fd02ceb802a0c274724f489e45583402e3e7ecf0a1ddbd12ca287",
+      "error": ""
+    },
+    {
+      "scene": 9,
+      "line": "S09-N08",
+      "take": "54d3f54bf9bb70c6",
+      "voice_id": "4e32WqNVWRquDa1OcRYZ",
+      "decode_ok": true,
+      "sha256": "54d3f54bf9bb70c695349bc028fbf520cbad9329b74ec005ad5208decda3fa89",
+      "error": ""
+    },
+    {
+      "scene": 9,
+      "line": "S09-D04",
+      "take": "b92068c6159d951a",
+      "voice_id": "dmWfLQZJq7wNPv9WmtiM",
+      "decode_ok": true,
+      "sha256": "b92068c6159d951a77ecfe0b227fc869cc69f487f6e363625e2ca9c2cd766254",
+      "error": ""
+    },
+    {
+      "scene": 10,
+      "line": "S10-N01",
+      "take": "db6597ecd9b201e2",
+      "voice_id": "dmWfLQZJq7wNPv9WmtiM",
+      "decode_ok": true,
+      "sha256": "db6597ecd9b201e238bdf9b96db0018ea00544fb2b0da662f31da4adbc6a72b6",
+      "error": ""
+    },
+    {
+      "scene": 10,
+      "line": "S10-N02",
+      "take": "da1e0f647ec7ff9d",
+      "voice_id": "wo6udizrrtpIxWGp2qJk",
+      "decode_ok": true,
+      "sha256": "da1e0f647ec7ff9de5150ffc97a2fac24e17d5b978678e3e53359057bc623dd9",
+      "error": ""
+    },
+    {
+      "scene": 10,
+      "line": "S10-N03",
+      "take": "71ca4e41423c7beb",
+      "voice_id": "dmWfLQZJq7wNPv9WmtiM",
+      "decode_ok": true,
+      "sha256": "71ca4e41423c7beb5deae552a8d3b64b41b9db6e2ac95b883b2ec0da8c62a0c2",
+      "error": ""
+    },
+    {
+      "scene": 10,
+      "line": "S10-D01",
+      "take": "fd96d71e32f49eb7",
+      "voice_id": "4e32WqNVWRquDa1OcRYZ",
+      "decode_ok": true,
+      "sha256": "fd96d71e32f49eb764bd96792446fa1091cd43390cbe51f74fabed0f5e08188b",
+      "error": ""
+    },
+    {
+      "scene": 10,
+      "line": "S10-D02",
+      "take": "ddf261867a51a7d6",
+      "voice_id": "wo6udizrrtpIxWGp2qJk",
+      "decode_ok": true,
+      "sha256": "ddf261867a51a7d61f50a2988f6592c9a418905f31198637b16cae683b1f916a",
+      "error": ""
+    },
+    {
+      "scene": 10,
+      "line": "S10-D03",
+      "take": "b929fd51a13f83b7",
+      "voice_id": "4e32WqNVWRquDa1OcRYZ",
+      "decode_ok": true,
+      "sha256": "b929fd51a13f83b71df43b75f950e6c1ecde25423a192f66f1fb665fcda85ebd",
+      "error": ""
+    },
+    {
+      "scene": 10,
+      "line": "S10-N04",
+      "take": "bcefc2ff4d6ce6b1",
+      "voice_id": "4e32WqNVWRquDa1OcRYZ",
+      "decode_ok": true,
+      "sha256": "bcefc2ff4d6ce6b131eb004a580a049a84c114214b6270a13281f39260ce661b",
+      "error": ""
+    },
+    {
+      "scene": 10,
+      "line": "S10-N05",
+      "take": "22025f4d986f4fe3",
+      "voice_id": "uq0HIbNZKn11Hs5ifEdd",
+      "decode_ok": true,
+      "sha256": "22025f4d986f4fe33f164d592564064b90a758b030587e2eebb131957f1477a3",
+      "error": ""
+    },
+    {
+      "scene": 10,
+      "line": "S10-D04",
+      "take": "9fe222f6f7cf62ee",
+      "voice_id": "uq0HIbNZKn11Hs5ifEdd",
+      "decode_ok": true,
+      "sha256": "9fe222f6f7cf62eecebfad54a76c21c1aef1bfb8c9c5c1db324862ffc4f9d82f",
+      "error": ""
+    },
+    {
+      "scene": 10,
+      "line": "S10-N06",
+      "take": "8747ebdec95902a6",
+      "voice_id": "7fBwqIVI6wI1B4MuKqQi",
+      "decode_ok": true,
+      "sha256": "8747ebdec95902a6b64c50e3057e2095646caf207d41ca6125993f6b33b1fb6e",
+      "error": ""
+    },
+    {
+      "scene": 10,
+      "line": "S10-N07",
+      "take": "55a50f71f6df6a18",
+      "voice_id": "4e32WqNVWRquDa1OcRYZ",
+      "decode_ok": true,
+      "sha256": "55a50f71f6df6a18a82603ea0c92d9bcdc7e93685e22a04a8428b92d28095aba",
+      "error": ""
+    },
+    {
+      "scene": 10,
+      "line": "S10-N08",
+      "take": "b4267eb5ae0e3b02",
+      "voice_id": "wo6udizrrtpIxWGp2qJk",
+      "decode_ok": true,
+      "sha256": "b4267eb5ae0e3b020c44a739edb01a0dae63d9d660362e46273865435c8271d7",
+      "error": ""
+    },
+    {
+      "scene": 11,
+      "line": "S11-D01",
+      "take": "3464e6832e10af8c",
+      "voice_id": "wo6udizrrtpIxWGp2qJk",
+      "decode_ok": true,
+      "sha256": "3464e6832e10af8c37b0bdddeceddfd56d23764e9789f35285aea3f529243ee3",
+      "error": ""
+    },
+    {
+      "scene": 11,
+      "line": "S11-D02",
+      "take": "b3d8cc9ae3d1965f",
+      "voice_id": "uq0HIbNZKn11Hs5ifEdd",
+      "decode_ok": true,
+      "sha256": "b3d8cc9ae3d1965f0e6a210fb3a960ca29d60c81bc96326b9d9e233c3df2b866",
+      "error": ""
+    },
+    {
+      "scene": 11,
+      "line": "S11-N01",
+      "take": "a34edd18b9f4fdea",
+      "voice_id": "7fBwqIVI6wI1B4MuKqQi",
+      "decode_ok": true,
+      "sha256": "a34edd18b9f4fdead36454d3693441ee40379d00fc3bbf749131f10b0b03faaf",
+      "error": ""
+    },
+    {
+      "scene": 11,
+      "line": "S11-N02",
+      "take": "fddcc2026c0c99a7",
+      "voice_id": "wo6udizrrtpIxWGp2qJk",
+      "decode_ok": true,
+      "sha256": "fddcc2026c0c99a70bad8c840142a19c1320ad93b8129e6d8f917f8c430f2327",
+      "error": ""
+    },
+    {
+      "scene": 11,
+      "line": "S11-N03",
+      "take": "1e9fba7af5927830",
+      "voice_id": "uq0HIbNZKn11Hs5ifEdd",
+      "decode_ok": true,
+      "sha256": "1e9fba7af5927830c9e28d7418930d443278082744351c5d481a2c00cd1daecf",
+      "error": ""
+    },
+    {
+      "scene": 11,
+      "line": "S11-N04",
+      "take": "ad8269894cac3ce0",
+      "voice_id": "dmWfLQZJq7wNPv9WmtiM",
+      "decode_ok": true,
+      "sha256": "ad8269894cac3ce05c1f6abeb95c179c821c363fc3d84a2837ea45ec9107ddb7",
+      "error": ""
+    },
+    {
+      "scene": 11,
+      "line": "S11-N05",
+      "take": "2fdb7f40a26a5bc8",
+      "voice_id": "4e32WqNVWRquDa1OcRYZ",
+      "decode_ok": true,
+      "sha256": "2fdb7f40a26a5bc8b6822f7772cb88e2e37dd8620424d10b736e60246d491764",
+      "error": ""
+    },
+    {
+      "scene": 11,
+      "line": "S11-D03",
+      "take": "e6f172e52b3c3411",
+      "voice_id": "7fBwqIVI6wI1B4MuKqQi",
+      "decode_ok": true,
+      "sha256": "e6f172e52b3c3411883bd2a44f2fe14ad008c1a72d08345e8ce841ce98d8ea77",
+      "error": ""
+    },
+    {
+      "scene": 11,
+      "line": "S11-N06",
+      "take": "16927ffbda7ff041",
+      "voice_id": "7fBwqIVI6wI1B4MuKqQi",
+      "decode_ok": true,
+      "sha256": "16927ffbda7ff041e0e26996c0a7c27ca0aa955179ca98956e30f9349c6dc5f8",
+      "error": ""
+    },
+    {
+      "scene": 11,
+      "line": "S11-D04",
+      "take": "c98d73c6d8808b22",
+      "voice_id": "dmWfLQZJq7wNPv9WmtiM",
+      "decode_ok": true,
+      "sha256": "c98d73c6d8808b22958cf9b650f4a52eb816cc7ac999311b8858df0a410e1362",
+      "error": ""
+    },
+    {
+      "scene": 11,
+      "line": "S11-N07",
+      "take": "bb7c162162d188e9",
+      "voice_id": "dmWfLQZJq7wNPv9WmtiM",
+      "decode_ok": true,
+      "sha256": "bb7c162162d188e95bf57e732a7115135fc4dd4aea62b817f33691c80edad8b8",
+      "error": ""
+    },
+    {
+      "scene": 12,
+      "line": "S12-N01",
+      "take": "3413892bc8fc111c",
+      "voice_id": "4e32WqNVWRquDa1OcRYZ",
+      "decode_ok": true,
+      "sha256": "3413892bc8fc111cb26a4c4256d45d450149f4056e679caafb4d83b1290f3d9b",
+      "error": ""
+    },
+    {
+      "scene": 12,
+      "line": "S12-N02",
+      "take": "2a6946b7672583be",
+      "voice_id": "wo6udizrrtpIxWGp2qJk",
+      "decode_ok": true,
+      "sha256": "2a6946b7672583be50e095c8c7f016bc9b2254aa1296616dd217929db7d85e0c",
+      "error": ""
+    },
+    {
+      "scene": 12,
+      "line": "S12-D01",
+      "take": "4cecd882ff015d2a",
+      "voice_id": "TxWZERZ5Hc6h9dGxVmXa",
+      "decode_ok": true,
+      "sha256": "4cecd882ff015d2aad6a5aa4c10a1958e5358345d7bdb3587af5221e4d4d8f03",
+      "error": ""
+    },
+    {
+      "scene": 12,
+      "line": "S12-D02",
+      "take": "1aa0ab1c0f9ea6f6",
+      "voice_id": "TxWZERZ5Hc6h9dGxVmXa",
+      "decode_ok": true,
+      "sha256": "1aa0ab1c0f9ea6f61cc8b33e83c789cfbec26d478d3090aeeab389bafcb2d2a4",
+      "error": ""
+    },
+    {
+      "scene": 12,
+      "line": "S12-D03",
+      "take": "70c521b0d6d4ab79",
+      "voice_id": "lAqElvydqyTzitpwAdj6",
+      "decode_ok": true,
+      "sha256": "70c521b0d6d4ab79214d8c737e65e5dac94ee267fad43949b876a699af95c3b5",
+      "error": ""
+    },
+    {
+      "scene": 12,
+      "line": "S12-N03",
+      "take": "472f6aee019817a2",
+      "voice_id": "7fBwqIVI6wI1B4MuKqQi",
+      "decode_ok": true,
+      "sha256": "472f6aee019817a2eba97eb172599e88077e2a090ee0d51e0ee0f72634e00c64",
+      "error": ""
+    },
+    {
+      "scene": 12,
+      "line": "S12-N04",
+      "take": "4619ceac529a88b5",
+      "voice_id": "uq0HIbNZKn11Hs5ifEdd",
+      "decode_ok": true,
+      "sha256": "4619ceac529a88b567b9cbc3b0c9bdf9e7705fcf23f83c23423d5ba972b8d2d3",
+      "error": ""
+    },
+    {
+      "scene": 13,
+      "line": "S13-D01",
+      "take": "e45438d7534d9d69",
+      "voice_id": "wo6udizrrtpIxWGp2qJk",
+      "decode_ok": true,
+      "sha256": "e45438d7534d9d692a6ad3d5773c5c6aa3fffb95c7d86bf07fa3f8bc718890bc",
+      "error": ""
+    },
+    {
+      "scene": 13,
+      "line": "S13-N01",
+      "take": "4260409ca795e92b",
+      "voice_id": "4e32WqNVWRquDa1OcRYZ",
+      "decode_ok": true,
+      "sha256": "4260409ca795e92b1f7a684a584ff1c874548588265912425dfb2b0a36686830",
+      "error": ""
+    },
+    {
+      "scene": 13,
+      "line": "S13-D02",
+      "take": "d10adc6b07419f85",
+      "voice_id": "dmWfLQZJq7wNPv9WmtiM",
+      "decode_ok": true,
+      "sha256": "d10adc6b07419f85a1dec35490b8e0504ff6eb3ecc0f76c6736283136164d388",
+      "error": ""
+    },
+    {
+      "scene": 13,
+      "line": "S13-D03",
+      "take": "84d000a4d86230d4",
+      "voice_id": "7fBwqIVI6wI1B4MuKqQi",
+      "decode_ok": true,
+      "sha256": "84d000a4d86230d419ddf4f3efd709d369c0aa558b9a50237639aa96a76880e9",
+      "error": ""
+    },
+    {
+      "scene": 13,
+      "line": "S13-D04",
+      "take": "f4ea27cdcacd8155",
+      "voice_id": "dmWfLQZJq7wNPv9WmtiM",
+      "decode_ok": true,
+      "sha256": "f4ea27cdcacd81556db266a8cbdfb06301ff03c165c91438c1f696dcd548a87a",
+      "error": ""
+    },
+    {
+      "scene": 13,
+      "line": "S13-D05",
+      "take": "a30e4eea07a0f675",
+      "voice_id": "7fBwqIVI6wI1B4MuKqQi",
+      "decode_ok": true,
+      "sha256": "a30e4eea07a0f67523d303d82a9d745df619c1e9b6f692844b82cb6c6d1bf499",
+      "error": ""
+    },
+    {
+      "scene": 13,
+      "line": "S13-N02",
+      "take": "198eceaf131e18c2",
+      "voice_id": "wo6udizrrtpIxWGp2qJk",
+      "decode_ok": true,
+      "sha256": "198eceaf131e18c2e2cc3a9adf1c4a389ad252426c9ac0dfcc4f5914f0f3a33a",
+      "error": ""
+    },
+    {
+      "scene": 13,
+      "line": "S13-N03",
+      "take": "42018be204960d3e",
+      "voice_id": "7fBwqIVI6wI1B4MuKqQi",
+      "decode_ok": true,
+      "sha256": "42018be204960d3e30613ee299b7d5694f8b0ad2bd3a7c22890f55f58b0d78e2",
+      "error": ""
+    },
+    {
+      "scene": 13,
+      "line": "S13-N04",
+      "take": "8d9a9a71e44a3753",
+      "voice_id": "dmWfLQZJq7wNPv9WmtiM",
+      "decode_ok": true,
+      "sha256": "8d9a9a71e44a3753d5d15c0c85357b8e257e557da8f8c4d138610bcca20c9f70",
+      "error": ""
+    },
+    {
+      "scene": 13,
+      "line": "S13-N05",
+      "take": "0e4b9cfe43de01e2",
+      "voice_id": "4e32WqNVWRquDa1OcRYZ",
+      "decode_ok": true,
+      "sha256": "0e4b9cfe43de01e2595d52f1247710de2b3146b683fcc20c9924b9ae8956bda2",
+      "error": ""
+    },
+    {
+      "scene": 14,
+      "line": "S14-D01",
+      "take": "469b752a7b860b9d",
+      "voice_id": "bwCXcoVxWNYMlC6Esa8u",
+      "decode_ok": true,
+      "sha256": "469b752a7b860b9def304735b62e2244d26c37147bdeffae1a4ec1bca05cfd0d",
+      "error": ""
+    },
+    {
+      "scene": 14,
+      "line": "S14-D02",
+      "take": "4569a75e333999b8",
+      "voice_id": "cjVigY5qzO86Huf0OWal",
+      "decode_ok": true,
+      "sha256": "4569a75e333999b812ca14ca575e936d4e47a5192ce3e19265cef311268478d9",
+      "error": ""
+    },
+    {
+      "scene": 14,
+      "line": "S14-N01",
+      "take": "6c8e39ae9ea1ece8",
+      "voice_id": "cjVigY5qzO86Huf0OWal",
+      "decode_ok": true,
+      "sha256": "6c8e39ae9ea1ece8bbf05320d81bf13d52f0fe08aaf620d5865aa768735ec620",
+      "error": ""
+    },
+    {
+      "scene": 14,
+      "line": "S14-N02",
+      "take": "e83e32795806604d",
+      "voice_id": "bwCXcoVxWNYMlC6Esa8u",
+      "decode_ok": true,
+      "sha256": "e83e32795806604d0cf4ad9c1b6acc9cc17416c214fdb36cc2d0fedf45a9065c",
+      "error": ""
+    },
+    {
+      "scene": 14,
+      "line": "S14-D03",
+      "take": "7f788a73a31c56f6",
+      "voice_id": "bwCXcoVxWNYMlC6Esa8u",
+      "decode_ok": true,
+      "sha256": "7f788a73a31c56f61b69d43f6860f8f0786bffde1a033b4414d2b4c09bb8d79e",
+      "error": ""
+    },
+    {
+      "scene": 14,
+      "line": "S14-N03",
+      "take": "7e09d41132107a5b",
+      "voice_id": "cjVigY5qzO86Huf0OWal",
+      "decode_ok": true,
+      "sha256": "7e09d41132107a5b62decbd2902c66e2d23d466085f679cf66fa42fb27dd991f",
+      "error": ""
+    },
+    {
+      "scene": 14,
+      "line": "S14-D04",
+      "take": "4865934a58d24901",
+      "voice_id": "cjVigY5qzO86Huf0OWal",
+      "decode_ok": true,
+      "sha256": "4865934a58d249019cda3406406b7afda5017009efc76c26126c0dbd0aa77f58",
+      "error": ""
+    },
+    {
+      "scene": 14,
+      "line": "S14-N04",
+      "take": "c3840d81dd7338e5",
+      "voice_id": "bwCXcoVxWNYMlC6Esa8u",
+      "decode_ok": true,
+      "sha256": "c3840d81dd7338e52a53551bf21ef2cba7719a20cda208a80eba6c2160f88c71",
+      "error": ""
+    },
+    {
+      "scene": 14,
+      "line": "S14-N05",
+      "take": "47002c871e15dd46",
+      "voice_id": "cjVigY5qzO86Huf0OWal",
+      "decode_ok": true,
+      "sha256": "47002c871e15dd4650ef3ce83dbd38f62571839e195594e85a4a772116382a8f",
+      "error": ""
+    },
+    {
+      "scene": 14,
+      "line": "S14-D05",
+      "take": "dd6d274e0851f433",
+      "voice_id": "bwCXcoVxWNYMlC6Esa8u",
+      "decode_ok": true,
+      "sha256": "dd6d274e0851f4337b04999f61cd7e3c4e64c41194aed5d9123a5432350bf285",
+      "error": ""
+    },
+    {
+      "scene": 14,
+      "line": "S14-N06",
+      "take": "bc54c274fc27ddfb",
+      "voice_id": "bwCXcoVxWNYMlC6Esa8u",
+      "decode_ok": true,
+      "sha256": "bc54c274fc27ddfb18a405f6027e93d1a95461152e3ead5c0c8c2ec36c65b223",
+      "error": ""
+    },
+    {
+      "scene": 15,
+      "line": "S15-N01",
+      "take": "a8835f2075d11f7d",
+      "voice_id": "4e32WqNVWRquDa1OcRYZ",
+      "decode_ok": true,
+      "sha256": "a8835f2075d11f7d4200a975918cd1adf346f8e7f0036316ce77076b6a7722f3",
+      "error": ""
+    },
+    {
+      "scene": 15,
+      "line": "S15-N02",
+      "take": "c11b1932b0d0a9fb",
+      "voice_id": "7fBwqIVI6wI1B4MuKqQi",
+      "decode_ok": true,
+      "sha256": "c11b1932b0d0a9fbda0665afdb8ebc92c8a67243674a637595d530336325744a",
+      "error": ""
+    },
+    {
+      "scene": 15,
+      "line": "S15-D01",
+      "take": "d016188888da9c5f",
+      "voice_id": "wo6udizrrtpIxWGp2qJk",
+      "decode_ok": true,
+      "sha256": "d016188888da9c5ff951d00f641d8de0f27219a0500328a9e8491219bfa86d9a",
+      "error": ""
+    },
+    {
+      "scene": 15,
+      "line": "S15-D02",
+      "take": "0c17f02e49e121d2",
+      "voice_id": "dmWfLQZJq7wNPv9WmtiM",
+      "decode_ok": true,
+      "sha256": "0c17f02e49e121d2810b76af278c9948f2336f9b6f19dbab9ac347f0791ed19a",
+      "error": ""
+    },
+    {
+      "scene": 15,
+      "line": "S15-N03",
+      "take": "30fbf091eaaf2696",
+      "voice_id": "dmWfLQZJq7wNPv9WmtiM",
+      "decode_ok": true,
+      "sha256": "30fbf091eaaf26961cd50b084b0d1fc5446f3cb46bd21501db21a5ab4e8b50a5",
+      "error": ""
+    },
+    {
+      "scene": 15,
+      "line": "S15-D03",
+      "take": "8c804900809d1424",
+      "voice_id": "4e32WqNVWRquDa1OcRYZ",
+      "decode_ok": true,
+      "sha256": "8c804900809d1424e331ad896355bdbaecbf962f2d10add9a25ae4f4d23143d6",
+      "error": ""
+    },
+    {
+      "scene": 15,
+      "line": "S15-D04",
+      "take": "0d95f7a070186b4c",
+      "voice_id": "dmWfLQZJq7wNPv9WmtiM",
+      "decode_ok": true,
+      "sha256": "0d95f7a070186b4c12c9ca6b616cbb86b376fd92a5e851a38038089b2287064a",
+      "error": ""
+    },
+    {
+      "scene": 15,
+      "line": "S15-N04",
+      "take": "48ab3426655ce481",
+      "voice_id": "wo6udizrrtpIxWGp2qJk",
+      "decode_ok": true,
+      "sha256": "48ab3426655ce481cd8206320d8ef8d83b74f9c84313b5149f880be4d4682092",
+      "error": ""
+    },
+    {
+      "scene": 15,
+      "line": "S15-N05",
+      "take": "1d8c3df2f5733995",
+      "voice_id": "dmWfLQZJq7wNPv9WmtiM",
+      "decode_ok": true,
+      "sha256": "1d8c3df2f5733995de47b55b60b6825a337d80b237b47b76dc8eba04641dcd9c",
+      "error": ""
+    },
+    {
+      "scene": 15,
+      "line": "S15-N06",
+      "take": "8afa461f91d4f78e",
+      "voice_id": "uq0HIbNZKn11Hs5ifEdd",
+      "decode_ok": true,
+      "sha256": "8afa461f91d4f78eda65daede8dac0cab4dac26e1bd70757a828a79a184770e8",
+      "error": ""
+    },
+    {
+      "scene": 16,
+      "line": "S16-D01",
+      "take": "09786d5724d59f8f",
+      "voice_id": "TxWZERZ5Hc6h9dGxVmXa",
+      "decode_ok": true,
+      "sha256": "09786d5724d59f8f81ed781152d9825c0793810d5d214405e3a85251e9a168e7",
+      "error": ""
+    },
+    {
+      "scene": 16,
+      "line": "S16-N01",
+      "take": "2fbd6cdb5fe64ac6",
+      "voice_id": "uq0HIbNZKn11Hs5ifEdd",
+      "decode_ok": true,
+      "sha256": "2fbd6cdb5fe64ac66cc33733fc87f9735d973baee0e0a0c07ec2e1cedf1a9c14",
+      "error": ""
+    },
+    {
+      "scene": 16,
+      "line": "S16-D02",
+      "take": "0cc549cb3c99e4da",
+      "voice_id": "4e32WqNVWRquDa1OcRYZ",
+      "decode_ok": true,
+      "sha256": "0cc549cb3c99e4da424797cf9e5a92a31a4eb169f075b84f768a636b48ab03d0",
+      "error": ""
+    },
+    {
+      "scene": 16,
+      "line": "S16-D03",
+      "take": "ef2016d40384f274",
+      "voice_id": "wo6udizrrtpIxWGp2qJk",
+      "decode_ok": true,
+      "sha256": "ef2016d40384f274c6604424516735b609f40c96b224492878e3a49df3d12c0f",
+      "error": ""
+    },
+    {
+      "scene": 16,
+      "line": "S16-D04",
+      "take": "c0454ffd2e923ff8",
+      "voice_id": "4e32WqNVWRquDa1OcRYZ",
+      "decode_ok": true,
+      "sha256": "c0454ffd2e923ff8e143c8e5be2d9e6d9aee2fa862a41316e5111e35d1170063",
+      "error": ""
+    },
+    {
+      "scene": 16,
+      "line": "S16-N02",
+      "take": "61b217958605ec5a",
+      "voice_id": "7fBwqIVI6wI1B4MuKqQi",
+      "decode_ok": true,
+      "sha256": "61b217958605ec5a5dfadb6c01d5d7dfda0c33b128779054cef9abdbadd6c782",
+      "error": ""
+    },
+    {
+      "scene": 16,
+      "line": "S16-N03",
+      "take": "72960c26affc1a41",
+      "voice_id": "wo6udizrrtpIxWGp2qJk",
+      "decode_ok": true,
+      "sha256": "72960c26affc1a4154465c08a4afd32de7f9772c43394cbe7dcf76560b4b4178",
+      "error": ""
+    },
+    {
+      "scene": 16,
+      "line": "S16-N04",
+      "take": "9623556637b30b4e",
+      "voice_id": "dmWfLQZJq7wNPv9WmtiM",
+      "decode_ok": true,
+      "sha256": "9623556637b30b4e0d43e549f2a4fee045ecd3de81ff13fd8f8bdf7e3c7792e7",
+      "error": ""
+    },
+    {
+      "scene": 16,
+      "line": "S16-N05",
+      "take": "aafebffc4c1aeb31",
+      "voice_id": "uq0HIbNZKn11Hs5ifEdd",
+      "decode_ok": true,
+      "sha256": "aafebffc4c1aeb3193b4327cf4d0d6842850fcb762a0250594b9a9ed09ca2cd4",
+      "error": ""
+    },
+    {
+      "scene": 17,
+      "line": "S17-N01",
+      "take": "92aa679662b38e60",
+      "voice_id": "7fBwqIVI6wI1B4MuKqQi",
+      "decode_ok": true,
+      "sha256": "92aa679662b38e601fcdb95cfcb57df5da2e22f66678b48cfb35b1eadc214db4",
+      "error": ""
+    },
+    {
+      "scene": 17,
+      "line": "S17-N02",
+      "take": "397205a4ce693900",
+      "voice_id": "4e32WqNVWRquDa1OcRYZ",
+      "decode_ok": true,
+      "sha256": "397205a4ce69390061e746893cec91e58d411c36e2993c6fb86e1932e094f9d7",
+      "error": ""
+    },
+    {
+      "scene": 17,
+      "line": "S17-N03",
+      "take": "faed1cedf45e85af",
+      "voice_id": "dmWfLQZJq7wNPv9WmtiM",
+      "decode_ok": true,
+      "sha256": "faed1cedf45e85af999161fa8aef9d32f5510f45c953d7baee58f7141c71a72c",
+      "error": ""
+    },
+    {
+      "scene": 17,
+      "line": "S17-D01",
+      "take": "0562bb16c553237f",
+      "voice_id": "onwK4e9ZLuTAKqWW03F9",
+      "decode_ok": true,
+      "sha256": "0562bb16c553237f1d35febd984b1bda79cbfca08fecb40585f28771624ee22c",
+      "error": ""
+    },
+    {
+      "scene": 17,
+      "line": "S17-N04",
+      "take": "365b81d87408287b",
+      "voice_id": "onwK4e9ZLuTAKqWW03F9",
+      "decode_ok": true,
+      "sha256": "365b81d87408287be33e06e9311498eb8bceb4c39e22341ce557fde546f33547",
+      "error": ""
+    },
+    {
+      "scene": 17,
+      "line": "S17-D02",
+      "take": "75c6c372ee9edde2",
+      "voice_id": "wo6udizrrtpIxWGp2qJk",
+      "decode_ok": true,
+      "sha256": "75c6c372ee9edde2567f6fd27cdb21c5a96cc50891311b337d56596ebe02a1a9",
+      "error": ""
+    },
+    {
+      "scene": 17,
+      "line": "S17-D03",
+      "take": "4386faf7b70959ca",
+      "voice_id": "7fBwqIVI6wI1B4MuKqQi",
+      "decode_ok": true,
+      "sha256": "4386faf7b70959ca06b3ccd7d2b587147f59973674e0157e396b8e721d4bb951",
+      "error": ""
+    },
+    {
+      "scene": 17,
+      "line": "S17-D04",
+      "take": "b092cf3ae8f2f906",
+      "voice_id": "dmWfLQZJq7wNPv9WmtiM",
+      "decode_ok": true,
+      "sha256": "b092cf3ae8f2f906564192e18e39d15b33416723a939ff39552bd8214e81a540",
+      "error": ""
+    },
+    {
+      "scene": 17,
+      "line": "S17-N05",
+      "take": "db72d6b94e87709d",
+      "voice_id": "wo6udizrrtpIxWGp2qJk",
+      "decode_ok": true,
+      "sha256": "db72d6b94e87709dae2b34952242af38395faf9e13fb43fc47b66550c5259d1f",
+      "error": ""
+    },
+    {
+      "scene": 18,
+      "line": "S18-D01",
+      "take": "b87f6ede3f46c5a3",
+      "voice_id": "wo6udizrrtpIxWGp2qJk",
+      "decode_ok": true,
+      "sha256": "b87f6ede3f46c5a3e871955f5170a0726d36a0b945f7ef5c72d5a73eb3707eb9",
+      "error": ""
+    },
+    {
+      "scene": 18,
+      "line": "S18-N01",
+      "take": "3e21d7eac9442658",
+      "voice_id": "b5RPB35vTODb3BEmR3Fc",
+      "decode_ok": true,
+      "sha256": "3e21d7eac94426581814871f4bf96f5ef091faf85fca78c4d011d48c52f1319e",
+      "error": ""
+    },
+    {
+      "scene": 18,
+      "line": "S18-N02",
+      "take": "5e3af31f4601d9eb",
+      "voice_id": "dmWfLQZJq7wNPv9WmtiM",
+      "decode_ok": true,
+      "sha256": "5e3af31f4601d9ebb079aee83d9a1fc60b346a17c17ab8bbaa563c7ed3bebd6d",
+      "error": ""
+    },
+    {
+      "scene": 18,
+      "line": "S18-D02",
+      "take": "62aef5861532c318",
+      "voice_id": "dmWfLQZJq7wNPv9WmtiM",
+      "decode_ok": true,
+      "sha256": "62aef5861532c318635f5ccaa30290a1068b03dafc357cf39b8b5280f3dd875c",
+      "error": ""
+    },
+    {
+      "scene": 18,
+      "line": "S18-D03",
+      "take": "f29e3aa48a4d82ab",
+      "voice_id": "7fBwqIVI6wI1B4MuKqQi",
+      "decode_ok": true,
+      "sha256": "f29e3aa48a4d82ab48be7b31a7b7cba7c6a97dd379f83d2d12a5bacd25c020fd",
+      "error": ""
+    },
+    {
+      "scene": 18,
+      "line": "S18-D04",
+      "take": "90ab06b780b7dbd4",
+      "voice_id": "4e32WqNVWRquDa1OcRYZ",
+      "decode_ok": true,
+      "sha256": "90ab06b780b7dbd4f9ab20b320fdcad007ca937b42dd134883966a37da1118fa",
+      "error": ""
+    },
+    {
+      "scene": 18,
+      "line": "S18-N03",
+      "take": "0fc3ec9c6273dfda",
+      "voice_id": "4e32WqNVWRquDa1OcRYZ",
+      "decode_ok": true,
+      "sha256": "0fc3ec9c6273dfda931b8655f855708ea1cb1a0e14a393c592ed0dd3859655fb",
+      "error": ""
+    },
+    {
+      "scene": 18,
+      "line": "S18-N04",
+      "take": "9b0dc58ecd21b9a0",
+      "voice_id": "7fBwqIVI6wI1B4MuKqQi",
+      "decode_ok": true,
+      "sha256": "9b0dc58ecd21b9a08ebb49d2ebcbfc5eedf0c7bddd0a9c52e8aead5f3cb2ca1a",
+      "error": ""
+    },
+    {
+      "scene": 19,
+      "line": "S19-D01",
+      "take": "c3d0f607e466100b",
+      "voice_id": "4e32WqNVWRquDa1OcRYZ",
+      "decode_ok": true,
+      "sha256": "c3d0f607e466100b8e5241a8ec08f96b3ed5016ecf550c304030fae93da1fdfe",
+      "error": ""
+    },
+    {
+      "scene": 19,
+      "line": "S19-D02",
+      "take": "201477a23035604a",
+      "voice_id": "wo6udizrrtpIxWGp2qJk",
+      "decode_ok": true,
+      "sha256": "201477a23035604a7d2e83a4891106c6448ff9d6b04c600de7394ccdbb94d8ca",
+      "error": ""
+    },
+    {
+      "scene": 19,
+      "line": "S19-D03",
+      "take": "f5558a3ba4a6921a",
+      "voice_id": "4e32WqNVWRquDa1OcRYZ",
+      "decode_ok": true,
+      "sha256": "f5558a3ba4a6921a725e12de18c4aeedd8c12de2c0d438a3901a37d1f69de3f7",
+      "error": ""
+    },
+    {
+      "scene": 19,
+      "line": "S19-N01",
+      "take": "7f65ea104a569a3d",
+      "voice_id": "7fBwqIVI6wI1B4MuKqQi",
+      "decode_ok": true,
+      "sha256": "7f65ea104a569a3d4f12e263203cc4a6118c4fe9d9035f171c9177fce855f8f5",
+      "error": ""
+    },
+    {
+      "scene": 19,
+      "line": "S19-N02",
+      "take": "ea3f0cba6aa00356",
+      "voice_id": "wo6udizrrtpIxWGp2qJk",
+      "decode_ok": true,
+      "sha256": "ea3f0cba6aa003560e75decd3476908bd39e7bf9a160430b48537786c8424c48",
+      "error": ""
+    },
+    {
+      "scene": 19,
+      "line": "S19-D04",
+      "take": "f8e20a42a801983b",
+      "voice_id": "uq0HIbNZKn11Hs5ifEdd",
+      "decode_ok": true,
+      "sha256": "f8e20a42a801983b9a3db6141e71b57e47ae3090405844d6d2c93685ba16500b",
+      "error": ""
+    },
+    {
+      "scene": 19,
+      "line": "S19-N03",
+      "take": "093b9642399b831b",
+      "voice_id": "dmWfLQZJq7wNPv9WmtiM",
+      "decode_ok": true,
+      "sha256": "093b9642399b831b61209e390eda94d813277c080af1526a09ddb9817228611b",
+      "error": ""
+    },
+    {
+      "scene": 20,
+      "line": "S20-N01",
+      "take": "9dae433fdf201fd7",
+      "voice_id": "7fBwqIVI6wI1B4MuKqQi",
+      "decode_ok": true,
+      "sha256": "9dae433fdf201fd7b67de49040d5014ae17f4f8ad94c205b0f2530f24be4381c",
+      "error": ""
+    },
+    {
+      "scene": 20,
+      "line": "S20-D01",
+      "take": "69d2c15f9f607879",
+      "voice_id": "dmWfLQZJq7wNPv9WmtiM",
+      "decode_ok": true,
+      "sha256": "69d2c15f9f60787903e437a76f382cdd52cb9dff2456c640ec1a0a298887be9e",
+      "error": ""
+    },
+    {
+      "scene": 20,
+      "line": "S20-D02",
+      "take": "26f47182222bcfc4",
+      "voice_id": "wo6udizrrtpIxWGp2qJk",
+      "decode_ok": true,
+      "sha256": "26f47182222bcfc4af7db642bc2c677dc26399eec6a41c317caa31df589ae122",
+      "error": ""
+    },
+    {
+      "scene": 20,
+      "line": "S20-D03",
+      "take": "5e5b3700322614e9",
+      "voice_id": "dmWfLQZJq7wNPv9WmtiM",
+      "decode_ok": true,
+      "sha256": "5e5b3700322614e97cc2a267adefa9580552379d412eeaf4db1f8fe04eb4a9a5",
+      "error": ""
+    },
+    {
+      "scene": 20,
+      "line": "S20-N02",
+      "take": "b40de29e63fcf6d2",
+      "voice_id": "4e32WqNVWRquDa1OcRYZ",
+      "decode_ok": true,
+      "sha256": "b40de29e63fcf6d23935ace61a8c2de1cd1d16ce7c2492906bffc3c17939d86c",
+      "error": ""
+    },
+    {
+      "scene": 20,
+      "line": "S20-N03",
+      "take": "29cf9a6ed279e1b9",
+      "voice_id": "dmWfLQZJq7wNPv9WmtiM",
+      "decode_ok": true,
+      "sha256": "29cf9a6ed279e1b9a3f9699def2e37eb500510052028618f3ca5fc92e6a2eae8",
+      "error": ""
+    },
+    {
+      "scene": 21,
+      "line": "S21-N01",
+      "take": "7b8b523383282f51",
+      "voice_id": "7fBwqIVI6wI1B4MuKqQi",
+      "decode_ok": true,
+      "sha256": "7b8b523383282f51c2e3b1aaab4ab0fa6e3ba8bca5e5af76250c65233cc35647",
+      "error": ""
+    },
+    {
+      "scene": 21,
+      "line": "S21-D01",
+      "take": "4187ebfb94482a25",
+      "voice_id": "wo6udizrrtpIxWGp2qJk",
+      "decode_ok": true,
+      "sha256": "4187ebfb94482a2556fe059e95b83b448cf79aae496358fbf69438bf75199412",
+      "error": ""
+    },
+    {
+      "scene": 21,
+      "line": "S21-D02",
+      "take": "ea724886576fc5e9",
+      "voice_id": "dmWfLQZJq7wNPv9WmtiM",
+      "decode_ok": true,
+      "sha256": "ea724886576fc5e99205169dd72d1f510a680ff6ebdca83c30b797fd63e5a4d5",
+      "error": ""
+    },
+    {
+      "scene": 21,
+      "line": "S21-N02",
+      "take": "625e36a188113e54",
+      "voice_id": "4e32WqNVWRquDa1OcRYZ",
+      "decode_ok": true,
+      "sha256": "625e36a188113e5447c2e9e19459c1530a57251330ee6813c95ea0edff574e45",
+      "error": ""
+    },
+    {
+      "scene": 21,
+      "line": "S21-D03",
+      "take": "20bbdb55378cbeed",
+      "voice_id": "uq0HIbNZKn11Hs5ifEdd",
+      "decode_ok": true,
+      "sha256": "20bbdb55378cbeed68a1b9828eff51e57fcf3e0f21dc8dfa7f61556b18dc858a",
+      "error": ""
+    },
+    {
+      "scene": 21,
+      "line": "S21-D04",
+      "take": "6cbdcbef2a7acf05",
+      "voice_id": "dmWfLQZJq7wNPv9WmtiM",
+      "decode_ok": true,
+      "sha256": "6cbdcbef2a7acf0515499366a9092d4a07f7dc724492250e0a22cbab7b524df2",
+      "error": ""
+    },
+    {
+      "scene": 21,
+      "line": "S21-N03",
+      "take": "2f6cb5d3ab682bc7",
+      "voice_id": "uq0HIbNZKn11Hs5ifEdd",
+      "decode_ok": true,
+      "sha256": "2f6cb5d3ab682bc7679bd1d9843fd4da2cd2c583a5b0717413f06809337ff98c",
+      "error": ""
+    },
+    {
+      "scene": 21,
+      "line": "S21-N04",
+      "take": "c28027bb3323f5da",
+      "voice_id": "dmWfLQZJq7wNPv9WmtiM",
+      "decode_ok": true,
+      "sha256": "c28027bb3323f5dad6d4c057bada2eb08f91f6a73fa9acddf0a88e54eaef7f6f",
+      "error": ""
+    },
+    {
+      "scene": 22,
+      "line": "S22-N01",
+      "take": "37fb866c93bfd9c5",
+      "voice_id": "4e32WqNVWRquDa1OcRYZ",
+      "decode_ok": true,
+      "sha256": "37fb866c93bfd9c510f3466f520434722a1eb9117cee9e485ecf4c11a2f32c6b",
+      "error": ""
+    },
+    {
+      "scene": 22,
+      "line": "S22-D01",
+      "take": "ac97237efc59021a",
+      "voice_id": "4e32WqNVWRquDa1OcRYZ",
+      "decode_ok": true,
+      "sha256": "ac97237efc59021ad71ca4d2d4a0857c5e166836d89c0315f6719dab593cbbb9",
+      "error": ""
+    },
+    {
+      "scene": 22,
+      "line": "S22-N02",
+      "take": "564237d7cad1adbd",
+      "voice_id": "7fBwqIVI6wI1B4MuKqQi",
+      "decode_ok": true,
+      "sha256": "564237d7cad1adbd615c03a8a544ecb641ffabd920bba5585ef795fc35237ac7",
+      "error": ""
+    },
+    {
+      "scene": 22,
+      "line": "S22-D02",
+      "take": "29b4b8ba3dea7179",
+      "voice_id": "7fBwqIVI6wI1B4MuKqQi",
+      "decode_ok": true,
+      "sha256": "29b4b8ba3dea7179c4f87204b9f8213e5734f633c9d2226853ec27a2ace5e6ba",
+      "error": ""
+    },
+    {
+      "scene": 22,
+      "line": "S22-N03",
+      "take": "9d67aa9a754a308c",
+      "voice_id": "dmWfLQZJq7wNPv9WmtiM",
+      "decode_ok": true,
+      "sha256": "9d67aa9a754a308c7c48206cf45430a41672a79f3d4406513469a81ae97a83ec",
+      "error": ""
+    },
+    {
+      "scene": 22,
+      "line": "S22-N04",
+      "take": "8a9c8a387bbb0aac",
+      "voice_id": "wo6udizrrtpIxWGp2qJk",
+      "decode_ok": true,
+      "sha256": "8a9c8a387bbb0aac37d11ac115243c5c661ab9dfb07da7eee521f084719bc828",
+      "error": ""
+    },
+    {
+      "scene": 22,
+      "line": "S22-D03",
+      "take": "6f7d40f540532681",
+      "voice_id": "wo6udizrrtpIxWGp2qJk",
+      "decode_ok": true,
+      "sha256": "6f7d40f540532681535392f8846034452ea9a17211824eab2f0809cbeb6ab1f3",
+      "error": ""
+    },
+    {
+      "scene": 22,
+      "line": "S22-D04",
+      "take": "daa7af2e87ab01af",
+      "voice_id": "dmWfLQZJq7wNPv9WmtiM",
+      "decode_ok": true,
+      "sha256": "daa7af2e87ab01afcfc114b3b8bf3df0c8f03c70f2bbb2bfe9e4e4c01404fc47",
+      "error": ""
+    },
+    {
+      "scene": 23,
+      "line": "S23-D01",
+      "take": "bdcbac6d002c774e",
+      "voice_id": "onwK4e9ZLuTAKqWW03F9",
+      "decode_ok": true,
+      "sha256": "bdcbac6d002c774ee98277a1016c0a8568a9e124508d5f5f0da7d52448576850",
+      "error": ""
+    },
+    {
+      "scene": 23,
+      "line": "S23-N01",
+      "take": "20f9475a0cb15ce8",
+      "voice_id": "FGY2WhTYpPnrIDTdsKH5",
+      "decode_ok": true,
+      "sha256": "20f9475a0cb15ce8baf3d7d5bf50555016f740ec70ec31e2e9deda217a08f366",
+      "error": ""
+    },
+    {
+      "scene": 23,
+      "line": "S23-N02",
+      "take": "0f446d2ba049d2f9",
+      "voice_id": "dmWfLQZJq7wNPv9WmtiM",
+      "decode_ok": true,
+      "sha256": "0f446d2ba049d2f978bda2785845f1e9c7b2220af0e2e26ee5a55189699f5cc8",
+      "error": ""
+    },
+    {
+      "scene": 23,
+      "line": "S23-D02",
+      "take": "e61aa888d325ad99",
+      "voice_id": "wo6udizrrtpIxWGp2qJk",
+      "decode_ok": true,
+      "sha256": "e61aa888d325ad990c9c8ca784e77f5c791c24540033c61d9dc36faa97b81436",
+      "error": ""
+    },
+    {
+      "scene": 23,
+      "line": "S23-D03",
+      "take": "b785a62c44c27ece",
+      "voice_id": "dmWfLQZJq7wNPv9WmtiM",
+      "decode_ok": true,
+      "sha256": "b785a62c44c27ece37d80e043abdeb2aca2ec37d352ea97a6aec971f95b7ff59",
+      "error": ""
+    },
+    {
+      "scene": 23,
+      "line": "S23-D04",
+      "take": "b00412a2debd6c72",
+      "voice_id": "7fBwqIVI6wI1B4MuKqQi",
+      "decode_ok": true,
+      "sha256": "b00412a2debd6c72734523c1db4f2e64a2b9e1789a25b87f37941ac2a7024499",
+      "error": ""
+    },
+    {
+      "scene": 24,
+      "line": "S24-R01",
+      "take": "37408bce6c06c353",
+      "voice_id": "cjVigY5qzO86Huf0OWal",
+      "decode_ok": true,
+      "sha256": "37408bce6c06c3539baaef12f6cc3c8ee3da302aec8421e51a7d0188b6f567f6",
+      "error": ""
+    },
+    {
+      "scene": 24,
+      "line": "S24-R02",
+      "take": "1595c9ed14d6cc57",
+      "voice_id": "wo6udizrrtpIxWGp2qJk",
+      "decode_ok": true,
+      "sha256": "1595c9ed14d6cc5786d1920200314b8685dea7cdb035443f68dbf56b5ff5dc77",
+      "error": ""
+    },
+    {
+      "scene": 24,
+      "line": "S24-R03",
+      "take": "1605cd9b00e6946f",
+      "voice_id": "uq0HIbNZKn11Hs5ifEdd",
+      "decode_ok": true,
+      "sha256": "1605cd9b00e6946fbe289eb582bed2cad0a15bcee542a8d1992de109d832a51b",
+      "error": ""
+    },
+    {
+      "scene": 24,
+      "line": "S24-R04",
+      "take": "3237e4caf8f8a548",
+      "voice_id": "4e32WqNVWRquDa1OcRYZ",
+      "decode_ok": true,
+      "sha256": "3237e4caf8f8a5482d30d7697681db9e4f219b741bcdbc7273b66ca968268759",
+      "error": ""
+    },
+    {
+      "scene": 24,
+      "line": "S24-R05",
+      "take": "9240f162f50e5641",
+      "voice_id": "7fBwqIVI6wI1B4MuKqQi",
+      "decode_ok": true,
+      "sha256": "9240f162f50e5641c3dc7e386f1c734cdc557e4feae0f7f4f4b75d29af6920e3",
+      "error": ""
+    },
+    {
+      "scene": 24,
+      "line": "S24-R06",
+      "take": "dd965f6a25723ee7",
+      "voice_id": "dmWfLQZJq7wNPv9WmtiM",
+      "decode_ok": true,
+      "sha256": "dd965f6a25723ee70c3be20d0049cb8078b0c59f930b59b8509fe87aeb4ea896",
+      "error": ""
+    },
+    {
+      "scene": 24,
+      "line": "S24-R07",
+      "take": "7bb6eef4c4e6f9b6",
+      "voice_id": "wo6udizrrtpIxWGp2qJk",
+      "decode_ok": true,
+      "sha256": "7bb6eef4c4e6f9b649cc8003a5768b464d3b51e8fe68bf64429141372fdc23e9",
+      "error": ""
+    }
+  ],
+  "all_decoded": true,
+  "count": 225
+}
