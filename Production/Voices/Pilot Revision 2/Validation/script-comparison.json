@@ -1,0 +1,350 @@
+{
+  "method": "Independent ASR comparison; discrepancies require review and may be transcription errors. Not producer approval.",
+  "scenes": [
+    {
+      "scene": 1,
+      "ratio": 0.9908256880733946,
+      "expected_words": 109,
+      "transcribed_words": 109,
+      "differences": [
+        {
+          "type": "replace",
+          "expected": "are",
+          "heard": "re"
+        }
+      ]
+    },
+    {
+      "scene": 2,
+      "ratio": 1.0,
+      "expected_words": 106,
+      "transcribed_words": 106,
+      "differences": []
+    },
+    {
+      "scene": 3,
+      "ratio": 0.9090909090909091,
+      "expected_words": 115,
+      "transcribed_words": 116,
+      "differences": [
+        {
+          "type": "replace",
+          "expected": "citizens",
+          "heard": "citizen"
+        },
+        {
+          "type": "replace",
+          "expected": "districts seven",
+          "heard": "district 7"
+        },
+        {
+          "type": "replace",
+          "expected": "twelve",
+          "heard": "12"
+        },
+        {
+          "type": "replace",
+          "expected": "thirty",
+          "heard": "30"
+        },
+        {
+          "type": "replace",
+          "expected": "goodboy",
+          "heard": "good boy"
+        },
+        {
+          "type": "replace",
+          "expected": "seven",
+          "heard": "7"
+        },
+        {
+          "type": "replace",
+          "expected": "twelve",
+          "heard": "12"
+        },
+        {
+          "type": "replace",
+          "expected": "thirty",
+          "heard": "30"
+        },
+        {
+          "type": "replace",
+          "expected": "thirty",
+          "heard": "30"
+        }
+      ]
+    },
+    {
+      "scene": 4,
+      "ratio": 0.9901960784313726,
+      "expected_words": 102,
+      "transcribed_words": 102,
+      "differences": [
+        {
+          "type": "replace",
+          "expected": "ten",
+          "heard": "10"
+        }
+      ]
+    },
+    {
+      "scene": 5,
+      "ratio": 0.9787234042553191,
+      "expected_words": 94,
+      "transcribed_words": 94,
+      "differences": [
+        {
+          "type": "replace",
+          "expected": "thirty",
+          "heard": "30"
+        },
+        {
+          "type": "replace",
+          "expected": "ten",
+          "heard": "10"
+        }
+      ]
+    },
+    {
+      "scene": 6,
+      "ratio": 1.0,
+      "expected_words": 100,
+      "transcribed_words": 100,
+      "differences": []
+    },
+    {
+      "scene": 7,
+      "ratio": 0.9935483870967742,
+      "expected_words": 155,
+      "transcribed_words": 155,
+      "differences": [
+        {
+          "type": "replace",
+          "expected": "seven",
+          "heard": "7"
+        }
+      ]
+    },
+    {
+      "scene": 8,
+      "ratio": 0.9873417721518988,
+      "expected_words": 79,
+      "transcribed_words": 79,
+      "differences": [
+        {
+          "type": "replace",
+          "expected": "mum",
+          "heard": "mom"
+        }
+      ]
+    },
+    {
+      "scene": 9,
+      "ratio": 0.9852941176470589,
+      "expected_words": 135,
+      "transcribed_words": 137,
+      "differences": [
+        {
+          "type": "replace",
+          "expected": "woof7",
+          "heard": "woof 7"
+        },
+        {
+          "type": "insert",
+          "expected": "",
+          "heard": "a"
+        }
+      ]
+    },
+    {
+      "scene": 10,
+      "ratio": 1.0,
+      "expected_words": 121,
+      "transcribed_words": 121,
+      "differences": []
+    },
+    {
+      "scene": 11,
+      "ratio": 0.983739837398374,
+      "expected_words": 123,
+      "transcribed_words": 123,
+      "differences": [
+        {
+          "type": "replace",
+          "expected": "forty",
+          "heard": "40"
+        },
+        {
+          "type": "replace",
+          "expected": "is",
+          "heard": "s"
+        }
+      ]
+    },
+    {
+      "scene": 12,
+      "ratio": 1.0,
+      "expected_words": 52,
+      "transcribed_words": 52,
+      "differences": []
+    },
+    {
+      "scene": 13,
+      "ratio": 0.9746835443037974,
+      "expected_words": 79,
+      "transcribed_words": 79,
+      "differences": [
+        {
+          "type": "replace",
+          "expected": "forty",
+          "heard": "40"
+        },
+        {
+          "type": "replace",
+          "expected": "twenty",
+          "heard": "20"
+        }
+      ]
+    },
+    {
+      "scene": 14,
+      "ratio": 1.0,
+      "expected_words": 123,
+      "transcribed_words": 123,
+      "differences": []
+    },
+    {
+      "scene": 15,
+      "ratio": 1.0,
+      "expected_words": 84,
+      "transcribed_words": 84,
+      "differences": []
+    },
+    {
+      "scene": 16,
+      "ratio": 1.0,
+      "expected_words": 67,
+      "transcribed_words": 67,
+      "differences": []
+    },
+    {
+      "scene": 17,
+      "ratio": 0.9850746268656716,
+      "expected_words": 100,
+      "transcribed_words": 101,
+      "differences": [
+        {
+          "type": "replace",
+          "expected": "woof7",
+          "heard": "wolf seven"
+        }
+      ]
+    },
+    {
+      "scene": 18,
+      "ratio": 0.9848484848484849,
+      "expected_words": 66,
+      "transcribed_words": 66,
+      "differences": [
+        {
+          "type": "replace",
+          "expected": "are",
+          "heard": "re"
+        }
+      ]
+    },
+    {
+      "scene": 19,
+      "ratio": 0.9838709677419355,
+      "expected_words": 62,
+      "transcribed_words": 62,
+      "differences": [
+        {
+          "type": "replace",
+          "expected": "cancelled",
+          "heard": "canceled"
+        }
+      ]
+    },
+    {
+      "scene": 20,
+      "ratio": 1.0,
+      "expected_words": 59,
+      "transcribed_words": 59,
+      "differences": []
+    },
+    {
+      "scene": 21,
+      "ratio": 1.0,
+      "expected_words": 68,
+      "transcribed_words": 68,
+      "differences": []
+    },
+    {
+      "scene": 22,
+      "ratio": 0.9852941176470589,
+      "expected_words": 68,
+      "transcribed_words": 68,
+      "differences": [
+        {
+          "type": "replace",
+          "expected": "cancelled",
+          "heard": "canceled"
+        }
+      ]
+    },
+    {
+      "scene": 23,
+      "ratio": 0.9333333333333333,
+      "expected_words": 37,
+      "transcribed_words": 38,
+      "differences": [
+        {
+          "type": "replace",
+          "expected": "goodboy",
+          "heard": "good boy"
+        },
+        {
+          "type": "replace",
+          "expected": "mum",
+          "heard": "mom"
+        }
+      ]
+    },
+    {
+      "scene": 24,
+      "ratio": 0.935064935064935,
+      "expected_words": 77,
+      "transcribed_words": 77,
+      "differences": [
+        {
+          "type": "replace",
+          "expected": "goodboy",
+          "heard": "good boy"
+        },
+        {
+          "type": "replace",
+          "expected": "going to",
+          "heard": "gonna"
+        },
+        {
+          "type": "replace",
+          "expected": "c mon",
+          "heard": "come on"
+        }
+      ]
+    }
+  ],
+  "review": {
+    "conclusion": "No complete dialogue lines or substantial phrases missing in the independent transcription across all 24 chapters. Not a producer approval or proof of exact pronunciation.",
+    "remaining_minor_discrepancies": [
+      "Scene 3: citizens/citizen and districts/district",
+      "Scene 8 and 23: mum/mom",
+      "Scene 9: an extra article a",
+      "Scene 17: WOOF7 transcribed as wolf seven"
+    ],
+    "action": "Preserve approved performances. Minor ASR differences do not justify automatic replacement.",
+    "listening_master_seconds": 776.7292743764173,
+    "picture_plan_seconds": 1200
+  }
+}

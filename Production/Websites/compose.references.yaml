@@ -1,0 +1,12 @@
+services:
+  references:
+    image: kittypunk2077-references:v1
+    command: ["gunicorn", "--bind", "0.0.0.0:8000", "--workers", "2", "--threads", "4", "reference_server:app"]
+    restart: unless-stopped
+    ports: ["127.0.0.1:3461:8000"]
+    volumes:
+      - ./reference_server.py:/app/reference_server.py:ro
+      - ./data/wan-inputs:/app/data/wan-inputs:ro
+    mem_limit: 256m
+    security_opt: ["no-new-privileges:true"]
+    cap_drop: [ALL]
