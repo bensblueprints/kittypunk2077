@@ -75,15 +75,25 @@
           "id": "8ac469710ff37bec",
           "title": "Onyx",
           "url": "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/8ac469710ff37bec.jpg"
+        },
+        {
+          "id": "079153d0df55edaa",
+          "title": "PROP31 - Clearance evidence",
+          "url": "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/079153d0df55edaa.jpg"
+        },
+        {
+          "id": "e596d9cd2e930e3e",
+          "title": "PROP33 - Notice drone and old map",
+          "url": "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/e596d9cd2e930e3e.jpg"
         }
       ],
       "preflight_outstanding": [
-        "Episode 3 relevant notice, map, machinery or moving-box prop reference audit",
         "Performance and continuity review"
       ],
       "status": "shot-level draft; not submitted",
       "public_audio_url": "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Seasons/Season%2001/Episode%2003%20-%20Development/Shot%20Audio/E03-S01-P01-dialogue-reference.wav",
-      "episode_review_available": true
+      "episode_review_available": true,
+      "reference_usage": "Use only relevant panel from each reference, never display whole reference grid. Keep camera axis consistent with north-up location plan. Operation D7-C041 and stay TS-D7-041; records unchanged. Match original dialogue; do not add narration. Verify critical document lettering after render. Ignore PROP33 panel 6. Plate J-07 remains attached to wall; any lair plate image is a flat paper photograph, never a removed metal plate. Use map panel 4 and plate design panel 5 only."
     },
     {
       "shot_id": "E03-S01-P02",
@@ -144,15 +154,25 @@
           "id": "8ac469710ff37bec",
           "title": "Onyx",
           "url": "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/8ac469710ff37bec.jpg"
+        },
+        {
+          "id": "079153d0df55edaa",
+          "title": "PROP31 - Clearance evidence",
+          "url": "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/079153d0df55edaa.jpg"
+        },
+        {
+          "id": "e596d9cd2e930e3e",
+          "title": "PROP33 - Notice drone and old map",
+          "url": "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/e596d9cd2e930e3e.jpg"
         }
       ],
       "preflight_outstanding": [
-        "Episode 3 relevant notice, map, machinery or moving-box prop reference audit",
         "Performance and continuity review"
       ],
       "status": "shot-level draft; not submitted",
       "public_audio_url": "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Seasons/Season%2001/Episode%2003%20-%20Development/Shot%20Audio/E03-S01-P02-dialogue-reference.wav",
-      "episode_review_available": true
+      "episode_review_available": true,
+      "reference_usage": "Use only relevant panel from each reference, never display whole reference grid. Keep camera axis consistent with north-up location plan. Operation D7-C041 and stay TS-D7-041; records unchanged. Match original dialogue; do not add narration. Verify critical document lettering after render. Ignore PROP33 panel 6. Plate J-07 remains attached to wall; any lair plate image is a flat paper photograph, never a removed metal plate. Use map panel 4 and plate design panel 5 only."
     },
     {
       "shot_id": "E03-S01-P03",
@@ -224,15 +244,25 @@
           "id": "8ac469710ff37bec",
           "title": "Onyx",
           "url": "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/8ac469710ff37bec.jpg"
+        },
+        {
+          "id": "079153d0df55edaa",
+          "title": "PROP31 - Clearance evidence",
+          "url": "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/079153d0df55edaa.jpg"
+        },
+        {
+          "id": "e596d9cd2e930e3e",
+          "title": "PROP33 - Notice drone and old map",
+          "url": "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/e596d9cd2e930e3e.jpg"
         }
       ],
       "preflight_outstanding": [
-        "Episode 3 relevant notice, map, machinery or moving-box prop reference audit",
         "Performance and continuity review"
       ],
       "status": "shot-level draft; not submitted",
       "public_audio_url": "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Seasons/Season%2001/Episode%2003%20-%20Development/Shot%20Audio/E03-S01-P03-dialogue-reference.wav",
-      "episode_review_available": true
+      "episode_review_available": true,
+      "reference_usage": "Use only relevant panel from each reference, never display whole reference grid. Keep camera axis consistent with north-up location plan. Operation D7-C041 and stay TS-D7-041; records unchanged. Match original dialogue; do not add narration. Verify critical document lettering after render. Ignore PROP33 panel 6. Plate J-07 remains attached to wall; any lair plate image is a flat paper photograph, never a removed metal plate. Use map panel 4 and plate design panel 5 only."
     },
     {
       "shot_id": "E03-S02-P01",
@@ -299,16 +329,25 @@
           "id": "8ac469710ff37bec",
           "title": "Onyx",
           "url": "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/8ac469710ff37bec.jpg"
+        },
+        {
+          "id": "606f49b07192df94",
+          "title": "LOC21 - District 7 monorail underpass shelters",
+          "url": "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/606f49b07192df94.jpg"
+        },
+        {
+          "id": "72d254c27a38863e",
+          "title": "PROP32 - Shelter belongings",
+          "url": "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/72d254c27a38863e.jpg"
         }
       ],
       "preflight_outstanding": [
-        "LOC21 location reference required",
-        "Episode 3 relevant notice, map, machinery or moving-box prop reference audit",
         "Performance and continuity review"
       ],
       "status": "shot-level draft; not submitted",
       "public_audio_url": "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Seasons/Season%2001/Episode%2003%20-%20Development/Shot%20Audio/E03-S02-P01-dialogue-reference.wav",
-      "episode_review_available": true
+      "episode_review_available": true,
+      "reference_usage": "Use only relevant panel from each reference, never display whole reference grid. Keep camera axis consistent with north-up location plan. Operation D7-C041 and stay TS-D7-041; records unchanged. Match original dialogue; do not add narration. Verify critical document lettering after render."
     },
     {
       "shot_id": "E03-S02-P02",
@@ -364,16 +403,25 @@
           "id": "8ac469710ff37bec",
           "title": "Onyx",
           "url": "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/8ac469710ff37bec.jpg"
+        },
+        {
+          "id": "606f49b07192df94",
+          "title": "LOC21 - District 7 monorail underpass shelters",
+          "url": "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/606f49b07192df94.jpg"
+        },
+        {
+          "id": "72d254c27a38863e",
+          "title": "PROP32 - Shelter belongings",
+          "url": "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/72d254c27a38863e.jpg"
         }
       ],
       "preflight_outstanding": [
-        "LOC21 location reference required",
-        "Episode 3 relevant notice, map, machinery or moving-box prop reference audit",
         "Performance and continuity review"
       ],
       "status": "shot-level draft; not submitted",
       "public_audio_url": "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Seasons/Season%2001/Episode%2003%20-%20Development/Shot%20Audio/E03-S02-P02-dialogue-reference.wav",
-      "episode_review_available": true
+      "episode_review_available": true,
+      "reference_usage": "Use only relevant panel from each reference, never display whole reference grid. Keep camera axis consistent with north-up location plan. Operation D7-C041 and stay TS-D7-041; records unchanged. Match original dialogue; do not add narration. Verify critical document lettering after render."
     },
     {
       "shot_id": "E03-S02-P03",
@@ -440,16 +488,25 @@
           "id": "8ac469710ff37bec",
           "title": "Onyx",
           "url": "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/8ac469710ff37bec.jpg"
+        },
+        {
+          "id": "606f49b07192df94",
+          "title": "LOC21 - District 7 monorail underpass shelters",
+          "url": "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/606f49b07192df94.jpg"
+        },
+        {
+          "id": "72d254c27a38863e",
+          "title": "PROP32 - Shelter belongings",
+          "url": "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/72d254c27a38863e.jpg"
         }
       ],
       "preflight_outstanding": [
-        "LOC21 location reference required",
-        "Episode 3 relevant notice, map, machinery or moving-box prop reference audit",
         "Performance and continuity review"
       ],
       "status": "shot-level draft; not submitted",
       "public_audio_url": "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Seasons/Season%2001/Episode%2003%20-%20Development/Shot%20Audio/E03-S02-P03-dialogue-reference.wav",
-      "episode_review_available": true
+      "episode_review_available": true,
+      "reference_usage": "Use only relevant panel from each reference, never display whole reference grid. Keep camera axis consistent with north-up location plan. Operation D7-C041 and stay TS-D7-041; records unchanged. Match original dialogue; do not add narration. Verify critical document lettering after render."
     },
     {
       "shot_id": "E03-S03-P01",
@@ -527,15 +584,20 @@
           "id": "8ac469710ff37bec",
           "title": "Onyx",
           "url": "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/8ac469710ff37bec.jpg"
+        },
+        {
+          "id": "079153d0df55edaa",
+          "title": "PROP31 - Clearance evidence",
+          "url": "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/079153d0df55edaa.jpg"
         }
       ],
       "preflight_outstanding": [
-        "Episode 3 relevant notice, map, machinery or moving-box prop reference audit",
         "Performance and continuity review"
       ],
       "status": "shot-level draft; not submitted",
       "public_audio_url": "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Seasons/Season%2001/Episode%2003%20-%20Development/Shot%20Audio/E03-S03-P01-dialogue-reference.wav",
-      "episode_review_available": true
+      "episode_review_available": true,
+      "reference_usage": "Use only relevant panel from each reference, never display whole reference grid. Keep camera axis consistent with north-up location plan. Operation D7-C041 and stay TS-D7-041; records unchanged. Match original dialogue; do not add narration. Verify critical document lettering after render."
     },
     {
       "shot_id": "E03-S03-P02",
@@ -602,15 +664,20 @@
           "id": "8ac469710ff37bec",
           "title": "Onyx",
           "url": "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/8ac469710ff37bec.jpg"
+        },
+        {
+          "id": "079153d0df55edaa",
+          "title": "PROP31 - Clearance evidence",
+          "url": "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/079153d0df55edaa.jpg"
         }
       ],
       "preflight_outstanding": [
-        "Episode 3 relevant notice, map, machinery or moving-box prop reference audit",
         "Performance and continuity review"
       ],
       "status": "shot-level draft; not submitted",
       "public_audio_url": "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Seasons/Season%2001/Episode%2003%20-%20Development/Shot%20Audio/E03-S03-P02-dialogue-reference.wav",
-      "episode_review_available": true
+      "episode_review_available": true,
+      "reference_usage": "Use only relevant panel from each reference, never display whole reference grid. Keep camera axis consistent with north-up location plan. Operation D7-C041 and stay TS-D7-041; records unchanged. Match original dialogue; do not add narration. Verify critical document lettering after render."
     },
     {
       "shot_id": "E03-S03-P03",
@@ -688,15 +755,20 @@
           "id": "8ac469710ff37bec",
           "title": "Onyx",
           "url": "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/8ac469710ff37bec.jpg"
+        },
+        {
+          "id": "079153d0df55edaa",
+          "title": "PROP31 - Clearance evidence",
+          "url": "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/079153d0df55edaa.jpg"
         }
       ],
       "preflight_outstanding": [
-        "Episode 3 relevant notice, map, machinery or moving-box prop reference audit",
         "Performance and continuity review"
       ],
       "status": "shot-level draft; not submitted",
       "public_audio_url": "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Seasons/Season%2001/Episode%2003%20-%20Development/Shot%20Audio/E03-S03-P03-dialogue-reference.wav",
-      "episode_review_available": true
+      "episode_review_available": true,
+      "reference_usage": "Use only relevant panel from each reference, never display whole reference grid. Keep camera axis consistent with north-up location plan. Operation D7-C041 and stay TS-D7-041; records unchanged. Match original dialogue; do not add narration. Verify critical document lettering after render."
     },
     {
       "shot_id": "E03-S04-P01",
@@ -768,15 +840,20 @@
           "id": "51c0358d041cc3ba",
           "title": "Trixie - CatGirl",
           "url": "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/51c0358d041cc3ba.jpg"
+        },
+        {
+          "id": "079153d0df55edaa",
+          "title": "PROP31 - Clearance evidence",
+          "url": "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/079153d0df55edaa.jpg"
         }
       ],
       "preflight_outstanding": [
-        "Episode 3 relevant notice, map, machinery or moving-box prop reference audit",
         "Performance and continuity review"
       ],
       "status": "shot-level draft; not submitted",
       "public_audio_url": "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Seasons/Season%2001/Episode%2003%20-%20Development/Shot%20Audio/E03-S04-P01-dialogue-reference.wav",
-      "episode_review_available": true
+      "episode_review_available": true,
+      "reference_usage": "Use only relevant panel from each reference, never display whole reference grid. Keep camera axis consistent with north-up location plan. Operation D7-C041 and stay TS-D7-041; records unchanged. Match original dialogue; do not add narration. Verify critical document lettering after render."
     },
     {
       "shot_id": "E03-S04-P02",
@@ -837,15 +914,20 @@
           "id": "51c0358d041cc3ba",
           "title": "Trixie - CatGirl",
           "url": "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/51c0358d041cc3ba.jpg"
+        },
+        {
+          "id": "079153d0df55edaa",
+          "title": "PROP31 - Clearance evidence",
+          "url": "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/079153d0df55edaa.jpg"
         }
       ],
       "preflight_outstanding": [
-        "Episode 3 relevant notice, map, machinery or moving-box prop reference audit",
         "Performance and continuity review"
       ],
       "status": "shot-level draft; not submitted",
       "public_audio_url": "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Seasons/Season%2001/Episode%2003%20-%20Development/Shot%20Audio/E03-S04-P02-dialogue-reference.wav",
-      "episode_review_available": true
+      "episode_review_available": true,
+      "reference_usage": "Use only relevant panel from each reference, never display whole reference grid. Keep camera axis consistent with north-up location plan. Operation D7-C041 and stay TS-D7-041; records unchanged. Match original dialogue; do not add narration. Verify critical document lettering after render."
     },
     {
       "shot_id": "E03-S04-P03",
@@ -917,15 +999,20 @@
           "id": "51c0358d041cc3ba",
           "title": "Trixie - CatGirl",
           "url": "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/51c0358d041cc3ba.jpg"
+        },
+        {
+          "id": "079153d0df55edaa",
+          "title": "PROP31 - Clearance evidence",
+          "url": "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/079153d0df55edaa.jpg"
         }
       ],
       "preflight_outstanding": [
-        "Episode 3 relevant notice, map, machinery or moving-box prop reference audit",
         "Performance and continuity review"
       ],
       "status": "shot-level draft; not submitted",
       "public_audio_url": "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Seasons/Season%2001/Episode%2003%20-%20Development/Shot%20Audio/E03-S04-P03-dialogue-reference.wav",
-      "episode_review_available": true
+      "episode_review_available": true,
+      "reference_usage": "Use only relevant panel from each reference, never display whole reference grid. Keep camera axis consistent with north-up location plan. Operation D7-C041 and stay TS-D7-041; records unchanged. Match original dialogue; do not add narration. Verify critical document lettering after render."
     },
     {
       "shot_id": "E03-S05-P01",
@@ -986,16 +1073,25 @@
           "id": "6c4f0a7860912420",
           "title": "PAW01 \u2014 Unnamed German shepherd officer",
           "url": "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/6c4f0a7860912420.jpg"
+        },
+        {
+          "id": "4919e5c8410a0394",
+          "title": "LOC23 - District 7 clearance checkpoint",
+          "url": "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/4919e5c8410a0394.jpg"
+        },
+        {
+          "id": "079153d0df55edaa",
+          "title": "PROP31 - Clearance evidence",
+          "url": "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/079153d0df55edaa.jpg"
         }
       ],
       "preflight_outstanding": [
-        "LOC23 location reference required",
-        "Episode 3 relevant notice, map, machinery or moving-box prop reference audit",
         "Performance and continuity review"
       ],
       "status": "shot-level draft; not submitted",
       "public_audio_url": "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Seasons/Season%2001/Episode%2003%20-%20Development/Shot%20Audio/E03-S05-P01-dialogue-reference.wav",
-      "episode_review_available": true
+      "episode_review_available": true,
+      "reference_usage": "Use only relevant panel from each reference, never display whole reference grid. Keep camera axis consistent with north-up location plan. Operation D7-C041 and stay TS-D7-041; records unchanged. Match original dialogue; do not add narration. Verify critical document lettering after render."
     },
     {
       "shot_id": "E03-S05-P02",
@@ -1045,16 +1141,25 @@
           "id": "6c4f0a7860912420",
           "title": "PAW01 \u2014 Unnamed German shepherd officer",
           "url": "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/6c4f0a7860912420.jpg"
+        },
+        {
+          "id": "4919e5c8410a0394",
+          "title": "LOC23 - District 7 clearance checkpoint",
+          "url": "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/4919e5c8410a0394.jpg"
+        },
+        {
+          "id": "079153d0df55edaa",
+          "title": "PROP31 - Clearance evidence",
+          "url": "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/079153d0df55edaa.jpg"
         }
       ],
       "preflight_outstanding": [
-        "LOC23 location reference required",
-        "Episode 3 relevant notice, map, machinery or moving-box prop reference audit",
         "Performance and continuity review"
       ],
       "status": "shot-level draft; not submitted",
       "public_audio_url": "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Seasons/Season%2001/Episode%2003%20-%20Development/Shot%20Audio/E03-S05-P02-dialogue-reference.wav",
-      "episode_review_available": true
+      "episode_review_available": true,
+      "reference_usage": "Use only relevant panel from each reference, never display whole reference grid. Keep camera axis consistent with north-up location plan. Operation D7-C041 and stay TS-D7-041; records unchanged. Match original dialogue; do not add narration. Verify critical document lettering after render."
     },
     {
       "shot_id": "E03-S05-P03",
@@ -1115,16 +1220,25 @@
           "id": "6c4f0a7860912420",
           "title": "PAW01 \u2014 Unnamed German shepherd officer",
           "url": "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/6c4f0a7860912420.jpg"
+        },
+        {
+          "id": "4919e5c8410a0394",
+          "title": "LOC23 - District 7 clearance checkpoint",
+          "url": "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/4919e5c8410a0394.jpg"
+        },
+        {
+          "id": "079153d0df55edaa",
+          "title": "PROP31 - Clearance evidence",
+          "url": "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/079153d0df55edaa.jpg"
         }
       ],
       "preflight_outstanding": [
-        "LOC23 location reference required",
-        "Episode 3 relevant notice, map, machinery or moving-box prop reference audit",
         "Performance and continuity review"
       ],
       "status": "shot-level draft; not submitted",
       "public_audio_url": "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Seasons/Season%2001/Episode%2003%20-%20Development/Shot%20Audio/E03-S05-P03-dialogue-reference.wav",
-      "episode_review_available": true
+      "episode_review_available": true,
+      "reference_usage": "Use only relevant panel from each reference, never display whole reference grid. Keep camera axis consistent with north-up location plan. Operation D7-C041 and stay TS-D7-041; records unchanged. Match original dialogue; do not add narration. Verify critical document lettering after render."
     },
     {
       "shot_id": "E03-S06-P01",
@@ -1191,16 +1305,25 @@
           "id": "d0c4b245ed3a3745",
           "title": "CIV01 - Civilian Cat",
           "url": "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/d0c4b245ed3a3745.jpg"
+        },
+        {
+          "id": "a391278003f06213",
+          "title": "LOC22 - Resistance community annex",
+          "url": "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/a391278003f06213.jpg"
+        },
+        {
+          "id": "72d254c27a38863e",
+          "title": "PROP32 - Shelter belongings",
+          "url": "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/72d254c27a38863e.jpg"
         }
       ],
       "preflight_outstanding": [
-        "LOC22 location reference required",
-        "Episode 3 relevant notice, map, machinery or moving-box prop reference audit",
         "Performance and continuity review"
       ],
       "status": "shot-level draft; not submitted",
       "public_audio_url": "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Seasons/Season%2001/Episode%2003%20-%20Development/Shot%20Audio/E03-S06-P01-dialogue-reference.wav",
-      "episode_review_available": true
+      "episode_review_available": true,
+      "reference_usage": "Use only relevant panel from each reference, never display whole reference grid. Keep camera axis consistent with north-up location plan. Operation D7-C041 and stay TS-D7-041; records unchanged. Match original dialogue; do not add narration. Verify critical document lettering after render."
     },
     {
       "shot_id": "E03-S06-P02",
@@ -1256,16 +1379,25 @@
           "id": "d0c4b245ed3a3745",
           "title": "CIV01 - Civilian Cat",
           "url": "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/d0c4b245ed3a3745.jpg"
+        },
+        {
+          "id": "a391278003f06213",
+          "title": "LOC22 - Resistance community annex",
+          "url": "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/a391278003f06213.jpg"
+        },
+        {
+          "id": "72d254c27a38863e",
+          "title": "PROP32 - Shelter belongings",
+          "url": "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/72d254c27a38863e.jpg"
         }
       ],
       "preflight_outstanding": [
-        "LOC22 location reference required",
-        "Episode 3 relevant notice, map, machinery or moving-box prop reference audit",
         "Performance and continuity review"
       ],
       "status": "shot-level draft; not submitted",
       "public_audio_url": "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Seasons/Season%2001/Episode%2003%20-%20Development/Shot%20Audio/E03-S06-P02-dialogue-reference.wav",
-      "episode_review_available": true
+      "episode_review_available": true,
+      "reference_usage": "Use only relevant panel from each reference, never display whole reference grid. Keep camera axis consistent with north-up location plan. Operation D7-C041 and stay TS-D7-041; records unchanged. Match original dialogue; do not add narration. Verify critical document lettering after render."
     },
     {
       "shot_id": "E03-S06-P03",
@@ -1332,16 +1464,25 @@
           "id": "d0c4b245ed3a3745",
           "title": "CIV01 - Civilian Cat",
           "url": "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/d0c4b245ed3a3745.jpg"
+        },
+        {
+          "id": "a391278003f06213",
+          "title": "LOC22 - Resistance community annex",
+          "url": "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/a391278003f06213.jpg"
+        },
+        {
+          "id": "72d254c27a38863e",
+          "title": "PROP32 - Shelter belongings",
+          "url": "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/72d254c27a38863e.jpg"
         }
       ],
       "preflight_outstanding": [
-        "LOC22 location reference required",
-        "Episode 3 relevant notice, map, machinery or moving-box prop reference audit",
         "Performance and continuity review"
       ],
       "status": "shot-level draft; not submitted",
       "public_audio_url": "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Seasons/Season%2001/Episode%2003%20-%20Development/Shot%20Audio/E03-S06-P03-dialogue-reference.wav",
-      "episode_review_available": true
+      "episode_review_available": true,
+      "reference_usage": "Use only relevant panel from each reference, never display whole reference grid. Keep camera axis consistent with north-up location plan. Operation D7-C041 and stay TS-D7-041; records unchanged. Match original dialogue; do not add narration. Verify critical document lettering after render."
     },
     {
       "shot_id": "E03-S07-P01",
@@ -1425,15 +1566,20 @@
           "id": "61dc338e08cb2385",
           "title": "Ghost",
           "url": "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/61dc338e08cb2385.jpg"
+        },
+        {
+          "id": "e596d9cd2e930e3e",
+          "title": "PROP33 - Notice drone and old map",
+          "url": "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/e596d9cd2e930e3e.jpg"
         }
       ],
       "preflight_outstanding": [
-        "Episode 3 relevant notice, map, machinery or moving-box prop reference audit",
         "Performance and continuity review"
       ],
       "status": "shot-level draft; not submitted",
       "public_audio_url": "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Seasons/Season%2001/Episode%2003%20-%20Development/Shot%20Audio/E03-S07-P01-dialogue-reference.wav",
-      "episode_review_available": true
+      "episode_review_available": true,
+      "reference_usage": "Use only relevant panel from each reference, never display whole reference grid. Keep camera axis consistent with north-up location plan. Operation D7-C041 and stay TS-D7-041; records unchanged. Match original dialogue; do not add narration. Verify critical document lettering after render. Ignore PROP33 panel 6. Plate J-07 remains attached to wall; any lair plate image is a flat paper photograph, never a removed metal plate. Use map panel 4 and plate design panel 5 only."
     },
     {
       "shot_id": "E03-S07-P02",
@@ -1506,15 +1652,20 @@
           "id": "61dc338e08cb2385",
           "title": "Ghost",
           "url": "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/61dc338e08cb2385.jpg"
+        },
+        {
+          "id": "e596d9cd2e930e3e",
+          "title": "PROP33 - Notice drone and old map",
+          "url": "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/e596d9cd2e930e3e.jpg"
         }
       ],
       "preflight_outstanding": [
-        "Episode 3 relevant notice, map, machinery or moving-box prop reference audit",
         "Performance and continuity review"
       ],
       "status": "shot-level draft; not submitted",
       "public_audio_url": "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Seasons/Season%2001/Episode%2003%20-%20Development/Shot%20Audio/E03-S07-P02-dialogue-reference.wav",
-      "episode_review_available": true
+      "episode_review_available": true,
+      "reference_usage": "Use only relevant panel from each reference, never display whole reference grid. Keep camera axis consistent with north-up location plan. Operation D7-C041 and stay TS-D7-041; records unchanged. Match original dialogue; do not add narration. Verify critical document lettering after render. Ignore PROP33 panel 6. Plate J-07 remains attached to wall; any lair plate image is a flat paper photograph, never a removed metal plate. Use map panel 4 and plate design panel 5 only."
     },
     {
       "shot_id": "E03-S07-P03",
@@ -1598,15 +1749,20 @@
           "id": "61dc338e08cb2385",
           "title": "Ghost",
           "url": "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/61dc338e08cb2385.jpg"
+        },
+        {
+          "id": "e596d9cd2e930e3e",
+          "title": "PROP33 - Notice drone and old map",
+          "url": "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/e596d9cd2e930e3e.jpg"
         }
       ],
       "preflight_outstanding": [
-        "Episode 3 relevant notice, map, machinery or moving-box prop reference audit",
         "Performance and continuity review"
       ],
       "status": "shot-level draft; not submitted",
       "public_audio_url": "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Seasons/Season%2001/Episode%2003%20-%20Development/Shot%20Audio/E03-S07-P03-dialogue-reference.wav",
-      "episode_review_available": true
+      "episode_review_available": true,
+      "reference_usage": "Use only relevant panel from each reference, never display whole reference grid. Keep camera axis consistent with north-up location plan. Operation D7-C041 and stay TS-D7-041; records unchanged. Match original dialogue; do not add narration. Verify critical document lettering after render. Ignore PROP33 panel 6. Plate J-07 remains attached to wall; any lair plate image is a flat paper photograph, never a removed metal plate. Use map panel 4 and plate design panel 5 only."
     },
     {
       "shot_id": "E03-S08-P01",
@@ -1678,15 +1834,20 @@
           "id": "a23590fe66ebce01",
           "title": "Byte",
           "url": "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/a23590fe66ebce01.jpg"
+        },
+        {
+          "id": "079153d0df55edaa",
+          "title": "PROP31 - Clearance evidence",
+          "url": "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/079153d0df55edaa.jpg"
         }
       ],
       "preflight_outstanding": [
-        "Episode 3 relevant notice, map, machinery or moving-box prop reference audit",
         "Performance and continuity review"
       ],
       "status": "shot-level draft; not submitted",
       "public_audio_url": "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Seasons/Season%2001/Episode%2003%20-%20Development/Shot%20Audio/E03-S08-P01-dialogue-reference.wav",
-      "episode_review_available": true
+      "episode_review_available": true,
+      "reference_usage": "Use only relevant panel from each reference, never display whole reference grid. Keep camera axis consistent with north-up location plan. Operation D7-C041 and stay TS-D7-041; records unchanged. Match original dialogue; do not add narration. Verify critical document lettering after render."
     },
     {
       "shot_id": "E03-S08-P02",
@@ -1747,15 +1908,20 @@
           "id": "a23590fe66ebce01",
           "title": "Byte",
           "url": "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/a23590fe66ebce01.jpg"
+        },
+        {
+          "id": "079153d0df55edaa",
+          "title": "PROP31 - Clearance evidence",
+          "url": "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/079153d0df55edaa.jpg"
         }
       ],
       "preflight_outstanding": [
-        "Episode 3 relevant notice, map, machinery or moving-box prop reference audit",
         "Performance and continuity review"
       ],
       "status": "shot-level draft; not submitted",
       "public_audio_url": "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Seasons/Season%2001/Episode%2003%20-%20Development/Shot%20Audio/E03-S08-P02-dialogue-reference.wav",
-      "episode_review_available": true
+      "episode_review_available": true,
+      "reference_usage": "Use only relevant panel from each reference, never display whole reference grid. Keep camera axis consistent with north-up location plan. Operation D7-C041 and stay TS-D7-041; records unchanged. Match original dialogue; do not add narration. Verify critical document lettering after render."
     },
     {
       "shot_id": "E03-S08-P03",
@@ -1827,15 +1993,20 @@
           "id": "a23590fe66ebce01",
           "title": "Byte",
           "url": "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/a23590fe66ebce01.jpg"
+        },
+        {
+          "id": "079153d0df55edaa",
+          "title": "PROP31 - Clearance evidence",
+          "url": "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/079153d0df55edaa.jpg"
         }
       ],
       "preflight_outstanding": [
-        "Episode 3 relevant notice, map, machinery or moving-box prop reference audit",
         "Performance and continuity review"
       ],
       "status": "shot-level draft; not submitted",
       "public_audio_url": "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Seasons/Season%2001/Episode%2003%20-%20Development/Shot%20Audio/E03-S08-P03-dialogue-reference.wav",
-      "episode_review_available": true
+      "episode_review_available": true,
+      "reference_usage": "Use only relevant panel from each reference, never display whole reference grid. Keep camera axis consistent with north-up location plan. Operation D7-C041 and stay TS-D7-041; records unchanged. Match original dialogue; do not add narration. Verify critical document lettering after render."
     },
     {
       "shot_id": "E03-S09-P01",
@@ -1896,16 +2067,20 @@
           "id": "d3a0ec57fe8258f7",
           "title": "General Fetch",
           "url": "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/d3a0ec57fe8258f7.jpg"
+        },
+        {
+          "id": "4919e5c8410a0394",
+          "title": "LOC23 - District 7 clearance checkpoint",
+          "url": "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/4919e5c8410a0394.jpg"
         }
       ],
       "preflight_outstanding": [
-        "LOC23 location reference required",
-        "Episode 3 relevant notice, map, machinery or moving-box prop reference audit",
         "Performance and continuity review"
       ],
       "status": "shot-level draft; not submitted",
       "public_audio_url": "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Seasons/Season%2001/Episode%2003%20-%20Development/Shot%20Audio/E03-S09-P01-dialogue-reference.wav",
-      "episode_review_available": true
+      "episode_review_available": true,
+      "reference_usage": "Use only relevant panel from each reference, never display whole reference grid. Keep camera axis consistent with north-up location plan. Operation D7-C041 and stay TS-D7-041; records unchanged. Match original dialogue; do not add narration. Verify critical document lettering after render."
     },
     {
       "shot_id": "E03-S09-P02",
@@ -1955,16 +2130,20 @@
           "id": "d3a0ec57fe8258f7",
           "title": "General Fetch",
           "url": "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/d3a0ec57fe8258f7.jpg"
+        },
+        {
+          "id": "4919e5c8410a0394",
+          "title": "LOC23 - District 7 clearance checkpoint",
+          "url": "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/4919e5c8410a0394.jpg"
         }
       ],
       "preflight_outstanding": [
-        "LOC23 location reference required",
-        "Episode 3 relevant notice, map, machinery or moving-box prop reference audit",
         "Performance and continuity review"
       ],
       "status": "shot-level draft; not submitted",
       "public_audio_url": "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Seasons/Season%2001/Episode%2003%20-%20Development/Shot%20Audio/E03-S09-P02-dialogue-reference.wav",
-      "episode_review_available": true
+      "episode_review_available": true,
+      "reference_usage": "Use only relevant panel from each reference, never display whole reference grid. Keep camera axis consistent with north-up location plan. Operation D7-C041 and stay TS-D7-041; records unchanged. Match original dialogue; do not add narration. Verify critical document lettering after render."
     },
     {
       "shot_id": "E03-S09-P03",
@@ -2025,16 +2204,20 @@
           "id": "d3a0ec57fe8258f7",
           "title": "General Fetch",
           "url": "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/d3a0ec57fe8258f7.jpg"
+        },
+        {
+          "id": "4919e5c8410a0394",
+          "title": "LOC23 - District 7 clearance checkpoint",
+          "url": "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/4919e5c8410a0394.jpg"
         }
       ],
       "preflight_outstanding": [
-        "LOC23 location reference required",
-        "Episode 3 relevant notice, map, machinery or moving-box prop reference audit",
         "Performance and continuity review"
       ],
       "status": "shot-level draft; not submitted",
       "public_audio_url": "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Seasons/Season%2001/Episode%2003%20-%20Development/Shot%20Audio/E03-S09-P03-dialogue-reference.wav",
-      "episode_review_available": true
+      "episode_review_available": true,
+      "reference_usage": "Use only relevant panel from each reference, never display whole reference grid. Keep camera axis consistent with north-up location plan. Operation D7-C041 and stay TS-D7-041; records unchanged. Match original dialogue; do not add narration. Verify critical document lettering after render."
     },
     {
       "shot_id": "E03-S10-P01",
@@ -2091,16 +2274,20 @@
           "id": "c59f876dfb3540bb",
           "title": "Neon",
           "url": "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/c59f876dfb3540bb.jpg"
+        },
+        {
+          "id": "b061ae5eecaacb3c",
+          "title": "LOC24 - Stationary machinery maintenance bay",
+          "url": "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/b061ae5eecaacb3c.jpg"
         }
       ],
       "preflight_outstanding": [
-        "LOC24 location reference required",
-        "Episode 3 relevant notice, map, machinery or moving-box prop reference audit",
         "Performance and continuity review"
       ],
       "status": "shot-level draft; not submitted",
       "public_audio_url": "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Seasons/Season%2001/Episode%2003%20-%20Development/Shot%20Audio/E03-S10-P01-dialogue-reference.wav",
-      "episode_review_available": true
+      "episode_review_available": true,
+      "reference_usage": "Use only relevant panel from each reference, never display whole reference grid. Keep camera axis consistent with north-up location plan. Operation D7-C041 and stay TS-D7-041; records unchanged. Match original dialogue; do not add narration. Verify critical document lettering after render."
     },
     {
       "shot_id": "E03-S10-P02",
@@ -2146,16 +2333,20 @@
           "id": "c59f876dfb3540bb",
           "title": "Neon",
           "url": "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/c59f876dfb3540bb.jpg"
+        },
+        {
+          "id": "b061ae5eecaacb3c",
+          "title": "LOC24 - Stationary machinery maintenance bay",
+          "url": "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/b061ae5eecaacb3c.jpg"
         }
       ],
       "preflight_outstanding": [
-        "LOC24 location reference required",
-        "Episode 3 relevant notice, map, machinery or moving-box prop reference audit",
         "Performance and continuity review"
       ],
       "status": "shot-level draft; not submitted",
       "public_audio_url": "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Seasons/Season%2001/Episode%2003%20-%20Development/Shot%20Audio/E03-S10-P02-dialogue-reference.wav",
-      "episode_review_available": true
+      "episode_review_available": true,
+      "reference_usage": "Use only relevant panel from each reference, never display whole reference grid. Keep camera axis consistent with north-up location plan. Operation D7-C041 and stay TS-D7-041; records unchanged. Match original dialogue; do not add narration. Verify critical document lettering after render."
     },
     {
       "shot_id": "E03-S10-P03",
@@ -2212,16 +2403,20 @@
           "id": "c59f876dfb3540bb",
           "title": "Neon",
           "url": "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/c59f876dfb3540bb.jpg"
+        },
+        {
+          "id": "b061ae5eecaacb3c",
+          "title": "LOC24 - Stationary machinery maintenance bay",
+          "url": "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/b061ae5eecaacb3c.jpg"
         }
       ],
       "preflight_outstanding": [
-        "LOC24 location reference required",
-        "Episode 3 relevant notice, map, machinery or moving-box prop reference audit",
         "Performance and continuity review"
       ],
       "status": "shot-level draft; not submitted",
       "public_audio_url": "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Seasons/Season%2001/Episode%2003%20-%20Development/Shot%20Audio/E03-S10-P03-dialogue-reference.wav",
-      "episode_review_available": true
+      "episode_review_available": true,
+      "reference_usage": "Use only relevant panel from each reference, never display whole reference grid. Keep camera axis consistent with north-up location plan. Operation D7-C041 and stay TS-D7-041; records unchanged. Match original dialogue; do not add narration. Verify critical document lettering after render."
     },
     {
       "shot_id": "E03-S11-P01",
@@ -2288,16 +2483,25 @@
           "id": "c59f876dfb3540bb",
           "title": "Neon",
           "url": "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/c59f876dfb3540bb.jpg"
+        },
+        {
+          "id": "606f49b07192df94",
+          "title": "LOC21 - District 7 monorail underpass shelters",
+          "url": "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/606f49b07192df94.jpg"
+        },
+        {
+          "id": "72d254c27a38863e",
+          "title": "PROP32 - Shelter belongings",
+          "url": "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/72d254c27a38863e.jpg"
         }
       ],
       "preflight_outstanding": [
-        "LOC21 location reference required",
-        "Episode 3 relevant notice, map, machinery or moving-box prop reference audit",
         "Performance and continuity review"
       ],
       "status": "shot-level draft; not submitted",
       "public_audio_url": "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Seasons/Season%2001/Episode%2003%20-%20Development/Shot%20Audio/E03-S11-P01-dialogue-reference.wav",
-      "episode_review_available": true
+      "episode_review_available": true,
+      "reference_usage": "Use only relevant panel from each reference, never display whole reference grid. Keep camera axis consistent with north-up location plan. Operation D7-C041 and stay TS-D7-041; records unchanged. Match original dialogue; do not add narration. Verify critical document lettering after render."
     },
     {
       "shot_id": "E03-S11-P02",
@@ -2353,16 +2557,25 @@
           "id": "c59f876dfb3540bb",
           "title": "Neon",
           "url": "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/c59f876dfb3540bb.jpg"
+        },
+        {
+          "id": "606f49b07192df94",
+          "title": "LOC21 - District 7 monorail underpass shelters",
+          "url": "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/606f49b07192df94.jpg"
+        },
+        {
+          "id": "72d254c27a38863e",
+          "title": "PROP32 - Shelter belongings",
+          "url": "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/72d254c27a38863e.jpg"
         }
       ],
       "preflight_outstanding": [
-        "LOC21 location reference required",
-        "Episode 3 relevant notice, map, machinery or moving-box prop reference audit",
         "Performance and continuity review"
       ],
       "status": "shot-level draft; not submitted",
       "public_audio_url": "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Seasons/Season%2001/Episode%2003%20-%20Development/Shot%20Audio/E03-S11-P02-dialogue-reference.wav",
-      "episode_review_available": true
+      "episode_review_available": true,
+      "reference_usage": "Use only relevant panel from each reference, never display whole reference grid. Keep camera axis consistent with north-up location plan. Operation D7-C041 and stay TS-D7-041; records unchanged. Match original dialogue; do not add narration. Verify critical document lettering after render."
     },
     {
       "shot_id": "E03-S11-P03",
@@ -2429,16 +2642,25 @@
           "id": "c59f876dfb3540bb",
           "title": "Neon",
           "url": "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/c59f876dfb3540bb.jpg"
+        },
+        {
+          "id": "606f49b07192df94",
+          "title": "LOC21 - District 7 monorail underpass shelters",
+          "url": "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/606f49b07192df94.jpg"
+        },
+        {
+          "id": "72d254c27a38863e",
+          "title": "PROP32 - Shelter belongings",
+          "url": "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/72d254c27a38863e.jpg"
         }
       ],
       "preflight_outstanding": [
-        "LOC21 location reference required",
-        "Episode 3 relevant notice, map, machinery or moving-box prop reference audit",
         "Performance and continuity review"
       ],
       "status": "shot-level draft; not submitted",
       "public_audio_url": "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Seasons/Season%2001/Episode%2003%20-%20Development/Shot%20Audio/E03-S11-P03-dialogue-reference.wav",
-      "episode_review_available": true
+      "episode_review_available": true,
+      "reference_usage": "Use only relevant panel from each reference, never display whole reference grid. Keep camera axis consistent with north-up location plan. Operation D7-C041 and stay TS-D7-041; records unchanged. Match original dialogue; do not add narration. Verify critical document lettering after render."
     },
     {
       "shot_id": "E03-S12-P01",
@@ -2501,15 +2723,20 @@
           "id": "a23590fe66ebce01",
           "title": "Byte",
           "url": "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/a23590fe66ebce01.jpg"
+        },
+        {
+          "id": "079153d0df55edaa",
+          "title": "PROP31 - Clearance evidence",
+          "url": "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/079153d0df55edaa.jpg"
         }
       ],
       "preflight_outstanding": [
-        "Episode 3 relevant notice, map, machinery or moving-box prop reference audit",
         "Performance and continuity review"
       ],
       "status": "shot-level draft; not submitted",
       "public_audio_url": "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Seasons/Season%2001/Episode%2003%20-%20Development/Shot%20Audio/E03-S12-P01-dialogue-reference.wav",
-      "episode_review_available": true
+      "episode_review_available": true,
+      "reference_usage": "Use only relevant panel from each reference, never display whole reference grid. Keep camera axis consistent with north-up location plan. Operation D7-C041 and stay TS-D7-041; records unchanged. Match original dialogue; do not add narration. Verify critical document lettering after render."
     },
     {
       "shot_id": "E03-S12-P02",
@@ -2561,15 +2788,20 @@
           "id": "a23590fe66ebce01",
           "title": "Byte",
           "url": "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/a23590fe66ebce01.jpg"
+        },
+        {
+          "id": "079153d0df55edaa",
+          "title": "PROP31 - Clearance evidence",
+          "url": "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/079153d0df55edaa.jpg"
         }
       ],
       "preflight_outstanding": [
-        "Episode 3 relevant notice, map, machinery or moving-box prop reference audit",
         "Performance and continuity review"
       ],
       "status": "shot-level draft; not submitted",
       "public_audio_url": "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Seasons/Season%2001/Episode%2003%20-%20Development/Shot%20Audio/E03-S12-P02-dialogue-reference.wav",
-      "episode_review_available": true
+      "episode_review_available": true,
+      "reference_usage": "Use only relevant panel from each reference, never display whole reference grid. Keep camera axis consistent with north-up location plan. Operation D7-C041 and stay TS-D7-041; records unchanged. Match original dialogue; do not add narration. Verify critical document lettering after render."
     },
     {
       "shot_id": "E03-S12-P03",
@@ -2632,15 +2864,20 @@
           "id": "a23590fe66ebce01",
           "title": "Byte",
           "url": "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/a23590fe66ebce01.jpg"
+        },
+        {
+          "id": "079153d0df55edaa",
+          "title": "PROP31 - Clearance evidence",
+          "url": "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/079153d0df55edaa.jpg"
         }
       ],
       "preflight_outstanding": [
-        "Episode 3 relevant notice, map, machinery or moving-box prop reference audit",
         "Performance and continuity review"
       ],
       "status": "shot-level draft; not submitted",
       "public_audio_url": "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Seasons/Season%2001/Episode%2003%20-%20Development/Shot%20Audio/E03-S12-P03-dialogue-reference.wav",
-      "episode_review_available": true
+      "episode_review_available": true,
+      "reference_usage": "Use only relevant panel from each reference, never display whole reference grid. Keep camera axis consistent with north-up location plan. Operation D7-C041 and stay TS-D7-041; records unchanged. Match original dialogue; do not add narration. Verify critical document lettering after render."
     },
     {
       "shot_id": "E03-S13-P01",
@@ -2711,12 +2948,12 @@
         }
       ],
       "preflight_outstanding": [
-        "Episode 3 relevant notice, map, machinery or moving-box prop reference audit",
         "Performance and continuity review"
       ],
       "status": "shot-level draft; not submitted",
       "public_audio_url": "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Seasons/Season%2001/Episode%2003%20-%20Development/Shot%20Audio/E03-S13-P01-dialogue-reference.wav",
-      "episode_review_available": true
+      "episode_review_available": true,
+      "reference_usage": "Use only relevant panel from each reference, never display whole reference grid. Keep camera axis consistent with north-up location plan. Operation D7-C041 and stay TS-D7-041; records unchanged. Match original dialogue; do not add narration. Verify critical document lettering after render."
     },
     {
       "shot_id": "E03-S13-P02",
@@ -2776,12 +3013,12 @@
         }
       ],
       "preflight_outstanding": [
-        "Episode 3 relevant notice, map, machinery or moving-box prop reference audit",
         "Performance and continuity review"
       ],
       "status": "shot-level draft; not submitted",
       "public_audio_url": "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Seasons/Season%2001/Episode%2003%20-%20Development/Shot%20Audio/E03-S13-P02-dialogue-reference.wav",
-      "episode_review_available": true
+      "episode_review_available": true,
+      "reference_usage": "Use only relevant panel from each reference, never display whole reference grid. Keep camera axis consistent with north-up location plan. Operation D7-C041 and stay TS-D7-041; records unchanged. Match original dialogue; do not add narration. Verify critical document lettering after render."
     },
     {
       "shot_id": "E03-S13-P03",
@@ -2852,12 +3089,12 @@
         }
       ],
       "preflight_outstanding": [
-        "Episode 3 relevant notice, map, machinery or moving-box prop reference audit",
         "Performance and continuity review"
       ],
       "status": "shot-level draft; not submitted",
       "public_audio_url": "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Seasons/Season%2001/Episode%2003%20-%20Development/Shot%20Audio/E03-S13-P03-dialogue-reference.wav",
-      "episode_review_available": true
+      "episode_review_available": true,
+      "reference_usage": "Use only relevant panel from each reference, never display whole reference grid. Keep camera axis consistent with north-up location plan. Operation D7-C041 and stay TS-D7-041; records unchanged. Match original dialogue; do not add narration. Verify critical document lettering after render."
     },
     {
       "shot_id": "E03-S14-P01",
@@ -2918,16 +3155,20 @@
           "id": "8ac469710ff37bec",
           "title": "Onyx",
           "url": "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/8ac469710ff37bec.jpg"
+        },
+        {
+          "id": "b061ae5eecaacb3c",
+          "title": "LOC24 - Stationary machinery maintenance bay",
+          "url": "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/b061ae5eecaacb3c.jpg"
         }
       ],
       "preflight_outstanding": [
-        "LOC24 location reference required",
-        "Episode 3 relevant notice, map, machinery or moving-box prop reference audit",
         "Performance and continuity review"
       ],
       "status": "shot-level draft; not submitted",
       "public_audio_url": "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Seasons/Season%2001/Episode%2003%20-%20Development/Shot%20Audio/E03-S14-P01-dialogue-reference.wav",
-      "episode_review_available": true
+      "episode_review_available": true,
+      "reference_usage": "Use only relevant panel from each reference, never display whole reference grid. Keep camera axis consistent with north-up location plan. Operation D7-C041 and stay TS-D7-041; records unchanged. Match original dialogue; do not add narration. Verify critical document lettering after render."
     },
     {
       "shot_id": "E03-S14-P02",
@@ -2977,16 +3218,20 @@
           "id": "8ac469710ff37bec",
           "title": "Onyx",
           "url": "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/8ac469710ff37bec.jpg"
+        },
+        {
+          "id": "b061ae5eecaacb3c",
+          "title": "LOC24 - Stationary machinery maintenance bay",
+          "url": "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/b061ae5eecaacb3c.jpg"
         }
       ],
       "preflight_outstanding": [
-        "LOC24 location reference required",
-        "Episode 3 relevant notice, map, machinery or moving-box prop reference audit",
         "Performance and continuity review"
       ],
       "status": "shot-level draft; not submitted",
       "public_audio_url": "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Seasons/Season%2001/Episode%2003%20-%20Development/Shot%20Audio/E03-S14-P02-dialogue-reference.wav",
-      "episode_review_available": true
+      "episode_review_available": true,
+      "reference_usage": "Use only relevant panel from each reference, never display whole reference grid. Keep camera axis consistent with north-up location plan. Operation D7-C041 and stay TS-D7-041; records unchanged. Match original dialogue; do not add narration. Verify critical document lettering after render."
     },
     {
       "shot_id": "E03-S14-P03",
@@ -3047,16 +3292,20 @@
           "id": "8ac469710ff37bec",
           "title": "Onyx",
           "url": "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/8ac469710ff37bec.jpg"
+        },
+        {
+          "id": "b061ae5eecaacb3c",
+          "title": "LOC24 - Stationary machinery maintenance bay",
+          "url": "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/b061ae5eecaacb3c.jpg"
         }
       ],
       "preflight_outstanding": [
-        "LOC24 location reference required",
-        "Episode 3 relevant notice, map, machinery or moving-box prop reference audit",
         "Performance and continuity review"
       ],
       "status": "shot-level draft; not submitted",
       "public_audio_url": "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Seasons/Season%2001/Episode%2003%20-%20Development/Shot%20Audio/E03-S14-P03-dialogue-reference.wav",
-      "episode_review_available": true
+      "episode_review_available": true,
+      "reference_usage": "Use only relevant panel from each reference, never display whole reference grid. Keep camera axis consistent with north-up location plan. Operation D7-C041 and stay TS-D7-041; records unchanged. Match original dialogue; do not add narration. Verify critical document lettering after render."
     },
     {
       "shot_id": "E03-S15-P01",
@@ -3117,16 +3366,25 @@
           "id": "4562760aa1996806",
           "title": "CIV02 - Civilian Cat",
           "url": "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/4562760aa1996806.jpg"
+        },
+        {
+          "id": "606f49b07192df94",
+          "title": "LOC21 - District 7 monorail underpass shelters",
+          "url": "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/606f49b07192df94.jpg"
+        },
+        {
+          "id": "72d254c27a38863e",
+          "title": "PROP32 - Shelter belongings",
+          "url": "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/72d254c27a38863e.jpg"
         }
       ],
       "preflight_outstanding": [
-        "LOC21 location reference required",
-        "Episode 3 relevant notice, map, machinery or moving-box prop reference audit",
         "Performance and continuity review"
       ],
       "status": "shot-level draft; not submitted",
       "public_audio_url": "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Seasons/Season%2001/Episode%2003%20-%20Development/Shot%20Audio/E03-S15-P01-dialogue-reference.wav",
-      "episode_review_available": true
+      "episode_review_available": true,
+      "reference_usage": "Use only relevant panel from each reference, never display whole reference grid. Keep camera axis consistent with north-up location plan. Operation D7-C041 and stay TS-D7-041; records unchanged. Match original dialogue; do not add narration. Verify critical document lettering after render."
     },
     {
       "shot_id": "E03-S15-P02",
@@ -3176,16 +3434,25 @@
           "id": "4562760aa1996806",
           "title": "CIV02 - Civilian Cat",
           "url": "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/4562760aa1996806.jpg"
+        },
+        {
+          "id": "606f49b07192df94",
+          "title": "LOC21 - District 7 monorail underpass shelters",
+          "url": "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/606f49b07192df94.jpg"
+        },
+        {
+          "id": "72d254c27a38863e",
+          "title": "PROP32 - Shelter belongings",
+          "url": "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/72d254c27a38863e.jpg"
         }
       ],
       "preflight_outstanding": [
-        "LOC21 location reference required",
-        "Episode 3 relevant notice, map, machinery or moving-box prop reference audit",
         "Performance and continuity review"
       ],
       "status": "shot-level draft; not submitted",
       "public_audio_url": "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Seasons/Season%2001/Episode%2003%20-%20Development/Shot%20Audio/E03-S15-P02-dialogue-reference.wav",
-      "episode_review_available": true
+      "episode_review_available": true,
+      "reference_usage": "Use only relevant panel from each reference, never display whole reference grid. Keep camera axis consistent with north-up location plan. Operation D7-C041 and stay TS-D7-041; records unchanged. Match original dialogue; do not add narration. Verify critical document lettering after render."
     },
     {
       "shot_id": "E03-S15-P03",
@@ -3246,16 +3513,25 @@
           "id": "4562760aa1996806",
           "title": "CIV02 - Civilian Cat",
           "url": "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/4562760aa1996806.jpg"
+        },
+        {
+          "id": "606f49b07192df94",
+          "title": "LOC21 - District 7 monorail underpass shelters",
+          "url": "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/606f49b07192df94.jpg"
+        },
+        {
+          "id": "72d254c27a38863e",
+          "title": "PROP32 - Shelter belongings",
+          "url": "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/72d254c27a38863e.jpg"
         }
       ],
       "preflight_outstanding": [
-        "LOC21 location reference required",
-        "Episode 3 relevant notice, map, machinery or moving-box prop reference audit",
         "Performance and continuity review"
       ],
       "status": "shot-level draft; not submitted",
       "public_audio_url": "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Seasons/Season%2001/Episode%2003%20-%20Development/Shot%20Audio/E03-S15-P03-dialogue-reference.wav",
-      "episode_review_available": true
+      "episode_review_available": true,
+      "reference_usage": "Use only relevant panel from each reference, never display whole reference grid. Keep camera axis consistent with north-up location plan. Operation D7-C041 and stay TS-D7-041; records unchanged. Match original dialogue; do not add narration. Verify critical document lettering after render."
     },
     {
       "shot_id": "E03-S16-P01",
@@ -3316,16 +3592,25 @@
           "id": "51c0358d041cc3ba",
           "title": "Trixie - CatGirl",
           "url": "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/51c0358d041cc3ba.jpg"
+        },
+        {
+          "id": "9c9bedbf050001c7",
+          "title": "LOC25 - District 7 utility records passage",
+          "url": "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/9c9bedbf050001c7.jpg"
+        },
+        {
+          "id": "079153d0df55edaa",
+          "title": "PROP31 - Clearance evidence",
+          "url": "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/079153d0df55edaa.jpg"
         }
       ],
       "preflight_outstanding": [
-        "LOC25 location reference required",
-        "Episode 3 relevant notice, map, machinery or moving-box prop reference audit",
         "Performance and continuity review"
       ],
       "status": "shot-level draft; not submitted",
       "public_audio_url": "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Seasons/Season%2001/Episode%2003%20-%20Development/Shot%20Audio/E03-S16-P01-dialogue-reference.wav",
-      "episode_review_available": true
+      "episode_review_available": true,
+      "reference_usage": "Use only relevant panel from each reference, never display whole reference grid. Keep camera axis consistent with north-up location plan. Operation D7-C041 and stay TS-D7-041; records unchanged. Match original dialogue; do not add narration. Verify critical document lettering after render."
     },
     {
       "shot_id": "E03-S16-P02",
@@ -3375,16 +3660,25 @@
           "id": "51c0358d041cc3ba",
           "title": "Trixie - CatGirl",
           "url": "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/51c0358d041cc3ba.jpg"
+        },
+        {
+          "id": "9c9bedbf050001c7",
+          "title": "LOC25 - District 7 utility records passage",
+          "url": "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/9c9bedbf050001c7.jpg"
+        },
+        {
+          "id": "079153d0df55edaa",
+          "title": "PROP31 - Clearance evidence",
+          "url": "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/079153d0df55edaa.jpg"
         }
       ],
       "preflight_outstanding": [
-        "LOC25 location reference required",
-        "Episode 3 relevant notice, map, machinery or moving-box prop reference audit",
         "Performance and continuity review"
       ],
       "status": "shot-level draft; not submitted",
       "public_audio_url": "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Seasons/Season%2001/Episode%2003%20-%20Development/Shot%20Audio/E03-S16-P02-dialogue-reference.wav",
-      "episode_review_available": true
+      "episode_review_available": true,
+      "reference_usage": "Use only relevant panel from each reference, never display whole reference grid. Keep camera axis consistent with north-up location plan. Operation D7-C041 and stay TS-D7-041; records unchanged. Match original dialogue; do not add narration. Verify critical document lettering after render."
     },
     {
       "shot_id": "E03-S16-P03",
@@ -3445,16 +3739,25 @@
           "id": "51c0358d041cc3ba",
           "title": "Trixie - CatGirl",
           "url": "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/51c0358d041cc3ba.jpg"
+        },
+        {
+          "id": "9c9bedbf050001c7",
+          "title": "LOC25 - District 7 utility records passage",
+          "url": "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/9c9bedbf050001c7.jpg"
+        },
+        {
+          "id": "079153d0df55edaa",
+          "title": "PROP31 - Clearance evidence",
+          "url": "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/079153d0df55edaa.jpg"
         }
       ],
       "preflight_outstanding": [
-        "LOC25 location reference required",
-        "Episode 3 relevant notice, map, machinery or moving-box prop reference audit",
         "Performance and continuity review"
       ],
       "status": "shot-level draft; not submitted",
       "public_audio_url": "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Seasons/Season%2001/Episode%2003%20-%20Development/Shot%20Audio/E03-S16-P03-dialogue-reference.wav",
-      "episode_review_available": true
+      "episode_review_available": true,
+      "reference_usage": "Use only relevant panel from each reference, never display whole reference grid. Keep camera axis consistent with north-up location plan. Operation D7-C041 and stay TS-D7-041; records unchanged. Match original dialogue; do not add narration. Verify critical document lettering after render."
     },
     {
       "shot_id": "E03-S17-P01",
@@ -3517,16 +3820,20 @@
           "id": "d3a0ec57fe8258f7",
           "title": "General Fetch",
           "url": "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/d3a0ec57fe8258f7.jpg"
+        },
+        {
+          "id": "4919e5c8410a0394",
+          "title": "LOC23 - District 7 clearance checkpoint",
+          "url": "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/4919e5c8410a0394.jpg"
         }
       ],
       "preflight_outstanding": [
-        "LOC23 location reference required",
-        "Episode 3 relevant notice, map, machinery or moving-box prop reference audit",
         "Performance and continuity review"
       ],
       "status": "shot-level draft; not submitted",
       "public_audio_url": "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Seasons/Season%2001/Episode%2003%20-%20Development/Shot%20Audio/E03-S17-P01-dialogue-reference.wav",
-      "episode_review_available": true
+      "episode_review_available": true,
+      "reference_usage": "Use only relevant panel from each reference, never display whole reference grid. Keep camera axis consistent with north-up location plan. Operation D7-C041 and stay TS-D7-041; records unchanged. Match original dialogue; do not add narration. Verify critical document lettering after render."
     },
     {
       "shot_id": "E03-S17-P02",
@@ -3578,16 +3885,20 @@
           "id": "d3a0ec57fe8258f7",
           "title": "General Fetch",
           "url": "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/d3a0ec57fe8258f7.jpg"
+        },
+        {
+          "id": "4919e5c8410a0394",
+          "title": "LOC23 - District 7 clearance checkpoint",
+          "url": "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/4919e5c8410a0394.jpg"
         }
       ],
       "preflight_outstanding": [
-        "LOC23 location reference required",
-        "Episode 3 relevant notice, map, machinery or moving-box prop reference audit",
         "Performance and continuity review"
       ],
       "status": "shot-level draft; not submitted",
       "public_audio_url": "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Seasons/Season%2001/Episode%2003%20-%20Development/Shot%20Audio/E03-S17-P02-dialogue-reference.wav",
-      "episode_review_available": true
+      "episode_review_available": true,
+      "reference_usage": "Use only relevant panel from each reference, never display whole reference grid. Keep camera axis consistent with north-up location plan. Operation D7-C041 and stay TS-D7-041; records unchanged. Match original dialogue; do not add narration. Verify critical document lettering after render."
     },
     {
       "shot_id": "E03-S17-P03",
@@ -3650,16 +3961,20 @@
           "id": "d3a0ec57fe8258f7",
           "title": "General Fetch",
           "url": "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/d3a0ec57fe8258f7.jpg"
+        },
+        {
+          "id": "4919e5c8410a0394",
+          "title": "LOC23 - District 7 clearance checkpoint",
+          "url": "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/4919e5c8410a0394.jpg"
         }
       ],
       "preflight_outstanding": [
-        "LOC23 location reference required",
-        "Episode 3 relevant notice, map, machinery or moving-box prop reference audit",
         "Performance and continuity review"
       ],
       "status": "shot-level draft; not submitted",
       "public_audio_url": "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Seasons/Season%2001/Episode%2003%20-%20Development/Shot%20Audio/E03-S17-P03-dialogue-reference.wav",
-      "episode_review_available": true
+      "episode_review_available": true,
+      "reference_usage": "Use only relevant panel from each reference, never display whole reference grid. Keep camera axis consistent with north-up location plan. Operation D7-C041 and stay TS-D7-041; records unchanged. Match original dialogue; do not add narration. Verify critical document lettering after render."
     },
     {
       "shot_id": "E03-S18-P01",
@@ -3722,16 +4037,25 @@
           "id": "61dc338e08cb2385",
           "title": "Ghost",
           "url": "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/61dc338e08cb2385.jpg"
+        },
+        {
+          "id": "9c9bedbf050001c7",
+          "title": "LOC25 - District 7 utility records passage",
+          "url": "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/9c9bedbf050001c7.jpg"
+        },
+        {
+          "id": "e596d9cd2e930e3e",
+          "title": "PROP33 - Notice drone and old map",
+          "url": "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/e596d9cd2e930e3e.jpg"
         }
       ],
       "preflight_outstanding": [
-        "LOC25 location reference required",
-        "Episode 3 relevant notice, map, machinery or moving-box prop reference audit",
         "Performance and continuity review"
       ],
       "status": "shot-level draft; not submitted",
       "public_audio_url": "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Seasons/Season%2001/Episode%2003%20-%20Development/Shot%20Audio/E03-S18-P01-dialogue-reference.wav",
-      "episode_review_available": true
+      "episode_review_available": true,
+      "reference_usage": "Use only relevant panel from each reference, never display whole reference grid. Keep camera axis consistent with north-up location plan. Operation D7-C041 and stay TS-D7-041; records unchanged. Match original dialogue; do not add narration. Verify critical document lettering after render. Ignore PROP33 panel 6. Plate J-07 remains attached to wall; any lair plate image is a flat paper photograph, never a removed metal plate. Use map panel 4 and plate design panel 5 only."
     },
     {
       "shot_id": "E03-S18-P02",
@@ -3783,16 +4107,25 @@
           "id": "61dc338e08cb2385",
           "title": "Ghost",
           "url": "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/61dc338e08cb2385.jpg"
+        },
+        {
+          "id": "9c9bedbf050001c7",
+          "title": "LOC25 - District 7 utility records passage",
+          "url": "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/9c9bedbf050001c7.jpg"
+        },
+        {
+          "id": "e596d9cd2e930e3e",
+          "title": "PROP33 - Notice drone and old map",
+          "url": "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/e596d9cd2e930e3e.jpg"
         }
       ],
       "preflight_outstanding": [
-        "LOC25 location reference required",
-        "Episode 3 relevant notice, map, machinery or moving-box prop reference audit",
         "Performance and continuity review"
       ],
       "status": "shot-level draft; not submitted",
       "public_audio_url": "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Seasons/Season%2001/Episode%2003%20-%20Development/Shot%20Audio/E03-S18-P02-dialogue-reference.wav",
-      "episode_review_available": true
+      "episode_review_available": true,
+      "reference_usage": "Use only relevant panel from each reference, never display whole reference grid. Keep camera axis consistent with north-up location plan. Operation D7-C041 and stay TS-D7-041; records unchanged. Match original dialogue; do not add narration. Verify critical document lettering after render. Ignore PROP33 panel 6. Plate J-07 remains attached to wall; any lair plate image is a flat paper photograph, never a removed metal plate. Use map panel 4 and plate design panel 5 only."
     },
     {
       "shot_id": "E03-S18-P03",
@@ -3855,16 +4188,25 @@
           "id": "61dc338e08cb2385",
           "title": "Ghost",
           "url": "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/61dc338e08cb2385.jpg"
+        },
+        {
+          "id": "9c9bedbf050001c7",
+          "title": "LOC25 - District 7 utility records passage",
+          "url": "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/9c9bedbf050001c7.jpg"
+        },
+        {
+          "id": "e596d9cd2e930e3e",
+          "title": "PROP33 - Notice drone and old map",
+          "url": "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/e596d9cd2e930e3e.jpg"
         }
       ],
       "preflight_outstanding": [
-        "LOC25 location reference required",
-        "Episode 3 relevant notice, map, machinery or moving-box prop reference audit",
         "Performance and continuity review"
       ],
       "status": "shot-level draft; not submitted",
       "public_audio_url": "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Seasons/Season%2001/Episode%2003%20-%20Development/Shot%20Audio/E03-S18-P03-dialogue-reference.wav",
-      "episode_review_available": true
+      "episode_review_available": true,
+      "reference_usage": "Use only relevant panel from each reference, never display whole reference grid. Keep camera axis consistent with north-up location plan. Operation D7-C041 and stay TS-D7-041; records unchanged. Match original dialogue; do not add narration. Verify critical document lettering after render. Ignore PROP33 panel 6. Plate J-07 remains attached to wall; any lair plate image is a flat paper photograph, never a removed metal plate. Use map panel 4 and plate design panel 5 only."
     },
     {
       "shot_id": "E03-S19-P01",
@@ -3926,15 +4268,20 @@
           "id": "a23590fe66ebce01",
           "title": "Byte",
           "url": "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/a23590fe66ebce01.jpg"
+        },
+        {
+          "id": "079153d0df55edaa",
+          "title": "PROP31 - Clearance evidence",
+          "url": "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/079153d0df55edaa.jpg"
         }
       ],
       "preflight_outstanding": [
-        "Episode 3 relevant notice, map, machinery or moving-box prop reference audit",
         "Performance and continuity review"
       ],
       "status": "shot-level draft; not submitted",
       "public_audio_url": "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Seasons/Season%2001/Episode%2003%20-%20Development/Shot%20Audio/E03-S19-P01-dialogue-reference.wav",
-      "episode_review_available": true
+      "episode_review_available": true,
+      "reference_usage": "Use only relevant panel from each reference, never display whole reference grid. Keep camera axis consistent with north-up location plan. Operation D7-C041 and stay TS-D7-041; records unchanged. Match original dialogue; do not add narration. Verify critical document lettering after render."
     },
     {
       "shot_id": "E03-S19-P02",
@@ -3985,15 +4332,20 @@
           "id": "a23590fe66ebce01",
           "title": "Byte",
           "url": "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/a23590fe66ebce01.jpg"
+        },
+        {
+          "id": "079153d0df55edaa",
+          "title": "PROP31 - Clearance evidence",
+          "url": "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/079153d0df55edaa.jpg"
         }
       ],
       "preflight_outstanding": [
-        "Episode 3 relevant notice, map, machinery or moving-box prop reference audit",
         "Performance and continuity review"
       ],
       "status": "shot-level draft; not submitted",
       "public_audio_url": "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Seasons/Season%2001/Episode%2003%20-%20Development/Shot%20Audio/E03-S19-P02-dialogue-reference.wav",
-      "episode_review_available": true
+      "episode_review_available": true,
+      "reference_usage": "Use only relevant panel from each reference, never display whole reference grid. Keep camera axis consistent with north-up location plan. Operation D7-C041 and stay TS-D7-041; records unchanged. Match original dialogue; do not add narration. Verify critical document lettering after render."
     },
     {
       "shot_id": "E03-S19-P03",
@@ -4055,15 +4407,20 @@
           "id": "a23590fe66ebce01",
           "title": "Byte",
           "url": "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/a23590fe66ebce01.jpg"
+        },
+        {
+          "id": "079153d0df55edaa",
+          "title": "PROP31 - Clearance evidence",
+          "url": "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/079153d0df55edaa.jpg"
         }
       ],
       "preflight_outstanding": [
-        "Episode 3 relevant notice, map, machinery or moving-box prop reference audit",
         "Performance and continuity review"
       ],
       "status": "shot-level draft; not submitted",
       "public_audio_url": "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Seasons/Season%2001/Episode%2003%20-%20Development/Shot%20Audio/E03-S19-P03-dialogue-reference.wav",
-      "episode_review_available": true
+      "episode_review_available": true,
+      "reference_usage": "Use only relevant panel from each reference, never display whole reference grid. Keep camera axis consistent with north-up location plan. Operation D7-C041 and stay TS-D7-041; records unchanged. Match original dialogue; do not add narration. Verify critical document lettering after render."
     },
     {
       "shot_id": "E03-S20-P01",
@@ -4125,15 +4482,20 @@
           "id": "da9e9b230cb00baf",
           "title": "NIP7 Anchor",
           "url": "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/da9e9b230cb00baf.jpg"
+        },
+        {
+          "id": "079153d0df55edaa",
+          "title": "PROP31 - Clearance evidence",
+          "url": "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/079153d0df55edaa.jpg"
         }
       ],
       "preflight_outstanding": [
-        "Episode 3 relevant notice, map, machinery or moving-box prop reference audit",
         "Performance and continuity review"
       ],
       "status": "shot-level draft; not submitted",
       "public_audio_url": "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Seasons/Season%2001/Episode%2003%20-%20Development/Shot%20Audio/E03-S20-P01-dialogue-reference.wav",
-      "episode_review_available": true
+      "episode_review_available": true,
+      "reference_usage": "Use only relevant panel from each reference, never display whole reference grid. Keep camera axis consistent with north-up location plan. Operation D7-C041 and stay TS-D7-041; records unchanged. Match original dialogue; do not add narration. Verify critical document lettering after render."
     },
     {
       "shot_id": "E03-S20-P02",
@@ -4184,15 +4546,20 @@
           "id": "da9e9b230cb00baf",
           "title": "NIP7 Anchor",
           "url": "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/da9e9b230cb00baf.jpg"
+        },
+        {
+          "id": "079153d0df55edaa",
+          "title": "PROP31 - Clearance evidence",
+          "url": "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/079153d0df55edaa.jpg"
         }
       ],
       "preflight_outstanding": [
-        "Episode 3 relevant notice, map, machinery or moving-box prop reference audit",
         "Performance and continuity review"
       ],
       "status": "shot-level draft; not submitted",
       "public_audio_url": "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Seasons/Season%2001/Episode%2003%20-%20Development/Shot%20Audio/E03-S20-P02-dialogue-reference.wav",
-      "episode_review_available": true
+      "episode_review_available": true,
+      "reference_usage": "Use only relevant panel from each reference, never display whole reference grid. Keep camera axis consistent with north-up location plan. Operation D7-C041 and stay TS-D7-041; records unchanged. Match original dialogue; do not add narration. Verify critical document lettering after render."
     },
     {
       "shot_id": "E03-S20-P03",
@@ -4254,15 +4621,20 @@
           "id": "da9e9b230cb00baf",
           "title": "NIP7 Anchor",
           "url": "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/da9e9b230cb00baf.jpg"
+        },
+        {
+          "id": "079153d0df55edaa",
+          "title": "PROP31 - Clearance evidence",
+          "url": "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/079153d0df55edaa.jpg"
         }
       ],
       "preflight_outstanding": [
-        "Episode 3 relevant notice, map, machinery or moving-box prop reference audit",
         "Performance and continuity review"
       ],
       "status": "shot-level draft; not submitted",
       "public_audio_url": "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Seasons/Season%2001/Episode%2003%20-%20Development/Shot%20Audio/E03-S20-P03-dialogue-reference.wav",
-      "episode_review_available": true
+      "episode_review_available": true,
+      "reference_usage": "Use only relevant panel from each reference, never display whole reference grid. Keep camera axis consistent with north-up location plan. Operation D7-C041 and stay TS-D7-041; records unchanged. Match original dialogue; do not add narration. Verify critical document lettering after render."
     },
     {
       "shot_id": "E03-S21-P01",
@@ -4323,16 +4695,25 @@
           "id": "d3a0ec57fe8258f7",
           "title": "General Fetch",
           "url": "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/d3a0ec57fe8258f7.jpg"
+        },
+        {
+          "id": "4919e5c8410a0394",
+          "title": "LOC23 - District 7 clearance checkpoint",
+          "url": "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/4919e5c8410a0394.jpg"
+        },
+        {
+          "id": "079153d0df55edaa",
+          "title": "PROP31 - Clearance evidence",
+          "url": "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/079153d0df55edaa.jpg"
         }
       ],
       "preflight_outstanding": [
-        "LOC23 location reference required",
-        "Episode 3 relevant notice, map, machinery or moving-box prop reference audit",
         "Performance and continuity review"
       ],
       "status": "shot-level draft; not submitted",
       "public_audio_url": "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Seasons/Season%2001/Episode%2003%20-%20Development/Shot%20Audio/E03-S21-P01-dialogue-reference.wav",
-      "episode_review_available": true
+      "episode_review_available": true,
+      "reference_usage": "Use only relevant panel from each reference, never display whole reference grid. Keep camera axis consistent with north-up location plan. Operation D7-C041 and stay TS-D7-041; records unchanged. Match original dialogue; do not add narration. Verify critical document lettering after render."
     },
     {
       "shot_id": "E03-S21-P02",
@@ -4382,16 +4763,25 @@
           "id": "d3a0ec57fe8258f7",
           "title": "General Fetch",
           "url": "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/d3a0ec57fe8258f7.jpg"
+        },
+        {
+          "id": "4919e5c8410a0394",
+          "title": "LOC23 - District 7 clearance checkpoint",
+          "url": "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/4919e5c8410a0394.jpg"
+        },
+        {
+          "id": "079153d0df55edaa",
+          "title": "PROP31 - Clearance evidence",
+          "url": "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/079153d0df55edaa.jpg"
         }
       ],
       "preflight_outstanding": [
-        "LOC23 location reference required",
-        "Episode 3 relevant notice, map, machinery or moving-box prop reference audit",
         "Performance and continuity review"
       ],
       "status": "shot-level draft; not submitted",
       "public_audio_url": "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Seasons/Season%2001/Episode%2003%20-%20Development/Shot%20Audio/E03-S21-P02-dialogue-reference.wav",
-      "episode_review_available": true
+      "episode_review_available": true,
+      "reference_usage": "Use only relevant panel from each reference, never display whole reference grid. Keep camera axis consistent with north-up location plan. Operation D7-C041 and stay TS-D7-041; records unchanged. Match original dialogue; do not add narration. Verify critical document lettering after render."
     },
     {
       "shot_id": "E03-S21-P03",
@@ -4452,16 +4842,25 @@
           "id": "d3a0ec57fe8258f7",
           "title": "General Fetch",
           "url": "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/d3a0ec57fe8258f7.jpg"
+        },
+        {
+          "id": "4919e5c8410a0394",
+          "title": "LOC23 - District 7 clearance checkpoint",
+          "url": "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/4919e5c8410a0394.jpg"
+        },
+        {
+          "id": "079153d0df55edaa",
+          "title": "PROP31 - Clearance evidence",
+          "url": "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/079153d0df55edaa.jpg"
         }
       ],
       "preflight_outstanding": [
-        "LOC23 location reference required",
-        "Episode 3 relevant notice, map, machinery or moving-box prop reference audit",
         "Performance and continuity review"
       ],
       "status": "shot-level draft; not submitted",
       "public_audio_url": "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Seasons/Season%2001/Episode%2003%20-%20Development/Shot%20Audio/E03-S21-P03-dialogue-reference.wav",
-      "episode_review_available": true
+      "episode_review_available": true,
+      "reference_usage": "Use only relevant panel from each reference, never display whole reference grid. Keep camera axis consistent with north-up location plan. Operation D7-C041 and stay TS-D7-041; records unchanged. Match original dialogue; do not add narration. Verify critical document lettering after render."
     },
     {
       "shot_id": "E03-S22-P01",
@@ -4534,16 +4933,25 @@
           "id": "c59f876dfb3540bb",
           "title": "Neon",
           "url": "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/c59f876dfb3540bb.jpg"
+        },
+        {
+          "id": "a391278003f06213",
+          "title": "LOC22 - Resistance community annex",
+          "url": "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/a391278003f06213.jpg"
+        },
+        {
+          "id": "72d254c27a38863e",
+          "title": "PROP32 - Shelter belongings",
+          "url": "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/72d254c27a38863e.jpg"
         }
       ],
       "preflight_outstanding": [
-        "LOC22 location reference required",
-        "Episode 3 relevant notice, map, machinery or moving-box prop reference audit",
         "Performance and continuity review"
       ],
       "status": "shot-level draft; not submitted",
       "public_audio_url": "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Seasons/Season%2001/Episode%2003%20-%20Development/Shot%20Audio/E03-S22-P01-dialogue-reference.wav",
-      "episode_review_available": true
+      "episode_review_available": true,
+      "reference_usage": "Use only relevant panel from each reference, never display whole reference grid. Keep camera axis consistent with north-up location plan. Operation D7-C041 and stay TS-D7-041; records unchanged. Match original dialogue; do not add narration. Verify critical document lettering after render."
     },
     {
       "shot_id": "E03-S22-P02",
@@ -4605,16 +5013,25 @@
           "id": "c59f876dfb3540bb",
           "title": "Neon",
           "url": "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/c59f876dfb3540bb.jpg"
+        },
+        {
+          "id": "a391278003f06213",
+          "title": "LOC22 - Resistance community annex",
+          "url": "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/a391278003f06213.jpg"
+        },
+        {
+          "id": "72d254c27a38863e",
+          "title": "PROP32 - Shelter belongings",
+          "url": "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/72d254c27a38863e.jpg"
         }
       ],
       "preflight_outstanding": [
-        "LOC22 location reference required",
-        "Episode 3 relevant notice, map, machinery or moving-box prop reference audit",
         "Performance and continuity review"
       ],
       "status": "shot-level draft; not submitted",
       "public_audio_url": "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Seasons/Season%2001/Episode%2003%20-%20Development/Shot%20Audio/E03-S22-P02-dialogue-reference.wav",
-      "episode_review_available": true
+      "episode_review_available": true,
+      "reference_usage": "Use only relevant panel from each reference, never display whole reference grid. Keep camera axis consistent with north-up location plan. Operation D7-C041 and stay TS-D7-041; records unchanged. Match original dialogue; do not add narration. Verify critical document lettering after render."
     },
     {
       "shot_id": "E03-S22-P03",
@@ -4687,16 +5104,25 @@
           "id": "c59f876dfb3540bb",
           "title": "Neon",
           "url": "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/c59f876dfb3540bb.jpg"
+        },
+        {
+          "id": "a391278003f06213",
+          "title": "LOC22 - Resistance community annex",
+          "url": "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/a391278003f06213.jpg"
+        },
+        {
+          "id": "72d254c27a38863e",
+          "title": "PROP32 - Shelter belongings",
+          "url": "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/72d254c27a38863e.jpg"
         }
       ],
       "preflight_outstanding": [
-        "LOC22 location reference required",
-        "Episode 3 relevant notice, map, machinery or moving-box prop reference audit",
         "Performance and continuity review"
       ],
       "status": "shot-level draft; not submitted",
       "public_audio_url": "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Seasons/Season%2001/Episode%2003%20-%20Development/Shot%20Audio/E03-S22-P03-dialogue-reference.wav",
-      "episode_review_available": true
+      "episode_review_available": true,
+      "reference_usage": "Use only relevant panel from each reference, never display whole reference grid. Keep camera axis consistent with north-up location plan. Operation D7-C041 and stay TS-D7-041; records unchanged. Match original dialogue; do not add narration. Verify critical document lettering after render."
     },
     {
       "shot_id": "E03-S23-P01",
@@ -4780,15 +5206,20 @@
           "id": "61dc338e08cb2385",
           "title": "Ghost",
           "url": "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/61dc338e08cb2385.jpg"
+        },
+        {
+          "id": "e596d9cd2e930e3e",
+          "title": "PROP33 - Notice drone and old map",
+          "url": "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/e596d9cd2e930e3e.jpg"
         }
       ],
       "preflight_outstanding": [
-        "Episode 3 relevant notice, map, machinery or moving-box prop reference audit",
         "Performance and continuity review"
       ],
       "status": "shot-level draft; not submitted",
       "public_audio_url": "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Seasons/Season%2001/Episode%2003%20-%20Development/Shot%20Audio/E03-S23-P01-dialogue-reference.wav",
-      "episode_review_available": true
+      "episode_review_available": true,
+      "reference_usage": "Use only relevant panel from each reference, never display whole reference grid. Keep camera axis consistent with north-up location plan. Operation D7-C041 and stay TS-D7-041; records unchanged. Match original dialogue; do not add narration. Verify critical document lettering after render. Ignore PROP33 panel 6. Plate J-07 remains attached to wall; any lair plate image is a flat paper photograph, never a removed metal plate. Use map panel 4 and plate design panel 5 only."
     },
     {
       "shot_id": "E03-S23-P02",
@@ -4861,15 +5292,20 @@
           "id": "61dc338e08cb2385",
           "title": "Ghost",
           "url": "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/61dc338e08cb2385.jpg"
+        },
+        {
+          "id": "e596d9cd2e930e3e",
+          "title": "PROP33 - Notice drone and old map",
+          "url": "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/e596d9cd2e930e3e.jpg"
         }
       ],
       "preflight_outstanding": [
-        "Episode 3 relevant notice, map, machinery or moving-box prop reference audit",
         "Performance and continuity review"
       ],
       "status": "shot-level draft; not submitted",
       "public_audio_url": "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Seasons/Season%2001/Episode%2003%20-%20Development/Shot%20Audio/E03-S23-P02-dialogue-reference.wav",
-      "episode_review_available": true
+      "episode_review_available": true,
+      "reference_usage": "Use only relevant panel from each reference, never display whole reference grid. Keep camera axis consistent with north-up location plan. Operation D7-C041 and stay TS-D7-041; records unchanged. Match original dialogue; do not add narration. Verify critical document lettering after render. Ignore PROP33 panel 6. Plate J-07 remains attached to wall; any lair plate image is a flat paper photograph, never a removed metal plate. Use map panel 4 and plate design panel 5 only."
     },
     {
       "shot_id": "E03-S23-P03",
@@ -4953,15 +5389,20 @@
           "id": "61dc338e08cb2385",
           "title": "Ghost",
           "url": "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/61dc338e08cb2385.jpg"
+        },
+        {
+          "id": "e596d9cd2e930e3e",
+          "title": "PROP33 - Notice drone and old map",
+          "url": "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/e596d9cd2e930e3e.jpg"
         }
       ],
       "preflight_outstanding": [
-        "Episode 3 relevant notice, map, machinery or moving-box prop reference audit",
         "Performance and continuity review"
       ],
       "status": "shot-level draft; not submitted",
       "public_audio_url": "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Seasons/Season%2001/Episode%2003%20-%20Development/Shot%20Audio/E03-S23-P03-dialogue-reference.wav",
-      "episode_review_available": true
+      "episode_review_available": true,
+      "reference_usage": "Use only relevant panel from each reference, never display whole reference grid. Keep camera axis consistent with north-up location plan. Operation D7-C041 and stay TS-D7-041; records unchanged. Match original dialogue; do not add narration. Verify critical document lettering after render. Ignore PROP33 panel 6. Plate J-07 remains attached to wall; any lair plate image is a flat paper photograph, never a removed metal plate. Use map panel 4 and plate design panel 5 only."
     },
     {
       "shot_id": "E03-S24-P01",
@@ -5005,16 +5446,25 @@
           "id": "d3a0ec57fe8258f7",
           "title": "General Fetch",
           "url": "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/d3a0ec57fe8258f7.jpg"
+        },
+        {
+          "id": "4919e5c8410a0394",
+          "title": "LOC23 - District 7 clearance checkpoint",
+          "url": "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/4919e5c8410a0394.jpg"
+        },
+        {
+          "id": "e596d9cd2e930e3e",
+          "title": "PROP33 - Notice drone and old map",
+          "url": "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/e596d9cd2e930e3e.jpg"
         }
       ],
       "preflight_outstanding": [
-        "LOC23 location reference required",
-        "Episode 3 relevant notice, map, machinery or moving-box prop reference audit",
         "Performance and continuity review"
       ],
       "status": "shot-level draft; not submitted",
       "public_audio_url": "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Seasons/Season%2001/Episode%2003%20-%20Development/Shot%20Audio/E03-S24-P01-dialogue-reference.wav",
-      "episode_review_available": true
+      "episode_review_available": true,
+      "reference_usage": "Use only relevant panel from each reference, never display whole reference grid. Keep camera axis consistent with north-up location plan. Operation D7-C041 and stay TS-D7-041; records unchanged. Match original dialogue; do not add narration. Verify critical document lettering after render. Ignore PROP33 panel 6. Plate J-07 remains attached to wall; any lair plate image is a flat paper photograph, never a removed metal plate. Use map panel 4 and plate design panel 5 only."
     },
     {
       "shot_id": "E03-S24-P02",
@@ -5069,16 +5519,25 @@
           "id": "d3a0ec57fe8258f7",
           "title": "General Fetch",
           "url": "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/d3a0ec57fe8258f7.jpg"
+        },
+        {
+          "id": "4919e5c8410a0394",
+          "title": "LOC23 - District 7 clearance checkpoint",
+          "url": "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/4919e5c8410a0394.jpg"
+        },
+        {
+          "id": "e596d9cd2e930e3e",
+          "title": "PROP33 - Notice drone and old map",
+          "url": "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/e596d9cd2e930e3e.jpg"
         }
       ],
       "preflight_outstanding": [
-        "LOC23 location reference required",
-        "Episode 3 relevant notice, map, machinery or moving-box prop reference audit",
         "Performance and continuity review"
       ],
       "status": "shot-level draft; not submitted",
       "public_audio_url": "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Seasons/Season%2001/Episode%2003%20-%20Development/Shot%20Audio/E03-S24-P02-dialogue-reference.wav",
-      "episode_review_available": true
+      "episode_review_available": true,
+      "reference_usage": "Use only relevant panel from each reference, never display whole reference grid. Keep camera axis consistent with north-up location plan. Operation D7-C041 and stay TS-D7-041; records unchanged. Match original dialogue; do not add narration. Verify critical document lettering after render. Ignore PROP33 panel 6. Plate J-07 remains attached to wall; any lair plate image is a flat paper photograph, never a removed metal plate. Use map panel 4 and plate design panel 5 only."
     },
     {
       "shot_id": "E03-S24-P03",
@@ -5122,16 +5581,25 @@
           "id": "d3a0ec57fe8258f7",
           "title": "General Fetch",
           "url": "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/d3a0ec57fe8258f7.jpg"
+        },
+        {
+          "id": "4919e5c8410a0394",
+          "title": "LOC23 - District 7 clearance checkpoint",
+          "url": "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/4919e5c8410a0394.jpg"
+        },
+        {
+          "id": "e596d9cd2e930e3e",
+          "title": "PROP33 - Notice drone and old map",
+          "url": "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/e596d9cd2e930e3e.jpg"
         }
       ],
       "preflight_outstanding": [
-        "LOC23 location reference required",
-        "Episode 3 relevant notice, map, machinery or moving-box prop reference audit",
         "Performance and continuity review"
       ],
       "status": "shot-level draft; not submitted",
       "public_audio_url": "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Seasons/Season%2001/Episode%2003%20-%20Development/Shot%20Audio/E03-S24-P03-dialogue-reference.wav",
-      "episode_review_available": true
+      "episode_review_available": true,
+      "reference_usage": "Use only relevant panel from each reference, never display whole reference grid. Keep camera axis consistent with north-up location plan. Operation D7-C041 and stay TS-D7-041; records unchanged. Match original dialogue; do not add narration. Verify critical document lettering after render. Ignore PROP33 panel 6. Plate J-07 remains attached to wall; any lair plate image is a flat paper photograph, never a removed metal plate. Use map panel 4 and plate design panel 5 only."
     },
     {
       "shot_id": "E03-S24-P04",
@@ -5150,15 +5618,20 @@
           "id": "678400a023f22df4",
           "title": "LOC03 - Hacking operations",
           "url": "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/678400a023f22df4.jpg"
+        },
+        {
+          "id": "e596d9cd2e930e3e",
+          "title": "PROP33 - Notice drone and old map",
+          "url": "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/e596d9cd2e930e3e.jpg"
         }
       ],
       "preflight_outstanding": [
-        "Episode 3 relevant notice, map, machinery or moving-box prop reference audit",
         "Performance and continuity review"
       ],
       "status": "shot-level draft; not submitted",
       "public_audio_url": null,
-      "episode_review_available": true
+      "episode_review_available": true,
+      "reference_usage": "Use only relevant panel from each reference, never display whole reference grid. Keep camera axis consistent with north-up location plan. Operation D7-C041 and stay TS-D7-041; records unchanged. Match original dialogue; do not add narration. Verify critical document lettering after render. Ignore PROP33 panel 6. Plate J-07 remains attached to wall; any lair plate image is a flat paper photograph, never a removed metal plate. Use map panel 4 and plate design panel 5 only."
     }
   ]
 }

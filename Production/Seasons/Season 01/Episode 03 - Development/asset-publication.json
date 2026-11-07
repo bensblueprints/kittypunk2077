@@ -1,0 +1,86 @@
+{
+  "hf_revision": "8d209060ded6a54c37e16768bb255feb878bd13a",
+  "entries": [
+    {
+      "id": "606f49b07192df94",
+      "title": "LOC21 - District 7 monorail underpass shelters",
+      "category": "Locations",
+      "group": "Neutral - Episode 3",
+      "file": "ASSET21-gpt26-v002.png",
+      "source": "Seasons/Season 01/Episode 03 - Development/Asset Revisions/ASSET21-gpt26-v002.png",
+      "voice": null,
+      "asset_code": "LOC21"
+    },
+    {
+      "id": "a391278003f06213",
+      "title": "LOC22 - Resistance community annex",
+      "category": "Locations",
+      "group": "Cats - Episode 3",
+      "file": "LOC22-gpt26-v001.png",
+      "source": "Seasons/Season 01/Episode 03 - Development/Location Drafts/LOC22-gpt26-v001.png",
+      "voice": null,
+      "asset_code": "LOC22"
+    },
+    {
+      "id": "4919e5c8410a0394",
+      "title": "LOC23 - District 7 clearance checkpoint",
+      "category": "Locations",
+      "group": "Dogs - Episode 3",
+      "file": "ASSET23-gpt26-v002.png",
+      "source": "Seasons/Season 01/Episode 03 - Development/Asset Revisions/ASSET23-gpt26-v002.png",
+      "voice": null,
+      "asset_code": "LOC23"
+    },
+    {
+      "id": "b061ae5eecaacb3c",
+      "title": "LOC24 - Stationary machinery maintenance bay",
+      "category": "Locations",
+      "group": "Dogs - Episode 3",
+      "file": "ASSET24-gpt26-v002.png",
+      "source": "Seasons/Season 01/Episode 03 - Development/Asset Revisions/ASSET24-gpt26-v002.png",
+      "voice": null,
+      "asset_code": "LOC24"
+    },
+    {
+      "id": "9c9bedbf050001c7",
+      "title": "LOC25 - District 7 utility records passage",
+      "category": "Locations",
+      "group": "Neutral - Episode 3",
+      "file": "ASSET25-gpt26-v003.png",
+      "source": "Seasons/Season 01/Episode 03 - Development/Asset Revisions/ASSET25-gpt26-v003.png",
+      "voice": null,
+      "asset_code": "LOC25"
+    },
+    {
+      "id": "079153d0df55edaa",
+      "title": "PROP31 - Clearance evidence",
+      "category": "Props",
+      "group": "Neutral - Episode 3",
+      "file": "ASSET31-gpt26-v003.png",
+      "source": "Seasons/Season 01/Episode 03 - Development/Asset Revisions/ASSET31-gpt26-v003.png",
+      "voice": null,
+      "asset_code": "PROP31"
+    },
+    {
+      "id": "72d254c27a38863e",
+      "title": "PROP32 - Shelter belongings",
+      "category": "Props",
+      "group": "Cats - Episode 3",
+      "file": "ASSET32-gpt26-v002.png",
+      "source": "Seasons/Season 01/Episode 03 - Development/Asset Revisions/ASSET32-gpt26-v002.png",
+      "voice": null,
+      "asset_code": "PROP32"
+    },
+    {
+      "id": "e596d9cd2e930e3e",
+      "title": "PROP33 - Notice drone and old map",
+      "category": "Props",
+      "group": "Neutral - Episode 3",
+      "file": "ASSET33-gpt26-v003.png",
+      "source": "Seasons/Season 01/Episode 03 - Development/Asset Revisions/ASSET33-gpt26-v003.png",
+      "voice": null,
+      "asset_code": "PROP33"
+    }
+  ],
+  "review_status": "Internal visual checks passed; producer review pending"
+}

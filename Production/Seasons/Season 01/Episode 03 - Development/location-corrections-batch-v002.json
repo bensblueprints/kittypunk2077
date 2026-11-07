@@ -1,0 +1,130 @@
+{
+  "requests": [
+    {
+      "index": 21,
+      "params": {
+        "model": "gpt_image_2_6",
+        "count": 1,
+        "quality": "high",
+        "resolution": "4k",
+        "aspect_ratio": "16:9",
+        "use_unlim": false,
+        "medias": [
+          {
+            "role": "image",
+            "value": "a9ff0392-b69e-41f9-b316-7f051e0d6e0d"
+          }
+        ],
+        "prompt": "Edit the supplied architectural location sheet with a precise continuity correction. Finished 3840x2160 16:9 nine-panel production sheet; empty set, no characters. Only edit panel 6 OVERHEAD PLAN. Keep north up. Replace all current camera markers with three small labeled circles and explicit thin arrow lines: A on southern edge aimed NORTH toward shelters; B at east end aimed WEST down aisle; C at west end aimed EAST down aisle. Arrowheads point at their targets, not at the circle. Keep three shelters on north wall, street south, continuous aisle. Preserve panels 1-5 and 7-9 unchanged. Do not introduce new furniture, doors or props. Keep text crisp. This is an image edit, not a new design."
+      }
+    },
+    {
+      "index": 23,
+      "params": {
+        "model": "gpt_image_2_6",
+        "count": 1,
+        "quality": "high",
+        "resolution": "4k",
+        "aspect_ratio": "16:9",
+        "use_unlim": false,
+        "medias": [
+          {
+            "role": "image",
+            "value": "71f775bf-3131-4521-b000-fbcaf07235ef"
+          }
+        ],
+        "prompt": "Edit the supplied architectural location sheet with a precise continuity correction. Finished 3840x2160 16:9 nine-panel production sheet; empty set, no characters. Only edit panel 6 OVERHEAD PLAN. Keep exact checkpoint geometry and north up. Remove all numbered triangular markers. Put A circle south of barrier with a line arrow aimed NORTH; B circle north of barrier with line arrow aimed SOUTH; C circle on center road opposite east canopy with line arrow aimed EAST at canopy. Only these three cameras; use unmistakable arrowheads pointing inward at subjects. Keep canopy east, pedestrian bypass west, parked loader north, vehicle barrier middle. Preserve panels 1-5 and 7-9 unchanged. Do not introduce new furniture, doors or props. Keep text crisp. This is an image edit, not a new design."
+      }
+    },
+    {
+      "index": 24,
+      "params": {
+        "model": "gpt_image_2_6",
+        "count": 1,
+        "quality": "high",
+        "resolution": "4k",
+        "aspect_ratio": "16:9",
+        "use_unlim": false,
+        "medias": [
+          {
+            "role": "image",
+            "value": "7ed7f43c-3099-4a08-be82-0adf57151bc2"
+          }
+        ],
+        "prompt": "Edit the supplied architectural location sheet with a precise continuity correction. Finished 3840x2160 16:9 nine-panel production sheet; empty set, no characters. Only edit panel 6 OVERHEAD PLAN. Keep north up and existing architecture. Replace all triangular camera icons and legend with three labeled circles and separate line arrows: A at south doorway arrow NORTH to loader; B at north wall arrow SOUTH to loader rear; C at southeast doorway arrow NORTHWEST to loader. Keep loader parked bucket south, tool rack north, windows west, disconnect east. Preserve panels 1-5 and 7-9 unchanged. Do not introduce new furniture, doors or props. Keep text crisp. This is an image edit, not a new design."
+      }
+    },
+    {
+      "index": 25,
+      "params": {
+        "model": "gpt_image_2_6",
+        "count": 1,
+        "quality": "high",
+        "resolution": "4k",
+        "aspect_ratio": "16:9",
+        "use_unlim": false,
+        "medias": [
+          {
+            "role": "image",
+            "value": "02a38d78-5efd-42c7-8f97-7765070d377c"
+          }
+        ],
+        "prompt": "Edit the supplied architectural location sheet with a precise continuity correction. Finished 3840x2160 16:9 nine-panel production sheet; empty set, no characters. Correct spatial continuity of this same L-shaped set without changing material style. North-up overhead plan is authority: horizontal east-west corridor, west end turns NORTH to low escape door; main entry at east end. Tall archive cabinet and ledger shelf fixed on SOUTH wall midpoint; unlit brass junction plate fixed on NORTH wall of HORIZONTAL corridor opposite cabinet (not western vertical branch). HERO camera east looking west: cabinet LEFT, junction RIGHT, north-turn opens RIGHT at far end. REVERSE camera west looking east: cabinet RIGHT, junction LEFT, main entry ahead. ENTRY and SECOND STAGING ANGLE from north escape branch looking south then east must agree. Correct panels 1,2,5,6,9 to this geometry. In overhead plan three labeled circle cameras with line arrows: A east pointing WEST, B west pointing EAST, C north branch pointing SOUTH. Maintain same nine-panel layout, blank screens, unlit plate, no actors. Do not introduce new furniture, doors or props. Keep text crisp. This is an image edit, not a new design."
+      }
+    }
+  ],
+  "submission": {
+    "jobs": [
+      {
+        "index": 21,
+        "job_id": "80135b1e-260e-416e-8f4f-7a7c59dedd25",
+        "status": "pending",
+        "adjustments": {
+          "medias[0].role": {
+            "requested": "image",
+            "used": "image_references",
+            "reason": "GPT Image 2.6 backend expects schema-key media roles"
+          }
+        }
+      },
+      {
+        "index": 23,
+        "job_id": "9713d26a-6428-47fe-a4f8-ab54e40e6be3",
+        "status": "pending",
+        "adjustments": {
+          "medias[0].role": {
+            "requested": "image",
+            "used": "image_references",
+            "reason": "GPT Image 2.6 backend expects schema-key media roles"
+          }
+        }
+      },
+      {
+        "index": 24,
+        "job_id": "66d49c4d-95a7-4446-82a7-66b7175497d4",
+        "status": "pending",
+        "adjustments": {
+          "medias[0].role": {
+            "requested": "image",
+            "used": "image_references",
+            "reason": "GPT Image 2.6 backend expects schema-key media roles"
+          }
+        }
+      },
+      {
+        "index": 25,
+        "job_id": "36af8d7d-5982-428a-9639-a1c02c3aa013",
+        "status": "pending",
+        "adjustments": {
+          "medias[0].role": {
+            "requested": "image",
+            "used": "image_references",
+            "reason": "GPT Image 2.6 backend expects schema-key media roles"
+          }
+        }
+      }
+    ],
+    "submitted_count": 4,
+    "failed_count": 0
+  }
+}

@@ -19,6 +19,7 @@ def init_tables(connect):
 def register(app,connect,staff,root,dbpath):
  init_tables(connect)
  data=Path(dbpath).parent
+ def wan_enabled():return bool(os.environ.get('ORBIS_WAN_API_KEY')) and not (data/'wan-route-disabled').exists()
  def configs():return json.loads((root/'generation-shots.json').read_text())
  def lines():return {l['id']:dict(l,scene=s['number']) for s in json.loads((root/'pilot.json').read_text())['scenes'] for l in s['lines']}
  def casting():return {v['role_id']:v for v in json.loads((root/'voices.json').read_text())}
@@ -77,7 +78,7 @@ def register(app,connect,staff,root,dbpath):
   if decision=='regenerate' and review['kind']=='shot':
    match=re.match(r'((?:E[0-9]+-)?S[0-9]+-[PW][0-9]+)',review['label']);subject=match.group(1) if match else None
    config=configs().get(subject)
-   if config and os.environ.get('ORBIS_WAN_API_KEY'):
+   if config and wan_enabled():
     payload=dict(config);payload['refine']=bool(os.environ.get('ORBIS_DEEPSEEK_API_KEY'))
     payload['prompt']+='\nProducer correction for this version: '+feedback
     payload['source_review']=version;payload['producer_feedback']=feedback
@@ -117,7 +118,7 @@ def register(app,connect,staff,root,dbpath):
   with connect() as c:jobs=[dict(x) for x in c.execute('SELECT id,provider,subject,scene,status,error,output,created,estimate,task_id FROM production_jobs ORDER BY created DESC LIMIT 1000')];checks=[dict(x) for x in c.execute('SELECT * FROM provider_checks')]
   history=json.loads((root/'generation-history.json').read_text()) if (root/'generation-history.json').exists() else []
   live={j['task_id'] for j in jobs};history=[j for j in history if j.get('task_id') not in live]
-  return render_template('generate.html',history=history,deepseek_ready=bool(os.environ.get('ORBIS_DEEPSEEK_API_KEY')),jobs=jobs,shots=configs(),lines=list(lines().values()),voices=list(casting().values()),wan_ready=bool(os.environ.get('ORBIS_WAN_API_KEY')),eleven_ready=bool(os.environ.get('ELEVENLABS_API_KEY')),checks=checks)
+  return render_template('generate.html',history=history,deepseek_ready=bool(os.environ.get('ORBIS_DEEPSEEK_API_KEY')),jobs=jobs,shots=configs(),lines=list(lines().values()),voices=list(casting().values()),wan_ready=wan_enabled(),eleven_ready=bool(os.environ.get('ELEVENLABS_API_KEY')),checks=checks)
 
  @app.post('/studio/generate')
  @staff
@@ -125,7 +126,7 @@ def register(app,connect,staff,root,dbpath):
   provider=request.form.get('provider');subject=request.form.get('subject','');notes=request.form.get('notes','').strip();estimate=0
   if len(notes)>1800:abort(400)
   if provider=='wan':
-   if not os.environ.get('ORBIS_WAN_API_KEY'):abort(400)
+   if not wan_enabled():abort(409,'WAN route disabled by owner; use a replacement provider')
    config=configs().get(subject)
    if not config:abort(400)
    payload=dict(config);scene=config['scene'];res=request.form.get('resolution','1080p')
@@ -160,6 +161,7 @@ def register(app,connect,staff,root,dbpath):
   with connect() as c:
    c.execute('BEGIN IMMEDIATE');r=c.execute('SELECT * FROM production_jobs WHERE id=?',(ident,)).fetchone()
    if not r or r['status']!='failed':abort(400)
+   if r['provider']=='wan' and not wan_enabled():abort(409,'WAN retries disabled by owner; task records retained for refunds')
    active=c.execute('SELECT id FROM production_jobs WHERE provider=? AND subject=? AND status IN (?,?,?,?,?)',(r['provider'],r['subject'],*ACTIVE)).fetchone()
    if active:return redirect('/studio/generate?message=Already+running')
    new=uuid.uuid4().hex;now=time.time()
@@ -178,6 +180,7 @@ def register(app,connect,staff,root,dbpath):
  def provider_check():
   import urllib.request
   provider=request.form.get('provider')
+  if provider=='wan' and not wan_enabled():abort(409,'WAN route disabled by owner')
   if provider=='wan':url='https://api.orbiorbi.com/v1/models';headers={'Authorization':'Bearer '+os.environ.get('ORBIS_WAN_API_KEY','')}
   elif provider=='deepseek':url='https://api.orbiorbi.com/v1/models';headers={'Authorization':'Bearer '+os.environ.get('ORBIS_DEEPSEEK_API_KEY','')}
   elif provider=='elevenlabs':url='https://api.elevenlabs.io/v1/user/subscription';headers={'xi-api-key':os.environ.get('ELEVENLABS_API_KEY','')}

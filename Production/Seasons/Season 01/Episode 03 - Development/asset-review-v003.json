@@ -1,0 +1,71 @@
+{
+  "status": "Internal visual checks; producer approval pending",
+  "selected": [
+    {
+      "code": "LOC21",
+      "title": "LOC21 - District 7 monorail underpass shelters",
+      "file": "Asset Revisions/ASSET21-gpt26-v002.png",
+      "category": "Locations",
+      "group": "Neutral - Episode 3"
+    },
+    {
+      "code": "LOC22",
+      "title": "LOC22 - Resistance community annex",
+      "file": "Location Drafts/LOC22-gpt26-v001.png",
+      "category": "Locations",
+      "group": "Cats - Episode 3"
+    },
+    {
+      "code": "LOC23",
+      "title": "LOC23 - District 7 clearance checkpoint",
+      "file": "Asset Revisions/ASSET23-gpt26-v002.png",
+      "category": "Locations",
+      "group": "Dogs - Episode 3"
+    },
+    {
+      "code": "LOC24",
+      "title": "LOC24 - Stationary machinery maintenance bay",
+      "file": "Asset Revisions/ASSET24-gpt26-v002.png",
+      "category": "Locations",
+      "group": "Dogs - Episode 3"
+    },
+    {
+      "code": "LOC25",
+      "title": "LOC25 - District 7 utility records passage",
+      "file": "Asset Revisions/ASSET25-gpt26-v003.png",
+      "category": "Locations",
+      "group": "Neutral - Episode 3"
+    },
+    {
+      "code": "PROP31",
+      "title": "PROP31 - Clearance evidence",
+      "file": "Asset Revisions/ASSET31-gpt26-v003.png",
+      "category": "Props",
+      "group": "Neutral - Episode 3"
+    },
+    {
+      "code": "PROP32",
+      "title": "PROP32 - Shelter belongings",
+      "file": "Asset Revisions/ASSET32-gpt26-v002.png",
+      "category": "Props",
+      "group": "Cats - Episode 3"
+    },
+    {
+      "code": "PROP33",
+      "title": "PROP33 - Notice drone and old map",
+      "file": "Asset Revisions/ASSET33-gpt26-v003.png",
+      "category": "Props",
+      "group": "Neutral - Episode 3"
+    }
+  ],
+  "corrections_verified": [
+    "Camera arrow directions corrected for LOC21/23/24",
+    "LOC25 cabinet now south wall in hero and reverse; entry turn left when looking south",
+    "Evidence dates and IDs consistent; NIP7 correctly labeled Investigative News",
+    "Map L-turn matches utility passage"
+  ],
+  "usage_restrictions": [
+    "PROP33 bottom-right incorrectly depicts physical plate on desk: NEVER use panel 6. Use panel 4 map and panel 5 plate design only. Story plate stays attached; lair shows paper photograph or handheld image of plate.",
+    "Critical evidence lettering must be checked on every video output."
+  ]
+}

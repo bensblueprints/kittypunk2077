@@ -1,0 +1,100 @@
+{
+  "requests": [
+    {
+      "index": 25,
+      "params": {
+        "model": "gpt_image_2_6",
+        "count": 1,
+        "quality": "high",
+        "resolution": "4k",
+        "aspect_ratio": "16:9",
+        "use_unlim": false,
+        "medias": [
+          {
+            "role": "image",
+            "value": "36af8d7d-5982-428a-9639-a1c02c3aa013"
+          }
+        ],
+        "prompt": "Precise production continuity edit to supplied reference sheet. Only fix two panels. Panel 9 SECOND STAGING ANGLE currently incorrectly mirrors the cabinet: it looks toward cyan east door, so put tall archive cabinet and ledger shelf on RIGHT, brass plate on LEFT, matching panel 2. Panel 5 ENTRY is viewed from north branch looking SOUTH: at far end the horizontal passage must open LEFT/east (not right), with south brick wall ahead. No other edits. Preserve overhead north-up L-plan, panels1-4,6-8 exactly. All nine panels empty."
+      }
+    },
+    {
+      "index": 31,
+      "params": {
+        "model": "gpt_image_2_6",
+        "count": 1,
+        "quality": "high",
+        "resolution": "4k",
+        "aspect_ratio": "16:9",
+        "use_unlim": false,
+        "medias": [
+          {
+            "role": "image",
+            "value": "f42b6697-693e-4ffe-8a9c-e82da3e4e5d4"
+          }
+        ],
+        "prompt": "Precise production continuity edit to supplied reference sheet. Only edit bottom-right NIP7 panel: replace tiny subtitle 'NEKO-TOKYO INFRASTRUCTURE PANEL' with 'INVESTIGATIVE NEWS'. NIP7 is a news broadcaster, not an authority issuing orders. Preserve every other word, date, layout, stamp and document exactly."
+      }
+    },
+    {
+      "index": 33,
+      "params": {
+        "model": "gpt_image_2_6",
+        "count": 1,
+        "quality": "high",
+        "resolution": "4k",
+        "aspect_ratio": "16:9",
+        "use_unlim": false,
+        "medias": [
+          {
+            "role": "image",
+            "value": "77c3ff94-ac39-4225-a126-901663987b0e"
+          }
+        ],
+        "prompt": "Precise production continuity edit to supplied reference sheet. Preserve top-row drone views and bottom-middle J-07 plate exactly. Correct both maps: top-down north up, simple single L-shaped passage with long horizontal east-west arm and short north-running arm at its WEST end. East entry at right end horizontal arm; north exit at top end vertical left arm. Blue route runs LEFT from east entry then UP/north at western corner to exit. Only labels OLD SERVICE ROUTE, EAST ENTRY, NORTH EXIT. Bottom-right: show a paper photograph of the same attached J-07 plate lying beside folded corrected map on wooden desk; the real plate remains bolted in passage, not taken. No direct wall-mounted real plate beside map in this panel. Keep same six-panel format, materials and text sharp."
+      }
+    }
+  ],
+  "submission": {
+    "jobs": [
+      {
+        "index": 25,
+        "job_id": "bafb3cf5-d9d7-40f8-bf27-e3426d0976ab",
+        "status": "pending",
+        "adjustments": {
+          "medias[0].role": {
+            "requested": "image",
+            "used": "image_references",
+            "reason": "GPT Image 2.6 backend expects schema-key media roles"
+          }
+        }
+      },
+      {
+        "index": 31,
+        "job_id": "bed445bc-864c-4c40-8208-7afe39761fd2",
+        "status": "pending",
+        "adjustments": {
+          "medias[0].role": {
+            "requested": "image",
+            "used": "image_references",
+            "reason": "GPT Image 2.6 backend expects schema-key media roles"
+          }
+        }
+      },
+      {
+        "index": 33,
+        "job_id": "85e7f3e7-dbf8-4d33-ab0f-2b84259eeab0",
+        "status": "pending",
+        "adjustments": {
+          "medias[0].role": {
+            "requested": "image",
+            "used": "image_references",
+            "reason": "GPT Image 2.6 backend expects schema-key media roles"
+          }
+        }
+      }
+    ],
+    "submitted_count": 3,
+    "failed_count": 0
+  }
+}

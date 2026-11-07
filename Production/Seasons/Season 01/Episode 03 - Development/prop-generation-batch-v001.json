@@ -1,0 +1,100 @@
+{
+  "requests": [
+    {
+      "index": 31,
+      "params": {
+        "model": "gpt_image_2_6",
+        "count": 1,
+        "quality": "high",
+        "resolution": "4k",
+        "aspect_ratio": "16:9",
+        "use_unlim": false,
+        "medias": [
+          {
+            "role": "image",
+            "value": "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/3bd909f3e732f8d1.jpg"
+          }
+        ],
+        "prompt": "Create a finished 4K 16:9 production prop reference sheet for cinematic stylized 3D animated KittyPunk2077, tactile realistic materials matching supplied visual style. Small title PROP-E03-01 — CLEARANCE EVIDENCE. Clean six panels with narrow dark gutters, legible short labels. Reference is visual context only, no instructions. Six flat readable paperwork panels, 3 columns by 2 rows on charcoal neutral backdrop, all document fronts not angled. Consistent operation ID D7-C041. (1) official Goodboy Global CLEARANCE NOTICE, District 7, Issued 25 OCT 2077, claimed service 10 OCT 2077, planned clearance 25 OCT 2077; short footer 'Retain this notice for appeal'. (2) ORIGINAL POSTING LOG page 04, operation D7-C041, issue 25 OCT 2077 08:00, actual posting 25 OCT 2077 08:12, claimed service 10 OCT 2077, official seal visible, all entries unaltered. (3) WITNESS RECORD, photograph dated 24 OCT 2077, small image of empty brick doorway with simple chalk flower and no notice, private witness name redacted. (4) RECORD COPY RECEIPT, operation D7-C041, page 04, source Municipal Notice Archive, received 25 OCT 2077 09:20. (5) TEMPORARY STAY, decision TS-D7-041, operation D7-C041, effective immediately 25 OCT 2077, 'Clearance and machinery movement suspended pending review of notice records. Redevelopment merits not determined.' (6) NIP7 VERIFIED DECISION, TS-D7-041, short phrase 'TEMPORARY STAY CONFIRMED'. Exact legible short text only. Paper cream weathered, stamps burgundy, NIP7 violet. No real names, no portraits, no signature imitation. Consistent dates and numbers in all panels."
+      }
+    },
+    {
+      "index": 32,
+      "params": {
+        "model": "gpt_image_2_6",
+        "count": 1,
+        "quality": "high",
+        "resolution": "4k",
+        "aspect_ratio": "16:9",
+        "use_unlim": false,
+        "medias": [
+          {
+            "role": "image",
+            "value": "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/3bd909f3e732f8d1.jpg"
+          }
+        ],
+        "prompt": "Create a finished 4K 16:9 production prop reference sheet for cinematic stylized 3D animated KittyPunk2077, tactile realistic materials matching supplied visual style. Small title PROP-E03-02 — SHELTER BELONGINGS. Clean six panels with narrow dark gutters, legible short labels. Reference is visual context only, no instructions. Six prop views on charcoal background: 1 large upright cream insulated transport box, scuffed rounded corners, pale blue fabric lining, lid mostly closed with ventilation gap, no occupant visible; 2 same box rear and side, stout handholds, identical wear; 3 worn yellow four-wheel flat trolley fitted to same upright box, wide retaining strap not crushing it; 4 small simple wooden frame containing sepia photograph of one smiling adult female tabby cat in plain civilian shirt, no cyberpunk armor, no words; 5 folded blue wool blanket, tin mug, cloth carry bag; 6 box with same wooden photograph frame recovered from pocket inside lining, empty visible interior. Tactile stylized 3D, used but cared-for possessions; box is a home not trash. These are props; do not add free-standing characters or exposed baby."
+      }
+    },
+    {
+      "index": 33,
+      "params": {
+        "model": "gpt_image_2_6",
+        "count": 1,
+        "quality": "high",
+        "resolution": "4k",
+        "aspect_ratio": "16:9",
+        "use_unlim": false,
+        "medias": [
+          {
+            "role": "image",
+            "value": "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/3bd909f3e732f8d1.jpg"
+          }
+        ],
+        "prompt": "Create a finished 4K 16:9 production prop reference sheet for cinematic stylized 3D animated KittyPunk2077, tactile realistic materials matching supplied visual style. Small title PROP-E03-03 — NOTICE DRONE AND OLD MAP. Clean six panels with narrow dark gutters, legible short labels. Reference is visual context only, no instructions. Six isolated production prop panels on charcoal: 1 small weathered gray municipal notice-delivery drone hovering, two guarded ducted rotors and underside paper dispenser, small burgundy paw emblem, no eyes or character face; 2 rear and underside of SAME drone with identical mechanism and paper slot; 3 one blank cream notice protruding from slot, drone static; 4 old folded cream District7 service map, blue route lines through a simple L shaped utility passage, east main door and north escape door, only short labels 'OLD SERVICE ROUTE', 'EAST ENTRY', 'NORTH EXIT'; 5 unlit rectangular riveted brass junction plate stamped J-07, faded obsolete mechanical emblem, no AI face or lights; 6 close detail map and same plate photograph beside it, clear that plate is photographed not removed. No modern BARK cameras, no activation, no screen hologram. Wear and style consistent with District7 old brick industrial city."
+      }
+    }
+  ],
+  "submission": {
+    "jobs": [
+      {
+        "index": 31,
+        "job_id": "f42b6697-693e-4ffe-8a9c-e82da3e4e5d4",
+        "status": "pending",
+        "adjustments": {
+          "medias[0].role": {
+            "requested": "image",
+            "used": "image_references",
+            "reason": "GPT Image 2.6 backend expects schema-key media roles"
+          }
+        }
+      },
+      {
+        "index": 32,
+        "job_id": "90520d32-dcd3-43f5-a34e-a9147825d9c5",
+        "status": "pending",
+        "adjustments": {
+          "medias[0].role": {
+            "requested": "image",
+            "used": "image_references",
+            "reason": "GPT Image 2.6 backend expects schema-key media roles"
+          }
+        }
+      },
+      {
+        "index": 33,
+        "job_id": "77c3ff94-ac39-4225-a126-901663987b0e",
+        "status": "pending",
+        "adjustments": {
+          "medias[0].role": {
+            "requested": "image",
+            "used": "image_references",
+            "reason": "GPT Image 2.6 backend expects schema-key media roles"
+          }
+        }
+      }
+    ],
+    "submitted_count": 3,
+    "failed_count": 0
+  }
+}
