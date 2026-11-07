@@ -1,0 +1,20 @@
+{
+  "id": "E02-S02-D02",
+  "role_id": "civilian_1",
+  "voice_id": "DODLEQrClDo8wCz460ld",
+  "voice_name": "Lauren - Friendly, Comforting and Soft",
+  "text": "I checked this morning. That's my whole week's wages sitting right there.",
+  "status": "review_take",
+  "scene": "E02-S02",
+  "duration_sec": 4.411791,
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.5,
+    "similarity_boost": 0.75,
+    "style": 0.15,
+    "use_speaker_boost": true
+  },
+  "request_id": "GAcOreiMBpKEJUrhPWxR",
+  "provider_character_cost": "16",
+  "sha256": "b3066b6e9ca450963df5b2c38ef015f3c623a17dc0af6d9c408393e1f56bca0c"
+}

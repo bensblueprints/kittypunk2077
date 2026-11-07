@@ -1,0 +1,20 @@
+{
+  "id": "E02-S24-D01",
+  "role_id": "ghost",
+  "voice_id": "7fBwqIVI6wI1B4MuKqQi",
+  "voice_name": "Austin — Upbeat",
+  "text": "Byte. Don't close that appendix. Go back one page.",
+  "status": "review_take",
+  "scene": "E02-S24",
+  "duration_sec": 3.111474,
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.5,
+    "similarity_boost": 0.75,
+    "style": 0.15,
+    "use_speaker_boost": true
+  },
+  "request_id": "NIGZmkLjEsEPEhikJCaz",
+  "provider_character_cost": "11",
+  "sha256": "2ccae6879070f15d93fb8395ab13ffd2eb10fb244a3320fd354c49caab711b9a"
+}

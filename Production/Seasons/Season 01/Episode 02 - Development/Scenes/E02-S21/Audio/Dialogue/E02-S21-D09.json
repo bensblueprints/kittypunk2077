@@ -1,0 +1,20 @@
+{
+  "id": "E02-S21-D09",
+  "role_id": "onyx",
+  "voice_id": "uq0HIbNZKn11Hs5ifEdd",
+  "voice_name": "Harry — Fierce Warrior",
+  "text": "Then can we leave before I become part of the furniture?",
+  "status": "review_take",
+  "scene": "E02-S21",
+  "duration_sec": 2.925714,
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.5,
+    "similarity_boost": 0.75,
+    "style": 0.15,
+    "use_speaker_boost": true
+  },
+  "request_id": "ie4gOltMssvsK5ZDftqQ",
+  "provider_character_cost": "12",
+  "sha256": "66b4adebf367df0051b4c898a7264536c94e18439c95cb27134dfc645ea00858"
+}

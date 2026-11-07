@@ -1,0 +1,20 @@
+{
+  "id": "E02-S12-D01",
+  "role_id": "byte",
+  "voice_id": "wo6udizrrtpIxWGp2qJk",
+  "voice_name": "Northern Terry",
+  "text": "We have the appeal number. The attachments just opened. Ghost, look at the first page.",
+  "status": "review_take",
+  "scene": "E02-S12",
+  "duration_sec": 5.758549,
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.5,
+    "similarity_boost": 0.75,
+    "style": 0.15,
+    "use_speaker_boost": true
+  },
+  "request_id": "zmxtI0QRZWtrd3K2dB6u",
+  "provider_character_cost": "19",
+  "sha256": "b60a57a249d82f6f8109f29cd4eee1f95526f2a537df716a9e29818c83a96c25"
+}

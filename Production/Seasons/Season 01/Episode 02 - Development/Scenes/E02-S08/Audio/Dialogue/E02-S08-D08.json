@@ -1,0 +1,20 @@
+{
+  "id": "E02-S08-D08",
+  "role_id": "civilian_2",
+  "voice_id": "b5RPB35vTODb3BEmR3Fc",
+  "voice_name": "Serein - Friendly, Casual and Balanced",
+  "text": "Building nine. Third floor. There are two of us.",
+  "status": "review_take",
+  "scene": "E02-S08",
+  "duration_sec": 3.297234,
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.5,
+    "similarity_boost": 0.75,
+    "style": 0.15,
+    "use_speaker_boost": true
+  },
+  "request_id": "BrEWqlvjuCs4U106woPa",
+  "provider_character_cost": "11",
+  "sha256": "b6cf140d9977a5b40fa600b91fd187148d851bfa3c960650e6f3b9bfd56fca39"
+}

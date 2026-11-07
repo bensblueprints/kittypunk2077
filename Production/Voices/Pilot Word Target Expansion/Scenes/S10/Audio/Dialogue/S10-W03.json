@@ -1,0 +1,21 @@
+{
+  "id": "S10-W03",
+  "scene": "S10",
+  "speaker": "Ghost",
+  "role_id": "ghost",
+  "voice_id": "7fBwqIVI6wI1B4MuKqQi",
+  "text": "You do not have to go first through every door, Trixie. Giving the orders does not mean you have to take every hit. Let the rest of us do our jobs.",
+  "status": "review_take",
+  "placement": "Integrate into existing action coverage; preserve current performances and scene boundaries. Visual/lip-sync review required.",
+  "duration_sec": 8.637823,
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.5,
+    "similarity_boost": 0.75,
+    "style": 0.15,
+    "use_speaker_boost": true
+  },
+  "request_id": "OPt2khy9FDSkhR2Rg0Js",
+  "provider_character_cost": "32",
+  "sha256": "73ba6a7a731881fad35f10855af5a3e8aa817ff47c56a01a5ededbc241e05f88"
+}

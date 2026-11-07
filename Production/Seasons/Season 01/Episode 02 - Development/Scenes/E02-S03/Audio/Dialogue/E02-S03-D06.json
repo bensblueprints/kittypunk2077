@@ -1,0 +1,20 @@
+{
+  "id": "E02-S03-D06",
+  "role_id": "onyx",
+  "voice_id": "uq0HIbNZKn11Hs5ifEdd",
+  "voice_name": "Harry — Fierce Warrior",
+  "text": "They're charging her for being sorry to her?",
+  "status": "review_take",
+  "scene": "E02-S03",
+  "duration_sec": 2.229116,
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.5,
+    "similarity_boost": 0.75,
+    "style": 0.15,
+    "use_speaker_boost": true
+  },
+  "request_id": "JnovW8KEnFFohECFfmjQ",
+  "provider_character_cost": "10",
+  "sha256": "0bbd37a7ca7dcb3de97d021bec8835e746699266edd57cc97d5dcc59cadaa3ba"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "E02-S23-D01",
+  "role_id": "ghost",
+  "voice_id": "7fBwqIVI6wI1B4MuKqQi",
+  "voice_name": "Austin — Upbeat",
+  "text": "Thirty days on the lease. That's what the notice actually says.",
+  "status": "review_take",
+  "scene": "E02-S23",
+  "duration_sec": 3.204354,
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.5,
+    "similarity_boost": 0.75,
+    "style": 0.15,
+    "use_speaker_boost": true
+  },
+  "request_id": "b2hVF40BQ7kTx1qYPuyM",
+  "provider_character_cost": "14",
+  "sha256": "e55d81bba31906472cd9c3514453fc0ae76c70f99cad62556b40ff12640b1ea9"
+}

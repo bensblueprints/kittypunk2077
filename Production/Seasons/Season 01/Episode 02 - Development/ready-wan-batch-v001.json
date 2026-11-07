@@ -1,0 +1,1237 @@
+[
+  {
+    "id": "s01e02-e02-s01-p01-public-v001",
+    "subject": "E02-S01-P01",
+    "scene": 1,
+    "payload": {
+      "model": "wan-3.0-prime",
+      "prompt": "KittyPunk2077 S01E02 E02-S01-P01. Single continuous cinematic tactile 3D animated shot, 16:9. CAMERA / ACTION: Low tracking shot beside rolling salmon crate; Trixie steadies it as Neon explains and Onyx braces downhill. Reference guide: Image 1: LOC08 - District 7 market; Image 2: Trixie - CatGirl; Image 3: Neon; Image 4: Onyx; Image 5: Byte; Image 6: Ghost. Use sheets only for consistent character identity, costume, room geometry and materials; never display grids, captions or alternate views. Compose one filmable view. Visible roles: trixie, neon, onyx, byte, ghost. Do not add other main characters. Trixie is white female cat, blue eyes, magenta; Byte orange/amber; Ghost hood/green visor; Onyx black/violet; Neon silver/cyan. Goodboy Global corporate name. Barkington is a Doberman; organic Pawlice is not a factory robot. Preserve paws, face proportions, clothing and camera axis. TV gameplay or broadcasts stay strictly inside physical television glass and bezel. No subtitles or watermarks. Audio reference 1 is the original dialogue: match visible speakers, retain offscreen voices offscreen. Timing: 0.25-4.62s trixie (visible speaker): Easy with that crate. We rescued the salmon. We don't need to launch it. 4.82-8.90s neon (visible speaker): The wheels are experimental. The brakes are more of a future ambition. 9.10-12.45s onyx (visible speaker): Then your future ambition is standing downhill with a mattress.",
+      "duration_sec": 17,
+      "resolution": "1080p",
+      "aspect_ratio": "16:9",
+      "input_images": [
+        "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/c0de39fba4f7ec01.jpg",
+        "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/51c0358d041cc3ba.jpg",
+        "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/c59f876dfb3540bb.jpg",
+        "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/8ac469710ff37bec.jpg",
+        "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/a23590fe66ebce01.jpg",
+        "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/61dc338e08cb2385.jpg"
+      ],
+      "input_audios": [
+        "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Seasons/Season%2001/Episode%2002%20-%20Development/Shot%20Audio/E02-S01-P01-dialogue-reference.wav"
+      ],
+      "source_audio": [
+        "data/shot-audio/E02-S01-P01-dialogue-reference.wav"
+      ],
+      "season": 1,
+      "episode": 2,
+      "scene": 1,
+      "title": "E02-S01-P01 \u2014 LOC08",
+      "edit_duration": 16.517
+    },
+    "estimate": 18.7,
+    "status": "ready_to_queue; new performances remain producer-review pending"
+  },
+  {
+    "id": "s01e02-e02-s01-p02-public-v001",
+    "subject": "E02-S01-P02",
+    "scene": 1,
+    "payload": {
+      "model": "wan-3.0-prime",
+      "prompt": "KittyPunk2077 S01E02 E02-S01-P02. Single continuous cinematic tactile 3D animated shot, 16:9. CAMERA / ACTION: Waist-height group view: Byte issues a receipt, Ghost leans over his shoulder; retain crate at frame edge. Reference guide: Image 1: LOC08 - District 7 market; Image 2: Trixie - CatGirl; Image 3: Neon; Image 4: Onyx; Image 5: Byte; Image 6: Ghost. Use sheets only for consistent character identity, costume, room geometry and materials; never display grids, captions or alternate views. Compose one filmable view. Visible roles: trixie, neon, onyx, byte, ghost. Do not add other main characters. Trixie is white female cat, blue eyes, magenta; Byte orange/amber; Ghost hood/green visor; Onyx black/violet; Neon silver/cyan. Goodboy Global corporate name. Barkington is a Doberman; organic Pawlice is not a factory robot. Preserve paws, face proportions, clothing and camera axis. TV gameplay or broadcasts stay strictly inside physical television glass and bezel. No subtitles or watermarks. Audio reference 1 is the original dialogue: match visible speakers, retain offscreen voices offscreen. Timing: 0.25-5.50s byte (visible speaker): One crate, six households. Every delivery gets a receipt. Nobody disappears between columns. 5.70-7.74s ghost (visible speaker): You made a spreadsheet for breakfast? 7.94-10.91s byte (visible speaker): Breakfast deserves better administration than this city.",
+      "duration_sec": 15,
+      "resolution": "1080p",
+      "aspect_ratio": "16:9",
+      "input_images": [
+        "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/c0de39fba4f7ec01.jpg",
+        "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/51c0358d041cc3ba.jpg",
+        "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/c59f876dfb3540bb.jpg",
+        "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/8ac469710ff37bec.jpg",
+        "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/a23590fe66ebce01.jpg",
+        "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/61dc338e08cb2385.jpg"
+      ],
+      "input_audios": [
+        "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Seasons/Season%2001/Episode%2002%20-%20Development/Shot%20Audio/E02-S01-P02-dialogue-reference.wav"
+      ],
+      "source_audio": [
+        "data/shot-audio/E02-S01-P02-dialogue-reference.wav"
+      ],
+      "season": 1,
+      "episode": 2,
+      "scene": 1,
+      "title": "E02-S01-P02 \u2014 LOC08",
+      "edit_duration": 14.984
+    },
+    "estimate": 16.5,
+    "status": "ready_to_queue; new performances remain producer-review pending"
+  },
+  {
+    "id": "s01e02-e02-s01-p03-public-v001",
+    "subject": "E02-S01-P03",
+    "scene": 1,
+    "payload": {
+      "model": "wan-3.0-prime",
+      "prompt": "KittyPunk2077 S01E02 E02-S01-P03. Single continuous cinematic tactile 3D animated shot, 16:9. CAMERA / ACTION: Trixie points toward destination; Neon slumps tiredly, Onyx blocks the cart with a brick. Reference guide: Image 1: LOC08 - District 7 market; Image 2: Trixie - CatGirl; Image 3: Neon; Image 4: Onyx; Image 5: Byte; Image 6: Ghost. Use sheets only for consistent character identity, costume, room geometry and materials; never display grids, captions or alternate views. Compose one filmable view. Visible roles: trixie, neon, onyx, byte, ghost. Do not add other main characters. Trixie is white female cat, blue eyes, magenta; Byte orange/amber; Ghost hood/green visor; Onyx black/violet; Neon silver/cyan. Goodboy Global corporate name. Barkington is a Doberman; organic Pawlice is not a factory robot. Preserve paws, face proportions, clothing and camera axis. TV gameplay or broadcasts stay strictly inside physical television glass and bezel. No subtitles or watermarks. Audio reference 1 is the original dialogue: match visible speakers, retain offscreen voices offscreen. Timing: 0.25-5.13s trixie (visible speaker): Mrs. Fen's building first. She said the little ones haven't had a proper meal since Tuesday. 5.33-7.37s neon (visible speaker): And after that, we finally sleep? 7.57-9.43s onyx (visible speaker): After that, you invent brakes.",
+      "duration_sec": 14,
+      "resolution": "1080p",
+      "aspect_ratio": "16:9",
+      "input_images": [
+        "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/c0de39fba4f7ec01.jpg",
+        "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/51c0358d041cc3ba.jpg",
+        "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/c59f876dfb3540bb.jpg",
+        "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/8ac469710ff37bec.jpg",
+        "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/a23590fe66ebce01.jpg",
+        "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/61dc338e08cb2385.jpg"
+      ],
+      "input_audios": [
+        "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Seasons/Season%2001/Episode%2002%20-%20Development/Shot%20Audio/E02-S01-P03-dialogue-reference.wav"
+      ],
+      "source_audio": [
+        "data/shot-audio/E02-S01-P03-dialogue-reference.wav"
+      ],
+      "season": 1,
+      "episode": 2,
+      "scene": 1,
+      "title": "E02-S01-P03 \u2014 LOC08",
+      "edit_duration": 13.499
+    },
+    "estimate": 15.4,
+    "status": "ready_to_queue; new performances remain producer-review pending"
+  },
+  {
+    "id": "s01e02-e02-s02-p01-public-v001",
+    "subject": "E02-S02-P01",
+    "scene": 2,
+    "payload": {
+      "model": "wan-3.0-prime",
+      "prompt": "KittyPunk2077 S01E02 E02-S02-P01. Single continuous cinematic tactile 3D animated shot, 16:9. CAMERA / ACTION: Counter three-shot of clerk, resident and Trixie; card terminal stays in foreground. Reference guide: Image 1: LOC07 - 7-Catleven interior and freezer; Image 2: 7-Catleven Clerk; Image 3: CIV01 - Civilian Cat; Image 4: Trixie - CatGirl; Image 5: Byte. Use sheets only for consistent character identity, costume, room geometry and materials; never display grids, captions or alternate views. Compose one filmable view. Visible roles: seven_catleven_clerk, civilian_1, trixie, byte. Do not add other main characters. Trixie is white female cat, blue eyes, magenta; Byte orange/amber; Ghost hood/green visor; Onyx black/violet; Neon silver/cyan. Goodboy Global corporate name. Barkington is a Doberman; organic Pawlice is not a factory robot. Preserve paws, face proportions, clothing and camera axis. TV gameplay or broadcasts stay strictly inside physical television glass and bezel. No subtitles or watermarks. Audio reference 1 is the original dialogue: match visible speakers, retain offscreen voices offscreen. Timing: 0.25-4.06s seven_catleven_clerk (visible speaker): It says declined. You've got money. It just won't let me take it. 4.26-8.67s civilian_1 (visible speaker): I checked this morning. That's my whole week's wages sitting right there. 8.87-10.59s trixie (visible speaker): Try mine. We'll sort it out later.",
+      "duration_sec": 17,
+      "resolution": "1080p",
+      "aspect_ratio": "16:9",
+      "input_images": [
+        "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/0501505937608443.jpg",
+        "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/d9ae4e4d7a6c8795.jpg",
+        "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/d0c4b245ed3a3745.jpg",
+        "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/51c0358d041cc3ba.jpg",
+        "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/a23590fe66ebce01.jpg"
+      ],
+      "input_audios": [
+        "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Seasons/Season%2001/Episode%2002%20-%20Development/Shot%20Audio/E02-S02-P01-dialogue-reference.wav"
+      ],
+      "source_audio": [
+        "data/shot-audio/E02-S02-P01-dialogue-reference.wav"
+      ],
+      "season": 1,
+      "episode": 2,
+      "scene": 2,
+      "title": "E02-S02-P01 \u2014 LOC07",
+      "edit_duration": 16.049
+    },
+    "estimate": 18.7,
+    "status": "ready_to_queue; new performances remain producer-review pending"
+  },
+  {
+    "id": "s01e02-e02-s02-p02-public-v001",
+    "subject": "E02-S02-P02",
+    "scene": 2,
+    "payload": {
+      "model": "wan-3.0-prime",
+      "prompt": "KittyPunk2077 S01E02 E02-S02-P02. Single continuous cinematic tactile 3D animated shot, 16:9. CAMERA / ACTION: Over Byte shoulder toward clerk and resident; Byte collects the failed-payment slip. Reference guide: Image 1: LOC07 - 7-Catleven interior and freezer; Image 2: 7-Catleven Clerk; Image 3: CIV01 - Civilian Cat; Image 4: Trixie - CatGirl; Image 5: Byte. Use sheets only for consistent character identity, costume, room geometry and materials; never display grids, captions or alternate views. Compose one filmable view. Visible roles: seven_catleven_clerk, civilian_1, trixie, byte. Do not add other main characters. Trixie is white female cat, blue eyes, magenta; Byte orange/amber; Ghost hood/green visor; Onyx black/violet; Neon silver/cyan. Goodboy Global corporate name. Barkington is a Doberman; organic Pawlice is not a factory robot. Preserve paws, face proportions, clothing and camera axis. TV gameplay or broadcasts stay strictly inside physical television glass and bezel. No subtitles or watermarks. Audio reference 1 is the original dialogue: match visible speakers, retain offscreen voices offscreen. Timing: 0.25-3.87s seven_catleven_clerk (visible speaker): Yours is frozen too. That's the fourth one since you came in. 4.07-8.81s byte (visible speaker): Wait. Same notice, same timestamp. Can I see the receipt from the failed payment?",
+      "duration_sec": 15,
+      "resolution": "1080p",
+      "aspect_ratio": "16:9",
+      "input_images": [
+        "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/0501505937608443.jpg",
+        "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/d9ae4e4d7a6c8795.jpg",
+        "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/d0c4b245ed3a3745.jpg",
+        "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/51c0358d041cc3ba.jpg",
+        "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/a23590fe66ebce01.jpg"
+      ],
+      "input_audios": [
+        "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Seasons/Season%2001/Episode%2002%20-%20Development/Shot%20Audio/E02-S02-P02-dialogue-reference.wav"
+      ],
+      "source_audio": [
+        "data/shot-audio/E02-S02-P02-dialogue-reference.wav"
+      ],
+      "season": 1,
+      "episode": 2,
+      "scene": 2,
+      "title": "E02-S02-P02 \u2014 LOC07",
+      "edit_duration": 14.27
+    },
+    "estimate": 16.5,
+    "status": "ready_to_queue; new performances remain producer-review pending"
+  },
+  {
+    "id": "s01e02-e02-s02-p03-public-v001",
+    "subject": "E02-S02-P03",
+    "scene": 2,
+    "payload": {
+      "model": "wan-3.0-prime",
+      "prompt": "KittyPunk2077 S01E02 E02-S02-P03. Single continuous cinematic tactile 3D animated shot, 16:9. CAMERA / ACTION: Trixie reassures resident beside counter, Byte examines the timestamp without exposing private account details. Reference guide: Image 1: LOC07 - 7-Catleven interior and freezer; Image 2: 7-Catleven Clerk; Image 3: CIV01 - Civilian Cat; Image 4: Trixie - CatGirl; Image 5: Byte. Use sheets only for consistent character identity, costume, room geometry and materials; never display grids, captions or alternate views. Compose one filmable view. Visible roles: seven_catleven_clerk, civilian_1, trixie, byte. Do not add other main characters. Trixie is white female cat, blue eyes, magenta; Byte orange/amber; Ghost hood/green visor; Onyx black/violet; Neon silver/cyan. Goodboy Global corporate name. Barkington is a Doberman; organic Pawlice is not a factory robot. Preserve paws, face proportions, clothing and camera axis. TV gameplay or broadcasts stay strictly inside physical television glass and bezel. No subtitles or watermarks. Audio reference 1 is the original dialogue: match visible speakers, retain offscreen voices offscreen. Timing: 0.25-2.71s civilian_1 (visible speaker): Am I in trouble because you brought us food? 2.91-5.37s trixie (visible speaker): No. Getting dinner doesn't make you a criminal. 5.57-8.22s byte (visible speaker): But someone just made it a reason to lock your account.",
+      "duration_sec": 14,
+      "resolution": "1080p",
+      "aspect_ratio": "16:9",
+      "input_images": [
+        "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/0501505937608443.jpg",
+        "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/d9ae4e4d7a6c8795.jpg",
+        "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/d0c4b245ed3a3745.jpg",
+        "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/51c0358d041cc3ba.jpg",
+        "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/a23590fe66ebce01.jpg"
+      ],
+      "input_audios": [
+        "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Seasons/Season%2001/Episode%2002%20-%20Development/Shot%20Audio/E02-S02-P03-dialogue-reference.wav"
+      ],
+      "source_audio": [
+        "data/shot-audio/E02-S02-P03-dialogue-reference.wav"
+      ],
+      "season": 1,
+      "episode": 2,
+      "scene": 2,
+      "title": "E02-S02-P03 \u2014 LOC07",
+      "edit_duration": 13.681
+    },
+    "estimate": 15.4,
+    "status": "ready_to_queue; new performances remain producer-review pending"
+  },
+  {
+    "id": "s01e02-e02-s04-p01-public-v001",
+    "subject": "E02-S04-P01",
+    "scene": 4,
+    "payload": {
+      "model": "wan-3.0-prime",
+      "prompt": "KittyPunk2077 S01E02 E02-S04-P01. Single continuous cinematic tactile 3D animated shot, 16:9. CAMERA / ACTION: Slow push toward Byte and Ghost at lair desk, Trixie standing beside them. Reference guide: Image 1: LOC03 - Hacking operations; Image 2: Byte; Image 3: Ghost; Image 4: Trixie - CatGirl. Use sheets only for consistent character identity, costume, room geometry and materials; never display grids, captions or alternate views. Compose one filmable view. Visible roles: byte, ghost, trixie. Do not add other main characters. Trixie is white female cat, blue eyes, magenta; Byte orange/amber; Ghost hood/green visor; Onyx black/violet; Neon silver/cyan. Goodboy Global corporate name. Barkington is a Doberman; organic Pawlice is not a factory robot. Preserve paws, face proportions, clothing and camera axis. TV gameplay or broadcasts stay strictly inside physical television glass and bezel. No subtitles or watermarks. Audio reference 1 is the original dialogue: match visible speakers, retain offscreen voices offscreen. Timing: 0.25-7.36s byte (visible speaker): Food account. Electricity account. Warehouse lease. Different screens, same customer number underneath. 7.55-12.15s ghost (visible speaker): Not customer. Identity. They attached everything to one identity record. 12.35-15.70s trixie (visible speaker): So if they lock one thing, they lock your whole life?",
+      "duration_sec": 19,
+      "resolution": "1080p",
+      "aspect_ratio": "16:9",
+      "input_images": [
+        "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/678400a023f22df4.jpg",
+        "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/a23590fe66ebce01.jpg",
+        "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/61dc338e08cb2385.jpg",
+        "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/51c0358d041cc3ba.jpg"
+      ],
+      "input_audios": [
+        "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Seasons/Season%2001/Episode%2002%20-%20Development/Shot%20Audio/E02-S04-P01-dialogue-reference.wav"
+      ],
+      "source_audio": [
+        "data/shot-audio/E02-S04-P01-dialogue-reference.wav"
+      ],
+      "season": 1,
+      "episode": 2,
+      "scene": 4,
+      "title": "E02-S04-P01 \u2014 LOC03",
+      "edit_duration": 18.54
+    },
+    "estimate": 20.9,
+    "status": "ready_to_queue; new performances remain producer-review pending"
+  },
+  {
+    "id": "s01e02-e02-s04-p02-public-v001",
+    "subject": "E02-S04-P02",
+    "scene": 4,
+    "payload": {
+      "model": "wan-3.0-prime",
+      "prompt": "KittyPunk2077 S01E02 E02-S04-P02. Single continuous cinematic tactile 3D animated shot, 16:9. CAMERA / ACTION: Side three-shot as Ghost identifies three changes and Trixie asks for a fix. Reference guide: Image 1: LOC03 - Hacking operations; Image 2: Byte; Image 3: Ghost; Image 4: Trixie - CatGirl. Use sheets only for consistent character identity, costume, room geometry and materials; never display grids, captions or alternate views. Compose one filmable view. Visible roles: byte, ghost, trixie. Do not add other main characters. Trixie is white female cat, blue eyes, magenta; Byte orange/amber; Ghost hood/green visor; Onyx black/violet; Neon silver/cyan. Goodboy Global corporate name. Barkington is a Doberman; organic Pawlice is not a factory robot. Preserve paws, face proportions, clothing and camera axis. TV gameplay or broadcasts stay strictly inside physical television glass and bezel. No subtitles or watermarks. Audio reference 1 is the original dialogue: match visible speakers, retain offscreen voices offscreen. Timing: 0.25-4.99s byte (visible speaker): Not automatically. Somebody checked three separate boxes. Look at the timestamps. 5.19-12.15s ghost (visible speaker): Payment access, tenant verification, utility review. All changed inside the same minute. 12.35-13.42s trixie (visible speaker): Can you undo it?",
+      "duration_sec": 17,
+      "resolution": "1080p",
+      "aspect_ratio": "16:9",
+      "input_images": [
+        "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/678400a023f22df4.jpg",
+        "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/a23590fe66ebce01.jpg",
+        "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/61dc338e08cb2385.jpg",
+        "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/51c0358d041cc3ba.jpg"
+      ],
+      "input_audios": [
+        "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Seasons/Season%2001/Episode%2002%20-%20Development/Shot%20Audio/E02-S04-P02-dialogue-reference.wav"
+      ],
+      "source_audio": [
+        "data/shot-audio/E02-S04-P02-dialogue-reference.wav"
+      ],
+      "season": 1,
+      "episode": 2,
+      "scene": 4,
+      "title": "E02-S04-P02 \u2014 LOC03",
+      "edit_duration": 16.264
+    },
+    "estimate": 18.7,
+    "status": "ready_to_queue; new performances remain producer-review pending"
+  },
+  {
+    "id": "s01e02-e02-s04-p03-public-v001",
+    "subject": "E02-S04-P03",
+    "scene": 4,
+    "payload": {
+      "model": "wan-3.0-prime",
+      "prompt": "KittyPunk2077 S01E02 E02-S04-P03. Single continuous cinematic tactile 3D animated shot, 16:9. CAMERA / ACTION: Reverse medium view on Byte and Ghost explaining evidence; Trixie decides to seek the order. Reference guide: Image 1: LOC03 - Hacking operations; Image 2: Byte; Image 3: Ghost; Image 4: Trixie - CatGirl. Use sheets only for consistent character identity, costume, room geometry and materials; never display grids, captions or alternate views. Compose one filmable view. Visible roles: byte, ghost, trixie. Do not add other main characters. Trixie is white female cat, blue eyes, magenta; Byte orange/amber; Ghost hood/green visor; Onyx black/violet; Neon silver/cyan. Goodboy Global corporate name. Barkington is a Doberman; organic Pawlice is not a factory robot. Preserve paws, face proportions, clothing and camera axis. TV gameplay or broadcasts stay strictly inside physical television glass and bezel. No subtitles or watermarks. Audio reference 1 is the original dialogue: match visible speakers, retain offscreen voices offscreen. Timing: 0.25-4.52s byte (visible speaker): I can make the screen look different. That doesn't mean the shop will accept a payment. 4.72-8.67s ghost (visible speaker): And changing the record could destroy the proof of who changed it first. 8.87-12.35s trixie (visible speaker): Then we find the original order. I want the paw that signed it.",
+      "duration_sec": 16,
+      "resolution": "1080p",
+      "aspect_ratio": "16:9",
+      "input_images": [
+        "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/678400a023f22df4.jpg",
+        "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/a23590fe66ebce01.jpg",
+        "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/61dc338e08cb2385.jpg",
+        "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/51c0358d041cc3ba.jpg"
+      ],
+      "input_audios": [
+        "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Seasons/Season%2001/Episode%2002%20-%20Development/Shot%20Audio/E02-S04-P03-dialogue-reference.wav"
+      ],
+      "source_audio": [
+        "data/shot-audio/E02-S04-P03-dialogue-reference.wav"
+      ],
+      "season": 1,
+      "episode": 2,
+      "scene": 4,
+      "title": "E02-S04-P03 \u2014 LOC03",
+      "edit_duration": 15.196
+    },
+    "estimate": 17.6,
+    "status": "ready_to_queue; new performances remain producer-review pending"
+  },
+  {
+    "id": "s01e02-e02-s06-p01-public-v001",
+    "subject": "E02-S06-P01",
+    "scene": 6,
+    "payload": {
+      "model": "wan-3.0-prime",
+      "prompt": "KittyPunk2077 S01E02 E02-S06-P01. Single continuous cinematic tactile 3D animated shot, 16:9. CAMERA / ACTION: Wide lounge table covered in receipts, five cats only; Neon clears a plate and Onyx reacts. Reference guide: Image 1: LOC02 - Resistance warehouse lounge; Image 2: Neon; Image 3: Onyx; Image 4: Trixie - CatGirl; Image 5: Byte; Image 6: Ghost. Use sheets only for consistent character identity, costume, room geometry and materials; never display grids, captions or alternate views. Compose one filmable view. Visible roles: neon, onyx, trixie, byte, ghost. Do not add other main characters. Trixie is white female cat, blue eyes, magenta; Byte orange/amber; Ghost hood/green visor; Onyx black/violet; Neon silver/cyan. Goodboy Global corporate name. Barkington is a Doberman; organic Pawlice is not a factory robot. Preserve paws, face proportions, clothing and camera axis. TV gameplay or broadcasts stay strictly inside physical television glass and bezel. No subtitles or watermarks. Audio reference 1 is the original dialogue: match visible speakers, retain offscreen voices offscreen. Timing: 0.25-4.48s neon (visible speaker): The table is officially full. Any more paperwork and we'll have to eat standing up. 4.68-8.11s onyx (visible speaker): We can't buy food. Finally, a problem that solves itself. 8.31-11.94s trixie (visible speaker): We have enough in the crates for tonight. We don't have enough for every night.",
+      "duration_sec": 17,
+      "resolution": "1080p",
+      "aspect_ratio": "16:9",
+      "input_images": [
+        "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/9ccf57446d209d87.jpg",
+        "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/c59f876dfb3540bb.jpg",
+        "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/8ac469710ff37bec.jpg",
+        "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/51c0358d041cc3ba.jpg",
+        "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/a23590fe66ebce01.jpg",
+        "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/61dc338e08cb2385.jpg"
+      ],
+      "input_audios": [
+        "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Seasons/Season%2001/Episode%2002%20-%20Development/Shot%20Audio/E02-S06-P01-dialogue-reference.wav"
+      ],
+      "source_audio": [
+        "data/shot-audio/E02-S06-P01-dialogue-reference.wav"
+      ],
+      "season": 1,
+      "episode": 2,
+      "scene": 6,
+      "title": "E02-S06-P01 \u2014 LOC02",
+      "edit_duration": 16.55
+    },
+    "estimate": 18.7,
+    "status": "ready_to_queue; new performances remain producer-review pending"
+  },
+  {
+    "id": "s01e02-e02-s06-p02-public-v001",
+    "subject": "E02-S06-P02",
+    "scene": 6,
+    "payload": {
+      "model": "wan-3.0-prime",
+      "prompt": "KittyPunk2077 S01E02 E02-S06-P02. Single continuous cinematic tactile 3D animated shot, 16:9. CAMERA / ACTION: Table-height medium on Byte, Ghost and Trixie comparing notices to receipts. Reference guide: Image 1: LOC02 - Resistance warehouse lounge; Image 2: Neon; Image 3: Onyx; Image 4: Trixie - CatGirl; Image 5: Byte; Image 6: Ghost. Use sheets only for consistent character identity, costume, room geometry and materials; never display grids, captions or alternate views. Compose one filmable view. Visible roles: neon, onyx, trixie, byte, ghost. Do not add other main characters. Trixie is white female cat, blue eyes, magenta; Byte orange/amber; Ghost hood/green visor; Onyx black/violet; Neon silver/cyan. Goodboy Global corporate name. Barkington is a Doberman; organic Pawlice is not a factory robot. Preserve paws, face proportions, clothing and camera axis. TV gameplay or broadcasts stay strictly inside physical television glass and bezel. No subtitles or watermarks. Audio reference 1 is the original dialogue: match visible speakers, retain offscreen voices offscreen. Timing: 0.25-4.94s byte (visible speaker): These are the delivery receipts. Every frozen customer on this stack received a crate. 5.14-8.44s ghost (visible speaker): That's a pattern. It isn't the signed instruction yet. 8.64-11.52s trixie (visible speaker): They did this because we helped. How much more proof do we need?",
+      "duration_sec": 17,
+      "resolution": "1080p",
+      "aspect_ratio": "16:9",
+      "input_images": [
+        "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/9ccf57446d209d87.jpg",
+        "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/c59f876dfb3540bb.jpg",
+        "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/8ac469710ff37bec.jpg",
+        "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/51c0358d041cc3ba.jpg",
+        "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/a23590fe66ebce01.jpg",
+        "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/61dc338e08cb2385.jpg"
+      ],
+      "input_audios": [
+        "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Seasons/Season%2001/Episode%2002%20-%20Development/Shot%20Audio/E02-S06-P02-dialogue-reference.wav"
+      ],
+      "source_audio": [
+        "data/shot-audio/E02-S06-P02-dialogue-reference.wav"
+      ],
+      "season": 1,
+      "episode": 2,
+      "scene": 6,
+      "title": "E02-S06-P02 \u2014 LOC02",
+      "edit_duration": 16.132
+    },
+    "estimate": 18.7,
+    "status": "ready_to_queue; new performances remain producer-review pending"
+  },
+  {
+    "id": "s01e02-e02-s06-p03-public-v001",
+    "subject": "E02-S06-P03",
+    "scene": 6,
+    "payload": {
+      "model": "wan-3.0-prime",
+      "prompt": "KittyPunk2077 S01E02 E02-S06-P03. Single continuous cinematic tactile 3D animated shot, 16:9. CAMERA / ACTION: Trixie sets receipts into an evidence folder; Byte and Onyx respond from their established seats. Reference guide: Image 1: LOC02 - Resistance warehouse lounge; Image 2: Neon; Image 3: Onyx; Image 4: Trixie - CatGirl; Image 5: Byte; Image 6: Ghost. Use sheets only for consistent character identity, costume, room geometry and materials; never display grids, captions or alternate views. Compose one filmable view. Visible roles: neon, onyx, trixie, byte, ghost. Do not add other main characters. Trixie is white female cat, blue eyes, magenta; Byte orange/amber; Ghost hood/green visor; Onyx black/violet; Neon silver/cyan. Goodboy Global corporate name. Barkington is a Doberman; organic Pawlice is not a factory robot. Preserve paws, face proportions, clothing and camera axis. TV gameplay or broadcasts stay strictly inside physical television glass and bezel. No subtitles or watermarks. Audio reference 1 is the original dialogue: match visible speakers, retain offscreen voices offscreen. Timing: 0.25-4.43s byte (visible speaker): Enough that they can't call it a guess. Enough to get those accounts opened again. 4.63-8.02s trixie (visible speaker): Then keep the receipts. We fix the freeze, and we keep the proof. 8.22-11.70s onyx (visible speaker): Good. I was getting attached to being angry for a reason.",
+      "duration_sec": 17,
+      "resolution": "1080p",
+      "aspect_ratio": "16:9",
+      "input_images": [
+        "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/9ccf57446d209d87.jpg",
+        "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/c59f876dfb3540bb.jpg",
+        "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/8ac469710ff37bec.jpg",
+        "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/51c0358d041cc3ba.jpg",
+        "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/a23590fe66ebce01.jpg",
+        "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/61dc338e08cb2385.jpg"
+      ],
+      "input_audios": [
+        "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Seasons/Season%2001/Episode%2002%20-%20Development/Shot%20Audio/E02-S06-P03-dialogue-reference.wav"
+      ],
+      "source_audio": [
+        "data/shot-audio/E02-S06-P03-dialogue-reference.wav"
+      ],
+      "season": 1,
+      "episode": 2,
+      "scene": 6,
+      "title": "E02-S06-P03 \u2014 LOC02",
+      "edit_duration": 16.318
+    },
+    "estimate": 18.7,
+    "status": "ready_to_queue; new performances remain producer-review pending"
+  },
+  {
+    "id": "s01e02-e02-s07-p01-public-v001",
+    "subject": "E02-S07-P01",
+    "scene": 7,
+    "payload": {
+      "model": "wan-3.0-prime",
+      "prompt": "KittyPunk2077 S01E02 E02-S07-P01. Single continuous cinematic tactile 3D animated shot, 16:9. CAMERA / ACTION: Lair three-shot: Trixie asks for a practical plan, Ghost and Byte identify required records. Reference guide: Image 1: LOC03 - Hacking operations; Image 2: Trixie - CatGirl; Image 3: Ghost; Image 4: Byte. Use sheets only for consistent character identity, costume, room geometry and materials; never display grids, captions or alternate views. Compose one filmable view. Visible roles: trixie, ghost, byte. Do not add other main characters. Trixie is white female cat, blue eyes, magenta; Byte orange/amber; Ghost hood/green visor; Onyx black/violet; Neon silver/cyan. Goodboy Global corporate name. Barkington is a Doberman; organic Pawlice is not a factory robot. Preserve paws, face proportions, clothing and camera axis. TV gameplay or broadcasts stay strictly inside physical television glass and bezel. No subtitles or watermarks. Audio reference 1 is the original dialogue: match visible speakers, retain offscreen voices offscreen. Timing: 0.25-4.66s trixie (visible speaker): Tell me what you need, not what you wish this system would let you do. 4.86-10.29s ghost (visible speaker): A real appeal number. The account holder can request the decision record through an appeal. 10.49-13.75s byte (visible speaker): And a copy of the order before anyone rewrites the explanation.",
+      "duration_sec": 19,
+      "resolution": "1080p",
+      "aspect_ratio": "16:9",
+      "input_images": [
+        "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/678400a023f22df4.jpg",
+        "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/51c0358d041cc3ba.jpg",
+        "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/61dc338e08cb2385.jpg",
+        "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/a23590fe66ebce01.jpg"
+      ],
+      "input_audios": [
+        "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Seasons/Season%2001/Episode%2002%20-%20Development/Shot%20Audio/E02-S07-P01-dialogue-reference.wav"
+      ],
+      "source_audio": [
+        "data/shot-audio/E02-S07-P01-dialogue-reference.wav"
+      ],
+      "season": 1,
+      "episode": 2,
+      "scene": 7,
+      "title": "E02-S07-P01 \u2014 LOC03",
+      "edit_duration": 18.929
+    },
+    "estimate": 20.9,
+    "status": "ready_to_queue; new performances remain producer-review pending"
+  },
+  {
+    "id": "s01e02-e02-s07-p02-public-v001",
+    "subject": "E02-S07-P02",
+    "scene": 7,
+    "payload": {
+      "model": "wan-3.0-prime",
+      "prompt": "KittyPunk2077 S01E02 E02-S07-P02. Single continuous cinematic tactile 3D animated shot, 16:9. CAMERA / ACTION: Medium on Byte and Ghost explaining why erasure destroys evidence; Trixie listens. Reference guide: Image 1: LOC03 - Hacking operations; Image 2: Trixie - CatGirl; Image 3: Ghost; Image 4: Byte. Use sheets only for consistent character identity, costume, room geometry and materials; never display grids, captions or alternate views. Compose one filmable view. Visible roles: trixie, ghost, byte. Do not add other main characters. Trixie is white female cat, blue eyes, magenta; Byte orange/amber; Ghost hood/green visor; Onyx black/violet; Neon silver/cyan. Goodboy Global corporate name. Barkington is a Doberman; organic Pawlice is not a factory robot. Preserve paws, face proportions, clothing and camera axis. TV gameplay or broadcasts stay strictly inside physical television glass and bezel. No subtitles or watermarks. Audio reference 1 is the original dialogue: match visible speakers, retain offscreen voices offscreen. Timing: 0.25-3.41s trixie (visible speaker): We could just clear the balances. Give everyone a clean slate. 3.61-7.65s byte (visible speaker): And erase who was overcharged, who paid, who still needs their money back? 7.85-12.63s ghost (visible speaker): A blank record helps the dogs too. Nothing left for anyone to challenge.",
+      "duration_sec": 18,
+      "resolution": "1080p",
+      "aspect_ratio": "16:9",
+      "input_images": [
+        "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/678400a023f22df4.jpg",
+        "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/51c0358d041cc3ba.jpg",
+        "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/61dc338e08cb2385.jpg",
+        "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/a23590fe66ebce01.jpg"
+      ],
+      "input_audios": [
+        "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Seasons/Season%2001/Episode%2002%20-%20Development/Shot%20Audio/E02-S07-P02-dialogue-reference.wav"
+      ],
+      "source_audio": [
+        "data/shot-audio/E02-S07-P02-dialogue-reference.wav"
+      ],
+      "season": 1,
+      "episode": 2,
+      "scene": 7,
+      "title": "E02-S07-P02 \u2014 LOC03",
+      "edit_duration": 17.815
+    },
+    "estimate": 19.8,
+    "status": "ready_to_queue; new performances remain producer-review pending"
+  },
+  {
+    "id": "s01e02-e02-s07-p03-public-v001",
+    "subject": "E02-S07-P03",
+    "scene": 7,
+    "payload": {
+      "model": "wan-3.0-prime",
+      "prompt": "KittyPunk2077 S01E02 E02-S07-P03. Single continuous cinematic tactile 3D animated shot, 16:9. CAMERA / ACTION: Trixie closes the destructive-command window without running it and assigns the appeal; Byte nods. Reference guide: Image 1: LOC03 - Hacking operations; Image 2: Trixie - CatGirl; Image 3: Ghost; Image 4: Byte. Use sheets only for consistent character identity, costume, room geometry and materials; never display grids, captions or alternate views. Compose one filmable view. Visible roles: trixie, ghost, byte. Do not add other main characters. Trixie is white female cat, blue eyes, magenta; Byte orange/amber; Ghost hood/green visor; Onyx black/violet; Neon silver/cyan. Goodboy Global corporate name. Barkington is a Doberman; organic Pawlice is not a factory robot. Preserve paws, face proportions, clothing and camera axis. TV gameplay or broadcasts stay strictly inside physical television glass and bezel. No subtitles or watermarks. Audio reference 1 is the original dialogue: match visible speakers, retain offscreen voices offscreen. Timing: 0.25-4.62s trixie (visible speaker): All right. No erasing. We keep the ugly bits exactly where they can be seen. 4.82-8.16s byte (visible speaker): You take the appeal. We'll compare the records when it opens. 8.36-12.07s trixie (visible speaker): And nobody does anything that makes dinner depend on a clever guess.",
+      "duration_sec": 18,
+      "resolution": "1080p",
+      "aspect_ratio": "16:9",
+      "input_images": [
+        "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/678400a023f22df4.jpg",
+        "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/51c0358d041cc3ba.jpg",
+        "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/61dc338e08cb2385.jpg",
+        "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/a23590fe66ebce01.jpg"
+      ],
+      "input_audios": [
+        "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Seasons/Season%2001/Episode%2002%20-%20Development/Shot%20Audio/E02-S07-P03-dialogue-reference.wav"
+      ],
+      "source_audio": [
+        "data/shot-audio/E02-S07-P03-dialogue-reference.wav"
+      ],
+      "season": 1,
+      "episode": 2,
+      "scene": 7,
+      "title": "E02-S07-P03 \u2014 LOC03",
+      "edit_duration": 17.256
+    },
+    "estimate": 19.8,
+    "status": "ready_to_queue; new performances remain producer-review pending"
+  },
+  {
+    "id": "s01e02-e02-s08-p01-public-v001",
+    "subject": "E02-S08-P01",
+    "scene": 8,
+    "payload": {
+      "model": "wan-3.0-prime",
+      "prompt": "KittyPunk2077 S01E02 E02-S08-P01. Single continuous cinematic tactile 3D animated shot, 16:9. CAMERA / ACTION: Workshop doorway, Neon holds paper register as resident questions it; Onyx presents duplicate receipt. Reference guide: Image 1: LOC04 - Engineering workshop; Image 2: Neon; Image 3: CIV02 - Civilian Cat; Image 4: Onyx. Use sheets only for consistent character identity, costume, room geometry and materials; never display grids, captions or alternate views. Compose one filmable view. Visible roles: neon, civilian_2, onyx. Do not add other main characters. Trixie is white female cat, blue eyes, magenta; Byte orange/amber; Ghost hood/green visor; Onyx black/violet; Neon silver/cyan. Goodboy Global corporate name. Barkington is a Doberman; organic Pawlice is not a factory robot. Preserve paws, face proportions, clothing and camera axis. TV gameplay or broadcasts stay strictly inside physical television glass and bezel. No subtitles or watermarks. Audio reference 1 is the original dialogue: match visible speakers, retain offscreen voices offscreen. Timing: 0.25-5.36s neon (visible speaker): Name, building, number of meals. Nothing else goes on the delivery sheet. 5.56-10.20s civilian_2 (visible speaker): They already used one list against us. Why should I put my name on another? 10.40-14.54s onyx (visible speaker): You shouldn't have to trust a screen you can't see. You keep your half of the receipt.",
+      "duration_sec": 18,
+      "resolution": "1080p",
+      "aspect_ratio": "16:9",
+      "input_images": [
+        "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/aafc818847c1406d.jpg",
+        "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/c59f876dfb3540bb.jpg",
+        "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/4562760aa1996806.jpg",
+        "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/8ac469710ff37bec.jpg"
+      ],
+      "input_audios": [
+        "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Seasons/Season%2001/Episode%2002%20-%20Development/Shot%20Audio/E02-S08-P01-dialogue-reference.wav"
+      ],
+      "source_audio": [
+        "data/shot-audio/E02-S08-P01-dialogue-reference.wav"
+      ],
+      "season": 1,
+      "episode": 2,
+      "scene": 8,
+      "title": "E02-S08-P01 \u2014 LOC04",
+      "edit_duration": 17.292
+    },
+    "estimate": 19.8,
+    "status": "ready_to_queue; new performances remain producer-review pending"
+  },
+  {
+    "id": "s01e02-e02-s08-p02-public-v001",
+    "subject": "E02-S08-P02",
+    "scene": 8,
+    "payload": {
+      "model": "wan-3.0-prime",
+      "prompt": "KittyPunk2077 S01E02 E02-S08-P02. Single continuous cinematic tactile 3D animated shot, 16:9. CAMERA / ACTION: Resident and Onyx eye-level two-shot; Neon keeps register visible on a workbench. Reference guide: Image 1: LOC04 - Engineering workshop; Image 2: Neon; Image 3: CIV02 - Civilian Cat; Image 4: Onyx. Use sheets only for consistent character identity, costume, room geometry and materials; never display grids, captions or alternate views. Compose one filmable view. Visible roles: neon, civilian_2, onyx. Do not add other main characters. Trixie is white female cat, blue eyes, magenta; Byte orange/amber; Ghost hood/green visor; Onyx black/violet; Neon silver/cyan. Goodboy Global corporate name. Barkington is a Doberman; organic Pawlice is not a factory robot. Preserve paws, face proportions, clothing and camera axis. TV gameplay or broadcasts stay strictly inside physical television glass and bezel. No subtitles or watermarks. Audio reference 1 is the original dialogue: match visible speakers, retain offscreen voices offscreen. Timing: 0.25-3.78s neon (visible speaker): This copy stays here, on paper. We don't send your name to the news. 3.98-6.21s civilian_2 (visible speaker): And if the dogs come looking for it? 6.41-10.12s onyx (visible speaker): Then we tell them it's a dinner list. Because that's what it is.",
+      "duration_sec": 13,
+      "resolution": "1080p",
+      "aspect_ratio": "16:9",
+      "input_images": [
+        "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/aafc818847c1406d.jpg",
+        "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/c59f876dfb3540bb.jpg",
+        "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/4562760aa1996806.jpg",
+        "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/8ac469710ff37bec.jpg"
+      ],
+      "input_audios": [
+        "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Seasons/Season%2001/Episode%2002%20-%20Development/Shot%20Audio/E02-S08-P02-dialogue-reference.wav"
+      ],
+      "source_audio": [
+        "data/shot-audio/E02-S08-P02-dialogue-reference.wav"
+      ],
+      "season": 1,
+      "episode": 2,
+      "scene": 8,
+      "title": "E02-S08-P02 \u2014 LOC04",
+      "edit_duration": 12.879
+    },
+    "estimate": 14.3,
+    "status": "ready_to_queue; new performances remain producer-review pending"
+  },
+  {
+    "id": "s01e02-e02-s08-p03-public-v001",
+    "subject": "E02-S08-P03",
+    "scene": 8,
+    "payload": {
+      "model": "wan-3.0-prime",
+      "prompt": "KittyPunk2077 S01E02 E02-S08-P03. Single continuous cinematic tactile 3D animated shot, 16:9. CAMERA / ACTION: Neon leaves identity field blank; resident gives building number, Onyx hands over meal receipt. Reference guide: Image 1: LOC04 - Engineering workshop; Image 2: Neon; Image 3: CIV02 - Civilian Cat; Image 4: Onyx. Use sheets only for consistent character identity, costume, room geometry and materials; never display grids, captions or alternate views. Compose one filmable view. Visible roles: neon, civilian_2, onyx. Do not add other main characters. Trixie is white female cat, blue eyes, magenta; Byte orange/amber; Ghost hood/green visor; Onyx black/violet; Neon silver/cyan. Goodboy Global corporate name. Barkington is a Doberman; organic Pawlice is not a factory robot. Preserve paws, face proportions, clothing and camera axis. TV gameplay or broadcasts stay strictly inside physical television glass and bezel. No subtitles or watermarks. Audio reference 1 is the original dialogue: match visible speakers, retain offscreen voices offscreen. Timing: 0.25-4.38s neon (visible speaker): You can use your building number instead. We need to find your door, not own your life. 4.58-7.88s civilian_2 (visible speaker): Building nine. Third floor. There are two of us. 8.08-12.07s onyx (visible speaker): Two meals. No lecture. That's our entire terms and conditions.",
+      "duration_sec": 15,
+      "resolution": "1080p",
+      "aspect_ratio": "16:9",
+      "input_images": [
+        "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/aafc818847c1406d.jpg",
+        "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/c59f876dfb3540bb.jpg",
+        "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/4562760aa1996806.jpg",
+        "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/8ac469710ff37bec.jpg"
+      ],
+      "input_audios": [
+        "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Seasons/Season%2001/Episode%2002%20-%20Development/Shot%20Audio/E02-S08-P03-dialogue-reference.wav"
+      ],
+      "source_audio": [
+        "data/shot-audio/E02-S08-P03-dialogue-reference.wav"
+      ],
+      "season": 1,
+      "episode": 2,
+      "scene": 8,
+      "title": "E02-S08-P03 \u2014 LOC04",
+      "edit_duration": 14.829
+    },
+    "estimate": 16.5,
+    "status": "ready_to_queue; new performances remain producer-review pending"
+  },
+  {
+    "id": "s01e02-e02-s13-p01-public-v001",
+    "subject": "E02-S13-P01",
+    "scene": 13,
+    "payload": {
+      "model": "wan-3.0-prime",
+      "prompt": "KittyPunk2077 S01E02 E02-S13-P01. Single continuous cinematic tactile 3D animated shot, 16:9. CAMERA / ACTION: WOOF7 anchor at studio desk delivers corporate statement; fixed camera, no invented extras. Reference guide: Image 1: LOC13 - WOOF7 news studio; Image 2: WOOF7 Anchor. Use sheets only for consistent character identity, costume, room geometry and materials; never display grids, captions or alternate views. Compose one filmable view. Visible roles: woof7_anchor. Do not add other main characters. Trixie is white female cat, blue eyes, magenta; Byte orange/amber; Ghost hood/green visor; Onyx black/violet; Neon silver/cyan. Goodboy Global corporate name. Barkington is a Doberman; organic Pawlice is not a factory robot. Preserve paws, face proportions, clothing and camera axis. TV gameplay or broadcasts stay strictly inside physical television glass and bezel. No subtitles or watermarks. Audio reference 1 is the original dialogue: match visible speakers, retain offscreen voices offscreen. Timing: 0.25-5.31s woof7_anchor (visible speaker): Goodboy Global has introduced a voluntary consumer-protection review for selected accounts. 5.51-12.38s woof7_anchor (visible speaker): Residents are reminded that a temporary restriction is not a punishment. It is an opportunity to demonstrate compliance. 12.59-17.60s woof7_anchor (visible speaker): The company says ordinary shopping will resume as soon as the necessary checks are complete.",
+      "duration_sec": 20,
+      "resolution": "1080p",
+      "aspect_ratio": "16:9",
+      "input_images": [
+        "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/9929f26bee75cac0.jpg",
+        "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/9bb47fb0209fc142.jpg"
+      ],
+      "input_audios": [
+        "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Seasons/Season%2001/Episode%2002%20-%20Development/Shot%20Audio/E02-S13-P01-dialogue-reference.wav"
+      ],
+      "source_audio": [
+        "data/shot-audio/E02-S13-P01-dialogue-reference.wav"
+      ],
+      "season": 1,
+      "episode": 2,
+      "scene": 13,
+      "title": "E02-S13-P01 \u2014 LOC13",
+      "edit_duration": 19.815
+    },
+    "estimate": 22.0,
+    "status": "ready_to_queue; new performances remain producer-review pending"
+  },
+  {
+    "id": "s01e02-e02-s13-p02-public-v001",
+    "subject": "E02-S13-P02",
+    "scene": 13,
+    "payload": {
+      "model": "wan-3.0-prime",
+      "prompt": "KittyPunk2077 S01E02 E02-S13-P02. Single continuous cinematic tactile 3D animated shot, 16:9. CAMERA / ACTION: Shop two-shot of resident and clerk with physical TV behind them; broadcast remains strictly inside TV glass. Reference guide: Image 1: LOC07 - 7-Catleven interior and freezer; Image 2: CIV01 - Civilian Cat; Image 3: 7-Catleven Clerk. Use sheets only for consistent character identity, costume, room geometry and materials; never display grids, captions or alternate views. Compose one filmable view. Visible roles: civilian_1, seven_catleven_clerk. Do not add other main characters. Trixie is white female cat, blue eyes, magenta; Byte orange/amber; Ghost hood/green visor; Onyx black/violet; Neon silver/cyan. Goodboy Global corporate name. Barkington is a Doberman; organic Pawlice is not a factory robot. Preserve paws, face proportions, clothing and camera axis. TV gameplay or broadcasts stay strictly inside physical television glass and bezel. No subtitles or watermarks. Audio reference 1 is the original dialogue: match visible speakers, retain offscreen voices offscreen. Timing: 0.25-2.20s civilian_1 (visible speaker): Voluntary? Nobody asked me. 2.40-7.18s seven_catleven_clerk (visible speaker): They didn't ask the fish either. It's going warm while that machine thinks about your money. 7.38-12.17s civilian_1 (visible speaker): My wages are still there. Every time I look, they're still there.",
+      "duration_sec": 15,
+      "resolution": "1080p",
+      "aspect_ratio": "16:9",
+      "input_images": [
+        "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/0501505937608443.jpg",
+        "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/d0c4b245ed3a3745.jpg",
+        "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/d9ae4e4d7a6c8795.jpg"
+      ],
+      "input_audios": [
+        "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Seasons/Season%2001/Episode%2002%20-%20Development/Shot%20Audio/E02-S13-P02-dialogue-reference.wav"
+      ],
+      "source_audio": [
+        "data/shot-audio/E02-S13-P02-dialogue-reference.wav"
+      ],
+      "season": 1,
+      "episode": 2,
+      "scene": 13,
+      "title": "E02-S13-P02 \u2014 LOC07",
+      "edit_duration": 14.381
+    },
+    "estimate": 16.5,
+    "status": "ready_to_queue; new performances remain producer-review pending"
+  },
+  {
+    "id": "s01e02-e02-s13-p03-public-v001",
+    "subject": "E02-S13-P03",
+    "scene": 13,
+    "payload": {
+      "model": "wan-3.0-prime",
+      "prompt": "KittyPunk2077 S01E02 E02-S13-P03. Single continuous cinematic tactile 3D animated shot, 16:9. CAMERA / ACTION: Clerk slides bagged salmon across counter; resident hesitates then accepts, television stays background. Reference guide: Image 1: LOC07 - 7-Catleven interior and freezer; Image 2: CIV01 - Civilian Cat; Image 3: 7-Catleven Clerk. Use sheets only for consistent character identity, costume, room geometry and materials; never display grids, captions or alternate views. Compose one filmable view. Visible roles: civilian_1, seven_catleven_clerk. Do not add other main characters. Trixie is white female cat, blue eyes, magenta; Byte orange/amber; Ghost hood/green visor; Onyx black/violet; Neon silver/cyan. Goodboy Global corporate name. Barkington is a Doberman; organic Pawlice is not a factory robot. Preserve paws, face proportions, clothing and camera axis. TV gameplay or broadcasts stay strictly inside physical television glass and bezel. No subtitles or watermarks. Audio reference 1 is the original dialogue: match visible speakers, retain offscreen voices offscreen. Timing: 0.25-3.83s seven_catleven_clerk (visible speaker): Put the salmon in your bag. We'll settle the receipt when they unlock it. 4.03-6.12s civilian_1 (visible speaker): You could get in trouble for that. 6.32-8.59s seven_catleven_clerk (visible speaker): Then they'd better bring a longer apology.",
+      "duration_sec": 11,
+      "resolution": "1080p",
+      "aspect_ratio": "16:9",
+      "input_images": [
+        "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/0501505937608443.jpg",
+        "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/d0c4b245ed3a3745.jpg",
+        "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/d9ae4e4d7a6c8795.jpg"
+      ],
+      "input_audios": [
+        "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Seasons/Season%2001/Episode%2002%20-%20Development/Shot%20Audio/E02-S13-P03-dialogue-reference.wav"
+      ],
+      "source_audio": [
+        "data/shot-audio/E02-S13-P03-dialogue-reference.wav"
+      ],
+      "season": 1,
+      "episode": 2,
+      "scene": 13,
+      "title": "E02-S13-P03 \u2014 LOC07",
+      "edit_duration": 10.804
+    },
+    "estimate": 12.1,
+    "status": "ready_to_queue; new performances remain producer-review pending"
+  },
+  {
+    "id": "s01e02-e02-s14-p01-public-v001",
+    "subject": "E02-S14-P01",
+    "scene": 14,
+    "payload": {
+      "model": "wan-3.0-prime",
+      "prompt": "KittyPunk2077 S01E02 E02-S14-P01. Single continuous cinematic tactile 3D animated shot, 16:9. CAMERA / ACTION: Warehouse south entrance medium: organic German shepherd Pawlice officer gives notice to Trixie, Onyx stands beside her. Reference guide: Image 1: LOC01 - Resistance warehouse exterior; Image 2: PAW01 \u2014 Unnamed German shepherd officer; Image 3: Trixie - CatGirl; Image 4: Onyx. Use sheets only for consistent character identity, costume, room geometry and materials; never display grids, captions or alternate views. Compose one filmable view. Visible roles: dog_guard_a, trixie, onyx. Do not add other main characters. Trixie is white female cat, blue eyes, magenta; Byte orange/amber; Ghost hood/green visor; Onyx black/violet; Neon silver/cyan. Goodboy Global corporate name. Barkington is a Doberman; organic Pawlice is not a factory robot. Preserve paws, face proportions, clothing and camera axis. TV gameplay or broadcasts stay strictly inside physical television glass and bezel. No subtitles or watermarks. Audio reference 1 is the original dialogue: match visible speakers, retain offscreen voices offscreen. Timing: 0.25-3.96s dog_guard_a (visible speaker): Compliance notice. I'm required to deliver it to the registered tenant. 4.17-6.72s trixie (visible speaker): That would be us. What's wrong with the building this time? 6.92-12.72s dog_guard_a (visible speaker): Your tenant verification has changed. You have until the posted deadline to resolve it.",
+      "duration_sec": 18,
+      "resolution": "1080p",
+      "aspect_ratio": "16:9",
+      "input_images": [
+        "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/c171160ce2dfdaef.jpg",
+        "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/6c4f0a7860912420.jpg",
+        "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/51c0358d041cc3ba.jpg",
+        "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/8ac469710ff37bec.jpg"
+      ],
+      "input_audios": [
+        "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Seasons/Season%2001/Episode%2002%20-%20Development/Shot%20Audio/E02-S14-P01-dialogue-reference.wav"
+      ],
+      "source_audio": [
+        "data/shot-audio/E02-S14-P01-dialogue-reference.wav"
+      ],
+      "season": 1,
+      "episode": 2,
+      "scene": 14,
+      "title": "E02-S14-P01 \u2014 LOC01",
+      "edit_duration": 17.319
+    },
+    "estimate": 19.8,
+    "status": "ready_to_queue; new performances remain producer-review pending"
+  },
+  {
+    "id": "s01e02-e02-s14-p02-public-v001",
+    "subject": "E02-S14-P02",
+    "scene": 14,
+    "payload": {
+      "model": "wan-3.0-prime",
+      "prompt": "KittyPunk2077 S01E02 E02-S14-P02. Single continuous cinematic tactile 3D animated shot, 16:9. CAMERA / ACTION: Three-shot across loading apron as Onyx challenges notice and Trixie requests written dispute. Reference guide: Image 1: LOC01 - Resistance warehouse exterior; Image 2: PAW01 \u2014 Unnamed German shepherd officer; Image 3: Trixie - CatGirl; Image 4: Onyx. Use sheets only for consistent character identity, costume, room geometry and materials; never display grids, captions or alternate views. Compose one filmable view. Visible roles: dog_guard_a, trixie, onyx. Do not add other main characters. Trixie is white female cat, blue eyes, magenta; Byte orange/amber; Ghost hood/green visor; Onyx black/violet; Neon silver/cyan. Goodboy Global corporate name. Barkington is a Doberman; organic Pawlice is not a factory robot. Preserve paws, face proportions, clothing and camera axis. TV gameplay or broadcasts stay strictly inside physical television glass and bezel. No subtitles or watermarks. Audio reference 1 is the original dialogue: match visible speakers, retain offscreen voices offscreen. Timing: 0.25-3.59s onyx (visible speaker): It changed because you froze the account we use to verify it. 3.79-6.91s dog_guard_a (visible speaker): I'm delivering the notice. I don't control the account. 7.11-12.49s trixie (visible speaker): Then write down that we received it and disputed it. Both things. Not just the convenient one. 12.69-14.27s dog_guard_a (visible speaker): There's no box for that.",
+      "duration_sec": 19,
+      "resolution": "1080p",
+      "aspect_ratio": "16:9",
+      "input_images": [
+        "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/c171160ce2dfdaef.jpg",
+        "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/6c4f0a7860912420.jpg",
+        "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/51c0358d041cc3ba.jpg",
+        "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/8ac469710ff37bec.jpg"
+      ],
+      "input_audios": [
+        "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Seasons/Season%2001/Episode%2002%20-%20Development/Shot%20Audio/E02-S14-P02-dialogue-reference.wav"
+      ],
+      "source_audio": [
+        "data/shot-audio/E02-S14-P02-dialogue-reference.wav"
+      ],
+      "season": 1,
+      "episode": 2,
+      "scene": 14,
+      "title": "E02-S14-P02 \u2014 LOC01",
+      "edit_duration": 18.867
+    },
+    "estimate": 20.9,
+    "status": "ready_to_queue; new performances remain producer-review pending"
+  },
+  {
+    "id": "s01e02-e02-s14-p03-public-v001",
+    "subject": "E02-S14-P03",
+    "scene": 14,
+    "payload": {
+      "model": "wan-3.0-prime",
+      "prompt": "KittyPunk2077 S01E02 E02-S14-P03. Single continuous cinematic tactile 3D animated shot, 16:9. CAMERA / ACTION: Close medium on officer writing on reverse; Onyx and Trixie receive their copy without aggression. Reference guide: Image 1: LOC01 - Resistance warehouse exterior; Image 2: PAW01 \u2014 Unnamed German shepherd officer; Image 3: Trixie - CatGirl; Image 4: Onyx. Use sheets only for consistent character identity, costume, room geometry and materials; never display grids, captions or alternate views. Compose one filmable view. Visible roles: dog_guard_a, trixie, onyx. Do not add other main characters. Trixie is white female cat, blue eyes, magenta; Byte orange/amber; Ghost hood/green visor; Onyx black/violet; Neon silver/cyan. Goodboy Global corporate name. Barkington is a Doberman; organic Pawlice is not a factory robot. Preserve paws, face proportions, clothing and camera axis. TV gameplay or broadcasts stay strictly inside physical television glass and bezel. No subtitles or watermarks. Audio reference 1 is the original dialogue: match visible speakers, retain offscreen voices offscreen. Timing: 0.25-3.59s onyx (visible speaker): There's a whole blank side on the paper. Be creative. 3.79-5.98s dog_guard_a (visible speaker): I'll note the dispute. Keep your copy. 6.18-8.22s trixie (visible speaker): We are getting very good at keeping copies.",
+      "duration_sec": 13,
+      "resolution": "1080p",
+      "aspect_ratio": "16:9",
+      "input_images": [
+        "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/c171160ce2dfdaef.jpg",
+        "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/6c4f0a7860912420.jpg",
+        "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/51c0358d041cc3ba.jpg",
+        "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/8ac469710ff37bec.jpg"
+      ],
+      "input_audios": [
+        "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Seasons/Season%2001/Episode%2002%20-%20Development/Shot%20Audio/E02-S14-P03-dialogue-reference.wav"
+      ],
+      "source_audio": [
+        "data/shot-audio/E02-S14-P03-dialogue-reference.wav"
+      ],
+      "season": 1,
+      "episode": 2,
+      "scene": 14,
+      "title": "E02-S14-P03 \u2014 LOC01",
+      "edit_duration": 12.814
+    },
+    "estimate": 14.3,
+    "status": "ready_to_queue; new performances remain producer-review pending"
+  },
+  {
+    "id": "s01e02-e02-s17-p01-public-v001",
+    "subject": "E02-S17-P01",
+    "scene": 17,
+    "payload": {
+      "model": "wan-3.0-prime",
+      "prompt": "KittyPunk2077 S01E02 E02-S17-P01. Single continuous cinematic tactile 3D animated shot, 16:9. CAMERA / ACTION: Shop counter three-shot: Byte requests witnessed receipt, clerk hesitates, resident offers to withdraw request. Reference guide: Image 1: LOC07 - 7-Catleven interior and freezer; Image 2: Byte; Image 3: 7-Catleven Clerk; Image 4: CIV01 - Civilian Cat. Use sheets only for consistent character identity, costume, room geometry and materials; never display grids, captions or alternate views. Compose one filmable view. Visible roles: byte, seven_catleven_clerk, civilian_1. Do not add other main characters. Trixie is white female cat, blue eyes, magenta; Byte orange/amber; Ghost hood/green visor; Onyx black/violet; Neon silver/cyan. Goodboy Global corporate name. Barkington is a Doberman; organic Pawlice is not a factory robot. Preserve paws, face proportions, clothing and camera axis. TV gameplay or broadcasts stay strictly inside physical television glass and bezel. No subtitles or watermarks. Audio reference 1 is the original dialogue: match visible speakers, retain offscreen voices offscreen. Timing: 0.25-6.10s byte (visible speaker): We need a witnessed receipt from before the freeze. Same customer, same account, normal payment. 6.30-9.74s seven_catleven_clerk (visible speaker): I've got it. But signing this puts my shop on their list too. 9.94-14.86s civilian_1 (visible speaker): You don't have to do that for me. You've already let me take the food.",
+      "duration_sec": 20,
+      "resolution": "1080p",
+      "aspect_ratio": "16:9",
+      "input_images": [
+        "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/0501505937608443.jpg",
+        "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/a23590fe66ebce01.jpg",
+        "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/d9ae4e4d7a6c8795.jpg",
+        "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/d0c4b245ed3a3745.jpg"
+      ],
+      "input_audios": [
+        "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Seasons/Season%2001/Episode%2002%20-%20Development/Shot%20Audio/E02-S17-P01-dialogue-reference.wav"
+      ],
+      "source_audio": [
+        "data/shot-audio/E02-S17-P01-dialogue-reference.wav"
+      ],
+      "season": 1,
+      "episode": 2,
+      "scene": 17,
+      "title": "E02-S17-P01 \u2014 LOC07",
+      "edit_duration": 19.409
+    },
+    "estimate": 22.0,
+    "status": "ready_to_queue; new performances remain producer-review pending"
+  },
+  {
+    "id": "s01e02-e02-s17-p02-public-v001",
+    "subject": "E02-S17-P02",
+    "scene": 17,
+    "payload": {
+      "model": "wan-3.0-prime",
+      "prompt": "KittyPunk2077 S01E02 E02-S17-P02. Single continuous cinematic tactile 3D animated shot, 16:9. CAMERA / ACTION: Clerk chooses to sign; Byte protects private copy and hands him pen. Reference guide: Image 1: LOC07 - 7-Catleven interior and freezer; Image 2: Byte; Image 3: 7-Catleven Clerk; Image 4: CIV01 - Civilian Cat. Use sheets only for consistent character identity, costume, room geometry and materials; never display grids, captions or alternate views. Compose one filmable view. Visible roles: byte, seven_catleven_clerk, civilian_1. Do not add other main characters. Trixie is white female cat, blue eyes, magenta; Byte orange/amber; Ghost hood/green visor; Onyx black/violet; Neon silver/cyan. Goodboy Global corporate name. Barkington is a Doberman; organic Pawlice is not a factory robot. Preserve paws, face proportions, clothing and camera axis. TV gameplay or broadcasts stay strictly inside physical television glass and bezel. No subtitles or watermarks. Audio reference 1 is the original dialogue: match visible speakers, retain offscreen voices offscreen. Timing: 0.25-5.45s seven_catleven_clerk (visible speaker): And tomorrow? And the next person? I can't run a shop by pretending nobody's hungry. 5.65-9.92s byte (visible speaker): We won't put your signature on the news without asking. This copy is for the appeal. 10.12-14.86s seven_catleven_clerk (visible speaker): Then hand me the pen. And spell the shop's name right. They always get that wrong.",
+      "duration_sec": 20,
+      "resolution": "1080p",
+      "aspect_ratio": "16:9",
+      "input_images": [
+        "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/0501505937608443.jpg",
+        "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/a23590fe66ebce01.jpg",
+        "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/d9ae4e4d7a6c8795.jpg",
+        "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/d0c4b245ed3a3745.jpg"
+      ],
+      "input_audios": [
+        "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Seasons/Season%2001/Episode%2002%20-%20Development/Shot%20Audio/E02-S17-P02-dialogue-reference.wav"
+      ],
+      "source_audio": [
+        "data/shot-audio/E02-S17-P02-dialogue-reference.wav"
+      ],
+      "season": 1,
+      "episode": 2,
+      "scene": 17,
+      "title": "E02-S17-P02 \u2014 LOC07",
+      "edit_duration": 19.408
+    },
+    "estimate": 22.0,
+    "status": "ready_to_queue; new performances remain producer-review pending"
+  },
+  {
+    "id": "s01e02-e02-s17-p03-public-v001",
+    "subject": "E02-S17-P03",
+    "scene": 17,
+    "payload": {
+      "model": "wan-3.0-prime",
+      "prompt": "KittyPunk2077 S01E02 E02-S17-P03. Single continuous cinematic tactile 3D animated shot, 16:9. CAMERA / ACTION: Resident thanks clerk as Byte sends attachment from handheld; maintain counter positions. Reference guide: Image 1: LOC07 - 7-Catleven interior and freezer; Image 2: Byte; Image 3: 7-Catleven Clerk; Image 4: CIV01 - Civilian Cat. Use sheets only for consistent character identity, costume, room geometry and materials; never display grids, captions or alternate views. Compose one filmable view. Visible roles: byte, seven_catleven_clerk, civilian_1. Do not add other main characters. Trixie is white female cat, blue eyes, magenta; Byte orange/amber; Ghost hood/green visor; Onyx black/violet; Neon silver/cyan. Goodboy Global corporate name. Barkington is a Doberman; organic Pawlice is not a factory robot. Preserve paws, face proportions, clothing and camera axis. TV gameplay or broadcasts stay strictly inside physical television glass and bezel. No subtitles or watermarks. Audio reference 1 is the original dialogue: match visible speakers, retain offscreen voices offscreen. Timing: 0.25-3.04s civilian_1 (visible speaker): Thank you. I don't know what else to say. 3.24-7.83s seven_catleven_clerk (visible speaker): Come back when you can pay. Argue with me about the prices. Normal things. 8.03-10.63s byte (visible speaker): Sent. Trixie, you've got your last attachment.",
+      "duration_sec": 16,
+      "resolution": "1080p",
+      "aspect_ratio": "16:9",
+      "input_images": [
+        "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/0501505937608443.jpg",
+        "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/a23590fe66ebce01.jpg",
+        "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/d9ae4e4d7a6c8795.jpg",
+        "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/d0c4b245ed3a3745.jpg"
+      ],
+      "input_audios": [
+        "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Seasons/Season%2001/Episode%2002%20-%20Development/Shot%20Audio/E02-S17-P03-dialogue-reference.wav"
+      ],
+      "source_audio": [
+        "data/shot-audio/E02-S17-P03-dialogue-reference.wav"
+      ],
+      "season": 1,
+      "episode": 2,
+      "scene": 17,
+      "title": "E02-S17-P03 \u2014 LOC07",
+      "edit_duration": 15.183
+    },
+    "estimate": 17.6,
+    "status": "ready_to_queue; new performances remain producer-review pending"
+  },
+  {
+    "id": "s01e02-e02-s20-p01-public-v001",
+    "subject": "E02-S20-P01",
+    "scene": 20,
+    "payload": {
+      "model": "wan-3.0-prime",
+      "prompt": "KittyPunk2077 S01E02 E02-S20-P01. Single continuous cinematic tactile 3D animated shot, 16:9. CAMERA / ACTION: Annex queue medium: resident approaches Onyx and Neon with folder; Trixie stands nearby. Reference guide: Image 1: HQ10 - Goodboy Global public-service annex; Image 2: CIV02 - Civilian Cat; Image 3: Onyx; Image 4: Neon; Image 5: Trixie - CatGirl. Use sheets only for consistent character identity, costume, room geometry and materials; never display grids, captions or alternate views. Compose one filmable view. Visible roles: civilian_2, onyx, neon, trixie. Do not add other main characters. Trixie is white female cat, blue eyes, magenta; Byte orange/amber; Ghost hood/green visor; Onyx black/violet; Neon silver/cyan. Goodboy Global corporate name. Barkington is a Doberman; organic Pawlice is not a factory robot. Preserve paws, face proportions, clothing and camera axis. TV gameplay or broadcasts stay strictly inside physical television glass and bezel. No subtitles or watermarks. Audio reference 1 is the original dialogue: match visible speakers, retain offscreen voices offscreen. Timing: 0.25-5.50s civilian_2 (visible speaker): Is this the right queue? I've got the receipt, the decline notice and a very bad mood. 5.70-8.90s onyx (visible speaker): All three are useful. The first two go in the folder. 9.10-14.81s neon (visible speaker): Write your own case number at the top. Don't borrow somebody else's. Yours has to follow your account.",
+      "duration_sec": 22,
+      "resolution": "1080p",
+      "aspect_ratio": "16:9",
+      "input_images": [
+        "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/7d429d8e9d06f63b.jpg",
+        "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/4562760aa1996806.jpg",
+        "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/8ac469710ff37bec.jpg",
+        "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/c59f876dfb3540bb.jpg",
+        "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/51c0358d041cc3ba.jpg"
+      ],
+      "input_audios": [
+        "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Seasons/Season%2001/Episode%2002%20-%20Development/Shot%20Audio/E02-S20-P01-dialogue-reference.wav"
+      ],
+      "source_audio": [
+        "data/shot-audio/E02-S20-P01-dialogue-reference.wav"
+      ],
+      "season": 1,
+      "episode": 2,
+      "scene": 20,
+      "title": "E02-S20-P01 \u2014 HQ10",
+      "edit_duration": 21.808
+    },
+    "estimate": 24.2,
+    "status": "ready_to_queue; new performances remain producer-review pending"
+  },
+  {
+    "id": "s01e02-e02-s20-p02-public-v001",
+    "subject": "E02-S20-P02",
+    "scene": 20,
+    "payload": {
+      "model": "wan-3.0-prime",
+      "prompt": "KittyPunk2077 S01E02 E02-S20-P02. Single continuous cinematic tactile 3D animated shot, 16:9. CAMERA / ACTION: Slow lateral view of a small orderly civilian-cat queue behind the four, Trixie explains collective pattern. Reference guide: Image 1: HQ10 - Goodboy Global public-service annex; Image 2: CIV02 - Civilian Cat; Image 3: Onyx; Image 4: Neon; Image 5: Trixie - CatGirl. Use sheets only for consistent character identity, costume, room geometry and materials; never display grids, captions or alternate views. Compose one filmable view. Visible roles: civilian_2, onyx, neon, trixie. Do not add other main characters. Trixie is white female cat, blue eyes, magenta; Byte orange/amber; Ghost hood/green visor; Onyx black/violet; Neon silver/cyan. Goodboy Global corporate name. Barkington is a Doberman; organic Pawlice is not a factory robot. Preserve paws, face proportions, clothing and camera axis. TV gameplay or broadcasts stay strictly inside physical television glass and bezel. No subtitles or watermarks. Audio reference 1 is the original dialogue: match visible speakers, retain offscreen voices offscreen. Timing: 0.25-1.83s civilian_2 (visible speaker): There's a lot of us now. 2.03-5.09s trixie (visible speaker): That's why they can't keep calling it one confused customer. 5.29-10.87s onyx (visible speaker): Written appeals go in that slot. They must give you a dated acknowledgment. Don't leave without it.",
+      "duration_sec": 18,
+      "resolution": "1080p",
+      "aspect_ratio": "16:9",
+      "input_images": [
+        "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/7d429d8e9d06f63b.jpg",
+        "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/4562760aa1996806.jpg",
+        "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/8ac469710ff37bec.jpg",
+        "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/c59f876dfb3540bb.jpg",
+        "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/51c0358d041cc3ba.jpg"
+      ],
+      "input_audios": [
+        "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Seasons/Season%2001/Episode%2002%20-%20Development/Shot%20Audio/E02-S20-P02-dialogue-reference.wav"
+      ],
+      "source_audio": [
+        "data/shot-audio/E02-S20-P02-dialogue-reference.wav"
+      ],
+      "season": 1,
+      "episode": 2,
+      "scene": 20,
+      "title": "E02-S20-P02 \u2014 HQ10",
+      "edit_duration": 17.861
+    },
+    "estimate": 19.8,
+    "status": "ready_to_queue; new performances remain producer-review pending"
+  },
+  {
+    "id": "s01e02-e02-s20-p03-public-v001",
+    "subject": "E02-S20-P03",
+    "scene": 20,
+    "payload": {
+      "model": "wan-3.0-prime",
+      "prompt": "KittyPunk2077 S01E02 E02-S20-P03. Single continuous cinematic tactile 3D animated shot, 16:9. CAMERA / ACTION: Onyx points to appeal slot, Neon warns about fee page; resident and Trixie exchange recognition. Reference guide: Image 1: HQ10 - Goodboy Global public-service annex; Image 2: CIV02 - Civilian Cat; Image 3: Onyx; Image 4: Neon; Image 5: Trixie - CatGirl. Use sheets only for consistent character identity, costume, room geometry and materials; never display grids, captions or alternate views. Compose one filmable view. Visible roles: civilian_2, onyx, neon, trixie. Do not add other main characters. Trixie is white female cat, blue eyes, magenta; Byte orange/amber; Ghost hood/green visor; Onyx black/violet; Neon silver/cyan. Goodboy Global corporate name. Barkington is a Doberman; organic Pawlice is not a factory robot. Preserve paws, face proportions, clothing and camera axis. TV gameplay or broadcasts stay strictly inside physical television glass and bezel. No subtitles or watermarks. Audio reference 1 is the original dialogue: match visible speakers, retain offscreen voices offscreen. Timing: 0.25-3.78s neon (visible speaker): And save page thirty-seven if they charge you for the apology. 3.98-5.46s civilian_2 (visible speaker): I thought that was just me. 5.67-7.34s trixie (visible speaker): That's what they were counting on.",
+      "duration_sec": 15,
+      "resolution": "1080p",
+      "aspect_ratio": "16:9",
+      "input_images": [
+        "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/7d429d8e9d06f63b.jpg",
+        "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/4562760aa1996806.jpg",
+        "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/8ac469710ff37bec.jpg",
+        "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/c59f876dfb3540bb.jpg",
+        "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/51c0358d041cc3ba.jpg"
+      ],
+      "input_audios": [
+        "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Seasons/Season%2001/Episode%2002%20-%20Development/Shot%20Audio/E02-S20-P03-dialogue-reference.wav"
+      ],
+      "source_audio": [
+        "data/shot-audio/E02-S20-P03-dialogue-reference.wav"
+      ],
+      "season": 1,
+      "episode": 2,
+      "scene": 20,
+      "title": "E02-S20-P03 \u2014 HQ10",
+      "edit_duration": 14.331
+    },
+    "estimate": 16.5,
+    "status": "ready_to_queue; new performances remain producer-review pending"
+  },
+  {
+    "id": "s01e02-e02-s21-p01-public-v001",
+    "subject": "E02-S21-P01",
+    "scene": 21,
+    "payload": {
+      "model": "wan-3.0-prime",
+      "prompt": "KittyPunk2077 S01E02 E02-S21-P01. Single continuous cinematic tactile 3D animated shot, 16:9. CAMERA / ACTION: Annex terminal three-shot as Neon reads decision, Trixie questions pending status. Reference guide: Image 1: HQ10 - Goodboy Global public-service annex; Image 2: Neon; Image 3: Trixie - CatGirl; Image 4: Onyx. Use sheets only for consistent character identity, costume, room geometry and materials; never display grids, captions or alternate views. Compose one filmable view. Visible roles: neon, trixie, onyx. Do not add other main characters. Trixie is white female cat, blue eyes, magenta; Byte orange/amber; Ghost hood/green visor; Onyx black/violet; Neon silver/cyan. Goodboy Global corporate name. Barkington is a Doberman; organic Pawlice is not a factory robot. Preserve paws, face proportions, clothing and camera axis. TV gameplay or broadcasts stay strictly inside physical television glass and bezel. No subtitles or watermarks. Audio reference 1 is the original dialogue: match visible speakers, retain offscreen voices offscreen. Timing: 0.25-4.48s neon (visible speaker): Manual review decision. Payment access restored pending case resolution. 4.68-7.65s trixie (visible speaker): Pending? Read the next line. What are they keeping locked? 7.85-13.98s neon (visible speaker): The tenant review is deferred for thirty days. Utilities unchanged. They've reopened the accounts.",
+      "duration_sec": 19,
+      "resolution": "1080p",
+      "aspect_ratio": "16:9",
+      "input_images": [
+        "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/7d429d8e9d06f63b.jpg",
+        "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/c59f876dfb3540bb.jpg",
+        "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/51c0358d041cc3ba.jpg",
+        "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/8ac469710ff37bec.jpg"
+      ],
+      "input_audios": [
+        "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Seasons/Season%2001/Episode%2002%20-%20Development/Shot%20Audio/E02-S21-P01-dialogue-reference.wav"
+      ],
+      "source_audio": [
+        "data/shot-audio/E02-S21-P01-dialogue-reference.wav"
+      ],
+      "season": 1,
+      "episode": 2,
+      "scene": 21,
+      "title": "E02-S21-P01 \u2014 HQ10",
+      "edit_duration": 18.06
+    },
+    "estimate": 20.9,
+    "status": "ready_to_queue; new performances remain producer-review pending"
+  },
+  {
+    "id": "s01e02-e02-s21-p02-public-v001",
+    "subject": "E02-S21-P02",
+    "scene": 21,
+    "payload": {
+      "model": "wan-3.0-prime",
+      "prompt": "KittyPunk2077 S01E02 E02-S21-P02. Single continuous cinematic tactile 3D animated shot, 16:9. CAMERA / ACTION: Onyx reacts; Trixie asks for real shop payment and Neon raises communicator. Reference guide: Image 1: HQ10 - Goodboy Global public-service annex; Image 2: Neon; Image 3: Trixie - CatGirl; Image 4: Onyx. Use sheets only for consistent character identity, costume, room geometry and materials; never display grids, captions or alternate views. Compose one filmable view. Visible roles: neon, trixie, onyx. Do not add other main characters. Trixie is white female cat, blue eyes, magenta; Byte orange/amber; Ghost hood/green visor; Onyx black/violet; Neon silver/cyan. Goodboy Global corporate name. Barkington is a Doberman; organic Pawlice is not a factory robot. Preserve paws, face proportions, clothing and camera axis. TV gameplay or broadcasts stay strictly inside physical television glass and bezel. No subtitles or watermarks. Audio reference 1 is the original dialogue: match visible speakers, retain offscreen voices offscreen. Timing: 0.25-5.68s onyx (visible speaker): Not because we pressed a magic button. Because half the district is standing under their camera with receipts. 5.88-9.92s trixie (visible speaker): Call the shop. I want an actual payment to go through before we celebrate a sentence. 10.12-11.98s neon (visible speaker): Byte's there. He's trying it now.",
+      "duration_sec": 17,
+      "resolution": "1080p",
+      "aspect_ratio": "16:9",
+      "input_images": [
+        "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/7d429d8e9d06f63b.jpg",
+        "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/c59f876dfb3540bb.jpg",
+        "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/51c0358d041cc3ba.jpg",
+        "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/8ac469710ff37bec.jpg"
+      ],
+      "input_audios": [
+        "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Seasons/Season%2001/Episode%2002%20-%20Development/Shot%20Audio/E02-S21-P02-dialogue-reference.wav"
+      ],
+      "source_audio": [
+        "data/shot-audio/E02-S21-P02-dialogue-reference.wav"
+      ],
+      "season": 1,
+      "episode": 2,
+      "scene": 21,
+      "title": "E02-S21-P02 \u2014 HQ10",
+      "edit_duration": 16.064
+    },
+    "estimate": 18.7,
+    "status": "ready_to_queue; new performances remain producer-review pending"
+  },
+  {
+    "id": "s01e02-e02-s21-p03-public-v001",
+    "subject": "E02-S21-P03",
+    "scene": 21,
+    "payload": {
+      "model": "wan-3.0-prime",
+      "prompt": "KittyPunk2077 S01E02 E02-S21-P03. Single continuous cinematic tactile 3D animated shot, 16:9. CAMERA / ACTION: Hold on Trixie, Onyx and Neon listening: Byte speaks OFFSCREEN through communicator, never materialize him in annex. Reference guide: Image 1: HQ10 - Goodboy Global public-service annex; Image 2: Neon; Image 3: Trixie - CatGirl; Image 4: Onyx. Use sheets only for consistent character identity, costume, room geometry and materials; never display grids, captions or alternate views. Compose one filmable view. Visible roles: neon, trixie, onyx. Do not add other main characters. Trixie is white female cat, blue eyes, magenta; Byte orange/amber; Ghost hood/green visor; Onyx black/violet; Neon silver/cyan. Goodboy Global corporate name. Barkington is a Doberman; organic Pawlice is not a factory robot. Preserve paws, face proportions, clothing and camera axis. TV gameplay or broadcasts stay strictly inside physical television glass and bezel. No subtitles or watermarks. Audio reference 1 is the original dialogue: match visible speakers, retain offscreen voices offscreen. Timing: 0.25-5.45s byte (offscreen communicator): It worked. Money moved. Receipt printed. The clerk is complaining about the paper bill. 5.65-8.67s trixie (visible speaker): Good. Complaining about normal things. I'll take it. 8.87-11.79s onyx (visible speaker): Then can we leave before I become part of the furniture?",
+      "duration_sec": 16,
+      "resolution": "1080p",
+      "aspect_ratio": "16:9",
+      "input_images": [
+        "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/7d429d8e9d06f63b.jpg",
+        "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/c59f876dfb3540bb.jpg",
+        "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/51c0358d041cc3ba.jpg",
+        "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/8ac469710ff37bec.jpg"
+      ],
+      "input_audios": [
+        "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Seasons/Season%2001/Episode%2002%20-%20Development/Shot%20Audio/E02-S21-P03-dialogue-reference.wav"
+      ],
+      "source_audio": [
+        "data/shot-audio/E02-S21-P03-dialogue-reference.wav"
+      ],
+      "season": 1,
+      "episode": 2,
+      "scene": 21,
+      "title": "E02-S21-P03 \u2014 HQ10",
+      "edit_duration": 15.876
+    },
+    "estimate": 17.6,
+    "status": "ready_to_queue; new performances remain producer-review pending"
+  },
+  {
+    "id": "s01e02-e02-s22-p01-public-v001",
+    "subject": "E02-S22-P01",
+    "scene": 22,
+    "payload": {
+      "model": "wan-3.0-prime",
+      "prompt": "KittyPunk2077 S01E02 E02-S22-P01. Single continuous cinematic tactile 3D animated shot, 16:9. CAMERA / ACTION: Market handover with resident, Byte and Trixie; resident holds successful payment receipt. Reference guide: Image 1: LOC08 - District 7 market; Image 2: CIV01 - Civilian Cat; Image 3: Byte; Image 4: Trixie - CatGirl; Image 5: Onyx; Image 6: Neon. Use sheets only for consistent character identity, costume, room geometry and materials; never display grids, captions or alternate views. Compose one filmable view. Visible roles: civilian_1, byte, trixie, onyx, neon. Do not add other main characters. Trixie is white female cat, blue eyes, magenta; Byte orange/amber; Ghost hood/green visor; Onyx black/violet; Neon silver/cyan. Goodboy Global corporate name. Barkington is a Doberman; organic Pawlice is not a factory robot. Preserve paws, face proportions, clothing and camera axis. TV gameplay or broadcasts stay strictly inside physical television glass and bezel. No subtitles or watermarks. Audio reference 1 is the original dialogue: match visible speakers, retain offscreen voices offscreen. Timing: 0.25-5.08s civilian_1 (visible speaker): It went through. I watched it three times because I didn't believe it. 5.28-9.55s byte (visible speaker): One payment. Please don't try a fourth time. We've done enough accounting today. 9.75-12.35s trixie (visible speaker): Two meals for building nine. Onyx has the next crate.",
+      "duration_sec": 16,
+      "resolution": "1080p",
+      "aspect_ratio": "16:9",
+      "input_images": [
+        "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/c0de39fba4f7ec01.jpg",
+        "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/d0c4b245ed3a3745.jpg",
+        "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/a23590fe66ebce01.jpg",
+        "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/51c0358d041cc3ba.jpg",
+        "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/8ac469710ff37bec.jpg",
+        "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/c59f876dfb3540bb.jpg"
+      ],
+      "input_audios": [
+        "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Seasons/Season%2001/Episode%2002%20-%20Development/Shot%20Audio/E02-S22-P01-dialogue-reference.wav"
+      ],
+      "source_audio": [
+        "data/shot-audio/E02-S22-P01-dialogue-reference.wav"
+      ],
+      "season": 1,
+      "episode": 2,
+      "scene": 22,
+      "title": "E02-S22-P01 \u2014 LOC08",
+      "edit_duration": 15.565
+    },
+    "estimate": 17.6,
+    "status": "ready_to_queue; new performances remain producer-review pending"
+  },
+  {
+    "id": "s01e02-e02-s22-p02-public-v001",
+    "subject": "E02-S22-P02",
+    "scene": 22,
+    "payload": {
+      "model": "wan-3.0-prime",
+      "prompt": "KittyPunk2077 S01E02 E02-S22-P02. Single continuous cinematic tactile 3D animated shot, 16:9. CAMERA / ACTION: Onyx carries crate beside Neon cart; Byte points at the brick brake while they joke. Reference guide: Image 1: LOC08 - District 7 market; Image 2: CIV01 - Civilian Cat; Image 3: Byte; Image 4: Trixie - CatGirl; Image 5: Onyx; Image 6: Neon. Use sheets only for consistent character identity, costume, room geometry and materials; never display grids, captions or alternate views. Compose one filmable view. Visible roles: civilian_1, byte, trixie, onyx, neon. Do not add other main characters. Trixie is white female cat, blue eyes, magenta; Byte orange/amber; Ghost hood/green visor; Onyx black/violet; Neon silver/cyan. Goodboy Global corporate name. Barkington is a Doberman; organic Pawlice is not a factory robot. Preserve paws, face proportions, clothing and camera axis. TV gameplay or broadcasts stay strictly inside physical television glass and bezel. No subtitles or watermarks. Audio reference 1 is the original dialogue: match visible speakers, retain offscreen voices offscreen. Timing: 0.25-5.73s onyx (visible speaker): And Neon has invented brakes. Apparently fear is also an effective educational method. 5.93-10.62s neon (visible speaker): They're excellent brakes. You put a large object in front of the wheels. 10.82-11.79s byte (visible speaker): That's a brick.",
+      "duration_sec": 16,
+      "resolution": "1080p",
+      "aspect_ratio": "16:9",
+      "input_images": [
+        "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/c0de39fba4f7ec01.jpg",
+        "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/d0c4b245ed3a3745.jpg",
+        "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/a23590fe66ebce01.jpg",
+        "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/51c0358d041cc3ba.jpg",
+        "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/8ac469710ff37bec.jpg",
+        "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/c59f876dfb3540bb.jpg"
+      ],
+      "input_audios": [
+        "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Seasons/Season%2001/Episode%2002%20-%20Development/Shot%20Audio/E02-S22-P02-dialogue-reference.wav"
+      ],
+      "source_audio": [
+        "data/shot-audio/E02-S22-P02-dialogue-reference.wav"
+      ],
+      "season": 1,
+      "episode": 2,
+      "scene": 22,
+      "title": "E02-S22-P02 \u2014 LOC08",
+      "edit_duration": 15.007
+    },
+    "estimate": 17.6,
+    "status": "ready_to_queue; new performances remain producer-review pending"
+  },
+  {
+    "id": "s01e02-e02-s22-p03-public-v001",
+    "subject": "E02-S22-P03",
+    "scene": 22,
+    "payload": {
+      "model": "wan-3.0-prime",
+      "prompt": "KittyPunk2077 S01E02 E02-S22-P03. Single continuous cinematic tactile 3D animated shot, 16:9. CAMERA / ACTION: Resident gestures toward upstairs entrance; Trixie smiles and accepts invitation as crew gather. Reference guide: Image 1: LOC08 - District 7 market; Image 2: CIV01 - Civilian Cat; Image 3: Byte; Image 4: Trixie - CatGirl; Image 5: Onyx; Image 6: Neon. Use sheets only for consistent character identity, costume, room geometry and materials; never display grids, captions or alternate views. Compose one filmable view. Visible roles: civilian_1, byte, trixie, onyx, neon. Do not add other main characters. Trixie is white female cat, blue eyes, magenta; Byte orange/amber; Ghost hood/green visor; Onyx black/violet; Neon silver/cyan. Goodboy Global corporate name. Barkington is a Doberman; organic Pawlice is not a factory robot. Preserve paws, face proportions, clothing and camera axis. TV gameplay or broadcasts stay strictly inside physical television glass and bezel. No subtitles or watermarks. Audio reference 1 is the original dialogue: match visible speakers, retain offscreen voices offscreen. Timing: 0.25-3.64s neon (visible speaker): A locally sourced, manually operated braking solution. 3.84-7.42s civilian_1 (visible speaker): The little ones saved you a place upstairs, if you haven't eaten. 7.62-10.22s trixie (visible speaker): We haven't. That sounds better than another victory speech.",
+      "duration_sec": 14,
+      "resolution": "1080p",
+      "aspect_ratio": "16:9",
+      "input_images": [
+        "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/c0de39fba4f7ec01.jpg",
+        "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/d0c4b245ed3a3745.jpg",
+        "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/a23590fe66ebce01.jpg",
+        "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/51c0358d041cc3ba.jpg",
+        "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/8ac469710ff37bec.jpg",
+        "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/c59f876dfb3540bb.jpg"
+      ],
+      "input_audios": [
+        "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Seasons/Season%2001/Episode%2002%20-%20Development/Shot%20Audio/E02-S22-P03-dialogue-reference.wav"
+      ],
+      "source_audio": [
+        "data/shot-audio/E02-S22-P03-dialogue-reference.wav"
+      ],
+      "season": 1,
+      "episode": 2,
+      "scene": 22,
+      "title": "E02-S22-P03 \u2014 LOC08",
+      "edit_duration": 13.428
+    },
+    "estimate": 15.4,
+    "status": "ready_to_queue; new performances remain producer-review pending"
+  },
+  {
+    "id": "s01e02-e02-s23-p01-public-v001",
+    "subject": "E02-S23-P01",
+    "scene": 23,
+    "payload": {
+      "model": "wan-3.0-prime",
+      "prompt": "KittyPunk2077 S01E02 E02-S23-P01. Single continuous cinematic tactile 3D animated shot, 16:9. CAMERA / ACTION: Lounge five-cat wide around supper; Ghost shows temporary lease notice, Trixie and Byte respond. Reference guide: Image 1: LOC02 - Resistance warehouse lounge; Image 2: Ghost; Image 3: Trixie - CatGirl; Image 4: Byte; Image 5: Neon; Image 6: Onyx. Use sheets only for consistent character identity, costume, room geometry and materials; never display grids, captions or alternate views. Compose one filmable view. Visible roles: ghost, trixie, byte, neon, onyx. Do not add other main characters. Trixie is white female cat, blue eyes, magenta; Byte orange/amber; Ghost hood/green visor; Onyx black/violet; Neon silver/cyan. Goodboy Global corporate name. Barkington is a Doberman; organic Pawlice is not a factory robot. Preserve paws, face proportions, clothing and camera axis. TV gameplay or broadcasts stay strictly inside physical television glass and bezel. No subtitles or watermarks. Audio reference 1 is the original dialogue: match visible speakers, retain offscreen voices offscreen. Timing: 0.25-3.45s ghost (visible speaker): Thirty days on the lease. That's what the notice actually says. 3.65-6.53s trixie (visible speaker): Then we use the thirty days. We don't pretend it's forever. 6.73-12.26s byte (visible speaker): The ledger still links everything together. We fixed these accounts. We didn't fix who controls them.",
+      "duration_sec": 15,
+      "resolution": "1080p",
+      "aspect_ratio": "16:9",
+      "input_images": [
+        "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/9ccf57446d209d87.jpg",
+        "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/61dc338e08cb2385.jpg",
+        "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/51c0358d041cc3ba.jpg",
+        "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/a23590fe66ebce01.jpg",
+        "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/c59f876dfb3540bb.jpg",
+        "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/8ac469710ff37bec.jpg"
+      ],
+      "input_audios": [
+        "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Seasons/Season%2001/Episode%2002%20-%20Development/Shot%20Audio/E02-S23-P01-dialogue-reference.wav"
+      ],
+      "source_audio": [
+        "data/shot-audio/E02-S23-P01-dialogue-reference.wav"
+      ],
+      "season": 1,
+      "episode": 2,
+      "scene": 23,
+      "title": "E02-S23-P01 \u2014 LOC02",
+      "edit_duration": 14.845
+    },
+    "estimate": 16.5,
+    "status": "ready_to_queue; new performances remain producer-review pending"
+  },
+  {
+    "id": "s01e02-e02-s23-p02-public-v001",
+    "subject": "E02-S23-P02",
+    "scene": 23,
+    "payload": {
+      "model": "wan-3.0-prime",
+      "prompt": "KittyPunk2077 S01E02 E02-S23-P02. Single continuous cinematic tactile 3D animated shot, 16:9. CAMERA / ACTION: Medium across table on Neon and Onyx; apology stack wedges door open in background. Reference guide: Image 1: LOC02 - Resistance warehouse lounge; Image 2: Ghost; Image 3: Trixie - CatGirl; Image 4: Byte; Image 5: Neon; Image 6: Onyx. Use sheets only for consistent character identity, costume, room geometry and materials; never display grids, captions or alternate views. Compose one filmable view. Visible roles: ghost, trixie, byte, neon, onyx. Do not add other main characters. Trixie is white female cat, blue eyes, magenta; Byte orange/amber; Ghost hood/green visor; Onyx black/violet; Neon silver/cyan. Goodboy Global corporate name. Barkington is a Doberman; organic Pawlice is not a factory robot. Preserve paws, face proportions, clothing and camera axis. TV gameplay or broadcasts stay strictly inside physical television glass and bezel. No subtitles or watermarks. Audio reference 1 is the original dialogue: match visible speakers, retain offscreen voices offscreen. Timing: 0.25-3.41s neon (visible speaker): Can we have five minutes where fixing dinner counts as winning? 3.61-9.83s onyx (visible speaker): Absolutely. The apology is holding the door open. Nobody touch it. It's finally doing its job. 10.03-13.88s trixie (visible speaker): Dinner counts. The accounts count. The clerk signing that receipt counts.",
+      "duration_sec": 17,
+      "resolution": "1080p",
+      "aspect_ratio": "16:9",
+      "input_images": [
+        "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/9ccf57446d209d87.jpg",
+        "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/61dc338e08cb2385.jpg",
+        "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/51c0358d041cc3ba.jpg",
+        "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/a23590fe66ebce01.jpg",
+        "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/c59f876dfb3540bb.jpg",
+        "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/8ac469710ff37bec.jpg"
+      ],
+      "input_audios": [
+        "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Seasons/Season%2001/Episode%2002%20-%20Development/Shot%20Audio/E02-S23-P02-dialogue-reference.wav"
+      ],
+      "source_audio": [
+        "data/shot-audio/E02-S23-P02-dialogue-reference.wav"
+      ],
+      "season": 1,
+      "episode": 2,
+      "scene": 23,
+      "title": "E02-S23-P02 \u2014 LOC02",
+      "edit_duration": 16.47
+    },
+    "estimate": 18.7,
+    "status": "ready_to_queue; new performances remain producer-review pending"
+  },
+  {
+    "id": "s01e02-e02-s23-p03-public-v001",
+    "subject": "E02-S23-P03",
+    "scene": 23,
+    "payload": {
+      "model": "wan-3.0-prime",
+      "prompt": "KittyPunk2077 S01E02 E02-S23-P03. Single continuous cinematic tactile 3D animated shot, 16:9. CAMERA / ACTION: Ghost and Byte keep evidence folder beside food; Neon teases Byte, all five remain in established seats. Reference guide: Image 1: LOC02 - Resistance warehouse lounge; Image 2: Ghost; Image 3: Trixie - CatGirl; Image 4: Byte; Image 5: Neon; Image 6: Onyx. Use sheets only for consistent character identity, costume, room geometry and materials; never display grids, captions or alternate views. Compose one filmable view. Visible roles: ghost, trixie, byte, neon, onyx. Do not add other main characters. Trixie is white female cat, blue eyes, magenta; Byte orange/amber; Ghost hood/green visor; Onyx black/violet; Neon silver/cyan. Goodboy Global corporate name. Barkington is a Doberman; organic Pawlice is not a factory robot. Preserve paws, face proportions, clothing and camera axis. TV gameplay or broadcasts stay strictly inside physical television glass and bezel. No subtitles or watermarks. Audio reference 1 is the original dialogue: match visible speakers, retain offscreen voices offscreen. Timing: 0.25-4.57s ghost (visible speaker): And keeping the records means they can't tell us tomorrow that none of it happened. 4.77-9.04s byte (visible speaker): I've got one appendix left to check. Then I'm eating something with no columns in it. 9.24-11.10s neon (visible speaker): Please don't make a spreadsheet for dessert.",
+      "duration_sec": 14,
+      "resolution": "1080p",
+      "aspect_ratio": "16:9",
+      "input_images": [
+        "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/9ccf57446d209d87.jpg",
+        "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/61dc338e08cb2385.jpg",
+        "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/51c0358d041cc3ba.jpg",
+        "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/a23590fe66ebce01.jpg",
+        "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/c59f876dfb3540bb.jpg",
+        "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/8ac469710ff37bec.jpg"
+      ],
+      "input_audios": [
+        "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Seasons/Season%2001/Episode%2002%20-%20Development/Shot%20Audio/E02-S23-P03-dialogue-reference.wav"
+      ],
+      "source_audio": [
+        "data/shot-audio/E02-S23-P03-dialogue-reference.wav"
+      ],
+      "season": 1,
+      "episode": 2,
+      "scene": 23,
+      "title": "E02-S23-P03 \u2014 LOC02",
+      "edit_duration": 13.685
+    },
+    "estimate": 15.4,
+    "status": "ready_to_queue; new performances remain producer-review pending"
+  }
+]

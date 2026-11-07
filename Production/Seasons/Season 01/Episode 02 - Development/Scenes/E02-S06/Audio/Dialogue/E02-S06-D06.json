@@ -1,0 +1,20 @@
+{
+  "id": "E02-S06-D06",
+  "role_id": "trixie",
+  "voice_id": "dmWfLQZJq7wNPv9WmtiM",
+  "voice_name": "Emma — Wry, Gritty Hero",
+  "text": "They did this because we helped. How much more proof do we need?",
+  "status": "review_take",
+  "scene": "E02-S06",
+  "duration_sec": 2.879274,
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.35,
+    "similarity_boost": 0.8,
+    "style": 0.55,
+    "use_speaker_boost": true
+  },
+  "request_id": "rHBdYPmLZ2qWdee8Jf8O",
+  "provider_character_cost": "14",
+  "sha256": "afa61b3385c2b959d73133f8276996fe394f2fb88eb9ef0b37ee43c30f4d1e59"
+}

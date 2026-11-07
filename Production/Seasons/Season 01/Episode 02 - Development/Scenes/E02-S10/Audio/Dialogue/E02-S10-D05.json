@@ -1,0 +1,20 @@
+{
+  "id": "E02-S10-D05",
+  "role_id": "onyx",
+  "voice_id": "uq0HIbNZKn11Hs5ifEdd",
+  "voice_name": "Harry — Fierce Warrior",
+  "text": "Ask it to print the decline. Make the stupid thing testify against itself.",
+  "status": "review_take",
+  "scene": "E02-S10",
+  "duration_sec": 4.643991,
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.5,
+    "similarity_boost": 0.75,
+    "style": 0.15,
+    "use_speaker_boost": true
+  },
+  "request_id": "MkCDS0hnRLICUVeQU6jS",
+  "provider_character_cost": "16",
+  "sha256": "c27cb71811a1681aaf08dbd760dee006573c90d957e0ac29367cabc275793a11"
+}

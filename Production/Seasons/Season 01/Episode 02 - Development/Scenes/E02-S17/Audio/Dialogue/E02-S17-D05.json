@@ -1,0 +1,20 @@
+{
+  "id": "E02-S17-D05",
+  "role_id": "byte",
+  "voice_id": "wo6udizrrtpIxWGp2qJk",
+  "voice_name": "Northern Terry",
+  "text": "We won't put your signature on the news without asking. This copy is for the appeal.",
+  "status": "review_take",
+  "scene": "E02-S17",
+  "duration_sec": 4.272472,
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.5,
+    "similarity_boost": 0.75,
+    "style": 0.15,
+    "use_speaker_boost": true
+  },
+  "request_id": "qdbs3Ar1T4jH5qInMiN8",
+  "provider_character_cost": "18",
+  "sha256": "be5c5d6fdffe4f03c603258fbf0847b9b16d8e72cc996ddfaa5592f790e48a16"
+}

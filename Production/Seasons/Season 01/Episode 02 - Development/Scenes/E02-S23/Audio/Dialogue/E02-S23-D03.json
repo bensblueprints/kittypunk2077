@@ -1,0 +1,20 @@
+{
+  "id": "E02-S23-D03",
+  "role_id": "byte",
+  "voice_id": "wo6udizrrtpIxWGp2qJk",
+  "voice_name": "Northern Terry",
+  "text": "The ledger still links everything together. We fixed these accounts. We didn't fix who controls them.",
+  "status": "review_take",
+  "scene": "E02-S23",
+  "duration_sec": 5.526349,
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.5,
+    "similarity_boost": 0.75,
+    "style": 0.15,
+    "use_speaker_boost": true
+  },
+  "request_id": "wQGHswnSL8TEFfFs1LyJ",
+  "provider_character_cost": "22",
+  "sha256": "b155f5ee60e7dd5f358cdcd584ed881ee323729aa547ff65af2ede148900a64e"
+}

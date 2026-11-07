@@ -1,0 +1,20 @@
+{
+  "id": "E02-S07-D08",
+  "role_id": "byte",
+  "voice_id": "wo6udizrrtpIxWGp2qJk",
+  "voice_name": "Northern Terry",
+  "text": "You take the appeal. We'll compare the records when it opens.",
+  "status": "review_take",
+  "scene": "E02-S07",
+  "duration_sec": 3.343673,
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.5,
+    "similarity_boost": 0.75,
+    "style": 0.15,
+    "use_speaker_boost": true
+  },
+  "request_id": "4HlqtASFhQhYlzxqxgiO",
+  "provider_character_cost": "13",
+  "sha256": "77f2f94f4a17c6c260102f66591f085a1d8fc9728aa6c2a529f9e097786ba306"
+}

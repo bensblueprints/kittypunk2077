@@ -1,0 +1,20 @@
+{
+  "id": "E02-S04-D04",
+  "role_id": "byte",
+  "voice_id": "wo6udizrrtpIxWGp2qJk",
+  "voice_name": "Northern Terry",
+  "text": "Not automatically. Somebody checked three separate boxes. Look at the timestamps.",
+  "status": "review_take",
+  "scene": "E02-S04",
+  "duration_sec": 4.736871,
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.5,
+    "similarity_boost": 0.75,
+    "style": 0.15,
+    "use_speaker_boost": true
+  },
+  "request_id": "OTjGkqQ0KeKsghdq32Y2",
+  "provider_character_cost": "18",
+  "sha256": "5096d7f10ed412ca9d9b611618a5e78cf14b77ec9d5990590eb37361ad457177"
+}

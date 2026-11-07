@@ -1,0 +1,20 @@
+{
+  "id": "E02-S10-D04",
+  "role_id": "trixie",
+  "voice_id": "dmWfLQZJq7wNPv9WmtiM",
+  "voice_name": "Emma — Wry, Gritty Hero",
+  "text": "Proof of inability to pay. We just gave it that. It declined the payment.",
+  "status": "review_take",
+  "scene": "E02-S10",
+  "duration_sec": 4.040272,
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.35,
+    "similarity_boost": 0.8,
+    "style": 0.55,
+    "use_speaker_boost": true
+  },
+  "request_id": "L9TamcJBVjErt4pVmRmJ",
+  "provider_character_cost": "16",
+  "sha256": "6dc00e96bc6d4c7f98f032faa4623c3b353206b123ae44f4a152c8fe543a9102"
+}

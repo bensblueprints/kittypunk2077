@@ -1,0 +1,20 @@
+{
+  "id": "E02-S08-D06",
+  "role_id": "onyx",
+  "voice_id": "uq0HIbNZKn11Hs5ifEdd",
+  "voice_name": "Harry — Fierce Warrior",
+  "text": "Then we tell them it's a dinner list. Because that's what it is.",
+  "status": "review_take",
+  "scene": "E02-S08",
+  "duration_sec": 3.715193,
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.5,
+    "similarity_boost": 0.75,
+    "style": 0.15,
+    "use_speaker_boost": true
+  },
+  "request_id": "qL7QEcl11oDkaM31lasc",
+  "provider_character_cost": "14",
+  "sha256": "bdc122dcb59b0253df78b0a41caaf1fdb2921304aed65006d2cefb16459bb665"
+}

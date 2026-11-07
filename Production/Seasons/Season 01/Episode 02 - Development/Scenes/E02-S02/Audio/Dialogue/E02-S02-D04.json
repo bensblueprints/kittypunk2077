@@ -1,0 +1,20 @@
+{
+  "id": "E02-S02-D04",
+  "role_id": "seven_catleven_clerk",
+  "voice_id": "CwhRBWXzGAHq8TQ4Fs17",
+  "voice_name": "Roger - Laid-Back, Casual, Resonant",
+  "text": "Yours is frozen too. That's the fourth one since you came in.",
+  "status": "review_take",
+  "scene": "E02-S02",
+  "duration_sec": 3.622313,
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.5,
+    "similarity_boost": 0.75,
+    "style": 0.15,
+    "use_speaker_boost": true
+  },
+  "request_id": "DqcHUKRr0bgVSgCTnPiT",
+  "provider_character_cost": "13",
+  "sha256": "e6f8fdb9a4820892a3ff906842621b62b46e019ac521fd41bf143799e1514e10"
+}

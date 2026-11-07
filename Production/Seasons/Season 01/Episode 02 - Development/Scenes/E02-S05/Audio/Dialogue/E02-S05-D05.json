@@ -1,0 +1,21 @@
+{
+  "id": "E02-S05-D05",
+  "role_id": "chairman_barkington",
+  "voice_id": "bwCXcoVxWNYMlC6Esa8u",
+  "voice_name": "Matthew Schmitz - Gravel, Deep Anti-Hero",
+  "text": "The warehouse lease comes up next month? Then inspect it this afternoon.",
+  "status": "review_take",
+  "scene": "E02-S05",
+  "duration_sec": 6.640907,
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.4,
+    "similarity_boost": 0.75,
+    "style": 0.65,
+    "use_speaker_boost": true,
+    "speed": 0.9
+  },
+  "request_id": "6e5kK262qLuB8rlMpYpu",
+  "provider_character_cost": "27",
+  "sha256": "4c59999a95fcf533e8db3f7fd6720b3ef5559c74f39867ddf6fdd29a9c7d4983"
+}

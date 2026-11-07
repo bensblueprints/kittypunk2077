@@ -1,0 +1,20 @@
+{
+  "id": "E02-S24-D07",
+  "role_id": "ghost",
+  "voice_id": "7fBwqIVI6wI1B4MuKqQi",
+  "voice_name": "Austin — Upbeat",
+  "text": "We need more than this page before we know how far it goes.",
+  "status": "review_take",
+  "scene": "E02-S24",
+  "duration_sec": 3.668753,
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.5,
+    "similarity_boost": 0.75,
+    "style": 0.15,
+    "use_speaker_boost": true
+  },
+  "request_id": "sgSFepUkuFrsaxuNK6u5",
+  "provider_character_cost": "13",
+  "sha256": "89dc9d5de483a06b7d7e2bf564ae96b7b1208948c064967d09e296da4e75dec8"
+}

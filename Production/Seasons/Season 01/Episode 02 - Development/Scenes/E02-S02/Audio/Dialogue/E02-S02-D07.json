@@ -1,0 +1,20 @@
+{
+  "id": "E02-S02-D07",
+  "role_id": "trixie",
+  "voice_id": "dmWfLQZJq7wNPv9WmtiM",
+  "voice_name": "Emma — Wry, Gritty Hero",
+  "text": "No. Getting dinner doesn't make you a criminal.",
+  "status": "review_take",
+  "scene": "E02-S02",
+  "duration_sec": 2.461315,
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.35,
+    "similarity_boost": 0.8,
+    "style": 0.55,
+    "use_speaker_boost": true
+  },
+  "request_id": "bOK0Z2My72ySLxIHJLPo",
+  "provider_character_cost": "10",
+  "sha256": "414d09712371c54d9138c4206051877cb24ecf0ce2eff279e5200420e56d60cd"
+}

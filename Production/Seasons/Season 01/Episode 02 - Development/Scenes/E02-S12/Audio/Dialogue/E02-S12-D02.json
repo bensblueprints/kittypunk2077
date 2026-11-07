@@ -1,0 +1,20 @@
+{
+  "id": "E02-S12-D02",
+  "role_id": "ghost",
+  "voice_id": "7fBwqIVI6wI1B4MuKqQi",
+  "voice_name": "Austin — Upbeat",
+  "text": "Signed freeze order. District Seven recipients. Payment and tenancy review in the same instruction.",
+  "status": "review_take",
+  "scene": "E02-S12",
+  "duration_sec": 6.315828,
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.5,
+    "similarity_boost": 0.75,
+    "style": 0.15,
+    "use_speaker_boost": true
+  },
+  "request_id": "PGTgwZ7N3dcLtWqKJcfz",
+  "provider_character_cost": "22",
+  "sha256": "8ba1af2a7e3ca375099855541453f2eebf891424b42b3daf27ac8b00ff87ec67"
+}

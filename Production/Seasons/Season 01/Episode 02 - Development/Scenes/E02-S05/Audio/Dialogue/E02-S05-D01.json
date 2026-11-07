@@ -1,0 +1,21 @@
+{
+  "id": "E02-S05-D01",
+  "role_id": "chairman_barkington",
+  "voice_id": "bwCXcoVxWNYMlC6Esa8u",
+  "voice_name": "Matthew Schmitz - Gravel, Deep Anti-Hero",
+  "text": "Food handed out without supervision creates expectations. Expectations create demands.",
+  "status": "review_take",
+  "scene": "E02-S05",
+  "duration_sec": 8.730703,
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.4,
+    "similarity_boost": 0.75,
+    "style": 0.65,
+    "use_speaker_boost": true,
+    "speed": 0.9
+  },
+  "request_id": "ZBGsfCsBHppYvDQnBQbR",
+  "provider_character_cost": "32",
+  "sha256": "3e1c866fc68a1e047d3578e0bd12177e624b97c7f32b046c68670092127b0433"
+}

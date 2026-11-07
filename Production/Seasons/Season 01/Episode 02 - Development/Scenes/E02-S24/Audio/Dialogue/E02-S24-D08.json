@@ -1,0 +1,20 @@
+{
+  "id": "E02-S24-D08",
+  "role_id": "trixie",
+  "voice_id": "dmWfLQZJq7wNPv9WmtiM",
+  "voice_name": "Emma — Wry, Gritty Hero",
+  "text": "Then keep it with the others. Every order, every receipt, every lie.",
+  "status": "review_take",
+  "scene": "E02-S24",
+  "duration_sec": 4.272472,
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.35,
+    "similarity_boost": 0.8,
+    "style": 0.55,
+    "use_speaker_boost": true
+  },
+  "request_id": "3qKuTtEqZf0iNJUF4XLt",
+  "provider_character_cost": "15",
+  "sha256": "1401ba1195b5c0461c909b0559b7eea12cd7725379491d38d5765819ff2fecae"
+}

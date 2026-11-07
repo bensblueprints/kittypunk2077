@@ -1,0 +1,20 @@
+{
+  "id": "E02-S16-D04",
+  "role_id": "neon",
+  "voice_id": "4e32WqNVWRquDa1OcRYZ",
+  "voice_name": "Ryan — Product Reviewer",
+  "text": "It wants corroborating transaction evidence from a registered shop.",
+  "status": "review_take",
+  "scene": "E02-S16",
+  "duration_sec": 3.390113,
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.5,
+    "similarity_boost": 0.75,
+    "style": 0.15,
+    "use_speaker_boost": true
+  },
+  "request_id": "4rc7uUPduyAmqN8v4mqn",
+  "provider_character_cost": "15",
+  "sha256": "21eb79e0eb09f496077a656527d827fca761c1907c056b6b6dc7b524b709229a"
+}

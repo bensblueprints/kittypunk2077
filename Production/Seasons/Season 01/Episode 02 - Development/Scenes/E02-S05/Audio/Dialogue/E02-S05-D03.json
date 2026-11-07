@@ -1,0 +1,21 @@
+{
+  "id": "E02-S05-D03",
+  "role_id": "chairman_barkington",
+  "voice_id": "bwCXcoVxWNYMlC6Esa8u",
+  "voice_name": "Matthew Schmitz - Gravel, Deep Anti-Hero",
+  "text": "No, not the entire city. District Seven. Keep the filter exactly where it is.",
+  "status": "review_take",
+  "scene": "E02-S05",
+  "duration_sec": 9.241542,
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.4,
+    "similarity_boost": 0.75,
+    "style": 0.65,
+    "use_speaker_boost": true,
+    "speed": 0.9
+  },
+  "request_id": "YBBzE82joYGAzZnq4ErY",
+  "provider_character_cost": "29",
+  "sha256": "53b80d1cec14e0254fdd87d674c213e98ec1bbcabb79cd570bd8dbd02704f169"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "E02-S20-D05",
+  "role_id": "trixie",
+  "voice_id": "dmWfLQZJq7wNPv9WmtiM",
+  "voice_name": "Emma — Wry, Gritty Hero",
+  "text": "That's why they can't keep calling it one confused customer.",
+  "status": "review_take",
+  "scene": "E02-S20",
+  "duration_sec": 3.065034,
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.35,
+    "similarity_boost": 0.8,
+    "style": 0.55,
+    "use_speaker_boost": true
+  },
+  "request_id": "4NdLcM310J0HyzeprXqv",
+  "provider_character_cost": "13",
+  "sha256": "5c17b6d20da9bb089088f44ae2c417e083e304dc7a71c961bf0e73c648684954"
+}

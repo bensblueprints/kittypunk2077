@@ -1,0 +1,20 @@
+{
+  "id": "E02-S22-D05",
+  "role_id": "neon",
+  "voice_id": "4e32WqNVWRquDa1OcRYZ",
+  "voice_name": "Ryan — Product Reviewer",
+  "text": "They're excellent brakes. You put a large object in front of the wheels.",
+  "status": "review_take",
+  "scene": "E02-S22",
+  "duration_sec": 4.690431,
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.5,
+    "similarity_boost": 0.75,
+    "style": 0.15,
+    "use_speaker_boost": true
+  },
+  "request_id": "nOL54iewf99AMNojXhwt",
+  "provider_character_cost": "16",
+  "sha256": "502b567c8ae6e3b7033cf20f5ea8795c566095e3ba4e851b5bfb59a3bf3ed492"
+}

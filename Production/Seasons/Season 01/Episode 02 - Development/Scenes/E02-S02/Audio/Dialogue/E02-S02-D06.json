@@ -1,0 +1,20 @@
+{
+  "id": "E02-S02-D06",
+  "role_id": "civilian_1",
+  "voice_id": "DODLEQrClDo8wCz460ld",
+  "voice_name": "Lauren - Friendly, Comforting and Soft",
+  "text": "Am I in trouble because you brought us food?",
+  "status": "review_take",
+  "scene": "E02-S02",
+  "duration_sec": 2.461315,
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.5,
+    "similarity_boost": 0.75,
+    "style": 0.15,
+    "use_speaker_boost": true
+  },
+  "request_id": "fJfphE4J04c4KPEGtdZ7",
+  "provider_character_cost": "10",
+  "sha256": "ba880b7b513409ccd1f020174a7199a7c568776d97f92b273c4ba5d96b5b7756"
+}

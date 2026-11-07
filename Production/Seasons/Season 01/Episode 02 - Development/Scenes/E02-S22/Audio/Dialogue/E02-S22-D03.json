@@ -1,0 +1,20 @@
+{
+  "id": "E02-S22-D03",
+  "role_id": "trixie",
+  "voice_id": "dmWfLQZJq7wNPv9WmtiM",
+  "voice_name": "Emma — Wry, Gritty Hero",
+  "text": "Two meals for building nine. Onyx has the next crate.",
+  "status": "review_take",
+  "scene": "E02-S22",
+  "duration_sec": 2.600635,
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.35,
+    "similarity_boost": 0.8,
+    "style": 0.55,
+    "use_speaker_boost": true
+  },
+  "request_id": "OynxAfwf7lqbcX0ZlSaa",
+  "provider_character_cost": "12",
+  "sha256": "28e064f1d97c682323671a1ad8f873b00690356bf40d0e165ced3fd3b3470d47"
+}

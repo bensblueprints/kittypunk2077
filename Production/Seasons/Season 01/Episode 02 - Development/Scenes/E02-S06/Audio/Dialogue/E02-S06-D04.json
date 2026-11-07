@@ -1,0 +1,20 @@
+{
+  "id": "E02-S06-D04",
+  "role_id": "byte",
+  "voice_id": "wo6udizrrtpIxWGp2qJk",
+  "voice_name": "Northern Terry",
+  "text": "These are the delivery receipts. Every frozen customer on this stack received a crate.",
+  "status": "review_take",
+  "scene": "E02-S06",
+  "duration_sec": 4.690431,
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.5,
+    "similarity_boost": 0.75,
+    "style": 0.15,
+    "use_speaker_boost": true
+  },
+  "request_id": "BMdCkidARFnpwHvWFhjZ",
+  "provider_character_cost": "19",
+  "sha256": "f155d8ac0e5b31c6a41927227cc6fed99b653d936dd083b1e9df1ba34f5e9900"
+}

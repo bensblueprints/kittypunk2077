@@ -1,0 +1,20 @@
+{
+  "id": "E02-S08-D07",
+  "role_id": "neon",
+  "voice_id": "4e32WqNVWRquDa1OcRYZ",
+  "voice_name": "Ryan — Product Reviewer",
+  "text": "You can use your building number instead. We need to find your door, not own your life.",
+  "status": "review_take",
+  "scene": "E02-S08",
+  "duration_sec": 4.133152,
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.5,
+    "similarity_boost": 0.75,
+    "style": 0.15,
+    "use_speaker_boost": true
+  },
+  "request_id": "Oh0bCY1QqMJSEidBsaba",
+  "provider_character_cost": "19",
+  "sha256": "e123cda76a90fbdaff62b85e34072232bbcf412ee8f19feccefb171840c0f87d"
+}

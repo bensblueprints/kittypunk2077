@@ -1,0 +1,21 @@
+{
+  "id": "E02-S18-D06",
+  "role_id": "chairman_barkington",
+  "voice_id": "bwCXcoVxWNYMlC6Esa8u",
+  "voice_name": "Matthew Schmitz - Gravel, Deep Anti-Hero",
+  "text": "End the statement there. And find out who gave them the attachment.",
+  "status": "review_take",
+  "scene": "E02-S18",
+  "duration_sec": 5.572789,
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.4,
+    "similarity_boost": 0.75,
+    "style": 0.65,
+    "use_speaker_boost": true,
+    "speed": 0.9
+  },
+  "request_id": "f9Fqe3XaBABv5zDdVYGb",
+  "provider_character_cost": "25",
+  "sha256": "4181f2a1500f76a4c50e4e3d23a30a7459646da99b3bcbf8f49f787a9a7ccd1a"
+}

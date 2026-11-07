@@ -1,0 +1,20 @@
+{
+  "id": "E02-S11-D07",
+  "role_id": "trixie",
+  "voice_id": "dmWfLQZJq7wNPv9WmtiM",
+  "voice_name": "Emma — Wry, Gritty Hero",
+  "text": "There's the paper slot. Put the receipt on top, then the account notice.",
+  "status": "review_take",
+  "scene": "E02-S11",
+  "duration_sec": 4.365351,
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.35,
+    "similarity_boost": 0.8,
+    "style": 0.55,
+    "use_speaker_boost": true
+  },
+  "request_id": "TWEe6xLy2KRXNEwpFxiB",
+  "provider_character_cost": "16",
+  "sha256": "5df26d256981693a5aa5173025ba239d715d4d6767ad6b2350a48c3c0a0bde8a"
+}

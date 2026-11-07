@@ -1,0 +1,20 @@
+{
+  "id": "E02-S06-D03",
+  "role_id": "trixie",
+  "voice_id": "dmWfLQZJq7wNPv9WmtiM",
+  "voice_name": "Emma — Wry, Gritty Hero",
+  "text": "We have enough in the crates for tonight. We don't have enough for every night.",
+  "status": "review_take",
+  "scene": "E02-S06",
+  "duration_sec": 3.622313,
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.35,
+    "similarity_boost": 0.8,
+    "style": 0.55,
+    "use_speaker_boost": true
+  },
+  "request_id": "Nj1mBzEDIla61Bi2ep4T",
+  "provider_character_cost": "17",
+  "sha256": "d10b453ecaf4082bac89c885f1428853a994d58ef26d3271f77a91fc3c07ac5e"
+}

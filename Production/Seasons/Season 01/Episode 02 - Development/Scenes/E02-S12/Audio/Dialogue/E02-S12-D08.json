@@ -1,0 +1,20 @@
+{
+  "id": "E02-S12-D08",
+  "role_id": "ghost",
+  "voice_id": "7fBwqIVI6wI1B4MuKqQi",
+  "voice_name": "Austin — Upbeat",
+  "text": "I think we should make that a difficult thing to say.",
+  "status": "review_take",
+  "scene": "E02-S12",
+  "duration_sec": 2.647075,
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.5,
+    "similarity_boost": 0.75,
+    "style": 0.15,
+    "use_speaker_boost": true
+  },
+  "request_id": "95rJBQuStkzMv5WH1nRs",
+  "provider_character_cost": "12",
+  "sha256": "af3615557b967ad4ef18a751dfda3eef4bd7d49b62e06a74d4b9204744df1b99"
+}

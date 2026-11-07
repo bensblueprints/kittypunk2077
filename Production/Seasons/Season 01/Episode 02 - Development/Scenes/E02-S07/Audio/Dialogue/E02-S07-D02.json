@@ -1,0 +1,20 @@
+{
+  "id": "E02-S07-D02",
+  "role_id": "ghost",
+  "voice_id": "7fBwqIVI6wI1B4MuKqQi",
+  "voice_name": "Austin — Upbeat",
+  "text": "A real appeal number. The account holder can request the decision record through an appeal.",
+  "status": "review_take",
+  "scene": "E02-S07",
+  "duration_sec": 5.433469,
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.5,
+    "similarity_boost": 0.75,
+    "style": 0.15,
+    "use_speaker_boost": true
+  },
+  "request_id": "Q8JN48shdljIDoNzmQy6",
+  "provider_character_cost": "20",
+  "sha256": "dd83691d6070df43460c887a3de156c5278858c18a2bc65f78fbae424dc0beeb"
+}

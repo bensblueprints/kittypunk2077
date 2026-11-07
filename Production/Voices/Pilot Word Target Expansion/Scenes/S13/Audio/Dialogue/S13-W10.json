@@ -1,0 +1,21 @@
+{
+  "id": "S13-W10",
+  "scene": "S13",
+  "speaker": "Ghost",
+  "role_id": "ghost",
+  "voice_id": "7fBwqIVI6wI1B4MuKqQi",
+  "text": "Camera ready. Leave the original recording running. If we only keep the interesting sentence, they will claim we cut away everything that explains it.",
+  "status": "review_take",
+  "placement": "Integrate into existing action coverage; preserve current performances and scene boundaries. Visual/lip-sync review required.",
+  "duration_sec": 8.359184,
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.5,
+    "similarity_boost": 0.75,
+    "style": 0.15,
+    "use_speaker_boost": true
+  },
+  "request_id": "fiPBTIY4AWfQe4rbkmm5",
+  "provider_character_cost": "33",
+  "sha256": "161d1fe27d7aa195023e54cb1a4b0b5b502ad1b9016f39ce04cf43955522c160"
+}

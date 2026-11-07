@@ -1,0 +1,20 @@
+{
+  "id": "E02-S07-D04",
+  "role_id": "trixie",
+  "voice_id": "dmWfLQZJq7wNPv9WmtiM",
+  "voice_name": "Emma — Wry, Gritty Hero",
+  "text": "We could just clear the balances. Give everyone a clean slate.",
+  "status": "review_take",
+  "scene": "E02-S07",
+  "duration_sec": 3.157914,
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.35,
+    "similarity_boost": 0.8,
+    "style": 0.55,
+    "use_speaker_boost": true
+  },
+  "request_id": "ZC20a6EJbivdZL4W9ks0",
+  "provider_character_cost": "14",
+  "sha256": "91624873a19d9715f87abca00e8c82ddc0615413fb56dde3a7de862b9b530954"
+}

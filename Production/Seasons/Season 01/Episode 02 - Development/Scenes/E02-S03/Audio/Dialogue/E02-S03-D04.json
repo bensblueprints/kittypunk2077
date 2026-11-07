@@ -1,0 +1,20 @@
+{
+  "id": "E02-S03-D04",
+  "role_id": "neon",
+  "voice_id": "4e32WqNVWRquDa1OcRYZ",
+  "voice_name": "Ryan — Product Reviewer",
+  "text": "Thirty-seven pages. They must feel absolutely terrible.",
+  "status": "review_take",
+  "scene": "E02-S03",
+  "duration_sec": 3.018594,
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.5,
+    "similarity_boost": 0.75,
+    "style": 0.15,
+    "use_speaker_boost": true
+  },
+  "request_id": "yybxlFVncIQHBcFgri3Q",
+  "provider_character_cost": "12",
+  "sha256": "a47a0bc8d61d658d70659172faba8a28e6275c1379ebcd41268d322b9b066464"
+}

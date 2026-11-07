@@ -1,0 +1,20 @@
+{
+  "id": "E02-S02-D01",
+  "role_id": "seven_catleven_clerk",
+  "voice_id": "CwhRBWXzGAHq8TQ4Fs17",
+  "voice_name": "Roger - Laid-Back, Casual, Resonant",
+  "text": "It says declined. You've got money. It just won't let me take it.",
+  "status": "review_take",
+  "scene": "E02-S02",
+  "duration_sec": 3.808073,
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.5,
+    "similarity_boost": 0.75,
+    "style": 0.15,
+    "use_speaker_boost": true
+  },
+  "request_id": "v3nrZt5QECGQawpCeBdq",
+  "provider_character_cost": "14",
+  "sha256": "762eb42a1132e7c695599d75590d0dc3613a36d9a15f3fc1662ae55cd1b76748"
+}

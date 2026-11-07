@@ -1,0 +1,20 @@
+{
+  "id": "E02-S15-D05",
+  "role_id": "byte",
+  "voice_id": "wo6udizrrtpIxWGp2qJk",
+  "voice_name": "Northern Terry",
+  "text": "And here's Barkington's signature. Large enough even WOOF7 can read it.",
+  "status": "review_take",
+  "scene": "E02-S15",
+  "duration_sec": 4.179592,
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.5,
+    "similarity_boost": 0.75,
+    "style": 0.15,
+    "use_speaker_boost": true
+  },
+  "request_id": "wyKX0FzFWA8GHqU3MxrC",
+  "provider_character_cost": "16",
+  "sha256": "8271510bd11d8e817d902291dab45e58734fdb583e5a1384726eed7b5be5ba49"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "E02-S19-D07",
+  "role_id": "nip7_anchor",
+  "voice_id": "onwK4e9ZLuTAKqWW03F9",
+  "voice_name": "Daniel",
+  "text": "Goodboy Global denies that anyone was singled out. That denial does not explain the selection field in its own order.",
+  "status": "review_take",
+  "scene": "E02-S19",
+  "duration_sec": 9.102222,
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.5,
+    "similarity_boost": 0.75,
+    "style": 0.15,
+    "use_speaker_boost": true
+  },
+  "request_id": "i3zOTA1cKyZoeqMIJ0gd",
+  "provider_character_cost": "26",
+  "sha256": "9b95cc4914d6a734041cf7d87a371397fb7f6334bc8dc956d116dd9efca7d5bf"
+}

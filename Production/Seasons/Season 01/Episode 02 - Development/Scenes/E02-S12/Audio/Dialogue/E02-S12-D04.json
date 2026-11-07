@@ -1,0 +1,20 @@
+{
+  "id": "E02-S12-D04",
+  "role_id": "ghost",
+  "voice_id": "7fBwqIVI6wI1B4MuKqQi",
+  "voice_name": "Austin — Upbeat",
+  "text": "Don't rename the original. Copy it into the evidence folder and keep the issue time.",
+  "status": "review_take",
+  "scene": "E02-S12",
+  "duration_sec": 5.06195,
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.5,
+    "similarity_boost": 0.75,
+    "style": 0.15,
+    "use_speaker_boost": true
+  },
+  "request_id": "kjFuS9k0ruUPvzkCS4KR",
+  "provider_character_cost": "18",
+  "sha256": "6e993001afbd85cc9d72672cd3aa7f8c3425981ebd0de20e738ba2588f74fdbe"
+}

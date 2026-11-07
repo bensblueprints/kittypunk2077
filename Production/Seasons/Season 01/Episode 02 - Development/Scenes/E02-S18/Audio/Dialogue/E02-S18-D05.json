@@ -1,0 +1,21 @@
+{
+  "id": "E02-S18-D05",
+  "role_id": "chairman_barkington",
+  "voice_id": "bwCXcoVxWNYMlC6Esa8u",
+  "voice_name": "Matthew Schmitz - Gravel, Deep Anti-Hero",
+  "text": "We will not discuss individual cases in public. Nor will we be pressured by a handful of noisy kittens.",
+  "status": "review_take",
+  "scene": "E02-S18",
+  "duration_sec": 8.591383,
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.4,
+    "similarity_boost": 0.75,
+    "style": 0.65,
+    "use_speaker_boost": true,
+    "speed": 0.9
+  },
+  "request_id": "d3BTk3gi2kFA0WiWE6EN",
+  "provider_character_cost": "38",
+  "sha256": "c1c1055147b18cb768b0a31dc578b7d575dc1014bb63f3e1ed42507b0cfab261"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "E02-S06-D05",
+  "role_id": "ghost",
+  "voice_id": "7fBwqIVI6wI1B4MuKqQi",
+  "voice_name": "Austin — Upbeat",
+  "text": "That's a pattern. It isn't the signed instruction yet.",
+  "status": "review_take",
+  "scene": "E02-S06",
+  "duration_sec": 3.297234,
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.5,
+    "similarity_boost": 0.75,
+    "style": 0.15,
+    "use_speaker_boost": true
+  },
+  "request_id": "xecIpztA9te0i7SgHhan",
+  "provider_character_cost": "12",
+  "sha256": "4fb24728c4f2b5b6f31ecbe82cd148c49d069764e0a30125f651901d93a2bf58"
+}

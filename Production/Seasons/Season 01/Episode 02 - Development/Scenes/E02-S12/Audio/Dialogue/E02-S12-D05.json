@@ -1,0 +1,20 @@
+{
+  "id": "E02-S12-D05",
+  "role_id": "byte",
+  "voice_id": "wo6udizrrtpIxWGp2qJk",
+  "voice_name": "Northern Terry",
+  "text": "Already doing it. Original, working copy, and a printed copy for Trixie to wave angrily.",
+  "status": "review_take",
+  "scene": "E02-S12",
+  "duration_sec": 5.619229,
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.5,
+    "similarity_boost": 0.75,
+    "style": 0.15,
+    "use_speaker_boost": true
+  },
+  "request_id": "C7FTLUFDAqlLxLC8ondW",
+  "provider_character_cost": "19",
+  "sha256": "62562709bff27dc800e5ff98edfa1fcd21d1f2fa344a99a7b74a1159591ffb47"
+}

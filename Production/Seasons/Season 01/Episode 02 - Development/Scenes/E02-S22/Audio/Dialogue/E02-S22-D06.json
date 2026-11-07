@@ -1,0 +1,20 @@
+{
+  "id": "E02-S22-D06",
+  "role_id": "byte",
+  "voice_id": "wo6udizrrtpIxWGp2qJk",
+  "voice_name": "Northern Terry",
+  "text": "That's a brick.",
+  "status": "review_take",
+  "scene": "E02-S22",
+  "duration_sec": 0.975238,
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.5,
+    "similarity_boost": 0.75,
+    "style": 0.15,
+    "use_speaker_boost": true
+  },
+  "request_id": "PgKfRBW52l46KupcVeli",
+  "provider_character_cost": "3",
+  "sha256": "a4d7e89d2f2e4a01aa70116ee28ed7f3e5e4f2bc84a3e2f38654579a0ccfe7c4"
+}

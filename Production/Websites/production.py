@@ -42,10 +42,23 @@ def register(app,connect,staff,root,dbpath):
  @app.get('/studio/review')
  @staff
  def review_page():
+  try: season=int(request.args.get('season',1));episode=int(request.args.get('episode',1))
+  except ValueError:abort(400)
+  manifest=root/'episode-review-context.json'
+  context=json.loads(manifest.read_text()) if manifest.exists() else {'episodes':[],'versions':{}}
+  options=[{'season':1,'episode':1,'title':'The Great Salmon Shortage'}]+context.get('episodes',[])
+  selected=next((x for x in options if x['season']==season and x['episode']==episode),None)
+  if selected is None:abort(404)
   with connect() as c:
-   versions=[dict(x) for x in c.execute("SELECT * FROM review_versions WHERE status != 'archived' ORDER BY scene,created DESC")]
+   versions=[dict(x) for x in c.execute("SELECT v.*,j.payload AS job_payload FROM review_versions v LEFT JOIN production_jobs j ON j.id=v.id WHERE v.status != 'archived' ORDER BY v.scene,v.created DESC")]
    events=[dict(x) for x in c.execute('SELECT e.*,u.email FROM review_events e LEFT JOIN users u ON u.id=e.owner ORDER BY e.id DESC')]
-  return render_template('review.html',versions=versions,events=events,scenes=json.loads((root/'pilot.json').read_text())['scenes'])
+  for v in versions:
+   info=context.get('versions',{}).get(v['id'],{})
+   payload=json.loads(v.get('job_payload') or '{}')
+   v['season']=int(info.get('season',payload.get('season',1)));v['episode']=int(info.get('episode',payload.get('episode',1)))
+  versions=[v for v in versions if v['season']==season and v['episode']==episode]
+  scenes=json.loads((root/'pilot.json').read_text())['scenes'] if (season,episode)==(1,1) else selected['scenes']
+  return render_template('review.html',versions=versions,events=events,scenes=scenes,episode_options=options,selected_episode=episode,selected_season=season)
 
  @app.post('/studio/review/<version>')
  @staff
@@ -62,7 +75,7 @@ def register(app,connect,staff,root,dbpath):
    c.execute('UPDATE review_versions SET status=? WHERE id=?',(decision,version))
   message='Review saved'
   if decision=='regenerate' and review['kind']=='shot':
-   match=re.match(r'(S[0-9]+-P[0-9]+)',review['label']);subject=match.group(1) if match else None
+   match=re.match(r'((?:E[0-9]+-)?S[0-9]+-[PW][0-9]+)',review['label']);subject=match.group(1) if match else None
    config=configs().get(subject)
    if config and os.environ.get('ORBIS_WAN_API_KEY'):
     payload=dict(config);payload['refine']=bool(os.environ.get('ORBIS_DEEPSEEK_API_KEY'))
@@ -81,7 +94,13 @@ def register(app,connect,staff,root,dbpath):
     else:message+='; correction exceeds the prompt limit, shorten it in the generation desk'
    else:message+='; use the generation desk to prepare this retry'
   from urllib.parse import quote
-  return redirect('/studio/review?message='+quote(message)+'#'+version)
+  manifest=root/'episode-review-context.json'
+  context=json.loads(manifest.read_text()) if manifest.exists() else {'versions':{}}
+  info=context.get('versions',{}).get(version,{})
+  with connect() as c:job=c.execute('SELECT payload FROM production_jobs WHERE id=?',(version,)).fetchone()
+  payload=json.loads(job['payload']) if job else {}
+  season=int(info.get('season',payload.get('season',1)));episode=int(info.get('episode',payload.get('episode',1)))
+  return redirect('/studio/review?season='+str(season)+'&episode='+str(episode)+'&message='+quote(message)+'#'+version)
 
  @app.get('/studio/review-media/<version>')
  @staff

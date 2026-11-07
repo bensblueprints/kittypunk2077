@@ -1,0 +1,20 @@
+{
+  "id": "E02-S04-D05",
+  "role_id": "ghost",
+  "voice_id": "7fBwqIVI6wI1B4MuKqQi",
+  "voice_name": "Austin — Upbeat",
+  "text": "Payment access, tenant verification, utility review. All changed inside the same minute.",
+  "status": "review_take",
+  "scene": "E02-S04",
+  "duration_sec": 6.965986,
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.5,
+    "similarity_boost": 0.75,
+    "style": 0.15,
+    "use_speaker_boost": true
+  },
+  "request_id": "Z9MkayIJvyLwV6A6D6TM",
+  "provider_character_cost": "19",
+  "sha256": "41c1ee2c911f960d3b5facbf67669c417b1831cc5f75ae5b92b095c06adbc2c3"
+}

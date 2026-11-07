@@ -1,0 +1,20 @@
+{
+  "id": "E02-S23-D04",
+  "role_id": "neon",
+  "voice_id": "4e32WqNVWRquDa1OcRYZ",
+  "voice_name": "Ryan — Product Reviewer",
+  "text": "Can we have five minutes where fixing dinner counts as winning?",
+  "status": "review_take",
+  "scene": "E02-S23",
+  "duration_sec": 3.157914,
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.5,
+    "similarity_boost": 0.75,
+    "style": 0.15,
+    "use_speaker_boost": true
+  },
+  "request_id": "u2zJuCkd75qYxfxGmKBG",
+  "provider_character_cost": "14",
+  "sha256": "3f7c9ab9b2c4b6ac74203f6fd66d9b41480b5ff6717b65c8f6b256c85005e71e"
+}

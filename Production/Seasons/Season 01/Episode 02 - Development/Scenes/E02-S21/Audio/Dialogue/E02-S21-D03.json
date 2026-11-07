@@ -1,0 +1,20 @@
+{
+  "id": "E02-S21-D03",
+  "role_id": "neon",
+  "voice_id": "4e32WqNVWRquDa1OcRYZ",
+  "voice_name": "Ryan — Product Reviewer",
+  "text": "The tenant review is deferred for thirty days. Utilities unchanged. They've reopened the accounts.",
+  "status": "review_take",
+  "scene": "E02-S21",
+  "duration_sec": 6.130068,
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.5,
+    "similarity_boost": 0.75,
+    "style": 0.15,
+    "use_speaker_boost": true
+  },
+  "request_id": "i5Is0azd41fmF5Y9ig79",
+  "provider_character_cost": "22",
+  "sha256": "4f807ca9936f40e34b72571a31431f074aac39e683ba77ec9eb5de4d40bc4cd1"
+}

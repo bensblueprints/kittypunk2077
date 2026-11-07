@@ -1,0 +1,205 @@
+{
+  "status": "New pilot dialogue pickups only; preserve original performances",
+  "scenes": [
+    {
+      "id": "S05",
+      "lines": [
+        {
+          "id": "S05-W01",
+          "scene": 5,
+          "speaker": "Trixie",
+          "role_id": "trixie",
+          "voice_id": "dmWfLQZJq7wNPv9WmtiM",
+          "text": "People were already choosing between food and keeping the lights on. Tripling the price does not make more salmon appear. It just decides who gets to eat.",
+          "status": "dialogue expansion draft; record and conform before replacing current assembly",
+          "placement": "Integrate into existing action coverage; preserve current performances and scene boundaries. Visual/lip-sync review required."
+        },
+        {
+          "id": "S05-W02",
+          "scene": 5,
+          "speaker": "Byte",
+          "role_id": "byte",
+          "voice_id": "wo6udizrrtpIxWGp2qJk",
+          "text": "And whoever set that price gets paid every time somebody panics. We need to know who is feeding the same number to every shop.",
+          "status": "dialogue expansion draft; record and conform before replacing current assembly",
+          "placement": "Integrate into existing action coverage; preserve current performances and scene boundaries. Visual/lip-sync review required."
+        }
+      ]
+    },
+    {
+      "id": "S10",
+      "lines": [
+        {
+          "id": "S10-W03",
+          "scene": 10,
+          "speaker": "Ghost",
+          "role_id": "ghost",
+          "voice_id": "7fBwqIVI6wI1B4MuKqQi",
+          "text": "You do not have to go first through every door, Trixie. Giving the orders does not mean you have to take every hit. Let the rest of us do our jobs.",
+          "status": "dialogue expansion draft; record and conform before replacing current assembly",
+          "placement": "Integrate into existing action coverage; preserve current performances and scene boundaries. Visual/lip-sync review required."
+        },
+        {
+          "id": "S10-W04",
+          "scene": 10,
+          "speaker": "Trixie",
+          "role_id": "trixie",
+          "voice_id": "dmWfLQZJq7wNPv9WmtiM",
+          "text": "I know. I just keep thinking about the kid outside the shop. But you are right. We get this done together, and nobody gets left behind.",
+          "status": "dialogue expansion draft; record and conform before replacing current assembly",
+          "placement": "Integrate into existing action coverage; preserve current performances and scene boundaries. Visual/lip-sync review required."
+        }
+      ]
+    },
+    {
+      "id": "S11",
+      "lines": [
+        {
+          "id": "S11-W05",
+          "scene": 11,
+          "speaker": "Byte",
+          "role_id": "byte",
+          "voice_id": "wo6udizrrtpIxWGp2qJk",
+          "text": "Look at the delivery entrance. Crates going in, empty dishes coming out. Funny how the shortage disappears when you can afford the private dining room.",
+          "status": "dialogue expansion draft; record and conform before replacing current assembly",
+          "placement": "Integrate into existing action coverage; preserve current performances and scene boundaries. Visual/lip-sync review required."
+        },
+        {
+          "id": "S11-W06",
+          "scene": 11,
+          "speaker": "Trixie",
+          "role_id": "trixie",
+          "voice_id": "dmWfLQZJq7wNPv9WmtiM",
+          "text": "Keep filming. Being angry is easy. Bringing back something the whole district can actually use is the difficult part. That is why we are here.",
+          "status": "dialogue expansion draft; record and conform before replacing current assembly",
+          "placement": "Integrate into existing action coverage; preserve current performances and scene boundaries. Visual/lip-sync review required."
+        }
+      ]
+    },
+    {
+      "id": "S12",
+      "lines": [
+        {
+          "id": "S12-W07",
+          "scene": 12,
+          "speaker": "Ghost",
+          "role_id": "ghost",
+          "voice_id": "7fBwqIVI6wI1B4MuKqQi",
+          "text": "Let the decoy clear the doorway before you move. If they turn back, stay behind the bins. Nobody runs across an open camera shot.",
+          "status": "dialogue expansion draft; record and conform before replacing current assembly",
+          "placement": "Integrate into existing action coverage; preserve current performances and scene boundaries. Visual/lip-sync review required."
+        },
+        {
+          "id": "S12-W08",
+          "scene": 12,
+          "speaker": "Neon",
+          "role_id": "neon",
+          "voice_id": "4e32WqNVWRquDa1OcRYZ",
+          "text": "I put the spare in the outside pocket this time. Last time the emergency plan was underneath my lunch, and we all had opinions about that.",
+          "status": "dialogue expansion draft; record and conform before replacing current assembly",
+          "placement": "Integrate into existing action coverage; preserve current performances and scene boundaries. Visual/lip-sync review required."
+        }
+      ]
+    },
+    {
+      "id": "S13",
+      "lines": [
+        {
+          "id": "S13-W09",
+          "scene": 13,
+          "speaker": "Trixie",
+          "role_id": "trixie",
+          "voice_id": "dmWfLQZJq7wNPv9WmtiM",
+          "text": "We pass the hatch, record the conversation, and keep walking. We are not sitting down, ordering anything, or taking a souvenir from the very expensive cutlery.",
+          "status": "dialogue expansion draft; record and conform before replacing current assembly",
+          "placement": "Integrate into existing action coverage; preserve current performances and scene boundaries. Visual/lip-sync review required."
+        },
+        {
+          "id": "S13-W10",
+          "scene": 13,
+          "speaker": "Ghost",
+          "role_id": "ghost",
+          "voice_id": "7fBwqIVI6wI1B4MuKqQi",
+          "text": "Camera ready. Leave the original recording running. If we only keep the interesting sentence, they will claim we cut away everything that explains it.",
+          "status": "dialogue expansion draft; record and conform before replacing current assembly",
+          "placement": "Integrate into existing action coverage; preserve current performances and scene boundaries. Visual/lip-sync review required."
+        }
+      ]
+    },
+    {
+      "id": "S15",
+      "lines": [
+        {
+          "id": "S15-W11",
+          "scene": 15,
+          "speaker": "Byte",
+          "role_id": "byte",
+          "voice_id": "wo6udizrrtpIxWGp2qJk",
+          "text": "That envelope changes paws, but the money alone does not tell us where the food went. Keep the recording. We still have another question to answer.",
+          "status": "dialogue expansion draft; record and conform before replacing current assembly",
+          "placement": "Integrate into existing action coverage; preserve current performances and scene boundaries. Visual/lip-sync review required."
+        },
+        {
+          "id": "S15-W12",
+          "scene": 15,
+          "speaker": "Trixie",
+          "role_id": "trixie",
+          "voice_id": "dmWfLQZJq7wNPv9WmtiM",
+          "text": "First we get out with this. Then we work out what it proves. I am not giving Barkington an excuse to call the whole thing a story we invented.",
+          "status": "dialogue expansion draft; record and conform before replacing current assembly",
+          "placement": "Integrate into existing action coverage; preserve current performances and scene boundaries. Visual/lip-sync review required."
+        }
+      ]
+    },
+    {
+      "id": "S16",
+      "lines": [
+        {
+          "id": "S16-W13",
+          "scene": 16,
+          "speaker": "Ghost",
+          "role_id": "ghost",
+          "voice_id": "7fBwqIVI6wI1B4MuKqQi",
+          "text": "The recording is still intact. Do not stop to look at it here. Every second we stand in this alley gives them another chance to catch up.",
+          "status": "dialogue expansion draft; record and conform before replacing current assembly",
+          "placement": "Integrate into existing action coverage; preserve current performances and scene boundaries. Visual/lip-sync review required."
+        },
+        {
+          "id": "S16-W14",
+          "scene": 16,
+          "speaker": "Onyx",
+          "role_id": "onyx",
+          "voice_id": "uq0HIbNZKn11Hs5ifEdd",
+          "text": "Then everybody moves. You can argue about who was brilliant when we are somewhere with a door that locks and preferably a chair for me.",
+          "status": "dialogue expansion draft; record and conform before replacing current assembly",
+          "placement": "Integrate into existing action coverage; preserve current performances and scene boundaries. Visual/lip-sync review required."
+        }
+      ]
+    },
+    {
+      "id": "S21",
+      "lines": [
+        {
+          "id": "S21-W15",
+          "scene": 21,
+          "speaker": "Byte",
+          "role_id": "byte",
+          "voice_id": "wo6udizrrtpIxWGp2qJk",
+          "text": "These crates are already packed for delivery. We do not need to empty the building. We need to stop sending the same food past the families who ordered it.",
+          "status": "dialogue expansion draft; record and conform before replacing current assembly",
+          "placement": "Integrate into existing action coverage; preserve current performances and scene boundaries. Visual/lip-sync review required."
+        },
+        {
+          "id": "S21-W16",
+          "scene": 21,
+          "speaker": "Trixie",
+          "role_id": "trixie",
+          "voice_id": "dmWfLQZJq7wNPv9WmtiM",
+          "text": "Exactly. Keep the stock cold, keep the exits clear, and get those loaded trucks moving. A rescue that ruins the food is not a rescue.",
+          "status": "dialogue expansion draft; record and conform before replacing current assembly",
+          "placement": "Integrate into existing action coverage; preserve current performances and scene boundaries. Visual/lip-sync review required."
+        }
+      ]
+    }
+  ]
+}

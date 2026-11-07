@@ -1,0 +1,20 @@
+{
+  "id": "E02-S20-D08",
+  "role_id": "civilian_2",
+  "voice_id": "b5RPB35vTODb3BEmR3Fc",
+  "voice_name": "Serein - Friendly, Casual and Balanced",
+  "text": "I thought that was just me.",
+  "status": "review_take",
+  "scene": "E02-S20",
+  "duration_sec": 1.486077,
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.5,
+    "similarity_boost": 0.75,
+    "style": 0.15,
+    "use_speaker_boost": true
+  },
+  "request_id": "H9Ya3MfLpKxXKy329HDr",
+  "provider_character_cost": "6",
+  "sha256": "543cedf2792fbe2804781451f18ec7025e4816441d6552439ae8a091f57e0589"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "E02-S08-D01",
+  "role_id": "neon",
+  "voice_id": "4e32WqNVWRquDa1OcRYZ",
+  "voice_name": "Ryan — Product Reviewer",
+  "text": "Name, building, number of meals. Nothing else goes on the delivery sheet.",
+  "status": "review_take",
+  "scene": "E02-S08",
+  "duration_sec": 5.10839,
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.5,
+    "similarity_boost": 0.75,
+    "style": 0.15,
+    "use_speaker_boost": true
+  },
+  "request_id": "omDsKxUp36rKbeMovJAa",
+  "provider_character_cost": "16",
+  "sha256": "7e34226028face8c032fa59ea6bdbb84c1a1db7658e6572a75b1d933535ecedb"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "E02-S15-D03",
+  "role_id": "ghost",
+  "voice_id": "7fBwqIVI6wI1B4MuKqQi",
+  "voice_name": "Austin — Upbeat",
+  "text": "This package has the order, the issue times and the delivery receipts. Public copy has the residents' details removed.",
+  "status": "review_take",
+  "scene": "E02-S15",
+  "duration_sec": 8.312744,
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.5,
+    "similarity_boost": 0.75,
+    "style": 0.15,
+    "use_speaker_boost": true
+  },
+  "request_id": "MTKyqiNSUKDuPV79WnY7",
+  "provider_character_cost": "26",
+  "sha256": "e549a5b4b624567ae36c304e695799a21148c4236c13493cf52f624c334d36d7"
+}

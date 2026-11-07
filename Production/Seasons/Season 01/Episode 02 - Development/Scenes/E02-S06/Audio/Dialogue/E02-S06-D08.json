@@ -1,0 +1,20 @@
+{
+  "id": "E02-S06-D08",
+  "role_id": "trixie",
+  "voice_id": "dmWfLQZJq7wNPv9WmtiM",
+  "voice_name": "Emma — Wry, Gritty Hero",
+  "text": "Then keep the receipts. We fix the freeze, and we keep the proof.",
+  "status": "review_take",
+  "scene": "E02-S06",
+  "duration_sec": 3.390113,
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.35,
+    "similarity_boost": 0.8,
+    "style": 0.55,
+    "use_speaker_boost": true
+  },
+  "request_id": "3lKvMozmHGs4keUQb3lA",
+  "provider_character_cost": "14",
+  "sha256": "00d721a77d2fa175a97cb91b00d0172611deaa0101dbf97704937e35fef4f5d9"
+}

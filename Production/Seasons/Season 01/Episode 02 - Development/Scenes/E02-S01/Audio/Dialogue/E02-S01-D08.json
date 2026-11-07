@@ -1,0 +1,20 @@
+{
+  "id": "E02-S01-D08",
+  "role_id": "neon",
+  "voice_id": "4e32WqNVWRquDa1OcRYZ",
+  "voice_name": "Ryan — Product Reviewer",
+  "text": "And after that, we finally sleep?",
+  "status": "review_take",
+  "scene": "E02-S01",
+  "duration_sec": 2.043356,
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.5,
+    "similarity_boost": 0.75,
+    "style": 0.15,
+    "use_speaker_boost": true
+  },
+  "request_id": "R5S5eWNc7EByx3qxIKre",
+  "provider_character_cost": "7",
+  "sha256": "b37ee00842ddd7e41f27c15845de89051f972f3472f98a55040e9d51c4998a92"
+}

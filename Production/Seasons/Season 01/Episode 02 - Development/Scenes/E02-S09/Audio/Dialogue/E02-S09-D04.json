@@ -1,0 +1,20 @@
+{
+  "id": "E02-S09-D04",
+  "role_id": "neon",
+  "voice_id": "4e32WqNVWRquDa1OcRYZ",
+  "voice_name": "Ryan — Product Reviewer",
+  "text": "Maybe the first number is emotional support for the second number.",
+  "status": "review_take",
+  "scene": "E02-S09",
+  "duration_sec": 3.390113,
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.5,
+    "similarity_boost": 0.75,
+    "style": 0.15,
+    "use_speaker_boost": true
+  },
+  "request_id": "KsqVbj3SxlQ9xlyPGrmE",
+  "provider_character_cost": "15",
+  "sha256": "e7a3bbb9cff78f80584f8fb6ca1310faab84b3f735e7c91b8681f053f6db4013"
+}

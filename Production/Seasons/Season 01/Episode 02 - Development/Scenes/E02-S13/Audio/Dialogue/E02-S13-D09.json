@@ -1,0 +1,20 @@
+{
+  "id": "E02-S13-D09",
+  "role_id": "seven_catleven_clerk",
+  "voice_id": "CwhRBWXzGAHq8TQ4Fs17",
+  "voice_name": "Roger - Laid-Back, Casual, Resonant",
+  "text": "Then they'd better bring a longer apology.",
+  "status": "review_take",
+  "scene": "E02-S13",
+  "duration_sec": 2.275556,
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.5,
+    "similarity_boost": 0.75,
+    "style": 0.15,
+    "use_speaker_boost": true
+  },
+  "request_id": "oJDmaXH8zoAHhMSnQpQ4",
+  "provider_character_cost": "9",
+  "sha256": "3845aa5eb98524f1d1e6f37de980d08fd3baa603557b6ad47ddf3c2d4af1903c"
+}

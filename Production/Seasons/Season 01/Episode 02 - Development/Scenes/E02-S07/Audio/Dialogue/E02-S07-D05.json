@@ -1,0 +1,20 @@
+{
+  "id": "E02-S07-D05",
+  "role_id": "byte",
+  "voice_id": "wo6udizrrtpIxWGp2qJk",
+  "voice_name": "Northern Terry",
+  "text": "And erase who was overcharged, who paid, who still needs their money back?",
+  "status": "review_take",
+  "scene": "E02-S07",
+  "duration_sec": 4.040272,
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.5,
+    "similarity_boost": 0.75,
+    "style": 0.15,
+    "use_speaker_boost": true
+  },
+  "request_id": "DeKUOV0nMWFThMCsnZbo",
+  "provider_character_cost": "16",
+  "sha256": "63198161eafe133fb332a3cadd032ee861a45d357748b5692c4e6bc0854e86e7"
+}

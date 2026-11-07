@@ -1,0 +1,20 @@
+{
+  "id": "E02-S11-D02",
+  "role_id": "neon",
+  "voice_id": "4e32WqNVWRquDa1OcRYZ",
+  "voice_name": "Ryan — Product Reviewer",
+  "text": "It says may. That's not the same as must be made miserable while trying.",
+  "status": "review_take",
+  "scene": "E02-S11",
+  "duration_sec": 4.92263,
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.5,
+    "similarity_boost": 0.75,
+    "style": 0.15,
+    "use_speaker_boost": true
+  },
+  "request_id": "ug8c6MGJRwWgigU5Y0j2",
+  "provider_character_cost": "16",
+  "sha256": "e87e759684aea447cd3ab8c0ffb5cf6f566adbce7d7c2fa13bf1203c6f8a2b66"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "E02-S04-D03",
+  "role_id": "trixie",
+  "voice_id": "dmWfLQZJq7wNPv9WmtiM",
+  "voice_name": "Emma — Wry, Gritty Hero",
+  "text": "So if they lock one thing, they lock your whole life?",
+  "status": "review_take",
+  "scene": "E02-S04",
+  "duration_sec": 3.343673,
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.35,
+    "similarity_boost": 0.8,
+    "style": 0.55,
+    "use_speaker_boost": true
+  },
+  "request_id": "2UYsiV4e4NoUqUcUVtJu",
+  "provider_character_cost": "12",
+  "sha256": "7123051bd002ec9ff29bbf640bd29edc8208e0c43846707808004407eed8bde2"
+}

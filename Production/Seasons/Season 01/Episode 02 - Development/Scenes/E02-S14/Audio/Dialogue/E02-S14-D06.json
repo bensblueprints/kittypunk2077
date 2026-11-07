@@ -1,0 +1,20 @@
+{
+  "id": "E02-S14-D06",
+  "role_id": "trixie",
+  "voice_id": "dmWfLQZJq7wNPv9WmtiM",
+  "voice_name": "Emma — Wry, Gritty Hero",
+  "text": "Then write down that we received it and disputed it. Both things. Not just the convenient one.",
+  "status": "review_take",
+  "scene": "E02-S14",
+  "duration_sec": 5.387029,
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.35,
+    "similarity_boost": 0.8,
+    "style": 0.55,
+    "use_speaker_boost": true
+  },
+  "request_id": "5Uf3PRrp4AeBplmonCR2",
+  "provider_character_cost": "21",
+  "sha256": "301eba19225a23f64d5ccdc59917da03a5207aadf73f63c8b1cc489c8b10dba0"
+}

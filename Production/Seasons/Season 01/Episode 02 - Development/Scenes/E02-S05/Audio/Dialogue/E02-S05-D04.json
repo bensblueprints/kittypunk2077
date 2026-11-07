@@ -1,0 +1,21 @@
+{
+  "id": "E02-S05-D04",
+  "role_id": "chairman_barkington",
+  "voice_id": "bwCXcoVxWNYMlC6Esa8u",
+  "voice_name": "Matthew Schmitz - Gravel, Deep Anti-Hero",
+  "text": "We are protecting vulnerable residents from suspicious generosity. Put that in the public notice.",
+  "status": "review_take",
+  "scene": "E02-S05",
+  "duration_sec": 9.195102,
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.4,
+    "similarity_boost": 0.75,
+    "style": 0.65,
+    "use_speaker_boost": true,
+    "speed": 0.9
+  },
+  "request_id": "WBRc5Ccoys5M8RbqYmVY",
+  "provider_character_cost": "36",
+  "sha256": "90167235a568f9b0779a7afd0a64182e192df9a56cdc5355c953ddb89302a1d3"
+}

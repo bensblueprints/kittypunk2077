@@ -1,0 +1,20 @@
+{
+  "id": "E02-S11-D01",
+  "role_id": "onyx",
+  "voice_id": "uq0HIbNZKn11Hs5ifEdd",
+  "voice_name": "Harry — Fierce Warrior",
+  "text": "Section eight. A person unable to access electronic payment may lodge a written appeal.",
+  "status": "review_take",
+  "scene": "E02-S11",
+  "duration_sec": 5.433469,
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.5,
+    "similarity_boost": 0.75,
+    "style": 0.15,
+    "use_speaker_boost": true
+  },
+  "request_id": "qe40MZeD2ExbuTJuVtR3",
+  "provider_character_cost": "19",
+  "sha256": "6b6b5c77d7d452fd9fa2e21b9311caa15006af8d08b81333732e12ceb59ee267"
+}

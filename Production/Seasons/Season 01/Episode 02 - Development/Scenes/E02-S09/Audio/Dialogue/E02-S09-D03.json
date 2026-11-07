@@ -1,0 +1,20 @@
+{
+  "id": "E02-S09-D03",
+  "role_id": "trixie",
+  "voice_id": "dmWfLQZJq7wNPv9WmtiM",
+  "voice_name": "Emma — Wry, Gritty Hero",
+  "text": "They are. We have thirty-eight. We need a ticket to stand in line for thirty-eight.",
+  "status": "review_take",
+  "scene": "E02-S09",
+  "duration_sec": 4.179592,
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.35,
+    "similarity_boost": 0.8,
+    "style": 0.55,
+    "use_speaker_boost": true
+  },
+  "request_id": "rUPuKmGQ5CDdsMT3sVVj",
+  "provider_character_cost": "18",
+  "sha256": "a85db8f7eb0865ae5f58b8e7b8fe7bf3e3888ba6ae5d372746e8d271ffe63671"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "E02-S18-D01",
+  "role_id": "chairman_barkington",
+  "voice_id": "bwCXcoVxWNYMlC6Esa8u",
+  "voice_name": "Matthew Schmitz - Gravel, Deep Anti-Hero",
+  "text": "Nobody is being singled out. This is a routine review conducted without prejudice.",
+  "status": "review_take",
+  "scene": "E02-S18",
+  "duration_sec": 7.523265,
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.4,
+    "similarity_boost": 0.75,
+    "style": 0.65,
+    "use_speaker_boost": true,
+    "speed": 0.9
+  },
+  "request_id": "yIdV03UYxQoo2PJB8KGv",
+  "provider_character_cost": "30",
+  "sha256": "7220dbf1d8135ceb5ecd4b9ceb90b23db6fd2e6d33615e26d81190bed5de907c"
+}

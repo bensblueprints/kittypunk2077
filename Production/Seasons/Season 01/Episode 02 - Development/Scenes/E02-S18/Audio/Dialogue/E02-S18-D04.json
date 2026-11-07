@@ -1,0 +1,21 @@
+{
+  "id": "E02-S18-D04",
+  "role_id": "chairman_barkington",
+  "voice_id": "bwCXcoVxWNYMlC6Esa8u",
+  "voice_name": "Matthew Schmitz - Gravel, Deep Anti-Hero",
+  "text": "Move that screen out of the camera shot. The district filter is an internal matter.",
+  "status": "review_take",
+  "scene": "E02-S18",
+  "duration_sec": 7.569705,
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.4,
+    "similarity_boost": 0.75,
+    "style": 0.65,
+    "use_speaker_boost": true,
+    "speed": 0.9
+  },
+  "request_id": "4hyQcurb9anc0b1vX2hB",
+  "provider_character_cost": "31",
+  "sha256": "2ad5ef1d9cc071a9d077f2e1bf7bebe3268005960e3844a2f9dd684f26331ff3"
+}

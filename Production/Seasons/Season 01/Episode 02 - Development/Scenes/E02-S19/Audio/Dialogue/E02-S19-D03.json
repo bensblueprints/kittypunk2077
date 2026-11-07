@@ -1,0 +1,20 @@
+{
+  "id": "E02-S19-D03",
+  "role_id": "trixie",
+  "voice_id": "dmWfLQZJq7wNPv9WmtiM",
+  "voice_name": "Emma — Wry, Gritty Hero",
+  "text": "These families received food. Hours later, they couldn't spend their own wages.",
+  "status": "review_take",
+  "scene": "E02-S19",
+  "duration_sec": 5.20127,
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.35,
+    "similarity_boost": 0.8,
+    "style": 0.55,
+    "use_speaker_boost": true
+  },
+  "request_id": "5LXUkypDsHGHRxq1s6Ce",
+  "provider_character_cost": "17",
+  "sha256": "83b43432e8ceaec69c207d85b7c816bb939653acbf18f91cb84f44c252ebb96d"
+}

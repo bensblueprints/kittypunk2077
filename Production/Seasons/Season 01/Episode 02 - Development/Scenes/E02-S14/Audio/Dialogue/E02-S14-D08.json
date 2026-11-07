@@ -1,0 +1,20 @@
+{
+  "id": "E02-S14-D08",
+  "role_id": "onyx",
+  "voice_id": "uq0HIbNZKn11Hs5ifEdd",
+  "voice_name": "Harry — Fierce Warrior",
+  "text": "There's a whole blank side on the paper. Be creative.",
+  "status": "review_take",
+  "scene": "E02-S14",
+  "duration_sec": 3.343673,
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.5,
+    "similarity_boost": 0.75,
+    "style": 0.15,
+    "use_speaker_boost": true
+  },
+  "request_id": "PjG2EBdafv3548S9mAKj",
+  "provider_character_cost": "12",
+  "sha256": "7e30c1589a3c57e011af906a9f2935913d0e9bcb37a1b6441e69437e5395d20f"
+}

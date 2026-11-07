@@ -1,0 +1,20 @@
+{
+  "id": "E02-S03-D07",
+  "role_id": "neon",
+  "voice_id": "4e32WqNVWRquDa1OcRYZ",
+  "voice_name": "Ryan — Product Reviewer",
+  "text": "Would you like to dispute the apology fee? Oh, brilliant. That has a fee too.",
+  "status": "review_take",
+  "scene": "E02-S03",
+  "duration_sec": 4.458231,
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.5,
+    "similarity_boost": 0.75,
+    "style": 0.15,
+    "use_speaker_boost": true
+  },
+  "request_id": "Y13qe0pz0bY43Q1bHxur",
+  "provider_character_cost": "17",
+  "sha256": "6495b8a4f306751914eb47f9d42eda46ff0a45946e38c7240af54832bc7bac9b"
+}

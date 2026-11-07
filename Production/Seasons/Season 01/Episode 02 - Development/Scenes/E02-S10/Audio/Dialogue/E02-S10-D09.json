@@ -1,0 +1,20 @@
+{
+  "id": "E02-S10-D09",
+  "role_id": "trixie",
+  "voice_id": "dmWfLQZJq7wNPv9WmtiM",
+  "voice_name": "Emma — Wry, Gritty Hero",
+  "text": "Keep page thirty-seven. I'm not losing the proof they charged us for it.",
+  "status": "review_take",
+  "scene": "E02-S10",
+  "duration_sec": 3.529433,
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.35,
+    "similarity_boost": 0.8,
+    "style": 0.55,
+    "use_speaker_boost": true
+  },
+  "request_id": "Z6kuqQ0eDCiDIyF0ghhX",
+  "provider_character_cost": "16",
+  "sha256": "c6f1f5c55310cd3ef6df4c89288c7cd683cbea0d89dc7e63af9eb1112a944400"
+}

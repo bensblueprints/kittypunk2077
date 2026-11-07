@@ -1,0 +1,20 @@
+{
+  "id": "E02-S20-D04",
+  "role_id": "civilian_2",
+  "voice_id": "b5RPB35vTODb3BEmR3Fc",
+  "voice_name": "Serein - Friendly, Casual and Balanced",
+  "text": "There's a lot of us now.",
+  "status": "review_take",
+  "scene": "E02-S20",
+  "duration_sec": 1.578957,
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.5,
+    "similarity_boost": 0.75,
+    "style": 0.15,
+    "use_speaker_boost": true
+  },
+  "request_id": "ktA5gmn8G9u7BxJo0Tap",
+  "provider_character_cost": "5",
+  "sha256": "4b561d88e45174d3dce87464a1123ea71aef72df67034be1f99c2a1b5cacc615"
+}

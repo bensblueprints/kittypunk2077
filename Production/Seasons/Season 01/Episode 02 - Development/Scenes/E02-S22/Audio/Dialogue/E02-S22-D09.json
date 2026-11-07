@@ -1,0 +1,20 @@
+{
+  "id": "E02-S22-D09",
+  "role_id": "trixie",
+  "voice_id": "dmWfLQZJq7wNPv9WmtiM",
+  "voice_name": "Emma — Wry, Gritty Hero",
+  "text": "We haven't. That sounds better than another victory speech.",
+  "status": "review_take",
+  "scene": "E02-S22",
+  "duration_sec": 2.600635,
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.35,
+    "similarity_boost": 0.8,
+    "style": 0.55,
+    "use_speaker_boost": true
+  },
+  "request_id": "rF1xITvpTZ9scSMsLbuS",
+  "provider_character_cost": "13",
+  "sha256": "38cf5143ea2b11125ddde9601b356e2e921f4034f489e4ec726b70b98016a4a9"
+}

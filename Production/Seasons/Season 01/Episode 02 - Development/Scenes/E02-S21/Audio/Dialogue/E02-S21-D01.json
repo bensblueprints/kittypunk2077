@@ -1,0 +1,20 @@
+{
+  "id": "E02-S21-D01",
+  "role_id": "neon",
+  "voice_id": "4e32WqNVWRquDa1OcRYZ",
+  "voice_name": "Ryan — Product Reviewer",
+  "text": "Manual review decision. Payment access restored pending case resolution.",
+  "status": "review_take",
+  "scene": "E02-S21",
+  "duration_sec": 4.226032,
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.5,
+    "similarity_boost": 0.75,
+    "style": 0.15,
+    "use_speaker_boost": true
+  },
+  "request_id": "8G55T1dSXoGMOj18abte",
+  "provider_character_cost": "16",
+  "sha256": "0a1c498ebd63f92c58cb41ab1a22f2e23907b476d83c4c60375e3bd74646ad97"
+}

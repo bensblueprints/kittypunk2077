@@ -1,0 +1,20 @@
+{
+  "id": "E02-S20-D02",
+  "role_id": "onyx",
+  "voice_id": "uq0HIbNZKn11Hs5ifEdd",
+  "voice_name": "Harry — Fierce Warrior",
+  "text": "All three are useful. The first two go in the folder.",
+  "status": "review_take",
+  "scene": "E02-S20",
+  "duration_sec": 3.204354,
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.5,
+    "similarity_boost": 0.75,
+    "style": 0.15,
+    "use_speaker_boost": true
+  },
+  "request_id": "QHCC3TocFIFsnW82ZfvJ",
+  "provider_character_cost": "12",
+  "sha256": "5ecd35887d3721949bd0cc4c23f4068b4709252e7603724283d6b17abf6898c2"
+}

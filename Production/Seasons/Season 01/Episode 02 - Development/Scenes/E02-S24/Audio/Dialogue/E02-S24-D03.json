@@ -1,0 +1,20 @@
+{
+  "id": "E02-S24-D03",
+  "role_id": "trixie",
+  "voice_id": "dmWfLQZJq7wNPv9WmtiM",
+  "voice_name": "Emma — Wry, Gritty Hero",
+  "text": "Relocation to where?",
+  "status": "review_take",
+  "scene": "E02-S24",
+  "duration_sec": 1.207438,
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.35,
+    "similarity_boost": 0.8,
+    "style": 0.55,
+    "use_speaker_boost": true
+  },
+  "request_id": "73VvuCQBUwIak0WXfh4H",
+  "provider_character_cost": "4",
+  "sha256": "d918684af8c02b44e34a6575f8d49db84c3fd8ad32321a1428070c15be0246d8"
+}

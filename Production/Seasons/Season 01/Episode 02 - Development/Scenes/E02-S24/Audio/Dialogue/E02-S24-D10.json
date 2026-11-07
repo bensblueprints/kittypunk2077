@@ -1,0 +1,20 @@
+{
+  "id": "E02-S24-D10",
+  "role_id": "trixie",
+  "voice_id": "dmWfLQZJq7wNPv9WmtiM",
+  "voice_name": "Emma — Wry, Gritty Hero",
+  "text": "You can eat first. Tomorrow, we find out who's planning to take our home.",
+  "status": "review_take",
+  "scene": "E02-S24",
+  "duration_sec": 3.900952,
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.35,
+    "similarity_boost": 0.8,
+    "style": 0.55,
+    "use_speaker_boost": true
+  },
+  "request_id": "5sScxYe3uE7sHbj2sGMP",
+  "provider_character_cost": "16",
+  "sha256": "4f041dfe29c4136f3f4e4fd45920f08a17fb1885fdb82c935eef45239c283e59"
+}

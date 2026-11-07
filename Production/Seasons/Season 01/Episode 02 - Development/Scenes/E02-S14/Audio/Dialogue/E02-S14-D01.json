@@ -1,0 +1,20 @@
+{
+  "id": "E02-S14-D01",
+  "role_id": "dog_guard_a",
+  "voice_id": "TxWZERZ5Hc6h9dGxVmXa",
+  "voice_name": "Jerry B. - Gruff and Gritty Commander",
+  "text": "Compliance notice. I'm required to deliver it to the registered tenant.",
+  "status": "review_take",
+  "scene": "E02-S14",
+  "duration_sec": 3.715193,
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.5,
+    "similarity_boost": 0.75,
+    "style": 0.15,
+    "use_speaker_boost": true
+  },
+  "request_id": "WbuLiQmVC6pjsYUbnmw2",
+  "provider_character_cost": "16",
+  "sha256": "fe9c93fc740e6d471868ab632555d599e5fe31103de77be46c5c16324b2d7aae"
+}

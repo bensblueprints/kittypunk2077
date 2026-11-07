@@ -1,0 +1,20 @@
+{
+  "id": "E02-S19-D04",
+  "role_id": "byte",
+  "voice_id": "wo6udizrrtpIxWGp2qJk",
+  "voice_name": "Northern Terry",
+  "text": "We compared the signed order with shop receipts and the issue times. The sequence matches.",
+  "status": "review_take",
+  "scene": "E02-S19",
+  "duration_sec": 5.433469,
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.5,
+    "similarity_boost": 0.75,
+    "style": 0.15,
+    "use_speaker_boost": true
+  },
+  "request_id": "gcWEP2UP6dZOL08LsNIQ",
+  "provider_character_cost": "20",
+  "sha256": "96dbd37b9bc1365b8773005e5860c477c7675ebda291f26810ee073141feb387"
+}

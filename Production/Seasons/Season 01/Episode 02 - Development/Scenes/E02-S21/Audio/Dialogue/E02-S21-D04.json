@@ -1,0 +1,20 @@
+{
+  "id": "E02-S21-D04",
+  "role_id": "onyx",
+  "voice_id": "uq0HIbNZKn11Hs5ifEdd",
+  "voice_name": "Harry — Fierce Warrior",
+  "text": "Not because we pressed a magic button. Because half the district is standing under their camera with receipts.",
+  "status": "review_take",
+  "scene": "E02-S21",
+  "duration_sec": 5.433469,
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.5,
+    "similarity_boost": 0.75,
+    "style": 0.15,
+    "use_speaker_boost": true
+  },
+  "request_id": "nDpBob6Cxg1695Q1HLLx",
+  "provider_character_cost": "24",
+  "sha256": "acb4d7cfaa05df2a87563015b74130811d8f91546eaafea1f14609f09bd90398"
+}

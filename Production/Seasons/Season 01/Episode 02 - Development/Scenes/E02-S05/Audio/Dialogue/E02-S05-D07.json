@@ -1,0 +1,21 @@
+{
+  "id": "E02-S05-D07",
+  "role_id": "chairman_barkington",
+  "voice_id": "bwCXcoVxWNYMlC6Esa8u",
+  "voice_name": "Matthew Schmitz - Gravel, Deep Anti-Hero",
+  "text": "And remove the word punishment from the draft. Have we learned nothing about presentation?",
+  "status": "review_take",
+  "scene": "E02-S05",
+  "duration_sec": 8.359184,
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.4,
+    "similarity_boost": 0.75,
+    "style": 0.65,
+    "use_speaker_boost": true,
+    "speed": 0.9
+  },
+  "request_id": "f6ZQZXWBNWsht0frjKA4",
+  "provider_character_cost": "34",
+  "sha256": "3e9884a50de1a697a2a7097f678bc3d812068649a7774ac1d2f4931346472f6b"
+}

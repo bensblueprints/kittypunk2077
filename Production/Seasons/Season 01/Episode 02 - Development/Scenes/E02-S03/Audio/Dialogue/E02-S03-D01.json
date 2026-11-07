@@ -1,0 +1,20 @@
+{
+  "id": "E02-S03-D01",
+  "role_id": "neon",
+  "voice_id": "4e32WqNVWRquDa1OcRYZ",
+  "voice_name": "Ryan — Product Reviewer",
+  "text": "I found the help button. That's promising. Help usually means help.",
+  "status": "review_take",
+  "scene": "E02-S03",
+  "duration_sec": 5.20127,
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.5,
+    "similarity_boost": 0.75,
+    "style": 0.15,
+    "use_speaker_boost": true
+  },
+  "request_id": "A6U2bFomSUqh2R3uTm9T",
+  "provider_character_cost": "15",
+  "sha256": "ade049b9ef22bf9f4965817c01df0ef975f88d6165ad557c0fb4d9c2616879be"
+}

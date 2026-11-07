@@ -1,0 +1,20 @@
+{
+  "id": "E02-S15-D01",
+  "role_id": "trixie",
+  "voice_id": "dmWfLQZJq7wNPv9WmtiM",
+  "voice_name": "Emma — Wry, Gritty Hero",
+  "text": "We can make their numbers vanish, or we can make their explanation fall apart.",
+  "status": "review_take",
+  "scene": "E02-S15",
+  "duration_sec": 3.715193,
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.35,
+    "similarity_boost": 0.8,
+    "style": 0.55,
+    "use_speaker_boost": true
+  },
+  "request_id": "NaceWVKXELFwdKWeYBHY",
+  "provider_character_cost": "17",
+  "sha256": "a5843ec6139bd45dc0bd7d87e7c1193d58e2f96cc8b1995cf501cd902c1a85c6"
+}

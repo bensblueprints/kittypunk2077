@@ -1,0 +1,20 @@
+{
+  "id": "E02-S22-D08",
+  "role_id": "civilian_1",
+  "voice_id": "DODLEQrClDo8wCz460ld",
+  "voice_name": "Lauren - Friendly, Comforting and Soft",
+  "text": "The little ones saved you a place upstairs, if you haven't eaten.",
+  "status": "review_take",
+  "scene": "E02-S22",
+  "duration_sec": 3.575873,
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.5,
+    "similarity_boost": 0.75,
+    "style": 0.15,
+    "use_speaker_boost": true
+  },
+  "request_id": "R603OpZcaB11unmHqE8y",
+  "provider_character_cost": "14",
+  "sha256": "9bda9b35d3b555cdf517064098c97be77ffe349ddd1bb1788b12c71e729ecd75"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "E02-S12-D09",
+  "role_id": "byte",
+  "voice_id": "wo6udizrrtpIxWGp2qJk",
+  "voice_name": "Northern Terry",
+  "text": "Good. Difficult is one of my better subjects.",
+  "status": "review_take",
+  "scene": "E02-S12",
+  "duration_sec": 2.461315,
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.5,
+    "similarity_boost": 0.75,
+    "style": 0.15,
+    "use_speaker_boost": true
+  },
+  "request_id": "hUwRoh3fiFeuoKIavPu0",
+  "provider_character_cost": "10",
+  "sha256": "8f252cd08da88ca7dd0d66db6ec2a81a0c461b0a7bf3b137d56020a286e7477b"
+}

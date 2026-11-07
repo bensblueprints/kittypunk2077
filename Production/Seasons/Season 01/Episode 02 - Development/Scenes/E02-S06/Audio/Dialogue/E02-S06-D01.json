@@ -1,0 +1,20 @@
+{
+  "id": "E02-S06-D01",
+  "role_id": "neon",
+  "voice_id": "4e32WqNVWRquDa1OcRYZ",
+  "voice_name": "Ryan — Product Reviewer",
+  "text": "The table is officially full. Any more paperwork and we'll have to eat standing up.",
+  "status": "review_take",
+  "scene": "E02-S06",
+  "duration_sec": 4.226032,
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.5,
+    "similarity_boost": 0.75,
+    "style": 0.15,
+    "use_speaker_boost": true
+  },
+  "request_id": "hjMgm3c8gxY3uX0eszei",
+  "provider_character_cost": "18",
+  "sha256": "a9b4103d2896400850cb7e47e9c6ac27ae1cb6b039fcf3555922d13a0f13344e"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "E02-S10-D06",
+  "role_id": "neon",
+  "voice_id": "4e32WqNVWRquDa1OcRYZ",
+  "voice_name": "Ryan — Product Reviewer",
+  "text": "Paper out. Naturally. The most powerful corporation in the city has run out of paper.",
+  "status": "review_take",
+  "scene": "E02-S10",
+  "duration_sec": 4.272472,
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.5,
+    "similarity_boost": 0.75,
+    "style": 0.15,
+    "use_speaker_boost": true
+  },
+  "request_id": "7BYfTLePMvq7A47BtbFa",
+  "provider_character_cost": "19",
+  "sha256": "a5ac37272a4ba8c28da190a1e6a7b4555b20b84dc543e73c216b62795434e53c"
+}

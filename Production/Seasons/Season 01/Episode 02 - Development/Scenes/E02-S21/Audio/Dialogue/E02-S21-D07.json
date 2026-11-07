@@ -1,0 +1,20 @@
+{
+  "id": "E02-S21-D07",
+  "role_id": "byte",
+  "voice_id": "wo6udizrrtpIxWGp2qJk",
+  "voice_name": "Northern Terry",
+  "text": "It worked. Money moved. Receipt printed. The clerk is complaining about the paper bill.",
+  "status": "review_take",
+  "scene": "E02-S21",
+  "duration_sec": 5.20127,
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.5,
+    "similarity_boost": 0.75,
+    "style": 0.15,
+    "use_speaker_boost": true
+  },
+  "request_id": "S3hoLUA8qbpPRKx4TmZQ",
+  "provider_character_cost": "19",
+  "sha256": "dc5c637eaf65c70d0255e30d00fc5561f2324432d735856d54d319d5723457cb"
+}

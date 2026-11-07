@@ -1,0 +1,20 @@
+{
+  "id": "E02-S15-D07",
+  "role_id": "trixie",
+  "voice_id": "dmWfLQZJq7wNPv9WmtiM",
+  "voice_name": "Emma — Wry, Gritty Hero",
+  "text": "Fine. No speeches about secret world domination. Just the very obvious local domination.",
+  "status": "review_take",
+  "scene": "E02-S15",
+  "duration_sec": 5.572789,
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.35,
+    "similarity_boost": 0.8,
+    "style": 0.55,
+    "use_speaker_boost": true
+  },
+  "request_id": "jrkEjeXWxS6f7iaol7pQ",
+  "provider_character_cost": "19",
+  "sha256": "566126dcc4562960011d754a4526a1c960b6da572f40235bdbc5940adbaadf10"
+}

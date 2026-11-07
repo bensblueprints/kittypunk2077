@@ -1,0 +1,20 @@
+{
+  "id": "E02-S08-D02",
+  "role_id": "civilian_2",
+  "voice_id": "b5RPB35vTODb3BEmR3Fc",
+  "voice_name": "Serein - Friendly, Casual and Balanced",
+  "text": "They already used one list against us. Why should I put my name on another?",
+  "status": "review_take",
+  "scene": "E02-S08",
+  "duration_sec": 4.643991,
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.5,
+    "similarity_boost": 0.75,
+    "style": 0.15,
+    "use_speaker_boost": true
+  },
+  "request_id": "oBfDHegLY8kJ54S7BCvV",
+  "provider_character_cost": "16",
+  "sha256": "557562b2f394be7d159533c7de55814a59e8c5d0a5d899775a2fa5b294bb775f"
+}

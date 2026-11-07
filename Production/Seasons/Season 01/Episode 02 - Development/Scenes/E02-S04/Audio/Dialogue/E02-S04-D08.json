@@ -1,0 +1,20 @@
+{
+  "id": "E02-S04-D08",
+  "role_id": "ghost",
+  "voice_id": "7fBwqIVI6wI1B4MuKqQi",
+  "voice_name": "Austin — Upbeat",
+  "text": "And changing the record could destroy the proof of who changed it first.",
+  "status": "review_take",
+  "scene": "E02-S04",
+  "duration_sec": 3.947392,
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.5,
+    "similarity_boost": 0.75,
+    "style": 0.15,
+    "use_speaker_boost": true
+  },
+  "request_id": "QBZIKZuHICrPKcAzsKYo",
+  "provider_character_cost": "16",
+  "sha256": "6c0e739d81d84f9046fc941a306b1cffb3121f31298929316b2e80b1e1841400"
+}

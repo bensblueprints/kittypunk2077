@@ -1,0 +1,20 @@
+{
+  "id": "E02-S17-D09",
+  "role_id": "byte",
+  "voice_id": "wo6udizrrtpIxWGp2qJk",
+  "voice_name": "Northern Terry",
+  "text": "Sent. Trixie, you've got your last attachment.",
+  "status": "review_take",
+  "scene": "E02-S17",
+  "duration_sec": 2.600635,
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.5,
+    "similarity_boost": 0.75,
+    "style": 0.15,
+    "use_speaker_boost": true
+  },
+  "request_id": "ocWszTAb53dEWLFgzt8m",
+  "provider_character_cost": "10",
+  "sha256": "5197897bafbd66de2f70c02c14cd3d70d63969306af20de5e080adb0b18697c6"
+}

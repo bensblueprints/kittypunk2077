@@ -1,0 +1,20 @@
+{
+  "id": "E02-S09-D02",
+  "role_id": "onyx",
+  "voice_id": "uq0HIbNZKn11Hs5ifEdd",
+  "voice_name": "Harry — Fierce Warrior",
+  "text": "I refuse to believe those are two different numbers.",
+  "status": "review_take",
+  "scene": "E02-S09",
+  "duration_sec": 2.786395,
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.5,
+    "similarity_boost": 0.75,
+    "style": 0.15,
+    "use_speaker_boost": true
+  },
+  "request_id": "kwewtkIF9WJpE43g8E3Q",
+  "provider_character_cost": "11",
+  "sha256": "ee90764f2eace7bc4009b4c05384c0346d214b53305acc447033ebec80c1cdb1"
+}

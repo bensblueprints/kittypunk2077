@@ -1,0 +1,20 @@
+{
+  "id": "E02-S19-D02",
+  "role_id": "nip7_anchor",
+  "voice_id": "onwK4e9ZLuTAKqWW03F9",
+  "voice_name": "Daniel",
+  "text": "The order identifies District Seven recipients and links payment restrictions with tenancy reviews.",
+  "status": "review_take",
+  "scene": "E02-S19",
+  "duration_sec": 6.826667,
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.5,
+    "similarity_boost": 0.75,
+    "style": 0.15,
+    "use_speaker_boost": true
+  },
+  "request_id": "drwgMk4PKIXDmYwlwZGr",
+  "provider_character_cost": "22",
+  "sha256": "c7e0ae1d881a16a17c5885f71bd4b5281d7e010bea26ef9ec40af27f6040ebad"
+}

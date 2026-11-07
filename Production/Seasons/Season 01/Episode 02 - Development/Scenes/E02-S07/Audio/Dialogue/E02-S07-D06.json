@@ -1,0 +1,20 @@
+{
+  "id": "E02-S07-D06",
+  "role_id": "ghost",
+  "voice_id": "7fBwqIVI6wI1B4MuKqQi",
+  "voice_name": "Austin — Upbeat",
+  "text": "A blank record helps the dogs too. Nothing left for anyone to challenge.",
+  "status": "review_take",
+  "scene": "E02-S07",
+  "duration_sec": 4.783311,
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.5,
+    "similarity_boost": 0.75,
+    "style": 0.15,
+    "use_speaker_boost": true
+  },
+  "request_id": "63osAjtP8KqwP5ldMssF",
+  "provider_character_cost": "16",
+  "sha256": "1b7182d2cf34e8cd1cd0bfe5304aa1440355287b440844526f53d9a59f50bcdd"
+}

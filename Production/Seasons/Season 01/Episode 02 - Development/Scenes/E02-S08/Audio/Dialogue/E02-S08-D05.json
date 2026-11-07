@@ -1,0 +1,20 @@
+{
+  "id": "E02-S08-D05",
+  "role_id": "civilian_2",
+  "voice_id": "b5RPB35vTODb3BEmR3Fc",
+  "voice_name": "Serein - Friendly, Casual and Balanced",
+  "text": "And if the dogs come looking for it?",
+  "status": "review_take",
+  "scene": "E02-S08",
+  "duration_sec": 2.229116,
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.5,
+    "similarity_boost": 0.75,
+    "style": 0.15,
+    "use_speaker_boost": true
+  },
+  "request_id": "XxQl1J1jI3IjTCQ46Wbx",
+  "provider_character_cost": "8",
+  "sha256": "75754508276b5192caf634622c87f07dbc39c64c1f5dd076ca3bec25a9a844e2"
+}

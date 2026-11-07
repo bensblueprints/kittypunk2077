@@ -1,0 +1,20 @@
+{
+  "id": "E02-S04-D09",
+  "role_id": "trixie",
+  "voice_id": "dmWfLQZJq7wNPv9WmtiM",
+  "voice_name": "Emma — Wry, Gritty Hero",
+  "text": "Then we find the original order. I want the paw that signed it.",
+  "status": "review_take",
+  "scene": "E02-S04",
+  "duration_sec": 3.482993,
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.35,
+    "similarity_boost": 0.8,
+    "style": 0.55,
+    "use_speaker_boost": true
+  },
+  "request_id": "4F9BBp2HISK7Rfx7j9h8",
+  "provider_character_cost": "14",
+  "sha256": "4401a12e87082ce8d71dd2f0be47727bb5861b0b6da898a4ff1233ccf72fad01"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "E02-S04-D06",
+  "role_id": "trixie",
+  "voice_id": "dmWfLQZJq7wNPv9WmtiM",
+  "voice_name": "Emma — Wry, Gritty Hero",
+  "text": "Can you undo it?",
+  "status": "review_take",
+  "scene": "E02-S04",
+  "duration_sec": 1.068118,
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.35,
+    "similarity_boost": 0.8,
+    "style": 0.55,
+    "use_speaker_boost": true
+  },
+  "request_id": "ukYG98ESa4Yk7fkFWyN7",
+  "provider_character_cost": "4",
+  "sha256": "af6101561a5f220368ed66493318ee5ca3f2bfd2e78a0dc50fc7afe4dda0a6c6"
+}

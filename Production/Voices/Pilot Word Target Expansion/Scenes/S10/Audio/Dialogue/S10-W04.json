@@ -1,0 +1,21 @@
+{
+  "id": "S10-W04",
+  "scene": "S10",
+  "speaker": "Trixie",
+  "role_id": "trixie",
+  "voice_id": "dmWfLQZJq7wNPv9WmtiM",
+  "text": "I know. I just keep thinking about the kid outside the shop. But you are right. We get this done together, and nobody gets left behind.",
+  "status": "review_take",
+  "placement": "Integrate into existing action coverage; preserve current performances and scene boundaries. Visual/lip-sync review required.",
+  "duration_sec": 8.591383,
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.35,
+    "similarity_boost": 0.8,
+    "style": 0.55,
+    "use_speaker_boost": true
+  },
+  "request_id": "4R87i5Z43guDvNn1jDGj",
+  "provider_character_cost": "30",
+  "sha256": "a65e012b275ae23166a0ab70847d698983bcf19c43cffa155c253f7d0c084390"
+}

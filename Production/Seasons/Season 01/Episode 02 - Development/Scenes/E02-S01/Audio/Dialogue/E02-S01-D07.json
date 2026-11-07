@@ -1,0 +1,20 @@
+{
+  "id": "E02-S01-D07",
+  "role_id": "trixie",
+  "voice_id": "dmWfLQZJq7wNPv9WmtiM",
+  "voice_name": "Emma — Wry, Gritty Hero",
+  "text": "Mrs. Fen's building first. She said the little ones haven't had a proper meal since Tuesday.",
+  "status": "review_take",
+  "scene": "E02-S01",
+  "duration_sec": 4.87619,
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.35,
+    "similarity_boost": 0.8,
+    "style": 0.55,
+    "use_speaker_boost": true
+  },
+  "request_id": "kH2u1Thb9UvC5Mv9yiEt",
+  "provider_character_cost": "20",
+  "sha256": "a1e6bd2763a0492b1145231423f72154441c0a94a8d356666b229af4dc7d4bcf"
+}

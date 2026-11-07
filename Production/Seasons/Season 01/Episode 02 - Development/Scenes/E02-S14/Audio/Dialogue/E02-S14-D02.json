@@ -1,0 +1,20 @@
+{
+  "id": "E02-S14-D02",
+  "role_id": "trixie",
+  "voice_id": "dmWfLQZJq7wNPv9WmtiM",
+  "voice_name": "Emma — Wry, Gritty Hero",
+  "text": "That would be us. What's wrong with the building this time?",
+  "status": "review_take",
+  "scene": "E02-S14",
+  "duration_sec": 2.554195,
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.35,
+    "similarity_boost": 0.8,
+    "style": 0.55,
+    "use_speaker_boost": true
+  },
+  "request_id": "09g3gGFn5dMAl2aW8DfQ",
+  "provider_character_cost": "13",
+  "sha256": "009df1899b2a355c3c69e4db9dd2a350314645f44bb51d69147997d851f6638f"
+}

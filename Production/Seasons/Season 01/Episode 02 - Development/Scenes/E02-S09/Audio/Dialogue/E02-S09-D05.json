@@ -1,0 +1,20 @@
+{
+  "id": "E02-S09-D05",
+  "role_id": "onyx",
+  "voice_id": "uq0HIbNZKn11Hs5ifEdd",
+  "voice_name": "Harry — Fierce Warrior",
+  "text": "There. The rules board. If they're going to build a maze, I'm reading the map.",
+  "status": "review_take",
+  "scene": "E02-S09",
+  "duration_sec": 5.24771,
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.5,
+    "similarity_boost": 0.75,
+    "style": 0.15,
+    "use_speaker_boost": true
+  },
+  "request_id": "fXpB0LW77uf9bEWGo6Km",
+  "provider_character_cost": "17",
+  "sha256": "4b3bd6af62466a625d8e6ecd8dabf63db4c35b30680569e3790d48ac060083d7"
+}

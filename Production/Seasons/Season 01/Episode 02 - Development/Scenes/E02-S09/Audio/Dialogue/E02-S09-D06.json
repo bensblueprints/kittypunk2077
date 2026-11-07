@@ -1,0 +1,20 @@
+{
+  "id": "E02-S09-D06",
+  "role_id": "trixie",
+  "voice_id": "dmWfLQZJq7wNPv9WmtiM",
+  "voice_name": "Emma — Wry, Gritty Hero",
+  "text": "We're not spending all day in here.",
+  "status": "review_take",
+  "scene": "E02-S09",
+  "duration_sec": 1.811156,
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.35,
+    "similarity_boost": 0.8,
+    "style": 0.55,
+    "use_speaker_boost": true
+  },
+  "request_id": "9fx8wLLcBCzDjxLMRRrW",
+  "provider_character_cost": "8",
+  "sha256": "e699416703839a6cc6e666c62780e4322450314fff6fc2770b3bdd678e405494"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "E02-S13-D05",
+  "role_id": "seven_catleven_clerk",
+  "voice_id": "CwhRBWXzGAHq8TQ4Fs17",
+  "voice_name": "Roger - Laid-Back, Casual, Resonant",
+  "text": "They didn't ask the fish either. It's going warm while that machine thinks about your money.",
+  "status": "review_take",
+  "scene": "E02-S13",
+  "duration_sec": 4.783311,
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.5,
+    "similarity_boost": 0.75,
+    "style": 0.15,
+    "use_speaker_boost": true
+  },
+  "request_id": "WSQWXGqiGh8EEcRMhCdi",
+  "provider_character_cost": "20",
+  "sha256": "a68d3e4f1f3ba39172754f6133e40d50f1b77aa23efa0e205b100282fe2aaee2"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "E02-S04-D01",
+  "role_id": "byte",
+  "voice_id": "wo6udizrrtpIxWGp2qJk",
+  "voice_name": "Northern Terry",
+  "text": "Food account. Electricity account. Warehouse lease. Different screens, same customer number underneath.",
+  "status": "review_take",
+  "scene": "E02-S04",
+  "duration_sec": 7.105306,
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.5,
+    "similarity_boost": 0.75,
+    "style": 0.15,
+    "use_speaker_boost": true
+  },
+  "request_id": "W50JLVWl5xpCgDOdoIpW",
+  "provider_character_cost": "23",
+  "sha256": "0996ec9ac53e64c7b1d6310a01b528701c906bedf03fddf3f601b6c7fa1492be"
+}

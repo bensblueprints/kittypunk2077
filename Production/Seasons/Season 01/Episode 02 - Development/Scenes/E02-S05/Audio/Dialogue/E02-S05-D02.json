@@ -1,0 +1,21 @@
+{
+  "id": "E02-S05-D02",
+  "role_id": "chairman_barkington",
+  "voice_id": "bwCXcoVxWNYMlC6Esa8u",
+  "voice_name": "Matthew Schmitz - Gravel, Deep Anti-Hero",
+  "text": "Mark the recipients for enhanced review. Financial access, tenancy, the usual precautions.",
+  "status": "review_take",
+  "scene": "E02-S05",
+  "duration_sec": 9.845261,
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.4,
+    "similarity_boost": 0.75,
+    "style": 0.65,
+    "use_speaker_boost": true,
+    "speed": 0.9
+  },
+  "request_id": "LJlMr7hVGhax0KZPSxet",
+  "provider_character_cost": "34",
+  "sha256": "8fe9b7bd0eacf28929b84df0009b57496f8395d634222be0b43fbacff4b28d58"
+}

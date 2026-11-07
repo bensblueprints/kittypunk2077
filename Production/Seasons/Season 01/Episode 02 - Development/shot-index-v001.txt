@@ -1,0 +1,933 @@
+S01E02 — TERMS AND PURRDITIONS
+72-shot measured draft | 20:00 | 2,519 spoken words
+Not yet submitted. Outstanding props and upload checks appear per shot.
+
+E02-S01-P01 | 0–16.517 seconds | LOC08
+Low tracking shot beside rolling salmon crate; Trixie steadies it as Neon explains and Onyx braces downhill.
+DIALOGUE:
+trixie: Easy with that crate. We rescued the salmon. We don't need to launch it.
+neon: The wheels are experimental. The brakes are more of a future ambition.
+onyx: Then your future ambition is standing downhill with a mattress.
+REFERENCES:
+LOC08 - District 7 market — https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/c0de39fba4f7ec01.jpg
+Trixie - CatGirl — https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/51c0358d041cc3ba.jpg
+Neon — https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/c59f876dfb3540bb.jpg
+Onyx — https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/8ac469710ff37bec.jpg
+Byte — https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/a23590fe66ebce01.jpg
+Ghost — https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/61dc338e08cb2385.jpg
+TO PREPARE: Assemble public shot audio and verify every reference URL; Performance and shot blocking review
+
+E02-S01-P02 | 16.517–31.500999999999998 seconds | LOC08
+Waist-height group view: Byte issues a receipt, Ghost leans over his shoulder; retain crate at frame edge.
+DIALOGUE:
+byte: One crate, six households. Every delivery gets a receipt. Nobody disappears between columns.
+ghost: You made a spreadsheet for breakfast?
+byte: Breakfast deserves better administration than this city.
+REFERENCES:
+LOC08 - District 7 market — https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/c0de39fba4f7ec01.jpg
+Trixie - CatGirl — https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/51c0358d041cc3ba.jpg
+Neon — https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/c59f876dfb3540bb.jpg
+Onyx — https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/8ac469710ff37bec.jpg
+Byte — https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/a23590fe66ebce01.jpg
+Ghost — https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/61dc338e08cb2385.jpg
+TO PREPARE: Assemble public shot audio and verify every reference URL; Performance and shot blocking review
+
+E02-S01-P03 | 31.501–45.0 seconds | LOC08
+Trixie points toward destination; Neon slumps tiredly, Onyx blocks the cart with a brick.
+DIALOGUE:
+trixie: Mrs. Fen's building first. She said the little ones haven't had a proper meal since Tuesday.
+neon: And after that, we finally sleep?
+onyx: After that, you invent brakes.
+REFERENCES:
+LOC08 - District 7 market — https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/c0de39fba4f7ec01.jpg
+Trixie - CatGirl — https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/51c0358d041cc3ba.jpg
+Neon — https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/c59f876dfb3540bb.jpg
+Onyx — https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/8ac469710ff37bec.jpg
+Byte — https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/a23590fe66ebce01.jpg
+Ghost — https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/61dc338e08cb2385.jpg
+TO PREPARE: Assemble public shot audio and verify every reference URL; Performance and shot blocking review
+
+E02-S02-P01 | 45.0–61.049 seconds | LOC07
+Counter three-shot of clerk, resident and Trixie; card terminal stays in foreground.
+DIALOGUE:
+seven_catleven_clerk: It says declined. You've got money. It just won't let me take it.
+civilian_1: I checked this morning. That's my whole week's wages sitting right there.
+trixie: Try mine. We'll sort it out later.
+REFERENCES:
+LOC07 - 7-Catleven interior and freezer — https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/0501505937608443.jpg
+7-Catleven Clerk — https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/d9ae4e4d7a6c8795.jpg
+CIV01 - Civilian Cat — https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/d0c4b245ed3a3745.jpg
+Trixie - CatGirl — https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/51c0358d041cc3ba.jpg
+Byte — https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/a23590fe66ebce01.jpg
+TO PREPARE: Assemble public shot audio and verify every reference URL; Performance and shot blocking review
+
+E02-S02-P02 | 61.049–75.319 seconds | LOC07
+Over Byte shoulder toward clerk and resident; Byte collects the failed-payment slip.
+DIALOGUE:
+seven_catleven_clerk: Yours is frozen too. That's the fourth one since you came in.
+byte: Wait. Same notice, same timestamp. Can I see the receipt from the failed payment?
+REFERENCES:
+LOC07 - 7-Catleven interior and freezer — https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/0501505937608443.jpg
+7-Catleven Clerk — https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/d9ae4e4d7a6c8795.jpg
+CIV01 - Civilian Cat — https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/d0c4b245ed3a3745.jpg
+Trixie - CatGirl — https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/51c0358d041cc3ba.jpg
+Byte — https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/a23590fe66ebce01.jpg
+TO PREPARE: Assemble public shot audio and verify every reference URL; Performance and shot blocking review
+
+E02-S02-P03 | 75.319–89.0 seconds | LOC07
+Trixie reassures resident beside counter, Byte examines the timestamp without exposing private account details.
+DIALOGUE:
+civilian_1: Am I in trouble because you brought us food?
+trixie: No. Getting dinner doesn't make you a criminal.
+byte: But someone just made it a reason to lock your account.
+REFERENCES:
+LOC07 - 7-Catleven interior and freezer — https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/0501505937608443.jpg
+7-Catleven Clerk — https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/d9ae4e4d7a6c8795.jpg
+CIV01 - Civilian Cat — https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/d0c4b245ed3a3745.jpg
+Trixie - CatGirl — https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/51c0358d041cc3ba.jpg
+Byte — https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/a23590fe66ebce01.jpg
+TO PREPARE: Assemble public shot audio and verify every reference URL; Performance and shot blocking review
+
+E02-S03-P01 | 89.0–104.528 seconds | LOC07
+Neon taps help terminal; printer begins feeding long paper while clerk watches and Onyx leans into frame.
+DIALOGUE:
+neon: I found the help button. That's promising. Help usually means help.
+seven_catleven_clerk: Not on that machine. Stand back when it starts printing.
+onyx: How long is this apology?
+REFERENCES:
+LOC07 - 7-Catleven interior and freezer — https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/0501505937608443.jpg
+Neon — https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/c59f876dfb3540bb.jpg
+7-Catleven Clerk — https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/d9ae4e4d7a6c8795.jpg
+Onyx — https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/8ac469710ff37bec.jpg
+Trixie - CatGirl — https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/51c0358d041cc3ba.jpg
+Byte — https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/a23590fe66ebce01.jpg
+TO PREPARE: Match new terminal, printer and numbered paperwork props before submission; Assemble public shot audio and verify every reference URL; Performance and shot blocking review
+
+E02-S03-P02 | 104.528–118.988 seconds | LOC07
+Low medium view of paper accumulating; Onyx and Neon exchange disbelief with clerk across counter.
+DIALOGUE:
+neon: Thirty-seven pages. They must feel absolutely terrible.
+seven_catleven_clerk: There's the processing fee. Bottom of page thirty-seven.
+onyx: They're charging her for being sorry to her?
+REFERENCES:
+LOC07 - 7-Catleven interior and freezer — https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/0501505937608443.jpg
+Neon — https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/c59f876dfb3540bb.jpg
+7-Catleven Clerk — https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/d9ae4e4d7a6c8795.jpg
+Onyx — https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/8ac469710ff37bec.jpg
+Trixie - CatGirl — https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/51c0358d041cc3ba.jpg
+Byte — https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/a23590fe66ebce01.jpg
+TO PREPARE: Match new terminal, printer and numbered paperwork props before submission; Assemble public shot audio and verify every reference URL; Performance and shot blocking review
+
+E02-S03-P03 | 118.988–138.0 seconds | LOC07
+Trixie gathers pages into folder as Byte points to case number; no montage.
+DIALOGUE:
+neon: Would you like to dispute the apology fee? Oh, brilliant. That has a fee too.
+trixie: Keep the pages. All of them. This isn't just the shop's problem anymore.
+byte: And keep that case number. It's the first thing today that might actually be useful.
+REFERENCES:
+LOC07 - 7-Catleven interior and freezer — https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/0501505937608443.jpg
+Neon — https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/c59f876dfb3540bb.jpg
+7-Catleven Clerk — https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/d9ae4e4d7a6c8795.jpg
+Onyx — https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/8ac469710ff37bec.jpg
+Trixie - CatGirl — https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/51c0358d041cc3ba.jpg
+Byte — https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/a23590fe66ebce01.jpg
+TO PREPARE: Match new terminal, printer and numbered paperwork props before submission; Assemble public shot audio and verify every reference URL; Performance and shot blocking review
+
+E02-S04-P01 | 138.0–156.54 seconds | LOC03
+Slow push toward Byte and Ghost at lair desk, Trixie standing beside them.
+DIALOGUE:
+byte: Food account. Electricity account. Warehouse lease. Different screens, same customer number underneath.
+ghost: Not customer. Identity. They attached everything to one identity record.
+trixie: So if they lock one thing, they lock your whole life?
+REFERENCES:
+LOC03 - Hacking operations — https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/678400a023f22df4.jpg
+Byte — https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/a23590fe66ebce01.jpg
+Ghost — https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/61dc338e08cb2385.jpg
+Trixie - CatGirl — https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/51c0358d041cc3ba.jpg
+TO PREPARE: Assemble public shot audio and verify every reference URL; Performance and shot blocking review
+
+E02-S04-P02 | 156.54–172.804 seconds | LOC03
+Side three-shot as Ghost identifies three changes and Trixie asks for a fix.
+DIALOGUE:
+byte: Not automatically. Somebody checked three separate boxes. Look at the timestamps.
+ghost: Payment access, tenant verification, utility review. All changed inside the same minute.
+trixie: Can you undo it?
+REFERENCES:
+LOC03 - Hacking operations — https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/678400a023f22df4.jpg
+Byte — https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/a23590fe66ebce01.jpg
+Ghost — https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/61dc338e08cb2385.jpg
+Trixie - CatGirl — https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/51c0358d041cc3ba.jpg
+TO PREPARE: Assemble public shot audio and verify every reference URL; Performance and shot blocking review
+
+E02-S04-P03 | 172.804–188.0 seconds | LOC03
+Reverse medium view on Byte and Ghost explaining evidence; Trixie decides to seek the order.
+DIALOGUE:
+byte: I can make the screen look different. That doesn't mean the shop will accept a payment.
+ghost: And changing the record could destroy the proof of who changed it first.
+trixie: Then we find the original order. I want the paw that signed it.
+REFERENCES:
+LOC03 - Hacking operations — https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/678400a023f22df4.jpg
+Byte — https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/a23590fe66ebce01.jpg
+Ghost — https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/61dc338e08cb2385.jpg
+Trixie - CatGirl — https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/51c0358d041cc3ba.jpg
+TO PREPARE: Assemble public shot audio and verify every reference URL; Performance and shot blocking review
+
+E02-S05-P01 | 188.0–207.50900000000001 seconds | HQ03
+Barkington at boardroom head, controlled slow push; he dictates to an offscreen recorder, no extra speaking dog.
+DIALOGUE:
+chairman_barkington: Food handed out without supervision creates expectations. Expectations create demands.
+chairman_barkington: Mark the recipients for enhanced review. Financial access, tenancy, the usual precautions.
+REFERENCES:
+HQ03 — https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/f8486a01c351cbe6.jpg
+Barkington Orders — https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/562eac0bfb4963cd.jpg
+TO PREPARE: Prepare legible evidence/screen graphics as controlled inserts; do not rely on generated fine text; Assemble public shot audio and verify every reference URL; Performance and shot blocking review
+
+E02-S05-P02 | 207.509–233.71999999999997 seconds | HQ03
+Side medium of Barkington selecting District 7 on a desk screen and dictating public wording.
+DIALOGUE:
+chairman_barkington: No, not the entire city. District Seven. Keep the filter exactly where it is.
+chairman_barkington: We are protecting vulnerable residents from suspicious generosity. Put that in the public notice.
+chairman_barkington: The warehouse lease comes up next month? Then inspect it this afternoon.
+REFERENCES:
+HQ03 — https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/f8486a01c351cbe6.jpg
+Barkington Orders — https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/562eac0bfb4963cd.jpg
+TO PREPARE: Prepare legible evidence/screen graphics as controlled inserts; do not rely on generated fine text; Assemble public shot audio and verify every reference URL; Performance and shot blocking review
+
+E02-S05-P03 | 233.72–251.0 seconds | HQ03
+Close medium on Barkington with lease folder; he corrects the wording and closes it.
+DIALOGUE:
+chairman_barkington: A lawful notice, delivered politely. I don't need a spectacle. I need them occupied.
+chairman_barkington: And remove the word punishment from the draft. Have we learned nothing about presentation?
+REFERENCES:
+HQ03 — https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/f8486a01c351cbe6.jpg
+Barkington Orders — https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/562eac0bfb4963cd.jpg
+TO PREPARE: Prepare legible evidence/screen graphics as controlled inserts; do not rely on generated fine text; Assemble public shot audio and verify every reference URL; Performance and shot blocking review
+
+E02-S06-P01 | 251.0–267.55 seconds | LOC02
+Wide lounge table covered in receipts, five cats only; Neon clears a plate and Onyx reacts.
+DIALOGUE:
+neon: The table is officially full. Any more paperwork and we'll have to eat standing up.
+onyx: We can't buy food. Finally, a problem that solves itself.
+trixie: We have enough in the crates for tonight. We don't have enough for every night.
+REFERENCES:
+LOC02 - Resistance warehouse lounge — https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/9ccf57446d209d87.jpg
+Neon — https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/c59f876dfb3540bb.jpg
+Onyx — https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/8ac469710ff37bec.jpg
+Trixie - CatGirl — https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/51c0358d041cc3ba.jpg
+Byte — https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/a23590fe66ebce01.jpg
+Ghost — https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/61dc338e08cb2385.jpg
+TO PREPARE: Assemble public shot audio and verify every reference URL; Performance and shot blocking review
+
+E02-S06-P02 | 267.55–283.682 seconds | LOC02
+Table-height medium on Byte, Ghost and Trixie comparing notices to receipts.
+DIALOGUE:
+byte: These are the delivery receipts. Every frozen customer on this stack received a crate.
+ghost: That's a pattern. It isn't the signed instruction yet.
+trixie: They did this because we helped. How much more proof do we need?
+REFERENCES:
+LOC02 - Resistance warehouse lounge — https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/9ccf57446d209d87.jpg
+Neon — https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/c59f876dfb3540bb.jpg
+Onyx — https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/8ac469710ff37bec.jpg
+Trixie - CatGirl — https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/51c0358d041cc3ba.jpg
+Byte — https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/a23590fe66ebce01.jpg
+Ghost — https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/61dc338e08cb2385.jpg
+TO PREPARE: Assemble public shot audio and verify every reference URL; Performance and shot blocking review
+
+E02-S06-P03 | 283.682–300.0 seconds | LOC02
+Trixie sets receipts into an evidence folder; Byte and Onyx respond from their established seats.
+DIALOGUE:
+byte: Enough that they can't call it a guess. Enough to get those accounts opened again.
+trixie: Then keep the receipts. We fix the freeze, and we keep the proof.
+onyx: Good. I was getting attached to being angry for a reason.
+REFERENCES:
+LOC02 - Resistance warehouse lounge — https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/9ccf57446d209d87.jpg
+Neon — https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/c59f876dfb3540bb.jpg
+Onyx — https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/8ac469710ff37bec.jpg
+Trixie - CatGirl — https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/51c0358d041cc3ba.jpg
+Byte — https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/a23590fe66ebce01.jpg
+Ghost — https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/61dc338e08cb2385.jpg
+TO PREPARE: Assemble public shot audio and verify every reference URL; Performance and shot blocking review
+
+E02-S07-P01 | 300.0–318.929 seconds | LOC03
+Lair three-shot: Trixie asks for a practical plan, Ghost and Byte identify required records.
+DIALOGUE:
+trixie: Tell me what you need, not what you wish this system would let you do.
+ghost: A real appeal number. The account holder can request the decision record through an appeal.
+byte: And a copy of the order before anyone rewrites the explanation.
+REFERENCES:
+LOC03 - Hacking operations — https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/678400a023f22df4.jpg
+Trixie - CatGirl — https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/51c0358d041cc3ba.jpg
+Ghost — https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/61dc338e08cb2385.jpg
+Byte — https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/a23590fe66ebce01.jpg
+TO PREPARE: Assemble public shot audio and verify every reference URL; Performance and shot blocking review
+
+E02-S07-P02 | 318.929–336.74399999999997 seconds | LOC03
+Medium on Byte and Ghost explaining why erasure destroys evidence; Trixie listens.
+DIALOGUE:
+trixie: We could just clear the balances. Give everyone a clean slate.
+byte: And erase who was overcharged, who paid, who still needs their money back?
+ghost: A blank record helps the dogs too. Nothing left for anyone to challenge.
+REFERENCES:
+LOC03 - Hacking operations — https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/678400a023f22df4.jpg
+Trixie - CatGirl — https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/51c0358d041cc3ba.jpg
+Ghost — https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/61dc338e08cb2385.jpg
+Byte — https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/a23590fe66ebce01.jpg
+TO PREPARE: Assemble public shot audio and verify every reference URL; Performance and shot blocking review
+
+E02-S07-P03 | 336.744–354.0 seconds | LOC03
+Trixie closes the destructive-command window without running it and assigns the appeal; Byte nods.
+DIALOGUE:
+trixie: All right. No erasing. We keep the ugly bits exactly where they can be seen.
+byte: You take the appeal. We'll compare the records when it opens.
+trixie: And nobody does anything that makes dinner depend on a clever guess.
+REFERENCES:
+LOC03 - Hacking operations — https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/678400a023f22df4.jpg
+Trixie - CatGirl — https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/51c0358d041cc3ba.jpg
+Ghost — https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/61dc338e08cb2385.jpg
+Byte — https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/a23590fe66ebce01.jpg
+TO PREPARE: Assemble public shot audio and verify every reference URL; Performance and shot blocking review
+
+E02-S08-P01 | 354.0–371.29200000000003 seconds | LOC04
+Workshop doorway, Neon holds paper register as resident questions it; Onyx presents duplicate receipt.
+DIALOGUE:
+neon: Name, building, number of meals. Nothing else goes on the delivery sheet.
+civilian_2: They already used one list against us. Why should I put my name on another?
+onyx: You shouldn't have to trust a screen you can't see. You keep your half of the receipt.
+REFERENCES:
+LOC04 - Engineering workshop — https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/aafc818847c1406d.jpg
+Neon — https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/c59f876dfb3540bb.jpg
+CIV02 - Civilian Cat — https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/4562760aa1996806.jpg
+Onyx — https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/8ac469710ff37bec.jpg
+TO PREPARE: Assemble public shot audio and verify every reference URL; Performance and shot blocking review
+
+E02-S08-P02 | 371.292–384.171 seconds | LOC04
+Resident and Onyx eye-level two-shot; Neon keeps register visible on a workbench.
+DIALOGUE:
+neon: This copy stays here, on paper. We don't send your name to the news.
+civilian_2: And if the dogs come looking for it?
+onyx: Then we tell them it's a dinner list. Because that's what it is.
+REFERENCES:
+LOC04 - Engineering workshop — https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/aafc818847c1406d.jpg
+Neon — https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/c59f876dfb3540bb.jpg
+CIV02 - Civilian Cat — https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/4562760aa1996806.jpg
+Onyx — https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/8ac469710ff37bec.jpg
+TO PREPARE: Assemble public shot audio and verify every reference URL; Performance and shot blocking review
+
+E02-S08-P03 | 384.171–399.0 seconds | LOC04
+Neon leaves identity field blank; resident gives building number, Onyx hands over meal receipt.
+DIALOGUE:
+neon: You can use your building number instead. We need to find your door, not own your life.
+civilian_2: Building nine. Third floor. There are two of us.
+onyx: Two meals. No lecture. That's our entire terms and conditions.
+REFERENCES:
+LOC04 - Engineering workshop — https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/aafc818847c1406d.jpg
+Neon — https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/c59f876dfb3540bb.jpg
+CIV02 - Civilian Cat — https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/4562760aa1996806.jpg
+Onyx — https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/8ac469710ff37bec.jpg
+TO PREPARE: Assemble public shot audio and verify every reference URL; Performance and shot blocking review
+
+E02-S09-P01 | 399.0–416.901 seconds | HQ10
+Annex entrance three-shot: Neon takes a numbered ticket, Onyx studies it, Trixie compares two numbers.
+DIALOGUE:
+neon: Welcome to Goodboy Global. Please take a number to receive your queue number.
+onyx: I refuse to believe those are two different numbers.
+trixie: They are. We have thirty-eight. We need a ticket to stand in line for thirty-eight.
+REFERENCES:
+Neon — https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/c59f876dfb3540bb.jpg
+Onyx — https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/8ac469710ff37bec.jpg
+Trixie - CatGirl — https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/51c0358d041cc3ba.jpg
+TO PREPARE: HQ10 corrected location sheet not yet canonical/public; Match new terminal, printer and numbered paperwork props before submission; Assemble public shot audio and verify every reference URL; Performance and shot blocking review
+
+E02-S09-P02 | 416.901–432.141 seconds | HQ10
+Medium across stanchions as Onyx turns toward east rules board and Trixie grows impatient.
+DIALOGUE:
+neon: Maybe the first number is emotional support for the second number.
+onyx: There. The rules board. If they're going to build a maze, I'm reading the map.
+REFERENCES:
+Neon — https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/c59f876dfb3540bb.jpg
+Onyx — https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/8ac469710ff37bec.jpg
+Trixie - CatGirl — https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/51c0358d041cc3ba.jpg
+TO PREPARE: HQ10 corrected location sheet not yet canonical/public; Match new terminal, printer and numbered paperwork props before submission; Assemble public shot audio and verify every reference URL; Performance and shot blocking review
+
+E02-S09-P03 | 432.141–448.0 seconds | HQ10
+Onyx reads board while Neon photographs it; Trixie waits beside the queue.
+DIALOGUE:
+trixie: We're not spending all day in here.
+onyx: We might. But I'm making it their problem too.
+neon: I'll photograph the board before somebody changes the rules halfway through the queue.
+REFERENCES:
+Neon — https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/c59f876dfb3540bb.jpg
+Onyx — https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/8ac469710ff37bec.jpg
+Trixie - CatGirl — https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/51c0358d041cc3ba.jpg
+TO PREPARE: HQ10 corrected location sheet not yet canonical/public; Match new terminal, printer and numbered paperwork props before submission; Assemble public shot audio and verify every reference URL; Performance and shot blocking review
+
+E02-S10-P01 | 448.0–466.929 seconds | HQ10
+Annex terminal three-shot; Trixie reads payment demand, Onyx and Neon identify hardship option.
+DIALOGUE:
+trixie: It wants a payment before it will accept the frozen-account complaint.
+onyx: Of course it does. You can only complain about being locked out if you aren't locked out.
+neon: There! Hardship exception. That's us. We're extremely hardshipped.
+REFERENCES:
+Trixie - CatGirl — https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/51c0358d041cc3ba.jpg
+Onyx — https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/8ac469710ff37bec.jpg
+Neon — https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/c59f876dfb3540bb.jpg
+TO PREPARE: HQ10 corrected location sheet not yet canonical/public; Match new terminal, printer and numbered paperwork props before submission; Assemble public shot audio and verify every reference URL; Performance and shot blocking review
+
+E02-S10-P02 | 466.929–486.18199999999996 seconds | HQ10
+Trixie taps decline history; Onyx gestures toward printer; Neon discovers empty tray.
+DIALOGUE:
+trixie: Proof of inability to pay. We just gave it that. It declined the payment.
+onyx: Ask it to print the decline. Make the stupid thing testify against itself.
+neon: Paper out. Naturally. The most powerful corporation in the city has run out of paper.
+REFERENCES:
+Trixie - CatGirl — https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/51c0358d041cc3ba.jpg
+Onyx — https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/8ac469710ff37bec.jpg
+Neon — https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/c59f876dfb3540bb.jpg
+TO PREPARE: HQ10 corrected location sheet not yet canonical/public; Match new terminal, printer and numbered paperwork props before submission; Assemble public shot audio and verify every reference URL; Performance and shot blocking review
+
+E02-S10-P03 | 486.182–502.0 seconds | HQ10
+Trixie feeds blank reverse sides of apology sheets into printer while Onyx holds page thirty-seven aside.
+DIALOGUE:
+trixie: Use the apology. Thirty-six pages are blank on the back.
+onyx: At last, an apology with practical value.
+trixie: Keep page thirty-seven. I'm not losing the proof they charged us for it.
+REFERENCES:
+Trixie - CatGirl — https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/51c0358d041cc3ba.jpg
+Onyx — https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/8ac469710ff37bec.jpg
+Neon — https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/c59f876dfb3540bb.jpg
+TO PREPARE: HQ10 corrected location sheet not yet canonical/public; Match new terminal, printer and numbered paperwork props before submission; Assemble public shot audio and verify every reference URL; Performance and shot blocking review
+
+E02-S11-P01 | 502.0–517.614 seconds | HQ10
+Onyx beside east rules board reads paper-appeal clause, Neon reacts, Trixie looks toward north counter.
+DIALOGUE:
+onyx: Section eight. A person unable to access electronic payment may lodge a written appeal.
+neon: It says may. That's not the same as must be made miserable while trying.
+trixie: Where do we lodge it? Every counter points back to the terminal.
+REFERENCES:
+Onyx — https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/8ac469710ff37bec.jpg
+Neon — https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/c59f876dfb3540bb.jpg
+Trixie - CatGirl — https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/51c0358d041cc3ba.jpg
+TO PREPARE: HQ10 corrected location sheet not yet canonical/public; Match new terminal, printer and numbered paperwork props before submission; Assemble public shot audio and verify every reference URL; Performance and shot blocking review
+
+E02-S11-P02 | 517.614–534.714 seconds | HQ10
+Medium on Onyx explaining acknowledgment rule; Neon studies him with reluctant admiration.
+DIALOGUE:
+onyx: Section nine. The receiving office must issue a dated acknowledgment. This is the receiving office.
+neon: You've been reading that board for twenty minutes. You memorized the whole thing?
+onyx: I got bored. Then I got annoyed. It's a very effective educational method.
+REFERENCES:
+Onyx — https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/8ac469710ff37bec.jpg
+Neon — https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/c59f876dfb3540bb.jpg
+Trixie - CatGirl — https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/51c0358d041cc3ba.jpg
+TO PREPARE: HQ10 corrected location sheet not yet canonical/public; Match new terminal, printer and numbered paperwork props before submission; Assemble public shot audio and verify every reference URL; Performance and shot blocking review
+
+E02-S11-P03 | 534.714–552.0 seconds | HQ10
+At west end of north counter Trixie feeds appeal into slot, Onyx waits, Neon retrieves acknowledgment.
+DIALOGUE:
+trixie: There's the paper slot. Put the receipt on top, then the account notice.
+onyx: And now we wait for the acknowledgment. Their rule. Their machine. Their problem.
+neon: It printed one! Look at that. We successfully asked for help. Historic day.
+REFERENCES:
+Onyx — https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/8ac469710ff37bec.jpg
+Neon — https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/c59f876dfb3540bb.jpg
+Trixie - CatGirl — https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/51c0358d041cc3ba.jpg
+TO PREPARE: HQ10 corrected location sheet not yet canonical/public; Match new terminal, printer and numbered paperwork props before submission; Assemble public shot audio and verify every reference URL; Performance and shot blocking review
+
+E02-S12-P01 | 552.0–573.793 seconds | LOC03
+Lair desk over-shoulder, Byte opens attachment beside Ghost; only abstract document text in generated screen.
+DIALOGUE:
+byte: We have the appeal number. The attachments just opened. Ghost, look at the first page.
+ghost: Signed freeze order. District Seven recipients. Payment and tenancy review in the same instruction.
+byte: The order came before their suspicious-activity notice. They chose the people first.
+REFERENCES:
+LOC03 - Hacking operations — https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/678400a023f22df4.jpg
+Byte — https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/a23590fe66ebce01.jpg
+Ghost — https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/61dc338e08cb2385.jpg
+TO PREPARE: Prepare legible evidence/screen graphics as controlled inserts; do not rely on generated fine text; Assemble public shot audio and verify every reference URL; Performance and shot blocking review
+
+E02-S12-P02 | 573.793–594.239 seconds | LOC03
+Side two-shot: Ghost gestures to original file while Byte makes copies and keeps signature attached.
+DIALOGUE:
+ghost: Don't rename the original. Copy it into the evidence folder and keep the issue time.
+byte: Already doing it. Original, working copy, and a printed copy for Trixie to wave angrily.
+ghost: Keep the signature page attached. A screenshot of one sentence won't prove the rest.
+REFERENCES:
+LOC03 - Hacking operations — https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/678400a023f22df4.jpg
+Byte — https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/a23590fe66ebce01.jpg
+Ghost — https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/61dc338e08cb2385.jpg
+TO PREPARE: Prepare legible evidence/screen graphics as controlled inserts; do not rely on generated fine text; Assemble public shot audio and verify every reference URL; Performance and shot blocking review
+
+E02-S12-P03 | 594.239–606.0 seconds | LOC03
+Medium on Byte turning to Ghost with concern, then relief; printed folder remains between them.
+DIALOGUE:
+byte: You think they'll say we made it up?
+ghost: I think we should make that a difficult thing to say.
+byte: Good. Difficult is one of my better subjects.
+REFERENCES:
+LOC03 - Hacking operations — https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/678400a023f22df4.jpg
+Byte — https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/a23590fe66ebce01.jpg
+Ghost — https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/61dc338e08cb2385.jpg
+TO PREPARE: Prepare legible evidence/screen graphics as controlled inserts; do not rely on generated fine text; Assemble public shot audio and verify every reference URL; Performance and shot blocking review
+
+E02-S13-P01 | 606.0–625.815 seconds | LOC13
+WOOF7 anchor at studio desk delivers corporate statement; fixed camera, no invented extras.
+DIALOGUE:
+woof7_anchor: Goodboy Global has introduced a voluntary consumer-protection review for selected accounts.
+woof7_anchor: Residents are reminded that a temporary restriction is not a punishment. It is an opportunity to demonstrate compliance.
+woof7_anchor: The company says ordinary shopping will resume as soon as the necessary checks are complete.
+REFERENCES:
+LOC13 - WOOF7 news studio — https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/9929f26bee75cac0.jpg
+WOOF7 Anchor — https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/9bb47fb0209fc142.jpg
+TO PREPARE: Assemble public shot audio and verify every reference URL; Performance and shot blocking review
+
+E02-S13-P02 | 625.815–640.196 seconds | LOC07
+Shop two-shot of resident and clerk with physical TV behind them; broadcast remains strictly inside TV glass.
+DIALOGUE:
+civilian_1: Voluntary? Nobody asked me.
+seven_catleven_clerk: They didn't ask the fish either. It's going warm while that machine thinks about your money.
+civilian_1: My wages are still there. Every time I look, they're still there.
+REFERENCES:
+LOC07 - 7-Catleven interior and freezer — https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/0501505937608443.jpg
+CIV01 - Civilian Cat — https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/d0c4b245ed3a3745.jpg
+7-Catleven Clerk — https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/d9ae4e4d7a6c8795.jpg
+TO PREPARE: Assemble public shot audio and verify every reference URL; Performance and shot blocking review
+
+E02-S13-P03 | 640.196–651.0 seconds | LOC07
+Clerk slides bagged salmon across counter; resident hesitates then accepts, television stays background.
+DIALOGUE:
+seven_catleven_clerk: Put the salmon in your bag. We'll settle the receipt when they unlock it.
+civilian_1: You could get in trouble for that.
+seven_catleven_clerk: Then they'd better bring a longer apology.
+REFERENCES:
+LOC07 - 7-Catleven interior and freezer — https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/0501505937608443.jpg
+CIV01 - Civilian Cat — https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/d0c4b245ed3a3745.jpg
+7-Catleven Clerk — https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/d9ae4e4d7a6c8795.jpg
+TO PREPARE: Assemble public shot audio and verify every reference URL; Performance and shot blocking review
+
+E02-S14-P01 | 651.0–668.319 seconds | LOC01
+Warehouse south entrance medium: organic German shepherd Pawlice officer gives notice to Trixie, Onyx stands beside her.
+DIALOGUE:
+dog_guard_a: Compliance notice. I'm required to deliver it to the registered tenant.
+trixie: That would be us. What's wrong with the building this time?
+dog_guard_a: Your tenant verification has changed. You have until the posted deadline to resolve it.
+REFERENCES:
+LOC01 - Resistance warehouse exterior — https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/c171160ce2dfdaef.jpg
+PAW01 — Unnamed German shepherd officer — https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/6c4f0a7860912420.jpg
+Trixie - CatGirl — https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/51c0358d041cc3ba.jpg
+Onyx — https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/8ac469710ff37bec.jpg
+TO PREPARE: Assemble public shot audio and verify every reference URL; Performance and shot blocking review
+
+E02-S14-P02 | 668.319–687.1859999999999 seconds | LOC01
+Three-shot across loading apron as Onyx challenges notice and Trixie requests written dispute.
+DIALOGUE:
+onyx: It changed because you froze the account we use to verify it.
+dog_guard_a: I'm delivering the notice. I don't control the account.
+trixie: Then write down that we received it and disputed it. Both things. Not just the convenient one.
+dog_guard_a: There's no box for that.
+REFERENCES:
+LOC01 - Resistance warehouse exterior — https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/c171160ce2dfdaef.jpg
+PAW01 — Unnamed German shepherd officer — https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/6c4f0a7860912420.jpg
+Trixie - CatGirl — https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/51c0358d041cc3ba.jpg
+Onyx — https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/8ac469710ff37bec.jpg
+TO PREPARE: Assemble public shot audio and verify every reference URL; Performance and shot blocking review
+
+E02-S14-P03 | 687.186–700.0 seconds | LOC01
+Close medium on officer writing on reverse; Onyx and Trixie receive their copy without aggression.
+DIALOGUE:
+onyx: There's a whole blank side on the paper. Be creative.
+dog_guard_a: I'll note the dispute. Keep your copy.
+trixie: We are getting very good at keeping copies.
+REFERENCES:
+LOC01 - Resistance warehouse exterior — https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/c171160ce2dfdaef.jpg
+PAW01 — Unnamed German shepherd officer — https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/6c4f0a7860912420.jpg
+Trixie - CatGirl — https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/51c0358d041cc3ba.jpg
+Onyx — https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/8ac469710ff37bec.jpg
+TO PREPARE: Assemble public shot audio and verify every reference URL; Performance and shot blocking review
+
+E02-S15-P01 | 700.0–719.127 seconds | LOC03
+Lair three-shot: Trixie and Byte choose evidence over erasure; Ghost lifts comparison folder.
+DIALOGUE:
+trixie: We can make their numbers vanish, or we can make their explanation fall apart.
+byte: The second one gets people their own money back. The first just starts another argument.
+ghost: This package has the order, the issue times and the delivery receipts. Public copy has the residents' details removed.
+REFERENCES:
+LOC03 - Hacking operations — https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/678400a023f22df4.jpg
+Trixie - CatGirl — https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/51c0358d041cc3ba.jpg
+Byte — https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/a23590fe66ebce01.jpg
+Ghost — https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/61dc338e08cb2385.jpg
+TO PREPARE: Prepare legible evidence/screen graphics as controlled inserts; do not rely on generated fine text; Assemble public shot audio and verify every reference URL; Performance and shot blocking review
+
+E02-S15-P02 | 719.127–737.1869999999999 seconds | LOC03
+Medium on Trixie guarding private original and Byte showing signature; Ghost checks factual scope.
+DIALOGUE:
+trixie: Keep the full copy for their appeals. Nobody gets dragged onto television because we wanted a better headline.
+byte: And here's Barkington's signature. Large enough even WOOF7 can read it.
+ghost: We can prove the restriction followed the delivery list. Don't claim anything the documents don't show.
+REFERENCES:
+LOC03 - Hacking operations — https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/678400a023f22df4.jpg
+Trixie - CatGirl — https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/51c0358d041cc3ba.jpg
+Byte — https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/a23590fe66ebce01.jpg
+Ghost — https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/61dc338e08cb2385.jpg
+TO PREPARE: Prepare legible evidence/screen graphics as controlled inserts; do not rely on generated fine text; Assemble public shot audio and verify every reference URL; Performance and shot blocking review
+
+E02-S15-P03 | 737.187–750.0 seconds | LOC03
+The three share dry joke as Trixie stacks redacted public copies separately from appeal originals.
+DIALOGUE:
+trixie: Fine. No speeches about secret world domination. Just the very obvious local domination.
+byte: That should fit on one page.
+trixie: Good. I'm developing a personal hatred of page thirty-seven.
+REFERENCES:
+LOC03 - Hacking operations — https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/678400a023f22df4.jpg
+Trixie - CatGirl — https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/51c0358d041cc3ba.jpg
+Byte — https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/a23590fe66ebce01.jpg
+Ghost — https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/61dc338e08cb2385.jpg
+TO PREPARE: Prepare legible evidence/screen graphics as controlled inserts; do not rely on generated fine text; Assemble public shot audio and verify every reference URL; Performance and shot blocking review
+
+E02-S16-P01 | 750.0–769.259 seconds | HQ10
+Annex terminal medium: Neon opens manual review while Onyx and Trixie lean in.
+DIALOGUE:
+neon: Acknowledgment number accepted. The manual review channel is open.
+onyx: Imagine that. An office that responds when you follow its own instructions exactly.
+trixie: Attach the freeze order and the payment decline. We need a decision, not another receipt.
+REFERENCES:
+Neon — https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/c59f876dfb3540bb.jpg
+Onyx — https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/8ac469710ff37bec.jpg
+Trixie - CatGirl — https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/51c0358d041cc3ba.jpg
+TO PREPARE: HQ10 corrected location sheet not yet canonical/public; Match new terminal, printer and numbered paperwork props before submission; Assemble public shot audio and verify every reference URL; Performance and shot blocking review
+
+E02-S16-P02 | 769.259–781.5980000000001 seconds | HQ10
+Trixie reads requested shop evidence; Neon watches closing-time counter, Onyx asks about it.
+DIALOGUE:
+neon: It wants corroborating transaction evidence from a registered shop.
+trixie: The clerk's receipts. Byte is already there.
+onyx: What does the timer mean?
+REFERENCES:
+Neon — https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/c59f876dfb3540bb.jpg
+Onyx — https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/8ac469710ff37bec.jpg
+Trixie - CatGirl — https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/51c0358d041cc3ba.jpg
+TO PREPARE: HQ10 corrected location sheet not yet canonical/public; Match new terminal, printer and numbered paperwork props before submission; Assemble public shot audio and verify every reference URL; Performance and shot blocking review
+
+E02-S16-P03 | 781.598–799.0 seconds | HQ10
+Neon keeps session open while Trixie calls Byte; Onyx eyes number dispenser without touching it.
+DIALOGUE:
+neon: The case closes if we don't finish before the office closes. Because apparently tomorrow doesn't exist.
+trixie: Keep this session open. I'll call Byte. We are not starting this queue again.
+onyx: I may actually eat the number dispenser if we do.
+REFERENCES:
+Neon — https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/c59f876dfb3540bb.jpg
+Onyx — https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/8ac469710ff37bec.jpg
+Trixie - CatGirl — https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/51c0358d041cc3ba.jpg
+TO PREPARE: HQ10 corrected location sheet not yet canonical/public; Match new terminal, printer and numbered paperwork props before submission; Assemble public shot audio and verify every reference URL; Performance and shot blocking review
+
+E02-S17-P01 | 799.0–818.409 seconds | LOC07
+Shop counter three-shot: Byte requests witnessed receipt, clerk hesitates, resident offers to withdraw request.
+DIALOGUE:
+byte: We need a witnessed receipt from before the freeze. Same customer, same account, normal payment.
+seven_catleven_clerk: I've got it. But signing this puts my shop on their list too.
+civilian_1: You don't have to do that for me. You've already let me take the food.
+REFERENCES:
+LOC07 - 7-Catleven interior and freezer — https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/0501505937608443.jpg
+Byte — https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/a23590fe66ebce01.jpg
+7-Catleven Clerk — https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/d9ae4e4d7a6c8795.jpg
+CIV01 - Civilian Cat — https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/d0c4b245ed3a3745.jpg
+TO PREPARE: Assemble public shot audio and verify every reference URL; Performance and shot blocking review
+
+E02-S17-P02 | 818.409–837.817 seconds | LOC07
+Clerk chooses to sign; Byte protects private copy and hands him pen.
+DIALOGUE:
+seven_catleven_clerk: And tomorrow? And the next person? I can't run a shop by pretending nobody's hungry.
+byte: We won't put your signature on the news without asking. This copy is for the appeal.
+seven_catleven_clerk: Then hand me the pen. And spell the shop's name right. They always get that wrong.
+REFERENCES:
+LOC07 - 7-Catleven interior and freezer — https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/0501505937608443.jpg
+Byte — https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/a23590fe66ebce01.jpg
+7-Catleven Clerk — https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/d9ae4e4d7a6c8795.jpg
+CIV01 - Civilian Cat — https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/d0c4b245ed3a3745.jpg
+TO PREPARE: Assemble public shot audio and verify every reference URL; Performance and shot blocking review
+
+E02-S17-P03 | 837.817–853.0 seconds | LOC07
+Resident thanks clerk as Byte sends attachment from handheld; maintain counter positions.
+DIALOGUE:
+civilian_1: Thank you. I don't know what else to say.
+seven_catleven_clerk: Come back when you can pay. Argue with me about the prices. Normal things.
+byte: Sent. Trixie, you've got your last attachment.
+REFERENCES:
+LOC07 - 7-Catleven interior and freezer — https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/0501505937608443.jpg
+Byte — https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/a23590fe66ebce01.jpg
+7-Catleven Clerk — https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/d9ae4e4d7a6c8795.jpg
+CIV01 - Civilian Cat — https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/d0c4b245ed3a3745.jpg
+TO PREPARE: Assemble public shot audio and verify every reference URL; Performance and shot blocking review
+
+E02-S18-P01 | 853.0–869.55 seconds | HQ03
+Barkington performs denial to fixed press camera in boardroom; corporate display beside him.
+DIALOGUE:
+chairman_barkington: Nobody is being singled out. This is a routine review conducted without prejudice.
+chairman_barkington: The people spreading these allegations would prefer that we abandon responsible administration entirely.
+REFERENCES:
+HQ03 — https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/f8486a01c351cbe6.jpg
+Barkington Orders — https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/562eac0bfb4963cd.jpg
+TO PREPARE: Prepare legible evidence/screen graphics as controlled inserts; do not rely on generated fine text; Assemble public shot audio and verify every reference URL; Performance and shot blocking review
+
+E02-S18-P02 | 869.55–886.751 seconds | HQ03
+Slow lateral move includes district filter display; Barkington notices and orders it out of view.
+DIALOGUE:
+chairman_barkington: Of course the restrictions are temporary. They will last precisely as long as they are necessary.
+chairman_barkington: Move that screen out of the camera shot. The district filter is an internal matter.
+REFERENCES:
+HQ03 — https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/f8486a01c351cbe6.jpg
+Barkington Orders — https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/562eac0bfb4963cd.jpg
+TO PREPARE: Prepare legible evidence/screen graphics as controlled inserts; do not rely on generated fine text; Assemble public shot audio and verify every reference URL; Performance and shot blocking review
+
+E02-S18-P03 | 886.751–902.0 seconds | HQ03
+Tighter frontal shot as Barkington ends statement and looks sharply toward unseen assistant.
+DIALOGUE:
+chairman_barkington: We will not discuss individual cases in public. Nor will we be pressured by a handful of noisy kittens.
+chairman_barkington: End the statement there. And find out who gave them the attachment.
+REFERENCES:
+HQ03 — https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/f8486a01c351cbe6.jpg
+Barkington Orders — https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/562eac0bfb4963cd.jpg
+TO PREPARE: Prepare legible evidence/screen graphics as controlled inserts; do not rely on generated fine text; Assemble public shot audio and verify every reference URL; Performance and shot blocking review
+
+E02-S19-P01 | 902.0–922.263 seconds | LOC14
+NIP7 studio medium three-shot: British cat presenter introduces evidence, Trixie beside Byte answers.
+DIALOGUE:
+nip7_anchor: The records we have reviewed show a targeted instruction, not a random safety check.
+nip7_anchor: The order identifies District Seven recipients and links payment restrictions with tenancy reviews.
+trixie: These families received food. Hours later, they couldn't spend their own wages.
+REFERENCES:
+LOC14 - NIP7 investigative newsroom — https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/dc97cfe5c9eba591.jpg
+NIP7 Anchor — https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/da9e9b230cb00baf.jpg
+Trixie - CatGirl — https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/51c0358d041cc3ba.jpg
+Byte — https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/a23590fe66ebce01.jpg
+TO PREPARE: Prepare legible evidence/screen graphics as controlled inserts; do not rely on generated fine text; Assemble public shot audio and verify every reference URL; Performance and shot blocking review
+
+E02-S19-P02 | 922.263–937.835 seconds | LOC14
+Alternating emphasis within continuous three-shot: Byte points to timeline and presenter challenges scope.
+DIALOGUE:
+byte: We compared the signed order with shop receipts and the issue times. The sequence matches.
+nip7_anchor: Does this establish what happens in every district?
+byte: No. It establishes what happened to this group. That's what we're asking them to answer for.
+REFERENCES:
+LOC14 - NIP7 investigative newsroom — https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/dc97cfe5c9eba591.jpg
+NIP7 Anchor — https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/da9e9b230cb00baf.jpg
+Trixie - CatGirl — https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/51c0358d041cc3ba.jpg
+Byte — https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/a23590fe66ebce01.jpg
+TO PREPARE: Prepare legible evidence/screen graphics as controlled inserts; do not rely on generated fine text; Assemble public shot audio and verify every reference URL; Performance and shot blocking review
+
+E02-S19-P03 | 937.835–962.0 seconds | LOC14
+Presenter remains at desk with Trixie and Byte; redacted document board only, no personal names.
+DIALOGUE:
+nip7_anchor: Goodboy Global denies that anyone was singled out. That denial does not explain the selection field in its own order.
+trixie: Open the accounts. Let people buy dinner. They shouldn't need a television appearance to get that far.
+nip7_anchor: Residents' personal details have been withheld. The verified documents and appeal instructions will remain available.
+REFERENCES:
+LOC14 - NIP7 investigative newsroom — https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/dc97cfe5c9eba591.jpg
+NIP7 Anchor — https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/da9e9b230cb00baf.jpg
+Trixie - CatGirl — https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/51c0358d041cc3ba.jpg
+Byte — https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/a23590fe66ebce01.jpg
+TO PREPARE: Prepare legible evidence/screen graphics as controlled inserts; do not rely on generated fine text; Assemble public shot audio and verify every reference URL; Performance and shot blocking review
+
+E02-S20-P01 | 962.0–983.808 seconds | HQ10
+Annex queue medium: resident approaches Onyx and Neon with folder; Trixie stands nearby.
+DIALOGUE:
+civilian_2: Is this the right queue? I've got the receipt, the decline notice and a very bad mood.
+onyx: All three are useful. The first two go in the folder.
+neon: Write your own case number at the top. Don't borrow somebody else's. Yours has to follow your account.
+REFERENCES:
+CIV02 - Civilian Cat — https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/4562760aa1996806.jpg
+Onyx — https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/8ac469710ff37bec.jpg
+Neon — https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/c59f876dfb3540bb.jpg
+Trixie - CatGirl — https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/51c0358d041cc3ba.jpg
+TO PREPARE: HQ10 corrected location sheet not yet canonical/public; Assemble public shot audio and verify every reference URL; Performance and shot blocking review
+
+E02-S20-P02 | 983.808–1001.669 seconds | HQ10
+Slow lateral view of a small orderly civilian-cat queue behind the four, Trixie explains collective pattern.
+DIALOGUE:
+civilian_2: There's a lot of us now.
+trixie: That's why they can't keep calling it one confused customer.
+onyx: Written appeals go in that slot. They must give you a dated acknowledgment. Don't leave without it.
+REFERENCES:
+CIV02 - Civilian Cat — https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/4562760aa1996806.jpg
+Onyx — https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/8ac469710ff37bec.jpg
+Neon — https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/c59f876dfb3540bb.jpg
+Trixie - CatGirl — https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/51c0358d041cc3ba.jpg
+TO PREPARE: HQ10 corrected location sheet not yet canonical/public; Assemble public shot audio and verify every reference URL; Performance and shot blocking review
+
+E02-S20-P03 | 1001.669–1016.0 seconds | HQ10
+Onyx points to appeal slot, Neon warns about fee page; resident and Trixie exchange recognition.
+DIALOGUE:
+neon: And save page thirty-seven if they charge you for the apology.
+civilian_2: I thought that was just me.
+trixie: That's what they were counting on.
+REFERENCES:
+CIV02 - Civilian Cat — https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/4562760aa1996806.jpg
+Onyx — https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/8ac469710ff37bec.jpg
+Neon — https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/c59f876dfb3540bb.jpg
+Trixie - CatGirl — https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/51c0358d041cc3ba.jpg
+TO PREPARE: HQ10 corrected location sheet not yet canonical/public; Assemble public shot audio and verify every reference URL; Performance and shot blocking review
+
+E02-S21-P01 | 1016.0–1034.06 seconds | HQ10
+Annex terminal three-shot as Neon reads decision, Trixie questions pending status.
+DIALOGUE:
+neon: Manual review decision. Payment access restored pending case resolution.
+trixie: Pending? Read the next line. What are they keeping locked?
+neon: The tenant review is deferred for thirty days. Utilities unchanged. They've reopened the accounts.
+REFERENCES:
+Neon — https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/c59f876dfb3540bb.jpg
+Trixie - CatGirl — https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/51c0358d041cc3ba.jpg
+Onyx — https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/8ac469710ff37bec.jpg
+TO PREPARE: HQ10 corrected location sheet not yet canonical/public; Assemble public shot audio and verify every reference URL; Performance and shot blocking review
+
+E02-S21-P02 | 1034.06–1050.124 seconds | HQ10
+Onyx reacts; Trixie asks for real shop payment and Neon raises communicator.
+DIALOGUE:
+onyx: Not because we pressed a magic button. Because half the district is standing under their camera with receipts.
+trixie: Call the shop. I want an actual payment to go through before we celebrate a sentence.
+neon: Byte's there. He's trying it now.
+REFERENCES:
+Neon — https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/c59f876dfb3540bb.jpg
+Trixie - CatGirl — https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/51c0358d041cc3ba.jpg
+Onyx — https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/8ac469710ff37bec.jpg
+TO PREPARE: HQ10 corrected location sheet not yet canonical/public; Assemble public shot audio and verify every reference URL; Performance and shot blocking review
+
+E02-S21-P03 | 1050.124–1066.0 seconds | HQ10
+Hold on Trixie, Onyx and Neon listening: Byte speaks OFFSCREEN through communicator, never materialize him in annex.
+DIALOGUE:
+byte: It worked. Money moved. Receipt printed. The clerk is complaining about the paper bill.
+trixie: Good. Complaining about normal things. I'll take it.
+onyx: Then can we leave before I become part of the furniture?
+REFERENCES:
+Neon — https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/c59f876dfb3540bb.jpg
+Trixie - CatGirl — https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/51c0358d041cc3ba.jpg
+Onyx — https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/8ac469710ff37bec.jpg
+TO PREPARE: HQ10 corrected location sheet not yet canonical/public; Assemble public shot audio and verify every reference URL; Performance and shot blocking review
+
+E02-S22-P01 | 1066.0–1081.565 seconds | LOC08
+Market handover with resident, Byte and Trixie; resident holds successful payment receipt.
+DIALOGUE:
+civilian_1: It went through. I watched it three times because I didn't believe it.
+byte: One payment. Please don't try a fourth time. We've done enough accounting today.
+trixie: Two meals for building nine. Onyx has the next crate.
+REFERENCES:
+LOC08 - District 7 market — https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/c0de39fba4f7ec01.jpg
+CIV01 - Civilian Cat — https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/d0c4b245ed3a3745.jpg
+Byte — https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/a23590fe66ebce01.jpg
+Trixie - CatGirl — https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/51c0358d041cc3ba.jpg
+Onyx — https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/8ac469710ff37bec.jpg
+Neon — https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/c59f876dfb3540bb.jpg
+TO PREPARE: Assemble public shot audio and verify every reference URL; Performance and shot blocking review
+
+E02-S22-P02 | 1081.565–1096.5720000000001 seconds | LOC08
+Onyx carries crate beside Neon cart; Byte points at the brick brake while they joke.
+DIALOGUE:
+onyx: And Neon has invented brakes. Apparently fear is also an effective educational method.
+neon: They're excellent brakes. You put a large object in front of the wheels.
+byte: That's a brick.
+REFERENCES:
+LOC08 - District 7 market — https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/c0de39fba4f7ec01.jpg
+CIV01 - Civilian Cat — https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/d0c4b245ed3a3745.jpg
+Byte — https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/a23590fe66ebce01.jpg
+Trixie - CatGirl — https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/51c0358d041cc3ba.jpg
+Onyx — https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/8ac469710ff37bec.jpg
+Neon — https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/c59f876dfb3540bb.jpg
+TO PREPARE: Assemble public shot audio and verify every reference URL; Performance and shot blocking review
+
+E02-S22-P03 | 1096.572–1110.0 seconds | LOC08
+Resident gestures toward upstairs entrance; Trixie smiles and accepts invitation as crew gather.
+DIALOGUE:
+neon: A locally sourced, manually operated braking solution.
+civilian_1: The little ones saved you a place upstairs, if you haven't eaten.
+trixie: We haven't. That sounds better than another victory speech.
+REFERENCES:
+LOC08 - District 7 market — https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/c0de39fba4f7ec01.jpg
+CIV01 - Civilian Cat — https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/d0c4b245ed3a3745.jpg
+Byte — https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/a23590fe66ebce01.jpg
+Trixie - CatGirl — https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/51c0358d041cc3ba.jpg
+Onyx — https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/8ac469710ff37bec.jpg
+Neon — https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/c59f876dfb3540bb.jpg
+TO PREPARE: Assemble public shot audio and verify every reference URL; Performance and shot blocking review
+
+E02-S23-P01 | 1110.0–1124.845 seconds | LOC02
+Lounge five-cat wide around supper; Ghost shows temporary lease notice, Trixie and Byte respond.
+DIALOGUE:
+ghost: Thirty days on the lease. That's what the notice actually says.
+trixie: Then we use the thirty days. We don't pretend it's forever.
+byte: The ledger still links everything together. We fixed these accounts. We didn't fix who controls them.
+REFERENCES:
+LOC02 - Resistance warehouse lounge — https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/9ccf57446d209d87.jpg
+Ghost — https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/61dc338e08cb2385.jpg
+Trixie - CatGirl — https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/51c0358d041cc3ba.jpg
+Byte — https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/a23590fe66ebce01.jpg
+Neon — https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/c59f876dfb3540bb.jpg
+Onyx — https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/8ac469710ff37bec.jpg
+TO PREPARE: Assemble public shot audio and verify every reference URL; Performance and shot blocking review
+
+E02-S23-P02 | 1124.845–1141.315 seconds | LOC02
+Medium across table on Neon and Onyx; apology stack wedges door open in background.
+DIALOGUE:
+neon: Can we have five minutes where fixing dinner counts as winning?
+onyx: Absolutely. The apology is holding the door open. Nobody touch it. It's finally doing its job.
+trixie: Dinner counts. The accounts count. The clerk signing that receipt counts.
+REFERENCES:
+LOC02 - Resistance warehouse lounge — https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/9ccf57446d209d87.jpg
+Ghost — https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/61dc338e08cb2385.jpg
+Trixie - CatGirl — https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/51c0358d041cc3ba.jpg
+Byte — https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/a23590fe66ebce01.jpg
+Neon — https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/c59f876dfb3540bb.jpg
+Onyx — https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/8ac469710ff37bec.jpg
+TO PREPARE: Assemble public shot audio and verify every reference URL; Performance and shot blocking review
+
+E02-S23-P03 | 1141.315–1155.0 seconds | LOC02
+Ghost and Byte keep evidence folder beside food; Neon teases Byte, all five remain in established seats.
+DIALOGUE:
+ghost: And keeping the records means they can't tell us tomorrow that none of it happened.
+byte: I've got one appendix left to check. Then I'm eating something with no columns in it.
+neon: Please don't make a spreadsheet for dessert.
+REFERENCES:
+LOC02 - Resistance warehouse lounge — https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/9ccf57446d209d87.jpg
+Ghost — https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/61dc338e08cb2385.jpg
+Trixie - CatGirl — https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/51c0358d041cc3ba.jpg
+Byte — https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/a23590fe66ebce01.jpg
+Neon — https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/c59f876dfb3540bb.jpg
+Onyx — https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/8ac469710ff37bec.jpg
+TO PREPARE: Assemble public shot audio and verify every reference URL; Performance and shot blocking review
+
+E02-S24-P01 | 1155.0–1169.484 seconds | LOC03
+Lair desk three-shot: Ghost stops Byte closing appendix; Trixie leans in to ask relocation destination.
+DIALOGUE:
+ghost: Byte. Don't close that appendix. Go back one page.
+byte: District Seven parcel schedule. Proposed relocation and redevelopment review. That wasn't in the payment notice.
+trixie: Relocation to where?
+REFERENCES:
+LOC03 - Hacking operations — https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/678400a023f22df4.jpg
+Ghost — https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/61dc338e08cb2385.jpg
+Byte — https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/a23590fe66ebce01.jpg
+Trixie - CatGirl — https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/51c0358d041cc3ba.jpg
+TO PREPARE: Prepare legible evidence/screen graphics as controlled inserts; do not rely on generated fine text; Assemble public shot audio and verify every reference URL; Performance and shot blocking review
+
+E02-S24-P02 | 1169.484–1187.233 seconds | LOC03
+Medium on Ghost showing parcel schedule as Byte and Trixie realize wider threat.
+DIALOGUE:
+ghost: It doesn't say. Just clearance phases and addresses. Our warehouse is in the first group.
+byte: So the account freeze wasn't just to punish the deliveries.
+trixie: It was to make staying here impossible.
+ghost: We need more than this page before we know how far it goes.
+REFERENCES:
+LOC03 - Hacking operations — https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/678400a023f22df4.jpg
+Ghost — https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/61dc338e08cb2385.jpg
+Byte — https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/a23590fe66ebce01.jpg
+Trixie - CatGirl — https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/51c0358d041cc3ba.jpg
+TO PREPARE: Prepare legible evidence/screen graphics as controlled inserts; do not rely on generated fine text; Assemble public shot audio and verify every reference URL; Performance and shot blocking review
+
+E02-S24-P03 | 1187.233–1200.0 seconds | LOC03
+Slow push on Trixie closing evidence folder; Ghost and Byte respond, end on unresolved warehouse address.
+DIALOGUE:
+trixie: Then keep it with the others. Every order, every receipt, every lie.
+byte: There goes my evening.
+trixie: You can eat first. Tomorrow, we find out who's planning to take our home.
+REFERENCES:
+LOC03 - Hacking operations — https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/678400a023f22df4.jpg
+Ghost — https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/61dc338e08cb2385.jpg
+Byte — https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/a23590fe66ebce01.jpg
+Trixie - CatGirl — https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/51c0358d041cc3ba.jpg
+TO PREPARE: Prepare legible evidence/screen graphics as controlled inserts; do not rely on generated fine text; Assemble public shot audio and verify every reference URL; Performance and shot blocking review

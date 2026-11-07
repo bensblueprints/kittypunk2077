@@ -1,0 +1,20 @@
+{
+  "id": "E02-S01-D02",
+  "role_id": "neon",
+  "voice_id": "4e32WqNVWRquDa1OcRYZ",
+  "voice_name": "Ryan — Product Reviewer",
+  "text": "The wheels are experimental. The brakes are more of a future ambition.",
+  "status": "review_take",
+  "scene": "E02-S01",
+  "duration_sec": 4.086712,
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.5,
+    "similarity_boost": 0.75,
+    "style": 0.15,
+    "use_speaker_boost": true
+  },
+  "request_id": "NnRzqAj5nlhc5lw9TiUd",
+  "provider_character_cost": "15",
+  "sha256": "dc698afd1d1ea6437289154834a0d3227e3b3cb44c550c42aefea4d210b534a3"
+}

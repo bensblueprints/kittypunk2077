@@ -1,0 +1,20 @@
+{
+  "id": "E02-S15-D08",
+  "role_id": "byte",
+  "voice_id": "wo6udizrrtpIxWGp2qJk",
+  "voice_name": "Northern Terry",
+  "text": "That should fit on one page.",
+  "status": "review_take",
+  "scene": "E02-S15",
+  "duration_sec": 1.486077,
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.5,
+    "similarity_boost": 0.75,
+    "style": 0.15,
+    "use_speaker_boost": true
+  },
+  "request_id": "r2dqXtaWZA79oZuxakzW",
+  "provider_character_cost": "6",
+  "sha256": "aaccf274babcf855d54b2b9dc0bb733344d8ae17bb4b3d7239963314ff79a552"
+}

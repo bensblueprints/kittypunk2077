@@ -1,0 +1,309 @@
+S01E02 — TERMS AND PURRDITIONS
+FIRST DIALOGUE DRAFT — not recorded; 20-minute picture target
+
+E02-S01 — Breakfast on Wheels (45s planned)
+The five deliver the first community salmon crates. A family has food for tonight. Byte insists on keeping a receipt for every handover.
+
+TRIXIE: Easy with that crate. We rescued the salmon. We don't need to launch it.
+NEON: The wheels are experimental. The brakes are more of a future ambition.
+ONYX: Then your future ambition is standing downhill with a mattress.
+BYTE: One crate, six households. Every delivery gets a receipt. Nobody disappears between columns.
+GHOST: You made a spreadsheet for breakfast?
+BYTE: Breakfast deserves better administration than this city.
+TRIXIE: Mrs. Fen's building first. She said the little ones haven't had a proper meal since Tuesday.
+NEON: And after that, we finally sleep?
+ONYX: After that, you invent brakes.
+
+E02-S02 — Payment Declined (45s planned)
+A customer can see funds but cannot pay. The clerk tries a second account; it is blocked too. Trixie recognizes the delivery recipient list.
+
+SEVEN_CATLEVEN_CLERK: It says declined. You've got money. It just won't let me take it.
+CIVILIAN_1: I checked this morning. That's my whole week's wages sitting right there.
+TRIXIE: Try mine. We'll sort it out later.
+SEVEN_CATLEVEN_CLERK: Yours is frozen too. That's the fourth one since you came in.
+BYTE: Wait. Same notice, same timestamp. Can I see the receipt from the failed payment?
+CIVILIAN_1: Am I in trouble because you brought us food?
+TRIXIE: No. Getting dinner doesn't make you a criminal.
+BYTE: But someone just made it a reason to lock your account.
+
+E02-S03 — Sorry Costs Extra (50s planned)
+The help terminal prints a thirty-seven-page apology and charges a processing fee. Onyx asks whether the apology needs an apology. Neon saves the reference number.
+
+NEON: I found the help button. That's promising. Help usually means help.
+SEVEN_CATLEVEN_CLERK: Not on that machine. Stand back when it starts printing.
+ONYX: How long is this apology?
+NEON: Thirty-seven pages. They must feel absolutely terrible.
+SEVEN_CATLEVEN_CLERK: There's the processing fee. Bottom of page thirty-seven.
+ONYX: They're charging her for being sorry to her?
+NEON: Would you like to dispute the apology fee? Oh, brilliant. That has a fee too.
+TRIXIE: Keep the pages. All of them. This isn't just the shop's problem anymore.
+BYTE: And keep that case number. It's the first thing today that might actually be useful.
+
+E02-S04 — Three Locks, One Key (50s planned)
+Byte compares food-payment IDs, the warehouse lease and utility access. The same corporate identity ledger governs all three. Ghost warns that an overwrite would destroy provenance.
+
+BYTE: Food account. Electricity account. Warehouse lease. Different screens, same customer number underneath.
+GHOST: Not customer. Identity. They attached everything to one identity record.
+TRIXIE: So if they lock one thing, they lock your whole life?
+BYTE: Not automatically. Somebody checked three separate boxes. Look at the timestamps.
+GHOST: Payment access, tenant verification, utility review. All changed inside the same minute.
+TRIXIE: Can you undo it?
+BYTE: I can make the screen look different. That doesn't mean the shop will accept a payment.
+GHOST: And changing the record could destroy the proof of who changed it first.
+TRIXIE: Then we find the original order. I want the paw that signed it.
+
+E02-S05 — The Freeze Order (55s planned)
+Barkington authorizes enhanced fraud review for District 7 recipients and an accelerated lease inspection. The public explanation is administrative protection.
+
+CHAIRMAN_BARKINGTON: Food handed out without supervision creates expectations. Expectations create demands.
+CHAIRMAN_BARKINGTON: Mark the recipients for enhanced review. Financial access, tenancy, the usual precautions.
+CHAIRMAN_BARKINGTON: No, not the entire city. District Seven. Keep the filter exactly where it is.
+CHAIRMAN_BARKINGTON: We are protecting vulnerable residents from suspicious generosity. Put that in the public notice.
+CHAIRMAN_BARKINGTON: The warehouse lease comes up next month? Then inspect it this afternoon.
+CHAIRMAN_BARKINGTON: A lawful notice, delivered politely. I don't need a spectacle. I need them occupied.
+CHAIRMAN_BARKINGTON: And remove the word punishment from the draft. Have we learned nothing about presentation?
+
+E02-S06 — Receipts on the Table (50s planned)
+The crew lays paper receipts beside matching account notices. Trixie wants immediate relief; Byte points out that erasing balances also erases the overcharge evidence.
+
+NEON: The table is officially full. Any more paperwork and we'll have to eat standing up.
+ONYX: We can't buy food. Finally, a problem that solves itself.
+TRIXIE: We have enough in the crates for tonight. We don't have enough for every night.
+BYTE: These are the delivery receipts. Every frozen customer on this stack received a crate.
+GHOST: That's a pattern. It isn't the signed instruction yet.
+TRIXIE: They did this because we helped. How much more proof do we need?
+BYTE: Enough that they can't call it a guess. Enough to get those accounts opened again.
+TRIXIE: Then keep the receipts. We fix the freeze, and we keep the proof.
+ONYX: Good. I was getting attached to being angry for a reason.
+
+E02-S07 — Keep the Evidence (55s planned)
+They choose to preserve the signed account-change record and appeal the freeze. Ghost needs a legitimate copy exposed through a public service case; no magical total access.
+
+TRIXIE: Tell me what you need, not what you wish this system would let you do.
+GHOST: A real appeal number. The account holder can request the decision record through an appeal.
+BYTE: And a copy of the order before anyone rewrites the explanation.
+TRIXIE: We could just clear the balances. Give everyone a clean slate.
+BYTE: And erase who was overcharged, who paid, who still needs their money back?
+GHOST: A blank record helps the dogs too. Nothing left for anyone to challenge.
+TRIXIE: All right. No erasing. We keep the ugly bits exactly where they can be seen.
+BYTE: You take the appeal. We'll compare the records when it opens.
+TRIXIE: And nobody does anything that makes dinner depend on a clever guess.
+
+E02-S08 — Offline Does Not Mean Forgotten (45s planned)
+Neon makes a paper-first delivery register. Onyx verifies names at the door. A resident fears losing access by being listed; they explain what is and is not recorded.
+
+NEON: Name, building, number of meals. Nothing else goes on the delivery sheet.
+CIVILIAN_2: They already used one list against us. Why should I put my name on another?
+ONYX: You shouldn't have to trust a screen you can't see. You keep your half of the receipt.
+NEON: This copy stays here, on paper. We don't send your name to the news.
+CIVILIAN_2: And if the dogs come looking for it?
+ONYX: Then we tell them it's a dinner list. Because that's what it is.
+NEON: You can use your building number instead. We need to find your door, not own your life.
+CIVILIAN_2: Building nine. Third floor. There are two of us.
+ONYX: Two meals. No lecture. That's our entire terms and conditions.
+
+E02-S09 — Take a Number (50s planned)
+At the public-service annex, the number dispenser sends them to a second dispenser. Onyx starts documenting every rule instead of breaking the queue.
+
+NEON: Welcome to Goodboy Global. Please take a number to receive your queue number.
+ONYX: I refuse to believe those are two different numbers.
+TRIXIE: They are. We have thirty-eight. We need a ticket to stand in line for thirty-eight.
+NEON: Maybe the first number is emotional support for the second number.
+ONYX: There. The rules board. If they're going to build a maze, I'm reading the map.
+TRIXIE: We're not spending all day in here.
+ONYX: We might. But I'm making it their problem too.
+NEON: I'll photograph the board before somebody changes the rules halfway through the queue.
+
+E02-S10 — A Fee to Dispute a Fee (55s planned)
+A terminal demands payment before accepting a frozen-account complaint. Trixie finds the hardship exception; the terminal demands proof they cannot pay.
+
+TRIXIE: It wants a payment before it will accept the frozen-account complaint.
+ONYX: Of course it does. You can only complain about being locked out if you aren't locked out.
+NEON: There! Hardship exception. That's us. We're extremely hardshipped.
+TRIXIE: Proof of inability to pay. We just gave it that. It declined the payment.
+ONYX: Ask it to print the decline. Make the stupid thing testify against itself.
+NEON: Paper out. Naturally. The most powerful corporation in the city has run out of paper.
+TRIXIE: Use the apology. Thirty-six pages are blank on the back.
+ONYX: At last, an apology with practical value.
+TRIXIE: Keep page thirty-seven. I'm not losing the proof they charged us for it.
+
+E02-S11 — Every Posted Rule (50s planned)
+Onyx reads the entire posted policy and spots a paper-appeal option. He calmly refuses the express fee and requests the required acknowledgment.
+
+ONYX: Section eight. A person unable to access electronic payment may lodge a written appeal.
+NEON: It says may. That's not the same as must be made miserable while trying.
+TRIXIE: Where do we lodge it? Every counter points back to the terminal.
+ONYX: Section nine. The receiving office must issue a dated acknowledgment. This is the receiving office.
+NEON: You've been reading that board for twenty minutes. You memorized the whole thing?
+ONYX: I got bored. Then I got annoyed. It's a very effective educational method.
+TRIXIE: There's the paper slot. Put the receipt on top, then the account notice.
+ONYX: And now we wait for the acknowledgment. Their rule. Their machine. Their problem.
+NEON: It printed one! Look at that. We successfully asked for help. Historic day.
+
+E02-S12 — Signed and Dated (55s planned)
+The case attachment contains the signed freeze-order record. Byte compares its time to the public explanation and delivery receipts. They preserve an unmodified copy.
+
+BYTE: We have the appeal number. The attachments just opened. Ghost, look at the first page.
+GHOST: Signed freeze order. District Seven recipients. Payment and tenancy review in the same instruction.
+BYTE: The order came before their suspicious-activity notice. They chose the people first.
+GHOST: Don't rename the original. Copy it into the evidence folder and keep the issue time.
+BYTE: Already doing it. Original, working copy, and a printed copy for Trixie to wave angrily.
+GHOST: Keep the signature page attached. A screenshot of one sentence won't prove the rest.
+BYTE: You think they'll say we made it up?
+GHOST: I think we should make that a difficult thing to say.
+BYTE: Good. Difficult is one of my better subjects.
+
+E02-S13 — Protection on Television (45s planned)
+WOOF7 calls the freezes a voluntary consumer-protection review. Cut to affected residents unable to buy supper; broadcast stays in the physical television when viewed in-world.
+
+WOOF7_ANCHOR: Goodboy Global has introduced a voluntary consumer-protection review for selected accounts.
+WOOF7_ANCHOR: Residents are reminded that a temporary restriction is not a punishment. It is an opportunity to demonstrate compliance.
+WOOF7_ANCHOR: The company says ordinary shopping will resume as soon as the necessary checks are complete.
+CIVILIAN_1: Voluntary? Nobody asked me.
+SEVEN_CATLEVEN_CLERK: They didn't ask the fish either. It's going warm while that machine thinks about your money.
+CIVILIAN_1: My wages are still there. Every time I look, they're still there.
+SEVEN_CATLEVEN_CLERK: Put the salmon in your bag. We'll settle the receipt when they unlock it.
+CIVILIAN_1: You could get in trouble for that.
+SEVEN_CATLEVEN_CLERK: Then they'd better bring a longer apology.
+
+E02-S14 — The Lease Clock (50s planned)
+A notice on the warehouse door gives a near-term compliance deadline. The organic officer delivers paperwork, while the robot-factory design remains separate.
+
+DOG_GUARD_A: Compliance notice. I'm required to deliver it to the registered tenant.
+TRIXIE: That would be us. What's wrong with the building this time?
+DOG_GUARD_A: Your tenant verification has changed. You have until the posted deadline to resolve it.
+ONYX: It changed because you froze the account we use to verify it.
+DOG_GUARD_A: I'm delivering the notice. I don't control the account.
+TRIXIE: Then write down that we received it and disputed it. Both things. Not just the convenient one.
+DOG_GUARD_A: There's no box for that.
+ONYX: There's a whole blank side on the paper. Be creative.
+DOG_GUARD_A: I'll note the dispute. Keep your copy.
+TRIXIE: We are getting very good at keeping copies.
+
+E02-S15 — Copy, Do Not Erase (50s planned)
+Trixie declines the tempting destructive shortcut. Byte creates a comparison package containing receipts, timestamps and the signed order, with resident details withheld from the public copy.
+
+TRIXIE: We can make their numbers vanish, or we can make their explanation fall apart.
+BYTE: The second one gets people their own money back. The first just starts another argument.
+GHOST: This package has the order, the issue times and the delivery receipts. Public copy has the residents' details removed.
+TRIXIE: Keep the full copy for their appeals. Nobody gets dragged onto television because we wanted a better headline.
+BYTE: And here's Barkington's signature. Large enough even WOOF7 can read it.
+GHOST: We can prove the restriction followed the delivery list. Don't claim anything the documents don't show.
+TRIXIE: Fine. No speeches about secret world domination. Just the very obvious local domination.
+BYTE: That should fit on one page.
+TRIXIE: Good. I'm developing a personal hatred of page thirty-seven.
+
+E02-S16 — The Appeal Token (50s planned)
+Neon brings the acknowledgment and the preserved attachments back to the terminal. The receipt number unlocks a manual review channel hidden in plain sight.
+
+NEON: Acknowledgment number accepted. The manual review channel is open.
+ONYX: Imagine that. An office that responds when you follow its own instructions exactly.
+TRIXIE: Attach the freeze order and the payment decline. We need a decision, not another receipt.
+NEON: It wants corroborating transaction evidence from a registered shop.
+TRIXIE: The clerk's receipts. Byte is already there.
+ONYX: What does the timer mean?
+NEON: The case closes if we don't finish before the office closes. Because apparently tomorrow doesn't exist.
+TRIXIE: Keep this session open. I'll call Byte. We are not starting this queue again.
+ONYX: I may actually eat the number dispenser if we do.
+
+E02-S17 — The Clerk’s Receipt (55s planned)
+The shopkeeper adds a witnessed receipt showing the same customers paid normally before the order. The clerk risks extra scrutiny but chooses to sign.
+
+BYTE: We need a witnessed receipt from before the freeze. Same customer, same account, normal payment.
+SEVEN_CATLEVEN_CLERK: I've got it. But signing this puts my shop on their list too.
+CIVILIAN_1: You don't have to do that for me. You've already let me take the food.
+SEVEN_CATLEVEN_CLERK: And tomorrow? And the next person? I can't run a shop by pretending nobody's hungry.
+BYTE: We won't put your signature on the news without asking. This copy is for the appeal.
+SEVEN_CATLEVEN_CLERK: Then hand me the pen. And spell the shop's name right. They always get that wrong.
+CIVILIAN_1: Thank you. I don't know what else to say.
+SEVEN_CATLEVEN_CLERK: Come back when you can pay. Argue with me about the prices. Normal things.
+BYTE: Sent. Trixie, you've got your last attachment.
+
+E02-S18 — Barkington’s Denial (45s planned)
+Barkington insists the restrictions are routine and that no neighborhood is being singled out. A screen beside him shows the District 7 selection field.
+
+CHAIRMAN_BARKINGTON: Nobody is being singled out. This is a routine review conducted without prejudice.
+CHAIRMAN_BARKINGTON: The people spreading these allegations would prefer that we abandon responsible administration entirely.
+CHAIRMAN_BARKINGTON: Of course the restrictions are temporary. They will last precisely as long as they are necessary.
+CHAIRMAN_BARKINGTON: Move that screen out of the camera shot. The district filter is an internal matter.
+CHAIRMAN_BARKINGTON: We will not discuss individual cases in public. Nor will we be pressured by a handful of noisy kittens.
+CHAIRMAN_BARKINGTON: End the statement there. And find out who gave them the attachment.
+
+E02-S19 — NIP7 Puts It Together (60s planned)
+The British cat presenter explains the signed order and the timeline, distinguishing proven retaliation from unanswered questions. Residents are not exposed on screen.
+
+NIP7_ANCHOR: The records we have reviewed show a targeted instruction, not a random safety check.
+NIP7_ANCHOR: The order identifies District Seven recipients and links payment restrictions with tenancy reviews.
+TRIXIE: These families received food. Hours later, they couldn't spend their own wages.
+BYTE: We compared the signed order with shop receipts and the issue times. The sequence matches.
+NIP7_ANCHOR: Does this establish what happens in every district?
+BYTE: No. It establishes what happened to this group. That's what we're asking them to answer for.
+NIP7_ANCHOR: Goodboy Global denies that anyone was singled out. That denial does not explain the selection field in its own order.
+TRIXIE: Open the accounts. Let people buy dinner. They shouldn't need a television appearance to get that far.
+NIP7_ANCHOR: Residents' personal details have been withheld. The verified documents and appeal instructions will remain available.
+
+E02-S20 — The Queue Turns Around (55s planned)
+Residents arrive with numbered paper appeals and their own receipts. Onyx helps them follow the rules the corporation expected nobody to read.
+
+CIVILIAN_2: Is this the right queue? I've got the receipt, the decline notice and a very bad mood.
+ONYX: All three are useful. The first two go in the folder.
+NEON: Write your own case number at the top. Don't borrow somebody else's. Yours has to follow your account.
+CIVILIAN_2: There's a lot of us now.
+TRIXIE: That's why they can't keep calling it one confused customer.
+ONYX: Written appeals go in that slot. They must give you a dated acknowledgment. Don't leave without it.
+NEON: And save page thirty-seven if they charge you for the apology.
+CIVILIAN_2: I thought that was just me.
+TRIXIE: That's what they were counting on.
+
+E02-S21 — Access Restored (50s planned)
+The manual review restores the flagged accounts. The terminal displays a temporary review decision, not permanent control over the ledger.
+
+NEON: Manual review decision. Payment access restored pending case resolution.
+TRIXIE: Pending? Read the next line. What are they keeping locked?
+NEON: The tenant review is deferred for thirty days. Utilities unchanged. They've reopened the accounts.
+ONYX: Not because we pressed a magic button. Because half the district is standing under their camera with receipts.
+TRIXIE: Call the shop. I want an actual payment to go through before we celebrate a sentence.
+NEON: Byte's there. He's trying it now.
+BYTE: It worked. Money moved. Receipt printed. The clerk is complaining about the paper bill.
+TRIXIE: Good. Complaining about normal things. I'll take it.
+ONYX: Then can we leave before I become part of the furniture?
+
+E02-S22 — Dinner Gets Delivered (45s planned)
+Payment succeeds at the shop and the delivery register balances. The same family from the opening gets supper. Byte keeps the final receipt.
+
+CIVILIAN_1: It went through. I watched it three times because I didn't believe it.
+BYTE: One payment. Please don't try a fourth time. We've done enough accounting today.
+TRIXIE: Two meals for building nine. Onyx has the next crate.
+ONYX: And Neon has invented brakes. Apparently fear is also an effective educational method.
+NEON: They're excellent brakes. You put a large object in front of the wheels.
+BYTE: That's a brick.
+NEON: A locally sourced, manually operated braking solution.
+CIVILIAN_1: The little ones saved you a place upstairs, if you haven't eaten.
+TRIXIE: We haven't. That sounds better than another victory speech.
+
+E02-S23 — Thirty Days Is Not Forever (45s planned)
+The warehouse receives a temporary reprieve. The crew celebrates a real win while acknowledging the shared ledger still exists. Onyx keeps the huge apology as a doorstop.
+
+GHOST: Thirty days on the lease. That's what the notice actually says.
+TRIXIE: Then we use the thirty days. We don't pretend it's forever.
+BYTE: The ledger still links everything together. We fixed these accounts. We didn't fix who controls them.
+NEON: Can we have five minutes where fixing dinner counts as winning?
+ONYX: Absolutely. The apology is holding the door open. Nobody touch it. It's finally doing its job.
+TRIXIE: Dinner counts. The accounts count. The clerk signing that receipt counts.
+GHOST: And keeping the records means they can't tell us tomorrow that none of it happened.
+BYTE: I've got one appendix left to check. Then I'm eating something with no columns in it.
+NEON: Please don't make a spreadsheet for dessert.
+
+E02-S24 — Redevelopment (45s planned)
+An appendix to the account record marks District 7 as a planned redevelopment zone. Trixie realizes the freeze was a pressure tactic connected to something larger.
+
+GHOST: Byte. Don't close that appendix. Go back one page.
+BYTE: District Seven parcel schedule. Proposed relocation and redevelopment review. That wasn't in the payment notice.
+TRIXIE: Relocation to where?
+GHOST: It doesn't say. Just clearance phases and addresses. Our warehouse is in the first group.
+BYTE: So the account freeze wasn't just to punish the deliveries.
+TRIXIE: It was to make staying here impossible.
+GHOST: We need more than this page before we know how far it goes.
+TRIXIE: Then keep it with the others. Every order, every receipt, every lie.
+BYTE: There goes my evening.
+TRIXIE: You can eat first. Tomorrow, we find out who's planning to take our home.

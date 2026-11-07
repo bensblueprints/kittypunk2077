@@ -1,0 +1,21 @@
+{
+  "id": "S12-W07",
+  "scene": "S12",
+  "speaker": "Ghost",
+  "role_id": "ghost",
+  "voice_id": "7fBwqIVI6wI1B4MuKqQi",
+  "text": "Let the decoy clear the doorway before you move. If they turn back, stay behind the bins. Nobody runs across an open camera shot.",
+  "status": "review_take",
+  "placement": "Integrate into existing action coverage; preserve current performances and scene boundaries. Visual/lip-sync review required.",
+  "duration_sec": 8.126984,
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.5,
+    "similarity_boost": 0.75,
+    "style": 0.15,
+    "use_speaker_boost": true
+  },
+  "request_id": "qt1I7pYhrTmcydNrFUR5",
+  "provider_character_cost": "28",
+  "sha256": "f4dd30ca10dc5cfe45f1a9b5645fc0930a70baba53e118d3de27c06e8d4b4e76"
+}

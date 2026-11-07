@@ -1,0 +1,20 @@
+{
+  "id": "E02-S08-D04",
+  "role_id": "neon",
+  "voice_id": "4e32WqNVWRquDa1OcRYZ",
+  "voice_name": "Ryan — Product Reviewer",
+  "text": "This copy stays here, on paper. We don't send your name to the news.",
+  "status": "review_take",
+  "scene": "E02-S08",
+  "duration_sec": 3.529433,
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.5,
+    "similarity_boost": 0.75,
+    "style": 0.15,
+    "use_speaker_boost": true
+  },
+  "request_id": "Vnp9Y7IasARMTr87TZo0",
+  "provider_character_cost": "15",
+  "sha256": "5568ba10057cf0a4b4159a90da0d8eaecfaa47e2a97ffcc82fa691d186e88c8b"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "E02-S21-D02",
+  "role_id": "trixie",
+  "voice_id": "dmWfLQZJq7wNPv9WmtiM",
+  "voice_name": "Emma — Wry, Gritty Hero",
+  "text": "Pending? Read the next line. What are they keeping locked?",
+  "status": "review_take",
+  "scene": "E02-S21",
+  "duration_sec": 2.972154,
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.35,
+    "similarity_boost": 0.8,
+    "style": 0.55,
+    "use_speaker_boost": true
+  },
+  "request_id": "2yIbY6GhWDj6h07mLlWR",
+  "provider_character_cost": "13",
+  "sha256": "f35a987240980bc2eedeff6736a667350f516ca995dcf2dd865cb35fb46f4512"
+}

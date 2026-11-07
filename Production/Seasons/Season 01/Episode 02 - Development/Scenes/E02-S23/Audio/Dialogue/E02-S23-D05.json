@@ -1,0 +1,20 @@
+{
+  "id": "E02-S23-D05",
+  "role_id": "onyx",
+  "voice_id": "uq0HIbNZKn11Hs5ifEdd",
+  "voice_name": "Harry — Fierce Warrior",
+  "text": "Absolutely. The apology is holding the door open. Nobody touch it. It's finally doing its job.",
+  "status": "review_take",
+  "scene": "E02-S23",
+  "duration_sec": 6.222948,
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.5,
+    "similarity_boost": 0.75,
+    "style": 0.15,
+    "use_speaker_boost": true
+  },
+  "request_id": "qhKuN7BGwrQ5es98GxDT",
+  "provider_character_cost": "21",
+  "sha256": "4bb8560940c7cf3a04f0be48065bc442838bed40dc731ae1dabddca345a6068b"
+}

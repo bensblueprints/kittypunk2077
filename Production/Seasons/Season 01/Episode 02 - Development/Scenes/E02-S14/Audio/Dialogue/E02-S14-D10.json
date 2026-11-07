@@ -1,0 +1,20 @@
+{
+  "id": "E02-S14-D10",
+  "role_id": "trixie",
+  "voice_id": "dmWfLQZJq7wNPv9WmtiM",
+  "voice_name": "Emma — Wry, Gritty Hero",
+  "text": "We are getting very good at keeping copies.",
+  "status": "review_take",
+  "scene": "E02-S14",
+  "duration_sec": 2.043356,
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.35,
+    "similarity_boost": 0.8,
+    "style": 0.55,
+    "use_speaker_boost": true
+  },
+  "request_id": "0fy5c53ivH4dsEBeQk2b",
+  "provider_character_cost": "9",
+  "sha256": "3e54194d52fa82fadc2f803add541c4ff7aabe7c6c4c30225af48c89e673f1f9"
+}

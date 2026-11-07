@@ -1,0 +1,20 @@
+{
+  "id": "E02-S01-D06",
+  "role_id": "byte",
+  "voice_id": "wo6udizrrtpIxWGp2qJk",
+  "voice_name": "Northern Terry",
+  "text": "Breakfast deserves better administration than this city.",
+  "status": "review_take",
+  "scene": "E02-S01",
+  "duration_sec": 2.972154,
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.5,
+    "similarity_boost": 0.75,
+    "style": 0.15,
+    "use_speaker_boost": true
+  },
+  "request_id": "CQ9LpOCFobPB4jhN2qwK",
+  "provider_character_cost": "12",
+  "sha256": "beccbeaccfd6599f3b540be7f03dff3ddb55609b77b19ad690cc5625ceeaab04"
+}

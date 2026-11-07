@@ -1,0 +1,20 @@
+{
+  "id": "E02-S16-D01",
+  "role_id": "neon",
+  "voice_id": "4e32WqNVWRquDa1OcRYZ",
+  "voice_name": "Ryan — Product Reviewer",
+  "text": "Acknowledgment number accepted. The manual review channel is open.",
+  "status": "review_take",
+  "scene": "E02-S16",
+  "duration_sec": 4.458231,
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.5,
+    "similarity_boost": 0.75,
+    "style": 0.15,
+    "use_speaker_boost": true
+  },
+  "request_id": "qnNaok3JdI0RyVub1PSQ",
+  "provider_character_cost": "15",
+  "sha256": "5f361da518913f596eb4df8163f6ace31a4b50b04a9eeccc5bf530a484239f74"
+}

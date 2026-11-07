@@ -1,0 +1,20 @@
+{
+  "id": "E02-S22-D04",
+  "role_id": "onyx",
+  "voice_id": "uq0HIbNZKn11Hs5ifEdd",
+  "voice_name": "Harry — Fierce Warrior",
+  "text": "And Neon has invented brakes. Apparently fear is also an effective educational method.",
+  "status": "review_take",
+  "scene": "E02-S22",
+  "duration_sec": 5.479909,
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.5,
+    "similarity_boost": 0.75,
+    "style": 0.15,
+    "use_speaker_boost": true
+  },
+  "request_id": "X537cT0bverviYVrEtqB",
+  "provider_character_cost": "19",
+  "sha256": "66b306b75977fd9dc746553f6b020f53689ce847df82a5fa0163d70ae78498ef"
+}

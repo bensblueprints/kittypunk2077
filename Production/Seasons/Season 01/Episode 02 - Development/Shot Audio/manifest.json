@@ -1,0 +1,933 @@
+[
+  {
+    "shot_id": "E02-S01-P01",
+    "file": "E02-S01-P01-dialogue-reference.wav",
+    "generation_duration_seconds": 17,
+    "edit_duration_seconds": 16.517,
+    "sha256": "7e70bc4d0df3f3153fb089f8b9f87225a4e636cf730dff43b66a0a33e6612f24",
+    "line_ids": [
+      "E02-S01-D01",
+      "E02-S01-D02",
+      "E02-S01-D03"
+    ],
+    "performance_status": "Recorded draft; producer approval not yet recorded"
+  },
+  {
+    "shot_id": "E02-S01-P02",
+    "file": "E02-S01-P02-dialogue-reference.wav",
+    "generation_duration_seconds": 15,
+    "edit_duration_seconds": 14.984,
+    "sha256": "62d925e9eb1d4a8179672914522eef34972c77410f825f4563748160abc27142",
+    "line_ids": [
+      "E02-S01-D04",
+      "E02-S01-D05",
+      "E02-S01-D06"
+    ],
+    "performance_status": "Recorded draft; producer approval not yet recorded"
+  },
+  {
+    "shot_id": "E02-S01-P03",
+    "file": "E02-S01-P03-dialogue-reference.wav",
+    "generation_duration_seconds": 14,
+    "edit_duration_seconds": 13.499,
+    "sha256": "6f2d7c3861668621b7a232a218a9f11e594d22beeb03fafb6a99c9205cc43aef",
+    "line_ids": [
+      "E02-S01-D07",
+      "E02-S01-D08",
+      "E02-S01-D09"
+    ],
+    "performance_status": "Recorded draft; producer approval not yet recorded"
+  },
+  {
+    "shot_id": "E02-S02-P01",
+    "file": "E02-S02-P01-dialogue-reference.wav",
+    "generation_duration_seconds": 17,
+    "edit_duration_seconds": 16.049,
+    "sha256": "44bda3c0857855b80060881c597cdf94c92abd2c6cdccb56a0e0c5626687a229",
+    "line_ids": [
+      "E02-S02-D01",
+      "E02-S02-D02",
+      "E02-S02-D03"
+    ],
+    "performance_status": "Recorded draft; producer approval not yet recorded"
+  },
+  {
+    "shot_id": "E02-S02-P02",
+    "file": "E02-S02-P02-dialogue-reference.wav",
+    "generation_duration_seconds": 15,
+    "edit_duration_seconds": 14.27,
+    "sha256": "5373bc86890343b97bd775426ddbbec89ed40268904aa6e85047baa54d30e8bd",
+    "line_ids": [
+      "E02-S02-D04",
+      "E02-S02-D05"
+    ],
+    "performance_status": "Recorded draft; producer approval not yet recorded"
+  },
+  {
+    "shot_id": "E02-S02-P03",
+    "file": "E02-S02-P03-dialogue-reference.wav",
+    "generation_duration_seconds": 14,
+    "edit_duration_seconds": 13.681,
+    "sha256": "aae28d952cd267623fdcdad584d0b6a630d5bd8216175272b8e8c4d593c2116c",
+    "line_ids": [
+      "E02-S02-D06",
+      "E02-S02-D07",
+      "E02-S02-D08"
+    ],
+    "performance_status": "Recorded draft; producer approval not yet recorded"
+  },
+  {
+    "shot_id": "E02-S03-P01",
+    "file": "E02-S03-P01-dialogue-reference.wav",
+    "generation_duration_seconds": 16,
+    "edit_duration_seconds": 15.528,
+    "sha256": "1a1e21879ef272a46a067b94d10d497bdc2bc1f757e9650e76c358f4e548756a",
+    "line_ids": [
+      "E02-S03-D01",
+      "E02-S03-D02",
+      "E02-S03-D03"
+    ],
+    "performance_status": "Recorded draft; producer approval not yet recorded"
+  },
+  {
+    "shot_id": "E02-S03-P02",
+    "file": "E02-S03-P02-dialogue-reference.wav",
+    "generation_duration_seconds": 15,
+    "edit_duration_seconds": 14.46,
+    "sha256": "cc541cb890886cf24e705e9805d4f88b2b3f1650f51bf8352ba6cacbfa60d2f8",
+    "line_ids": [
+      "E02-S03-D04",
+      "E02-S03-D05",
+      "E02-S03-D06"
+    ],
+    "performance_status": "Recorded draft; producer approval not yet recorded"
+  },
+  {
+    "shot_id": "E02-S03-P03",
+    "file": "E02-S03-P03-dialogue-reference.wav",
+    "generation_duration_seconds": 20,
+    "edit_duration_seconds": 19.012,
+    "sha256": "7036dea8e1ad5aaf4ca3fd854888345a4a2b2e88b87a5b344917152ce2f65911",
+    "line_ids": [
+      "E02-S03-D07",
+      "E02-S03-D08",
+      "E02-S03-D09"
+    ],
+    "performance_status": "Recorded draft; producer approval not yet recorded"
+  },
+  {
+    "shot_id": "E02-S04-P01",
+    "file": "E02-S04-P01-dialogue-reference.wav",
+    "generation_duration_seconds": 19,
+    "edit_duration_seconds": 18.54,
+    "sha256": "e5d9c9454b0102abef9d7646eac4740415db54b3d08410356549f067010fe684",
+    "line_ids": [
+      "E02-S04-D01",
+      "E02-S04-D02",
+      "E02-S04-D03"
+    ],
+    "performance_status": "Recorded draft; producer approval not yet recorded"
+  },
+  {
+    "shot_id": "E02-S04-P02",
+    "file": "E02-S04-P02-dialogue-reference.wav",
+    "generation_duration_seconds": 17,
+    "edit_duration_seconds": 16.264,
+    "sha256": "7f41d6a8bc45b7c248ced51f72c9f3ced004014bd6a843c1930a83e64c769f3c",
+    "line_ids": [
+      "E02-S04-D04",
+      "E02-S04-D05",
+      "E02-S04-D06"
+    ],
+    "performance_status": "Recorded draft; producer approval not yet recorded"
+  },
+  {
+    "shot_id": "E02-S04-P03",
+    "file": "E02-S04-P03-dialogue-reference.wav",
+    "generation_duration_seconds": 16,
+    "edit_duration_seconds": 15.196,
+    "sha256": "cafb7dcdc7c5f99a1d426db11f82888b3ff77e496378cc3dd33230260e0448fd",
+    "line_ids": [
+      "E02-S04-D07",
+      "E02-S04-D08",
+      "E02-S04-D09"
+    ],
+    "performance_status": "Recorded draft; producer approval not yet recorded"
+  },
+  {
+    "shot_id": "E02-S05-P01",
+    "file": "E02-S05-P01-dialogue-reference.wav",
+    "generation_duration_seconds": 20,
+    "edit_duration_seconds": 19.509,
+    "sha256": "3ad0da2947db572f6748bf86b175bd4160b739fe6afe581afbabc61d520328e3",
+    "line_ids": [
+      "E02-S05-D01",
+      "E02-S05-D02"
+    ],
+    "performance_status": "Recorded draft; producer approval not yet recorded"
+  },
+  {
+    "shot_id": "E02-S05-P02",
+    "file": "E02-S05-P02-dialogue-reference.wav",
+    "generation_duration_seconds": 27,
+    "edit_duration_seconds": 26.211,
+    "sha256": "6ae0725a20774f9e954d53bd6a32fbd34e0e67ce4a3bcd4c279e7931c817a5b8",
+    "line_ids": [
+      "E02-S05-D03",
+      "E02-S05-D04",
+      "E02-S05-D05"
+    ],
+    "performance_status": "Recorded draft; producer approval not yet recorded"
+  },
+  {
+    "shot_id": "E02-S05-P03",
+    "file": "E02-S05-P03-dialogue-reference.wav",
+    "generation_duration_seconds": 18,
+    "edit_duration_seconds": 17.28,
+    "sha256": "07b33fb1af06deb594a605f58d4fc30498fd67daa3dd85698d269801008d22a0",
+    "line_ids": [
+      "E02-S05-D06",
+      "E02-S05-D07"
+    ],
+    "performance_status": "Recorded draft; producer approval not yet recorded"
+  },
+  {
+    "shot_id": "E02-S06-P01",
+    "file": "E02-S06-P01-dialogue-reference.wav",
+    "generation_duration_seconds": 17,
+    "edit_duration_seconds": 16.55,
+    "sha256": "a1a46c557017e8601bdf295f437ef0536a85de98295a5fa932a6b635bb459a69",
+    "line_ids": [
+      "E02-S06-D01",
+      "E02-S06-D02",
+      "E02-S06-D03"
+    ],
+    "performance_status": "Recorded draft; producer approval not yet recorded"
+  },
+  {
+    "shot_id": "E02-S06-P02",
+    "file": "E02-S06-P02-dialogue-reference.wav",
+    "generation_duration_seconds": 17,
+    "edit_duration_seconds": 16.132,
+    "sha256": "d2a52a88bc8be160ab44951643e563d82841e783004c0d891834133585568853",
+    "line_ids": [
+      "E02-S06-D04",
+      "E02-S06-D05",
+      "E02-S06-D06"
+    ],
+    "performance_status": "Recorded draft; producer approval not yet recorded"
+  },
+  {
+    "shot_id": "E02-S06-P03",
+    "file": "E02-S06-P03-dialogue-reference.wav",
+    "generation_duration_seconds": 17,
+    "edit_duration_seconds": 16.318,
+    "sha256": "9750fc57b3d89ee22c24444883666d871a3a6122f614dbd1529ec8fe230eb012",
+    "line_ids": [
+      "E02-S06-D07",
+      "E02-S06-D08",
+      "E02-S06-D09"
+    ],
+    "performance_status": "Recorded draft; producer approval not yet recorded"
+  },
+  {
+    "shot_id": "E02-S07-P01",
+    "file": "E02-S07-P01-dialogue-reference.wav",
+    "generation_duration_seconds": 19,
+    "edit_duration_seconds": 18.929,
+    "sha256": "b19168ad0c9a6d482824091880a5a14d540180af50a511ce8d006b270b579893",
+    "line_ids": [
+      "E02-S07-D01",
+      "E02-S07-D02",
+      "E02-S07-D03"
+    ],
+    "performance_status": "Recorded draft; producer approval not yet recorded"
+  },
+  {
+    "shot_id": "E02-S07-P02",
+    "file": "E02-S07-P02-dialogue-reference.wav",
+    "generation_duration_seconds": 18,
+    "edit_duration_seconds": 17.815,
+    "sha256": "f876b56ec900691713fd2fd7b8aae50b424218329d008f9aa705cb68c5fade94",
+    "line_ids": [
+      "E02-S07-D04",
+      "E02-S07-D05",
+      "E02-S07-D06"
+    ],
+    "performance_status": "Recorded draft; producer approval not yet recorded"
+  },
+  {
+    "shot_id": "E02-S07-P03",
+    "file": "E02-S07-P03-dialogue-reference.wav",
+    "generation_duration_seconds": 18,
+    "edit_duration_seconds": 17.256,
+    "sha256": "f117cc756cfa13d9557f37eca462509f8f277ed98ab9cbe699ec09fdabf88ac7",
+    "line_ids": [
+      "E02-S07-D07",
+      "E02-S07-D08",
+      "E02-S07-D09"
+    ],
+    "performance_status": "Recorded draft; producer approval not yet recorded"
+  },
+  {
+    "shot_id": "E02-S08-P01",
+    "file": "E02-S08-P01-dialogue-reference.wav",
+    "generation_duration_seconds": 18,
+    "edit_duration_seconds": 17.292,
+    "sha256": "a6579b2075cecb4ebe744dc357be3ed60ea5faacd9a5b8ef0003fd5697300d0b",
+    "line_ids": [
+      "E02-S08-D01",
+      "E02-S08-D02",
+      "E02-S08-D03"
+    ],
+    "performance_status": "Recorded draft; producer approval not yet recorded"
+  },
+  {
+    "shot_id": "E02-S08-P02",
+    "file": "E02-S08-P02-dialogue-reference.wav",
+    "generation_duration_seconds": 13,
+    "edit_duration_seconds": 12.879,
+    "sha256": "0673b3fc7895cb430c5adb9c62df4c5a77d9783a5cc07b8a2f73a601dfe60254",
+    "line_ids": [
+      "E02-S08-D04",
+      "E02-S08-D05",
+      "E02-S08-D06"
+    ],
+    "performance_status": "Recorded draft; producer approval not yet recorded"
+  },
+  {
+    "shot_id": "E02-S08-P03",
+    "file": "E02-S08-P03-dialogue-reference.wav",
+    "generation_duration_seconds": 15,
+    "edit_duration_seconds": 14.829,
+    "sha256": "444a947c5b5d77cb05415cb80c2c4b85b0889779f4a71ae63c2407cc38e2f2be",
+    "line_ids": [
+      "E02-S08-D07",
+      "E02-S08-D08",
+      "E02-S08-D09"
+    ],
+    "performance_status": "Recorded draft; producer approval not yet recorded"
+  },
+  {
+    "shot_id": "E02-S09-P01",
+    "file": "E02-S09-P01-dialogue-reference.wav",
+    "generation_duration_seconds": 18,
+    "edit_duration_seconds": 17.901,
+    "sha256": "461e3b88d65c61c1a6fc3b3e3ae0046616f1b8a1fd168e7ce121a49eff7e1752",
+    "line_ids": [
+      "E02-S09-D01",
+      "E02-S09-D02",
+      "E02-S09-D03"
+    ],
+    "performance_status": "Recorded draft; producer approval not yet recorded"
+  },
+  {
+    "shot_id": "E02-S09-P02",
+    "file": "E02-S09-P02-dialogue-reference.wav",
+    "generation_duration_seconds": 16,
+    "edit_duration_seconds": 15.24,
+    "sha256": "a9e2264040ebfc32e06fc5c5e2d3e49edb0fc606263a479d1ac3f68657d7a5d9",
+    "line_ids": [
+      "E02-S09-D04",
+      "E02-S09-D05"
+    ],
+    "performance_status": "Recorded draft; producer approval not yet recorded"
+  },
+  {
+    "shot_id": "E02-S09-P03",
+    "file": "E02-S09-P03-dialogue-reference.wav",
+    "generation_duration_seconds": 16,
+    "edit_duration_seconds": 15.859,
+    "sha256": "15067927b79e1aebb03513bc32bac6b7242754a9415a9651ccbd620b150c2a2f",
+    "line_ids": [
+      "E02-S09-D06",
+      "E02-S09-D07",
+      "E02-S09-D08"
+    ],
+    "performance_status": "Recorded draft; producer approval not yet recorded"
+  },
+  {
+    "shot_id": "E02-S10-P01",
+    "file": "E02-S10-P01-dialogue-reference.wav",
+    "generation_duration_seconds": 19,
+    "edit_duration_seconds": 18.929,
+    "sha256": "3389c9515b850d924b59d1e50e9b502459fa7cf39eb18f5d24e870105c421519",
+    "line_ids": [
+      "E02-S10-D01",
+      "E02-S10-D02",
+      "E02-S10-D03"
+    ],
+    "performance_status": "Recorded draft; producer approval not yet recorded"
+  },
+  {
+    "shot_id": "E02-S10-P02",
+    "file": "E02-S10-P02-dialogue-reference.wav",
+    "generation_duration_seconds": 20,
+    "edit_duration_seconds": 19.253,
+    "sha256": "37bd065cb171db10c66b88040184b374878a01a66b8f2d8bc482c0087eae53bc",
+    "line_ids": [
+      "E02-S10-D04",
+      "E02-S10-D05",
+      "E02-S10-D06"
+    ],
+    "performance_status": "Recorded draft; producer approval not yet recorded"
+  },
+  {
+    "shot_id": "E02-S10-P03",
+    "file": "E02-S10-P03-dialogue-reference.wav",
+    "generation_duration_seconds": 16,
+    "edit_duration_seconds": 15.818,
+    "sha256": "7d07cb9edd7610fba799186a1c49247403b7eb17c5b60fe032ae19d5c6cafa05",
+    "line_ids": [
+      "E02-S10-D07",
+      "E02-S10-D08",
+      "E02-S10-D09"
+    ],
+    "performance_status": "Recorded draft; producer approval not yet recorded"
+  },
+  {
+    "shot_id": "E02-S11-P01",
+    "file": "E02-S11-P01-dialogue-reference.wav",
+    "generation_duration_seconds": 16,
+    "edit_duration_seconds": 15.614,
+    "sha256": "70715e155a745e0615242874eef9cb6b10dcf094d66748d48880ef8b98ed7b59",
+    "line_ids": [
+      "E02-S11-D01",
+      "E02-S11-D02",
+      "E02-S11-D03"
+    ],
+    "performance_status": "Recorded draft; producer approval not yet recorded"
+  },
+  {
+    "shot_id": "E02-S11-P02",
+    "file": "E02-S11-P02-dialogue-reference.wav",
+    "generation_duration_seconds": 18,
+    "edit_duration_seconds": 17.1,
+    "sha256": "2426e3e285756a343a26678af40d4040e6345adb5c6eed1143b517c6936cab1f",
+    "line_ids": [
+      "E02-S11-D04",
+      "E02-S11-D05",
+      "E02-S11-D06"
+    ],
+    "performance_status": "Recorded draft; producer approval not yet recorded"
+  },
+  {
+    "shot_id": "E02-S11-P03",
+    "file": "E02-S11-P03-dialogue-reference.wav",
+    "generation_duration_seconds": 18,
+    "edit_duration_seconds": 17.286,
+    "sha256": "2c5d1803b590e6b036474fe697737111236f89401ae7e52025ecfb70efc0af13",
+    "line_ids": [
+      "E02-S11-D07",
+      "E02-S11-D08",
+      "E02-S11-D09"
+    ],
+    "performance_status": "Recorded draft; producer approval not yet recorded"
+  },
+  {
+    "shot_id": "E02-S12-P01",
+    "file": "E02-S12-P01-dialogue-reference.wav",
+    "generation_duration_seconds": 22,
+    "edit_duration_seconds": 21.793,
+    "sha256": "fdf55b2ce0599739f56fa023f05e83473781eeeb4267cf3afaeb62d0bfda876f",
+    "line_ids": [
+      "E02-S12-D01",
+      "E02-S12-D02",
+      "E02-S12-D03"
+    ],
+    "performance_status": "Recorded draft; producer approval not yet recorded"
+  },
+  {
+    "shot_id": "E02-S12-P02",
+    "file": "E02-S12-P02-dialogue-reference.wav",
+    "generation_duration_seconds": 21,
+    "edit_duration_seconds": 20.446,
+    "sha256": "6b19bad2a15559ccd2e4408b43cc492d0f0db84cd6a61830fdae4d32cd34bad3",
+    "line_ids": [
+      "E02-S12-D04",
+      "E02-S12-D05",
+      "E02-S12-D06"
+    ],
+    "performance_status": "Recorded draft; producer approval not yet recorded"
+  },
+  {
+    "shot_id": "E02-S12-P03",
+    "file": "E02-S12-P03-dialogue-reference.wav",
+    "generation_duration_seconds": 12,
+    "edit_duration_seconds": 11.761,
+    "sha256": "ef45bcda13cb80011ca9d8eac858c523c1a33a966b1c7f41a2ee4e863dccda1f",
+    "line_ids": [
+      "E02-S12-D07",
+      "E02-S12-D08",
+      "E02-S12-D09"
+    ],
+    "performance_status": "Recorded draft; producer approval not yet recorded"
+  },
+  {
+    "shot_id": "E02-S13-P01",
+    "file": "E02-S13-P01-dialogue-reference.wav",
+    "generation_duration_seconds": 20,
+    "edit_duration_seconds": 19.815,
+    "sha256": "a504c512b6407e40b68181ab42e1285afd9bc6430d99ec61733e02afc34000f7",
+    "line_ids": [
+      "E02-S13-D01",
+      "E02-S13-D02",
+      "E02-S13-D03"
+    ],
+    "performance_status": "Recorded draft; producer approval not yet recorded"
+  },
+  {
+    "shot_id": "E02-S13-P02",
+    "file": "E02-S13-P02-dialogue-reference.wav",
+    "generation_duration_seconds": 15,
+    "edit_duration_seconds": 14.381,
+    "sha256": "297967b4b1cab51aa4a046d59b6d356933dbb62591574ca6f77fa1ea1688a980",
+    "line_ids": [
+      "E02-S13-D04",
+      "E02-S13-D05",
+      "E02-S13-D06"
+    ],
+    "performance_status": "Recorded draft; producer approval not yet recorded"
+  },
+  {
+    "shot_id": "E02-S13-P03",
+    "file": "E02-S13-P03-dialogue-reference.wav",
+    "generation_duration_seconds": 11,
+    "edit_duration_seconds": 10.804,
+    "sha256": "51f9807e3c2f66e1a128c4248cd883567b9492b470ca04671a663104fc6c0e72",
+    "line_ids": [
+      "E02-S13-D07",
+      "E02-S13-D08",
+      "E02-S13-D09"
+    ],
+    "performance_status": "Recorded draft; producer approval not yet recorded"
+  },
+  {
+    "shot_id": "E02-S14-P01",
+    "file": "E02-S14-P01-dialogue-reference.wav",
+    "generation_duration_seconds": 18,
+    "edit_duration_seconds": 17.319,
+    "sha256": "a6af7ef713a9358773c46adc99aea5b3fde870f549f186af1f9b49d0af825c61",
+    "line_ids": [
+      "E02-S14-D01",
+      "E02-S14-D02",
+      "E02-S14-D03"
+    ],
+    "performance_status": "Recorded draft; producer approval not yet recorded"
+  },
+  {
+    "shot_id": "E02-S14-P02",
+    "file": "E02-S14-P02-dialogue-reference.wav",
+    "generation_duration_seconds": 19,
+    "edit_duration_seconds": 18.867,
+    "sha256": "5a63c0de808d1df342479a96882d45aa11fb87302fd8b0db58212f85847b3ee4",
+    "line_ids": [
+      "E02-S14-D04",
+      "E02-S14-D05",
+      "E02-S14-D06",
+      "E02-S14-D07"
+    ],
+    "performance_status": "Recorded draft; producer approval not yet recorded"
+  },
+  {
+    "shot_id": "E02-S14-P03",
+    "file": "E02-S14-P03-dialogue-reference.wav",
+    "generation_duration_seconds": 13,
+    "edit_duration_seconds": 12.814,
+    "sha256": "06eea5351278e376eec63e6ff0c89cc38dfe206eb88ccf6eacd85dda5105cd2f",
+    "line_ids": [
+      "E02-S14-D08",
+      "E02-S14-D09",
+      "E02-S14-D10"
+    ],
+    "performance_status": "Recorded draft; producer approval not yet recorded"
+  },
+  {
+    "shot_id": "E02-S15-P01",
+    "file": "E02-S15-P01-dialogue-reference.wav",
+    "generation_duration_seconds": 20,
+    "edit_duration_seconds": 19.127,
+    "sha256": "4ecc38136ad69ec9f7276b2995b3b7d796d8bacaf4192b27d5c774453ad2f641",
+    "line_ids": [
+      "E02-S15-D01",
+      "E02-S15-D02",
+      "E02-S15-D03"
+    ],
+    "performance_status": "Recorded draft; producer approval not yet recorded"
+  },
+  {
+    "shot_id": "E02-S15-P02",
+    "file": "E02-S15-P02-dialogue-reference.wav",
+    "generation_duration_seconds": 19,
+    "edit_duration_seconds": 18.06,
+    "sha256": "ae733f3b73f786a3770f0ce03011cfb3c2ac8712abde9b079e7129b04c9a581d",
+    "line_ids": [
+      "E02-S15-D04",
+      "E02-S15-D05",
+      "E02-S15-D06"
+    ],
+    "performance_status": "Recorded draft; producer approval not yet recorded"
+  },
+  {
+    "shot_id": "E02-S15-P03",
+    "file": "E02-S15-P03-dialogue-reference.wav",
+    "generation_duration_seconds": 13,
+    "edit_duration_seconds": 12.813,
+    "sha256": "4eed1966b1ef9de2aa0bdd70b96c969b9f653c8dd1b2375f17e7f66614ade299",
+    "line_ids": [
+      "E02-S15-D07",
+      "E02-S15-D08",
+      "E02-S15-D09"
+    ],
+    "performance_status": "Recorded draft; producer approval not yet recorded"
+  },
+  {
+    "shot_id": "E02-S16-P01",
+    "file": "E02-S16-P01-dialogue-reference.wav",
+    "generation_duration_seconds": 20,
+    "edit_duration_seconds": 19.259,
+    "sha256": "ea7435946355db360c61a74037b9373eb14674c6c7cbd3a37a46262332d8843c",
+    "line_ids": [
+      "E02-S16-D01",
+      "E02-S16-D02",
+      "E02-S16-D03"
+    ],
+    "performance_status": "Recorded draft; producer approval not yet recorded"
+  },
+  {
+    "shot_id": "E02-S16-P02",
+    "file": "E02-S16-P02-dialogue-reference.wav",
+    "generation_duration_seconds": 13,
+    "edit_duration_seconds": 12.339,
+    "sha256": "7ebb4bdf1ee7d91f2bf5249b739b52cbc1ccaacefdcb97e8e54988ee14f7974d",
+    "line_ids": [
+      "E02-S16-D04",
+      "E02-S16-D05",
+      "E02-S16-D06"
+    ],
+    "performance_status": "Recorded draft; producer approval not yet recorded"
+  },
+  {
+    "shot_id": "E02-S16-P03",
+    "file": "E02-S16-P03-dialogue-reference.wav",
+    "generation_duration_seconds": 18,
+    "edit_duration_seconds": 17.402,
+    "sha256": "85a37fe7bf944fd15ab4b1c697d8d720aec3f0e2d689bc2302f4de88ba1a9426",
+    "line_ids": [
+      "E02-S16-D07",
+      "E02-S16-D08",
+      "E02-S16-D09"
+    ],
+    "performance_status": "Recorded draft; producer approval not yet recorded"
+  },
+  {
+    "shot_id": "E02-S17-P01",
+    "file": "E02-S17-P01-dialogue-reference.wav",
+    "generation_duration_seconds": 20,
+    "edit_duration_seconds": 19.409,
+    "sha256": "1978c07d8521b4eb6fcc5002398a2f0351fefc7af058cdff5fad27811aec1e5d",
+    "line_ids": [
+      "E02-S17-D01",
+      "E02-S17-D02",
+      "E02-S17-D03"
+    ],
+    "performance_status": "Recorded draft; producer approval not yet recorded"
+  },
+  {
+    "shot_id": "E02-S17-P02",
+    "file": "E02-S17-P02-dialogue-reference.wav",
+    "generation_duration_seconds": 20,
+    "edit_duration_seconds": 19.408,
+    "sha256": "2647f09e24a071b1e18b697a6926b339a4819c4eb46c17776c3a1d9cde6a5287",
+    "line_ids": [
+      "E02-S17-D04",
+      "E02-S17-D05",
+      "E02-S17-D06"
+    ],
+    "performance_status": "Recorded draft; producer approval not yet recorded"
+  },
+  {
+    "shot_id": "E02-S17-P03",
+    "file": "E02-S17-P03-dialogue-reference.wav",
+    "generation_duration_seconds": 16,
+    "edit_duration_seconds": 15.183,
+    "sha256": "0fca2a99055af276082b91f72c504318d6b3c59dddb19e83a555ecd987d89299",
+    "line_ids": [
+      "E02-S17-D07",
+      "E02-S17-D08",
+      "E02-S17-D09"
+    ],
+    "performance_status": "Recorded draft; producer approval not yet recorded"
+  },
+  {
+    "shot_id": "E02-S18-P01",
+    "file": "E02-S18-P01-dialogue-reference.wav",
+    "generation_duration_seconds": 17,
+    "edit_duration_seconds": 16.55,
+    "sha256": "35af48a659627faf06685117fb456f6853d26c217abd433eeefe784f2766e764",
+    "line_ids": [
+      "E02-S18-D01",
+      "E02-S18-D02"
+    ],
+    "performance_status": "Recorded draft; producer approval not yet recorded"
+  },
+  {
+    "shot_id": "E02-S18-P02",
+    "file": "E02-S18-P02-dialogue-reference.wav",
+    "generation_duration_seconds": 18,
+    "edit_duration_seconds": 17.201,
+    "sha256": "454ee935722f1ae0d0b719f41640001cc5971af23cddab0ae557da762de2ed7e",
+    "line_ids": [
+      "E02-S18-D03",
+      "E02-S18-D04"
+    ],
+    "performance_status": "Recorded draft; producer approval not yet recorded"
+  },
+  {
+    "shot_id": "E02-S18-P03",
+    "file": "E02-S18-P03-dialogue-reference.wav",
+    "generation_duration_seconds": 16,
+    "edit_duration_seconds": 15.249,
+    "sha256": "31675b9fba42d6aa46c78271b28ba83bc6924fb8e66ef585f4e668d8f2a456cf",
+    "line_ids": [
+      "E02-S18-D05",
+      "E02-S18-D06"
+    ],
+    "performance_status": "Recorded draft; producer approval not yet recorded"
+  },
+  {
+    "shot_id": "E02-S19-P01",
+    "file": "E02-S19-P01-dialogue-reference.wav",
+    "generation_duration_seconds": 21,
+    "edit_duration_seconds": 20.263,
+    "sha256": "4144feae2d2856da35bd8c75607fa9719683daaeca458f02359200758b7e96e9",
+    "line_ids": [
+      "E02-S19-D01",
+      "E02-S19-D02",
+      "E02-S19-D03"
+    ],
+    "performance_status": "Recorded draft; producer approval not yet recorded"
+  },
+  {
+    "shot_id": "E02-S19-P02",
+    "file": "E02-S19-P02-dialogue-reference.wav",
+    "generation_duration_seconds": 16,
+    "edit_duration_seconds": 15.572,
+    "sha256": "b864bff76d4f0ee62414108f13d8633899d0dbcf4bcacbec574a524c95368d14",
+    "line_ids": [
+      "E02-S19-D04",
+      "E02-S19-D05",
+      "E02-S19-D06"
+    ],
+    "performance_status": "Recorded draft; producer approval not yet recorded"
+  },
+  {
+    "shot_id": "E02-S19-P03",
+    "file": "E02-S19-P03-dialogue-reference.wav",
+    "generation_duration_seconds": 25,
+    "edit_duration_seconds": 24.165,
+    "sha256": "c7ebea4437efb40c171650048bd0e8890fd4b8e064033b12604f2f69cd73fa09",
+    "line_ids": [
+      "E02-S19-D07",
+      "E02-S19-D08",
+      "E02-S19-D09"
+    ],
+    "performance_status": "Recorded draft; producer approval not yet recorded"
+  },
+  {
+    "shot_id": "E02-S20-P01",
+    "file": "E02-S20-P01-dialogue-reference.wav",
+    "generation_duration_seconds": 22,
+    "edit_duration_seconds": 21.808,
+    "sha256": "b6e165515d20a0e2c2b00c556db939ef4f14e5154e40c623980c9a270f366726",
+    "line_ids": [
+      "E02-S20-D01",
+      "E02-S20-D02",
+      "E02-S20-D03"
+    ],
+    "performance_status": "Recorded draft; producer approval not yet recorded"
+  },
+  {
+    "shot_id": "E02-S20-P02",
+    "file": "E02-S20-P02-dialogue-reference.wav",
+    "generation_duration_seconds": 18,
+    "edit_duration_seconds": 17.861,
+    "sha256": "ac4432d9f1a4534f8625c9e2b3d0cb8a1b59989985d7b0b5636cca93fff540d8",
+    "line_ids": [
+      "E02-S20-D04",
+      "E02-S20-D05",
+      "E02-S20-D06"
+    ],
+    "performance_status": "Recorded draft; producer approval not yet recorded"
+  },
+  {
+    "shot_id": "E02-S20-P03",
+    "file": "E02-S20-P03-dialogue-reference.wav",
+    "generation_duration_seconds": 15,
+    "edit_duration_seconds": 14.331,
+    "sha256": "96774e13df625d53e3b3dd83d41027bbbf1d7dd6c3511cc0bf9d86678750e92a",
+    "line_ids": [
+      "E02-S20-D07",
+      "E02-S20-D08",
+      "E02-S20-D09"
+    ],
+    "performance_status": "Recorded draft; producer approval not yet recorded"
+  },
+  {
+    "shot_id": "E02-S21-P01",
+    "file": "E02-S21-P01-dialogue-reference.wav",
+    "generation_duration_seconds": 19,
+    "edit_duration_seconds": 18.06,
+    "sha256": "4722b4b57bb9c026716f0ddcf0690f6977eed959fa0f1a1d2ddb26acc5a9e967",
+    "line_ids": [
+      "E02-S21-D01",
+      "E02-S21-D02",
+      "E02-S21-D03"
+    ],
+    "performance_status": "Recorded draft; producer approval not yet recorded"
+  },
+  {
+    "shot_id": "E02-S21-P02",
+    "file": "E02-S21-P02-dialogue-reference.wav",
+    "generation_duration_seconds": 17,
+    "edit_duration_seconds": 16.064,
+    "sha256": "37b476ae73e416983ad8d6b135c3006f6a749586a0ad892d2c63a39be0467dd8",
+    "line_ids": [
+      "E02-S21-D04",
+      "E02-S21-D05",
+      "E02-S21-D06"
+    ],
+    "performance_status": "Recorded draft; producer approval not yet recorded"
+  },
+  {
+    "shot_id": "E02-S21-P03",
+    "file": "E02-S21-P03-dialogue-reference.wav",
+    "generation_duration_seconds": 16,
+    "edit_duration_seconds": 15.876,
+    "sha256": "08446f994499b4fe9c2aa82bcc95fd1d88f5f3d5488438054f967a96a088f1d0",
+    "line_ids": [
+      "E02-S21-D07",
+      "E02-S21-D08",
+      "E02-S21-D09"
+    ],
+    "performance_status": "Recorded draft; producer approval not yet recorded"
+  },
+  {
+    "shot_id": "E02-S22-P01",
+    "file": "E02-S22-P01-dialogue-reference.wav",
+    "generation_duration_seconds": 16,
+    "edit_duration_seconds": 15.565,
+    "sha256": "70b85330a0d177024771ea72d5d2ec1e54b180e9d1891098ebb3d308f75d5c46",
+    "line_ids": [
+      "E02-S22-D01",
+      "E02-S22-D02",
+      "E02-S22-D03"
+    ],
+    "performance_status": "Recorded draft; producer approval not yet recorded"
+  },
+  {
+    "shot_id": "E02-S22-P02",
+    "file": "E02-S22-P02-dialogue-reference.wav",
+    "generation_duration_seconds": 16,
+    "edit_duration_seconds": 15.007,
+    "sha256": "6ab2d6463dfeada64ab602e4839205feaad3986397201fe454d50c1b4314d468",
+    "line_ids": [
+      "E02-S22-D04",
+      "E02-S22-D05",
+      "E02-S22-D06"
+    ],
+    "performance_status": "Recorded draft; producer approval not yet recorded"
+  },
+  {
+    "shot_id": "E02-S22-P03",
+    "file": "E02-S22-P03-dialogue-reference.wav",
+    "generation_duration_seconds": 14,
+    "edit_duration_seconds": 13.428,
+    "sha256": "836c1760c187a35c40e0b34fcd12e73b90a3879089b2ad58758918aa6af3dbde",
+    "line_ids": [
+      "E02-S22-D07",
+      "E02-S22-D08",
+      "E02-S22-D09"
+    ],
+    "performance_status": "Recorded draft; producer approval not yet recorded"
+  },
+  {
+    "shot_id": "E02-S23-P01",
+    "file": "E02-S23-P01-dialogue-reference.wav",
+    "generation_duration_seconds": 15,
+    "edit_duration_seconds": 14.845,
+    "sha256": "9873143dc0f9320d71a8e68bc0c4a170c798587e3cad88af19672d698b4c96ce",
+    "line_ids": [
+      "E02-S23-D01",
+      "E02-S23-D02",
+      "E02-S23-D03"
+    ],
+    "performance_status": "Recorded draft; producer approval not yet recorded"
+  },
+  {
+    "shot_id": "E02-S23-P02",
+    "file": "E02-S23-P02-dialogue-reference.wav",
+    "generation_duration_seconds": 17,
+    "edit_duration_seconds": 16.47,
+    "sha256": "22012b421462ff0acad853fc289a7e5d53bd91000810fa974013af8168d71dd1",
+    "line_ids": [
+      "E02-S23-D04",
+      "E02-S23-D05",
+      "E02-S23-D06"
+    ],
+    "performance_status": "Recorded draft; producer approval not yet recorded"
+  },
+  {
+    "shot_id": "E02-S23-P03",
+    "file": "E02-S23-P03-dialogue-reference.wav",
+    "generation_duration_seconds": 14,
+    "edit_duration_seconds": 13.685,
+    "sha256": "4d8bd83e2da01b3679850228f7d1ba09b85483d17f226bfb01f6c9bdaa7deee6",
+    "line_ids": [
+      "E02-S23-D07",
+      "E02-S23-D08",
+      "E02-S23-D09"
+    ],
+    "performance_status": "Recorded draft; producer approval not yet recorded"
+  },
+  {
+    "shot_id": "E02-S24-P01",
+    "file": "E02-S24-P01-dialogue-reference.wav",
+    "generation_duration_seconds": 15,
+    "edit_duration_seconds": 14.484,
+    "sha256": "e97d06b166fc59a7d9ba2acb62e74d9c27f532d4c6ac98acb7d6588f45a8fbb0",
+    "line_ids": [
+      "E02-S24-D01",
+      "E02-S24-D02",
+      "E02-S24-D03"
+    ],
+    "performance_status": "Recorded draft; producer approval not yet recorded"
+  },
+  {
+    "shot_id": "E02-S24-P02",
+    "file": "E02-S24-P02-dialogue-reference.wav",
+    "generation_duration_seconds": 18,
+    "edit_duration_seconds": 17.749,
+    "sha256": "b076b0d1dd1603eeddb91dbf71edc3f9e0554ded3b22812fb7fab7e6f7cfd7dc",
+    "line_ids": [
+      "E02-S24-D04",
+      "E02-S24-D05",
+      "E02-S24-D06",
+      "E02-S24-D07"
+    ],
+    "performance_status": "Recorded draft; producer approval not yet recorded"
+  },
+  {
+    "shot_id": "E02-S24-P03",
+    "file": "E02-S24-P03-dialogue-reference.wav",
+    "generation_duration_seconds": 13,
+    "edit_duration_seconds": 12.767,
+    "sha256": "6a3bf2b0b1081ae891e6d39501cbdd663398f1d2e65cc12eebdfba1d269206a5",
+    "line_ids": [
+      "E02-S24-D08",
+      "E02-S24-D09",
+      "E02-S24-D10"
+    ],
+    "performance_status": "Recorded draft; producer approval not yet recorded"
+  }
+]

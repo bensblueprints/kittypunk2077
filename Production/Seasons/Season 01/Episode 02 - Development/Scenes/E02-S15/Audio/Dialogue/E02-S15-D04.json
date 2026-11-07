@@ -1,0 +1,20 @@
+{
+  "id": "E02-S15-D04",
+  "role_id": "trixie",
+  "voice_id": "dmWfLQZJq7wNPv9WmtiM",
+  "voice_name": "Emma — Wry, Gritty Hero",
+  "text": "Keep the full copy for their appeals. Nobody gets dragged onto television because we wanted a better headline.",
+  "status": "review_take",
+  "scene": "E02-S15",
+  "duration_sec": 5.387029,
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.35,
+    "similarity_boost": 0.8,
+    "style": 0.55,
+    "use_speaker_boost": true
+  },
+  "request_id": "YA6l2Bez3pr5LEOb69V2",
+  "provider_character_cost": "24",
+  "sha256": "302fc27913dda65251ee47ce3568d3c7cca1ba681ea4109c352d4a646553208f"
+}

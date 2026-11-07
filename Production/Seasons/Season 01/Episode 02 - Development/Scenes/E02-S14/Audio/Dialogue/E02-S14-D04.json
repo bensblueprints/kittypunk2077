@@ -1,0 +1,20 @@
+{
+  "id": "E02-S14-D04",
+  "role_id": "onyx",
+  "voice_id": "uq0HIbNZKn11Hs5ifEdd",
+  "voice_name": "Harry — Fierce Warrior",
+  "text": "It changed because you froze the account we use to verify it.",
+  "status": "review_take",
+  "scene": "E02-S14",
+  "duration_sec": 3.343673,
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.5,
+    "similarity_boost": 0.75,
+    "style": 0.15,
+    "use_speaker_boost": true
+  },
+  "request_id": "w8NPPAi3JtYuaUc7PHub",
+  "provider_character_cost": "13",
+  "sha256": "0a4b1142af91e13e44329b360fd1371da06e059b7cf766dda0b1776fd174dc76"
+}

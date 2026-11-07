@@ -1,0 +1,20 @@
+{
+  "id": "E02-S03-D05",
+  "role_id": "seven_catleven_clerk",
+  "voice_id": "CwhRBWXzGAHq8TQ4Fs17",
+  "voice_name": "Roger - Laid-Back, Casual, Resonant",
+  "text": "There's the processing fee. Bottom of page thirty-seven.",
+  "status": "review_take",
+  "scene": "E02-S03",
+  "duration_sec": 3.529433,
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.5,
+    "similarity_boost": 0.75,
+    "style": 0.15,
+    "use_speaker_boost": true
+  },
+  "request_id": "4pAAR1kgC2mdnLPmwRG3",
+  "provider_character_cost": "12",
+  "sha256": "73d0fbe573a9fec234dc003abad162215a40f3e26c8eba65704505bdfb757faf"
+}

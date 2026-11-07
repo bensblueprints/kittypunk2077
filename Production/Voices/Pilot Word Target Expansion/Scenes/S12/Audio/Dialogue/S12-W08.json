@@ -1,0 +1,21 @@
+{
+  "id": "S12-W08",
+  "scene": "S12",
+  "speaker": "Neon",
+  "role_id": "neon",
+  "voice_id": "4e32WqNVWRquDa1OcRYZ",
+  "text": "I put the spare in the outside pocket this time. Last time the emergency plan was underneath my lunch, and we all had opinions about that.",
+  "status": "review_take",
+  "placement": "Integrate into existing action coverage; preserve current performances and scene boundaries. Visual/lip-sync review required.",
+  "duration_sec": 8.730703,
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.5,
+    "similarity_boost": 0.75,
+    "style": 0.15,
+    "use_speaker_boost": true
+  },
+  "request_id": "NQvz1dMDpGMQWIdnRybW",
+  "provider_character_cost": "30",
+  "sha256": "30f644c6e7cab3636a3340e46a3cddc90f84e6b023b551114d2c7ff6b69343a2"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "E02-S23-D07",
+  "role_id": "ghost",
+  "voice_id": "7fBwqIVI6wI1B4MuKqQi",
+  "voice_name": "Austin — Upbeat",
+  "text": "And keeping the records means they can't tell us tomorrow that none of it happened.",
+  "status": "review_take",
+  "scene": "E02-S23",
+  "duration_sec": 4.318912,
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.5,
+    "similarity_boost": 0.75,
+    "style": 0.15,
+    "use_speaker_boost": true
+  },
+  "request_id": "xtngCP2WoWmzd82dTT2l",
+  "provider_character_cost": "18",
+  "sha256": "7dbd6df8fdb479c17b901b98ed588997a02951ef6d8f511a4474ad04a99be9af"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "E02-S09-D07",
+  "role_id": "onyx",
+  "voice_id": "uq0HIbNZKn11Hs5ifEdd",
+  "voice_name": "Harry — Fierce Warrior",
+  "text": "We might. But I'm making it their problem too.",
+  "status": "review_take",
+  "scene": "E02-S09",
+  "duration_sec": 2.925714,
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.5,
+    "similarity_boost": 0.75,
+    "style": 0.15,
+    "use_speaker_boost": true
+  },
+  "request_id": "wpWQyoFB4cb1j2COvQ2J",
+  "provider_character_cost": "10",
+  "sha256": "b50e8e31662ff31c8e0b4c01c343d116abf479202b0f8f9492fdfa56774388fb"
+}

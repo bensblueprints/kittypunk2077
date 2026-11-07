@@ -1,0 +1,20 @@
+{
+  "id": "E02-S15-D02",
+  "role_id": "byte",
+  "voice_id": "wo6udizrrtpIxWGp2qJk",
+  "voice_name": "Northern Terry",
+  "text": "The second one gets people their own money back. The first just starts another argument.",
+  "status": "review_take",
+  "scene": "E02-S15",
+  "duration_sec": 4.597551,
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.5,
+    "similarity_boost": 0.75,
+    "style": 0.15,
+    "use_speaker_boost": true
+  },
+  "request_id": "SpBcGlcEK6Ue2vffXtpr",
+  "provider_character_cost": "19",
+  "sha256": "a5c7e4a84127581ac5f7da1218ce88da629fb2a4f58a5941c7471048271dc802"
+}

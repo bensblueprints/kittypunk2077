@@ -1,0 +1,20 @@
+{
+  "id": "E02-S20-D09",
+  "role_id": "trixie",
+  "voice_id": "dmWfLQZJq7wNPv9WmtiM",
+  "voice_name": "Emma — Wry, Gritty Hero",
+  "text": "That's what they were counting on.",
+  "status": "review_take",
+  "scene": "E02-S20",
+  "duration_sec": 1.671837,
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.35,
+    "similarity_boost": 0.8,
+    "style": 0.55,
+    "use_speaker_boost": true
+  },
+  "request_id": "gZr3JvfnZfdaQTVb8cPJ",
+  "provider_character_cost": "7",
+  "sha256": "eb65f4d826cfd70fd5f893bdb297ea1a66251ac51f25c2c1bc5ad6bafb4411fc"
+}

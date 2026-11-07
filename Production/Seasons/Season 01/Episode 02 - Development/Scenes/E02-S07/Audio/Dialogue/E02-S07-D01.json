@@ -1,0 +1,20 @@
+{
+  "id": "E02-S07-D01",
+  "role_id": "trixie",
+  "voice_id": "dmWfLQZJq7wNPv9WmtiM",
+  "voice_name": "Emma — Wry, Gritty Hero",
+  "text": "Tell me what you need, not what you wish this system would let you do.",
+  "status": "review_take",
+  "scene": "E02-S07",
+  "duration_sec": 4.411791,
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.35,
+    "similarity_boost": 0.8,
+    "style": 0.55,
+    "use_speaker_boost": true
+  },
+  "request_id": "fotbIit4OQobdilXsyah",
+  "provider_character_cost": "15",
+  "sha256": "33ea4d2ffe5a9944e8a7a1c971dd91451d211e488d4b16b54ccf311797a074e5"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "E02-S04-D07",
+  "role_id": "byte",
+  "voice_id": "wo6udizrrtpIxWGp2qJk",
+  "voice_name": "Northern Terry",
+  "text": "I can make the screen look different. That doesn't mean the shop will accept a payment.",
+  "status": "review_take",
+  "scene": "E02-S04",
+  "duration_sec": 4.272472,
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.5,
+    "similarity_boost": 0.75,
+    "style": 0.15,
+    "use_speaker_boost": true
+  },
+  "request_id": "FtFiXT78KMoxX8INGdLZ",
+  "provider_character_cost": "19",
+  "sha256": "b04d2b890ff6635a4bf5a5fed17536b487f4de265d6a70379511693dcb7a1cba"
+}

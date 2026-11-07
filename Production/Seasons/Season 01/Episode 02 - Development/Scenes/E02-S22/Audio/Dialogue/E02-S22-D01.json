@@ -1,0 +1,20 @@
+{
+  "id": "E02-S22-D01",
+  "role_id": "civilian_1",
+  "voice_id": "DODLEQrClDo8wCz460ld",
+  "voice_name": "Lauren - Friendly, Comforting and Soft",
+  "text": "It went through. I watched it three times because I didn't believe it.",
+  "status": "review_take",
+  "scene": "E02-S22",
+  "duration_sec": 4.829751,
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.5,
+    "similarity_boost": 0.75,
+    "style": 0.15,
+    "use_speaker_boost": true
+  },
+  "request_id": "Ttc3RSDTUv8terkwMIbB",
+  "provider_character_cost": "15",
+  "sha256": "4d03c7f1ba2b2a3aac79c8881b1491fffef7d0e9910973ac675c3e73dd9ddb6b"
+}

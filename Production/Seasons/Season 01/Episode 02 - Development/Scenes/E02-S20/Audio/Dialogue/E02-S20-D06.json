@@ -1,0 +1,20 @@
+{
+  "id": "E02-S20-D06",
+  "role_id": "onyx",
+  "voice_id": "uq0HIbNZKn11Hs5ifEdd",
+  "voice_name": "Harry — Fierce Warrior",
+  "text": "Written appeals go in that slot. They must give you a dated acknowledgment. Don't leave without it.",
+  "status": "review_take",
+  "scene": "E02-S20",
+  "duration_sec": 5.572789,
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.5,
+    "similarity_boost": 0.75,
+    "style": 0.15,
+    "use_speaker_boost": true
+  },
+  "request_id": "rHO5AbV6XPF6lU44lPIx",
+  "provider_character_cost": "22",
+  "sha256": "e28e190c10a84bd7a02d94dc1c7cbbd51f9f99ce49890742ed243f7f05bc0b01"
+}

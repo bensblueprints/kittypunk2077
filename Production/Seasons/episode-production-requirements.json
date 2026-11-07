@@ -1,0 +1,8 @@
+{
+  "series": "KittyPunk2077",
+  "episode_runtime_seconds": 1200,
+  "spoken_word_target": {"minimum": 2500, "maximum": 3000},
+  "word_count_scope": "Spoken dialogue and narration only; exclude directions, speaker labels, shot descriptions and repeated takes.",
+  "timing_policy": "Conform measured approved performances, conversational pauses, action, music and transitions to 1200 seconds. Do not stretch pauses or accelerate dialogue merely to meet runtime. Word count does not substitute for timing validation.",
+  "revision_policy": "Preserve approved recordings and completed shots. Archive superseded versions. Review new dialogue placement and lip sync before replacing published assemblies."
+}

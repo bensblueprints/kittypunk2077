@@ -1,0 +1,2485 @@
+{
+  "episode": 2,
+  "title": "Terms and Purrditions",
+  "runtime_target_seconds": 1200,
+  "status": "Recorded first draft; 211 files verified; listening and shot-level review pending",
+  "line_count": 211,
+  "word_count": 2519,
+  "scenes": [
+    {
+      "id": "E02-S01",
+      "title": "Breakfast on Wheels",
+      "start_sec": 0,
+      "duration_sec": 45,
+      "end_sec": 45,
+      "location_id": "LOC08",
+      "cast": [
+        "trixie",
+        "byte",
+        "neon",
+        "onyx",
+        "ghost"
+      ],
+      "voice_ids": {
+        "byte": "wo6udizrrtpIxWGp2qJk",
+        "ghost": "7fBwqIVI6wI1B4MuKqQi",
+        "neon": "4e32WqNVWRquDa1OcRYZ",
+        "onyx": "uq0HIbNZKn11Hs5ifEdd",
+        "trixie": "dmWfLQZJq7wNPv9WmtiM"
+      },
+      "action": "The five deliver the first community salmon crates. A family has food for tonight. Byte insists on keeping a receipt for every handover.",
+      "dramatic_purpose": "Establish the tangible success inherited from the pilot.",
+      "status": "script draft; shot breakdown and performance timing pending",
+      "audio_status": "recorded_review_pending",
+      "video_status": "not submitted",
+      "lines": [
+        {
+          "id": "E02-S01-D01",
+          "role_id": "trixie",
+          "voice_id": "dmWfLQZJq7wNPv9WmtiM",
+          "voice_name": "Emma — Wry, Gritty Hero",
+          "text": "Easy with that crate. We rescued the salmon. We don't need to launch it.",
+          "status": "recorded_review_pending"
+        },
+        {
+          "id": "E02-S01-D02",
+          "role_id": "neon",
+          "voice_id": "4e32WqNVWRquDa1OcRYZ",
+          "voice_name": "Ryan — Product Reviewer",
+          "text": "The wheels are experimental. The brakes are more of a future ambition.",
+          "status": "recorded_review_pending"
+        },
+        {
+          "id": "E02-S01-D03",
+          "role_id": "onyx",
+          "voice_id": "uq0HIbNZKn11Hs5ifEdd",
+          "voice_name": "Harry — Fierce Warrior",
+          "text": "Then your future ambition is standing downhill with a mattress.",
+          "status": "recorded_review_pending"
+        },
+        {
+          "id": "E02-S01-D04",
+          "role_id": "byte",
+          "voice_id": "wo6udizrrtpIxWGp2qJk",
+          "voice_name": "Northern Terry",
+          "text": "One crate, six households. Every delivery gets a receipt. Nobody disappears between columns.",
+          "status": "recorded_review_pending"
+        },
+        {
+          "id": "E02-S01-D05",
+          "role_id": "ghost",
+          "voice_id": "7fBwqIVI6wI1B4MuKqQi",
+          "voice_name": "Austin — Upbeat",
+          "text": "You made a spreadsheet for breakfast?",
+          "status": "recorded_review_pending"
+        },
+        {
+          "id": "E02-S01-D06",
+          "role_id": "byte",
+          "voice_id": "wo6udizrrtpIxWGp2qJk",
+          "voice_name": "Northern Terry",
+          "text": "Breakfast deserves better administration than this city.",
+          "status": "recorded_review_pending"
+        },
+        {
+          "id": "E02-S01-D07",
+          "role_id": "trixie",
+          "voice_id": "dmWfLQZJq7wNPv9WmtiM",
+          "voice_name": "Emma — Wry, Gritty Hero",
+          "text": "Mrs. Fen's building first. She said the little ones haven't had a proper meal since Tuesday.",
+          "status": "recorded_review_pending"
+        },
+        {
+          "id": "E02-S01-D08",
+          "role_id": "neon",
+          "voice_id": "4e32WqNVWRquDa1OcRYZ",
+          "voice_name": "Ryan — Product Reviewer",
+          "text": "And after that, we finally sleep?",
+          "status": "recorded_review_pending"
+        },
+        {
+          "id": "E02-S01-D09",
+          "role_id": "onyx",
+          "voice_id": "uq0HIbNZKn11Hs5ifEdd",
+          "voice_name": "Harry — Fierce Warrior",
+          "text": "After that, you invent brakes.",
+          "status": "recorded_review_pending"
+        }
+      ],
+      "speaking_cast": [
+        "byte",
+        "ghost",
+        "neon",
+        "onyx",
+        "trixie"
+      ],
+      "word_count": 89,
+      "dialogue_estimate_seconds": 35.6
+    },
+    {
+      "id": "E02-S02",
+      "title": "Payment Declined",
+      "start_sec": 45,
+      "duration_sec": 45,
+      "end_sec": 90,
+      "location_id": "LOC07",
+      "cast": [
+        "seven_catleven_clerk",
+        "civilian_1",
+        "trixie",
+        "byte"
+      ],
+      "voice_ids": {
+        "byte": "wo6udizrrtpIxWGp2qJk",
+        "civilian_1": "DODLEQrClDo8wCz460ld",
+        "seven_catleven_clerk": "CwhRBWXzGAHq8TQ4Fs17",
+        "trixie": "dmWfLQZJq7wNPv9WmtiM"
+      },
+      "action": "A customer can see funds but cannot pay. The clerk tries a second account; it is blocked too. Trixie recognizes the delivery recipient list.",
+      "dramatic_purpose": "An account freeze turns the victory into a new problem.",
+      "status": "script draft; shot breakdown and performance timing pending",
+      "audio_status": "recorded_review_pending",
+      "video_status": "not submitted",
+      "lines": [
+        {
+          "id": "E02-S02-D01",
+          "role_id": "seven_catleven_clerk",
+          "voice_id": "CwhRBWXzGAHq8TQ4Fs17",
+          "voice_name": "Roger - Laid-Back, Casual, Resonant",
+          "text": "It says declined. You've got money. It just won't let me take it.",
+          "status": "recorded_review_pending"
+        },
+        {
+          "id": "E02-S02-D02",
+          "role_id": "civilian_1",
+          "voice_id": "DODLEQrClDo8wCz460ld",
+          "voice_name": "Lauren - Friendly, Comforting and Soft",
+          "text": "I checked this morning. That's my whole week's wages sitting right there.",
+          "status": "recorded_review_pending"
+        },
+        {
+          "id": "E02-S02-D03",
+          "role_id": "trixie",
+          "voice_id": "dmWfLQZJq7wNPv9WmtiM",
+          "voice_name": "Emma — Wry, Gritty Hero",
+          "text": "Try mine. We'll sort it out later.",
+          "status": "recorded_review_pending"
+        },
+        {
+          "id": "E02-S02-D04",
+          "role_id": "seven_catleven_clerk",
+          "voice_id": "CwhRBWXzGAHq8TQ4Fs17",
+          "voice_name": "Roger - Laid-Back, Casual, Resonant",
+          "text": "Yours is frozen too. That's the fourth one since you came in.",
+          "status": "recorded_review_pending"
+        },
+        {
+          "id": "E02-S02-D05",
+          "role_id": "byte",
+          "voice_id": "wo6udizrrtpIxWGp2qJk",
+          "voice_name": "Northern Terry",
+          "text": "Wait. Same notice, same timestamp. Can I see the receipt from the failed payment?",
+          "status": "recorded_review_pending"
+        },
+        {
+          "id": "E02-S02-D06",
+          "role_id": "civilian_1",
+          "voice_id": "DODLEQrClDo8wCz460ld",
+          "voice_name": "Lauren - Friendly, Comforting and Soft",
+          "text": "Am I in trouble because you brought us food?",
+          "status": "recorded_review_pending"
+        },
+        {
+          "id": "E02-S02-D07",
+          "role_id": "trixie",
+          "voice_id": "dmWfLQZJq7wNPv9WmtiM",
+          "voice_name": "Emma — Wry, Gritty Hero",
+          "text": "No. Getting dinner doesn't make you a criminal.",
+          "status": "recorded_review_pending"
+        },
+        {
+          "id": "E02-S02-D08",
+          "role_id": "byte",
+          "voice_id": "wo6udizrrtpIxWGp2qJk",
+          "voice_name": "Northern Terry",
+          "text": "But someone just made it a reason to lock your account.",
+          "status": "recorded_review_pending"
+        }
+      ],
+      "speaking_cast": [
+        "byte",
+        "civilian_1",
+        "seven_catleven_clerk",
+        "trixie"
+      ],
+      "word_count": 86,
+      "dialogue_estimate_seconds": 34.4
+    },
+    {
+      "id": "E02-S03",
+      "title": "Sorry Costs Extra",
+      "start_sec": 90,
+      "duration_sec": 50,
+      "end_sec": 140,
+      "location_id": "LOC07",
+      "cast": [
+        "seven_catleven_clerk",
+        "onyx",
+        "neon"
+      ],
+      "voice_ids": {
+        "byte": "wo6udizrrtpIxWGp2qJk",
+        "neon": "4e32WqNVWRquDa1OcRYZ",
+        "onyx": "uq0HIbNZKn11Hs5ifEdd",
+        "seven_catleven_clerk": "CwhRBWXzGAHq8TQ4Fs17",
+        "trixie": "dmWfLQZJq7wNPv9WmtiM"
+      },
+      "action": "The help terminal prints a thirty-seven-page apology and charges a processing fee. Onyx asks whether the apology needs an apology. Neon saves the reference number.",
+      "dramatic_purpose": "A comic obstacle creates the evidence trail rather than delaying it.",
+      "status": "script draft; shot breakdown and performance timing pending",
+      "audio_status": "recorded_review_pending",
+      "video_status": "not submitted",
+      "lines": [
+        {
+          "id": "E02-S03-D01",
+          "role_id": "neon",
+          "voice_id": "4e32WqNVWRquDa1OcRYZ",
+          "voice_name": "Ryan — Product Reviewer",
+          "text": "I found the help button. That's promising. Help usually means help.",
+          "status": "recorded_review_pending"
+        },
+        {
+          "id": "E02-S03-D02",
+          "role_id": "seven_catleven_clerk",
+          "voice_id": "CwhRBWXzGAHq8TQ4Fs17",
+          "voice_name": "Roger - Laid-Back, Casual, Resonant",
+          "text": "Not on that machine. Stand back when it starts printing.",
+          "status": "recorded_review_pending"
+        },
+        {
+          "id": "E02-S03-D03",
+          "role_id": "onyx",
+          "voice_id": "uq0HIbNZKn11Hs5ifEdd",
+          "voice_name": "Harry — Fierce Warrior",
+          "text": "How long is this apology?",
+          "status": "recorded_review_pending"
+        },
+        {
+          "id": "E02-S03-D04",
+          "role_id": "neon",
+          "voice_id": "4e32WqNVWRquDa1OcRYZ",
+          "voice_name": "Ryan — Product Reviewer",
+          "text": "Thirty-seven pages. They must feel absolutely terrible.",
+          "status": "recorded_review_pending"
+        },
+        {
+          "id": "E02-S03-D05",
+          "role_id": "seven_catleven_clerk",
+          "voice_id": "CwhRBWXzGAHq8TQ4Fs17",
+          "voice_name": "Roger - Laid-Back, Casual, Resonant",
+          "text": "There's the processing fee. Bottom of page thirty-seven.",
+          "status": "recorded_review_pending"
+        },
+        {
+          "id": "E02-S03-D06",
+          "role_id": "onyx",
+          "voice_id": "uq0HIbNZKn11Hs5ifEdd",
+          "voice_name": "Harry — Fierce Warrior",
+          "text": "They're charging her for being sorry to her?",
+          "status": "recorded_review_pending"
+        },
+        {
+          "id": "E02-S03-D07",
+          "role_id": "neon",
+          "voice_id": "4e32WqNVWRquDa1OcRYZ",
+          "voice_name": "Ryan — Product Reviewer",
+          "text": "Would you like to dispute the apology fee? Oh, brilliant. That has a fee too.",
+          "status": "recorded_review_pending"
+        },
+        {
+          "id": "E02-S03-D08",
+          "role_id": "trixie",
+          "voice_id": "dmWfLQZJq7wNPv9WmtiM",
+          "voice_name": "Emma — Wry, Gritty Hero",
+          "text": "Keep the pages. All of them. This isn't just the shop's problem anymore.",
+          "status": "recorded_review_pending"
+        },
+        {
+          "id": "E02-S03-D09",
+          "role_id": "byte",
+          "voice_id": "wo6udizrrtpIxWGp2qJk",
+          "voice_name": "Northern Terry",
+          "text": "And keep that case number. It's the first thing today that might actually be useful.",
+          "status": "recorded_review_pending"
+        }
+      ],
+      "speaking_cast": [
+        "byte",
+        "neon",
+        "onyx",
+        "seven_catleven_clerk",
+        "trixie"
+      ],
+      "word_count": 92,
+      "dialogue_estimate_seconds": 36.8
+    },
+    {
+      "id": "E02-S04",
+      "title": "Three Locks, One Key",
+      "start_sec": 140,
+      "duration_sec": 50,
+      "end_sec": 190,
+      "location_id": "LOC03",
+      "cast": [
+        "byte",
+        "ghost",
+        "trixie"
+      ],
+      "voice_ids": {
+        "byte": "wo6udizrrtpIxWGp2qJk",
+        "ghost": "7fBwqIVI6wI1B4MuKqQi",
+        "trixie": "dmWfLQZJq7wNPv9WmtiM"
+      },
+      "action": "Byte compares food-payment IDs, the warehouse lease and utility access. The same corporate identity ledger governs all three. Ghost warns that an overwrite would destroy provenance.",
+      "dramatic_purpose": "Define the system and the limits of the crew’s options.",
+      "status": "script draft; shot breakdown and performance timing pending",
+      "audio_status": "recorded_review_pending",
+      "video_status": "not submitted",
+      "lines": [
+        {
+          "id": "E02-S04-D01",
+          "role_id": "byte",
+          "voice_id": "wo6udizrrtpIxWGp2qJk",
+          "voice_name": "Northern Terry",
+          "text": "Food account. Electricity account. Warehouse lease. Different screens, same customer number underneath.",
+          "status": "recorded_review_pending"
+        },
+        {
+          "id": "E02-S04-D02",
+          "role_id": "ghost",
+          "voice_id": "7fBwqIVI6wI1B4MuKqQi",
+          "voice_name": "Austin — Upbeat",
+          "text": "Not customer. Identity. They attached everything to one identity record.",
+          "status": "recorded_review_pending"
+        },
+        {
+          "id": "E02-S04-D03",
+          "role_id": "trixie",
+          "voice_id": "dmWfLQZJq7wNPv9WmtiM",
+          "voice_name": "Emma — Wry, Gritty Hero",
+          "text": "So if they lock one thing, they lock your whole life?",
+          "status": "recorded_review_pending"
+        },
+        {
+          "id": "E02-S04-D04",
+          "role_id": "byte",
+          "voice_id": "wo6udizrrtpIxWGp2qJk",
+          "voice_name": "Northern Terry",
+          "text": "Not automatically. Somebody checked three separate boxes. Look at the timestamps.",
+          "status": "recorded_review_pending"
+        },
+        {
+          "id": "E02-S04-D05",
+          "role_id": "ghost",
+          "voice_id": "7fBwqIVI6wI1B4MuKqQi",
+          "voice_name": "Austin — Upbeat",
+          "text": "Payment access, tenant verification, utility review. All changed inside the same minute.",
+          "status": "recorded_review_pending"
+        },
+        {
+          "id": "E02-S04-D06",
+          "role_id": "trixie",
+          "voice_id": "dmWfLQZJq7wNPv9WmtiM",
+          "voice_name": "Emma — Wry, Gritty Hero",
+          "text": "Can you undo it?",
+          "status": "recorded_review_pending"
+        },
+        {
+          "id": "E02-S04-D07",
+          "role_id": "byte",
+          "voice_id": "wo6udizrrtpIxWGp2qJk",
+          "voice_name": "Northern Terry",
+          "text": "I can make the screen look different. That doesn't mean the shop will accept a payment.",
+          "status": "recorded_review_pending"
+        },
+        {
+          "id": "E02-S04-D08",
+          "role_id": "ghost",
+          "voice_id": "7fBwqIVI6wI1B4MuKqQi",
+          "voice_name": "Austin — Upbeat",
+          "text": "And changing the record could destroy the proof of who changed it first.",
+          "status": "recorded_review_pending"
+        },
+        {
+          "id": "E02-S04-D09",
+          "role_id": "trixie",
+          "voice_id": "dmWfLQZJq7wNPv9WmtiM",
+          "voice_name": "Emma — Wry, Gritty Hero",
+          "text": "Then we find the original order. I want the paw that signed it.",
+          "status": "recorded_review_pending"
+        }
+      ],
+      "speaking_cast": [
+        "byte",
+        "ghost",
+        "trixie"
+      ],
+      "word_count": 102,
+      "dialogue_estimate_seconds": 40.8
+    },
+    {
+      "id": "E02-S05",
+      "title": "The Freeze Order",
+      "start_sec": 190,
+      "duration_sec": 55,
+      "end_sec": 245,
+      "location_id": "HQ03",
+      "cast": [
+        "chairman_barkington"
+      ],
+      "voice_ids": {
+        "chairman_barkington": "bwCXcoVxWNYMlC6Esa8u"
+      },
+      "action": "Barkington authorizes enhanced fraud review for District 7 recipients and an accelerated lease inspection. The public explanation is administrative protection.",
+      "dramatic_purpose": "Reveal intent through a signed fictional administrative order.",
+      "status": "script draft; shot breakdown and performance timing pending",
+      "audio_status": "recorded_review_pending",
+      "video_status": "not submitted",
+      "lines": [
+        {
+          "id": "E02-S05-D01",
+          "role_id": "chairman_barkington",
+          "voice_id": "bwCXcoVxWNYMlC6Esa8u",
+          "voice_name": "Matthew Schmitz - Gravel, Deep Anti-Hero",
+          "text": "Food handed out without supervision creates expectations. Expectations create demands.",
+          "status": "recorded_review_pending"
+        },
+        {
+          "id": "E02-S05-D02",
+          "role_id": "chairman_barkington",
+          "voice_id": "bwCXcoVxWNYMlC6Esa8u",
+          "voice_name": "Matthew Schmitz - Gravel, Deep Anti-Hero",
+          "text": "Mark the recipients for enhanced review. Financial access, tenancy, the usual precautions.",
+          "status": "recorded_review_pending"
+        },
+        {
+          "id": "E02-S05-D03",
+          "role_id": "chairman_barkington",
+          "voice_id": "bwCXcoVxWNYMlC6Esa8u",
+          "voice_name": "Matthew Schmitz - Gravel, Deep Anti-Hero",
+          "text": "No, not the entire city. District Seven. Keep the filter exactly where it is.",
+          "status": "recorded_review_pending"
+        },
+        {
+          "id": "E02-S05-D04",
+          "role_id": "chairman_barkington",
+          "voice_id": "bwCXcoVxWNYMlC6Esa8u",
+          "voice_name": "Matthew Schmitz - Gravel, Deep Anti-Hero",
+          "text": "We are protecting vulnerable residents from suspicious generosity. Put that in the public notice.",
+          "status": "recorded_review_pending"
+        },
+        {
+          "id": "E02-S05-D05",
+          "role_id": "chairman_barkington",
+          "voice_id": "bwCXcoVxWNYMlC6Esa8u",
+          "voice_name": "Matthew Schmitz - Gravel, Deep Anti-Hero",
+          "text": "The warehouse lease comes up next month? Then inspect it this afternoon.",
+          "status": "recorded_review_pending"
+        },
+        {
+          "id": "E02-S05-D06",
+          "role_id": "chairman_barkington",
+          "voice_id": "bwCXcoVxWNYMlC6Esa8u",
+          "voice_name": "Matthew Schmitz - Gravel, Deep Anti-Hero",
+          "text": "A lawful notice, delivered politely. I don't need a spectacle. I need them occupied.",
+          "status": "recorded_review_pending"
+        },
+        {
+          "id": "E02-S05-D07",
+          "role_id": "chairman_barkington",
+          "voice_id": "bwCXcoVxWNYMlC6Esa8u",
+          "voice_name": "Matthew Schmitz - Gravel, Deep Anti-Hero",
+          "text": "And remove the word punishment from the draft. Have we learned nothing about presentation?",
+          "status": "recorded_review_pending"
+        }
+      ],
+      "speaking_cast": [
+        "chairman_barkington"
+      ],
+      "word_count": 90,
+      "dialogue_estimate_seconds": 36.0
+    },
+    {
+      "id": "E02-S06",
+      "title": "Receipts on the Table",
+      "start_sec": 245,
+      "duration_sec": 50,
+      "end_sec": 295,
+      "location_id": "LOC02",
+      "cast": [
+        "trixie",
+        "byte",
+        "ghost",
+        "neon",
+        "onyx"
+      ],
+      "voice_ids": {
+        "byte": "wo6udizrrtpIxWGp2qJk",
+        "ghost": "7fBwqIVI6wI1B4MuKqQi",
+        "neon": "4e32WqNVWRquDa1OcRYZ",
+        "onyx": "uq0HIbNZKn11Hs5ifEdd",
+        "trixie": "dmWfLQZJq7wNPv9WmtiM"
+      },
+      "action": "The crew lays paper receipts beside matching account notices. Trixie wants immediate relief; Byte points out that erasing balances also erases the overcharge evidence.",
+      "dramatic_purpose": "Make the central moral and practical choice concrete.",
+      "status": "script draft; shot breakdown and performance timing pending",
+      "audio_status": "recorded_review_pending",
+      "video_status": "not submitted",
+      "lines": [
+        {
+          "id": "E02-S06-D01",
+          "role_id": "neon",
+          "voice_id": "4e32WqNVWRquDa1OcRYZ",
+          "voice_name": "Ryan — Product Reviewer",
+          "text": "The table is officially full. Any more paperwork and we'll have to eat standing up.",
+          "status": "recorded_review_pending"
+        },
+        {
+          "id": "E02-S06-D02",
+          "role_id": "onyx",
+          "voice_id": "uq0HIbNZKn11Hs5ifEdd",
+          "voice_name": "Harry — Fierce Warrior",
+          "text": "We can't buy food. Finally, a problem that solves itself.",
+          "status": "recorded_review_pending"
+        },
+        {
+          "id": "E02-S06-D03",
+          "role_id": "trixie",
+          "voice_id": "dmWfLQZJq7wNPv9WmtiM",
+          "voice_name": "Emma — Wry, Gritty Hero",
+          "text": "We have enough in the crates for tonight. We don't have enough for every night.",
+          "status": "recorded_review_pending"
+        },
+        {
+          "id": "E02-S06-D04",
+          "role_id": "byte",
+          "voice_id": "wo6udizrrtpIxWGp2qJk",
+          "voice_name": "Northern Terry",
+          "text": "These are the delivery receipts. Every frozen customer on this stack received a crate.",
+          "status": "recorded_review_pending"
+        },
+        {
+          "id": "E02-S06-D05",
+          "role_id": "ghost",
+          "voice_id": "7fBwqIVI6wI1B4MuKqQi",
+          "voice_name": "Austin — Upbeat",
+          "text": "That's a pattern. It isn't the signed instruction yet.",
+          "status": "recorded_review_pending"
+        },
+        {
+          "id": "E02-S06-D06",
+          "role_id": "trixie",
+          "voice_id": "dmWfLQZJq7wNPv9WmtiM",
+          "voice_name": "Emma — Wry, Gritty Hero",
+          "text": "They did this because we helped. How much more proof do we need?",
+          "status": "recorded_review_pending"
+        },
+        {
+          "id": "E02-S06-D07",
+          "role_id": "byte",
+          "voice_id": "wo6udizrrtpIxWGp2qJk",
+          "voice_name": "Northern Terry",
+          "text": "Enough that they can't call it a guess. Enough to get those accounts opened again.",
+          "status": "recorded_review_pending"
+        },
+        {
+          "id": "E02-S06-D08",
+          "role_id": "trixie",
+          "voice_id": "dmWfLQZJq7wNPv9WmtiM",
+          "voice_name": "Emma — Wry, Gritty Hero",
+          "text": "Then keep the receipts. We fix the freeze, and we keep the proof.",
+          "status": "recorded_review_pending"
+        },
+        {
+          "id": "E02-S06-D09",
+          "role_id": "onyx",
+          "voice_id": "uq0HIbNZKn11Hs5ifEdd",
+          "voice_name": "Harry — Fierce Warrior",
+          "text": "Good. I was getting attached to being angry for a reason.",
+          "status": "recorded_review_pending"
+        }
+      ],
+      "speaking_cast": [
+        "byte",
+        "ghost",
+        "neon",
+        "onyx",
+        "trixie"
+      ],
+      "word_count": 115,
+      "dialogue_estimate_seconds": 46.0
+    },
+    {
+      "id": "E02-S07",
+      "title": "Keep the Evidence",
+      "start_sec": 295,
+      "duration_sec": 55,
+      "end_sec": 350,
+      "location_id": "LOC03",
+      "cast": [
+        "trixie",
+        "byte",
+        "ghost"
+      ],
+      "voice_ids": {
+        "byte": "wo6udizrrtpIxWGp2qJk",
+        "ghost": "7fBwqIVI6wI1B4MuKqQi",
+        "trixie": "dmWfLQZJq7wNPv9WmtiM"
+      },
+      "action": "They choose to preserve the signed account-change record and appeal the freeze. Ghost needs a legitimate copy exposed through a public service case; no magical total access.",
+      "dramatic_purpose": "Set a constrained, comprehensible plan.",
+      "status": "script draft; shot breakdown and performance timing pending",
+      "audio_status": "recorded_review_pending",
+      "video_status": "not submitted",
+      "lines": [
+        {
+          "id": "E02-S07-D01",
+          "role_id": "trixie",
+          "voice_id": "dmWfLQZJq7wNPv9WmtiM",
+          "voice_name": "Emma — Wry, Gritty Hero",
+          "text": "Tell me what you need, not what you wish this system would let you do.",
+          "status": "recorded_review_pending"
+        },
+        {
+          "id": "E02-S07-D02",
+          "role_id": "ghost",
+          "voice_id": "7fBwqIVI6wI1B4MuKqQi",
+          "voice_name": "Austin — Upbeat",
+          "text": "A real appeal number. The account holder can request the decision record through an appeal.",
+          "status": "recorded_review_pending"
+        },
+        {
+          "id": "E02-S07-D03",
+          "role_id": "byte",
+          "voice_id": "wo6udizrrtpIxWGp2qJk",
+          "voice_name": "Northern Terry",
+          "text": "And a copy of the order before anyone rewrites the explanation.",
+          "status": "recorded_review_pending"
+        },
+        {
+          "id": "E02-S07-D04",
+          "role_id": "trixie",
+          "voice_id": "dmWfLQZJq7wNPv9WmtiM",
+          "voice_name": "Emma — Wry, Gritty Hero",
+          "text": "We could just clear the balances. Give everyone a clean slate.",
+          "status": "recorded_review_pending"
+        },
+        {
+          "id": "E02-S07-D05",
+          "role_id": "byte",
+          "voice_id": "wo6udizrrtpIxWGp2qJk",
+          "voice_name": "Northern Terry",
+          "text": "And erase who was overcharged, who paid, who still needs their money back?",
+          "status": "recorded_review_pending"
+        },
+        {
+          "id": "E02-S07-D06",
+          "role_id": "ghost",
+          "voice_id": "7fBwqIVI6wI1B4MuKqQi",
+          "voice_name": "Austin — Upbeat",
+          "text": "A blank record helps the dogs too. Nothing left for anyone to challenge.",
+          "status": "recorded_review_pending"
+        },
+        {
+          "id": "E02-S07-D07",
+          "role_id": "trixie",
+          "voice_id": "dmWfLQZJq7wNPv9WmtiM",
+          "voice_name": "Emma — Wry, Gritty Hero",
+          "text": "All right. No erasing. We keep the ugly bits exactly where they can be seen.",
+          "status": "recorded_review_pending"
+        },
+        {
+          "id": "E02-S07-D08",
+          "role_id": "byte",
+          "voice_id": "wo6udizrrtpIxWGp2qJk",
+          "voice_name": "Northern Terry",
+          "text": "You take the appeal. We'll compare the records when it opens.",
+          "status": "recorded_review_pending"
+        },
+        {
+          "id": "E02-S07-D09",
+          "role_id": "trixie",
+          "voice_id": "dmWfLQZJq7wNPv9WmtiM",
+          "voice_name": "Emma — Wry, Gritty Hero",
+          "text": "And nobody does anything that makes dinner depend on a clever guess.",
+          "status": "recorded_review_pending"
+        }
+      ],
+      "speaking_cast": [
+        "byte",
+        "ghost",
+        "trixie"
+      ],
+      "word_count": 116,
+      "dialogue_estimate_seconds": 46.4
+    },
+    {
+      "id": "E02-S08",
+      "title": "Offline Does Not Mean Forgotten",
+      "start_sec": 350,
+      "duration_sec": 45,
+      "end_sec": 395,
+      "location_id": "LOC04",
+      "cast": [
+        "neon",
+        "onyx",
+        "civilian_2"
+      ],
+      "voice_ids": {
+        "civilian_2": "b5RPB35vTODb3BEmR3Fc",
+        "neon": "4e32WqNVWRquDa1OcRYZ",
+        "onyx": "uq0HIbNZKn11Hs5ifEdd"
+      },
+      "action": "Neon makes a paper-first delivery register. Onyx verifies names at the door. A resident fears losing access by being listed; they explain what is and is not recorded.",
+      "dramatic_purpose": "The community gets agency and practical protection.",
+      "status": "script draft; shot breakdown and performance timing pending",
+      "audio_status": "recorded_review_pending",
+      "video_status": "not submitted",
+      "lines": [
+        {
+          "id": "E02-S08-D01",
+          "role_id": "neon",
+          "voice_id": "4e32WqNVWRquDa1OcRYZ",
+          "voice_name": "Ryan — Product Reviewer",
+          "text": "Name, building, number of meals. Nothing else goes on the delivery sheet.",
+          "status": "recorded_review_pending"
+        },
+        {
+          "id": "E02-S08-D02",
+          "role_id": "civilian_2",
+          "voice_id": "b5RPB35vTODb3BEmR3Fc",
+          "voice_name": "Serein - Friendly, Casual and Balanced",
+          "text": "They already used one list against us. Why should I put my name on another?",
+          "status": "recorded_review_pending"
+        },
+        {
+          "id": "E02-S08-D03",
+          "role_id": "onyx",
+          "voice_id": "uq0HIbNZKn11Hs5ifEdd",
+          "voice_name": "Harry — Fierce Warrior",
+          "text": "You shouldn't have to trust a screen you can't see. You keep your half of the receipt.",
+          "status": "recorded_review_pending"
+        },
+        {
+          "id": "E02-S08-D04",
+          "role_id": "neon",
+          "voice_id": "4e32WqNVWRquDa1OcRYZ",
+          "voice_name": "Ryan — Product Reviewer",
+          "text": "This copy stays here, on paper. We don't send your name to the news.",
+          "status": "recorded_review_pending"
+        },
+        {
+          "id": "E02-S08-D05",
+          "role_id": "civilian_2",
+          "voice_id": "b5RPB35vTODb3BEmR3Fc",
+          "voice_name": "Serein - Friendly, Casual and Balanced",
+          "text": "And if the dogs come looking for it?",
+          "status": "recorded_review_pending"
+        },
+        {
+          "id": "E02-S08-D06",
+          "role_id": "onyx",
+          "voice_id": "uq0HIbNZKn11Hs5ifEdd",
+          "voice_name": "Harry — Fierce Warrior",
+          "text": "Then we tell them it's a dinner list. Because that's what it is.",
+          "status": "recorded_review_pending"
+        },
+        {
+          "id": "E02-S08-D07",
+          "role_id": "neon",
+          "voice_id": "4e32WqNVWRquDa1OcRYZ",
+          "voice_name": "Ryan — Product Reviewer",
+          "text": "You can use your building number instead. We need to find your door, not own your life.",
+          "status": "recorded_review_pending"
+        },
+        {
+          "id": "E02-S08-D08",
+          "role_id": "civilian_2",
+          "voice_id": "b5RPB35vTODb3BEmR3Fc",
+          "voice_name": "Serein - Friendly, Casual and Balanced",
+          "text": "Building nine. Third floor. There are two of us.",
+          "status": "recorded_review_pending"
+        },
+        {
+          "id": "E02-S08-D09",
+          "role_id": "onyx",
+          "voice_id": "uq0HIbNZKn11Hs5ifEdd",
+          "voice_name": "Harry — Fierce Warrior",
+          "text": "Two meals. No lecture. That's our entire terms and conditions.",
+          "status": "recorded_review_pending"
+        }
+      ],
+      "speaking_cast": [
+        "civilian_2",
+        "neon",
+        "onyx"
+      ],
+      "word_count": 115,
+      "dialogue_estimate_seconds": 46.0
+    },
+    {
+      "id": "E02-S09",
+      "title": "Take a Number",
+      "start_sec": 395,
+      "duration_sec": 50,
+      "end_sec": 445,
+      "location_id": "HQ10",
+      "cast": [
+        "trixie",
+        "onyx",
+        "neon"
+      ],
+      "voice_ids": {
+        "neon": "4e32WqNVWRquDa1OcRYZ",
+        "onyx": "uq0HIbNZKn11Hs5ifEdd",
+        "trixie": "dmWfLQZJq7wNPv9WmtiM"
+      },
+      "action": "At the public-service annex, the number dispenser sends them to a second dispenser. Onyx starts documenting every rule instead of breaking the queue.",
+      "dramatic_purpose": "Introduce the service set and a comic strategy that pays off.",
+      "status": "script draft; shot breakdown and performance timing pending",
+      "audio_status": "recorded_review_pending",
+      "video_status": "not submitted",
+      "lines": [
+        {
+          "id": "E02-S09-D01",
+          "role_id": "neon",
+          "voice_id": "4e32WqNVWRquDa1OcRYZ",
+          "voice_name": "Ryan — Product Reviewer",
+          "text": "Welcome to Goodboy Global. Please take a number to receive your queue number.",
+          "status": "recorded_review_pending"
+        },
+        {
+          "id": "E02-S09-D02",
+          "role_id": "onyx",
+          "voice_id": "uq0HIbNZKn11Hs5ifEdd",
+          "voice_name": "Harry — Fierce Warrior",
+          "text": "I refuse to believe those are two different numbers.",
+          "status": "recorded_review_pending"
+        },
+        {
+          "id": "E02-S09-D03",
+          "role_id": "trixie",
+          "voice_id": "dmWfLQZJq7wNPv9WmtiM",
+          "voice_name": "Emma — Wry, Gritty Hero",
+          "text": "They are. We have thirty-eight. We need a ticket to stand in line for thirty-eight.",
+          "status": "recorded_review_pending"
+        },
+        {
+          "id": "E02-S09-D04",
+          "role_id": "neon",
+          "voice_id": "4e32WqNVWRquDa1OcRYZ",
+          "voice_name": "Ryan — Product Reviewer",
+          "text": "Maybe the first number is emotional support for the second number.",
+          "status": "recorded_review_pending"
+        },
+        {
+          "id": "E02-S09-D05",
+          "role_id": "onyx",
+          "voice_id": "uq0HIbNZKn11Hs5ifEdd",
+          "voice_name": "Harry — Fierce Warrior",
+          "text": "There. The rules board. If they're going to build a maze, I'm reading the map.",
+          "status": "recorded_review_pending"
+        },
+        {
+          "id": "E02-S09-D06",
+          "role_id": "trixie",
+          "voice_id": "dmWfLQZJq7wNPv9WmtiM",
+          "voice_name": "Emma — Wry, Gritty Hero",
+          "text": "We're not spending all day in here.",
+          "status": "recorded_review_pending"
+        },
+        {
+          "id": "E02-S09-D07",
+          "role_id": "onyx",
+          "voice_id": "uq0HIbNZKn11Hs5ifEdd",
+          "voice_name": "Harry — Fierce Warrior",
+          "text": "We might. But I'm making it their problem too.",
+          "status": "recorded_review_pending"
+        },
+        {
+          "id": "E02-S09-D08",
+          "role_id": "neon",
+          "voice_id": "4e32WqNVWRquDa1OcRYZ",
+          "voice_name": "Ryan — Product Reviewer",
+          "text": "I'll photograph the board before somebody changes the rules halfway through the queue.",
+          "status": "recorded_review_pending"
+        }
+      ],
+      "speaking_cast": [
+        "neon",
+        "onyx",
+        "trixie"
+      ],
+      "word_count": 92,
+      "dialogue_estimate_seconds": 36.8
+    },
+    {
+      "id": "E02-S10",
+      "title": "A Fee to Dispute a Fee",
+      "start_sec": 445,
+      "duration_sec": 55,
+      "end_sec": 500,
+      "location_id": "HQ10",
+      "cast": [
+        "trixie",
+        "onyx"
+      ],
+      "voice_ids": {
+        "neon": "4e32WqNVWRquDa1OcRYZ",
+        "onyx": "uq0HIbNZKn11Hs5ifEdd",
+        "trixie": "dmWfLQZJq7wNPv9WmtiM"
+      },
+      "action": "A terminal demands payment before accepting a frozen-account complaint. Trixie finds the hardship exception; the terminal demands proof they cannot pay.",
+      "dramatic_purpose": "A specific procedural trap increases pressure.",
+      "status": "script draft; shot breakdown and performance timing pending",
+      "audio_status": "recorded_review_pending",
+      "video_status": "not submitted",
+      "lines": [
+        {
+          "id": "E02-S10-D01",
+          "role_id": "trixie",
+          "voice_id": "dmWfLQZJq7wNPv9WmtiM",
+          "voice_name": "Emma — Wry, Gritty Hero",
+          "text": "It wants a payment before it will accept the frozen-account complaint.",
+          "status": "recorded_review_pending"
+        },
+        {
+          "id": "E02-S10-D02",
+          "role_id": "onyx",
+          "voice_id": "uq0HIbNZKn11Hs5ifEdd",
+          "voice_name": "Harry — Fierce Warrior",
+          "text": "Of course it does. You can only complain about being locked out if you aren't locked out.",
+          "status": "recorded_review_pending"
+        },
+        {
+          "id": "E02-S10-D03",
+          "role_id": "neon",
+          "voice_id": "4e32WqNVWRquDa1OcRYZ",
+          "voice_name": "Ryan — Product Reviewer",
+          "text": "There! Hardship exception. That's us. We're extremely hardshipped.",
+          "status": "recorded_review_pending"
+        },
+        {
+          "id": "E02-S10-D04",
+          "role_id": "trixie",
+          "voice_id": "dmWfLQZJq7wNPv9WmtiM",
+          "voice_name": "Emma — Wry, Gritty Hero",
+          "text": "Proof of inability to pay. We just gave it that. It declined the payment.",
+          "status": "recorded_review_pending"
+        },
+        {
+          "id": "E02-S10-D05",
+          "role_id": "onyx",
+          "voice_id": "uq0HIbNZKn11Hs5ifEdd",
+          "voice_name": "Harry — Fierce Warrior",
+          "text": "Ask it to print the decline. Make the stupid thing testify against itself.",
+          "status": "recorded_review_pending"
+        },
+        {
+          "id": "E02-S10-D06",
+          "role_id": "neon",
+          "voice_id": "4e32WqNVWRquDa1OcRYZ",
+          "voice_name": "Ryan — Product Reviewer",
+          "text": "Paper out. Naturally. The most powerful corporation in the city has run out of paper.",
+          "status": "recorded_review_pending"
+        },
+        {
+          "id": "E02-S10-D07",
+          "role_id": "trixie",
+          "voice_id": "dmWfLQZJq7wNPv9WmtiM",
+          "voice_name": "Emma — Wry, Gritty Hero",
+          "text": "Use the apology. Thirty-six pages are blank on the back.",
+          "status": "recorded_review_pending"
+        },
+        {
+          "id": "E02-S10-D08",
+          "role_id": "onyx",
+          "voice_id": "uq0HIbNZKn11Hs5ifEdd",
+          "voice_name": "Harry — Fierce Warrior",
+          "text": "At last, an apology with practical value.",
+          "status": "recorded_review_pending"
+        },
+        {
+          "id": "E02-S10-D09",
+          "role_id": "trixie",
+          "voice_id": "dmWfLQZJq7wNPv9WmtiM",
+          "voice_name": "Emma — Wry, Gritty Hero",
+          "text": "Keep page thirty-seven. I'm not losing the proof they charged us for it.",
+          "status": "recorded_review_pending"
+        }
+      ],
+      "speaking_cast": [
+        "neon",
+        "onyx",
+        "trixie"
+      ],
+      "word_count": 108,
+      "dialogue_estimate_seconds": 43.2
+    },
+    {
+      "id": "E02-S11",
+      "title": "Every Posted Rule",
+      "start_sec": 500,
+      "duration_sec": 50,
+      "end_sec": 550,
+      "location_id": "HQ10",
+      "cast": [
+        "onyx",
+        "neon"
+      ],
+      "voice_ids": {
+        "neon": "4e32WqNVWRquDa1OcRYZ",
+        "onyx": "uq0HIbNZKn11Hs5ifEdd",
+        "trixie": "dmWfLQZJq7wNPv9WmtiM"
+      },
+      "action": "Onyx reads the entire posted policy and spots a paper-appeal option. He calmly refuses the express fee and requests the required acknowledgment.",
+      "dramatic_purpose": "His patience, rather than intimidation, earns the case number.",
+      "status": "script draft; shot breakdown and performance timing pending",
+      "audio_status": "recorded_review_pending",
+      "video_status": "not submitted",
+      "lines": [
+        {
+          "id": "E02-S11-D01",
+          "role_id": "onyx",
+          "voice_id": "uq0HIbNZKn11Hs5ifEdd",
+          "voice_name": "Harry — Fierce Warrior",
+          "text": "Section eight. A person unable to access electronic payment may lodge a written appeal.",
+          "status": "recorded_review_pending"
+        },
+        {
+          "id": "E02-S11-D02",
+          "role_id": "neon",
+          "voice_id": "4e32WqNVWRquDa1OcRYZ",
+          "voice_name": "Ryan — Product Reviewer",
+          "text": "It says may. That's not the same as must be made miserable while trying.",
+          "status": "recorded_review_pending"
+        },
+        {
+          "id": "E02-S11-D03",
+          "role_id": "trixie",
+          "voice_id": "dmWfLQZJq7wNPv9WmtiM",
+          "voice_name": "Emma — Wry, Gritty Hero",
+          "text": "Where do we lodge it? Every counter points back to the terminal.",
+          "status": "recorded_review_pending"
+        },
+        {
+          "id": "E02-S11-D04",
+          "role_id": "onyx",
+          "voice_id": "uq0HIbNZKn11Hs5ifEdd",
+          "voice_name": "Harry — Fierce Warrior",
+          "text": "Section nine. The receiving office must issue a dated acknowledgment. This is the receiving office.",
+          "status": "recorded_review_pending"
+        },
+        {
+          "id": "E02-S11-D05",
+          "role_id": "neon",
+          "voice_id": "4e32WqNVWRquDa1OcRYZ",
+          "voice_name": "Ryan — Product Reviewer",
+          "text": "You've been reading that board for twenty minutes. You memorized the whole thing?",
+          "status": "recorded_review_pending"
+        },
+        {
+          "id": "E02-S11-D06",
+          "role_id": "onyx",
+          "voice_id": "uq0HIbNZKn11Hs5ifEdd",
+          "voice_name": "Harry — Fierce Warrior",
+          "text": "I got bored. Then I got annoyed. It's a very effective educational method.",
+          "status": "recorded_review_pending"
+        },
+        {
+          "id": "E02-S11-D07",
+          "role_id": "trixie",
+          "voice_id": "dmWfLQZJq7wNPv9WmtiM",
+          "voice_name": "Emma — Wry, Gritty Hero",
+          "text": "There's the paper slot. Put the receipt on top, then the account notice.",
+          "status": "recorded_review_pending"
+        },
+        {
+          "id": "E02-S11-D08",
+          "role_id": "onyx",
+          "voice_id": "uq0HIbNZKn11Hs5ifEdd",
+          "voice_name": "Harry — Fierce Warrior",
+          "text": "And now we wait for the acknowledgment. Their rule. Their machine. Their problem.",
+          "status": "recorded_review_pending"
+        },
+        {
+          "id": "E02-S11-D09",
+          "role_id": "neon",
+          "voice_id": "4e32WqNVWRquDa1OcRYZ",
+          "voice_name": "Ryan — Product Reviewer",
+          "text": "It printed one! Look at that. We successfully asked for help. Historic day.",
+          "status": "recorded_review_pending"
+        }
+      ],
+      "speaking_cast": [
+        "neon",
+        "onyx",
+        "trixie"
+      ],
+      "word_count": 120,
+      "dialogue_estimate_seconds": 48.0
+    },
+    {
+      "id": "E02-S12",
+      "title": "Signed and Dated",
+      "start_sec": 550,
+      "duration_sec": 55,
+      "end_sec": 605,
+      "location_id": "LOC03",
+      "cast": [
+        "ghost",
+        "byte"
+      ],
+      "voice_ids": {
+        "byte": "wo6udizrrtpIxWGp2qJk",
+        "ghost": "7fBwqIVI6wI1B4MuKqQi"
+      },
+      "action": "The case attachment contains the signed freeze-order record. Byte compares its time to the public explanation and delivery receipts. They preserve an unmodified copy.",
+      "dramatic_purpose": "Acquire evidence through the established appeal, not an unexplained hack.",
+      "status": "script draft; shot breakdown and performance timing pending",
+      "audio_status": "recorded_review_pending",
+      "video_status": "not submitted",
+      "lines": [
+        {
+          "id": "E02-S12-D01",
+          "role_id": "byte",
+          "voice_id": "wo6udizrrtpIxWGp2qJk",
+          "voice_name": "Northern Terry",
+          "text": "We have the appeal number. The attachments just opened. Ghost, look at the first page.",
+          "status": "recorded_review_pending"
+        },
+        {
+          "id": "E02-S12-D02",
+          "role_id": "ghost",
+          "voice_id": "7fBwqIVI6wI1B4MuKqQi",
+          "voice_name": "Austin — Upbeat",
+          "text": "Signed freeze order. District Seven recipients. Payment and tenancy review in the same instruction.",
+          "status": "recorded_review_pending"
+        },
+        {
+          "id": "E02-S12-D03",
+          "role_id": "byte",
+          "voice_id": "wo6udizrrtpIxWGp2qJk",
+          "voice_name": "Northern Terry",
+          "text": "The order came before their suspicious-activity notice. They chose the people first.",
+          "status": "recorded_review_pending"
+        },
+        {
+          "id": "E02-S12-D04",
+          "role_id": "ghost",
+          "voice_id": "7fBwqIVI6wI1B4MuKqQi",
+          "voice_name": "Austin — Upbeat",
+          "text": "Don't rename the original. Copy it into the evidence folder and keep the issue time.",
+          "status": "recorded_review_pending"
+        },
+        {
+          "id": "E02-S12-D05",
+          "role_id": "byte",
+          "voice_id": "wo6udizrrtpIxWGp2qJk",
+          "voice_name": "Northern Terry",
+          "text": "Already doing it. Original, working copy, and a printed copy for Trixie to wave angrily.",
+          "status": "recorded_review_pending"
+        },
+        {
+          "id": "E02-S12-D06",
+          "role_id": "ghost",
+          "voice_id": "7fBwqIVI6wI1B4MuKqQi",
+          "voice_name": "Austin — Upbeat",
+          "text": "Keep the signature page attached. A screenshot of one sentence won't prove the rest.",
+          "status": "recorded_review_pending"
+        },
+        {
+          "id": "E02-S12-D07",
+          "role_id": "byte",
+          "voice_id": "wo6udizrrtpIxWGp2qJk",
+          "voice_name": "Northern Terry",
+          "text": "You think they'll say we made it up?",
+          "status": "recorded_review_pending"
+        },
+        {
+          "id": "E02-S12-D08",
+          "role_id": "ghost",
+          "voice_id": "7fBwqIVI6wI1B4MuKqQi",
+          "voice_name": "Austin — Upbeat",
+          "text": "I think we should make that a difficult thing to say.",
+          "status": "recorded_review_pending"
+        },
+        {
+          "id": "E02-S12-D09",
+          "role_id": "byte",
+          "voice_id": "wo6udizrrtpIxWGp2qJk",
+          "voice_name": "Northern Terry",
+          "text": "Good. Difficult is one of my better subjects.",
+          "status": "recorded_review_pending"
+        }
+      ],
+      "speaking_cast": [
+        "byte",
+        "ghost"
+      ],
+      "word_count": 112,
+      "dialogue_estimate_seconds": 44.8
+    },
+    {
+      "id": "E02-S13",
+      "title": "Protection on Television",
+      "start_sec": 605,
+      "duration_sec": 45,
+      "end_sec": 650,
+      "location_id": "LOC13",
+      "cast": [
+        "woof7_anchor"
+      ],
+      "voice_ids": {
+        "civilian_1": "DODLEQrClDo8wCz460ld",
+        "seven_catleven_clerk": "CwhRBWXzGAHq8TQ4Fs17",
+        "woof7_anchor": "cjVigY5qzO86Huf0OWal"
+      },
+      "action": "WOOF7 calls the freezes a voluntary consumer-protection review. Cut to affected residents unable to buy supper; broadcast stays in the physical television when viewed in-world.",
+      "dramatic_purpose": "Show the gap between official language and lived consequences.",
+      "status": "script draft; shot breakdown and performance timing pending",
+      "audio_status": "recorded_review_pending",
+      "video_status": "not submitted",
+      "lines": [
+        {
+          "id": "E02-S13-D01",
+          "role_id": "woof7_anchor",
+          "voice_id": "cjVigY5qzO86Huf0OWal",
+          "voice_name": "Eric",
+          "text": "Goodboy Global has introduced a voluntary consumer-protection review for selected accounts.",
+          "status": "recorded_review_pending"
+        },
+        {
+          "id": "E02-S13-D02",
+          "role_id": "woof7_anchor",
+          "voice_id": "cjVigY5qzO86Huf0OWal",
+          "voice_name": "Eric",
+          "text": "Residents are reminded that a temporary restriction is not a punishment. It is an opportunity to demonstrate compliance.",
+          "status": "recorded_review_pending"
+        },
+        {
+          "id": "E02-S13-D03",
+          "role_id": "woof7_anchor",
+          "voice_id": "cjVigY5qzO86Huf0OWal",
+          "voice_name": "Eric",
+          "text": "The company says ordinary shopping will resume as soon as the necessary checks are complete.",
+          "status": "recorded_review_pending"
+        },
+        {
+          "id": "E02-S13-D04",
+          "role_id": "civilian_1",
+          "voice_id": "DODLEQrClDo8wCz460ld",
+          "voice_name": "Lauren - Friendly, Comforting and Soft",
+          "text": "Voluntary? Nobody asked me.",
+          "status": "recorded_review_pending"
+        },
+        {
+          "id": "E02-S13-D05",
+          "role_id": "seven_catleven_clerk",
+          "voice_id": "CwhRBWXzGAHq8TQ4Fs17",
+          "voice_name": "Roger - Laid-Back, Casual, Resonant",
+          "text": "They didn't ask the fish either. It's going warm while that machine thinks about your money.",
+          "status": "recorded_review_pending"
+        },
+        {
+          "id": "E02-S13-D06",
+          "role_id": "civilian_1",
+          "voice_id": "DODLEQrClDo8wCz460ld",
+          "voice_name": "Lauren - Friendly, Comforting and Soft",
+          "text": "My wages are still there. Every time I look, they're still there.",
+          "status": "recorded_review_pending"
+        },
+        {
+          "id": "E02-S13-D07",
+          "role_id": "seven_catleven_clerk",
+          "voice_id": "CwhRBWXzGAHq8TQ4Fs17",
+          "voice_name": "Roger - Laid-Back, Casual, Resonant",
+          "text": "Put the salmon in your bag. We'll settle the receipt when they unlock it.",
+          "status": "recorded_review_pending"
+        },
+        {
+          "id": "E02-S13-D08",
+          "role_id": "civilian_1",
+          "voice_id": "DODLEQrClDo8wCz460ld",
+          "voice_name": "Lauren - Friendly, Comforting and Soft",
+          "text": "You could get in trouble for that.",
+          "status": "recorded_review_pending"
+        },
+        {
+          "id": "E02-S13-D09",
+          "role_id": "seven_catleven_clerk",
+          "voice_id": "CwhRBWXzGAHq8TQ4Fs17",
+          "voice_name": "Roger - Laid-Back, Casual, Resonant",
+          "text": "Then they'd better bring a longer apology.",
+          "status": "recorded_review_pending"
+        }
+      ],
+      "speaking_cast": [
+        "civilian_1",
+        "seven_catleven_clerk",
+        "woof7_anchor"
+      ],
+      "word_count": 104,
+      "dialogue_estimate_seconds": 41.6
+    },
+    {
+      "id": "E02-S14",
+      "title": "The Lease Clock",
+      "start_sec": 650,
+      "duration_sec": 50,
+      "end_sec": 700,
+      "location_id": "LOC01",
+      "cast": [
+        "trixie",
+        "onyx",
+        "dog_guard_a"
+      ],
+      "voice_ids": {
+        "dog_guard_a": "TxWZERZ5Hc6h9dGxVmXa",
+        "onyx": "uq0HIbNZKn11Hs5ifEdd",
+        "trixie": "dmWfLQZJq7wNPv9WmtiM"
+      },
+      "action": "A notice on the warehouse door gives a near-term compliance deadline. The organic officer delivers paperwork, while the robot-factory design remains separate.",
+      "dramatic_purpose": "Link the warehouse threat to the same identity ledger.",
+      "status": "script draft; shot breakdown and performance timing pending",
+      "audio_status": "recorded_review_pending",
+      "video_status": "not submitted",
+      "lines": [
+        {
+          "id": "E02-S14-D01",
+          "role_id": "dog_guard_a",
+          "voice_id": "TxWZERZ5Hc6h9dGxVmXa",
+          "voice_name": "Jerry B. - Gruff and Gritty Commander",
+          "text": "Compliance notice. I'm required to deliver it to the registered tenant.",
+          "status": "recorded_review_pending"
+        },
+        {
+          "id": "E02-S14-D02",
+          "role_id": "trixie",
+          "voice_id": "dmWfLQZJq7wNPv9WmtiM",
+          "voice_name": "Emma — Wry, Gritty Hero",
+          "text": "That would be us. What's wrong with the building this time?",
+          "status": "recorded_review_pending"
+        },
+        {
+          "id": "E02-S14-D03",
+          "role_id": "dog_guard_a",
+          "voice_id": "TxWZERZ5Hc6h9dGxVmXa",
+          "voice_name": "Jerry B. - Gruff and Gritty Commander",
+          "text": "Your tenant verification has changed. You have until the posted deadline to resolve it.",
+          "status": "recorded_review_pending"
+        },
+        {
+          "id": "E02-S14-D04",
+          "role_id": "onyx",
+          "voice_id": "uq0HIbNZKn11Hs5ifEdd",
+          "voice_name": "Harry — Fierce Warrior",
+          "text": "It changed because you froze the account we use to verify it.",
+          "status": "recorded_review_pending"
+        },
+        {
+          "id": "E02-S14-D05",
+          "role_id": "dog_guard_a",
+          "voice_id": "TxWZERZ5Hc6h9dGxVmXa",
+          "voice_name": "Jerry B. - Gruff and Gritty Commander",
+          "text": "I'm delivering the notice. I don't control the account.",
+          "status": "recorded_review_pending"
+        },
+        {
+          "id": "E02-S14-D06",
+          "role_id": "trixie",
+          "voice_id": "dmWfLQZJq7wNPv9WmtiM",
+          "voice_name": "Emma — Wry, Gritty Hero",
+          "text": "Then write down that we received it and disputed it. Both things. Not just the convenient one.",
+          "status": "recorded_review_pending"
+        },
+        {
+          "id": "E02-S14-D07",
+          "role_id": "dog_guard_a",
+          "voice_id": "TxWZERZ5Hc6h9dGxVmXa",
+          "voice_name": "Jerry B. - Gruff and Gritty Commander",
+          "text": "There's no box for that.",
+          "status": "recorded_review_pending"
+        },
+        {
+          "id": "E02-S14-D08",
+          "role_id": "onyx",
+          "voice_id": "uq0HIbNZKn11Hs5ifEdd",
+          "voice_name": "Harry — Fierce Warrior",
+          "text": "There's a whole blank side on the paper. Be creative.",
+          "status": "recorded_review_pending"
+        },
+        {
+          "id": "E02-S14-D09",
+          "role_id": "dog_guard_a",
+          "voice_id": "TxWZERZ5Hc6h9dGxVmXa",
+          "voice_name": "Jerry B. - Gruff and Gritty Commander",
+          "text": "I'll note the dispute. Keep your copy.",
+          "status": "recorded_review_pending"
+        },
+        {
+          "id": "E02-S14-D10",
+          "role_id": "trixie",
+          "voice_id": "dmWfLQZJq7wNPv9WmtiM",
+          "voice_name": "Emma — Wry, Gritty Hero",
+          "text": "We are getting very good at keeping copies.",
+          "status": "recorded_review_pending"
+        }
+      ],
+      "speaking_cast": [
+        "dog_guard_a",
+        "onyx",
+        "trixie"
+      ],
+      "word_count": 104,
+      "dialogue_estimate_seconds": 41.6
+    },
+    {
+      "id": "E02-S15",
+      "title": "Copy, Do Not Erase",
+      "start_sec": 700,
+      "duration_sec": 50,
+      "end_sec": 750,
+      "location_id": "LOC03",
+      "cast": [
+        "ghost",
+        "byte",
+        "trixie"
+      ],
+      "voice_ids": {
+        "byte": "wo6udizrrtpIxWGp2qJk",
+        "ghost": "7fBwqIVI6wI1B4MuKqQi",
+        "trixie": "dmWfLQZJq7wNPv9WmtiM"
+      },
+      "action": "Trixie declines the tempting destructive shortcut. Byte creates a comparison package containing receipts, timestamps and the signed order, with resident details withheld from the public copy.",
+      "dramatic_purpose": "Pay off the evidence-versus-erasure choice.",
+      "status": "script draft; shot breakdown and performance timing pending",
+      "audio_status": "recorded_review_pending",
+      "video_status": "not submitted",
+      "lines": [
+        {
+          "id": "E02-S15-D01",
+          "role_id": "trixie",
+          "voice_id": "dmWfLQZJq7wNPv9WmtiM",
+          "voice_name": "Emma — Wry, Gritty Hero",
+          "text": "We can make their numbers vanish, or we can make their explanation fall apart.",
+          "status": "recorded_review_pending"
+        },
+        {
+          "id": "E02-S15-D02",
+          "role_id": "byte",
+          "voice_id": "wo6udizrrtpIxWGp2qJk",
+          "voice_name": "Northern Terry",
+          "text": "The second one gets people their own money back. The first just starts another argument.",
+          "status": "recorded_review_pending"
+        },
+        {
+          "id": "E02-S15-D03",
+          "role_id": "ghost",
+          "voice_id": "7fBwqIVI6wI1B4MuKqQi",
+          "voice_name": "Austin — Upbeat",
+          "text": "This package has the order, the issue times and the delivery receipts. Public copy has the residents' details removed.",
+          "status": "recorded_review_pending"
+        },
+        {
+          "id": "E02-S15-D04",
+          "role_id": "trixie",
+          "voice_id": "dmWfLQZJq7wNPv9WmtiM",
+          "voice_name": "Emma — Wry, Gritty Hero",
+          "text": "Keep the full copy for their appeals. Nobody gets dragged onto television because we wanted a better headline.",
+          "status": "recorded_review_pending"
+        },
+        {
+          "id": "E02-S15-D05",
+          "role_id": "byte",
+          "voice_id": "wo6udizrrtpIxWGp2qJk",
+          "voice_name": "Northern Terry",
+          "text": "And here's Barkington's signature. Large enough even WOOF7 can read it.",
+          "status": "recorded_review_pending"
+        },
+        {
+          "id": "E02-S15-D06",
+          "role_id": "ghost",
+          "voice_id": "7fBwqIVI6wI1B4MuKqQi",
+          "voice_name": "Austin — Upbeat",
+          "text": "We can prove the restriction followed the delivery list. Don't claim anything the documents don't show.",
+          "status": "recorded_review_pending"
+        },
+        {
+          "id": "E02-S15-D07",
+          "role_id": "trixie",
+          "voice_id": "dmWfLQZJq7wNPv9WmtiM",
+          "voice_name": "Emma — Wry, Gritty Hero",
+          "text": "Fine. No speeches about secret world domination. Just the very obvious local domination.",
+          "status": "recorded_review_pending"
+        },
+        {
+          "id": "E02-S15-D08",
+          "role_id": "byte",
+          "voice_id": "wo6udizrrtpIxWGp2qJk",
+          "voice_name": "Northern Terry",
+          "text": "That should fit on one page.",
+          "status": "recorded_review_pending"
+        },
+        {
+          "id": "E02-S15-D09",
+          "role_id": "trixie",
+          "voice_id": "dmWfLQZJq7wNPv9WmtiM",
+          "voice_name": "Emma — Wry, Gritty Hero",
+          "text": "Good. I'm developing a personal hatred of page thirty-seven.",
+          "status": "recorded_review_pending"
+        }
+      ],
+      "speaking_cast": [
+        "byte",
+        "ghost",
+        "trixie"
+      ],
+      "word_count": 121,
+      "dialogue_estimate_seconds": 48.4
+    },
+    {
+      "id": "E02-S16",
+      "title": "The Appeal Token",
+      "start_sec": 750,
+      "duration_sec": 50,
+      "end_sec": 800,
+      "location_id": "HQ10",
+      "cast": [
+        "neon",
+        "onyx",
+        "trixie"
+      ],
+      "voice_ids": {
+        "neon": "4e32WqNVWRquDa1OcRYZ",
+        "onyx": "uq0HIbNZKn11Hs5ifEdd",
+        "trixie": "dmWfLQZJq7wNPv9WmtiM"
+      },
+      "action": "Neon brings the acknowledgment and the preserved attachments back to the terminal. The receipt number unlocks a manual review channel hidden in plain sight.",
+      "dramatic_purpose": "The queue comedy becomes the mechanism for progress.",
+      "status": "script draft; shot breakdown and performance timing pending",
+      "audio_status": "recorded_review_pending",
+      "video_status": "not submitted",
+      "lines": [
+        {
+          "id": "E02-S16-D01",
+          "role_id": "neon",
+          "voice_id": "4e32WqNVWRquDa1OcRYZ",
+          "voice_name": "Ryan — Product Reviewer",
+          "text": "Acknowledgment number accepted. The manual review channel is open.",
+          "status": "recorded_review_pending"
+        },
+        {
+          "id": "E02-S16-D02",
+          "role_id": "onyx",
+          "voice_id": "uq0HIbNZKn11Hs5ifEdd",
+          "voice_name": "Harry — Fierce Warrior",
+          "text": "Imagine that. An office that responds when you follow its own instructions exactly.",
+          "status": "recorded_review_pending"
+        },
+        {
+          "id": "E02-S16-D03",
+          "role_id": "trixie",
+          "voice_id": "dmWfLQZJq7wNPv9WmtiM",
+          "voice_name": "Emma — Wry, Gritty Hero",
+          "text": "Attach the freeze order and the payment decline. We need a decision, not another receipt.",
+          "status": "recorded_review_pending"
+        },
+        {
+          "id": "E02-S16-D04",
+          "role_id": "neon",
+          "voice_id": "4e32WqNVWRquDa1OcRYZ",
+          "voice_name": "Ryan — Product Reviewer",
+          "text": "It wants corroborating transaction evidence from a registered shop.",
+          "status": "recorded_review_pending"
+        },
+        {
+          "id": "E02-S16-D05",
+          "role_id": "trixie",
+          "voice_id": "dmWfLQZJq7wNPv9WmtiM",
+          "voice_name": "Emma — Wry, Gritty Hero",
+          "text": "The clerk's receipts. Byte is already there.",
+          "status": "recorded_review_pending"
+        },
+        {
+          "id": "E02-S16-D06",
+          "role_id": "onyx",
+          "voice_id": "uq0HIbNZKn11Hs5ifEdd",
+          "voice_name": "Harry — Fierce Warrior",
+          "text": "What does the timer mean?",
+          "status": "recorded_review_pending"
+        },
+        {
+          "id": "E02-S16-D07",
+          "role_id": "neon",
+          "voice_id": "4e32WqNVWRquDa1OcRYZ",
+          "voice_name": "Ryan — Product Reviewer",
+          "text": "The case closes if we don't finish before the office closes. Because apparently tomorrow doesn't exist.",
+          "status": "recorded_review_pending"
+        },
+        {
+          "id": "E02-S16-D08",
+          "role_id": "trixie",
+          "voice_id": "dmWfLQZJq7wNPv9WmtiM",
+          "voice_name": "Emma — Wry, Gritty Hero",
+          "text": "Keep this session open. I'll call Byte. We are not starting this queue again.",
+          "status": "recorded_review_pending"
+        },
+        {
+          "id": "E02-S16-D09",
+          "role_id": "onyx",
+          "voice_id": "uq0HIbNZKn11Hs5ifEdd",
+          "voice_name": "Harry — Fierce Warrior",
+          "text": "I may actually eat the number dispenser if we do.",
+          "status": "recorded_review_pending"
+        }
+      ],
+      "speaking_cast": [
+        "neon",
+        "onyx",
+        "trixie"
+      ],
+      "word_count": 98,
+      "dialogue_estimate_seconds": 39.2
+    },
+    {
+      "id": "E02-S17",
+      "title": "The Clerk’s Receipt",
+      "start_sec": 800,
+      "duration_sec": 55,
+      "end_sec": 855,
+      "location_id": "LOC07",
+      "cast": [
+        "seven_catleven_clerk",
+        "byte",
+        "civilian_1"
+      ],
+      "voice_ids": {
+        "byte": "wo6udizrrtpIxWGp2qJk",
+        "civilian_1": "DODLEQrClDo8wCz460ld",
+        "seven_catleven_clerk": "CwhRBWXzGAHq8TQ4Fs17"
+      },
+      "action": "The shopkeeper adds a witnessed receipt showing the same customers paid normally before the order. The clerk risks extra scrutiny but chooses to sign.",
+      "dramatic_purpose": "A civilian action supplies the corroboration the crew lacked.",
+      "status": "script draft; shot breakdown and performance timing pending",
+      "audio_status": "recorded_review_pending",
+      "video_status": "not submitted",
+      "lines": [
+        {
+          "id": "E02-S17-D01",
+          "role_id": "byte",
+          "voice_id": "wo6udizrrtpIxWGp2qJk",
+          "voice_name": "Northern Terry",
+          "text": "We need a witnessed receipt from before the freeze. Same customer, same account, normal payment.",
+          "status": "recorded_review_pending"
+        },
+        {
+          "id": "E02-S17-D02",
+          "role_id": "seven_catleven_clerk",
+          "voice_id": "CwhRBWXzGAHq8TQ4Fs17",
+          "voice_name": "Roger - Laid-Back, Casual, Resonant",
+          "text": "I've got it. But signing this puts my shop on their list too.",
+          "status": "recorded_review_pending"
+        },
+        {
+          "id": "E02-S17-D03",
+          "role_id": "civilian_1",
+          "voice_id": "DODLEQrClDo8wCz460ld",
+          "voice_name": "Lauren - Friendly, Comforting and Soft",
+          "text": "You don't have to do that for me. You've already let me take the food.",
+          "status": "recorded_review_pending"
+        },
+        {
+          "id": "E02-S17-D04",
+          "role_id": "seven_catleven_clerk",
+          "voice_id": "CwhRBWXzGAHq8TQ4Fs17",
+          "voice_name": "Roger - Laid-Back, Casual, Resonant",
+          "text": "And tomorrow? And the next person? I can't run a shop by pretending nobody's hungry.",
+          "status": "recorded_review_pending"
+        },
+        {
+          "id": "E02-S17-D05",
+          "role_id": "byte",
+          "voice_id": "wo6udizrrtpIxWGp2qJk",
+          "voice_name": "Northern Terry",
+          "text": "We won't put your signature on the news without asking. This copy is for the appeal.",
+          "status": "recorded_review_pending"
+        },
+        {
+          "id": "E02-S17-D06",
+          "role_id": "seven_catleven_clerk",
+          "voice_id": "CwhRBWXzGAHq8TQ4Fs17",
+          "voice_name": "Roger - Laid-Back, Casual, Resonant",
+          "text": "Then hand me the pen. And spell the shop's name right. They always get that wrong.",
+          "status": "recorded_review_pending"
+        },
+        {
+          "id": "E02-S17-D07",
+          "role_id": "civilian_1",
+          "voice_id": "DODLEQrClDo8wCz460ld",
+          "voice_name": "Lauren - Friendly, Comforting and Soft",
+          "text": "Thank you. I don't know what else to say.",
+          "status": "recorded_review_pending"
+        },
+        {
+          "id": "E02-S17-D08",
+          "role_id": "seven_catleven_clerk",
+          "voice_id": "CwhRBWXzGAHq8TQ4Fs17",
+          "voice_name": "Roger - Laid-Back, Casual, Resonant",
+          "text": "Come back when you can pay. Argue with me about the prices. Normal things.",
+          "status": "recorded_review_pending"
+        },
+        {
+          "id": "E02-S17-D09",
+          "role_id": "byte",
+          "voice_id": "wo6udizrrtpIxWGp2qJk",
+          "voice_name": "Northern Terry",
+          "text": "Sent. Trixie, you've got your last attachment.",
+          "status": "recorded_review_pending"
+        }
+      ],
+      "speaking_cast": [
+        "byte",
+        "civilian_1",
+        "seven_catleven_clerk"
+      ],
+      "word_count": 120,
+      "dialogue_estimate_seconds": 48.0
+    },
+    {
+      "id": "E02-S18",
+      "title": "Barkington’s Denial",
+      "start_sec": 855,
+      "duration_sec": 45,
+      "end_sec": 900,
+      "location_id": "HQ03",
+      "cast": [
+        "chairman_barkington"
+      ],
+      "voice_ids": {
+        "chairman_barkington": "bwCXcoVxWNYMlC6Esa8u"
+      },
+      "action": "Barkington insists the restrictions are routine and that no neighborhood is being singled out. A screen beside him shows the District 7 selection field.",
+      "dramatic_purpose": "His specific denial can be tested against the evidence.",
+      "status": "script draft; shot breakdown and performance timing pending",
+      "audio_status": "recorded_review_pending",
+      "video_status": "not submitted",
+      "lines": [
+        {
+          "id": "E02-S18-D01",
+          "role_id": "chairman_barkington",
+          "voice_id": "bwCXcoVxWNYMlC6Esa8u",
+          "voice_name": "Matthew Schmitz - Gravel, Deep Anti-Hero",
+          "text": "Nobody is being singled out. This is a routine review conducted without prejudice.",
+          "status": "recorded_review_pending"
+        },
+        {
+          "id": "E02-S18-D02",
+          "role_id": "chairman_barkington",
+          "voice_id": "bwCXcoVxWNYMlC6Esa8u",
+          "voice_name": "Matthew Schmitz - Gravel, Deep Anti-Hero",
+          "text": "The people spreading these allegations would prefer that we abandon responsible administration entirely.",
+          "status": "recorded_review_pending"
+        },
+        {
+          "id": "E02-S18-D03",
+          "role_id": "chairman_barkington",
+          "voice_id": "bwCXcoVxWNYMlC6Esa8u",
+          "voice_name": "Matthew Schmitz - Gravel, Deep Anti-Hero",
+          "text": "Of course the restrictions are temporary. They will last precisely as long as they are necessary.",
+          "status": "recorded_review_pending"
+        },
+        {
+          "id": "E02-S18-D04",
+          "role_id": "chairman_barkington",
+          "voice_id": "bwCXcoVxWNYMlC6Esa8u",
+          "voice_name": "Matthew Schmitz - Gravel, Deep Anti-Hero",
+          "text": "Move that screen out of the camera shot. The district filter is an internal matter.",
+          "status": "recorded_review_pending"
+        },
+        {
+          "id": "E02-S18-D05",
+          "role_id": "chairman_barkington",
+          "voice_id": "bwCXcoVxWNYMlC6Esa8u",
+          "voice_name": "Matthew Schmitz - Gravel, Deep Anti-Hero",
+          "text": "We will not discuss individual cases in public. Nor will we be pressured by a handful of noisy kittens.",
+          "status": "recorded_review_pending"
+        },
+        {
+          "id": "E02-S18-D06",
+          "role_id": "chairman_barkington",
+          "voice_id": "bwCXcoVxWNYMlC6Esa8u",
+          "voice_name": "Matthew Schmitz - Gravel, Deep Anti-Hero",
+          "text": "End the statement there. And find out who gave them the attachment.",
+          "status": "recorded_review_pending"
+        }
+      ],
+      "speaking_cast": [
+        "chairman_barkington"
+      ],
+      "word_count": 88,
+      "dialogue_estimate_seconds": 35.2
+    },
+    {
+      "id": "E02-S19",
+      "title": "NIP7 Puts It Together",
+      "start_sec": 900,
+      "duration_sec": 60,
+      "end_sec": 960,
+      "location_id": "LOC14",
+      "cast": [
+        "nip7_anchor",
+        "trixie",
+        "byte"
+      ],
+      "voice_ids": {
+        "byte": "wo6udizrrtpIxWGp2qJk",
+        "nip7_anchor": "onwK4e9ZLuTAKqWW03F9",
+        "trixie": "dmWfLQZJq7wNPv9WmtiM"
+      },
+      "action": "The British cat presenter explains the signed order and the timeline, distinguishing proven retaliation from unanswered questions. Residents are not exposed on screen.",
+      "dramatic_purpose": "Publish a clear factual win, not an all-powerful leak.",
+      "status": "script draft; shot breakdown and performance timing pending",
+      "audio_status": "recorded_review_pending",
+      "video_status": "not submitted",
+      "lines": [
+        {
+          "id": "E02-S19-D01",
+          "role_id": "nip7_anchor",
+          "voice_id": "onwK4e9ZLuTAKqWW03F9",
+          "voice_name": "Daniel",
+          "text": "The records we have reviewed show a targeted instruction, not a random safety check.",
+          "status": "recorded_review_pending"
+        },
+        {
+          "id": "E02-S19-D02",
+          "role_id": "nip7_anchor",
+          "voice_id": "onwK4e9ZLuTAKqWW03F9",
+          "voice_name": "Daniel",
+          "text": "The order identifies District Seven recipients and links payment restrictions with tenancy reviews.",
+          "status": "recorded_review_pending"
+        },
+        {
+          "id": "E02-S19-D03",
+          "role_id": "trixie",
+          "voice_id": "dmWfLQZJq7wNPv9WmtiM",
+          "voice_name": "Emma — Wry, Gritty Hero",
+          "text": "These families received food. Hours later, they couldn't spend their own wages.",
+          "status": "recorded_review_pending"
+        },
+        {
+          "id": "E02-S19-D04",
+          "role_id": "byte",
+          "voice_id": "wo6udizrrtpIxWGp2qJk",
+          "voice_name": "Northern Terry",
+          "text": "We compared the signed order with shop receipts and the issue times. The sequence matches.",
+          "status": "recorded_review_pending"
+        },
+        {
+          "id": "E02-S19-D05",
+          "role_id": "nip7_anchor",
+          "voice_id": "onwK4e9ZLuTAKqWW03F9",
+          "voice_name": "Daniel",
+          "text": "Does this establish what happens in every district?",
+          "status": "recorded_review_pending"
+        },
+        {
+          "id": "E02-S19-D06",
+          "role_id": "byte",
+          "voice_id": "wo6udizrrtpIxWGp2qJk",
+          "voice_name": "Northern Terry",
+          "text": "No. It establishes what happened to this group. That's what we're asking them to answer for.",
+          "status": "recorded_review_pending"
+        },
+        {
+          "id": "E02-S19-D07",
+          "role_id": "nip7_anchor",
+          "voice_id": "onwK4e9ZLuTAKqWW03F9",
+          "voice_name": "Daniel",
+          "text": "Goodboy Global denies that anyone was singled out. That denial does not explain the selection field in its own order.",
+          "status": "recorded_review_pending"
+        },
+        {
+          "id": "E02-S19-D08",
+          "role_id": "trixie",
+          "voice_id": "dmWfLQZJq7wNPv9WmtiM",
+          "voice_name": "Emma — Wry, Gritty Hero",
+          "text": "Open the accounts. Let people buy dinner. They shouldn't need a television appearance to get that far.",
+          "status": "recorded_review_pending"
+        },
+        {
+          "id": "E02-S19-D09",
+          "role_id": "nip7_anchor",
+          "voice_id": "onwK4e9ZLuTAKqWW03F9",
+          "voice_name": "Daniel",
+          "text": "Residents' personal details have been withheld. The verified documents and appeal instructions will remain available.",
+          "status": "recorded_review_pending"
+        }
+      ],
+      "speaking_cast": [
+        "byte",
+        "nip7_anchor",
+        "trixie"
+      ],
+      "word_count": 130,
+      "dialogue_estimate_seconds": 52.0
+    },
+    {
+      "id": "E02-S20",
+      "title": "The Queue Turns Around",
+      "start_sec": 960,
+      "duration_sec": 55,
+      "end_sec": 1015,
+      "location_id": "HQ10",
+      "cast": [
+        "onyx",
+        "neon",
+        "civilian_2"
+      ],
+      "voice_ids": {
+        "civilian_2": "b5RPB35vTODb3BEmR3Fc",
+        "neon": "4e32WqNVWRquDa1OcRYZ",
+        "onyx": "uq0HIbNZKn11Hs5ifEdd",
+        "trixie": "dmWfLQZJq7wNPv9WmtiM"
+      },
+      "action": "Residents arrive with numbered paper appeals and their own receipts. Onyx helps them follow the rules the corporation expected nobody to read.",
+      "dramatic_purpose": "The victory is collective; the crew does not solve everything alone.",
+      "status": "script draft; shot breakdown and performance timing pending",
+      "audio_status": "recorded_review_pending",
+      "video_status": "not submitted",
+      "lines": [
+        {
+          "id": "E02-S20-D01",
+          "role_id": "civilian_2",
+          "voice_id": "b5RPB35vTODb3BEmR3Fc",
+          "voice_name": "Serein - Friendly, Casual and Balanced",
+          "text": "Is this the right queue? I've got the receipt, the decline notice and a very bad mood.",
+          "status": "recorded_review_pending"
+        },
+        {
+          "id": "E02-S20-D02",
+          "role_id": "onyx",
+          "voice_id": "uq0HIbNZKn11Hs5ifEdd",
+          "voice_name": "Harry — Fierce Warrior",
+          "text": "All three are useful. The first two go in the folder.",
+          "status": "recorded_review_pending"
+        },
+        {
+          "id": "E02-S20-D03",
+          "role_id": "neon",
+          "voice_id": "4e32WqNVWRquDa1OcRYZ",
+          "voice_name": "Ryan — Product Reviewer",
+          "text": "Write your own case number at the top. Don't borrow somebody else's. Yours has to follow your account.",
+          "status": "recorded_review_pending"
+        },
+        {
+          "id": "E02-S20-D04",
+          "role_id": "civilian_2",
+          "voice_id": "b5RPB35vTODb3BEmR3Fc",
+          "voice_name": "Serein - Friendly, Casual and Balanced",
+          "text": "There's a lot of us now.",
+          "status": "recorded_review_pending"
+        },
+        {
+          "id": "E02-S20-D05",
+          "role_id": "trixie",
+          "voice_id": "dmWfLQZJq7wNPv9WmtiM",
+          "voice_name": "Emma — Wry, Gritty Hero",
+          "text": "That's why they can't keep calling it one confused customer.",
+          "status": "recorded_review_pending"
+        },
+        {
+          "id": "E02-S20-D06",
+          "role_id": "onyx",
+          "voice_id": "uq0HIbNZKn11Hs5ifEdd",
+          "voice_name": "Harry — Fierce Warrior",
+          "text": "Written appeals go in that slot. They must give you a dated acknowledgment. Don't leave without it.",
+          "status": "recorded_review_pending"
+        },
+        {
+          "id": "E02-S20-D07",
+          "role_id": "neon",
+          "voice_id": "4e32WqNVWRquDa1OcRYZ",
+          "voice_name": "Ryan — Product Reviewer",
+          "text": "And save page thirty-seven if they charge you for the apology.",
+          "status": "recorded_review_pending"
+        },
+        {
+          "id": "E02-S20-D08",
+          "role_id": "civilian_2",
+          "voice_id": "b5RPB35vTODb3BEmR3Fc",
+          "voice_name": "Serein - Friendly, Casual and Balanced",
+          "text": "I thought that was just me.",
+          "status": "recorded_review_pending"
+        },
+        {
+          "id": "E02-S20-D09",
+          "role_id": "trixie",
+          "voice_id": "dmWfLQZJq7wNPv9WmtiM",
+          "voice_name": "Emma — Wry, Gritty Hero",
+          "text": "That's what they were counting on.",
+          "status": "recorded_review_pending"
+        }
+      ],
+      "speaking_cast": [
+        "civilian_2",
+        "neon",
+        "onyx",
+        "trixie"
+      ],
+      "word_count": 102,
+      "dialogue_estimate_seconds": 40.8
+    },
+    {
+      "id": "E02-S21",
+      "title": "Access Restored",
+      "start_sec": 1015,
+      "duration_sec": 50,
+      "end_sec": 1065,
+      "location_id": "HQ10",
+      "cast": [
+        "trixie",
+        "neon"
+      ],
+      "voice_ids": {
+        "byte": "wo6udizrrtpIxWGp2qJk",
+        "neon": "4e32WqNVWRquDa1OcRYZ",
+        "onyx": "uq0HIbNZKn11Hs5ifEdd",
+        "trixie": "dmWfLQZJq7wNPv9WmtiM"
+      },
+      "action": "The manual review restores the flagged accounts. The terminal displays a temporary review decision, not permanent control over the ledger.",
+      "dramatic_purpose": "Resolve the immediate freeze within the established mechanism.",
+      "status": "script draft; shot breakdown and performance timing pending",
+      "audio_status": "recorded_review_pending",
+      "video_status": "not submitted",
+      "lines": [
+        {
+          "id": "E02-S21-D01",
+          "role_id": "neon",
+          "voice_id": "4e32WqNVWRquDa1OcRYZ",
+          "voice_name": "Ryan — Product Reviewer",
+          "text": "Manual review decision. Payment access restored pending case resolution.",
+          "status": "recorded_review_pending"
+        },
+        {
+          "id": "E02-S21-D02",
+          "role_id": "trixie",
+          "voice_id": "dmWfLQZJq7wNPv9WmtiM",
+          "voice_name": "Emma — Wry, Gritty Hero",
+          "text": "Pending? Read the next line. What are they keeping locked?",
+          "status": "recorded_review_pending"
+        },
+        {
+          "id": "E02-S21-D03",
+          "role_id": "neon",
+          "voice_id": "4e32WqNVWRquDa1OcRYZ",
+          "voice_name": "Ryan — Product Reviewer",
+          "text": "The tenant review is deferred for thirty days. Utilities unchanged. They've reopened the accounts.",
+          "status": "recorded_review_pending"
+        },
+        {
+          "id": "E02-S21-D04",
+          "role_id": "onyx",
+          "voice_id": "uq0HIbNZKn11Hs5ifEdd",
+          "voice_name": "Harry — Fierce Warrior",
+          "text": "Not because we pressed a magic button. Because half the district is standing under their camera with receipts.",
+          "status": "recorded_review_pending"
+        },
+        {
+          "id": "E02-S21-D05",
+          "role_id": "trixie",
+          "voice_id": "dmWfLQZJq7wNPv9WmtiM",
+          "voice_name": "Emma — Wry, Gritty Hero",
+          "text": "Call the shop. I want an actual payment to go through before we celebrate a sentence.",
+          "status": "recorded_review_pending"
+        },
+        {
+          "id": "E02-S21-D06",
+          "role_id": "neon",
+          "voice_id": "4e32WqNVWRquDa1OcRYZ",
+          "voice_name": "Ryan — Product Reviewer",
+          "text": "Byte's there. He's trying it now.",
+          "status": "recorded_review_pending"
+        },
+        {
+          "id": "E02-S21-D07",
+          "role_id": "byte",
+          "voice_id": "wo6udizrrtpIxWGp2qJk",
+          "voice_name": "Northern Terry",
+          "text": "It worked. Money moved. Receipt printed. The clerk is complaining about the paper bill.",
+          "status": "recorded_review_pending"
+        },
+        {
+          "id": "E02-S21-D08",
+          "role_id": "trixie",
+          "voice_id": "dmWfLQZJq7wNPv9WmtiM",
+          "voice_name": "Emma — Wry, Gritty Hero",
+          "text": "Good. Complaining about normal things. I'll take it.",
+          "status": "recorded_review_pending"
+        },
+        {
+          "id": "E02-S21-D09",
+          "role_id": "onyx",
+          "voice_id": "uq0HIbNZKn11Hs5ifEdd",
+          "voice_name": "Harry — Fierce Warrior",
+          "text": "Then can we leave before I become part of the furniture?",
+          "status": "recorded_review_pending"
+        }
+      ],
+      "speaking_cast": [
+        "byte",
+        "neon",
+        "onyx",
+        "trixie"
+      ],
+      "word_count": 106,
+      "dialogue_estimate_seconds": 42.4
+    },
+    {
+      "id": "E02-S22",
+      "title": "Dinner Gets Delivered",
+      "start_sec": 1065,
+      "duration_sec": 45,
+      "end_sec": 1110,
+      "location_id": "LOC08",
+      "cast": [
+        "trixie",
+        "byte",
+        "onyx",
+        "civilian_1"
+      ],
+      "voice_ids": {
+        "byte": "wo6udizrrtpIxWGp2qJk",
+        "civilian_1": "DODLEQrClDo8wCz460ld",
+        "neon": "4e32WqNVWRquDa1OcRYZ",
+        "onyx": "uq0HIbNZKn11Hs5ifEdd",
+        "trixie": "dmWfLQZJq7wNPv9WmtiM"
+      },
+      "action": "Payment succeeds at the shop and the delivery register balances. The same family from the opening gets supper. Byte keeps the final receipt.",
+      "dramatic_purpose": "Demonstrate the result physically instead of only announcing it.",
+      "status": "script draft; shot breakdown and performance timing pending",
+      "audio_status": "recorded_review_pending",
+      "video_status": "not submitted",
+      "lines": [
+        {
+          "id": "E02-S22-D01",
+          "role_id": "civilian_1",
+          "voice_id": "DODLEQrClDo8wCz460ld",
+          "voice_name": "Lauren - Friendly, Comforting and Soft",
+          "text": "It went through. I watched it three times because I didn't believe it.",
+          "status": "recorded_review_pending"
+        },
+        {
+          "id": "E02-S22-D02",
+          "role_id": "byte",
+          "voice_id": "wo6udizrrtpIxWGp2qJk",
+          "voice_name": "Northern Terry",
+          "text": "One payment. Please don't try a fourth time. We've done enough accounting today.",
+          "status": "recorded_review_pending"
+        },
+        {
+          "id": "E02-S22-D03",
+          "role_id": "trixie",
+          "voice_id": "dmWfLQZJq7wNPv9WmtiM",
+          "voice_name": "Emma — Wry, Gritty Hero",
+          "text": "Two meals for building nine. Onyx has the next crate.",
+          "status": "recorded_review_pending"
+        },
+        {
+          "id": "E02-S22-D04",
+          "role_id": "onyx",
+          "voice_id": "uq0HIbNZKn11Hs5ifEdd",
+          "voice_name": "Harry — Fierce Warrior",
+          "text": "And Neon has invented brakes. Apparently fear is also an effective educational method.",
+          "status": "recorded_review_pending"
+        },
+        {
+          "id": "E02-S22-D05",
+          "role_id": "neon",
+          "voice_id": "4e32WqNVWRquDa1OcRYZ",
+          "voice_name": "Ryan — Product Reviewer",
+          "text": "They're excellent brakes. You put a large object in front of the wheels.",
+          "status": "recorded_review_pending"
+        },
+        {
+          "id": "E02-S22-D06",
+          "role_id": "byte",
+          "voice_id": "wo6udizrrtpIxWGp2qJk",
+          "voice_name": "Northern Terry",
+          "text": "That's a brick.",
+          "status": "recorded_review_pending"
+        },
+        {
+          "id": "E02-S22-D07",
+          "role_id": "neon",
+          "voice_id": "4e32WqNVWRquDa1OcRYZ",
+          "voice_name": "Ryan — Product Reviewer",
+          "text": "A locally sourced, manually operated braking solution.",
+          "status": "recorded_review_pending"
+        },
+        {
+          "id": "E02-S22-D08",
+          "role_id": "civilian_1",
+          "voice_id": "DODLEQrClDo8wCz460ld",
+          "voice_name": "Lauren - Friendly, Comforting and Soft",
+          "text": "The little ones saved you a place upstairs, if you haven't eaten.",
+          "status": "recorded_review_pending"
+        },
+        {
+          "id": "E02-S22-D09",
+          "role_id": "trixie",
+          "voice_id": "dmWfLQZJq7wNPv9WmtiM",
+          "voice_name": "Emma — Wry, Gritty Hero",
+          "text": "We haven't. That sounds better than another victory speech.",
+          "status": "recorded_review_pending"
+        }
+      ],
+      "speaking_cast": [
+        "byte",
+        "civilian_1",
+        "neon",
+        "onyx",
+        "trixie"
+      ],
+      "word_count": 93,
+      "dialogue_estimate_seconds": 37.2
+    },
+    {
+      "id": "E02-S23",
+      "title": "Thirty Days Is Not Forever",
+      "start_sec": 1110,
+      "duration_sec": 45,
+      "end_sec": 1155,
+      "location_id": "LOC02",
+      "cast": [
+        "trixie",
+        "ghost",
+        "byte",
+        "neon",
+        "onyx"
+      ],
+      "voice_ids": {
+        "byte": "wo6udizrrtpIxWGp2qJk",
+        "ghost": "7fBwqIVI6wI1B4MuKqQi",
+        "neon": "4e32WqNVWRquDa1OcRYZ",
+        "onyx": "uq0HIbNZKn11Hs5ifEdd",
+        "trixie": "dmWfLQZJq7wNPv9WmtiM"
+      },
+      "action": "The warehouse receives a temporary reprieve. The crew celebrates a real win while acknowledging the shared ledger still exists. Onyx keeps the huge apology as a doorstop.",
+      "dramatic_purpose": "Close the comic thread and state the limits of the victory.",
+      "status": "script draft; shot breakdown and performance timing pending",
+      "audio_status": "recorded_review_pending",
+      "video_status": "not submitted",
+      "lines": [
+        {
+          "id": "E02-S23-D01",
+          "role_id": "ghost",
+          "voice_id": "7fBwqIVI6wI1B4MuKqQi",
+          "voice_name": "Austin — Upbeat",
+          "text": "Thirty days on the lease. That's what the notice actually says.",
+          "status": "recorded_review_pending"
+        },
+        {
+          "id": "E02-S23-D02",
+          "role_id": "trixie",
+          "voice_id": "dmWfLQZJq7wNPv9WmtiM",
+          "voice_name": "Emma — Wry, Gritty Hero",
+          "text": "Then we use the thirty days. We don't pretend it's forever.",
+          "status": "recorded_review_pending"
+        },
+        {
+          "id": "E02-S23-D03",
+          "role_id": "byte",
+          "voice_id": "wo6udizrrtpIxWGp2qJk",
+          "voice_name": "Northern Terry",
+          "text": "The ledger still links everything together. We fixed these accounts. We didn't fix who controls them.",
+          "status": "recorded_review_pending"
+        },
+        {
+          "id": "E02-S23-D04",
+          "role_id": "neon",
+          "voice_id": "4e32WqNVWRquDa1OcRYZ",
+          "voice_name": "Ryan — Product Reviewer",
+          "text": "Can we have five minutes where fixing dinner counts as winning?",
+          "status": "recorded_review_pending"
+        },
+        {
+          "id": "E02-S23-D05",
+          "role_id": "onyx",
+          "voice_id": "uq0HIbNZKn11Hs5ifEdd",
+          "voice_name": "Harry — Fierce Warrior",
+          "text": "Absolutely. The apology is holding the door open. Nobody touch it. It's finally doing its job.",
+          "status": "recorded_review_pending"
+        },
+        {
+          "id": "E02-S23-D06",
+          "role_id": "trixie",
+          "voice_id": "dmWfLQZJq7wNPv9WmtiM",
+          "voice_name": "Emma — Wry, Gritty Hero",
+          "text": "Dinner counts. The accounts count. The clerk signing that receipt counts.",
+          "status": "recorded_review_pending"
+        },
+        {
+          "id": "E02-S23-D07",
+          "role_id": "ghost",
+          "voice_id": "7fBwqIVI6wI1B4MuKqQi",
+          "voice_name": "Austin — Upbeat",
+          "text": "And keeping the records means they can't tell us tomorrow that none of it happened.",
+          "status": "recorded_review_pending"
+        },
+        {
+          "id": "E02-S23-D08",
+          "role_id": "byte",
+          "voice_id": "wo6udizrrtpIxWGp2qJk",
+          "voice_name": "Northern Terry",
+          "text": "I've got one appendix left to check. Then I'm eating something with no columns in it.",
+          "status": "recorded_review_pending"
+        },
+        {
+          "id": "E02-S23-D09",
+          "role_id": "neon",
+          "voice_id": "4e32WqNVWRquDa1OcRYZ",
+          "voice_name": "Ryan — Product Reviewer",
+          "text": "Please don't make a spreadsheet for dessert.",
+          "status": "recorded_review_pending"
+        }
+      ],
+      "speaking_cast": [
+        "byte",
+        "ghost",
+        "neon",
+        "onyx",
+        "trixie"
+      ],
+      "word_count": 114,
+      "dialogue_estimate_seconds": 45.6
+    },
+    {
+      "id": "E02-S24",
+      "title": "Redevelopment",
+      "start_sec": 1155,
+      "duration_sec": 45,
+      "end_sec": 1200,
+      "location_id": "LOC03",
+      "cast": [
+        "ghost",
+        "trixie"
+      ],
+      "voice_ids": {
+        "byte": "wo6udizrrtpIxWGp2qJk",
+        "ghost": "7fBwqIVI6wI1B4MuKqQi",
+        "trixie": "dmWfLQZJq7wNPv9WmtiM"
+      },
+      "action": "An appendix to the account record marks District 7 as a planned redevelopment zone. Trixie realizes the freeze was a pressure tactic connected to something larger.",
+      "dramatic_purpose": "End on the approved redevelopment hook, not the later BARK-camera finale.",
+      "status": "script draft; shot breakdown and performance timing pending",
+      "audio_status": "recorded_review_pending",
+      "video_status": "not submitted",
+      "lines": [
+        {
+          "id": "E02-S24-D01",
+          "role_id": "ghost",
+          "voice_id": "7fBwqIVI6wI1B4MuKqQi",
+          "voice_name": "Austin — Upbeat",
+          "text": "Byte. Don't close that appendix. Go back one page.",
+          "status": "recorded_review_pending"
+        },
+        {
+          "id": "E02-S24-D02",
+          "role_id": "byte",
+          "voice_id": "wo6udizrrtpIxWGp2qJk",
+          "voice_name": "Northern Terry",
+          "text": "District Seven parcel schedule. Proposed relocation and redevelopment review. That wasn't in the payment notice.",
+          "status": "recorded_review_pending"
+        },
+        {
+          "id": "E02-S24-D03",
+          "role_id": "trixie",
+          "voice_id": "dmWfLQZJq7wNPv9WmtiM",
+          "voice_name": "Emma — Wry, Gritty Hero",
+          "text": "Relocation to where?",
+          "status": "recorded_review_pending"
+        },
+        {
+          "id": "E02-S24-D04",
+          "role_id": "ghost",
+          "voice_id": "7fBwqIVI6wI1B4MuKqQi",
+          "voice_name": "Austin — Upbeat",
+          "text": "It doesn't say. Just clearance phases and addresses. Our warehouse is in the first group.",
+          "status": "recorded_review_pending"
+        },
+        {
+          "id": "E02-S24-D05",
+          "role_id": "byte",
+          "voice_id": "wo6udizrrtpIxWGp2qJk",
+          "voice_name": "Northern Terry",
+          "text": "So the account freeze wasn't just to punish the deliveries.",
+          "status": "recorded_review_pending"
+        },
+        {
+          "id": "E02-S24-D06",
+          "role_id": "trixie",
+          "voice_id": "dmWfLQZJq7wNPv9WmtiM",
+          "voice_name": "Emma — Wry, Gritty Hero",
+          "text": "It was to make staying here impossible.",
+          "status": "recorded_review_pending"
+        },
+        {
+          "id": "E02-S24-D07",
+          "role_id": "ghost",
+          "voice_id": "7fBwqIVI6wI1B4MuKqQi",
+          "voice_name": "Austin — Upbeat",
+          "text": "We need more than this page before we know how far it goes.",
+          "status": "recorded_review_pending"
+        },
+        {
+          "id": "E02-S24-D08",
+          "role_id": "trixie",
+          "voice_id": "dmWfLQZJq7wNPv9WmtiM",
+          "voice_name": "Emma — Wry, Gritty Hero",
+          "text": "Then keep it with the others. Every order, every receipt, every lie.",
+          "status": "recorded_review_pending"
+        },
+        {
+          "id": "E02-S24-D09",
+          "role_id": "byte",
+          "voice_id": "wo6udizrrtpIxWGp2qJk",
+          "voice_name": "Northern Terry",
+          "text": "There goes my evening.",
+          "status": "recorded_review_pending"
+        },
+        {
+          "id": "E02-S24-D10",
+          "role_id": "trixie",
+          "voice_id": "dmWfLQZJq7wNPv9WmtiM",
+          "voice_name": "Emma — Wry, Gritty Hero",
+          "text": "You can eat first. Tomorrow, we find out who's planning to take our home.",
+          "status": "recorded_review_pending"
+        }
+      ],
+      "speaking_cast": [
+        "byte",
+        "ghost",
+        "trixie"
+      ],
+      "word_count": 102,
+      "dialogue_estimate_seconds": 40.8
+    }
+  ],
+  "new_set_required": {
+    "id": "HQ10",
+    "name": "Goodboy Global public-service annex",
+    "reason": "Existing HQ02 is an executive lobby, not a customer-service room. Preserve HQ architectural language but create a separate service counter, queue and appeal terminal sheet."
+  },
+  "continuity": "Follows the pilot salmon recovery; preserves evidence rather than erasing debts; wins temporary account restoration and 30-day lease reprieve; ends with District 7 redevelopment appendix. BARK camera finale remains reserved for S01E08."
+}

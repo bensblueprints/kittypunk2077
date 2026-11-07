@@ -1,0 +1,20 @@
+{
+  "id": "E02-S07-D03",
+  "role_id": "byte",
+  "voice_id": "wo6udizrrtpIxWGp2qJk",
+  "voice_name": "Northern Terry",
+  "text": "And a copy of the order before anyone rewrites the explanation.",
+  "status": "review_take",
+  "scene": "E02-S07",
+  "duration_sec": 3.250794,
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.5,
+    "similarity_boost": 0.75,
+    "style": 0.15,
+    "use_speaker_boost": true
+  },
+  "request_id": "Fitgtlw8TznObFAkPFIr",
+  "provider_character_cost": "14",
+  "sha256": "6b3a3426a2ff24084f555876295096ea257b41f301c15dc948c8b66ab3800529"
+}

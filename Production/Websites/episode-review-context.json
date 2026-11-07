@@ -1,0 +1,238 @@
+{
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 2,
+      "title": "Terms and Purrditions",
+      "scenes": [
+        {
+          "number": 0,
+          "title": "Episode 2 \u2014 Full dialogue listening master (not final picture)",
+          "duration_seconds": 945
+        },
+        {
+          "number": 1,
+          "title": "Breakfast on Wheels",
+          "duration_seconds": 45
+        },
+        {
+          "number": 2,
+          "title": "Payment Declined",
+          "duration_seconds": 44
+        },
+        {
+          "number": 3,
+          "title": "Sorry Costs Extra",
+          "duration_seconds": 49
+        },
+        {
+          "number": 4,
+          "title": "Three Locks, One Key",
+          "duration_seconds": 50
+        },
+        {
+          "number": 5,
+          "title": "The Freeze Order",
+          "duration_seconds": 63
+        },
+        {
+          "number": 6,
+          "title": "Receipts on the Table",
+          "duration_seconds": 49
+        },
+        {
+          "number": 7,
+          "title": "Keep the Evidence",
+          "duration_seconds": 54
+        },
+        {
+          "number": 8,
+          "title": "Offline Does Not Mean Forgotten",
+          "duration_seconds": 45
+        },
+        {
+          "number": 9,
+          "title": "Take a Number",
+          "duration_seconds": 49
+        },
+        {
+          "number": 10,
+          "title": "A Fee to Dispute a Fee",
+          "duration_seconds": 54
+        },
+        {
+          "number": 11,
+          "title": "Every Posted Rule",
+          "duration_seconds": 50
+        },
+        {
+          "number": 12,
+          "title": "Signed and Dated",
+          "duration_seconds": 54
+        },
+        {
+          "number": 13,
+          "title": "Protection on Television",
+          "duration_seconds": 45
+        },
+        {
+          "number": 14,
+          "title": "The Lease Clock",
+          "duration_seconds": 49
+        },
+        {
+          "number": 15,
+          "title": "Copy, Do Not Erase",
+          "duration_seconds": 50
+        },
+        {
+          "number": 16,
+          "title": "The Appeal Token",
+          "duration_seconds": 49
+        },
+        {
+          "number": 17,
+          "title": "The Clerk\u2019s Receipt",
+          "duration_seconds": 54
+        },
+        {
+          "number": 18,
+          "title": "Barkington\u2019s Denial",
+          "duration_seconds": 49
+        },
+        {
+          "number": 19,
+          "title": "NIP7 Puts It Together",
+          "duration_seconds": 60
+        },
+        {
+          "number": 20,
+          "title": "The Queue Turns Around",
+          "duration_seconds": 54
+        },
+        {
+          "number": 21,
+          "title": "Access Restored",
+          "duration_seconds": 50
+        },
+        {
+          "number": 22,
+          "title": "Dinner Gets Delivered",
+          "duration_seconds": 44
+        },
+        {
+          "number": 23,
+          "title": "Thirty Days Is Not Forever",
+          "duration_seconds": 45
+        },
+        {
+          "number": 24,
+          "title": "Redevelopment",
+          "duration_seconds": 45
+        }
+      ]
+    }
+  ],
+  "versions": {
+    "s01e02-audio-master-v001": {
+      "season": 1,
+      "episode": 2
+    },
+    "s01e02-audio-s01-v001": {
+      "season": 1,
+      "episode": 2
+    },
+    "s01e02-audio-s02-v001": {
+      "season": 1,
+      "episode": 2
+    },
+    "s01e02-audio-s03-v001": {
+      "season": 1,
+      "episode": 2
+    },
+    "s01e02-audio-s04-v001": {
+      "season": 1,
+      "episode": 2
+    },
+    "s01e02-audio-s05-v001": {
+      "season": 1,
+      "episode": 2
+    },
+    "s01e02-audio-s06-v001": {
+      "season": 1,
+      "episode": 2
+    },
+    "s01e02-audio-s07-v001": {
+      "season": 1,
+      "episode": 2
+    },
+    "s01e02-audio-s08-v001": {
+      "season": 1,
+      "episode": 2
+    },
+    "s01e02-audio-s09-v001": {
+      "season": 1,
+      "episode": 2
+    },
+    "s01e02-audio-s10-v001": {
+      "season": 1,
+      "episode": 2
+    },
+    "s01e02-audio-s11-v001": {
+      "season": 1,
+      "episode": 2
+    },
+    "s01e02-audio-s12-v001": {
+      "season": 1,
+      "episode": 2
+    },
+    "s01e02-audio-s13-v001": {
+      "season": 1,
+      "episode": 2
+    },
+    "s01e02-audio-s14-v001": {
+      "season": 1,
+      "episode": 2
+    },
+    "s01e02-audio-s15-v001": {
+      "season": 1,
+      "episode": 2
+    },
+    "s01e02-audio-s16-v001": {
+      "season": 1,
+      "episode": 2
+    },
+    "s01e02-audio-s17-v001": {
+      "season": 1,
+      "episode": 2
+    },
+    "s01e02-audio-s18-v001": {
+      "season": 1,
+      "episode": 2
+    },
+    "s01e02-audio-s19-v001": {
+      "season": 1,
+      "episode": 2
+    },
+    "s01e02-audio-s20-v001": {
+      "season": 1,
+      "episode": 2
+    },
+    "s01e02-audio-s21-v001": {
+      "season": 1,
+      "episode": 2
+    },
+    "s01e02-audio-s22-v001": {
+      "season": 1,
+      "episode": 2
+    },
+    "s01e02-audio-s23-v001": {
+      "season": 1,
+      "episode": 2
+    },
+    "s01e02-audio-s24-v001": {
+      "season": 1,
+      "episode": 2
+    }
+  }
+}

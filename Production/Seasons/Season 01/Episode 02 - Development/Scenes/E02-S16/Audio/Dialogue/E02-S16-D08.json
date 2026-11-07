@@ -1,0 +1,20 @@
+{
+  "id": "E02-S16-D08",
+  "role_id": "trixie",
+  "voice_id": "dmWfLQZJq7wNPv9WmtiM",
+  "voice_name": "Emma — Wry, Gritty Hero",
+  "text": "Keep this session open. I'll call Byte. We are not starting this queue again.",
+  "status": "review_take",
+  "scene": "E02-S16",
+  "duration_sec": 3.761633,
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.35,
+    "similarity_boost": 0.8,
+    "style": 0.55,
+    "use_speaker_boost": true
+  },
+  "request_id": "BcBTF39wluDS8YhvQE1q",
+  "provider_character_cost": "17",
+  "sha256": "f90a9dddb3eb5a8ab624d8b47d6c25ad5c2d8a0d3b5f167da93246e61106911b"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "E02-S11-D08",
+  "role_id": "onyx",
+  "voice_id": "uq0HIbNZKn11Hs5ifEdd",
+  "voice_name": "Harry — Fierce Warrior",
+  "text": "And now we wait for the acknowledgment. Their rule. Their machine. Their problem.",
+  "status": "review_take",
+  "scene": "E02-S11",
+  "duration_sec": 5.479909,
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.5,
+    "similarity_boost": 0.75,
+    "style": 0.15,
+    "use_speaker_boost": true
+  },
+  "request_id": "ffvxyVerq9NjLQ1F0uu7",
+  "provider_character_cost": "18",
+  "sha256": "819c5fd6a35c7437aced5de3cf364dc86ef2eb5f7f735bea051b3e63d89df545"
+}

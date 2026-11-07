@@ -1,0 +1,20 @@
+{
+  "id": "E02-S20-D07",
+  "role_id": "neon",
+  "voice_id": "4e32WqNVWRquDa1OcRYZ",
+  "voice_name": "Ryan — Product Reviewer",
+  "text": "And save page thirty-seven if they charge you for the apology.",
+  "status": "review_take",
+  "scene": "E02-S20",
+  "duration_sec": 3.529433,
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.5,
+    "similarity_boost": 0.75,
+    "style": 0.15,
+    "use_speaker_boost": true
+  },
+  "request_id": "XkcCNsHf4RQ8gYkSddmR",
+  "provider_character_cost": "14",
+  "sha256": "2f7c606255d13cc6a25a20d90ec8464c05958fa869b81c5b09b1b7e6a21e6eab"
+}

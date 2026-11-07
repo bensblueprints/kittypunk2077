@@ -1,0 +1,21 @@
+{
+  "id": "E02-S18-D03",
+  "role_id": "chairman_barkington",
+  "voice_id": "bwCXcoVxWNYMlC6Esa8u",
+  "voice_name": "Matthew Schmitz - Gravel, Deep Anti-Hero",
+  "text": "Of course the restrictions are temporary. They will last precisely as long as they are necessary.",
+  "status": "review_take",
+  "scene": "E02-S18",
+  "duration_sec": 8.544943,
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.4,
+    "similarity_boost": 0.75,
+    "style": 0.65,
+    "use_speaker_boost": true,
+    "speed": 0.9
+  },
+  "request_id": "8IFTrItaMKSJzSlYk3Br",
+  "provider_character_cost": "36",
+  "sha256": "fba831489bf17047c9f87598393ba46ee50f6da6b4d9092c5dd53913d0871e67"
+}

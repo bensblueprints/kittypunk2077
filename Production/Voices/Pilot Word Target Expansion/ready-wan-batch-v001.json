@@ -1,0 +1,240 @@
+[
+  {
+    "id": "s01e01-s05-w01-public-v001",
+    "subject": "S05-W01",
+    "scene": 5,
+    "payload": {
+      "season": 1,
+      "episode": 1,
+      "model": "wan-3.0-prime",
+      "prompt": "KittyPunk2077 S01E01 S05-W01. One continuous 19-second 16:9 tactile cinematic 3D animated shot. Trixie and Byte beside freezer; Trixie watches the remaining packs, Byte holds price scanner. Reference guide: Image 1: LOC07 - 7-Catleven interior and freezer; Image 2: PROP08-salmon-packs-price-notice-gpt26-v001; Image 3: Trixie - CatGirl; Image 4: Byte. References define identities and set; never show sheet panels or labels. Visible cast ONLY: trixie, byte. Offscreen radio ONLY: none. Trixie white female cat blue eyes magenta; Byte orange amber; Ghost hood green visor; Neon silver cyan; Onyx black violet. Preserve identities, paws, costume and room geography. Do not add anyone merely because a reference depicts them. No subtitles or watermark. Original audio reference 1 governs performance timing and lip sync for visible speakers. 0.15-10.46s trixie visible speaker: People were already choosing between food and keeping the lights on. Tripling the price does not make more salmon appear. It just decides who gets to eat. 10.66-18.00s byte visible speaker: And whoever set that price gets paid every time somebody panics. We need to know who is feeding the same number to every shop.",
+      "duration_sec": 19,
+      "resolution": "1080p",
+      "aspect_ratio": "16:9",
+      "input_images": [
+        "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/0501505937608443.jpg",
+        "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/fb9297d91d0a6ab0.jpg",
+        "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/51c0358d041cc3ba.jpg",
+        "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/a23590fe66ebce01.jpg"
+      ],
+      "input_audios": [
+        "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Voices/Pilot%20Word%20Target%20Expansion/Shot%20Audio/S05-W01-dialogue-reference.wav"
+      ],
+      "source_audio": [
+        "data/shot-audio/S05-W01-dialogue-reference.wav"
+      ],
+      "edit_duration": 18.424,
+      "scene": 5,
+      "title": "S05-W01 \u2014 pilot dialogue pickup"
+    },
+    "estimate": 20.9
+  },
+  {
+    "id": "s01e01-s10-w01-public-v001",
+    "subject": "S10-W01",
+    "scene": 10,
+    "payload": {
+      "season": 1,
+      "episode": 1,
+      "model": "wan-3.0-prime",
+      "prompt": "KittyPunk2077 S01E01 S10-W01. One continuous 19-second 16:9 tactile cinematic 3D animated shot. Ghost and Trixie quiet two-shot beside workshop bench; Ghost reassures her, she accepts his support. Reference guide: Image 1: LOC04 - Engineering workshop; Image 2: ACT02 \u2014 Surveillance kit; Image 3: Ghost; Image 4: Trixie - CatGirl. References define identities and set; never show sheet panels or labels. Visible cast ONLY: ghost, trixie. Offscreen radio ONLY: none. Trixie white female cat blue eyes magenta; Byte orange amber; Ghost hood green visor; Neon silver cyan; Onyx black violet. Preserve identities, paws, costume and room geography. Do not add anyone merely because a reference depicts them. No subtitles or watermark. Original audio reference 1 governs performance timing and lip sync for visible speakers. 0.15-8.79s ghost visible speaker: You do not have to go first through every door, Trixie. Giving the orders does not mean you have to take every hit. Let the rest of us do our jobs. 8.99-17.58s trixie visible speaker: I know. I just keep thinking about the kid outside the shop. But you are right. We get this done together, and nobody gets left behind.",
+      "duration_sec": 19,
+      "resolution": "1080p",
+      "aspect_ratio": "16:9",
+      "input_images": [
+        "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/aafc818847c1406d.jpg",
+        "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/522b0ca7d3be2688.jpg",
+        "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/61dc338e08cb2385.jpg",
+        "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/51c0358d041cc3ba.jpg"
+      ],
+      "input_audios": [
+        "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Voices/Pilot%20Word%20Target%20Expansion/Shot%20Audio/S10-W01-dialogue-reference.wav"
+      ],
+      "source_audio": [
+        "data/shot-audio/S10-W01-dialogue-reference.wav"
+      ],
+      "edit_duration": 18.006,
+      "scene": 10,
+      "title": "S10-W01 \u2014 pilot dialogue pickup"
+    },
+    "estimate": 20.9
+  },
+  {
+    "id": "s01e01-s11-w01-public-v001",
+    "subject": "S11-W01",
+    "scene": 11,
+    "payload": {
+      "season": 1,
+      "episode": 1,
+      "model": "wan-3.0-prime",
+      "prompt": "KittyPunk2077 S01E01 S11-W01. One continuous 20-second 16:9 tactile cinematic 3D animated shot. Byte at exterior relay observes delivery doorway; Trixie answers over communicator, remaining offscreen. Reference guide: Image 1: LOC10 - Steak & Bone exterior and security; Image 2: ACT08 \u2014 Security hardware; Image 3: Byte. References define identities and set; never show sheet panels or labels. Visible cast ONLY: byte. Offscreen radio ONLY: trixie. Trixie white female cat blue eyes magenta; Byte orange amber; Ghost hood green visor; Neon silver cyan; Onyx black violet. Preserve identities, paws, costume and room geography. Do not add anyone merely because a reference depicts them. No subtitles or watermark. Original audio reference 1 governs performance timing and lip sync for visible speakers. 0.15-8.32s byte visible speaker: Look at the delivery entrance. Crates going in, empty dishes coming out. Funny how the shortage disappears when you can afford the private dining room. 8.52-19.48s trixie offscreen radio: Keep filming. Being angry is easy. Bringing back something the whole district can actually use is the difficult part. That is why we are here.",
+      "duration_sec": 20,
+      "resolution": "1080p",
+      "aspect_ratio": "16:9",
+      "input_images": [
+        "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/0046cc574d900e8d.jpg",
+        "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/734220511f50bc56.jpg",
+        "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/a23590fe66ebce01.jpg"
+      ],
+      "input_audios": [
+        "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Voices/Pilot%20Word%20Target%20Expansion/Shot%20Audio/S11-W01-dialogue-reference.wav"
+      ],
+      "source_audio": [
+        "data/shot-audio/S11-W01-dialogue-reference.wav"
+      ],
+      "edit_duration": 19.91,
+      "scene": 11,
+      "title": "S11-W01 \u2014 pilot dialogue pickup"
+    },
+    "estimate": 22.0
+  },
+  {
+    "id": "s01e01-s12-w01-public-v001",
+    "subject": "S12-W01",
+    "scene": 12,
+    "payload": {
+      "season": 1,
+      "episode": 1,
+      "model": "wan-3.0-prime",
+      "prompt": "KittyPunk2077 S01E01 S12-W01. One continuous 18-second 16:9 tactile cinematic 3D animated shot. Ghost watches alley from cover while Neon checks his outside pocket; decoys remain held until exchange finishes. Reference guide: Image 1: LOC10 - Steak & Bone exterior and security; Image 2: PROP10-bone-decoy-remote-gpt26-v002; Image 3: ACT08 \u2014 Security hardware; Image 4: Ghost; Image 5: Neon. References define identities and set; never show sheet panels or labels. Visible cast ONLY: ghost, neon. Offscreen radio ONLY: none. Trixie white female cat blue eyes magenta; Byte orange amber; Ghost hood green visor; Neon silver cyan; Onyx black violet. Preserve identities, paws, costume and room geography. Do not add anyone merely because a reference depicts them. No subtitles or watermark. Original audio reference 1 governs performance timing and lip sync for visible speakers. 0.15-8.28s ghost visible speaker: Let the decoy clear the doorway before you move. If they turn back, stay behind the bins. Nobody runs across an open camera shot. 8.48-17.21s neon visible speaker: I put the spare in the outside pocket this time. Last time the emergency plan was underneath my lunch, and we all had opinions about that.",
+      "duration_sec": 18,
+      "resolution": "1080p",
+      "aspect_ratio": "16:9",
+      "input_images": [
+        "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/0046cc574d900e8d.jpg",
+        "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/d006767f6e8dd0f9.jpg",
+        "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/734220511f50bc56.jpg",
+        "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/61dc338e08cb2385.jpg",
+        "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/c59f876dfb3540bb.jpg"
+      ],
+      "input_audios": [
+        "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Voices/Pilot%20Word%20Target%20Expansion/Shot%20Audio/S12-W01-dialogue-reference.wav"
+      ],
+      "source_audio": [
+        "data/shot-audio/S12-W01-dialogue-reference.wav"
+      ],
+      "edit_duration": 17.635,
+      "scene": 12,
+      "title": "S12-W01 \u2014 pilot dialogue pickup"
+    },
+    "estimate": 19.8
+  },
+  {
+    "id": "s01e01-s13-w01-public-v001",
+    "subject": "S13-W01",
+    "scene": 13,
+    "payload": {
+      "season": 1,
+      "episode": 1,
+      "model": "wan-3.0-prime",
+      "prompt": "KittyPunk2077 S01E01 S13-W01. One continuous 20-second 16:9 tactile cinematic 3D animated shot. Trixie and Ghost pause in service corridor before the timed patrol opening begins; she sets limits, he readies recorder. Reference guide: Image 1: LOC11 - Steak & Bone service corridors; Image 2: ACT02 \u2014 Surveillance kit; Image 3: Trixie - CatGirl; Image 4: Ghost. References define identities and set; never show sheet panels or labels. Visible cast ONLY: trixie, ghost. Offscreen radio ONLY: none. Trixie white female cat blue eyes magenta; Byte orange amber; Ghost hood green visor; Neon silver cyan; Onyx black violet. Preserve identities, paws, costume and room geography. Do not add anyone merely because a reference depicts them. No subtitles or watermark. Original audio reference 1 governs performance timing and lip sync for visible speakers. 0.15-10.74s trixie visible speaker: We pass the hatch, record the conversation, and keep walking. We are not sitting down, ordering anything, or taking a souvenir from the very expensive cutlery. 10.94-19.30s ghost visible speaker: Camera ready. Leave the original recording running. If we only keep the interesting sentence, they will claim we cut away everything that explains it.",
+      "duration_sec": 20,
+      "resolution": "1080p",
+      "aspect_ratio": "16:9",
+      "input_images": [
+        "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/4392e2bc49cf0b30.jpg",
+        "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/522b0ca7d3be2688.jpg",
+        "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/51c0358d041cc3ba.jpg",
+        "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/61dc338e08cb2385.jpg"
+      ],
+      "input_audios": [
+        "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Voices/Pilot%20Word%20Target%20Expansion/Shot%20Audio/S13-W01-dialogue-reference.wav"
+      ],
+      "source_audio": [
+        "data/shot-audio/S13-W01-dialogue-reference.wav"
+      ],
+      "edit_duration": 19.724,
+      "scene": 13,
+      "title": "S13-W01 \u2014 pilot dialogue pickup"
+    },
+    "estimate": 22.0
+  },
+  {
+    "id": "s01e01-s15-w01-public-v001",
+    "subject": "S15-W01",
+    "scene": 15,
+    "payload": {
+      "season": 1,
+      "episode": 1,
+      "model": "wan-3.0-prime",
+      "prompt": "KittyPunk2077 S01E01 S15-W01. One continuous 18-second 16:9 tactile cinematic 3D animated shot. Close on Trixie just outside the private dining hatch in the service corridor, holding copied evidence. Byte speaks over communicator offscreen. She decides to leave with it. Reference guide: Image 1: LOC11 - Steak & Bone service corridors; Image 2: EVD01 \u2014 Restaurant payment photograph; Image 3: Trixie - CatGirl. References define identities and set; never show sheet panels or labels. Visible cast ONLY: trixie. Offscreen radio ONLY: byte. Trixie white female cat blue eyes magenta; Byte orange amber; Ghost hood green visor; Neon silver cyan; Onyx black violet. Preserve identities, paws, costume and room geography. Do not add anyone merely because a reference depicts them. No subtitles or watermark. Original audio reference 1 governs performance timing and lip sync for visible speakers. 0.15-8.28s byte offscreen radio: That envelope changes paws, but the money alone does not tell us where the food went. Keep the recording. We still have another question to answer. 8.48-17.53s trixie visible speaker: First we get out with this. Then we work out what it proves. I am not giving Barkington an excuse to call the whole thing a story we invented.",
+      "duration_sec": 18,
+      "resolution": "1080p",
+      "aspect_ratio": "16:9",
+      "input_images": [
+        "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/4392e2bc49cf0b30.jpg",
+        "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/80bf6efb069a71d7.jpg",
+        "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/51c0358d041cc3ba.jpg"
+      ],
+      "input_audios": [
+        "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Voices/Pilot%20Word%20Target%20Expansion/Shot%20Audio/S15-W01-dialogue-reference.wav"
+      ],
+      "source_audio": [
+        "data/shot-audio/S15-W01-dialogue-reference.wav"
+      ],
+      "edit_duration": 17.96,
+      "scene": 15,
+      "title": "S15-W01 \u2014 pilot dialogue pickup"
+    },
+    "estimate": 19.8
+  },
+  {
+    "id": "s01e01-s16-w01-public-v001",
+    "subject": "S16-W01",
+    "scene": 16,
+    "payload": {
+      "season": 1,
+      "episode": 1,
+      "model": "wan-3.0-prime",
+      "prompt": "KittyPunk2077 S01E01 S16-W01. One continuous 17-second 16:9 tactile cinematic 3D animated shot. Ghost and Onyx move together along escape alley without stopping; maintain urgency and files secure. Reference guide: Image 1: LOC10 - Steak & Bone exterior and security; Image 2: Ghost; Image 3: Onyx. References define identities and set; never show sheet panels or labels. Visible cast ONLY: ghost, onyx. Offscreen radio ONLY: none. Trixie white female cat blue eyes magenta; Byte orange amber; Ghost hood green visor; Neon silver cyan; Onyx black violet. Preserve identities, paws, costume and room geography. Do not add anyone merely because a reference depicts them. No subtitles or watermark. Original audio reference 1 governs performance timing and lip sync for visible speakers. 0.15-9.25s ghost visible speaker: The recording is still intact. Do not stop to look at it here. Every second we stand in this alley gives them another chance to catch up. 9.45-15.95s onyx visible speaker: Then everybody moves. You can argue about who was brilliant when we are somewhere with a door that locks and preferably a chair for me.",
+      "duration_sec": 17,
+      "resolution": "1080p",
+      "aspect_ratio": "16:9",
+      "input_images": [
+        "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/0046cc574d900e8d.jpg",
+        "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/61dc338e08cb2385.jpg",
+        "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/8ac469710ff37bec.jpg"
+      ],
+      "input_audios": [
+        "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Voices/Pilot%20Word%20Target%20Expansion/Shot%20Audio/S16-W01-dialogue-reference.wav"
+      ],
+      "source_audio": [
+        "data/shot-audio/S16-W01-dialogue-reference.wav"
+      ],
+      "edit_duration": 16.381,
+      "scene": 16,
+      "title": "S16-W01 \u2014 pilot dialogue pickup"
+    },
+    "estimate": 18.7
+  },
+  {
+    "id": "s01e01-s21-w01-public-v001",
+    "subject": "S21-W01",
+    "scene": 21,
+    "payload": {
+      "season": 1,
+      "episode": 1,
+      "model": "wan-3.0-prime",
+      "prompt": "KittyPunk2077 S01E01 S21-W01. One continuous 17-second 16:9 tactile cinematic 3D animated shot. Byte and Trixie at dispatch edge observe packed refrigerated crates and agree to preserve cold chain. Reference guide: Image 1: LOC16 - Salmon cold store and processing hall; Image 2: ACT12 \u2014 Factory loading door states; Image 3: Byte; Image 4: Trixie - CatGirl. References define identities and set; never show sheet panels or labels. Visible cast ONLY: byte, trixie. Offscreen radio ONLY: none. Trixie white female cat blue eyes magenta; Byte orange amber; Ghost hood green visor; Neon silver cyan; Onyx black violet. Preserve identities, paws, costume and room geography. Do not add anyone merely because a reference depicts them. No subtitles or watermark. Original audio reference 1 governs performance timing and lip sync for visible speakers. 0.15-7.86s byte visible speaker: These crates are already packed for delivery. We do not need to empty the building. We need to stop sending the same food past the families who ordered it. 8.06-16.56s trixie visible speaker: Exactly. Keep the stock cold, keep the exits clear, and get those loaded trucks moving. A rescue that ruins the food is not a rescue.",
+      "duration_sec": 17,
+      "resolution": "1080p",
+      "aspect_ratio": "16:9",
+      "input_images": [
+        "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/b0d7b5d2e88073c9.jpg",
+        "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/2d967697465bfaa5.jpg",
+        "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/a23590fe66ebce01.jpg",
+        "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/library/51c0358d041cc3ba.jpg"
+      ],
+      "input_audios": [
+        "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Voices/Pilot%20Word%20Target%20Expansion/Shot%20Audio/S21-W01-dialogue-reference.wav"
+      ],
+      "source_audio": [
+        "data/shot-audio/S21-W01-dialogue-reference.wav"
+      ],
+      "edit_duration": 16.985,
+      "scene": 21,
+      "title": "S21-W01 \u2014 pilot dialogue pickup"
+    },
+    "estimate": 18.7
+  }
+]

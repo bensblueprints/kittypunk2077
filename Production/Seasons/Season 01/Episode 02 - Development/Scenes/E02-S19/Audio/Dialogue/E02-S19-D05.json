@@ -1,0 +1,20 @@
+{
+  "id": "E02-S19-D05",
+  "role_id": "nip7_anchor",
+  "voice_id": "onwK4e9ZLuTAKqWW03F9",
+  "voice_name": "Daniel",
+  "text": "Does this establish what happens in every district?",
+  "status": "review_take",
+  "scene": "E02-S19",
+  "duration_sec": 2.972154,
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.5,
+    "similarity_boost": 0.75,
+    "style": 0.15,
+    "use_speaker_boost": true
+  },
+  "request_id": "SoAkAQgVdBOmQQKHnHrz",
+  "provider_character_cost": "11",
+  "sha256": "1d807350bcf3045663ceb84020ed10d2c26b64bd8f0b05b3c8f0d58e482e6e33"
+}

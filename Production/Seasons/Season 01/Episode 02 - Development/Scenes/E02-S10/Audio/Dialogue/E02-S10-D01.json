@@ -1,0 +1,20 @@
+{
+  "id": "E02-S10-D01",
+  "role_id": "trixie",
+  "voice_id": "dmWfLQZJq7wNPv9WmtiM",
+  "voice_name": "Emma — Wry, Gritty Hero",
+  "text": "It wants a payment before it will accept the frozen-account complaint.",
+  "status": "review_take",
+  "scene": "E02-S10",
+  "duration_sec": 3.761633,
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.35,
+    "similarity_boost": 0.8,
+    "style": 0.55,
+    "use_speaker_boost": true
+  },
+  "request_id": "0K207DZG8nkEq8QdAP6e",
+  "provider_character_cost": "15",
+  "sha256": "d1a269c4fad4d683f7ab302f5edd0729b27942a032921cdbe2a81b91c1ac5187"
+}

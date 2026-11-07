@@ -1,0 +1,20 @@
+{
+  "id": "E02-S01-D05",
+  "role_id": "ghost",
+  "voice_id": "7fBwqIVI6wI1B4MuKqQi",
+  "voice_name": "Austin — Upbeat",
+  "text": "You made a spreadsheet for breakfast?",
+  "status": "review_take",
+  "scene": "E02-S01",
+  "duration_sec": 2.043356,
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.5,
+    "similarity_boost": 0.75,
+    "style": 0.15,
+    "use_speaker_boost": true
+  },
+  "request_id": "3dZlvUhMcVYiqErqd3Jl",
+  "provider_character_cost": "8",
+  "sha256": "ad447473de66c23607ad03f6c6b0fe75fe4cd93d3fa459e8ed8d60fad71ad8b4"
+}

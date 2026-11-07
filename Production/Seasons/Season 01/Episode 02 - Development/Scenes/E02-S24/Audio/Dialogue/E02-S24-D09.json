@@ -1,0 +1,20 @@
+{
+  "id": "E02-S24-D09",
+  "role_id": "byte",
+  "voice_id": "wo6udizrrtpIxWGp2qJk",
+  "voice_name": "Northern Terry",
+  "text": "There goes my evening.",
+  "status": "review_take",
+  "scene": "E02-S24",
+  "duration_sec": 1.207438,
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.5,
+    "similarity_boost": 0.75,
+    "style": 0.15,
+    "use_speaker_boost": true
+  },
+  "request_id": "pzM6Jl1G6QZqBH5sCnqB",
+  "provider_character_cost": "5",
+  "sha256": "087175d112325b9483fd8251079e52ed49b964cb59c19201323e68ad6d94cf1a"
+}

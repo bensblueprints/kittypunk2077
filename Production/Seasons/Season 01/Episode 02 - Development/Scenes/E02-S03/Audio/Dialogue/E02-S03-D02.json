@@ -1,0 +1,20 @@
+{
+  "id": "E02-S03-D02",
+  "role_id": "seven_catleven_clerk",
+  "voice_id": "CwhRBWXzGAHq8TQ4Fs17",
+  "voice_name": "Roger - Laid-Back, Casual, Resonant",
+  "text": "Not on that machine. Stand back when it starts printing.",
+  "status": "review_take",
+  "scene": "E02-S03",
+  "duration_sec": 3.157914,
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.5,
+    "similarity_boost": 0.75,
+    "style": 0.15,
+    "use_speaker_boost": true
+  },
+  "request_id": "UTRqVHlOpQmi0hEQ70q3",
+  "provider_character_cost": "12",
+  "sha256": "9a1ede4b99a54d9db6f3a32ad2bc2f169514e057501e693ac8720a4e82fb7e30"
+}

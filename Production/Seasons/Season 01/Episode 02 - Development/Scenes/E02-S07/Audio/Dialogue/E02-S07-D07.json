@@ -1,0 +1,20 @@
+{
+  "id": "E02-S07-D07",
+  "role_id": "trixie",
+  "voice_id": "dmWfLQZJq7wNPv9WmtiM",
+  "voice_name": "Emma — Wry, Gritty Hero",
+  "text": "All right. No erasing. We keep the ugly bits exactly where they can be seen.",
+  "status": "review_take",
+  "scene": "E02-S07",
+  "duration_sec": 4.365351,
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.35,
+    "similarity_boost": 0.8,
+    "style": 0.55,
+    "use_speaker_boost": true
+  },
+  "request_id": "B4kAvf9bGyvOytLzEMtR",
+  "provider_character_cost": "17",
+  "sha256": "e738fb9a6e8d4f9eaac5f0452f5606a6a2c48eefabc50f6d67e7fd6122a72a4f"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "E02-S06-D07",
+  "role_id": "byte",
+  "voice_id": "wo6udizrrtpIxWGp2qJk",
+  "voice_name": "Northern Terry",
+  "text": "Enough that they can't call it a guess. Enough to get those accounts opened again.",
+  "status": "review_take",
+  "scene": "E02-S06",
+  "duration_sec": 4.179592,
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.5,
+    "similarity_boost": 0.75,
+    "style": 0.15,
+    "use_speaker_boost": true
+  },
+  "request_id": "ANHUyL6GcszbStN3rthK",
+  "provider_character_cost": "18",
+  "sha256": "c4312e37f9fec18109c6c0fd44bd8cbe9dcb3ced639a746b39e05f1c95b5b954"
+}

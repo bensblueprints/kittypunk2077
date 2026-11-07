@@ -1,0 +1,20 @@
+{
+  "id": "E02-S14-D05",
+  "role_id": "dog_guard_a",
+  "voice_id": "TxWZERZ5Hc6h9dGxVmXa",
+  "voice_name": "Jerry B. - Gruff and Gritty Commander",
+  "text": "I'm delivering the notice. I don't control the account.",
+  "status": "review_take",
+  "scene": "E02-S14",
+  "duration_sec": 3.111474,
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.5,
+    "similarity_boost": 0.75,
+    "style": 0.15,
+    "use_speaker_boost": true
+  },
+  "request_id": "EOFw9R2DdxkHFlsmgNp9",
+  "provider_character_cost": "12",
+  "sha256": "40f55f8d10ec28db5503d84b5aa1f34bac34e3b33c1403923aac14c1a1d4d9d1"
+}

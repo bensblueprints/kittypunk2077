@@ -1,0 +1,20 @@
+{
+  "id": "E02-S11-D04",
+  "role_id": "onyx",
+  "voice_id": "uq0HIbNZKn11Hs5ifEdd",
+  "voice_name": "Harry — Fierce Warrior",
+  "text": "Section nine. The receiving office must issue a dated acknowledgment. This is the receiving office.",
+  "status": "review_take",
+  "scene": "E02-S11",
+  "duration_sec": 5.944308,
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.5,
+    "similarity_boost": 0.75,
+    "style": 0.15,
+    "use_speaker_boost": true
+  },
+  "request_id": "YEtLaf1jF20pLePuhsld",
+  "provider_character_cost": "22",
+  "sha256": "59538a32e572cf5fda4ea4233e62cfa26559aac0222026f0f98f273646fcf04e"
+}

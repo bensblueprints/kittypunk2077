@@ -1,0 +1,21 @@
+{
+  "id": "E02-S05-D06",
+  "role_id": "chairman_barkington",
+  "voice_id": "bwCXcoVxWNYMlC6Esa8u",
+  "voice_name": "Matthew Schmitz - Gravel, Deep Anti-Hero",
+  "text": "A lawful notice, delivered politely. I don't need a spectacle. I need them occupied.",
+  "status": "review_take",
+  "scene": "E02-S05",
+  "duration_sec": 7.987664,
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.4,
+    "similarity_boost": 0.75,
+    "style": 0.65,
+    "use_speaker_boost": true,
+    "speed": 0.9
+  },
+  "request_id": "iC6W8F4bvFFXJ4XNTnID",
+  "provider_character_cost": "31",
+  "sha256": "a3ff1aa86d2d45926ed5ae0ba56e703103d34a317c2aa5dda3a7591b061b45af"
+}

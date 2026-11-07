@@ -1,0 +1,20 @@
+{
+  "id": "E02-S16-D02",
+  "role_id": "onyx",
+  "voice_id": "uq0HIbNZKn11Hs5ifEdd",
+  "voice_name": "Harry — Fierce Warrior",
+  "text": "Imagine that. An office that responds when you follow its own instructions exactly.",
+  "status": "review_take",
+  "scene": "E02-S16",
+  "duration_sec": 4.551111,
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.5,
+    "similarity_boost": 0.75,
+    "style": 0.15,
+    "use_speaker_boost": true
+  },
+  "request_id": "u2Ny0AnJbKSJaM2QITyb",
+  "provider_character_cost": "18",
+  "sha256": "fe1680a56240938a3ee541ac87db154134eaafecd5cb990a4fb28b03c9bd7b5e"
+}

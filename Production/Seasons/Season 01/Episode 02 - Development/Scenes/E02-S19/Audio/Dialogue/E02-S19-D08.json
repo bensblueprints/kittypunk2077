@@ -1,0 +1,20 @@
+{
+  "id": "E02-S19-D08",
+  "role_id": "trixie",
+  "voice_id": "dmWfLQZJq7wNPv9WmtiM",
+  "voice_name": "Emma — Wry, Gritty Hero",
+  "text": "Open the accounts. Let people buy dinner. They shouldn't need a television appearance to get that far.",
+  "status": "review_take",
+  "scene": "E02-S19",
+  "duration_sec": 5.06195,
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.35,
+    "similarity_boost": 0.8,
+    "style": 0.55,
+    "use_speaker_boost": true
+  },
+  "request_id": "2iLpXgM6p2VSfvhKLmgU",
+  "provider_character_cost": "22",
+  "sha256": "d9337b282676d2ad30fb4537f1a30e9673f313bbe367004ff023b284aae62853"
+}

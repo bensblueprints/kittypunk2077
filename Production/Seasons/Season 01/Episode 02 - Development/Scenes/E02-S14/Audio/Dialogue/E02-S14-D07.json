@@ -1,0 +1,20 @@
+{
+  "id": "E02-S14-D07",
+  "role_id": "dog_guard_a",
+  "voice_id": "TxWZERZ5Hc6h9dGxVmXa",
+  "voice_name": "Jerry B. - Gruff and Gritty Commander",
+  "text": "There's no box for that.",
+  "status": "review_take",
+  "scene": "E02-S14",
+  "duration_sec": 1.578957,
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.5,
+    "similarity_boost": 0.75,
+    "style": 0.15,
+    "use_speaker_boost": true
+  },
+  "request_id": "HoRGnCNIYXeqjABnSbF7",
+  "provider_character_cost": "5",
+  "sha256": "7e42ab71267e73df3e775ddc6a788abb4233789954bec976d1f3652c5f78eabd"
+}

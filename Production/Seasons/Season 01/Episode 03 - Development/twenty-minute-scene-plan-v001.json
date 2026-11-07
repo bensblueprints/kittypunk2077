@@ -1,0 +1,564 @@
+{
+  "episode": 3,
+  "title": "If I Fits, I Resists",
+  "runtime_seconds": 1200,
+  "spoken_word_target": [
+    2500,
+    3000
+  ],
+  "status": "Detailed 20-minute scene plan; not scripted, recorded or submitted",
+  "continuity": [
+    "Warehouse 30-day reprieve remains temporary",
+    "No BARK surveillance rollout before S1 finale",
+    "No confirmed sentient AI reveal",
+    "Five core cats only",
+    "Organic officers separate from factory robot dogs",
+    "Actual order and verified notice failure cause temporary stay"
+  ],
+  "scenes": [
+    {
+      "id": "E03-S01",
+      "title": "Notices Before Breakfast",
+      "location_id": "LOC05",
+      "cast": [
+        "trixie",
+        "onyx",
+        "neon"
+      ],
+      "voice_ids": {
+        "trixie": "dmWfLQZJq7wNPv9WmtiM",
+        "onyx": "uq0HIbNZKn11Hs5ifEdd",
+        "neon": "4e32WqNVWRquDa1OcRYZ"
+      },
+      "start_sec": 0,
+      "duration_sec": 45,
+      "end_sec": 45,
+      "action": "A notice drone pastes a clearance order onto a lived-in doorway. Onyx stops Neon peeling it off: the posting time is evidence. They discover the same order on every door in the block.",
+      "status": "Detailed scene plan; full dialogue, measured audio and shot breakdown still required"
+    },
+    {
+      "id": "E03-S02",
+      "title": "The Best Box",
+      "location_id": "LOC21",
+      "cast": [
+        "onyx",
+        "civilian_2",
+        "neon"
+      ],
+      "voice_ids": {
+        "onyx": "uq0HIbNZKn11Hs5ifEdd",
+        "civilian_2": "b5RPB35vTODb3BEmR3Fc",
+        "neon": "4e32WqNVWRquDa1OcRYZ"
+      },
+      "start_sec": 45,
+      "duration_sec": 50,
+      "end_sec": 95,
+      "action": "Under the monorail, a resident insists a sturdy insulated box is a home, not rubbish. Onyx listens before offering shelter. Neon measures whether the box can travel intact.",
+      "status": "Detailed scene plan; full dialogue, measured audio and shot breakdown still required"
+    },
+    {
+      "id": "E03-S03",
+      "title": "Thirty Days, Not Everyone",
+      "location_id": "LOC02",
+      "cast": [
+        "trixie",
+        "byte",
+        "ghost",
+        "onyx"
+      ],
+      "voice_ids": {
+        "trixie": "dmWfLQZJq7wNPv9WmtiM",
+        "byte": "wo6udizrrtpIxWGp2qJk",
+        "ghost": "7fBwqIVI6wI1B4MuKqQi",
+        "onyx": "uq0HIbNZKn11Hs5ifEdd"
+      },
+      "start_sec": 95,
+      "duration_sec": 45,
+      "end_sec": 140,
+      "action": "The warehouse reprieve from Episode 2 protects only its lease. It does not protect neighbors. Trixie initially wants to challenge paperwork; Onyx insists they also need a safe place tonight.",
+      "status": "Detailed scene plan; full dialogue, measured audio and shot breakdown still required"
+    },
+    {
+      "id": "E03-S04",
+      "title": "The Date Does Not Fit",
+      "location_id": "LOC03",
+      "cast": [
+        "byte",
+        "ghost",
+        "trixie"
+      ],
+      "voice_ids": {
+        "byte": "wo6udizrrtpIxWGp2qJk",
+        "ghost": "7fBwqIVI6wI1B4MuKqQi",
+        "trixie": "dmWfLQZJq7wNPv9WmtiM"
+      },
+      "start_sec": 140,
+      "duration_sec": 55,
+      "end_sec": 195,
+      "action": "Ghost compares the newly posted notice with a delivery record claiming it was served weeks earlier. Byte finds the demolition route was approved before the salmon shortage. They need the original posting log.",
+      "status": "Detailed scene plan; full dialogue, measured audio and shot breakdown still required"
+    },
+    {
+      "id": "E03-S05",
+      "title": "A Very Public Operation",
+      "location_id": "LOC23",
+      "cast": [
+        "general_fetch",
+        "dog_guard_a"
+      ],
+      "voice_ids": {
+        "general_fetch": "pNInz6obpgDQGcFmaJgB",
+        "dog_guard_a": "TxWZERZ5Hc6h9dGxVmXa"
+      },
+      "start_sec": 195,
+      "duration_sec": 45,
+      "end_sec": 240,
+      "action": "Fetch orders an orderly clearance, keeping the machinery conspicuous to draw the crew. An organic Pawlice officer asks where residents should go; Fetch says relocation is another office responsibility.",
+      "status": "Detailed scene plan; full dialogue, measured audio and shot breakdown still required"
+    },
+    {
+      "id": "E03-S06",
+      "title": "Room for More",
+      "location_id": "LOC22",
+      "cast": [
+        "onyx",
+        "neon",
+        "civilian_1"
+      ],
+      "voice_ids": {
+        "onyx": "uq0HIbNZKn11Hs5ifEdd",
+        "neon": "4e32WqNVWRquDa1OcRYZ",
+        "civilian_1": "DODLEQrClDo8wCz460ld"
+      },
+      "start_sec": 240,
+      "duration_sec": 50,
+      "end_sec": 290,
+      "action": "Onyx opens an unused ground-floor warehouse annex to temporary guests. Neon checks exits and power before moving beds. A resident asks when they can go home; Onyx refuses to promise a date.",
+      "status": "Detailed scene plan; full dialogue, measured audio and shot breakdown still required"
+    },
+    {
+      "id": "E03-S07",
+      "title": "Five Jobs, One Deadline",
+      "location_id": "LOC03",
+      "cast": [
+        "trixie",
+        "ghost",
+        "byte",
+        "neon",
+        "onyx"
+      ],
+      "voice_ids": {
+        "trixie": "dmWfLQZJq7wNPv9WmtiM",
+        "ghost": "7fBwqIVI6wI1B4MuKqQi",
+        "byte": "wo6udizrrtpIxWGp2qJk",
+        "neon": "4e32WqNVWRquDa1OcRYZ",
+        "onyx": "uq0HIbNZKn11Hs5ifEdd"
+      },
+      "start_sec": 290,
+      "duration_sec": 55,
+      "end_sec": 345,
+      "action": "Trixie assigns Ghost archive access, Byte the appeal, Neon machinery isolation, Onyx evacuation and herself the original order. They agree to preserve proof and stop if anyone is in the machine zone.",
+      "status": "Detailed scene plan; full dialogue, measured audio and shot breakdown still required"
+    },
+    {
+      "id": "E03-S08",
+      "title": "The Notice Wall",
+      "location_id": "LOC05",
+      "cast": [
+        "trixie",
+        "civilian_2",
+        "byte"
+      ],
+      "voice_ids": {
+        "trixie": "dmWfLQZJq7wNPv9WmtiM",
+        "civilian_2": "b5RPB35vTODb3BEmR3Fc",
+        "byte": "wo6udizrrtpIxWGp2qJk"
+      },
+      "start_sec": 345,
+      "duration_sec": 45,
+      "end_sec": 390,
+      "action": "A resident demonstrates yesterday photographic record of an unposted wall. Trixie records testimony with permission. Byte preserves a private original while keeping identifying details out of public copies.",
+      "status": "Detailed scene plan; full dialogue, measured audio and shot breakdown still required"
+    },
+    {
+      "id": "E03-S09",
+      "title": "Fetch Watches the Gate",
+      "location_id": "LOC23",
+      "cast": [
+        "general_fetch",
+        "dog_guard_a"
+      ],
+      "voice_ids": {
+        "general_fetch": "pNInz6obpgDQGcFmaJgB",
+        "dog_guard_a": "TxWZERZ5Hc6h9dGxVmXa"
+      },
+      "start_sec": 390,
+      "duration_sec": 50,
+      "end_sec": 440,
+      "action": "Fetch recognizes a utility hatch near the checkpoint and predicts Ghost route. He orders one exit watched rather than chasing a decoy. Existing local security cameras only, not the later BARK network.",
+      "status": "Detailed scene plan; full dialogue, measured audio and shot breakdown still required"
+    },
+    {
+      "id": "E03-S10",
+      "title": "The Real Lock",
+      "location_id": "LOC24",
+      "cast": [
+        "neon",
+        "ghost"
+      ],
+      "voice_ids": {
+        "neon": "4e32WqNVWRquDa1OcRYZ",
+        "ghost": "7fBwqIVI6wI1B4MuKqQi"
+      },
+      "start_sec": 440,
+      "duration_sec": 55,
+      "end_sec": 495,
+      "action": "At the parked demolition machines, Neon finds a physical maintenance disconnect. Ghost confirms it cannot stop a rolling vehicle. They must isolate power while the machines remain stationary and outside the resident zone.",
+      "status": "Detailed scene plan; full dialogue, measured audio and shot breakdown still required"
+    },
+    {
+      "id": "E03-S11",
+      "title": "Box Rotation",
+      "location_id": "LOC21",
+      "cast": [
+        "onyx",
+        "neon",
+        "civilian_2"
+      ],
+      "voice_ids": {
+        "onyx": "uq0HIbNZKn11Hs5ifEdd",
+        "neon": "4e32WqNVWRquDa1OcRYZ",
+        "civilian_2": "b5RPB35vTODb3BEmR3Fc"
+      },
+      "start_sec": 495,
+      "duration_sec": 50,
+      "end_sec": 545,
+      "action": "Several residents want the same large moving box. Onyx establishes a rotation, then learns it contains a sleeping kitten. The whole box moves first; the joke ends in practical care rather than ridicule.",
+      "status": "Detailed scene plan; full dialogue, measured audio and shot breakdown still required"
+    },
+    {
+      "id": "E03-S12",
+      "title": "An Expiring Window",
+      "location_id": "LOC03",
+      "cast": [
+        "byte",
+        "ghost",
+        "trixie"
+      ],
+      "voice_ids": {
+        "byte": "wo6udizrrtpIxWGp2qJk",
+        "ghost": "7fBwqIVI6wI1B4MuKqQi",
+        "trixie": "dmWfLQZJq7wNPv9WmtiM"
+      },
+      "start_sec": 545,
+      "duration_sec": 45,
+      "end_sec": 590,
+      "action": "The legitimate appeal attachment link expires when the clearance starts. Ghost can retrieve the posting log or maintain the machinery-monitor feed, not both. Byte needs the full record, not a cropped image.",
+      "status": "Detailed scene plan; full dialogue, measured audio and shot breakdown still required"
+    },
+    {
+      "id": "E03-S13",
+      "title": "You Do Not Have to Do Both",
+      "location_id": "LOC05",
+      "cast": [
+        "trixie",
+        "onyx",
+        "ghost"
+      ],
+      "voice_ids": {
+        "trixie": "dmWfLQZJq7wNPv9WmtiM",
+        "onyx": "uq0HIbNZKn11Hs5ifEdd",
+        "ghost": "7fBwqIVI6wI1B4MuKqQi"
+      },
+      "start_sec": 590,
+      "duration_sec": 55,
+      "end_sec": 645,
+      "action": "Trixie tries to coordinate both routes. Onyx reminds her that leadership means trusting the jobs she assigned. She chooses the evidence route; Neon and Onyx retain responsibility for the physical rescue.",
+      "status": "Detailed scene plan; full dialogue, measured audio and shot breakdown still required"
+    },
+    {
+      "id": "E03-S14",
+      "title": "Quiet Machines",
+      "location_id": "LOC24",
+      "cast": [
+        "neon",
+        "onyx"
+      ],
+      "voice_ids": {
+        "neon": "4e32WqNVWRquDa1OcRYZ",
+        "onyx": "uq0HIbNZKn11Hs5ifEdd"
+      },
+      "start_sec": 645,
+      "duration_sec": 50,
+      "end_sec": 695,
+      "action": "Neon isolates the stationary machine power under the marked maintenance procedure. Onyx keeps residents clear. Controls go dark; neither cat enters moving machinery or pretends this permanently defeats the corporation.",
+      "status": "Detailed scene plan; full dialogue, measured audio and shot breakdown still required"
+    },
+    {
+      "id": "E03-S15",
+      "title": "The Empty Shelter",
+      "location_id": "LOC21",
+      "cast": [
+        "onyx",
+        "civilian_2"
+      ],
+      "voice_ids": {
+        "onyx": "uq0HIbNZKn11Hs5ifEdd",
+        "civilian_2": "b5RPB35vTODb3BEmR3Fc"
+      },
+      "start_sec": 695,
+      "duration_sec": 45,
+      "end_sec": 740,
+      "action": "Onyx checks each shelter and discovers a resident returned for a family photograph. They leave together with the picture and the insulated box. He confirms the shelter zone is clear before reporting success.",
+      "status": "Detailed scene plan; full dialogue, measured audio and shot breakdown still required"
+    },
+    {
+      "id": "E03-S16",
+      "title": "Original Posting Log",
+      "location_id": "LOC25",
+      "cast": [
+        "trixie",
+        "ghost"
+      ],
+      "voice_ids": {
+        "trixie": "dmWfLQZJq7wNPv9WmtiM",
+        "ghost": "7fBwqIVI6wI1B4MuKqQi"
+      },
+      "start_sec": 740,
+      "duration_sec": 55,
+      "end_sec": 795,
+      "action": "At the utility records cabinet Ghost retrieves the dated log under the existing appeal access. Trixie records the whole page and its seal. The claimed delivery predates the actual issue date: both records are retained.",
+      "status": "Detailed scene plan; full dialogue, measured audio and shot breakdown still required"
+    },
+    {
+      "id": "E03-S17",
+      "title": "The Gate Closes",
+      "location_id": "LOC23",
+      "cast": [
+        "general_fetch",
+        "dog_guard_a",
+        "ghost"
+      ],
+      "voice_ids": {
+        "general_fetch": "pNInz6obpgDQGcFmaJgB",
+        "dog_guard_a": "TxWZERZ5Hc6h9dGxVmXa",
+        "ghost": "7fBwqIVI6wI1B4MuKqQi"
+      },
+      "start_sec": 795,
+      "duration_sec": 50,
+      "end_sec": 845,
+      "action": "Fetch spots movement near the utility route and blocks the nearest exit. Ghost reports the closure over comms from cover, remaining offscreen during Fetch coverage. No teleporting between checkpoint and lair.",
+      "status": "Detailed scene plan; full dialogue, measured audio and shot breakdown still required"
+    },
+    {
+      "id": "E03-S18",
+      "title": "The Long Way Home",
+      "location_id": "LOC25",
+      "cast": [
+        "trixie",
+        "ghost",
+        "neon"
+      ],
+      "voice_ids": {
+        "trixie": "dmWfLQZJq7wNPv9WmtiM",
+        "ghost": "7fBwqIVI6wI1B4MuKqQi",
+        "neon": "4e32WqNVWRquDa1OcRYZ"
+      },
+      "start_sec": 845,
+      "duration_sec": 45,
+      "end_sec": 890,
+      "action": "Trixie and Ghost take a longer service passage while Neon guides them remotely using the maintenance map. They pass an obsolete junction plate. They photograph it without activating or identifying the old system.",
+      "status": "Detailed scene plan; full dialogue, measured audio and shot breakdown still required"
+    },
+    {
+      "id": "E03-S19",
+      "title": "An Appeal with Teeth",
+      "location_id": "HQ10",
+      "cast": [
+        "byte",
+        "nip7_anchor"
+      ],
+      "voice_ids": {
+        "byte": "wo6udizrrtpIxWGp2qJk",
+        "nip7_anchor": "onwK4e9ZLuTAKqWW03F9"
+      },
+      "start_sec": 890,
+      "duration_sec": 55,
+      "end_sec": 945,
+      "action": "Byte presents the original order, posting log and witness record through the established paper-appeal channel. The NIP7 presenter verifies chronology remotely and asks what the evidence does not establish.",
+      "status": "Detailed scene plan; full dialogue, measured audio and shot breakdown still required"
+    },
+    {
+      "id": "E03-S20",
+      "title": "Read the Whole Order",
+      "location_id": "LOC14",
+      "cast": [
+        "nip7_anchor",
+        "trixie"
+      ],
+      "voice_ids": {
+        "nip7_anchor": "onwK4e9ZLuTAKqWW03F9",
+        "trixie": "dmWfLQZJq7wNPv9WmtiM"
+      },
+      "start_sec": 945,
+      "duration_sec": 50,
+      "end_sec": 995,
+      "action": "NIP7 reports a dated temporary stay pending review, citing the specific notice failure. Trixie says the immediate clearance must stop, not that every housing problem is solved. Private witness details remain withheld.",
+      "status": "Detailed scene plan; full dialogue, measured audio and shot breakdown still required"
+    },
+    {
+      "id": "E03-S21",
+      "title": "Stand Down Means Stand Down",
+      "location_id": "LOC23",
+      "cast": [
+        "general_fetch",
+        "dog_guard_a"
+      ],
+      "voice_ids": {
+        "general_fetch": "pNInz6obpgDQGcFmaJgB",
+        "dog_guard_a": "TxWZERZ5Hc6h9dGxVmXa"
+      },
+      "start_sec": 995,
+      "duration_sec": 45,
+      "end_sec": 1040,
+      "action": "The officer verifies the signed stay and refuses to restart clearance. Fetch is furious but orders machines held. The pause has a visible institutional cause; the crew did not create a magic override.",
+      "status": "Detailed scene plan; full dialogue, measured audio and shot breakdown still required"
+    },
+    {
+      "id": "E03-S22",
+      "title": "Guests, Not Cargo",
+      "location_id": "LOC22",
+      "cast": [
+        "onyx",
+        "civilian_1",
+        "civilian_2",
+        "neon"
+      ],
+      "voice_ids": {
+        "onyx": "uq0HIbNZKn11Hs5ifEdd",
+        "civilian_1": "DODLEQrClDo8wCz460ld",
+        "civilian_2": "b5RPB35vTODb3BEmR3Fc",
+        "neon": "4e32WqNVWRquDa1OcRYZ"
+      },
+      "start_sec": 1040,
+      "duration_sec": 55,
+      "end_sec": 1095,
+      "action": "Residents arrive at the safe annex and choose sleeping spaces themselves. Neon parks the precious box beside a bed. Onyx posts temporary house rules and asks residents to help improve them.",
+      "status": "Detailed scene plan; full dialogue, measured audio and shot breakdown still required"
+    },
+    {
+      "id": "E03-S23",
+      "title": "Home Is a Job",
+      "location_id": "LOC02",
+      "cast": [
+        "trixie",
+        "byte",
+        "onyx",
+        "ghost",
+        "neon"
+      ],
+      "voice_ids": {
+        "trixie": "dmWfLQZJq7wNPv9WmtiM",
+        "byte": "wo6udizrrtpIxWGp2qJk",
+        "onyx": "uq0HIbNZKn11Hs5ifEdd",
+        "ghost": "7fBwqIVI6wI1B4MuKqQi",
+        "neon": "4e32WqNVWRquDa1OcRYZ"
+      },
+      "start_sec": 1095,
+      "duration_sec": 45,
+      "end_sec": 1140,
+      "action": "The crew celebrates the stayed demolition and confronts the work of hosting neighbors. Byte keeps the appeal deadline visible. Onyx accepts help. Ghost quietly compares the obsolete junction to the service map.",
+      "status": "Detailed scene plan; full dialogue, measured audio and shot breakdown still required"
+    },
+    {
+      "id": "E03-S24",
+      "title": "Someone Knows the Way",
+      "location_id": "LOC23",
+      "cast": [
+        "general_fetch"
+      ],
+      "voice_ids": {
+        "general_fetch": "pNInz6obpgDQGcFmaJgB"
+      },
+      "start_sec": 1140,
+      "duration_sec": 60,
+      "end_sec": 1200,
+      "action": "Fetch studies the utility route used in the escape and marks the next exits for closure. Intercut a silent lair insert of the old service map only as a separate shot. End with human-scale pursuit, no premature AI reveal.",
+      "status": "Detailed scene plan; full dialogue, measured audio and shot breakdown still required"
+    }
+  ],
+  "asset_requirements": [
+    {
+      "id": "LOC21",
+      "name": "District 7 monorail underpass shelters",
+      "needs": [
+        "wide empty underpass",
+        "walkable evacuation aisle",
+        "shelter entrances",
+        "boxed belongings",
+        "safe exit toward warehouse"
+      ],
+      "status": "new location reference required"
+    },
+    {
+      "id": "LOC22",
+      "name": "Resistance warehouse ground-floor community annex",
+      "needs": [
+        "compatible warehouse shell",
+        "sleeping area",
+        "two clear exits",
+        "water/meal table",
+        "privacy dividers"
+      ],
+      "status": "new location reference required; distinct from corporate HQ10"
+    },
+    {
+      "id": "LOC23",
+      "name": "District 7 clearance checkpoint",
+      "needs": [
+        "barrier",
+        "officer shelter",
+        "stationary machinery staging",
+        "utility hatch",
+        "pedestrian route"
+      ],
+      "status": "new location reference required"
+    },
+    {
+      "id": "LOC24",
+      "name": "Demolition machinery maintenance bay",
+      "needs": [
+        "stationary loader",
+        "marked disconnect cabinet",
+        "physical isolation indicator",
+        "clear exclusion boundary"
+      ],
+      "status": "new location and prop references required"
+    },
+    {
+      "id": "LOC25",
+      "name": "District 7 utility records passage",
+      "needs": [
+        "records cabinet",
+        "old junction plate",
+        "two connected exit routes",
+        "obsolete map"
+      ],
+      "status": "new location reference required"
+    },
+    {
+      "id": "E03-PROPSET",
+      "name": "Clearance evidence and moving props",
+      "needs": [
+        "notice drone",
+        "clearance notice",
+        "original posting log",
+        "temporary stay order",
+        "insulated moving box",
+        "family photograph",
+        "old service map"
+      ],
+      "status": "prop references required"
+    }
+  ]
+}

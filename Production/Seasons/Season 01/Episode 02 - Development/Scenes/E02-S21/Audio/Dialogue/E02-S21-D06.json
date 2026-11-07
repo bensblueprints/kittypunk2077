@@ -1,0 +1,20 @@
+{
+  "id": "E02-S21-D06",
+  "role_id": "neon",
+  "voice_id": "4e32WqNVWRquDa1OcRYZ",
+  "voice_name": "Ryan — Product Reviewer",
+  "text": "Byte's there. He's trying it now.",
+  "status": "review_take",
+  "scene": "E02-S21",
+  "duration_sec": 1.857596,
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.5,
+    "similarity_boost": 0.75,
+    "style": 0.15,
+    "use_speaker_boost": true
+  },
+  "request_id": "yGGAh4WnBQAIAc2BHkVw",
+  "provider_character_cost": "7",
+  "sha256": "902939ad911272f45362225233114242213bc6c255f0ce3f51a5f144f369aef5"
+}

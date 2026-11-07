@@ -1,0 +1,20 @@
+{
+  "id": "E02-S01-D09",
+  "role_id": "onyx",
+  "voice_id": "uq0HIbNZKn11Hs5ifEdd",
+  "voice_name": "Harry — Fierce Warrior",
+  "text": "After that, you invent brakes.",
+  "status": "review_take",
+  "scene": "E02-S01",
+  "duration_sec": 1.857596,
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.5,
+    "similarity_boost": 0.75,
+    "style": 0.15,
+    "use_speaker_boost": true
+  },
+  "request_id": "be1CKaXEi7otYmILWzZf",
+  "provider_character_cost": "7",
+  "sha256": "4b92e60abcf5e2db101e0bb64e559dd3f34d6d70d48484d948daf9812db74969"
+}

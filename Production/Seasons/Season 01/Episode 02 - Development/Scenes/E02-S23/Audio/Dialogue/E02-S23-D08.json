@@ -1,0 +1,20 @@
+{
+  "id": "E02-S23-D08",
+  "role_id": "byte",
+  "voice_id": "wo6udizrrtpIxWGp2qJk",
+  "voice_name": "Northern Terry",
+  "text": "I've got one appendix left to check. Then I'm eating something with no columns in it.",
+  "status": "review_take",
+  "scene": "E02-S23",
+  "duration_sec": 4.272472,
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.5,
+    "similarity_boost": 0.75,
+    "style": 0.15,
+    "use_speaker_boost": true
+  },
+  "request_id": "X3QGo7g4a09VkmeVicNu",
+  "provider_character_cost": "19",
+  "sha256": "76aa5786d8d7e7e9649a1992a67a549de19826f0cb7776b2765db674f8cb6631"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "E02-S08-D03",
+  "role_id": "onyx",
+  "voice_id": "uq0HIbNZKn11Hs5ifEdd",
+  "voice_name": "Harry — Fierce Warrior",
+  "text": "You shouldn't have to trust a screen you can't see. You keep your half of the receipt.",
+  "status": "review_take",
+  "scene": "E02-S08",
+  "duration_sec": 4.133152,
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.5,
+    "similarity_boost": 0.75,
+    "style": 0.15,
+    "use_speaker_boost": true
+  },
+  "request_id": "9xNhZDh2c5W3ziOIhbxy",
+  "provider_character_cost": "19",
+  "sha256": "128445c5e2e0ad72230bd885b97941c8bffd9c7ce810a8bc83b2737810ccb8b2"
+}

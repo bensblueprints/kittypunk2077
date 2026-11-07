@@ -1,0 +1,20 @@
+{
+  "id": "E02-S06-D02",
+  "role_id": "onyx",
+  "voice_id": "uq0HIbNZKn11Hs5ifEdd",
+  "voice_name": "Harry — Fierce Warrior",
+  "text": "We can't buy food. Finally, a problem that solves itself.",
+  "status": "review_take",
+  "scene": "E02-S06",
+  "duration_sec": 3.436553,
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.5,
+    "similarity_boost": 0.75,
+    "style": 0.15,
+    "use_speaker_boost": true
+  },
+  "request_id": "IsfGF77YIBEaEQZmSrNK",
+  "provider_character_cost": "13",
+  "sha256": "ba7ca08dd7a160ddbe5b14f58ba11f92649ed63de95e66568481b9e342138eb5"
+}

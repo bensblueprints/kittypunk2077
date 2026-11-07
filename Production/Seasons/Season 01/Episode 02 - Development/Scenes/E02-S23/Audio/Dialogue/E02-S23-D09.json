@@ -1,0 +1,20 @@
+{
+  "id": "E02-S23-D09",
+  "role_id": "neon",
+  "voice_id": "4e32WqNVWRquDa1OcRYZ",
+  "voice_name": "Ryan — Product Reviewer",
+  "text": "Please don't make a spreadsheet for dessert.",
+  "status": "review_take",
+  "scene": "E02-S23",
+  "duration_sec": 1.857596,
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.5,
+    "similarity_boost": 0.75,
+    "style": 0.15,
+    "use_speaker_boost": true
+  },
+  "request_id": "fwRAIPoLrEQcCkUzLfxy",
+  "provider_character_cost": "10",
+  "sha256": "7c31c17f4099216fa19ae58c7aedf97bed4189620ec3d02e54abd1480c56cba4"
+}

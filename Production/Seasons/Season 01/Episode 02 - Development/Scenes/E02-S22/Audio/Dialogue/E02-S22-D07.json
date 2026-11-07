@@ -1,0 +1,20 @@
+{
+  "id": "E02-S22-D07",
+  "role_id": "neon",
+  "voice_id": "4e32WqNVWRquDa1OcRYZ",
+  "voice_name": "Ryan — Product Reviewer",
+  "text": "A locally sourced, manually operated braking solution.",
+  "status": "review_take",
+  "scene": "E02-S22",
+  "duration_sec": 3.390113,
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.5,
+    "similarity_boost": 0.75,
+    "style": 0.15,
+    "use_speaker_boost": true
+  },
+  "request_id": "i1mcuLYEHYJLX0YXKgTE",
+  "provider_character_cost": "12",
+  "sha256": "0bcecf3b72f7971337db35a5043b164bf3de96ed822e93f7bb1560bb6f2d5c53"
+}

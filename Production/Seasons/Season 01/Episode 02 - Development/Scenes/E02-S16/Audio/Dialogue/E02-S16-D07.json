@@ -1,0 +1,20 @@
+{
+  "id": "E02-S16-D07",
+  "role_id": "neon",
+  "voice_id": "4e32WqNVWRquDa1OcRYZ",
+  "voice_name": "Ryan — Product Reviewer",
+  "text": "The case closes if we don't finish before the office closes. Because apparently tomorrow doesn't exist.",
+  "status": "review_take",
+  "scene": "E02-S16",
+  "duration_sec": 5.526349,
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.5,
+    "similarity_boost": 0.75,
+    "style": 0.15,
+    "use_speaker_boost": true
+  },
+  "request_id": "aRbGTpaLqTQA9YvAVaog",
+  "provider_character_cost": "23",
+  "sha256": "a8145762bccf10beca392fc8a3d7b84ac720a114335b904183757c32e1f66fa9"
+}

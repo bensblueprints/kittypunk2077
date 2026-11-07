@@ -1,0 +1,20 @@
+{
+  "id": "E02-S16-D03",
+  "role_id": "trixie",
+  "voice_id": "dmWfLQZJq7wNPv9WmtiM",
+  "voice_name": "Emma — Wry, Gritty Hero",
+  "text": "Attach the freeze order and the payment decline. We need a decision, not another receipt.",
+  "status": "review_take",
+  "scene": "E02-S16",
+  "duration_sec": 5.01551,
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.35,
+    "similarity_boost": 0.8,
+    "style": 0.55,
+    "use_speaker_boost": true
+  },
+  "request_id": "Sqe3Zn3THYdJMIfrSeBZ",
+  "provider_character_cost": "20",
+  "sha256": "a3ef4abdfc6a28a6c37c5652aaf9f0b764df13510865fcb1f685afbc9b26ae1b"
+}

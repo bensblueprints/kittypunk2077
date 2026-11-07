@@ -1,0 +1,21 @@
+{
+  "id": "S15-W12",
+  "scene": "S15",
+  "speaker": "Trixie",
+  "role_id": "trixie",
+  "voice_id": "dmWfLQZJq7wNPv9WmtiM",
+  "text": "First we get out with this. Then we work out what it proves. I am not giving Barkington an excuse to call the whole thing a story we invented.",
+  "status": "review_take",
+  "placement": "Integrate into existing action coverage; preserve current performances and scene boundaries. Visual/lip-sync review required.",
+  "duration_sec": 9.055782,
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.35,
+    "similarity_boost": 0.8,
+    "style": 0.55,
+    "use_speaker_boost": true
+  },
+  "request_id": "8ILwEjIoWXbv85O1yMOs",
+  "provider_character_cost": "31",
+  "sha256": "dab734c3e8839d1250bb577350427281f2ad485a1dfc4f81a8ab85bdbaea4c12"
+}

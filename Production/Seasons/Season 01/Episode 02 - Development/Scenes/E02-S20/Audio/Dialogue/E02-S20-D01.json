@@ -1,0 +1,20 @@
+{
+  "id": "E02-S20-D01",
+  "role_id": "civilian_2",
+  "voice_id": "b5RPB35vTODb3BEmR3Fc",
+  "voice_name": "Serein - Friendly, Casual and Balanced",
+  "text": "Is this the right queue? I've got the receipt, the decline notice and a very bad mood.",
+  "status": "review_take",
+  "scene": "E02-S20",
+  "duration_sec": 5.24771,
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.5,
+    "similarity_boost": 0.75,
+    "style": 0.15,
+    "use_speaker_boost": true
+  },
+  "request_id": "be5ceAJKfhuqZSG4nAB9",
+  "provider_character_cost": "19",
+  "sha256": "9c50350f96c1bb1790905d5dcff5f1c7c351bc59ffe9326efbf4e51ed9779d0d"
+}

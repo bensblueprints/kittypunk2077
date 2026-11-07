@@ -1,0 +1,20 @@
+{
+  "id": "E02-S13-D04",
+  "role_id": "civilian_1",
+  "voice_id": "DODLEQrClDo8wCz460ld",
+  "voice_name": "Lauren - Friendly, Comforting and Soft",
+  "text": "Voluntary? Nobody asked me.",
+  "status": "review_take",
+  "scene": "E02-S13",
+  "duration_sec": 1.950476,
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.5,
+    "similarity_boost": 0.75,
+    "style": 0.15,
+    "use_speaker_boost": true
+  },
+  "request_id": "GJkqza3fvbebNL9pSw4W",
+  "provider_character_cost": "6",
+  "sha256": "94c20cde3581c0f946746f9bba7f8ee6eadf3b2ae7fd8341a96e4068e387c7b4"
+}

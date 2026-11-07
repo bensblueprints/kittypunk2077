@@ -1,0 +1,20 @@
+{
+  "id": "E02-S24-D04",
+  "role_id": "ghost",
+  "voice_id": "7fBwqIVI6wI1B4MuKqQi",
+  "voice_name": "Austin — Upbeat",
+  "text": "It doesn't say. Just clearance phases and addresses. Our warehouse is in the first group.",
+  "status": "review_take",
+  "scene": "E02-S24",
+  "duration_sec": 5.526349,
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.5,
+    "similarity_boost": 0.75,
+    "style": 0.15,
+    "use_speaker_boost": true
+  },
+  "request_id": "dT7jZE0yOd4b6KnB8UbN",
+  "provider_character_cost": "20",
+  "sha256": "939395a9a48200d0abafa97345d475a5ab71ac7ed13a1cec09c35ab282544a86"
+}

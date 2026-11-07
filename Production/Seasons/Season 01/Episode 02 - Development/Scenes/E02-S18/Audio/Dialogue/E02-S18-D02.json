@@ -1,0 +1,21 @@
+{
+  "id": "E02-S18-D02",
+  "role_id": "chairman_barkington",
+  "voice_id": "bwCXcoVxWNYMlC6Esa8u",
+  "voice_name": "Matthew Schmitz - Gravel, Deep Anti-Hero",
+  "text": "The people spreading these allegations would prefer that we abandon responsible administration entirely.",
+  "status": "review_take",
+  "scene": "E02-S18",
+  "duration_sec": 7.941224,
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.4,
+    "similarity_boost": 0.75,
+    "style": 0.65,
+    "use_speaker_boost": true,
+    "speed": 0.9
+  },
+  "request_id": "7Qf2D8Dfz5R0KniO9b6V",
+  "provider_character_cost": "39",
+  "sha256": "ed83ea21a7fcf91f4cb657d1edb57e9254aff3c829cfe0a3b1b99030e2cddbfe"
+}

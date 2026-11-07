@@ -1,0 +1,20 @@
+{
+  "id": "E02-S19-D09",
+  "role_id": "nip7_anchor",
+  "voice_id": "onwK4e9ZLuTAKqWW03F9",
+  "voice_name": "Daniel",
+  "text": "Residents' personal details have been withheld. The verified documents and appeal instructions will remain available.",
+  "status": "review_take",
+  "scene": "E02-S19",
+  "duration_sec": 7.662585,
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.5,
+    "similarity_boost": 0.75,
+    "style": 0.15,
+    "use_speaker_boost": true
+  },
+  "request_id": "6OxQVviZ2lIhHSNgFkv6",
+  "provider_character_cost": "26",
+  "sha256": "7248dea7f38226f611a629da5350a55f884345ba6312dc8931de21128e8cc469"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "E02-S13-D03",
+  "role_id": "woof7_anchor",
+  "voice_id": "cjVigY5qzO86Huf0OWal",
+  "voice_name": "Eric",
+  "text": "The company says ordinary shopping will resume as soon as the necessary checks are complete.",
+  "status": "review_take",
+  "scene": "E02-S13",
+  "duration_sec": 5.01551,
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.5,
+    "similarity_boost": 0.75,
+    "style": 0.15,
+    "use_speaker_boost": true
+  },
+  "request_id": "c5j9X1Rh2FB8Lz7FxHnE",
+  "provider_character_cost": "20",
+  "sha256": "1b42e2a2aace779c4106796fe0eab29d144b0ec8afdc85691bf232c343ed6cc7"
+}

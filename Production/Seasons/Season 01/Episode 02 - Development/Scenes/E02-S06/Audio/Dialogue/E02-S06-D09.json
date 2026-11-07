@@ -1,0 +1,20 @@
+{
+  "id": "E02-S06-D09",
+  "role_id": "onyx",
+  "voice_id": "uq0HIbNZKn11Hs5ifEdd",
+  "voice_name": "Harry — Fierce Warrior",
+  "text": "Good. I was getting attached to being angry for a reason.",
+  "status": "review_take",
+  "scene": "E02-S06",
+  "duration_sec": 3.482993,
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.5,
+    "similarity_boost": 0.75,
+    "style": 0.15,
+    "use_speaker_boost": true
+  },
+  "request_id": "WylRecF1xRMiV6rwdDHP",
+  "provider_character_cost": "13",
+  "sha256": "fdd18014a0f14259487e338e50f45c9f14df032dd58ad57b7f2de3ea459d4328"
+}

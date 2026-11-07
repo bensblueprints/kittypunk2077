@@ -1,0 +1,20 @@
+{
+  "id": "E02-S14-D03",
+  "role_id": "dog_guard_a",
+  "voice_id": "TxWZERZ5Hc6h9dGxVmXa",
+  "voice_name": "Jerry B. - Gruff and Gritty Commander",
+  "text": "Your tenant verification has changed. You have until the posted deadline to resolve it.",
+  "status": "review_take",
+  "scene": "E02-S14",
+  "duration_sec": 5.804989,
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.5,
+    "similarity_boost": 0.75,
+    "style": 0.15,
+    "use_speaker_boost": true
+  },
+  "request_id": "H8hggJ0be8UfmA14chHG",
+  "provider_character_cost": "19",
+  "sha256": "024f07027d2d4c12df8d76d15a002793b19c09bb43c5f7a49e803720914b78e6"
+}

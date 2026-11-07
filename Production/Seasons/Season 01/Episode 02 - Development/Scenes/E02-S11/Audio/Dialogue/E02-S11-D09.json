@@ -1,0 +1,20 @@
+{
+  "id": "E02-S11-D09",
+  "role_id": "neon",
+  "voice_id": "4e32WqNVWRquDa1OcRYZ",
+  "voice_name": "Ryan — Product Reviewer",
+  "text": "It printed one! Look at that. We successfully asked for help. Historic day.",
+  "status": "review_take",
+  "scene": "E02-S11",
+  "duration_sec": 5.10839,
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.5,
+    "similarity_boost": 0.75,
+    "style": 0.15,
+    "use_speaker_boost": true
+  },
+  "request_id": "Wl4leYnoSernymEZaOLe",
+  "provider_character_cost": "16",
+  "sha256": "f6cdd090ad02c26579a2bc418e554e80695a2816c24c9f63ba6d07c1499de722"
+}

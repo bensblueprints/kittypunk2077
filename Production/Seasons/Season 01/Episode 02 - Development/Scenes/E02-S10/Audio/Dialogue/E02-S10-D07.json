@@ -1,0 +1,20 @@
+{
+  "id": "E02-S10-D07",
+  "role_id": "trixie",
+  "voice_id": "dmWfLQZJq7wNPv9WmtiM",
+  "voice_name": "Emma — Wry, Gritty Hero",
+  "text": "Use the apology. Thirty-six pages are blank on the back.",
+  "status": "review_take",
+  "scene": "E02-S10",
+  "duration_sec": 3.250794,
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.35,
+    "similarity_boost": 0.8,
+    "style": 0.55,
+    "use_speaker_boost": true
+  },
+  "request_id": "MCkskUlonZLQsskICbar",
+  "provider_character_cost": "12",
+  "sha256": "941dc4f6dec92255f3d198d6dd4affcd2ce4e5f40e1f4075f74fbdfbbcef7217"
+}
