@@ -1,0 +1,566 @@
+{
+  "episode": 2,
+  "title": "Terms and Purrditions",
+  "runtime_seconds": 1200,
+  "status": "20-minute scene plan, not a production-ready shot list",
+  "scenes": [
+    {
+      "id": "E02-S01",
+      "title": "Breakfast on Wheels",
+      "start_sec": 0,
+      "duration_sec": 45,
+      "end_sec": 45,
+      "location_id": "LOC08",
+      "cast": [
+        "trixie",
+        "byte",
+        "neon",
+        "onyx",
+        "ghost"
+      ],
+      "voice_ids": {
+        "trixie": "dmWfLQZJq7wNPv9WmtiM",
+        "byte": "wo6udizrrtpIxWGp2qJk",
+        "neon": "4e32WqNVWRquDa1OcRYZ",
+        "onyx": "uq0HIbNZKn11Hs5ifEdd",
+        "ghost": "7fBwqIVI6wI1B4MuKqQi"
+      },
+      "action": "The five deliver the first community salmon crates. A family has food for tonight. Byte insists on keeping a receipt for every handover.",
+      "dramatic_purpose": "Establish the tangible success inherited from the pilot.",
+      "status": "planning draft; shot breakdown and full dialogue not yet written",
+      "audio_status": "not recorded",
+      "video_status": "not submitted"
+    },
+    {
+      "id": "E02-S02",
+      "title": "Payment Declined",
+      "start_sec": 45,
+      "duration_sec": 45,
+      "end_sec": 90,
+      "location_id": "LOC07",
+      "cast": [
+        "seven_catleven_clerk",
+        "civilian_1",
+        "trixie",
+        "byte"
+      ],
+      "voice_ids": {
+        "seven_catleven_clerk": "CwhRBWXzGAHq8TQ4Fs17",
+        "civilian_1": "DODLEQrClDo8wCz460ld",
+        "trixie": "dmWfLQZJq7wNPv9WmtiM",
+        "byte": "wo6udizrrtpIxWGp2qJk"
+      },
+      "action": "A customer can see funds but cannot pay. The clerk tries a second account; it is blocked too. Trixie recognizes the delivery recipient list.",
+      "dramatic_purpose": "An account freeze turns the victory into a new problem.",
+      "status": "planning draft; shot breakdown and full dialogue not yet written",
+      "audio_status": "not recorded",
+      "video_status": "not submitted"
+    },
+    {
+      "id": "E02-S03",
+      "title": "Sorry Costs Extra",
+      "start_sec": 90,
+      "duration_sec": 50,
+      "end_sec": 140,
+      "location_id": "LOC07",
+      "cast": [
+        "seven_catleven_clerk",
+        "onyx",
+        "neon"
+      ],
+      "voice_ids": {
+        "seven_catleven_clerk": "CwhRBWXzGAHq8TQ4Fs17",
+        "onyx": "uq0HIbNZKn11Hs5ifEdd",
+        "neon": "4e32WqNVWRquDa1OcRYZ"
+      },
+      "action": "The help terminal prints a thirty-seven-page apology and charges a processing fee. Onyx asks whether the apology needs an apology. Neon saves the reference number.",
+      "dramatic_purpose": "A comic obstacle creates the evidence trail rather than delaying it.",
+      "status": "planning draft; shot breakdown and full dialogue not yet written",
+      "audio_status": "not recorded",
+      "video_status": "not submitted"
+    },
+    {
+      "id": "E02-S04",
+      "title": "Three Locks, One Key",
+      "start_sec": 140,
+      "duration_sec": 50,
+      "end_sec": 190,
+      "location_id": "LOC03",
+      "cast": [
+        "byte",
+        "ghost",
+        "trixie"
+      ],
+      "voice_ids": {
+        "byte": "wo6udizrrtpIxWGp2qJk",
+        "ghost": "7fBwqIVI6wI1B4MuKqQi",
+        "trixie": "dmWfLQZJq7wNPv9WmtiM"
+      },
+      "action": "Byte compares food-payment IDs, the warehouse lease and utility access. The same corporate identity ledger governs all three. Ghost warns that an overwrite would destroy provenance.",
+      "dramatic_purpose": "Define the system and the limits of the crew’s options.",
+      "status": "planning draft; shot breakdown and full dialogue not yet written",
+      "audio_status": "not recorded",
+      "video_status": "not submitted"
+    },
+    {
+      "id": "E02-S05",
+      "title": "The Freeze Order",
+      "start_sec": 190,
+      "duration_sec": 55,
+      "end_sec": 245,
+      "location_id": "HQ03",
+      "cast": [
+        "chairman_barkington"
+      ],
+      "voice_ids": {
+        "chairman_barkington": "bwCXcoVxWNYMlC6Esa8u"
+      },
+      "action": "Barkington authorizes enhanced fraud review for District 7 recipients and an accelerated lease inspection. The public explanation is administrative protection.",
+      "dramatic_purpose": "Reveal intent through a signed fictional administrative order.",
+      "status": "planning draft; shot breakdown and full dialogue not yet written",
+      "audio_status": "not recorded",
+      "video_status": "not submitted"
+    },
+    {
+      "id": "E02-S06",
+      "title": "Receipts on the Table",
+      "start_sec": 245,
+      "duration_sec": 50,
+      "end_sec": 295,
+      "location_id": "LOC02",
+      "cast": [
+        "trixie",
+        "byte",
+        "ghost",
+        "neon",
+        "onyx"
+      ],
+      "voice_ids": {
+        "trixie": "dmWfLQZJq7wNPv9WmtiM",
+        "byte": "wo6udizrrtpIxWGp2qJk",
+        "ghost": "7fBwqIVI6wI1B4MuKqQi",
+        "neon": "4e32WqNVWRquDa1OcRYZ",
+        "onyx": "uq0HIbNZKn11Hs5ifEdd"
+      },
+      "action": "The crew lays paper receipts beside matching account notices. Trixie wants immediate relief; Byte points out that erasing balances also erases the overcharge evidence.",
+      "dramatic_purpose": "Make the central moral and practical choice concrete.",
+      "status": "planning draft; shot breakdown and full dialogue not yet written",
+      "audio_status": "not recorded",
+      "video_status": "not submitted"
+    },
+    {
+      "id": "E02-S07",
+      "title": "Keep the Evidence",
+      "start_sec": 295,
+      "duration_sec": 55,
+      "end_sec": 350,
+      "location_id": "LOC03",
+      "cast": [
+        "trixie",
+        "byte",
+        "ghost"
+      ],
+      "voice_ids": {
+        "trixie": "dmWfLQZJq7wNPv9WmtiM",
+        "byte": "wo6udizrrtpIxWGp2qJk",
+        "ghost": "7fBwqIVI6wI1B4MuKqQi"
+      },
+      "action": "They choose to preserve the signed account-change record and appeal the freeze. Ghost needs a legitimate copy exposed through a public service case; no magical total access.",
+      "dramatic_purpose": "Set a constrained, comprehensible plan.",
+      "status": "planning draft; shot breakdown and full dialogue not yet written",
+      "audio_status": "not recorded",
+      "video_status": "not submitted"
+    },
+    {
+      "id": "E02-S08",
+      "title": "Offline Does Not Mean Forgotten",
+      "start_sec": 350,
+      "duration_sec": 45,
+      "end_sec": 395,
+      "location_id": "LOC04",
+      "cast": [
+        "neon",
+        "onyx",
+        "civilian_2"
+      ],
+      "voice_ids": {
+        "neon": "4e32WqNVWRquDa1OcRYZ",
+        "onyx": "uq0HIbNZKn11Hs5ifEdd",
+        "civilian_2": "b5RPB35vTODb3BEmR3Fc"
+      },
+      "action": "Neon makes a paper-first delivery register. Onyx verifies names at the door. A resident fears losing access by being listed; they explain what is and is not recorded.",
+      "dramatic_purpose": "The community gets agency and practical protection.",
+      "status": "planning draft; shot breakdown and full dialogue not yet written",
+      "audio_status": "not recorded",
+      "video_status": "not submitted"
+    },
+    {
+      "id": "E02-S09",
+      "title": "Take a Number",
+      "start_sec": 395,
+      "duration_sec": 50,
+      "end_sec": 445,
+      "location_id": "HQ10",
+      "cast": [
+        "trixie",
+        "onyx",
+        "neon"
+      ],
+      "voice_ids": {
+        "trixie": "dmWfLQZJq7wNPv9WmtiM",
+        "onyx": "uq0HIbNZKn11Hs5ifEdd",
+        "neon": "4e32WqNVWRquDa1OcRYZ"
+      },
+      "action": "At the public-service annex, the number dispenser sends them to a second dispenser. Onyx starts documenting every rule instead of breaking the queue.",
+      "dramatic_purpose": "Introduce the service set and a comic strategy that pays off.",
+      "status": "planning draft; shot breakdown and full dialogue not yet written",
+      "audio_status": "not recorded",
+      "video_status": "not submitted"
+    },
+    {
+      "id": "E02-S10",
+      "title": "A Fee to Dispute a Fee",
+      "start_sec": 445,
+      "duration_sec": 55,
+      "end_sec": 500,
+      "location_id": "HQ10",
+      "cast": [
+        "trixie",
+        "onyx"
+      ],
+      "voice_ids": {
+        "trixie": "dmWfLQZJq7wNPv9WmtiM",
+        "onyx": "uq0HIbNZKn11Hs5ifEdd"
+      },
+      "action": "A terminal demands payment before accepting a frozen-account complaint. Trixie finds the hardship exception; the terminal demands proof they cannot pay.",
+      "dramatic_purpose": "A specific procedural trap increases pressure.",
+      "status": "planning draft; shot breakdown and full dialogue not yet written",
+      "audio_status": "not recorded",
+      "video_status": "not submitted"
+    },
+    {
+      "id": "E02-S11",
+      "title": "Every Posted Rule",
+      "start_sec": 500,
+      "duration_sec": 50,
+      "end_sec": 550,
+      "location_id": "HQ10",
+      "cast": [
+        "onyx",
+        "neon"
+      ],
+      "voice_ids": {
+        "onyx": "uq0HIbNZKn11Hs5ifEdd",
+        "neon": "4e32WqNVWRquDa1OcRYZ"
+      },
+      "action": "Onyx reads the entire posted policy and spots a paper-appeal option. He calmly refuses the express fee and requests the required acknowledgment.",
+      "dramatic_purpose": "His patience, rather than intimidation, earns the case number.",
+      "status": "planning draft; shot breakdown and full dialogue not yet written",
+      "audio_status": "not recorded",
+      "video_status": "not submitted"
+    },
+    {
+      "id": "E02-S12",
+      "title": "Signed and Dated",
+      "start_sec": 550,
+      "duration_sec": 55,
+      "end_sec": 605,
+      "location_id": "LOC03",
+      "cast": [
+        "ghost",
+        "byte"
+      ],
+      "voice_ids": {
+        "ghost": "7fBwqIVI6wI1B4MuKqQi",
+        "byte": "wo6udizrrtpIxWGp2qJk"
+      },
+      "action": "The case attachment contains the signed freeze-order record. Byte compares its time to the public explanation and delivery receipts. They preserve an unmodified copy.",
+      "dramatic_purpose": "Acquire evidence through the established appeal, not an unexplained hack.",
+      "status": "planning draft; shot breakdown and full dialogue not yet written",
+      "audio_status": "not recorded",
+      "video_status": "not submitted"
+    },
+    {
+      "id": "E02-S13",
+      "title": "Protection on Television",
+      "start_sec": 605,
+      "duration_sec": 45,
+      "end_sec": 650,
+      "location_id": "LOC13",
+      "cast": [
+        "woof7_anchor"
+      ],
+      "voice_ids": {
+        "woof7_anchor": "cjVigY5qzO86Huf0OWal"
+      },
+      "action": "WOOF7 calls the freezes a voluntary consumer-protection review. Cut to affected residents unable to buy supper; broadcast stays in the physical television when viewed in-world.",
+      "dramatic_purpose": "Show the gap between official language and lived consequences.",
+      "status": "planning draft; shot breakdown and full dialogue not yet written",
+      "audio_status": "not recorded",
+      "video_status": "not submitted"
+    },
+    {
+      "id": "E02-S14",
+      "title": "The Lease Clock",
+      "start_sec": 650,
+      "duration_sec": 50,
+      "end_sec": 700,
+      "location_id": "LOC01",
+      "cast": [
+        "trixie",
+        "onyx",
+        "dog_guard_a"
+      ],
+      "voice_ids": {
+        "trixie": "dmWfLQZJq7wNPv9WmtiM",
+        "onyx": "uq0HIbNZKn11Hs5ifEdd",
+        "dog_guard_a": "TxWZERZ5Hc6h9dGxVmXa"
+      },
+      "action": "A notice on the warehouse door gives a near-term compliance deadline. The organic officer delivers paperwork, while the robot-factory design remains separate.",
+      "dramatic_purpose": "Link the warehouse threat to the same identity ledger.",
+      "status": "planning draft; shot breakdown and full dialogue not yet written",
+      "audio_status": "not recorded",
+      "video_status": "not submitted"
+    },
+    {
+      "id": "E02-S15",
+      "title": "Copy, Do Not Erase",
+      "start_sec": 700,
+      "duration_sec": 50,
+      "end_sec": 750,
+      "location_id": "LOC03",
+      "cast": [
+        "ghost",
+        "byte",
+        "trixie"
+      ],
+      "voice_ids": {
+        "ghost": "7fBwqIVI6wI1B4MuKqQi",
+        "byte": "wo6udizrrtpIxWGp2qJk",
+        "trixie": "dmWfLQZJq7wNPv9WmtiM"
+      },
+      "action": "Trixie declines the tempting destructive shortcut. Byte creates a comparison package containing receipts, timestamps and the signed order, with resident details withheld from the public copy.",
+      "dramatic_purpose": "Pay off the evidence-versus-erasure choice.",
+      "status": "planning draft; shot breakdown and full dialogue not yet written",
+      "audio_status": "not recorded",
+      "video_status": "not submitted"
+    },
+    {
+      "id": "E02-S16",
+      "title": "The Appeal Token",
+      "start_sec": 750,
+      "duration_sec": 50,
+      "end_sec": 800,
+      "location_id": "HQ10",
+      "cast": [
+        "neon",
+        "onyx",
+        "trixie"
+      ],
+      "voice_ids": {
+        "neon": "4e32WqNVWRquDa1OcRYZ",
+        "onyx": "uq0HIbNZKn11Hs5ifEdd",
+        "trixie": "dmWfLQZJq7wNPv9WmtiM"
+      },
+      "action": "Neon brings the acknowledgment and the preserved attachments back to the terminal. The receipt number unlocks a manual review channel hidden in plain sight.",
+      "dramatic_purpose": "The queue comedy becomes the mechanism for progress.",
+      "status": "planning draft; shot breakdown and full dialogue not yet written",
+      "audio_status": "not recorded",
+      "video_status": "not submitted"
+    },
+    {
+      "id": "E02-S17",
+      "title": "The Clerk’s Receipt",
+      "start_sec": 800,
+      "duration_sec": 55,
+      "end_sec": 855,
+      "location_id": "LOC07",
+      "cast": [
+        "seven_catleven_clerk",
+        "byte",
+        "civilian_1"
+      ],
+      "voice_ids": {
+        "seven_catleven_clerk": "CwhRBWXzGAHq8TQ4Fs17",
+        "byte": "wo6udizrrtpIxWGp2qJk",
+        "civilian_1": "DODLEQrClDo8wCz460ld"
+      },
+      "action": "The shopkeeper adds a witnessed receipt showing the same customers paid normally before the order. The clerk risks extra scrutiny but chooses to sign.",
+      "dramatic_purpose": "A civilian action supplies the corroboration the crew lacked.",
+      "status": "planning draft; shot breakdown and full dialogue not yet written",
+      "audio_status": "not recorded",
+      "video_status": "not submitted"
+    },
+    {
+      "id": "E02-S18",
+      "title": "Barkington’s Denial",
+      "start_sec": 855,
+      "duration_sec": 45,
+      "end_sec": 900,
+      "location_id": "HQ03",
+      "cast": [
+        "chairman_barkington"
+      ],
+      "voice_ids": {
+        "chairman_barkington": "bwCXcoVxWNYMlC6Esa8u"
+      },
+      "action": "Barkington insists the restrictions are routine and that no neighborhood is being singled out. A screen beside him shows the District 7 selection field.",
+      "dramatic_purpose": "His specific denial can be tested against the evidence.",
+      "status": "planning draft; shot breakdown and full dialogue not yet written",
+      "audio_status": "not recorded",
+      "video_status": "not submitted"
+    },
+    {
+      "id": "E02-S19",
+      "title": "NIP7 Puts It Together",
+      "start_sec": 900,
+      "duration_sec": 60,
+      "end_sec": 960,
+      "location_id": "LOC14",
+      "cast": [
+        "nip7_anchor",
+        "trixie",
+        "byte"
+      ],
+      "voice_ids": {
+        "nip7_anchor": "onwK4e9ZLuTAKqWW03F9",
+        "trixie": "dmWfLQZJq7wNPv9WmtiM",
+        "byte": "wo6udizrrtpIxWGp2qJk"
+      },
+      "action": "The British cat presenter explains the signed order and the timeline, distinguishing proven retaliation from unanswered questions. Residents are not exposed on screen.",
+      "dramatic_purpose": "Publish a clear factual win, not an all-powerful leak.",
+      "status": "planning draft; shot breakdown and full dialogue not yet written",
+      "audio_status": "not recorded",
+      "video_status": "not submitted"
+    },
+    {
+      "id": "E02-S20",
+      "title": "The Queue Turns Around",
+      "start_sec": 960,
+      "duration_sec": 55,
+      "end_sec": 1015,
+      "location_id": "HQ10",
+      "cast": [
+        "onyx",
+        "neon",
+        "civilian_2"
+      ],
+      "voice_ids": {
+        "onyx": "uq0HIbNZKn11Hs5ifEdd",
+        "neon": "4e32WqNVWRquDa1OcRYZ",
+        "civilian_2": "b5RPB35vTODb3BEmR3Fc"
+      },
+      "action": "Residents arrive with numbered paper appeals and their own receipts. Onyx helps them follow the rules the corporation expected nobody to read.",
+      "dramatic_purpose": "The victory is collective; the crew does not solve everything alone.",
+      "status": "planning draft; shot breakdown and full dialogue not yet written",
+      "audio_status": "not recorded",
+      "video_status": "not submitted"
+    },
+    {
+      "id": "E02-S21",
+      "title": "Access Restored",
+      "start_sec": 1015,
+      "duration_sec": 50,
+      "end_sec": 1065,
+      "location_id": "HQ10",
+      "cast": [
+        "trixie",
+        "neon"
+      ],
+      "voice_ids": {
+        "trixie": "dmWfLQZJq7wNPv9WmtiM",
+        "neon": "4e32WqNVWRquDa1OcRYZ"
+      },
+      "action": "The manual review restores the flagged accounts. The terminal displays a temporary review decision, not permanent control over the ledger.",
+      "dramatic_purpose": "Resolve the immediate freeze within the established mechanism.",
+      "status": "planning draft; shot breakdown and full dialogue not yet written",
+      "audio_status": "not recorded",
+      "video_status": "not submitted"
+    },
+    {
+      "id": "E02-S22",
+      "title": "Dinner Gets Delivered",
+      "start_sec": 1065,
+      "duration_sec": 45,
+      "end_sec": 1110,
+      "location_id": "LOC08",
+      "cast": [
+        "trixie",
+        "byte",
+        "onyx",
+        "civilian_1"
+      ],
+      "voice_ids": {
+        "trixie": "dmWfLQZJq7wNPv9WmtiM",
+        "byte": "wo6udizrrtpIxWGp2qJk",
+        "onyx": "uq0HIbNZKn11Hs5ifEdd",
+        "civilian_1": "DODLEQrClDo8wCz460ld"
+      },
+      "action": "Payment succeeds at the shop and the delivery register balances. The same family from the opening gets supper. Byte keeps the final receipt.",
+      "dramatic_purpose": "Demonstrate the result physically instead of only announcing it.",
+      "status": "planning draft; shot breakdown and full dialogue not yet written",
+      "audio_status": "not recorded",
+      "video_status": "not submitted"
+    },
+    {
+      "id": "E02-S23",
+      "title": "Thirty Days Is Not Forever",
+      "start_sec": 1110,
+      "duration_sec": 45,
+      "end_sec": 1155,
+      "location_id": "LOC02",
+      "cast": [
+        "trixie",
+        "ghost",
+        "byte",
+        "neon",
+        "onyx"
+      ],
+      "voice_ids": {
+        "trixie": "dmWfLQZJq7wNPv9WmtiM",
+        "ghost": "7fBwqIVI6wI1B4MuKqQi",
+        "byte": "wo6udizrrtpIxWGp2qJk",
+        "neon": "4e32WqNVWRquDa1OcRYZ",
+        "onyx": "uq0HIbNZKn11Hs5ifEdd"
+      },
+      "action": "The warehouse receives a temporary reprieve. The crew celebrates a real win while acknowledging the shared ledger still exists. Onyx keeps the huge apology as a doorstop.",
+      "dramatic_purpose": "Close the comic thread and state the limits of the victory.",
+      "status": "planning draft; shot breakdown and full dialogue not yet written",
+      "audio_status": "not recorded",
+      "video_status": "not submitted"
+    },
+    {
+      "id": "E02-S24",
+      "title": "Redevelopment",
+      "start_sec": 1155,
+      "duration_sec": 45,
+      "end_sec": 1200,
+      "location_id": "LOC03",
+      "cast": [
+        "ghost",
+        "trixie"
+      ],
+      "voice_ids": {
+        "ghost": "7fBwqIVI6wI1B4MuKqQi",
+        "trixie": "dmWfLQZJq7wNPv9WmtiM"
+      },
+      "action": "An appendix to the account record marks District 7 as a planned redevelopment zone. Trixie realizes the freeze was a pressure tactic connected to something larger.",
+      "dramatic_purpose": "End on the approved redevelopment hook, not the later BARK-camera finale.",
+      "status": "planning draft; shot breakdown and full dialogue not yet written",
+      "audio_status": "not recorded",
+      "video_status": "not submitted"
+    }
+  ],
+  "required_new_set": {
+    "id": "HQ10",
+    "name": "Goodboy Global public-service annex",
+    "reason": "Existing HQ02 is an executive lobby, not a customer-service room. Preserve HQ architectural language but create a separate service counter, queue and appeal terminal sheet."
+  },
+  "next": [
+    "Write the complete dialogue with established voices",
+    "Break scenes into shots of 2–30 seconds with specific blocking and visible cast",
+    "Create HQ10 and required prop references",
+    "Generate and validate ElevenLabs recordings",
+    "Validate public reference URLs and submit the finished shot packages"
+  ]
+}

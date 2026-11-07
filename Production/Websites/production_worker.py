@@ -47,8 +47,8 @@ def run_job(job):
   # Prefer the proven source image-host URL. Never submit platform file IDs.
   if p.get('input_images'):api['input_images']=p['input_images']
   elif p.get('source_images'):api['input_images']=stage(p['source_images'])
-  if p.get('source_audio'):api['input_audios']=stage(p['source_audio'])
-  elif p.get('input_audios'):api['input_audios']=p['input_audios']
+  if p.get('input_audios'):api['input_audios']=p['input_audios']
+  elif p.get('source_audio'):api['input_audios']=stage(p['source_audio'])
   before=jcall('https://api.orbiorbi.com/v1/models','wan',timeout=30)
   if not any(x.get('id')=='wan-3.0-prime' for x in before.get('data',[])):raise ValueError('WAN model absent from route; no video submitted')
   result=jcall('https://api.orbiorbi.com/v1/tasks','wan',api)
@@ -99,7 +99,7 @@ def main():
    try:run_job(job)
    except ValueError as e:update(job['id'],status='failed',error=str(e)[:800])
    except Exception:update(job['id'],status='submission_unknown',error='Transport or save outcome uncertain. Check provider records; no automatic retry.')
-  if time.time()-lastpoll>=20:
+  if time.time()-lastpoll>=300:
    with connect() as c:jobs=c.execute("SELECT * FROM production_jobs WHERE provider='wan' AND task_id IS NOT NULL AND status IN ('queued','in_progress')").fetchall()
    for pending in jobs:
     try:poll(pending)

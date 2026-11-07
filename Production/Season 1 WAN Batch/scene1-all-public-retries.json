@@ -1,0 +1,81 @@
+{
+  "jobs": [
+    {
+      "id": "s01e01-s01-p06-all-public-v001",
+      "subject": "S01-P06",
+      "payload": {
+        "model": "wan-3.0-prime",
+        "duration_sec": 7,
+        "resolution": "1080p",
+        "aspect_ratio": "16:9",
+        "input_images": [
+          "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/generation_sources/front.jpg"
+        ],
+        "prompt": "KittyPunk2077 cinematic tactile 3D animated film. Reference image defines exact character identities, wardrobe and set. Compose a medium two-shot of Onyx and Neon in the two RIGHTMOST seats of the front couch reference. Onyx is the black cat with amber eyes, violet paw headphones; Neon is silver grey cyan visor and blue scarf. Onyx dryly threatens the window while gesturing briefly toward offscreen window to camera left, then returns paw to controller. Neon asks In the game?; Onyx replies Keep testing me. Preserve adjacent seating, identities, clothing and room. Other three cats stay offscreen, no new character. TV behind camera. No actual violence. Restrained funny reactions. No cuts. Input audio 1 is the approved ElevenLabs performance. Match turn-taking and mouth movements to its timing; only the specified speaker moves their mouth. At 0.00s Onyx says: One more crash and somebody is going through that window. At 3.32s Neon says: In the game? At 4.55s Onyx says: Keep testing me. No added dialogue, narration, music, subtitles, titles or new characters. Preserve reference art quality. This clip will be trimmed at the end to exact editorial duration.",
+        "input_audios": [
+          "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/generation_sources/shot06-approved.wav"
+        ],
+        "source_audio": [
+          "generation_sources/shot06-approved.wav"
+        ],
+        "edit_duration": 6.148
+      }
+    },
+    {
+      "id": "s01e01-s01-p07-all-public-v001",
+      "subject": "S01-P07",
+      "payload": {
+        "model": "wan-3.0-prime",
+        "duration_sec": 8,
+        "resolution": "1080p",
+        "aspect_ratio": "16:9",
+        "input_images": [
+          "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/generation_sources/front.jpg"
+        ],
+        "prompt": "KittyPunk2077 cinematic tactile 3D animated film. Reference image defines exact character identities, wardrobe and set. Compose a medium shot emphasizing Ghost at LEFT end of the exact couch from the front reference, grey tabby green visor black green hood. Ghost calmly says he finished the mission. Gently pan to white female Trixie in middle magenta jacket for her surprised response, then settle on Ghost as he replies. Byte orange occupies the seat BETWEEN them; no seat swaps, no new cats. This is the same five-cat living room; Onyx and Neon remain farther right. Preserve outfits, faces and room. TV behind camera never visible. Natural restrained controller handling. No cuts. Input audio 1 is the approved ElevenLabs performance. Match turn-taking and mouth movements to its timing; only the specified speaker moves their mouth. At 0.00s Ghost says: I finished the mission. At 1.65s Trixie says: How? We are still inside the bank. At 4.32s Ghost says: I walked out the back. With the money. No added dialogue, narration, music, subtitles, titles or new characters. Preserve reference art quality. This clip will be trimmed at the end to exact editorial duration.",
+        "input_audios": [
+          "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/generation_sources/shot07-approved.wav"
+        ],
+        "source_audio": [
+          "generation_sources/shot07-approved.wav"
+        ],
+        "edit_duration": 7.076
+      }
+    },
+    {
+      "id": "s01e01-s01-p08-all-public-v001",
+      "subject": "S01-P08",
+      "payload": {
+        "model": "wan-3.0-prime",
+        "duration_sec": 8,
+        "resolution": "1080p",
+        "aspect_ratio": "16:9",
+        "input_images": [
+          "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/generation_sources/front.jpg"
+        ],
+        "prompt": "KittyPunk2077 cinematic tactile 3D animated film. Reference image defines exact character identities, wardrobe and set. Frame the THREE LEFTMOST seated cats of front reference: Ghost green hood at left, orange Byte in middle, white female Trixie magenta at right. Byte turns toward Ghost asking You left us? Ghost gives a tiny deadpan shrug and his reply. Trixie then leans forward with controller for Rematch. Nobody leaves the couch until we win. Keep character identities and positions, cat paws, natural small mouth motion and comedic expressions, no exaggerated flailing. Other two cats are outside this close framing, not removed from world. TV behind camera not visible. One continuous shot. Input audio 1 is the approved ElevenLabs performance. Match turn-taking and mouth movements to its timing; only the specified speaker moves their mouth. At 0.00s Byte says: You left us? At 1.23s Ghost says: You said cover the exit. I covered my exit. At 4.59s Trixie says: Rematch. Nobody leaves the couch until we win. No added dialogue, narration, music, subtitles, titles or new characters. Preserve reference art quality. This clip will be trimmed at the end to exact editorial duration.",
+        "input_audios": [
+          "https://huggingface.co/datasets/bensblueprints/cyberkitty-2077-assets/resolve/main/Production/Websites/generation_sources/shot08-approved.wav"
+        ],
+        "source_audio": [
+          "generation_sources/shot08-approved.wav"
+        ],
+        "edit_duration": 7.355
+      }
+    }
+  ],
+  "result": [
+    {
+      "shot": "S01-P06",
+      "queued": true
+    },
+    {
+      "shot": "S01-P07",
+      "queued": true
+    },
+    {
+      "shot": "S01-P08",
+      "queued": true
+    }
+  ]
+}

@@ -95,7 +95,7 @@ def register(app,connect,staff,root,dbpath):
  @app.get('/studio/generate')
  @staff
  def generation_page():
-  with connect() as c:jobs=[dict(x) for x in c.execute('SELECT id,provider,subject,scene,status,error,output,created,estimate,task_id FROM production_jobs ORDER BY created DESC LIMIT 100')];checks=[dict(x) for x in c.execute('SELECT * FROM provider_checks')]
+  with connect() as c:jobs=[dict(x) for x in c.execute('SELECT id,provider,subject,scene,status,error,output,created,estimate,task_id FROM production_jobs ORDER BY created DESC LIMIT 1000')];checks=[dict(x) for x in c.execute('SELECT * FROM provider_checks')]
   history=json.loads((root/'generation-history.json').read_text()) if (root/'generation-history.json').exists() else []
   live={j['task_id'] for j in jobs};history=[j for j in history if j.get('task_id') not in live]
   return render_template('generate.html',history=history,deepseek_ready=bool(os.environ.get('ORBIS_DEEPSEEK_API_KEY')),jobs=jobs,shots=configs(),lines=list(lines().values()),voices=list(casting().values()),wan_ready=bool(os.environ.get('ORBIS_WAN_API_KEY')),eleven_ready=bool(os.environ.get('ELEVENLABS_API_KEY')),checks=checks)

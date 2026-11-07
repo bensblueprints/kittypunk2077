@@ -1,0 +1,68 @@
+[
+  {
+    "shot": "S07-P01",
+    "planned": 4.15,
+    "measured_minimum": 5.965668934240363,
+    "note": "Picture reconform required; no speech sped up or clipped"
+  },
+  {
+    "shot": "S07-P02",
+    "planned": 9.275,
+    "measured_minimum": 12.295736961451247,
+    "note": "Picture reconform required; no speech sped up or clipped"
+  },
+  {
+    "shot": "S14-P03",
+    "planned": 12.143,
+    "measured_minimum": 12.620816326530612,
+    "note": "Picture reconform required; no speech sped up or clipped"
+  },
+  {
+    "shot": "S14-P05",
+    "planned": 6.743,
+    "measured_minimum": 7.126666666666668,
+    "note": "Picture reconform required; no speech sped up or clipped"
+  },
+  {
+    "shot": "S14-P07",
+    "planned": 7.743,
+    "measured_minimum": 10.577460317460316,
+    "note": "Picture reconform required; no speech sped up or clipped"
+  },
+  {
+    "shot": "S17-P03",
+    "planned": 16.44,
+    "measured_minimum": 17.914965986394556,
+    "note": "Picture reconform required; no speech sped up or clipped"
+  },
+  {
+    "shot": "S22-P02",
+    "planned": 7.234,
+    "measured_minimum": 7.326666666666667,
+    "note": "Picture reconform required; no speech sped up or clipped"
+  },
+  {
+    "shot": "S23-P01",
+    "planned": 7.2,
+    "measured_minimum": 7.4517460317460325,
+    "note": "Picture reconform required; no speech sped up or clipped"
+  },
+  {
+    "shot": "S24-P02",
+    "planned": 7.87,
+    "measured_minimum": 9.695102040816327,
+    "note": "Picture reconform required; no speech sped up or clipped"
+  },
+  {
+    "shot": "S24-P03",
+    "planned": 5.18,
+    "measured_minimum": 6.908707482993198,
+    "note": "Picture reconform required; no speech sped up or clipped"
+  },
+  {
+    "shot": "S24-P05",
+    "planned": 4.1,
+    "measured_minimum": 5.933469387755102,
+    "note": "Picture reconform required; no speech sped up or clipped"
+  }
+]
