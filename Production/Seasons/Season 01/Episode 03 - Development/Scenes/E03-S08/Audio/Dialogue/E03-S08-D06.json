@@ -1,0 +1,19 @@
+{
+  "id": "E03-S08-D06",
+  "role_id": "civilian_2",
+  "voice_id": "b5RPB35vTODb3BEmR3Fc",
+  "text": "You can use it. Keep the drawing in the picture, though. She'll want that remembered.",
+  "status": "review_take",
+  "scene": "E03-S08",
+  "duration_sec": 5.712109,
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.5,
+    "similarity_boost": 0.75,
+    "style": 0.15,
+    "use_speaker_boost": true
+  },
+  "request_id": "NZU0tN61tNUGk04fY2oH",
+  "provider_character_cost": "19",
+  "sha256": "3b15036a5f4eaa1ce5a03a716e700608abf57f26b058ab4d9e0254eea27ea25f"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "E03-S14-D06",
+  "role_id": "onyx",
+  "voice_id": "uq0HIbNZKn11Hs5ifEdd",
+  "text": "Then stay where you can watch it. I'll check the last shelter and bring the others through.",
+  "status": "review_take",
+  "scene": "E03-S14",
+  "duration_sec": 4.458231,
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.5,
+    "similarity_boost": 0.75,
+    "style": 0.15,
+    "use_speaker_boost": true
+  },
+  "request_id": "nKa3AO7bzpckljAcgd0Z",
+  "provider_character_cost": "20",
+  "sha256": "476cf4d17e89fe4acb780251e60a24b4673825a4fc5ac5340f1b5ab7dc3d6f3d"
+}

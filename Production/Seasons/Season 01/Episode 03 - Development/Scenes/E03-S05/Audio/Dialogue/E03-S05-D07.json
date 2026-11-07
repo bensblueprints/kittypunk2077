@@ -1,0 +1,19 @@
+{
+  "id": "E03-S05-D07",
+  "role_id": "general_fetch",
+  "voice_id": "pNInz6obpgDQGcFmaJgB",
+  "text": "Then record that you tried. And watch the utility hatch beside the gate.",
+  "status": "review_take",
+  "scene": "E03-S05",
+  "duration_sec": 4.179592,
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.5,
+    "similarity_boost": 0.75,
+    "style": 0.15,
+    "use_speaker_boost": true
+  },
+  "request_id": "eljcIZmbKtfuWaaEV4aV",
+  "provider_character_cost": "16",
+  "sha256": "874818571d4c01081417ac0a1a8313288b552f8776b72278310b88994d7fdc94"
+}

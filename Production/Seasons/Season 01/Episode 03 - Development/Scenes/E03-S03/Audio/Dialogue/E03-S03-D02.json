@@ -1,0 +1,19 @@
+{
+  "id": "E03-S03-D02",
+  "role_id": "byte",
+  "voice_id": "wo6udizrrtpIxWGp2qJk",
+  "text": "Because the decision names our lease. One building. It doesn't cover the neighbors.",
+  "status": "review_take",
+  "scene": "E03-S03",
+  "duration_sec": 4.504671,
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.5,
+    "similarity_boost": 0.75,
+    "style": 0.15,
+    "use_speaker_boost": true
+  },
+  "request_id": "Wof967ZNbWhSn7J1ixJ4",
+  "provider_character_cost": "18",
+  "sha256": "ef5852feb7d80ccee3910fa228cae913044079507d22f2cf99f9b8dce4377878"
+}

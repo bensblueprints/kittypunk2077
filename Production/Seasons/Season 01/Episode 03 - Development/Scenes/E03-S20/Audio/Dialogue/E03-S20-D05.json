@@ -1,0 +1,19 @@
+{
+  "id": "E03-S20-D05",
+  "role_id": "nip7_anchor",
+  "voice_id": "onwK4e9ZLuTAKqWW03F9",
+  "text": "The stay does not decide the redevelopment case. It prevents this clearance proceeding while the notice issue is examined.",
+  "status": "review_take",
+  "scene": "E03-S20",
+  "duration_sec": 7.662585,
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.5,
+    "similarity_boost": 0.75,
+    "style": 0.15,
+    "use_speaker_boost": true
+  },
+  "request_id": "8NhCld7ipxDs7NBrQeoR",
+  "provider_character_cost": "27",
+  "sha256": "f37405cbfb7cf41d7d56c81624aedd4ad45dce376f9770b4e9592700c03e1bd7"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "E03-S15-D02",
+  "role_id": "civilian_2",
+  "voice_id": "b5RPB35vTODb3BEmR3Fc",
+  "text": "Back here. I couldn't find the picture. I knew I put it somewhere safe.",
+  "status": "review_take",
+  "scene": "E03-S15",
+  "duration_sec": 4.551111,
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.5,
+    "similarity_boost": 0.75,
+    "style": 0.15,
+    "use_speaker_boost": true
+  },
+  "request_id": "On5lKymzt6aSK77nCTh6",
+  "provider_character_cost": "16",
+  "sha256": "11185f869d344419cec1797e44a36a4b574ad2001cd34d2714af74fc2520bccc"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "E03-S24-D02",
+  "role_id": "general_fetch",
+  "voice_id": "pNInz6obpgDQGcFmaJgB",
+  "text": "I know the route they used. Somebody has been keeping the older service maps.",
+  "status": "review_take",
+  "scene": "E03-S24",
+  "duration_sec": 4.365351,
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.5,
+    "similarity_boost": 0.75,
+    "style": 0.15,
+    "use_speaker_boost": true
+  },
+  "request_id": "trYaTmmfmAtdY4VES8hx",
+  "provider_character_cost": "17",
+  "sha256": "191b6aba027c33cad1125c0de209ceb88daa913a03e75ff609858f91bf09b73a"
+}

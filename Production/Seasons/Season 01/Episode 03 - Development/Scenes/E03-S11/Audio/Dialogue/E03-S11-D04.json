@@ -1,0 +1,19 @@
+{
+  "id": "E03-S11-D04",
+  "role_id": "civilian_2",
+  "voice_id": "b5RPB35vTODb3BEmR3Fc",
+  "text": "You're not listening. It can't come back yet. There's someone sleeping inside it.",
+  "status": "review_take",
+  "scene": "E03-S11",
+  "duration_sec": 4.504671,
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.5,
+    "similarity_boost": 0.75,
+    "style": 0.15,
+    "use_speaker_boost": true
+  },
+  "request_id": "mfhwAPZ03eBGamxBUvc3",
+  "provider_character_cost": "18",
+  "sha256": "031ddef3bd2ebab8c8429b15a626e0e7ed763a0d74e93c7877b790fb96129318"
+}

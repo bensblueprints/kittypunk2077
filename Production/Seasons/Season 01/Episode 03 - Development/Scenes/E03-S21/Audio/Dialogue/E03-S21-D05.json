@@ -1,0 +1,19 @@
+{
+  "id": "E03-S21-D05",
+  "role_id": "dog_guard_a",
+  "voice_id": "TxWZERZ5Hc6h9dGxVmXa",
+  "text": "Then record it separately. It doesn't give us permission to continue a clearance that's been stayed.",
+  "status": "review_take",
+  "scene": "E03-S21",
+  "duration_sec": 5.572789,
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.5,
+    "similarity_boost": 0.75,
+    "style": 0.15,
+    "use_speaker_boost": true
+  },
+  "request_id": "HZXg09q9TNOcc4ElMQgH",
+  "provider_character_cost": "22",
+  "sha256": "0e12fb4160671316af915a34dd48ed9412b97abccdbf2e4b18efc8b4a1c70d88"
+}

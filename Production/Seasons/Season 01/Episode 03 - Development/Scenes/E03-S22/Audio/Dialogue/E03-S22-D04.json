@@ -1,0 +1,19 @@
+{
+  "id": "E03-S22-D04",
+  "role_id": "neon",
+  "voice_id": "4e32WqNVWRquDa1OcRYZ",
+  "text": "The box has completed its official relocation. Very prestigious spot, excellent access to blankets.",
+  "status": "review_take",
+  "scene": "E03-S22",
+  "duration_sec": 6.408707,
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.5,
+    "similarity_boost": 0.75,
+    "style": 0.15,
+    "use_speaker_boost": true
+  },
+  "request_id": "LhYbXJPOTcNAAsADybns",
+  "provider_character_cost": "22",
+  "sha256": "edf1760a45ec8dd4aec4357c60ba617d75106735058f2d5afc4f7761e6f0962d"
+}

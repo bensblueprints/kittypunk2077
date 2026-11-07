@@ -1,0 +1,19 @@
+{
+  "id": "E03-S17-D01",
+  "role_id": "dog_guard_a",
+  "voice_id": "TxWZERZ5Hc6h9dGxVmXa",
+  "text": "Movement inside the service passage. Two of them. They've stopped before the gate.",
+  "status": "review_take",
+  "scene": "E03-S17",
+  "duration_sec": 5.804989,
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.5,
+    "similarity_boost": 0.75,
+    "style": 0.15,
+    "use_speaker_boost": true
+  },
+  "request_id": "Ru8BYKayJSY56HeEQIOL",
+  "provider_character_cost": "18",
+  "sha256": "f7c219b5164dee20d042e550eedd449c0929d056b4639b36dc87e93b80f5d808"
+}

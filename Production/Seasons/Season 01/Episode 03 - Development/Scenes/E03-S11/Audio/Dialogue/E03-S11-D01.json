@@ -1,0 +1,19 @@
+{
+  "id": "E03-S11-D01",
+  "role_id": "civilian_2",
+  "voice_id": "b5RPB35vTODb3BEmR3Fc",
+  "text": "That is the good box. The other one leaks through the bottom when it rains.",
+  "status": "review_take",
+  "scene": "E03-S11",
+  "duration_sec": 5.06195,
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.5,
+    "similarity_boost": 0.75,
+    "style": 0.15,
+    "use_speaker_boost": true
+  },
+  "request_id": "EXWXeGXU8FDa1fO1OYLi",
+  "provider_character_cost": "16",
+  "sha256": "9101d12b6205ec30a4a466edb53877ea4bd71848e3a1ea0eab70c62a6cb21808"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "E03-S23-D01",
+  "role_id": "trixie",
+  "voice_id": "dmWfLQZJq7wNPv9WmtiM",
+  "text": "The machines stopped. Everyone got through. For tonight, that's a win we can actually touch.",
+  "status": "review_take",
+  "scene": "E03-S23",
+  "duration_sec": 5.34059,
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.35,
+    "similarity_boost": 0.8,
+    "style": 0.55,
+    "use_speaker_boost": true
+  },
+  "request_id": "KMZbPnYJU2SEoEu0Eub2",
+  "provider_character_cost": "20",
+  "sha256": "4791b076427f731096d22d7b0aa750d9c8057b77dade2a64d12e03416c8761eb"
+}

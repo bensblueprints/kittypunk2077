@@ -1,0 +1,19 @@
+{
+  "id": "E03-S13-D07",
+  "role_id": "onyx",
+  "voice_id": "uq0HIbNZKn11Hs5ifEdd",
+  "text": "I will. And you tell me when you've got the paper that lets them go home.",
+  "status": "review_take",
+  "scene": "E03-S13",
+  "duration_sec": 4.040272,
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.5,
+    "similarity_boost": 0.75,
+    "style": 0.15,
+    "use_speaker_boost": true
+  },
+  "request_id": "gsFFlPzACquYrEzAnFOE",
+  "provider_character_cost": "16",
+  "sha256": "269ed97767aade2496eb93bd6743f9838899df90a2860695b485df3a7f8cff99"
+}

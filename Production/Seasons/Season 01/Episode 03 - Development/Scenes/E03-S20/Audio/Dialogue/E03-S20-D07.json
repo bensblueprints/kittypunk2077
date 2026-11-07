@@ -1,0 +1,19 @@
+{
+  "id": "E03-S20-D07",
+  "role_id": "nip7_anchor",
+  "voice_id": "onwK4e9ZLuTAKqWW03F9",
+  "text": "Residents should keep their copies and follow the appeal updates. Private witness information remains withheld.",
+  "status": "review_take",
+  "scene": "E03-S20",
+  "duration_sec": 7.662585,
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.5,
+    "similarity_boost": 0.75,
+    "style": 0.15,
+    "use_speaker_boost": true
+  },
+  "request_id": "r1y0ImTuihpPcF2b8uqT",
+  "provider_character_cost": "24",
+  "sha256": "d9451b588fe59042a09b27ecc49b39498d730c5e7c679fc23793703f69fdf52c"
+}

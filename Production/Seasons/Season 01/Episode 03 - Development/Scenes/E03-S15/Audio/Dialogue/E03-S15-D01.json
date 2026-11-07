@@ -1,0 +1,19 @@
+{
+  "id": "E03-S15-D01",
+  "role_id": "onyx",
+  "voice_id": "uq0HIbNZKn11Hs5ifEdd",
+  "text": "Hello? Last check before we leave. Anyone still in here? Please answer if you can.",
+  "status": "review_take",
+  "scene": "E03-S15",
+  "duration_sec": 5.758549,
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.5,
+    "similarity_boost": 0.75,
+    "style": 0.15,
+    "use_speaker_boost": true
+  },
+  "request_id": "co8SA0FwEkGVFM5n7cSs",
+  "provider_character_cost": "18",
+  "sha256": "7b60024438ce4e26e6bf2268e1181cd7f85dfe13c6725b29c38d9af16d2958e6"
+}

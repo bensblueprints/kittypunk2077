@@ -1,0 +1,19 @@
+{
+  "id": "E03-S07-D02",
+  "role_id": "neon",
+  "voice_id": "4e32WqNVWRquDa1OcRYZ",
+  "text": "I look at the machines before anybody asks me to make them stop doing machine things.",
+  "status": "review_take",
+  "scene": "E03-S07",
+  "duration_sec": 4.643991,
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.5,
+    "similarity_boost": 0.75,
+    "style": 0.15,
+    "use_speaker_boost": true
+  },
+  "request_id": "AxoBbMasVDuB2Ko5Mwp4",
+  "provider_character_cost": "19",
+  "sha256": "956e19a2c6dcb2af67021e542cc669281bb3bd5d0a50c07e7ff1792d335a6a95"
+}

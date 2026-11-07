@@ -1,0 +1,19 @@
+{
+  "id": "E03-S22-D06",
+  "role_id": "onyx",
+  "voice_id": "uq0HIbNZKn11Hs5ifEdd",
+  "text": "Neon checked that socket. Use it. And tell me if we've forgotten anything obvious.",
+  "status": "review_take",
+  "scene": "E03-S22",
+  "duration_sec": 5.29415,
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.5,
+    "similarity_boost": 0.75,
+    "style": 0.15,
+    "use_speaker_boost": true
+  },
+  "request_id": "jaVnuBwA9Ry1dnZ20NoU",
+  "provider_character_cost": "18",
+  "sha256": "bb40cca3238e570a8f09c8f6dc434957327671d286abfda890da21641d2fc07a"
+}

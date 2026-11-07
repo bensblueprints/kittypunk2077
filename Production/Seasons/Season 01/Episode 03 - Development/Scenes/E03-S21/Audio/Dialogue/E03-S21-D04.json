@@ -1,0 +1,19 @@
+{
+  "id": "E03-S21-D04",
+  "role_id": "general_fetch",
+  "voice_id": "pNInz6obpgDQGcFmaJgB",
+  "text": "Those kittens tampered with the maintenance system. This doesn't erase that little detail.",
+  "status": "review_take",
+  "scene": "E03-S21",
+  "duration_sec": 4.96907,
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.5,
+    "similarity_boost": 0.75,
+    "style": 0.15,
+    "use_speaker_boost": true
+  },
+  "request_id": "M20WZnVZkZfx4InV6RUW",
+  "provider_character_cost": "20",
+  "sha256": "55fb7f51dde4bec8d1cc14c7832e3d4623e6b0f14c1e358c228496ebfbc57416"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "E03-S15-D04",
+  "role_id": "civilian_2",
+  "voice_id": "b5RPB35vTODb3BEmR3Fc",
+  "text": "Little wooden frame. My mum before the factory. It's the only photograph where she looks rested.",
+  "status": "review_take",
+  "scene": "E03-S15",
+  "duration_sec": 6.455147,
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.5,
+    "similarity_boost": 0.75,
+    "style": 0.15,
+    "use_speaker_boost": true
+  },
+  "request_id": "teHdfFOKTdVOOVwKp1tz",
+  "provider_character_cost": "21",
+  "sha256": "fcc0ae41d562d3391c4bb662b340b47d6a6dfc3c41ce6069cf073482899b3f6b"
+}

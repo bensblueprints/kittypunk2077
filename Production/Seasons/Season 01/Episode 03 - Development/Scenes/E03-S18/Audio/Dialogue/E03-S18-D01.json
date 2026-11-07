@@ -1,0 +1,19 @@
+{
+  "id": "E03-S18-D01",
+  "role_id": "neon",
+  "voice_id": "4e32WqNVWRquDa1OcRYZ",
+  "text": "Your map is upside down relative to the cabinet. Turn it before you follow the arrows.",
+  "status": "review_take",
+  "scene": "E03-S18",
+  "duration_sec": 4.040272,
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.5,
+    "similarity_boost": 0.75,
+    "style": 0.15,
+    "use_speaker_boost": true
+  },
+  "request_id": "Mh8ahnqqy3KmRAAPfWQL",
+  "provider_character_cost": "19",
+  "sha256": "9394449bc8f9d7204ad869f669c1698978576ce63bb24e69abef4db0f5d27689"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "E03-S04-D08",
+  "role_id": "byte",
+  "voice_id": "wo6udizrrtpIxWGp2qJk",
+  "text": "Then get both. A dated copy and the record showing where it came from.",
+  "status": "review_take",
+  "scene": "E03-S04",
+  "duration_sec": 4.504671,
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.5,
+    "similarity_boost": 0.75,
+    "style": 0.15,
+    "use_speaker_boost": true
+  },
+  "request_id": "iKq1ZH3Vvi8ENYZOKccd",
+  "provider_character_cost": "15",
+  "sha256": "b4968f75e3d46568b41e226ecf0f925ec4716e246db4e09454e5d01baf682f0e"
+}

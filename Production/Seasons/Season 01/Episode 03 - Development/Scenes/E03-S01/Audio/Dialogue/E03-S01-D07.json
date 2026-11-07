@@ -1,0 +1,19 @@
+{
+  "id": "E03-S01-D07",
+  "role_id": "trixie",
+  "voice_id": "dmWfLQZJq7wNPv9WmtiM",
+  "text": "Byte found a redevelopment appendix last night. I hoped we'd have longer to understand it.",
+  "status": "review_take",
+  "scene": "E03-S01",
+  "duration_sec": 4.96907,
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.35,
+    "similarity_boost": 0.8,
+    "style": 0.55,
+    "use_speaker_boost": true
+  },
+  "request_id": "QQDUWH0Nv4eM5IvBwXbH",
+  "provider_character_cost": "20",
+  "sha256": "0f0221f1d3b4023315e94de897369cb1d9a51f366298c9d99210b591c74834fb"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "E03-S04-D07",
+  "role_id": "ghost",
+  "voice_id": "7fBwqIVI6wI1B4MuKqQi",
+  "text": "Utility records. Public appeal attachments can include it, but the original seal stays there.",
+  "status": "review_take",
+  "scene": "E03-S04",
+  "duration_sec": 6.408707,
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.5,
+    "similarity_boost": 0.75,
+    "style": 0.15,
+    "use_speaker_boost": true
+  },
+  "request_id": "jBvc9XagUL8aBPEyhwSt",
+  "provider_character_cost": "20",
+  "sha256": "269839c55d51d8b28b9b06e7621e5bede8c64637ba35cd0fa00904eaac22a37f"
+}

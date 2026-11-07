@@ -1,0 +1,19 @@
+{
+  "id": "E03-S14-D08",
+  "role_id": "onyx",
+  "voice_id": "uq0HIbNZKn11Hs5ifEdd",
+  "text": "Look at you. Brakes and sensible advice on the same day. Terrifying progress.",
+  "status": "review_take",
+  "scene": "E03-S14",
+  "duration_sec": 5.15483,
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.5,
+    "similarity_boost": 0.75,
+    "style": 0.15,
+    "use_speaker_boost": true
+  },
+  "request_id": "Dvb3H1mPvg8hm1K2KqBf",
+  "provider_character_cost": "17",
+  "sha256": "df0a1d654b25c7f9efe7a4afa3485a7c3ad326b2f6f32ed3197d5f27df59062a"
+}

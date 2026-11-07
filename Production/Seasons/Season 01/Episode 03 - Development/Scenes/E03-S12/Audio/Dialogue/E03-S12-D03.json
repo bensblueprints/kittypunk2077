@@ -1,0 +1,19 @@
+{
+  "id": "E03-S12-D03",
+  "role_id": "trixie",
+  "voice_id": "dmWfLQZJq7wNPv9WmtiM",
+  "text": "How long do we lose the monitor? Neon needs to know if anybody restarts them.",
+  "status": "review_take",
+  "scene": "E03-S12",
+  "duration_sec": 4.458231,
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.35,
+    "similarity_boost": 0.8,
+    "style": 0.55,
+    "use_speaker_boost": true
+  },
+  "request_id": "pH9HGwh5MdZbe8QG9M62",
+  "provider_character_cost": "17",
+  "sha256": "b6ceb37787c18abeba637c98759522b491669b0ca3d61852dca4a9d1f75c74f0"
+}

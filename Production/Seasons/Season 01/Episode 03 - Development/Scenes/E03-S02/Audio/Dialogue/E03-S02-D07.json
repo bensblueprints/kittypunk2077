@@ -1,0 +1,19 @@
+{
+  "id": "E03-S02-D07",
+  "role_id": "onyx",
+  "voice_id": "uq0HIbNZKn11Hs5ifEdd",
+  "text": "Nobody said you were. I'm asking what you want to keep safe.",
+  "status": "review_take",
+  "scene": "E03-S02",
+  "duration_sec": 3.250794,
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.5,
+    "similarity_boost": 0.75,
+    "style": 0.15,
+    "use_speaker_boost": true
+  },
+  "request_id": "X9Hr7PEUQqb6uJK5YiIn",
+  "provider_character_cost": "13",
+  "sha256": "85eac01e4cec73952f733b4db1788510c732f34125321d4475c9a2aace88d3e8"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "E03-S20-D02",
+  "role_id": "trixie",
+  "voice_id": "dmWfLQZJq7wNPv9WmtiM",
+  "text": "Does Fetch have the same order? I want the machines stopped, not just a nicer headline.",
+  "status": "review_take",
+  "scene": "E03-S20",
+  "duration_sec": 4.086712,
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.35,
+    "similarity_boost": 0.8,
+    "style": 0.55,
+    "use_speaker_boost": true
+  },
+  "request_id": "M54xECzQdM9VDdtlIHs6",
+  "provider_character_cost": "19",
+  "sha256": "2c6522cc809075417c67f18e9b143821e7c846260ee1b79435641ee6a9202322"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "E03-S22-D07",
+  "role_id": "civilian_2",
+  "voice_id": "b5RPB35vTODb3BEmR3Fc",
+  "text": "Somewhere to hang wet coats. Unless you want all your chairs slowly becoming puddles.",
+  "status": "review_take",
+  "scene": "E03-S22",
+  "duration_sec": 7.523265,
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.5,
+    "similarity_boost": 0.75,
+    "style": 0.15,
+    "use_speaker_boost": true
+  },
+  "request_id": "Fxt2nNm80a6WESfbvoFk",
+  "provider_character_cost": "19",
+  "sha256": "fc499eb8b3eed969d6870acdea7ed26d73fcdd66f04525838b19825774ffc1c4"
+}

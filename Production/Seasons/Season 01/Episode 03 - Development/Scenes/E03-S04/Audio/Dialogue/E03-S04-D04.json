@@ -1,0 +1,19 @@
+{
+  "id": "E03-S04-D04",
+  "role_id": "ghost",
+  "voice_id": "7fBwqIVI6wI1B4MuKqQi",
+  "text": "That's a possibility. Don't turn it into a fact before we have the instruction.",
+  "status": "review_take",
+  "scene": "E03-S04",
+  "duration_sec": 4.365351,
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.5,
+    "similarity_boost": 0.75,
+    "style": 0.15,
+    "use_speaker_boost": true
+  },
+  "request_id": "6GJTpgDJLB0RdIDMgQbA",
+  "provider_character_cost": "17",
+  "sha256": "9ca8486012c3a8bd172d4a3829f8ebc9892bcd8209c58b2e7cf471ff9addb065"
+}

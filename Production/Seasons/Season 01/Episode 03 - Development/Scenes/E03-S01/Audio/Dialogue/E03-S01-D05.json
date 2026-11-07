@@ -1,0 +1,19 @@
+{
+  "id": "E03-S01-D05",
+  "role_id": "neon",
+  "voice_id": "4e32WqNVWRquDa1OcRYZ",
+  "text": "Apparently they can print it. The printer doesn't seem particularly troubled by anything.",
+  "status": "review_take",
+  "scene": "E03-S01",
+  "duration_sec": 4.504671,
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.5,
+    "similarity_boost": 0.75,
+    "style": 0.15,
+    "use_speaker_boost": true
+  },
+  "request_id": "nVXI9PGnZT2FTljmQCro",
+  "provider_character_cost": "20",
+  "sha256": "686402db0a772b5128fc1035feeaa5046ae7e20d3ddd8d2aa8e294681582c53a"
+}

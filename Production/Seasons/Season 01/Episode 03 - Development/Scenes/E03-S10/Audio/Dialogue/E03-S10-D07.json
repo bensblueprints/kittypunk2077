@@ -1,0 +1,19 @@
+{
+  "id": "E03-S10-D07",
+  "role_id": "neon",
+  "voice_id": "4e32WqNVWRquDa1OcRYZ",
+  "text": "The part where we don't get flattened. Very interesting. Strong personal investment in that part.",
+  "status": "review_take",
+  "scene": "E03-S10",
+  "duration_sec": 5.665669,
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.5,
+    "similarity_boost": 0.75,
+    "style": 0.15,
+    "use_speaker_boost": true
+  },
+  "request_id": "uTPZkqdwUff99NQLLEFH",
+  "provider_character_cost": "21",
+  "sha256": "2e77557f6b67338e8bfee81a787268e041512abdc0902d9a458e8b104523f2de"
+}

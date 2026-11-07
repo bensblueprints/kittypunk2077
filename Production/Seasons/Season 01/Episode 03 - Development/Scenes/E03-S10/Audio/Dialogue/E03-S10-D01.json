@@ -1,0 +1,19 @@
+{
+  "id": "E03-S10-D01",
+  "role_id": "neon",
+  "voice_id": "4e32WqNVWRquDa1OcRYZ",
+  "text": "There's a maintenance disconnect. Big handle, clear label, surprisingly little nonsense around it.",
+  "status": "review_take",
+  "scene": "E03-S10",
+  "duration_sec": 6.408707,
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.5,
+    "similarity_boost": 0.75,
+    "style": 0.15,
+    "use_speaker_boost": true
+  },
+  "request_id": "Njn4T2YpiEjlihtwomMA",
+  "provider_character_cost": "22",
+  "sha256": "31f3f4a4804ae92a439ab1bd6b5b11c46151e313b6aa4510c2f69edf500d42e7"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "E03-S19-D07",
+  "role_id": "byte",
+  "voice_id": "wo6udizrrtpIxWGp2qJk",
+  "text": "Redacted public copy is separate. The full record goes to the appeal examiner only.",
+  "status": "review_take",
+  "scene": "E03-S19",
+  "duration_sec": 4.783311,
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.5,
+    "similarity_boost": 0.75,
+    "style": 0.15,
+    "use_speaker_boost": true
+  },
+  "request_id": "l0x7GYn8rSmzZw8Jzf5T",
+  "provider_character_cost": "18",
+  "sha256": "960b84afdfddd0421561a8292f6f4299bf8c0389325dd9545149d9d6f2383272"
+}

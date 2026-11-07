@@ -1,0 +1,19 @@
+{
+  "id": "E03-S14-D02",
+  "role_id": "onyx",
+  "voice_id": "uq0HIbNZKn11Hs5ifEdd",
+  "text": "Clear on this side. The residents are behind the barrier, and they're staying there.",
+  "status": "review_take",
+  "scene": "E03-S14",
+  "duration_sec": 4.365351,
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.5,
+    "similarity_boost": 0.75,
+    "style": 0.15,
+    "use_speaker_boost": true
+  },
+  "request_id": "pvacvwBSLBcKES7kWWXA",
+  "provider_character_cost": "18",
+  "sha256": "4a833244bf4aaacf1ee815c92193817525f58b106071e7355c0f528724f647b1"
+}

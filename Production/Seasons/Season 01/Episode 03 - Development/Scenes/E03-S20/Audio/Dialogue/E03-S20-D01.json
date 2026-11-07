@@ -1,0 +1,19 @@
+{
+  "id": "E03-S20-D01",
+  "role_id": "nip7_anchor",
+  "voice_id": "onwK4e9ZLuTAKqWW03F9",
+  "text": "A temporary stay has been issued for today's District Seven clearance, pending review of the notice records.",
+  "status": "review_take",
+  "scene": "E03-S20",
+  "duration_sec": 7.244626,
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.5,
+    "similarity_boost": 0.75,
+    "style": 0.15,
+    "use_speaker_boost": true
+  },
+  "request_id": "yWxsVhZy3o1LnDOGNIbE",
+  "provider_character_cost": "24",
+  "sha256": "d2d889a38dfbd5a4e869d8b2161f03baa30ae98a90ad2ea60b82b241581a938b"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "E03-S20-D03",
+  "role_id": "nip7_anchor",
+  "voice_id": "onwK4e9ZLuTAKqWW03F9",
+  "text": "The issuing office confirms delivery to the operation supervisor. We are displaying the verified decision number.",
+  "status": "review_take",
+  "scene": "E03-S20",
+  "duration_sec": 7.383946,
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.5,
+    "similarity_boost": 0.75,
+    "style": 0.15,
+    "use_speaker_boost": true
+  },
+  "request_id": "jl4dUTcqOG2pXGe0Yy2p",
+  "provider_character_cost": "25",
+  "sha256": "0f7e2ed10283c19950ba51b135fb02cd128d0d4589341f14c0a2b279baf00ad6"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "E03-S02-D01",
+  "role_id": "neon",
+  "voice_id": "4e32WqNVWRquDa1OcRYZ",
+  "text": "I brought a trolley. It has the improved brick-based braking system. Very reliable.",
+  "status": "review_take",
+  "scene": "E03-S02",
+  "duration_sec": 4.643991,
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.5,
+    "similarity_boost": 0.75,
+    "style": 0.15,
+    "use_speaker_boost": true
+  },
+  "request_id": "7Zg7TnP2b1ZKPMRqydRW",
+  "provider_character_cost": "18",
+  "sha256": "0050688ab081147fafa75cb91a36ce04504ab49db24d98cdfd3cf265b7a1e696"
+}

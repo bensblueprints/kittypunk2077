@@ -1,0 +1,19 @@
+{
+  "id": "E03-S15-D05",
+  "role_id": "onyx",
+  "voice_id": "uq0HIbNZKn11Hs5ifEdd",
+  "text": "There, behind the lining. I've got it. You take the frame; I'll take the bag.",
+  "status": "review_take",
+  "scene": "E03-S15",
+  "duration_sec": 5.20127,
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.5,
+    "similarity_boost": 0.75,
+    "style": 0.15,
+    "use_speaker_boost": true
+  },
+  "request_id": "NJTWwhycCxrBHF9LQ9DB",
+  "provider_character_cost": "17",
+  "sha256": "06bc440d97126f04bf5a65cbdbf417d952b2f6af50a5419b626ba19630b715fa"
+}

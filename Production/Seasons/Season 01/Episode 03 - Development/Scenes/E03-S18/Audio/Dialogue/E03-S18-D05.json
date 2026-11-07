@@ -1,0 +1,19 @@
+{
+  "id": "E03-S18-D05",
+  "role_id": "trixie",
+  "voice_id": "dmWfLQZJq7wNPv9WmtiM",
+  "text": "Picture saved. Which way gets us outside without introducing us to Fetch's entire personality?",
+  "status": "review_take",
+  "scene": "E03-S18",
+  "duration_sec": 5.526349,
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.35,
+    "similarity_boost": 0.8,
+    "style": 0.55,
+    "use_speaker_boost": true
+  },
+  "request_id": "G40qOmaF3wfTAshYHdCL",
+  "provider_character_cost": "21",
+  "sha256": "26aa5e1ea580b2eed97185bcc208b3f7fedb4045da18d6333d733de7b7ad52cf"
+}

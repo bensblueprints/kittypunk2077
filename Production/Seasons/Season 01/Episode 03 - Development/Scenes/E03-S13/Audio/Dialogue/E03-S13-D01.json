@@ -1,0 +1,19 @@
+{
+  "id": "E03-S13-D01",
+  "role_id": "trixie",
+  "voice_id": "dmWfLQZJq7wNPv9WmtiM",
+  "text": "I should go back and check the shelters before we enter the records passage.",
+  "status": "review_take",
+  "scene": "E03-S13",
+  "duration_sec": 3.436553,
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.35,
+    "similarity_boost": 0.8,
+    "style": 0.55,
+    "use_speaker_boost": true
+  },
+  "request_id": "JHNQiPFCWWnfDKcpDAIy",
+  "provider_character_cost": "17",
+  "sha256": "e91ab0f1aae88e59fc9ae8558636eeb091e9500957c3485c475f6c7e7f0c0a00"
+}

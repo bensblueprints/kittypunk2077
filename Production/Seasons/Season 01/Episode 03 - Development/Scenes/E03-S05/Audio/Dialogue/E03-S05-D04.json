@@ -1,0 +1,19 @@
+{
+  "id": "E03-S05-D04",
+  "role_id": "dog_guard_a",
+  "voice_id": "TxWZERZ5Hc6h9dGxVmXa",
+  "text": "They keep asking me. I need something better than the name of another office.",
+  "status": "review_take",
+  "scene": "E03-S05",
+  "duration_sec": 4.783311,
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.5,
+    "similarity_boost": 0.75,
+    "style": 0.15,
+    "use_speaker_boost": true
+  },
+  "request_id": "kef0LGpn3se4pCtb5CpF",
+  "provider_character_cost": "17",
+  "sha256": "d4de0c0865f599f63ae72e649c30c9e9949b37cc384817657f29fe598f413018"
+}

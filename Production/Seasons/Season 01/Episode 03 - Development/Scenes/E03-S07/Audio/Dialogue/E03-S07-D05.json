@@ -1,0 +1,19 @@
+{
+  "id": "E03-S07-D05",
+  "role_id": "byte",
+  "voice_id": "wo6udizrrtpIxWGp2qJk",
+  "text": "Don't bring me a dramatic photograph with half the important paragraph missing this time.",
+  "status": "review_take",
+  "scene": "E03-S07",
+  "duration_sec": 4.226032,
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.5,
+    "similarity_boost": 0.75,
+    "style": 0.15,
+    "use_speaker_boost": true
+  },
+  "request_id": "8vF3LkAezDx56DEY7AIF",
+  "provider_character_cost": "20",
+  "sha256": "24b4ee9af764409c9cf26790ce73e05bfc5c7f484aa0ad7e22f340e3be99d3fc"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "E03-S05-D01",
+  "role_id": "general_fetch",
+  "voice_id": "pNInz6obpgDQGcFmaJgB",
+  "text": "Keep the machines where they can see them. Nobody clears a doorway without my instruction.",
+  "status": "review_take",
+  "scene": "E03-S05",
+  "duration_sec": 4.690431,
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.5,
+    "similarity_boost": 0.75,
+    "style": 0.15,
+    "use_speaker_boost": true
+  },
+  "request_id": "aAPjmzRxZz1G7bWEIedn",
+  "provider_character_cost": "20",
+  "sha256": "8ee1a52576ae064c24ee6ecdfa028b94b55497625a15e47d51b22b34018272c4"
+}

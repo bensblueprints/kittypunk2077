@@ -1,0 +1,19 @@
+{
+  "id": "E03-S04-D01",
+  "role_id": "ghost",
+  "voice_id": "7fBwqIVI6wI1B4MuKqQi",
+  "text": "This says the notice was delivered weeks ago. The photograph shows bare brick yesterday.",
+  "status": "review_take",
+  "scene": "E03-S04",
+  "duration_sec": 5.29415,
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.5,
+    "similarity_boost": 0.75,
+    "style": 0.15,
+    "use_speaker_boost": true
+  },
+  "request_id": "omVlzfAxRzpLGlA2gPMV",
+  "provider_character_cost": "19",
+  "sha256": "6d251d957d15b3af33480d2a1c4fb8654326a469496f534e3673623928f512e3"
+}

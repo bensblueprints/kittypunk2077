@@ -1,0 +1,1636 @@
+{
+  "episode": 3,
+  "word_count": 2776,
+  "line_count": 191,
+  "all_files_hash_voice_text_and_decode_verified": true,
+  "runtime_seconds": 1200,
+  "speech_seconds": 949.741,
+  "status": "Measured timing proposal; performance listening review and shot-level placement still required. Line timings are a continuous-dialogue assembly, not final blocking.",
+  "scenes": [
+    {
+      "id": "E03-S01",
+      "title": "Notices Before Breakfast",
+      "planned_seconds": 45,
+      "minimum_dialogue_assembly_seconds": 36.883,
+      "speech_seconds": 34.783,
+      "lines": [
+        {
+          "line_id": "E03-S01-D01",
+          "role_id": "trixie",
+          "start": 0.35,
+          "end": 4.622,
+          "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Seasons\\Season 01\\Episode 03 - Development\\Scenes\\E03-S01\\Audio\\Dialogue\\E03-S01-D01.mp3"
+        },
+        {
+          "line_id": "E03-S01-D02",
+          "role_id": "neon",
+          "start": 4.822,
+          "end": 9.466,
+          "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Seasons\\Season 01\\Episode 03 - Development\\Scenes\\E03-S01\\Audio\\Dialogue\\E03-S01-D02.mp3"
+        },
+        {
+          "line_id": "E03-S01-D03",
+          "role_id": "onyx",
+          "start": 9.666,
+          "end": 13.057,
+          "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Seasons\\Season 01\\Episode 03 - Development\\Scenes\\E03-S01\\Audio\\Dialogue\\E03-S01-D03.mp3"
+        },
+        {
+          "line_id": "E03-S01-D04",
+          "role_id": "trixie",
+          "start": 13.257,
+          "end": 17.483,
+          "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Seasons\\Season 01\\Episode 03 - Development\\Scenes\\E03-S01\\Audio\\Dialogue\\E03-S01-D04.mp3"
+        },
+        {
+          "line_id": "E03-S01-D05",
+          "role_id": "neon",
+          "start": 17.683,
+          "end": 22.187,
+          "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Seasons\\Season 01\\Episode 03 - Development\\Scenes\\E03-S01\\Audio\\Dialogue\\E03-S01-D05.mp3"
+        },
+        {
+          "line_id": "E03-S01-D06",
+          "role_id": "onyx",
+          "start": 22.387,
+          "end": 27.542,
+          "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Seasons\\Season 01\\Episode 03 - Development\\Scenes\\E03-S01\\Audio\\Dialogue\\E03-S01-D06.mp3"
+        },
+        {
+          "line_id": "E03-S01-D07",
+          "role_id": "trixie",
+          "start": 27.742,
+          "end": 32.711,
+          "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Seasons\\Season 01\\Episode 03 - Development\\Scenes\\E03-S01\\Audio\\Dialogue\\E03-S01-D07.mp3"
+        },
+        {
+          "line_id": "E03-S01-D08",
+          "role_id": "onyx",
+          "start": 32.911,
+          "end": 36.533,
+          "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Seasons\\Season 01\\Episode 03 - Development\\Scenes\\E03-S01\\Audio\\Dialogue\\E03-S01-D08.mp3"
+        }
+      ],
+      "conformed_duration_seconds": 44,
+      "episode_start_seconds": 0,
+      "episode_end_seconds": 44
+    },
+    {
+      "id": "E03-S02",
+      "title": "The Best Box",
+      "planned_seconds": 50,
+      "minimum_dialogue_assembly_seconds": 37.58,
+      "speech_seconds": 35.48,
+      "lines": [
+        {
+          "line_id": "E03-S02-D01",
+          "role_id": "neon",
+          "start": 0.35,
+          "end": 4.994,
+          "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Seasons\\Season 01\\Episode 03 - Development\\Scenes\\E03-S02\\Audio\\Dialogue\\E03-S02-D01.mp3"
+        },
+        {
+          "line_id": "E03-S02-D02",
+          "role_id": "civilian_2",
+          "start": 5.194,
+          "end": 9.699,
+          "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Seasons\\Season 01\\Episode 03 - Development\\Scenes\\E03-S02\\Audio\\Dialogue\\E03-S02-D02.mp3"
+        },
+        {
+          "line_id": "E03-S02-D03",
+          "role_id": "onyx",
+          "start": 9.899,
+          "end": 13.614,
+          "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Seasons\\Season 01\\Episode 03 - Development\\Scenes\\E03-S02\\Audio\\Dialogue\\E03-S02-D03.mp3"
+        },
+        {
+          "line_id": "E03-S02-D04",
+          "role_id": "civilian_2",
+          "start": 13.814,
+          "end": 19.712,
+          "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Seasons\\Season 01\\Episode 03 - Development\\Scenes\\E03-S02\\Audio\\Dialogue\\E03-S02-D04.mp3"
+        },
+        {
+          "line_id": "E03-S02-D05",
+          "role_id": "neon",
+          "start": 19.912,
+          "end": 24.788,
+          "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Seasons\\Season 01\\Episode 03 - Development\\Scenes\\E03-S02\\Audio\\Dialogue\\E03-S02-D05.mp3"
+        },
+        {
+          "line_id": "E03-S02-D06",
+          "role_id": "civilian_2",
+          "start": 24.988,
+          "end": 29.632,
+          "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Seasons\\Season 01\\Episode 03 - Development\\Scenes\\E03-S02\\Audio\\Dialogue\\E03-S02-D06.mp3"
+        },
+        {
+          "line_id": "E03-S02-D07",
+          "role_id": "onyx",
+          "start": 29.832,
+          "end": 33.083,
+          "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Seasons\\Season 01\\Episode 03 - Development\\Scenes\\E03-S02\\Audio\\Dialogue\\E03-S02-D07.mp3"
+        },
+        {
+          "line_id": "E03-S02-D08",
+          "role_id": "civilian_2",
+          "start": 33.283,
+          "end": 37.23,
+          "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Seasons\\Season 01\\Episode 03 - Development\\Scenes\\E03-S02\\Audio\\Dialogue\\E03-S02-D08.mp3"
+        }
+      ],
+      "conformed_duration_seconds": 49,
+      "episode_start_seconds": 44,
+      "episode_end_seconds": 93
+    },
+    {
+      "id": "E03-S03",
+      "title": "Thirty Days, Not Everyone",
+      "planned_seconds": 45,
+      "minimum_dialogue_assembly_seconds": 35.305,
+      "speech_seconds": 33.205,
+      "lines": [
+        {
+          "line_id": "E03-S03-D01",
+          "role_id": "trixie",
+          "start": 0.35,
+          "end": 3.926,
+          "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Seasons\\Season 01\\Episode 03 - Development\\Scenes\\E03-S03\\Audio\\Dialogue\\E03-S03-D01.mp3"
+        },
+        {
+          "line_id": "E03-S03-D02",
+          "role_id": "byte",
+          "start": 4.126,
+          "end": 8.631,
+          "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Seasons\\Season 01\\Episode 03 - Development\\Scenes\\E03-S03\\Audio\\Dialogue\\E03-S03-D02.mp3"
+        },
+        {
+          "line_id": "E03-S03-D03",
+          "role_id": "ghost",
+          "start": 8.831,
+          "end": 14.125,
+          "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Seasons\\Season 01\\Episode 03 - Development\\Scenes\\E03-S03\\Audio\\Dialogue\\E03-S03-D03.mp3"
+        },
+        {
+          "line_id": "E03-S03-D04",
+          "role_id": "onyx",
+          "start": 14.325,
+          "end": 17.901,
+          "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Seasons\\Season 01\\Episode 03 - Development\\Scenes\\E03-S03\\Audio\\Dialogue\\E03-S03-D04.mp3"
+        },
+        {
+          "line_id": "E03-S03-D05",
+          "role_id": "trixie",
+          "start": 18.101,
+          "end": 22.094,
+          "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Seasons\\Season 01\\Episode 03 - Development\\Scenes\\E03-S03\\Audio\\Dialogue\\E03-S03-D05.mp3"
+        },
+        {
+          "line_id": "E03-S03-D06",
+          "role_id": "onyx",
+          "start": 22.294,
+          "end": 26.428,
+          "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Seasons\\Season 01\\Episode 03 - Development\\Scenes\\E03-S03\\Audio\\Dialogue\\E03-S03-D06.mp3"
+        },
+        {
+          "line_id": "E03-S03-D07",
+          "role_id": "byte",
+          "start": 26.628,
+          "end": 30.854,
+          "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Seasons\\Season 01\\Episode 03 - Development\\Scenes\\E03-S03\\Audio\\Dialogue\\E03-S03-D07.mp3"
+        },
+        {
+          "line_id": "E03-S03-D08",
+          "role_id": "trixie",
+          "start": 31.054,
+          "end": 34.955,
+          "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Seasons\\Season 01\\Episode 03 - Development\\Scenes\\E03-S03\\Audio\\Dialogue\\E03-S03-D08.mp3"
+        }
+      ],
+      "conformed_duration_seconds": 45,
+      "episode_start_seconds": 93,
+      "episode_end_seconds": 138
+    },
+    {
+      "id": "E03-S04",
+      "title": "The Date Does Not Fit",
+      "planned_seconds": 55,
+      "minimum_dialogue_assembly_seconds": 38.927,
+      "speech_seconds": 36.827,
+      "lines": [
+        {
+          "line_id": "E03-S04-D01",
+          "role_id": "ghost",
+          "start": 0.35,
+          "end": 5.644,
+          "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Seasons\\Season 01\\Episode 03 - Development\\Scenes\\E03-S04\\Audio\\Dialogue\\E03-S04-D01.mp3"
+        },
+        {
+          "line_id": "E03-S04-D02",
+          "role_id": "byte",
+          "start": 5.844,
+          "end": 10.906,
+          "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Seasons\\Season 01\\Episode 03 - Development\\Scenes\\E03-S04\\Audio\\Dialogue\\E03-S04-D02.mp3"
+        },
+        {
+          "line_id": "E03-S04-D03",
+          "role_id": "trixie",
+          "start": 11.106,
+          "end": 14.403,
+          "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Seasons\\Season 01\\Episode 03 - Development\\Scenes\\E03-S04\\Audio\\Dialogue\\E03-S04-D03.mp3"
+        },
+        {
+          "line_id": "E03-S04-D04",
+          "role_id": "ghost",
+          "start": 14.603,
+          "end": 18.969,
+          "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Seasons\\Season 01\\Episode 03 - Development\\Scenes\\E03-S04\\Audio\\Dialogue\\E03-S04-D04.mp3"
+        },
+        {
+          "line_id": "E03-S04-D05",
+          "role_id": "byte",
+          "start": 19.169,
+          "end": 23.395,
+          "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Seasons\\Season 01\\Episode 03 - Development\\Scenes\\E03-S04\\Audio\\Dialogue\\E03-S04-D05.mp3"
+        },
+        {
+          "line_id": "E03-S04-D06",
+          "role_id": "trixie",
+          "start": 23.595,
+          "end": 27.263,
+          "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Seasons\\Season 01\\Episode 03 - Development\\Scenes\\E03-S04\\Audio\\Dialogue\\E03-S04-D06.mp3"
+        },
+        {
+          "line_id": "E03-S04-D07",
+          "role_id": "ghost",
+          "start": 27.463,
+          "end": 33.872,
+          "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Seasons\\Season 01\\Episode 03 - Development\\Scenes\\E03-S04\\Audio\\Dialogue\\E03-S04-D07.mp3"
+        },
+        {
+          "line_id": "E03-S04-D08",
+          "role_id": "byte",
+          "start": 34.072,
+          "end": 38.577,
+          "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Seasons\\Season 01\\Episode 03 - Development\\Scenes\\E03-S04\\Audio\\Dialogue\\E03-S04-D08.mp3"
+        }
+      ],
+      "conformed_duration_seconds": 54,
+      "episode_start_seconds": 138,
+      "episode_end_seconds": 192
+    },
+    {
+      "id": "E03-S05",
+      "title": "A Very Public Operation",
+      "planned_seconds": 45,
+      "minimum_dialogue_assembly_seconds": 39.577,
+      "speech_seconds": 37.477,
+      "lines": [
+        {
+          "line_id": "E03-S05-D01",
+          "role_id": "general_fetch",
+          "start": 0.35,
+          "end": 5.04,
+          "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Seasons\\Season 01\\Episode 03 - Development\\Scenes\\E03-S05\\Audio\\Dialogue\\E03-S05-D01.mp3"
+        },
+        {
+          "line_id": "E03-S05-D02",
+          "role_id": "dog_guard_a",
+          "start": 5.24,
+          "end": 10.256,
+          "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Seasons\\Season 01\\Episode 03 - Development\\Scenes\\E03-S05\\Audio\\Dialogue\\E03-S05-D02.mp3"
+        },
+        {
+          "line_id": "E03-S05-D03",
+          "role_id": "general_fetch",
+          "start": 10.456,
+          "end": 17.004,
+          "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Seasons\\Season 01\\Episode 03 - Development\\Scenes\\E03-S05\\Audio\\Dialogue\\E03-S05-D03.mp3"
+        },
+        {
+          "line_id": "E03-S05-D04",
+          "role_id": "dog_guard_a",
+          "start": 17.204,
+          "end": 21.987,
+          "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Seasons\\Season 01\\Episode 03 - Development\\Scenes\\E03-S05\\Audio\\Dialogue\\E03-S05-D04.mp3"
+        },
+        {
+          "line_id": "E03-S05-D05",
+          "role_id": "general_fetch",
+          "start": 22.187,
+          "end": 26.135,
+          "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Seasons\\Season 01\\Episode 03 - Development\\Scenes\\E03-S05\\Audio\\Dialogue\\E03-S05-D05.mp3"
+        },
+        {
+          "line_id": "E03-S05-D06",
+          "role_id": "dog_guard_a",
+          "start": 26.335,
+          "end": 30.561,
+          "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Seasons\\Season 01\\Episode 03 - Development\\Scenes\\E03-S05\\Audio\\Dialogue\\E03-S05-D06.mp3"
+        },
+        {
+          "line_id": "E03-S05-D07",
+          "role_id": "general_fetch",
+          "start": 30.761,
+          "end": 34.94,
+          "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Seasons\\Season 01\\Episode 03 - Development\\Scenes\\E03-S05\\Audio\\Dialogue\\E03-S05-D07.mp3"
+        },
+        {
+          "line_id": "E03-S05-D08",
+          "role_id": "general_fetch",
+          "start": 35.14,
+          "end": 39.227,
+          "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Seasons\\Season 01\\Episode 03 - Development\\Scenes\\E03-S05\\Audio\\Dialogue\\E03-S05-D08.mp3"
+        }
+      ],
+      "conformed_duration_seconds": 45,
+      "episode_start_seconds": 192,
+      "episode_end_seconds": 237
+    },
+    {
+      "id": "E03-S06",
+      "title": "Room for More",
+      "planned_seconds": 50,
+      "minimum_dialogue_assembly_seconds": 37.719,
+      "speech_seconds": 35.619,
+      "lines": [
+        {
+          "line_id": "E03-S06-D01",
+          "role_id": "onyx",
+          "start": 0.35,
+          "end": 5.18,
+          "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Seasons\\Season 01\\Episode 03 - Development\\Scenes\\E03-S06\\Audio\\Dialogue\\E03-S06-D01.mp3"
+        },
+        {
+          "line_id": "E03-S06-D02",
+          "role_id": "neon",
+          "start": 5.38,
+          "end": 8.77,
+          "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Seasons\\Season 01\\Episode 03 - Development\\Scenes\\E03-S06\\Audio\\Dialogue\\E03-S06-D02.mp3"
+        },
+        {
+          "line_id": "E03-S06-D03",
+          "role_id": "civilian_1",
+          "start": 8.97,
+          "end": 13.382,
+          "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Seasons\\Season 01\\Episode 03 - Development\\Scenes\\E03-S06\\Audio\\Dialogue\\E03-S06-D03.mp3"
+        },
+        {
+          "line_id": "E03-S06-D04",
+          "role_id": "onyx",
+          "start": 13.582,
+          "end": 17.901,
+          "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Seasons\\Season 01\\Episode 03 - Development\\Scenes\\E03-S06\\Audio\\Dialogue\\E03-S06-D04.mp3"
+        },
+        {
+          "line_id": "E03-S06-D05",
+          "role_id": "civilian_1",
+          "start": 18.101,
+          "end": 25.577,
+          "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Seasons\\Season 01\\Episode 03 - Development\\Scenes\\E03-S06\\Audio\\Dialogue\\E03-S06-D05.mp3"
+        },
+        {
+          "line_id": "E03-S06-D06",
+          "role_id": "neon",
+          "start": 25.777,
+          "end": 29.957,
+          "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Seasons\\Season 01\\Episode 03 - Development\\Scenes\\E03-S06\\Audio\\Dialogue\\E03-S06-D06.mp3"
+        },
+        {
+          "line_id": "E03-S06-D07",
+          "role_id": "onyx",
+          "start": 30.157,
+          "end": 33.408,
+          "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Seasons\\Season 01\\Episode 03 - Development\\Scenes\\E03-S06\\Audio\\Dialogue\\E03-S06-D07.mp3"
+        },
+        {
+          "line_id": "E03-S06-D08",
+          "role_id": "civilian_1",
+          "start": 33.608,
+          "end": 37.369,
+          "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Seasons\\Season 01\\Episode 03 - Development\\Scenes\\E03-S06\\Audio\\Dialogue\\E03-S06-D08.mp3"
+        }
+      ],
+      "conformed_duration_seconds": 49,
+      "episode_start_seconds": 237,
+      "episode_end_seconds": 286
+    },
+    {
+      "id": "E03-S07",
+      "title": "Five Jobs, One Deadline",
+      "planned_seconds": 55,
+      "minimum_dialogue_assembly_seconds": 40.134,
+      "speech_seconds": 38.034,
+      "lines": [
+        {
+          "line_id": "E03-S07-D01",
+          "role_id": "trixie",
+          "start": 0.35,
+          "end": 4.437,
+          "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Seasons\\Season 01\\Episode 03 - Development\\Scenes\\E03-S07\\Audio\\Dialogue\\E03-S07-D01.mp3"
+        },
+        {
+          "line_id": "E03-S07-D02",
+          "role_id": "neon",
+          "start": 4.637,
+          "end": 9.281,
+          "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Seasons\\Season 01\\Episode 03 - Development\\Scenes\\E03-S07\\Audio\\Dialogue\\E03-S07-D02.mp3"
+        },
+        {
+          "line_id": "E03-S07-D03",
+          "role_id": "onyx",
+          "start": 9.481,
+          "end": 14.357,
+          "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Seasons\\Season 01\\Episode 03 - Development\\Scenes\\E03-S07\\Audio\\Dialogue\\E03-S07-D03.mp3"
+        },
+        {
+          "line_id": "E03-S07-D04",
+          "role_id": "trixie",
+          "start": 14.557,
+          "end": 19.526,
+          "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Seasons\\Season 01\\Episode 03 - Development\\Scenes\\E03-S07\\Audio\\Dialogue\\E03-S07-D04.mp3"
+        },
+        {
+          "line_id": "E03-S07-D05",
+          "role_id": "byte",
+          "start": 19.726,
+          "end": 23.952,
+          "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Seasons\\Season 01\\Episode 03 - Development\\Scenes\\E03-S07\\Audio\\Dialogue\\E03-S07-D05.mp3"
+        },
+        {
+          "line_id": "E03-S07-D06",
+          "role_id": "ghost",
+          "start": 24.152,
+          "end": 29.585,
+          "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Seasons\\Season 01\\Episode 03 - Development\\Scenes\\E03-S07\\Audio\\Dialogue\\E03-S07-D06.mp3"
+        },
+        {
+          "line_id": "E03-S07-D07",
+          "role_id": "neon",
+          "start": 29.785,
+          "end": 33.733,
+          "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Seasons\\Season 01\\Episode 03 - Development\\Scenes\\E03-S07\\Audio\\Dialogue\\E03-S07-D07.mp3"
+        },
+        {
+          "line_id": "E03-S07-D08",
+          "role_id": "trixie",
+          "start": 33.933,
+          "end": 39.784,
+          "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Seasons\\Season 01\\Episode 03 - Development\\Scenes\\E03-S07\\Audio\\Dialogue\\E03-S07-D08.mp3"
+        }
+      ],
+      "conformed_duration_seconds": 55,
+      "episode_start_seconds": 286,
+      "episode_end_seconds": 341
+    },
+    {
+      "id": "E03-S08",
+      "title": "The Notice Wall",
+      "planned_seconds": 45,
+      "minimum_dialogue_assembly_seconds": 41.388,
+      "speech_seconds": 39.288,
+      "lines": [
+        {
+          "line_id": "E03-S08-D01",
+          "role_id": "civilian_2",
+          "start": 0.35,
+          "end": 6.712,
+          "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Seasons\\Season 01\\Episode 03 - Development\\Scenes\\E03-S08\\Audio\\Dialogue\\E03-S08-D01.mp3"
+        },
+        {
+          "line_id": "E03-S08-D02",
+          "role_id": "trixie",
+          "start": 6.912,
+          "end": 11.881,
+          "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Seasons\\Season 01\\Episode 03 - Development\\Scenes\\E03-S08\\Audio\\Dialogue\\E03-S08-D02.mp3"
+        },
+        {
+          "line_id": "E03-S08-D03",
+          "role_id": "civilian_2",
+          "start": 12.081,
+          "end": 16.261,
+          "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Seasons\\Season 01\\Episode 03 - Development\\Scenes\\E03-S08\\Audio\\Dialogue\\E03-S08-D03.mp3"
+        },
+        {
+          "line_id": "E03-S08-D04",
+          "role_id": "byte",
+          "start": 16.461,
+          "end": 20.873,
+          "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Seasons\\Season 01\\Episode 03 - Development\\Scenes\\E03-S08\\Audio\\Dialogue\\E03-S08-D04.mp3"
+        },
+        {
+          "line_id": "E03-S08-D05",
+          "role_id": "trixie",
+          "start": 21.073,
+          "end": 25.717,
+          "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Seasons\\Season 01\\Episode 03 - Development\\Scenes\\E03-S08\\Audio\\Dialogue\\E03-S08-D05.mp3"
+        },
+        {
+          "line_id": "E03-S08-D06",
+          "role_id": "civilian_2",
+          "start": 25.917,
+          "end": 31.629,
+          "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Seasons\\Season 01\\Episode 03 - Development\\Scenes\\E03-S08\\Audio\\Dialogue\\E03-S08-D06.mp3"
+        },
+        {
+          "line_id": "E03-S08-D07",
+          "role_id": "byte",
+          "start": 31.829,
+          "end": 36.659,
+          "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Seasons\\Season 01\\Episode 03 - Development\\Scenes\\E03-S08\\Audio\\Dialogue\\E03-S08-D07.mp3"
+        },
+        {
+          "line_id": "E03-S08-D08",
+          "role_id": "trixie",
+          "start": 36.859,
+          "end": 41.038,
+          "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Seasons\\Season 01\\Episode 03 - Development\\Scenes\\E03-S08\\Audio\\Dialogue\\E03-S08-D08.mp3"
+        }
+      ],
+      "conformed_duration_seconds": 45,
+      "episode_start_seconds": 341,
+      "episode_end_seconds": 386
+    },
+    {
+      "id": "E03-S09",
+      "title": "Fetch Watches the Gate",
+      "planned_seconds": 50,
+      "minimum_dialogue_assembly_seconds": 39.902,
+      "speech_seconds": 37.802,
+      "lines": [
+        {
+          "line_id": "E03-S09-D01",
+          "role_id": "dog_guard_a",
+          "start": 0.35,
+          "end": 5.18,
+          "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Seasons\\Season 01\\Episode 03 - Development\\Scenes\\E03-S09\\Audio\\Dialogue\\E03-S09-D01.mp3"
+        },
+        {
+          "line_id": "E03-S09-D02",
+          "role_id": "general_fetch",
+          "start": 5.38,
+          "end": 9.792,
+          "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Seasons\\Season 01\\Episode 03 - Development\\Scenes\\E03-S09\\Audio\\Dialogue\\E03-S09-D02.mp3"
+        },
+        {
+          "line_id": "E03-S09-D03",
+          "role_id": "dog_guard_a",
+          "start": 9.992,
+          "end": 14.914,
+          "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Seasons\\Season 01\\Episode 03 - Development\\Scenes\\E03-S09\\Audio\\Dialogue\\E03-S09-D03.mp3"
+        },
+        {
+          "line_id": "E03-S09-D04",
+          "role_id": "general_fetch",
+          "start": 15.114,
+          "end": 20.78,
+          "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Seasons\\Season 01\\Episode 03 - Development\\Scenes\\E03-S09\\Audio\\Dialogue\\E03-S09-D04.mp3"
+        },
+        {
+          "line_id": "E03-S09-D05",
+          "role_id": "dog_guard_a",
+          "start": 20.98,
+          "end": 25.995,
+          "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Seasons\\Season 01\\Episode 03 - Development\\Scenes\\E03-S09\\Audio\\Dialogue\\E03-S09-D05.mp3"
+        },
+        {
+          "line_id": "E03-S09-D06",
+          "role_id": "general_fetch",
+          "start": 26.195,
+          "end": 29.678,
+          "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Seasons\\Season 01\\Episode 03 - Development\\Scenes\\E03-S09\\Audio\\Dialogue\\E03-S09-D06.mp3"
+        },
+        {
+          "line_id": "E03-S09-D07",
+          "role_id": "dog_guard_a",
+          "start": 29.878,
+          "end": 34.94,
+          "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Seasons\\Season 01\\Episode 03 - Development\\Scenes\\E03-S09\\Audio\\Dialogue\\E03-S09-D07.mp3"
+        },
+        {
+          "line_id": "E03-S09-D08",
+          "role_id": "general_fetch",
+          "start": 35.14,
+          "end": 39.552,
+          "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Seasons\\Season 01\\Episode 03 - Development\\Scenes\\E03-S09\\Audio\\Dialogue\\E03-S09-D08.mp3"
+        }
+      ],
+      "conformed_duration_seconds": 49,
+      "episode_start_seconds": 386,
+      "episode_end_seconds": 435
+    },
+    {
+      "id": "E03-S10",
+      "title": "The Real Lock",
+      "planned_seconds": 55,
+      "minimum_dialogue_assembly_seconds": 42.456,
+      "speech_seconds": 40.356,
+      "lines": [
+        {
+          "line_id": "E03-S10-D01",
+          "role_id": "neon",
+          "start": 0.35,
+          "end": 6.759,
+          "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Seasons\\Season 01\\Episode 03 - Development\\Scenes\\E03-S10\\Audio\\Dialogue\\E03-S10-D01.mp3"
+        },
+        {
+          "line_id": "E03-S10-D02",
+          "role_id": "ghost",
+          "start": 6.959,
+          "end": 11.37,
+          "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Seasons\\Season 01\\Episode 03 - Development\\Scenes\\E03-S10\\Audio\\Dialogue\\E03-S10-D02.mp3"
+        },
+        {
+          "line_id": "E03-S10-D03",
+          "role_id": "neon",
+          "start": 11.57,
+          "end": 16.214,
+          "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Seasons\\Season 01\\Episode 03 - Development\\Scenes\\E03-S10\\Audio\\Dialogue\\E03-S10-D03.mp3"
+        },
+        {
+          "line_id": "E03-S10-D04",
+          "role_id": "ghost",
+          "start": 16.414,
+          "end": 21.616,
+          "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Seasons\\Season 01\\Episode 03 - Development\\Scenes\\E03-S10\\Audio\\Dialogue\\E03-S10-D04.mp3"
+        },
+        {
+          "line_id": "E03-S10-D05",
+          "role_id": "neon",
+          "start": 21.816,
+          "end": 26.413,
+          "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Seasons\\Season 01\\Episode 03 - Development\\Scenes\\E03-S10\\Audio\\Dialogue\\E03-S10-D05.mp3"
+        },
+        {
+          "line_id": "E03-S10-D06",
+          "role_id": "ghost",
+          "start": 26.613,
+          "end": 30.839,
+          "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Seasons\\Season 01\\Episode 03 - Development\\Scenes\\E03-S10\\Audio\\Dialogue\\E03-S10-D06.mp3"
+        },
+        {
+          "line_id": "E03-S10-D07",
+          "role_id": "neon",
+          "start": 31.039,
+          "end": 36.705,
+          "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Seasons\\Season 01\\Episode 03 - Development\\Scenes\\E03-S10\\Audio\\Dialogue\\E03-S10-D07.mp3"
+        },
+        {
+          "line_id": "E03-S10-D08",
+          "role_id": "ghost",
+          "start": 36.905,
+          "end": 42.106,
+          "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Seasons\\Season 01\\Episode 03 - Development\\Scenes\\E03-S10\\Audio\\Dialogue\\E03-S10-D08.mp3"
+        }
+      ],
+      "conformed_duration_seconds": 55,
+      "episode_start_seconds": 435,
+      "episode_end_seconds": 490
+    },
+    {
+      "id": "E03-S11",
+      "title": "Box Rotation",
+      "planned_seconds": 50,
+      "minimum_dialogue_assembly_seconds": 41.713,
+      "speech_seconds": 39.613,
+      "lines": [
+        {
+          "line_id": "E03-S11-D01",
+          "role_id": "civilian_2",
+          "start": 0.35,
+          "end": 5.412,
+          "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Seasons\\Season 01\\Episode 03 - Development\\Scenes\\E03-S11\\Audio\\Dialogue\\E03-S11-D01.mp3"
+        },
+        {
+          "line_id": "E03-S11-D02",
+          "role_id": "onyx",
+          "start": 5.612,
+          "end": 10.21,
+          "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Seasons\\Season 01\\Episode 03 - Development\\Scenes\\E03-S11\\Audio\\Dialogue\\E03-S11-D02.mp3"
+        },
+        {
+          "line_id": "E03-S11-D03",
+          "role_id": "neon",
+          "start": 10.41,
+          "end": 14.589,
+          "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Seasons\\Season 01\\Episode 03 - Development\\Scenes\\E03-S11\\Audio\\Dialogue\\E03-S11-D03.mp3"
+        },
+        {
+          "line_id": "E03-S11-D04",
+          "role_id": "civilian_2",
+          "start": 14.789,
+          "end": 19.294,
+          "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Seasons\\Season 01\\Episode 03 - Development\\Scenes\\E03-S11\\Audio\\Dialogue\\E03-S11-D04.mp3"
+        },
+        {
+          "line_id": "E03-S11-D05",
+          "role_id": "onyx",
+          "start": 19.494,
+          "end": 26.042,
+          "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Seasons\\Season 01\\Episode 03 - Development\\Scenes\\E03-S11\\Audio\\Dialogue\\E03-S11-D05.mp3"
+        },
+        {
+          "line_id": "E03-S11-D06",
+          "role_id": "neon",
+          "start": 26.242,
+          "end": 31.954,
+          "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Seasons\\Season 01\\Episode 03 - Development\\Scenes\\E03-S11\\Audio\\Dialogue\\E03-S11-D06.mp3"
+        },
+        {
+          "line_id": "E03-S11-D07",
+          "role_id": "civilian_2",
+          "start": 32.154,
+          "end": 36.751,
+          "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Seasons\\Season 01\\Episode 03 - Development\\Scenes\\E03-S11\\Audio\\Dialogue\\E03-S11-D07.mp3"
+        },
+        {
+          "line_id": "E03-S11-D08",
+          "role_id": "onyx",
+          "start": 36.951,
+          "end": 41.363,
+          "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Seasons\\Season 01\\Episode 03 - Development\\Scenes\\E03-S11\\Audio\\Dialogue\\E03-S11-D08.mp3"
+        }
+      ],
+      "conformed_duration_seconds": 50,
+      "episode_start_seconds": 490,
+      "episode_end_seconds": 540
+    },
+    {
+      "id": "E03-S12",
+      "title": "An Expiring Window",
+      "planned_seconds": 45,
+      "minimum_dialogue_assembly_seconds": 41.76,
+      "speech_seconds": 39.66,
+      "lines": [
+        {
+          "line_id": "E03-S12-D01",
+          "role_id": "byte",
+          "start": 0.35,
+          "end": 5.783,
+          "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Seasons\\Season 01\\Episode 03 - Development\\Scenes\\E03-S12\\Audio\\Dialogue\\E03-S12-D01.mp3"
+        },
+        {
+          "line_id": "E03-S12-D02",
+          "role_id": "ghost",
+          "start": 5.983,
+          "end": 12.067,
+          "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Seasons\\Season 01\\Episode 03 - Development\\Scenes\\E03-S12\\Audio\\Dialogue\\E03-S12-D02.mp3"
+        },
+        {
+          "line_id": "E03-S12-D03",
+          "role_id": "trixie",
+          "start": 12.267,
+          "end": 16.725,
+          "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Seasons\\Season 01\\Episode 03 - Development\\Scenes\\E03-S12\\Audio\\Dialogue\\E03-S12-D03.mp3"
+        },
+        {
+          "line_id": "E03-S12-D04",
+          "role_id": "ghost",
+          "start": 16.925,
+          "end": 21.384,
+          "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Seasons\\Season 01\\Episode 03 - Development\\Scenes\\E03-S12\\Audio\\Dialogue\\E03-S12-D04.mp3"
+        },
+        {
+          "line_id": "E03-S12-D05",
+          "role_id": "byte",
+          "start": 21.584,
+          "end": 25.577,
+          "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Seasons\\Season 01\\Episode 03 - Development\\Scenes\\E03-S12\\Audio\\Dialogue\\E03-S12-D05.mp3"
+        },
+        {
+          "line_id": "E03-S12-D06",
+          "role_id": "trixie",
+          "start": 25.777,
+          "end": 29.771,
+          "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Seasons\\Season 01\\Episode 03 - Development\\Scenes\\E03-S12\\Audio\\Dialogue\\E03-S12-D06.mp3"
+        },
+        {
+          "line_id": "E03-S12-D07",
+          "role_id": "ghost",
+          "start": 29.971,
+          "end": 36.566,
+          "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Seasons\\Season 01\\Episode 03 - Development\\Scenes\\E03-S12\\Audio\\Dialogue\\E03-S12-D07.mp3"
+        },
+        {
+          "line_id": "E03-S12-D08",
+          "role_id": "byte",
+          "start": 36.766,
+          "end": 41.41,
+          "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Seasons\\Season 01\\Episode 03 - Development\\Scenes\\E03-S12\\Audio\\Dialogue\\E03-S12-D08.mp3"
+        }
+      ],
+      "conformed_duration_seconds": 45,
+      "episode_start_seconds": 540,
+      "episode_end_seconds": 585
+    },
+    {
+      "id": "E03-S13",
+      "title": "You Do Not Have to Do Both",
+      "planned_seconds": 55,
+      "minimum_dialogue_assembly_seconds": 33.958,
+      "speech_seconds": 31.858,
+      "lines": [
+        {
+          "line_id": "E03-S13-D01",
+          "role_id": "trixie",
+          "start": 0.35,
+          "end": 3.787,
+          "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Seasons\\Season 01\\Episode 03 - Development\\Scenes\\E03-S13\\Audio\\Dialogue\\E03-S13-D01.mp3"
+        },
+        {
+          "line_id": "E03-S13-D02",
+          "role_id": "onyx",
+          "start": 3.987,
+          "end": 8.305,
+          "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Seasons\\Season 01\\Episode 03 - Development\\Scenes\\E03-S13\\Audio\\Dialogue\\E03-S13-D02.mp3"
+        },
+        {
+          "line_id": "E03-S13-D03",
+          "role_id": "trixie",
+          "start": 8.505,
+          "end": 12.174,
+          "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Seasons\\Season 01\\Episode 03 - Development\\Scenes\\E03-S13\\Audio\\Dialogue\\E03-S13-D03.mp3"
+        },
+        {
+          "line_id": "E03-S13-D04",
+          "role_id": "onyx",
+          "start": 12.374,
+          "end": 16.879,
+          "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Seasons\\Season 01\\Episode 03 - Development\\Scenes\\E03-S13\\Audio\\Dialogue\\E03-S13-D04.mp3"
+        },
+        {
+          "line_id": "E03-S13-D05",
+          "role_id": "ghost",
+          "start": 17.079,
+          "end": 22.512,
+          "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Seasons\\Season 01\\Episode 03 - Development\\Scenes\\E03-S13\\Audio\\Dialogue\\E03-S13-D05.mp3"
+        },
+        {
+          "line_id": "E03-S13-D06",
+          "role_id": "trixie",
+          "start": 22.712,
+          "end": 26.01,
+          "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Seasons\\Season 01\\Episode 03 - Development\\Scenes\\E03-S13\\Audio\\Dialogue\\E03-S13-D06.mp3"
+        },
+        {
+          "line_id": "E03-S13-D07",
+          "role_id": "onyx",
+          "start": 26.21,
+          "end": 30.25,
+          "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Seasons\\Season 01\\Episode 03 - Development\\Scenes\\E03-S13\\Audio\\Dialogue\\E03-S13-D07.mp3"
+        },
+        {
+          "line_id": "E03-S13-D08",
+          "role_id": "trixie",
+          "start": 30.45,
+          "end": 33.608,
+          "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Seasons\\Season 01\\Episode 03 - Development\\Scenes\\E03-S13\\Audio\\Dialogue\\E03-S13-D08.mp3"
+        }
+      ],
+      "conformed_duration_seconds": 53,
+      "episode_start_seconds": 585,
+      "episode_end_seconds": 638
+    },
+    {
+      "id": "E03-S14",
+      "title": "Quiet Machines",
+      "planned_seconds": 50,
+      "minimum_dialogue_assembly_seconds": 43.014,
+      "speech_seconds": 40.914,
+      "lines": [
+        {
+          "line_id": "E03-S14-D01",
+          "role_id": "neon",
+          "start": 0.35,
+          "end": 4.715,
+          "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Seasons\\Season 01\\Episode 03 - Development\\Scenes\\E03-S14\\Audio\\Dialogue\\E03-S14-D01.mp3"
+        },
+        {
+          "line_id": "E03-S14-D02",
+          "role_id": "onyx",
+          "start": 4.915,
+          "end": 9.281,
+          "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Seasons\\Season 01\\Episode 03 - Development\\Scenes\\E03-S14\\Audio\\Dialogue\\E03-S14-D02.mp3"
+        },
+        {
+          "line_id": "E03-S14-D03",
+          "role_id": "neon",
+          "start": 9.481,
+          "end": 16.261,
+          "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Seasons\\Season 01\\Episode 03 - Development\\Scenes\\E03-S14\\Audio\\Dialogue\\E03-S14-D03.mp3"
+        },
+        {
+          "line_id": "E03-S14-D04",
+          "role_id": "onyx",
+          "start": 16.461,
+          "end": 22.219,
+          "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Seasons\\Season 01\\Episode 03 - Development\\Scenes\\E03-S14\\Audio\\Dialogue\\E03-S14-D04.mp3"
+        },
+        {
+          "line_id": "E03-S14-D05",
+          "role_id": "neon",
+          "start": 22.419,
+          "end": 28.735,
+          "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Seasons\\Season 01\\Episode 03 - Development\\Scenes\\E03-S14\\Audio\\Dialogue\\E03-S14-D05.mp3"
+        },
+        {
+          "line_id": "E03-S14-D06",
+          "role_id": "onyx",
+          "start": 28.935,
+          "end": 33.394,
+          "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Seasons\\Season 01\\Episode 03 - Development\\Scenes\\E03-S14\\Audio\\Dialogue\\E03-S14-D06.mp3"
+        },
+        {
+          "line_id": "E03-S14-D07",
+          "role_id": "neon",
+          "start": 33.594,
+          "end": 37.309,
+          "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Seasons\\Season 01\\Episode 03 - Development\\Scenes\\E03-S14\\Audio\\Dialogue\\E03-S14-D07.mp3"
+        },
+        {
+          "line_id": "E03-S14-D08",
+          "role_id": "onyx",
+          "start": 37.509,
+          "end": 42.664,
+          "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Seasons\\Season 01\\Episode 03 - Development\\Scenes\\E03-S14\\Audio\\Dialogue\\E03-S14-D08.mp3"
+        }
+      ],
+      "conformed_duration_seconds": 50,
+      "episode_start_seconds": 638,
+      "episode_end_seconds": 688
+    },
+    {
+      "id": "E03-S15",
+      "title": "The Empty Shelter",
+      "planned_seconds": 45,
+      "minimum_dialogue_assembly_seconds": 43.292,
+      "speech_seconds": 41.192,
+      "lines": [
+        {
+          "line_id": "E03-S15-D01",
+          "role_id": "onyx",
+          "start": 0.35,
+          "end": 6.109,
+          "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Seasons\\Season 01\\Episode 03 - Development\\Scenes\\E03-S15\\Audio\\Dialogue\\E03-S15-D01.mp3"
+        },
+        {
+          "line_id": "E03-S15-D02",
+          "role_id": "civilian_2",
+          "start": 6.309,
+          "end": 10.86,
+          "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Seasons\\Season 01\\Episode 03 - Development\\Scenes\\E03-S15\\Audio\\Dialogue\\E03-S15-D02.mp3"
+        },
+        {
+          "line_id": "E03-S15-D03",
+          "role_id": "onyx",
+          "start": 11.06,
+          "end": 15.936,
+          "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Seasons\\Season 01\\Episode 03 - Development\\Scenes\\E03-S15\\Audio\\Dialogue\\E03-S15-D03.mp3"
+        },
+        {
+          "line_id": "E03-S15-D04",
+          "role_id": "civilian_2",
+          "start": 16.136,
+          "end": 22.591,
+          "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Seasons\\Season 01\\Episode 03 - Development\\Scenes\\E03-S15\\Audio\\Dialogue\\E03-S15-D04.mp3"
+        },
+        {
+          "line_id": "E03-S15-D05",
+          "role_id": "onyx",
+          "start": 22.791,
+          "end": 27.992,
+          "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Seasons\\Season 01\\Episode 03 - Development\\Scenes\\E03-S15\\Audio\\Dialogue\\E03-S15-D05.mp3"
+        },
+        {
+          "line_id": "E03-S15-D06",
+          "role_id": "civilian_2",
+          "start": 28.192,
+          "end": 32.511,
+          "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Seasons\\Season 01\\Episode 03 - Development\\Scenes\\E03-S15\\Audio\\Dialogue\\E03-S15-D06.mp3"
+        },
+        {
+          "line_id": "E03-S15-D07",
+          "role_id": "onyx",
+          "start": 32.711,
+          "end": 37.773,
+          "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Seasons\\Season 01\\Episode 03 - Development\\Scenes\\E03-S15\\Audio\\Dialogue\\E03-S15-D07.mp3"
+        },
+        {
+          "line_id": "E03-S15-D08",
+          "role_id": "onyx",
+          "start": 37.973,
+          "end": 42.942,
+          "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Seasons\\Season 01\\Episode 03 - Development\\Scenes\\E03-S15\\Audio\\Dialogue\\E03-S15-D08.mp3"
+        }
+      ],
+      "conformed_duration_seconds": 46,
+      "episode_start_seconds": 688,
+      "episode_end_seconds": 734
+    },
+    {
+      "id": "E03-S16",
+      "title": "Original Posting Log",
+      "planned_seconds": 55,
+      "minimum_dialogue_assembly_seconds": 42.038,
+      "speech_seconds": 39.938,
+      "lines": [
+        {
+          "line_id": "E03-S16-D01",
+          "role_id": "ghost",
+          "start": 0.35,
+          "end": 5.04,
+          "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Seasons\\Season 01\\Episode 03 - Development\\Scenes\\E03-S16\\Audio\\Dialogue\\E03-S16-D01.mp3"
+        },
+        {
+          "line_id": "E03-S16-D02",
+          "role_id": "trixie",
+          "start": 5.24,
+          "end": 9.838,
+          "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Seasons\\Season 01\\Episode 03 - Development\\Scenes\\E03-S16\\Audio\\Dialogue\\E03-S16-D02.mp3"
+        },
+        {
+          "line_id": "E03-S16-D03",
+          "role_id": "ghost",
+          "start": 10.038,
+          "end": 15.007,
+          "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Seasons\\Season 01\\Episode 03 - Development\\Scenes\\E03-S16\\Audio\\Dialogue\\E03-S16-D03.mp3"
+        },
+        {
+          "line_id": "E03-S16-D04",
+          "role_id": "trixie",
+          "start": 15.207,
+          "end": 20.13,
+          "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Seasons\\Season 01\\Episode 03 - Development\\Scenes\\E03-S16\\Audio\\Dialogue\\E03-S16-D04.mp3"
+        },
+        {
+          "line_id": "E03-S16-D05",
+          "role_id": "ghost",
+          "start": 20.33,
+          "end": 25.902,
+          "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Seasons\\Season 01\\Episode 03 - Development\\Scenes\\E03-S16\\Audio\\Dialogue\\E03-S16-D05.mp3"
+        },
+        {
+          "line_id": "E03-S16-D06",
+          "role_id": "trixie",
+          "start": 26.102,
+          "end": 32.511,
+          "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Seasons\\Season 01\\Episode 03 - Development\\Scenes\\E03-S16\\Audio\\Dialogue\\E03-S16-D06.mp3"
+        },
+        {
+          "line_id": "E03-S16-D07",
+          "role_id": "ghost",
+          "start": 32.711,
+          "end": 38.377,
+          "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Seasons\\Season 01\\Episode 03 - Development\\Scenes\\E03-S16\\Audio\\Dialogue\\E03-S16-D07.mp3"
+        },
+        {
+          "line_id": "E03-S16-D08",
+          "role_id": "trixie",
+          "start": 38.577,
+          "end": 41.688,
+          "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Seasons\\Season 01\\Episode 03 - Development\\Scenes\\E03-S16\\Audio\\Dialogue\\E03-S16-D08.mp3"
+        }
+      ],
+      "conformed_duration_seconds": 55,
+      "episode_start_seconds": 734,
+      "episode_end_seconds": 789
+    },
+    {
+      "id": "E03-S17",
+      "title": "The Gate Closes",
+      "planned_seconds": 50,
+      "minimum_dialogue_assembly_seconds": 43.106,
+      "speech_seconds": 41.006,
+      "lines": [
+        {
+          "line_id": "E03-S17-D01",
+          "role_id": "dog_guard_a",
+          "start": 0.35,
+          "end": 6.155,
+          "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Seasons\\Season 01\\Episode 03 - Development\\Scenes\\E03-S17\\Audio\\Dialogue\\E03-S17-D01.mp3"
+        },
+        {
+          "line_id": "E03-S17-D02",
+          "role_id": "general_fetch",
+          "start": 6.355,
+          "end": 11.788,
+          "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Seasons\\Season 01\\Episode 03 - Development\\Scenes\\E03-S17\\Audio\\Dialogue\\E03-S17-D02.mp3"
+        },
+        {
+          "line_id": "E03-S17-D03",
+          "role_id": "ghost",
+          "start": 11.988,
+          "end": 16.4,
+          "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Seasons\\Season 01\\Episode 03 - Development\\Scenes\\E03-S17\\Audio\\Dialogue\\E03-S17-D03.mp3"
+        },
+        {
+          "line_id": "E03-S17-D04",
+          "role_id": "general_fetch",
+          "start": 16.6,
+          "end": 21.058,
+          "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Seasons\\Season 01\\Episode 03 - Development\\Scenes\\E03-S17\\Audio\\Dialogue\\E03-S17-D04.mp3"
+        },
+        {
+          "line_id": "E03-S17-D05",
+          "role_id": "dog_guard_a",
+          "start": 21.258,
+          "end": 26.878,
+          "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Seasons\\Season 01\\Episode 03 - Development\\Scenes\\E03-S17\\Audio\\Dialogue\\E03-S17-D05.mp3"
+        },
+        {
+          "line_id": "E03-S17-D06",
+          "role_id": "general_fetch",
+          "start": 27.078,
+          "end": 31.443,
+          "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Seasons\\Season 01\\Episode 03 - Development\\Scenes\\E03-S17\\Audio\\Dialogue\\E03-S17-D06.mp3"
+        },
+        {
+          "line_id": "E03-S17-D07",
+          "role_id": "ghost",
+          "start": 31.643,
+          "end": 37.587,
+          "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Seasons\\Season 01\\Episode 03 - Development\\Scenes\\E03-S17\\Audio\\Dialogue\\E03-S17-D07.mp3"
+        },
+        {
+          "line_id": "E03-S17-D08",
+          "role_id": "general_fetch",
+          "start": 37.787,
+          "end": 42.756,
+          "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Seasons\\Season 01\\Episode 03 - Development\\Scenes\\E03-S17\\Audio\\Dialogue\\E03-S17-D08.mp3"
+        }
+      ],
+      "conformed_duration_seconds": 50,
+      "episode_start_seconds": 789,
+      "episode_end_seconds": 839
+    },
+    {
+      "id": "E03-S18",
+      "title": "The Long Way Home",
+      "planned_seconds": 45,
+      "minimum_dialogue_assembly_seconds": 39.113,
+      "speech_seconds": 37.013,
+      "lines": [
+        {
+          "line_id": "E03-S18-D01",
+          "role_id": "neon",
+          "start": 0.35,
+          "end": 4.39,
+          "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Seasons\\Season 01\\Episode 03 - Development\\Scenes\\E03-S18\\Audio\\Dialogue\\E03-S18-D01.mp3"
+        },
+        {
+          "line_id": "E03-S18-D02",
+          "role_id": "trixie",
+          "start": 4.59,
+          "end": 8.677,
+          "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Seasons\\Season 01\\Episode 03 - Development\\Scenes\\E03-S18\\Audio\\Dialogue\\E03-S18-D02.mp3"
+        },
+        {
+          "line_id": "E03-S18-D03",
+          "role_id": "ghost",
+          "start": 8.877,
+          "end": 13.985,
+          "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Seasons\\Season 01\\Episode 03 - Development\\Scenes\\E03-S18\\Audio\\Dialogue\\E03-S18-D03.mp3"
+        },
+        {
+          "line_id": "E03-S18-D04",
+          "role_id": "neon",
+          "start": 14.185,
+          "end": 18.783,
+          "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Seasons\\Season 01\\Episode 03 - Development\\Scenes\\E03-S18\\Audio\\Dialogue\\E03-S18-D04.mp3"
+        },
+        {
+          "line_id": "E03-S18-D05",
+          "role_id": "trixie",
+          "start": 18.983,
+          "end": 24.509,
+          "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Seasons\\Season 01\\Episode 03 - Development\\Scenes\\E03-S18\\Audio\\Dialogue\\E03-S18-D05.mp3"
+        },
+        {
+          "line_id": "E03-S18-D06",
+          "role_id": "neon",
+          "start": 24.709,
+          "end": 28.796,
+          "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Seasons\\Season 01\\Episode 03 - Development\\Scenes\\E03-S18\\Audio\\Dialogue\\E03-S18-D06.mp3"
+        },
+        {
+          "line_id": "E03-S18-D07",
+          "role_id": "ghost",
+          "start": 28.996,
+          "end": 34.476,
+          "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Seasons\\Season 01\\Episode 03 - Development\\Scenes\\E03-S18\\Audio\\Dialogue\\E03-S18-D07.mp3"
+        },
+        {
+          "line_id": "E03-S18-D08",
+          "role_id": "trixie",
+          "start": 34.676,
+          "end": 38.763,
+          "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Seasons\\Season 01\\Episode 03 - Development\\Scenes\\E03-S18\\Audio\\Dialogue\\E03-S18-D08.mp3"
+        }
+      ],
+      "conformed_duration_seconds": 45,
+      "episode_start_seconds": 839,
+      "episode_end_seconds": 884
+    },
+    {
+      "id": "E03-S19",
+      "title": "An Appeal with Teeth",
+      "planned_seconds": 55,
+      "minimum_dialogue_assembly_seconds": 49.654,
+      "speech_seconds": 47.554,
+      "lines": [
+        {
+          "line_id": "E03-S19-D01",
+          "role_id": "byte",
+          "start": 0.35,
+          "end": 6.712,
+          "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Seasons\\Season 01\\Episode 03 - Development\\Scenes\\E03-S19\\Audio\\Dialogue\\E03-S19-D01.mp3"
+        },
+        {
+          "line_id": "E03-S19-D02",
+          "role_id": "nip7_anchor",
+          "start": 6.912,
+          "end": 13.971,
+          "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Seasons\\Season 01\\Episode 03 - Development\\Scenes\\E03-S19\\Audio\\Dialogue\\E03-S19-D02.mp3"
+        },
+        {
+          "line_id": "E03-S19-D03",
+          "role_id": "byte",
+          "start": 14.171,
+          "end": 19.697,
+          "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Seasons\\Season 01\\Episode 03 - Development\\Scenes\\E03-S19\\Audio\\Dialogue\\E03-S19-D03.mp3"
+        },
+        {
+          "line_id": "E03-S19-D04",
+          "role_id": "nip7_anchor",
+          "start": 19.897,
+          "end": 27.096,
+          "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Seasons\\Season 01\\Episode 03 - Development\\Scenes\\E03-S19\\Audio\\Dialogue\\E03-S19-D04.mp3"
+        },
+        {
+          "line_id": "E03-S19-D05",
+          "role_id": "byte",
+          "start": 27.296,
+          "end": 33.147,
+          "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Seasons\\Season 01\\Episode 03 - Development\\Scenes\\E03-S19\\Audio\\Dialogue\\E03-S19-D05.mp3"
+        },
+        {
+          "line_id": "E03-S19-D06",
+          "role_id": "nip7_anchor",
+          "start": 33.347,
+          "end": 38.13,
+          "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Seasons\\Season 01\\Episode 03 - Development\\Scenes\\E03-S19\\Audio\\Dialogue\\E03-S19-D06.mp3"
+        },
+        {
+          "line_id": "E03-S19-D07",
+          "role_id": "byte",
+          "start": 38.33,
+          "end": 43.114,
+          "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Seasons\\Season 01\\Episode 03 - Development\\Scenes\\E03-S19\\Audio\\Dialogue\\E03-S19-D07.mp3"
+        },
+        {
+          "line_id": "E03-S19-D08",
+          "role_id": "nip7_anchor",
+          "start": 43.314,
+          "end": 49.304,
+          "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Seasons\\Season 01\\Episode 03 - Development\\Scenes\\E03-S19\\Audio\\Dialogue\\E03-S19-D08.mp3"
+        }
+      ],
+      "conformed_duration_seconds": 55,
+      "episode_start_seconds": 884,
+      "episode_end_seconds": 939
+    },
+    {
+      "id": "E03-S20",
+      "title": "Read the Whole Order",
+      "planned_seconds": 50,
+      "minimum_dialogue_assembly_seconds": 49.422,
+      "speech_seconds": 47.322,
+      "lines": [
+        {
+          "line_id": "E03-S20-D01",
+          "role_id": "nip7_anchor",
+          "start": 0.35,
+          "end": 7.595,
+          "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Seasons\\Season 01\\Episode 03 - Development\\Scenes\\E03-S20\\Audio\\Dialogue\\E03-S20-D01.mp3"
+        },
+        {
+          "line_id": "E03-S20-D02",
+          "role_id": "trixie",
+          "start": 7.795,
+          "end": 11.881,
+          "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Seasons\\Season 01\\Episode 03 - Development\\Scenes\\E03-S20\\Audio\\Dialogue\\E03-S20-D02.mp3"
+        },
+        {
+          "line_id": "E03-S20-D03",
+          "role_id": "nip7_anchor",
+          "start": 12.081,
+          "end": 19.465,
+          "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Seasons\\Season 01\\Episode 03 - Development\\Scenes\\E03-S20\\Audio\\Dialogue\\E03-S20-D03.mp3"
+        },
+        {
+          "line_id": "E03-S20-D04",
+          "role_id": "trixie",
+          "start": 19.665,
+          "end": 24.031,
+          "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Seasons\\Season 01\\Episode 03 - Development\\Scenes\\E03-S20\\Audio\\Dialogue\\E03-S20-D04.mp3"
+        },
+        {
+          "line_id": "E03-S20-D05",
+          "role_id": "nip7_anchor",
+          "start": 24.231,
+          "end": 31.893,
+          "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Seasons\\Season 01\\Episode 03 - Development\\Scenes\\E03-S20\\Audio\\Dialogue\\E03-S20-D05.mp3"
+        },
+        {
+          "line_id": "E03-S20-D06",
+          "role_id": "trixie",
+          "start": 32.093,
+          "end": 36.83,
+          "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Seasons\\Season 01\\Episode 03 - Development\\Scenes\\E03-S20\\Audio\\Dialogue\\E03-S20-D06.mp3"
+        },
+        {
+          "line_id": "E03-S20-D07",
+          "role_id": "nip7_anchor",
+          "start": 37.03,
+          "end": 44.693,
+          "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Seasons\\Season 01\\Episode 03 - Development\\Scenes\\E03-S20\\Audio\\Dialogue\\E03-S20-D07.mp3"
+        },
+        {
+          "line_id": "E03-S20-D08",
+          "role_id": "trixie",
+          "start": 44.893,
+          "end": 49.072,
+          "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Seasons\\Season 01\\Episode 03 - Development\\Scenes\\E03-S20\\Audio\\Dialogue\\E03-S20-D08.mp3"
+        }
+      ],
+      "conformed_duration_seconds": 51,
+      "episode_start_seconds": 939,
+      "episode_end_seconds": 990
+    },
+    {
+      "id": "E03-S21",
+      "title": "Stand Down Means Stand Down",
+      "planned_seconds": 45,
+      "minimum_dialogue_assembly_seconds": 47.1,
+      "speech_seconds": 45.0,
+      "lines": [
+        {
+          "line_id": "E03-S21-D01",
+          "role_id": "dog_guard_a",
+          "start": 0.35,
+          "end": 8.384,
+          "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Seasons\\Season 01\\Episode 03 - Development\\Scenes\\E03-S21\\Audio\\Dialogue\\E03-S21-D01.mp3"
+        },
+        {
+          "line_id": "E03-S21-D02",
+          "role_id": "general_fetch",
+          "start": 8.584,
+          "end": 14.296,
+          "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Seasons\\Season 01\\Episode 03 - Development\\Scenes\\E03-S21\\Audio\\Dialogue\\E03-S21-D02.mp3"
+        },
+        {
+          "line_id": "E03-S21-D03",
+          "role_id": "dog_guard_a",
+          "start": 14.496,
+          "end": 19.233,
+          "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Seasons\\Season 01\\Episode 03 - Development\\Scenes\\E03-S21\\Audio\\Dialogue\\E03-S21-D03.mp3"
+        },
+        {
+          "line_id": "E03-S21-D04",
+          "role_id": "general_fetch",
+          "start": 19.433,
+          "end": 24.402,
+          "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Seasons\\Season 01\\Episode 03 - Development\\Scenes\\E03-S21\\Audio\\Dialogue\\E03-S21-D04.mp3"
+        },
+        {
+          "line_id": "E03-S21-D05",
+          "role_id": "dog_guard_a",
+          "start": 24.602,
+          "end": 30.175,
+          "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Seasons\\Season 01\\Episode 03 - Development\\Scenes\\E03-S21\\Audio\\Dialogue\\E03-S21-D05.mp3"
+        },
+        {
+          "line_id": "E03-S21-D06",
+          "role_id": "general_fetch",
+          "start": 30.375,
+          "end": 35.716,
+          "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Seasons\\Season 01\\Episode 03 - Development\\Scenes\\E03-S21\\Audio\\Dialogue\\E03-S21-D06.mp3"
+        },
+        {
+          "line_id": "E03-S21-D07",
+          "role_id": "dog_guard_a",
+          "start": 35.916,
+          "end": 41.906,
+          "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Seasons\\Season 01\\Episode 03 - Development\\Scenes\\E03-S21\\Audio\\Dialogue\\E03-S21-D07.mp3"
+        },
+        {
+          "line_id": "E03-S21-D08",
+          "role_id": "general_fetch",
+          "start": 42.106,
+          "end": 46.75,
+          "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Seasons\\Season 01\\Episode 03 - Development\\Scenes\\E03-S21\\Audio\\Dialogue\\E03-S21-D08.mp3"
+        }
+      ],
+      "conformed_duration_seconds": 49,
+      "episode_start_seconds": 990,
+      "episode_end_seconds": 1039
+    },
+    {
+      "id": "E03-S22",
+      "title": "Guests, Not Cargo",
+      "planned_seconds": 55,
+      "minimum_dialogue_assembly_seconds": 48.633,
+      "speech_seconds": 46.533,
+      "lines": [
+        {
+          "line_id": "E03-S22-D01",
+          "role_id": "civilian_1",
+          "start": 0.35,
+          "end": 5.737,
+          "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Seasons\\Season 01\\Episode 03 - Development\\Scenes\\E03-S22\\Audio\\Dialogue\\E03-S22-D01.mp3"
+        },
+        {
+          "line_id": "E03-S22-D02",
+          "role_id": "onyx",
+          "start": 5.937,
+          "end": 11.278,
+          "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Seasons\\Season 01\\Episode 03 - Development\\Scenes\\E03-S22\\Audio\\Dialogue\\E03-S22-D02.mp3"
+        },
+        {
+          "line_id": "E03-S22-D03",
+          "role_id": "civilian_2",
+          "start": 11.478,
+          "end": 17.283,
+          "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Seasons\\Season 01\\Episode 03 - Development\\Scenes\\E03-S22\\Audio\\Dialogue\\E03-S22-D03.mp3"
+        },
+        {
+          "line_id": "E03-S22-D04",
+          "role_id": "neon",
+          "start": 17.483,
+          "end": 23.891,
+          "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Seasons\\Season 01\\Episode 03 - Development\\Scenes\\E03-S22\\Audio\\Dialogue\\E03-S22-D04.mp3"
+        },
+        {
+          "line_id": "E03-S22-D05",
+          "role_id": "civilian_1",
+          "start": 24.091,
+          "end": 29.525,
+          "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Seasons\\Season 01\\Episode 03 - Development\\Scenes\\E03-S22\\Audio\\Dialogue\\E03-S22-D05.mp3"
+        },
+        {
+          "line_id": "E03-S22-D06",
+          "role_id": "onyx",
+          "start": 29.725,
+          "end": 35.019,
+          "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Seasons\\Season 01\\Episode 03 - Development\\Scenes\\E03-S22\\Audio\\Dialogue\\E03-S22-D06.mp3"
+        },
+        {
+          "line_id": "E03-S22-D07",
+          "role_id": "civilian_2",
+          "start": 35.219,
+          "end": 42.742,
+          "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Seasons\\Season 01\\Episode 03 - Development\\Scenes\\E03-S22\\Audio\\Dialogue\\E03-S22-D07.mp3"
+        },
+        {
+          "line_id": "E03-S22-D08",
+          "role_id": "neon",
+          "start": 42.942,
+          "end": 48.283,
+          "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Seasons\\Season 01\\Episode 03 - Development\\Scenes\\E03-S22\\Audio\\Dialogue\\E03-S22-D08.mp3"
+        }
+      ],
+      "conformed_duration_seconds": 55,
+      "episode_start_seconds": 1039,
+      "episode_end_seconds": 1094
+    },
+    {
+      "id": "E03-S23",
+      "title": "Home Is a Job",
+      "planned_seconds": 45,
+      "minimum_dialogue_assembly_seconds": 43.014,
+      "speech_seconds": 40.914,
+      "lines": [
+        {
+          "line_id": "E03-S23-D01",
+          "role_id": "trixie",
+          "start": 0.35,
+          "end": 5.691,
+          "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Seasons\\Season 01\\Episode 03 - Development\\Scenes\\E03-S23\\Audio\\Dialogue\\E03-S23-D01.mp3"
+        },
+        {
+          "line_id": "E03-S23-D02",
+          "role_id": "byte",
+          "start": 5.891,
+          "end": 10.767,
+          "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Seasons\\Season 01\\Episode 03 - Development\\Scenes\\E03-S23\\Audio\\Dialogue\\E03-S23-D02.mp3"
+        },
+        {
+          "line_id": "E03-S23-D03",
+          "role_id": "onyx",
+          "start": 10.967,
+          "end": 15.889,
+          "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Seasons\\Season 01\\Episode 03 - Development\\Scenes\\E03-S23\\Audio\\Dialogue\\E03-S23-D03.mp3"
+        },
+        {
+          "line_id": "E03-S23-D04",
+          "role_id": "neon",
+          "start": 16.089,
+          "end": 20.269,
+          "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Seasons\\Season 01\\Episode 03 - Development\\Scenes\\E03-S23\\Audio\\Dialogue\\E03-S23-D04.mp3"
+        },
+        {
+          "line_id": "E03-S23-D05",
+          "role_id": "ghost",
+          "start": 20.469,
+          "end": 25.81,
+          "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Seasons\\Season 01\\Episode 03 - Development\\Scenes\\E03-S23\\Audio\\Dialogue\\E03-S23-D05.mp3"
+        },
+        {
+          "line_id": "E03-S23-D06",
+          "role_id": "trixie",
+          "start": 26.01,
+          "end": 32.047,
+          "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Seasons\\Season 01\\Episode 03 - Development\\Scenes\\E03-S23\\Audio\\Dialogue\\E03-S23-D06.mp3"
+        },
+        {
+          "line_id": "E03-S23-D07",
+          "role_id": "onyx",
+          "start": 32.247,
+          "end": 36.659,
+          "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Seasons\\Season 01\\Episode 03 - Development\\Scenes\\E03-S23\\Audio\\Dialogue\\E03-S23-D07.mp3"
+        },
+        {
+          "line_id": "E03-S23-D08",
+          "role_id": "byte",
+          "start": 36.859,
+          "end": 42.664,
+          "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Seasons\\Season 01\\Episode 03 - Development\\Scenes\\E03-S23\\Audio\\Dialogue\\E03-S23-D08.mp3"
+        }
+      ],
+      "conformed_duration_seconds": 46,
+      "episode_start_seconds": 1094,
+      "episode_end_seconds": 1140
+    },
+    {
+      "id": "E03-S24",
+      "title": "Someone Knows the Way",
+      "planned_seconds": 60,
+      "minimum_dialogue_assembly_seconds": 44.253,
+      "speech_seconds": 42.353,
+      "lines": [
+        {
+          "line_id": "E03-S24-D01",
+          "role_id": "general_fetch",
+          "start": 0.35,
+          "end": 6.619,
+          "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Seasons\\Season 01\\Episode 03 - Development\\Scenes\\E03-S24\\Audio\\Dialogue\\E03-S24-D01.mp3"
+        },
+        {
+          "line_id": "E03-S24-D02",
+          "role_id": "general_fetch",
+          "start": 6.819,
+          "end": 11.185,
+          "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Seasons\\Season 01\\Episode 03 - Development\\Scenes\\E03-S24\\Audio\\Dialogue\\E03-S24-D02.mp3"
+        },
+        {
+          "line_id": "E03-S24-D03",
+          "role_id": "general_fetch",
+          "start": 11.385,
+          "end": 18.769,
+          "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Seasons\\Season 01\\Episode 03 - Development\\Scenes\\E03-S24\\Audio\\Dialogue\\E03-S24-D03.mp3"
+        },
+        {
+          "line_id": "E03-S24-D04",
+          "role_id": "general_fetch",
+          "start": 18.969,
+          "end": 25.749,
+          "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Seasons\\Season 01\\Episode 03 - Development\\Scenes\\E03-S24\\Audio\\Dialogue\\E03-S24-D04.mp3"
+        },
+        {
+          "line_id": "E03-S24-D05",
+          "role_id": "general_fetch",
+          "start": 25.949,
+          "end": 31.847,
+          "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Seasons\\Season 01\\Episode 03 - Development\\Scenes\\E03-S24\\Audio\\Dialogue\\E03-S24-D05.mp3"
+        },
+        {
+          "line_id": "E03-S24-D06",
+          "role_id": "general_fetch",
+          "start": 32.047,
+          "end": 38.363,
+          "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Seasons\\Season 01\\Episode 03 - Development\\Scenes\\E03-S24\\Audio\\Dialogue\\E03-S24-D06.mp3"
+        },
+        {
+          "line_id": "E03-S24-D07",
+          "role_id": "general_fetch",
+          "start": 38.563,
+          "end": 43.903,
+          "file": "E:\\MovedFromC\\Documents\\Codex\\2026-11-06\\https-chatgpt-com-share-6aedf171-aae8-2\\outputs\\Seasons\\Season 01\\Episode 03 - Development\\Scenes\\E03-S24\\Audio\\Dialogue\\E03-S24-D07.mp3"
+        }
+      ],
+      "conformed_duration_seconds": 60,
+      "episode_start_seconds": 1140,
+      "episode_end_seconds": 1200
+    }
+  ]
+}

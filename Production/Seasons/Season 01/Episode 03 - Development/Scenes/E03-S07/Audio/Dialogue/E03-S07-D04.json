@@ -1,0 +1,19 @@
+{
+  "id": "E03-S07-D04",
+  "role_id": "trixie",
+  "voice_id": "dmWfLQZJq7wNPv9WmtiM",
+  "text": "I go with Ghost and preserve the original order. We keep the dates and the seal together.",
+  "status": "review_take",
+  "scene": "E03-S07",
+  "duration_sec": 4.96907,
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.35,
+    "similarity_boost": 0.8,
+    "style": 0.55,
+    "use_speaker_boost": true
+  },
+  "request_id": "Smuwmyjzz0NDRO3Pqc4w",
+  "provider_character_cost": "20",
+  "sha256": "55fa0aa7837a5959eebea7556a1ab0f942640b1dac8840087706534662bfa438"
+}

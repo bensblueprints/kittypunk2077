@@ -1,0 +1,19 @@
+{
+  "id": "E03-S24-D04",
+  "role_id": "general_fetch",
+  "voice_id": "pNInz6obpgDQGcFmaJgB",
+  "text": "Put an observer at this exit and another at the next junction. Quietly. No parade.",
+  "status": "review_take",
+  "scene": "E03-S24",
+  "duration_sec": 6.780227,
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.5,
+    "similarity_boost": 0.75,
+    "style": 0.15,
+    "use_speaker_boost": true
+  },
+  "request_id": "kKwlSKnoNOZPE4Qvmils",
+  "provider_character_cost": "18",
+  "sha256": "4fa9e2c2f7e5e347c6a2f712cb15dbc868c794564a769707873038aaf69a7a45"
+}

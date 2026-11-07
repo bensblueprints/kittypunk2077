@@ -1,0 +1,19 @@
+{
+  "id": "E03-S08-D04",
+  "role_id": "byte",
+  "voice_id": "wo6udizrrtpIxWGp2qJk",
+  "text": "Not in the public copy. The appeal office gets the evidence it needs, with your permission.",
+  "status": "review_take",
+  "scene": "E03-S08",
+  "duration_sec": 4.411791,
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.5,
+    "similarity_boost": 0.75,
+    "style": 0.15,
+    "use_speaker_boost": true
+  },
+  "request_id": "Taoh5I21Ausku7iDMVpx",
+  "provider_character_cost": "20",
+  "sha256": "df3935bc80787f0b61dceef09592df23fd1e8159bfc84b16e2dd2f743398ced7"
+}

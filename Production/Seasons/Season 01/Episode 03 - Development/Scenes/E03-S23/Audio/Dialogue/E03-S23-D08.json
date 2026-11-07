@@ -1,0 +1,19 @@
+{
+  "id": "E03-S23-D08",
+  "role_id": "byte",
+  "voice_id": "wo6udizrrtpIxWGp2qJk",
+  "text": "And I'll eat before checking the appendix. Apparently we're all attempting personal growth under protest.",
+  "status": "review_take",
+  "scene": "E03-S23",
+  "duration_sec": 5.804989,
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.5,
+    "similarity_boost": 0.75,
+    "style": 0.15,
+    "use_speaker_boost": true
+  },
+  "request_id": "0UuSx4vPakHfQTcwzIRK",
+  "provider_character_cost": "23",
+  "sha256": "261513ce3fab786365569a7af8f3e3ff6b2bdf5054de089194055f5c23b59eb3"
+}

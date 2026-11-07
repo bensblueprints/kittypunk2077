@@ -1,0 +1,19 @@
+{
+  "id": "E03-S19-D08",
+  "role_id": "nip7_anchor",
+  "voice_id": "onwK4e9ZLuTAKqWW03F9",
+  "text": "Then send the acknowledgment when it arrives. We will verify the decision before announcing it.",
+  "status": "review_take",
+  "scene": "E03-S19",
+  "duration_sec": 5.990748,
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.5,
+    "similarity_boost": 0.75,
+    "style": 0.15,
+    "use_speaker_boost": true
+  },
+  "request_id": "mgqpeTGjcE85oZThtdT0",
+  "provider_character_cost": "21",
+  "sha256": "1a138eed6f9f9ceada6cddd86f211f1d659fe8c37f141fd731da3caa25f510c3"
+}

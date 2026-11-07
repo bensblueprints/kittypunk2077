@@ -1,0 +1,19 @@
+{
+  "id": "E03-S18-D06",
+  "role_id": "neon",
+  "voice_id": "4e32WqNVWRquDa1OcRYZ",
+  "text": "Left at the dead meter, then the low door. I can see the outside landing from here.",
+  "status": "review_take",
+  "scene": "E03-S18",
+  "duration_sec": 4.086712,
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.5,
+    "similarity_boost": 0.75,
+    "style": 0.15,
+    "use_speaker_boost": true
+  },
+  "request_id": "CyCxrmYzEMURXbhrbTXr",
+  "provider_character_cost": "18",
+  "sha256": "15a54d9e1a19723ecd2da0a61e3483f659b0d848a9bc91a3037c162d466d4f3c"
+}

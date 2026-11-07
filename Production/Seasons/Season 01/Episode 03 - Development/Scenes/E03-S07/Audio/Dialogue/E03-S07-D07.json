@@ -1,0 +1,19 @@
+{
+  "id": "E03-S07-D07",
+  "role_id": "neon",
+  "voice_id": "4e32WqNVWRquDa1OcRYZ",
+  "text": "I like the part where the plan includes us still having all our paws afterward.",
+  "status": "review_take",
+  "scene": "E03-S07",
+  "duration_sec": 3.947392,
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.5,
+    "similarity_boost": 0.75,
+    "style": 0.15,
+    "use_speaker_boost": true
+  },
+  "request_id": "LlI1icbeiDEfsFOTbT5U",
+  "provider_character_cost": "17",
+  "sha256": "13b9dd84586d239de95033eab18acb2f236ec1ca93a1eb3195b8831931ec6aea"
+}

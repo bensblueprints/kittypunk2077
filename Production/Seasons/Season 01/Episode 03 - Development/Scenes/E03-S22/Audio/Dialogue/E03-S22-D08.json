@@ -1,0 +1,19 @@
+{
+  "id": "E03-S22-D08",
+  "role_id": "neon",
+  "voice_id": "4e32WqNVWRquDa1OcRYZ",
+  "text": "Coat hooks. Finally, a task where nobody needs an appeal number. I'll get the tools.",
+  "status": "review_take",
+  "scene": "E03-S22",
+  "duration_sec": 5.34059,
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.5,
+    "similarity_boost": 0.75,
+    "style": 0.15,
+    "use_speaker_boost": true
+  },
+  "request_id": "klHqjPycep6hmcveQa9Q",
+  "provider_character_cost": "18",
+  "sha256": "100c34832c6587ab46f0387668399229bcd032f221ed5b8fc588283c79e84119"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "E03-S23-D05",
+  "role_id": "ghost",
+  "voice_id": "7fBwqIVI6wI1B4MuKqQi",
+  "text": "I can take the early shift. Then I want to compare that old junction plate with the service map.",
+  "status": "review_take",
+  "scene": "E03-S23",
+  "duration_sec": 5.34059,
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.5,
+    "similarity_boost": 0.75,
+    "style": 0.15,
+    "use_speaker_boost": true
+  },
+  "request_id": "Btoe7NVEbOFMQJkL5KfH",
+  "provider_character_cost": "21",
+  "sha256": "8fbe08baa72b433e9b690583f3db48b65b89d643f689a441412630c5c6ec6cd8"
+}

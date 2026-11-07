@@ -1,0 +1,154 @@
+{
+  "episode": 3,
+  "status": "Unapproved dialogue listening assembly; no effects or music; not the final 20-minute picture edit",
+  "word_count": 2776,
+  "line_count": 191,
+  "duration_seconds": 999.9409523809524,
+  "sha256": "2b4c91c39de7e4f7361bf06d7acbadc58425522d7e6ec34a726acbd34959fa25",
+  "scenes": [
+    {
+      "scene": "E03-S01",
+      "file": "E03-S01-dialogue-review-v001.mp3",
+      "master_start_seconds": 0,
+      "duration_seconds": 36.882993197278914
+    },
+    {
+      "scene": "E03-S02",
+      "file": "E03-S02-dialogue-review-v001.mp3",
+      "master_start_seconds": 36.883,
+      "duration_seconds": 37.58
+    },
+    {
+      "scene": "E03-S03",
+      "file": "E03-S03-dialogue-review-v001.mp3",
+      "master_start_seconds": 74.463,
+      "duration_seconds": 35.30498866213152
+    },
+    {
+      "scene": "E03-S04",
+      "file": "E03-S04-dialogue-review-v001.mp3",
+      "master_start_seconds": 109.768,
+      "duration_seconds": 38.92700680272109
+    },
+    {
+      "scene": "E03-S05",
+      "file": "E03-S05-dialogue-review-v001.mp3",
+      "master_start_seconds": 148.695,
+      "duration_seconds": 39.57700680272109
+    },
+    {
+      "scene": "E03-S06",
+      "file": "E03-S06-dialogue-review-v001.mp3",
+      "master_start_seconds": 188.272,
+      "duration_seconds": 37.71900226757369
+    },
+    {
+      "scene": "E03-S07",
+      "file": "E03-S07-dialogue-review-v001.mp3",
+      "master_start_seconds": 225.991,
+      "duration_seconds": 40.13399092970521
+    },
+    {
+      "scene": "E03-S08",
+      "file": "E03-S08-dialogue-review-v001.mp3",
+      "master_start_seconds": 266.125,
+      "duration_seconds": 41.388004535147395
+    },
+    {
+      "scene": "E03-S09",
+      "file": "E03-S09-dialogue-review-v001.mp3",
+      "master_start_seconds": 307.513,
+      "duration_seconds": 39.90199546485261
+    },
+    {
+      "scene": "E03-S10",
+      "file": "E03-S10-dialogue-review-v001.mp3",
+      "master_start_seconds": 347.415,
+      "duration_seconds": 42.45600907029478
+    },
+    {
+      "scene": "E03-S11",
+      "file": "E03-S11-dialogue-review-v001.mp3",
+      "master_start_seconds": 389.871,
+      "duration_seconds": 41.71299319727891
+    },
+    {
+      "scene": "E03-S12",
+      "file": "E03-S12-dialogue-review-v001.mp3",
+      "master_start_seconds": 431.584,
+      "duration_seconds": 41.76
+    },
+    {
+      "scene": "E03-S13",
+      "file": "E03-S13-dialogue-review-v001.mp3",
+      "master_start_seconds": 473.344,
+      "duration_seconds": 33.958004535147396
+    },
+    {
+      "scene": "E03-S14",
+      "file": "E03-S14-dialogue-review-v001.mp3",
+      "master_start_seconds": 507.302,
+      "duration_seconds": 43.013990929705216
+    },
+    {
+      "scene": "E03-S15",
+      "file": "E03-S15-dialogue-review-v001.mp3",
+      "master_start_seconds": 550.316,
+      "duration_seconds": 43.291995464852604
+    },
+    {
+      "scene": "E03-S16",
+      "file": "E03-S16-dialogue-review-v001.mp3",
+      "master_start_seconds": 593.608,
+      "duration_seconds": 42.038004535147394
+    },
+    {
+      "scene": "E03-S17",
+      "file": "E03-S17-dialogue-review-v001.mp3",
+      "master_start_seconds": 635.646,
+      "duration_seconds": 43.10600907029478
+    },
+    {
+      "scene": "E03-S18",
+      "file": "E03-S18-dialogue-review-v001.mp3",
+      "master_start_seconds": 678.752,
+      "duration_seconds": 39.11299319727891
+    },
+    {
+      "scene": "E03-S19",
+      "file": "E03-S19-dialogue-review-v001.mp3",
+      "master_start_seconds": 717.865,
+      "duration_seconds": 49.653990929705216
+    },
+    {
+      "scene": "E03-S20",
+      "file": "E03-S20-dialogue-review-v001.mp3",
+      "master_start_seconds": 767.519,
+      "duration_seconds": 49.42199546485261
+    },
+    {
+      "scene": "E03-S21",
+      "file": "E03-S21-dialogue-review-v001.mp3",
+      "master_start_seconds": 816.941,
+      "duration_seconds": 47.1
+    },
+    {
+      "scene": "E03-S22",
+      "file": "E03-S22-dialogue-review-v001.mp3",
+      "master_start_seconds": 864.041,
+      "duration_seconds": 48.632993197278914
+    },
+    {
+      "scene": "E03-S23",
+      "file": "E03-S23-dialogue-review-v001.mp3",
+      "master_start_seconds": 912.674,
+      "duration_seconds": 43.013990929705216
+    },
+    {
+      "scene": "E03-S24",
+      "file": "E03-S24-dialogue-review-v001.mp3",
+      "master_start_seconds": 955.688,
+      "duration_seconds": 44.25299319727891
+    }
+  ]
+}

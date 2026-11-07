@@ -1,0 +1,19 @@
+{
+  "id": "E03-S01-D03",
+  "role_id": "onyx",
+  "voice_id": "uq0HIbNZKn11Hs5ifEdd",
+  "text": "Don't pull it down. Look at the time printed underneath the seal.",
+  "status": "review_take",
+  "scene": "E03-S01",
+  "duration_sec": 3.390113,
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.5,
+    "similarity_boost": 0.75,
+    "style": 0.15,
+    "use_speaker_boost": true
+  },
+  "request_id": "PvY5ttAojXDEmtAybjUy",
+  "provider_character_cost": "14",
+  "sha256": "13bd07ed91ab13feb0953c76b16b5f83a15bc81a43fd66039d0fcff9d434a2d5"
+}

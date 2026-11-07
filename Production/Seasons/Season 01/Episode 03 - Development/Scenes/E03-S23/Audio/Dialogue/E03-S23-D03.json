@@ -1,0 +1,19 @@
+{
+  "id": "E03-S23-D03",
+  "role_id": "onyx",
+  "voice_id": "uq0HIbNZKn11Hs5ifEdd",
+  "text": "Tomorrow we need bedding, breakfast and someone to help me stop arguing about the best box.",
+  "status": "review_take",
+  "scene": "E03-S23",
+  "duration_sec": 4.92263,
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.5,
+    "similarity_boost": 0.75,
+    "style": 0.15,
+    "use_speaker_boost": true
+  },
+  "request_id": "QpYJNC3NBgohPiUIo1iy",
+  "provider_character_cost": "20",
+  "sha256": "acaad923293005602eb690b95993ef60f578687a25f3b04f5357d8d6721fb2b8"
+}

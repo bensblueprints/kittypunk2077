@@ -1,0 +1,19 @@
+{
+  "id": "E03-S21-D08",
+  "role_id": "general_fetch",
+  "voice_id": "pNInz6obpgDQGcFmaJgB",
+  "text": "Tell them it's temporary. And bring me every camera record from that utility gate.",
+  "status": "review_take",
+  "scene": "E03-S21",
+  "duration_sec": 4.643991,
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.5,
+    "similarity_boost": 0.75,
+    "style": 0.15,
+    "use_speaker_boost": true
+  },
+  "request_id": "2iJUFFV4Trg9Qb0jaUai",
+  "provider_character_cost": "18",
+  "sha256": "be87990ad7887d8de3d43e683c8dbf17913415c1a9549ae2f25ba59be23ea9b1"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "E03-S21-D06",
+  "role_id": "general_fetch",
+  "voice_id": "pNInz6obpgDQGcFmaJgB",
+  "text": "Hold the machines. Secure the boundary. Nobody restarts anything until the order changes.",
+  "status": "review_take",
+  "scene": "E03-S21",
+  "duration_sec": 5.34059,
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.5,
+    "similarity_boost": 0.75,
+    "style": 0.15,
+    "use_speaker_boost": true
+  },
+  "request_id": "JQ7iN5ZijxTCkbfif3h6",
+  "provider_character_cost": "20",
+  "sha256": "9cfc63af958c8479a106c31b07f37dc51cbadacea641f635ec82bffb5204b0f5"
+}

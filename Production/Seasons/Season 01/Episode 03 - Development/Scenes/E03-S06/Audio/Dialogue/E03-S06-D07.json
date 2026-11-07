@@ -1,0 +1,19 @@
+{
+  "id": "E03-S06-D07",
+  "role_id": "onyx",
+  "voice_id": "uq0HIbNZKn11Hs5ifEdd",
+  "text": "Pick a space you like. You don't have to wait for me to point at one.",
+  "status": "review_take",
+  "scene": "E03-S06",
+  "duration_sec": 3.250794,
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.5,
+    "similarity_boost": 0.75,
+    "style": 0.15,
+    "use_speaker_boost": true
+  },
+  "request_id": "u6bPjtrhTpHyteVP5Qfr",
+  "provider_character_cost": "15",
+  "sha256": "4df93a0c77a8ce0f6bbea4314e2176c2a98d535f378013aac9cea76821a0e4ea"
+}

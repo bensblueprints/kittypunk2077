@@ -1,0 +1,19 @@
+{
+  "id": "E03-S19-D02",
+  "role_id": "nip7_anchor",
+  "voice_id": "onwK4e9ZLuTAKqWW03F9",
+  "text": "The dates are inconsistent. Does that establish deliberate falsification, or could it be another clerical error?",
+  "status": "review_take",
+  "scene": "E03-S19",
+  "duration_sec": 7.058866,
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.5,
+    "similarity_boost": 0.75,
+    "style": 0.15,
+    "use_speaker_boost": true
+  },
+  "request_id": "3EViuuPZU4SOEM1kvTaH",
+  "provider_character_cost": "25",
+  "sha256": "bc0873231737ada423ebb74e312a3355a44fe9ebfafad07356b0dfcd4ae41809"
+}

@@ -131,6 +131,138 @@
           "duration_seconds": 45
         }
       ]
+    },
+    {
+      "season": 1,
+      "episode": 3,
+      "title": "If I Fits, I Resists",
+      "scenes": [
+        {
+          "number": 0,
+          "title": "Episode 3 \u2014 Full dialogue listening master (not final picture)",
+          "duration_seconds": 1000
+        },
+        {
+          "number": 1,
+          "title": "Notices Before Breakfast",
+          "duration_seconds": 44
+        },
+        {
+          "number": 2,
+          "title": "The Best Box",
+          "duration_seconds": 49
+        },
+        {
+          "number": 3,
+          "title": "Thirty Days, Not Everyone",
+          "duration_seconds": 45
+        },
+        {
+          "number": 4,
+          "title": "The Date Does Not Fit",
+          "duration_seconds": 54
+        },
+        {
+          "number": 5,
+          "title": "A Very Public Operation",
+          "duration_seconds": 45
+        },
+        {
+          "number": 6,
+          "title": "Room for More",
+          "duration_seconds": 49
+        },
+        {
+          "number": 7,
+          "title": "Five Jobs, One Deadline",
+          "duration_seconds": 55
+        },
+        {
+          "number": 8,
+          "title": "The Notice Wall",
+          "duration_seconds": 45
+        },
+        {
+          "number": 9,
+          "title": "Fetch Watches the Gate",
+          "duration_seconds": 49
+        },
+        {
+          "number": 10,
+          "title": "The Real Lock",
+          "duration_seconds": 55
+        },
+        {
+          "number": 11,
+          "title": "Box Rotation",
+          "duration_seconds": 50
+        },
+        {
+          "number": 12,
+          "title": "An Expiring Window",
+          "duration_seconds": 45
+        },
+        {
+          "number": 13,
+          "title": "You Do Not Have to Do Both",
+          "duration_seconds": 53
+        },
+        {
+          "number": 14,
+          "title": "Quiet Machines",
+          "duration_seconds": 50
+        },
+        {
+          "number": 15,
+          "title": "The Empty Shelter",
+          "duration_seconds": 46
+        },
+        {
+          "number": 16,
+          "title": "Original Posting Log",
+          "duration_seconds": 55
+        },
+        {
+          "number": 17,
+          "title": "The Gate Closes",
+          "duration_seconds": 50
+        },
+        {
+          "number": 18,
+          "title": "The Long Way Home",
+          "duration_seconds": 45
+        },
+        {
+          "number": 19,
+          "title": "An Appeal with Teeth",
+          "duration_seconds": 55
+        },
+        {
+          "number": 20,
+          "title": "Read the Whole Order",
+          "duration_seconds": 51
+        },
+        {
+          "number": 21,
+          "title": "Stand Down Means Stand Down",
+          "duration_seconds": 49
+        },
+        {
+          "number": 22,
+          "title": "Guests, Not Cargo",
+          "duration_seconds": 55
+        },
+        {
+          "number": 23,
+          "title": "Home Is a Job",
+          "duration_seconds": 46
+        },
+        {
+          "number": 24,
+          "title": "Someone Knows the Way",
+          "duration_seconds": 60
+        }
+      ]
     }
   ],
   "versions": {
@@ -233,6 +365,106 @@
     "s01e02-audio-s24-v001": {
       "season": 1,
       "episode": 2
+    },
+    "s01e03-audio-master-v001": {
+      "season": 1,
+      "episode": 3
+    },
+    "s01e03-audio-s01-v001": {
+      "season": 1,
+      "episode": 3
+    },
+    "s01e03-audio-s02-v001": {
+      "season": 1,
+      "episode": 3
+    },
+    "s01e03-audio-s03-v001": {
+      "season": 1,
+      "episode": 3
+    },
+    "s01e03-audio-s04-v001": {
+      "season": 1,
+      "episode": 3
+    },
+    "s01e03-audio-s05-v001": {
+      "season": 1,
+      "episode": 3
+    },
+    "s01e03-audio-s06-v001": {
+      "season": 1,
+      "episode": 3
+    },
+    "s01e03-audio-s07-v001": {
+      "season": 1,
+      "episode": 3
+    },
+    "s01e03-audio-s08-v001": {
+      "season": 1,
+      "episode": 3
+    },
+    "s01e03-audio-s09-v001": {
+      "season": 1,
+      "episode": 3
+    },
+    "s01e03-audio-s10-v001": {
+      "season": 1,
+      "episode": 3
+    },
+    "s01e03-audio-s11-v001": {
+      "season": 1,
+      "episode": 3
+    },
+    "s01e03-audio-s12-v001": {
+      "season": 1,
+      "episode": 3
+    },
+    "s01e03-audio-s13-v001": {
+      "season": 1,
+      "episode": 3
+    },
+    "s01e03-audio-s14-v001": {
+      "season": 1,
+      "episode": 3
+    },
+    "s01e03-audio-s15-v001": {
+      "season": 1,
+      "episode": 3
+    },
+    "s01e03-audio-s16-v001": {
+      "season": 1,
+      "episode": 3
+    },
+    "s01e03-audio-s17-v001": {
+      "season": 1,
+      "episode": 3
+    },
+    "s01e03-audio-s18-v001": {
+      "season": 1,
+      "episode": 3
+    },
+    "s01e03-audio-s19-v001": {
+      "season": 1,
+      "episode": 3
+    },
+    "s01e03-audio-s20-v001": {
+      "season": 1,
+      "episode": 3
+    },
+    "s01e03-audio-s21-v001": {
+      "season": 1,
+      "episode": 3
+    },
+    "s01e03-audio-s22-v001": {
+      "season": 1,
+      "episode": 3
+    },
+    "s01e03-audio-s23-v001": {
+      "season": 1,
+      "episode": 3
+    },
+    "s01e03-audio-s24-v001": {
+      "season": 1,
+      "episode": 3
     }
   }
 }

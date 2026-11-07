@@ -1,0 +1,19 @@
+{
+  "id": "E03-S08-D01",
+  "role_id": "civilian_2",
+  "voice_id": "b5RPB35vTODb3BEmR3Fc",
+  "text": "I took this yesterday. My daughter drew on the wall, so I photographed it before it rained.",
+  "status": "review_take",
+  "scene": "E03-S08",
+  "duration_sec": 6.362268,
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.5,
+    "similarity_boost": 0.75,
+    "style": 0.15,
+    "use_speaker_boost": true
+  },
+  "request_id": "j26dc0QTDKe3nCm3vRx8",
+  "provider_character_cost": "20",
+  "sha256": "417c6c4773fe66700abce6d5456664946beaa15dbfc7d20e38dd80eb8c809fea"
+}

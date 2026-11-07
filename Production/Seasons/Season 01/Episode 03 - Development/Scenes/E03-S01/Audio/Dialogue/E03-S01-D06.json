@@ -1,0 +1,19 @@
+{
+  "id": "E03-S01-D06",
+  "role_id": "onyx",
+  "voice_id": "uq0HIbNZKn11Hs5ifEdd",
+  "text": "Photograph it where it landed. Then we go door to door and find out who's inside.",
+  "status": "review_take",
+  "scene": "E03-S01",
+  "duration_sec": 5.15483,
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.5,
+    "similarity_boost": 0.75,
+    "style": 0.15,
+    "use_speaker_boost": true
+  },
+  "request_id": "r9v8jkiC9kBoioFBRroT",
+  "provider_character_cost": "18",
+  "sha256": "3a0cc90c4cb5cafd7aaf54529659f5ee657382207fe0193e71bcbe5843428e75"
+}

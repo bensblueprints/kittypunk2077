@@ -1,0 +1,19 @@
+{
+  "id": "E03-S03-D07",
+  "role_id": "byte",
+  "voice_id": "wo6udizrrtpIxWGp2qJk",
+  "text": "Both jobs need doing. I'll keep the appeal clock running while you check the annex.",
+  "status": "review_take",
+  "scene": "E03-S03",
+  "duration_sec": 4.226032,
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.5,
+    "similarity_boost": 0.75,
+    "style": 0.15,
+    "use_speaker_boost": true
+  },
+  "request_id": "QMF6HZ4pvfWnajLEXa4S",
+  "provider_character_cost": "18",
+  "sha256": "59a5190141203a2f1897e0747194803fcceb0261ab0597cc1cd35a04ddb7002a"
+}

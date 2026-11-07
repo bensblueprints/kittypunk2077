@@ -1,0 +1,19 @@
+{
+  "id": "E03-S12-D07",
+  "role_id": "ghost",
+  "voice_id": "7fBwqIVI6wI1B4MuKqQi",
+  "text": "Already calling him. No silent changes. Nobody should discover a missing safeguard by needing it.",
+  "status": "review_take",
+  "scene": "E03-S12",
+  "duration_sec": 6.594467,
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.5,
+    "similarity_boost": 0.75,
+    "style": 0.15,
+    "use_speaker_boost": true
+  },
+  "request_id": "fPJpcTcRljINIhHmPo24",
+  "provider_character_cost": "21",
+  "sha256": "1fe25701144e6c3f7989dfb1d30b4d481ed68a08af2116a43ffe3c777868a6d6"
+}

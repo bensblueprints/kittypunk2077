@@ -1,0 +1,19 @@
+{
+  "id": "E03-S18-D07",
+  "role_id": "ghost",
+  "voice_id": "7fBwqIVI6wI1B4MuKqQi",
+  "text": "Door opens outward. Stand clear. Trixie first, then me. Keep the file bag close.",
+  "status": "review_take",
+  "scene": "E03-S18",
+  "duration_sec": 5.479909,
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.5,
+    "similarity_boost": 0.75,
+    "style": 0.15,
+    "use_speaker_boost": true
+  },
+  "request_id": "TkMKu7R1QGeXUp6csY2o",
+  "provider_character_cost": "18",
+  "sha256": "9988713bfe0003ea2ea3b0660c4950fbb7bacf09ddf9e38bdbd5c3d15a379f40"
+}

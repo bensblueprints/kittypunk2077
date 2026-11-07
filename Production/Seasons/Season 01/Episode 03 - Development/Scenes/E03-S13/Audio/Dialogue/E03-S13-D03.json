@@ -1,0 +1,19 @@
+{
+  "id": "E03-S13-D03",
+  "role_id": "trixie",
+  "voice_id": "dmWfLQZJq7wNPv9WmtiM",
+  "text": "I meant it. I just don't like being somewhere else when things could go wrong.",
+  "status": "review_take",
+  "scene": "E03-S13",
+  "duration_sec": 3.668753,
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.35,
+    "similarity_boost": 0.8,
+    "style": 0.55,
+    "use_speaker_boost": true
+  },
+  "request_id": "7HIOTh0fReHZIsfEVi2y",
+  "provider_character_cost": "17",
+  "sha256": "d60202cfb9897ebc9a5195ec4a64532a4d09c894d3e0b7f1501e7fce73f5ff96"
+}

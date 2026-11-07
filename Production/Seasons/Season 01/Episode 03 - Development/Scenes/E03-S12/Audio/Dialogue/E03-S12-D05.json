@@ -1,0 +1,19 @@
+{
+  "id": "E03-S12-D05",
+  "role_id": "byte",
+  "voice_id": "wo6udizrrtpIxWGp2qJk",
+  "text": "The log is our way to stop the order, not just delay one machine.",
+  "status": "review_take",
+  "scene": "E03-S12",
+  "duration_sec": 3.993832,
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.5,
+    "similarity_boost": 0.75,
+    "style": 0.15,
+    "use_speaker_boost": true
+  },
+  "request_id": "DSxuKSySAyA9HFnURfpE",
+  "provider_character_cost": "14",
+  "sha256": "e8e38583ec6cb985ef4ec3dd3399706354ed31b9ea4833bb808cb335632416b9"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "E03-S22-D03",
+  "role_id": "civilian_2",
+  "voice_id": "b5RPB35vTODb3BEmR3Fc",
+  "text": "Can the box stay beside the bed? She's still asleep, and I'd rather not wake her.",
+  "status": "review_take",
+  "scene": "E03-S22",
+  "duration_sec": 5.804989,
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.5,
+    "similarity_boost": 0.75,
+    "style": 0.15,
+    "use_speaker_boost": true
+  },
+  "request_id": "yx4hfHXeeIKC9gOj2Thj",
+  "provider_character_cost": "18",
+  "sha256": "52cdc20f65c0f1a50b5bd67609339eedeb17b978a877e885af23d71a8d9b011a"
+}

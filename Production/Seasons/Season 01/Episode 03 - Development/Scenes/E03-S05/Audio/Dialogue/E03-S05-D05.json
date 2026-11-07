@@ -1,0 +1,19 @@
+{
+  "id": "E03-S05-D05",
+  "role_id": "general_fetch",
+  "voice_id": "pNInz6obpgDQGcFmaJgB",
+  "text": "Give them the number on the notice. Then keep the pedestrian lane open.",
+  "status": "review_take",
+  "scene": "E03-S05",
+  "duration_sec": 3.947392,
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.5,
+    "similarity_boost": 0.75,
+    "style": 0.15,
+    "use_speaker_boost": true
+  },
+  "request_id": "UlyxfQR60B48mMSQZEWB",
+  "provider_character_cost": "16",
+  "sha256": "4f233fa09f9f82233971a95ac6fb9ed849b45c05d66bdc8bf41ec37dadc3df07"
+}

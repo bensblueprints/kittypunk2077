@@ -1,0 +1,19 @@
+{
+  "id": "E03-S14-D04",
+  "role_id": "onyx",
+  "voice_id": "uq0HIbNZKn11Hs5ifEdd",
+  "text": "Does that mean we can stop worrying? I could use a very short holiday from worrying.",
+  "status": "review_take",
+  "scene": "E03-S14",
+  "duration_sec": 5.758549,
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.5,
+    "similarity_boost": 0.75,
+    "style": 0.15,
+    "use_speaker_boost": true
+  },
+  "request_id": "Lql8bYPZYR2XhmjPiVRp",
+  "provider_character_cost": "18",
+  "sha256": "db3ab365531e3e935fafadd2920a6d39bd3afd7657cd835ceaf10f51d31c799a"
+}

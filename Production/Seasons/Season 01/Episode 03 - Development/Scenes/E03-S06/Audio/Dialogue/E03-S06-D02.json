@@ -1,0 +1,19 @@
+{
+  "id": "E03-S06-D02",
+  "role_id": "neon",
+  "voice_id": "4e32WqNVWRquDa1OcRYZ",
+  "text": "The power works, but I'm keeping the heaters off until I've checked the sockets.",
+  "status": "review_take",
+  "scene": "E03-S06",
+  "duration_sec": 3.390113,
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.5,
+    "similarity_boost": 0.75,
+    "style": 0.15,
+    "use_speaker_boost": true
+  },
+  "request_id": "aZcZVmoFFq0Cn4OvWtnt",
+  "provider_character_cost": "18",
+  "sha256": "29b9e238b13b5449744d0d4fe10c3e0689c46e4543a088d742d6720ddebff436"
+}

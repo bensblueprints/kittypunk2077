@@ -1,0 +1,19 @@
+{
+  "id": "E03-S19-D01",
+  "role_id": "byte",
+  "voice_id": "wo6udizrrtpIxWGp2qJk",
+  "text": "Case still open. Original order attached, posting log attached, witness copy attached with permission.",
+  "status": "review_take",
+  "scene": "E03-S19",
+  "duration_sec": 6.362268,
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.5,
+    "similarity_boost": 0.75,
+    "style": 0.15,
+    "use_speaker_boost": true
+  },
+  "request_id": "J6MHrxQRuH5B9gGE16Ca",
+  "provider_character_cost": "22",
+  "sha256": "606709a300c8e486d2fbfb1f80a4742982707c8381985cce0206518265dd7947"
+}

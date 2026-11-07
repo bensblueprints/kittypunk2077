@@ -1,0 +1,19 @@
+{
+  "id": "E03-S19-D04",
+  "role_id": "nip7_anchor",
+  "voice_id": "onwK4e9ZLuTAKqWW03F9",
+  "text": "Good. Keep that distinction. We can report the contradiction without inventing an explanation for it.",
+  "status": "review_take",
+  "scene": "E03-S19",
+  "duration_sec": 7.198186,
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.5,
+    "similarity_boost": 0.75,
+    "style": 0.15,
+    "use_speaker_boost": true
+  },
+  "request_id": "wfZ15rpb9PZ6NzE93rkW",
+  "provider_character_cost": "22",
+  "sha256": "892a31ed88a5cf7f78c95408054e56d8284251741c4c234721cc223cc0c4577b"
+}

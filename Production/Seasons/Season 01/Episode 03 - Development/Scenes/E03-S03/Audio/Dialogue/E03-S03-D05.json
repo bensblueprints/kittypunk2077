@@ -1,0 +1,19 @@
+{
+  "id": "E03-S03-D05",
+  "role_id": "trixie",
+  "voice_id": "dmWfLQZJq7wNPv9WmtiM",
+  "text": "We might stop this before anyone has to move. The posting date is wrong.",
+  "status": "review_take",
+  "scene": "E03-S03",
+  "duration_sec": 3.993832,
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.35,
+    "similarity_boost": 0.8,
+    "style": 0.55,
+    "use_speaker_boost": true
+  },
+  "request_id": "yROND7vSDWvCflJSCzrw",
+  "provider_character_cost": "16",
+  "sha256": "d7c60d24a9d8c0eab1b01e60454826fec6baf4c3f4856aa2c4c83ed3e6797097"
+}

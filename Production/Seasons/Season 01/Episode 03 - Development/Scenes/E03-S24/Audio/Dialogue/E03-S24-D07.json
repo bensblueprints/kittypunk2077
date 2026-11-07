@@ -1,0 +1,19 @@
+{
+  "id": "E03-S24-D07",
+  "role_id": "general_fetch",
+  "voice_id": "pNInz6obpgDQGcFmaJgB",
+  "text": "Let them enjoy their little victory tonight. Tomorrow, we stop guessing where the kittens go.",
+  "status": "review_take",
+  "scene": "E03-S24",
+  "duration_sec": 5.34059,
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.5,
+    "similarity_boost": 0.75,
+    "style": 0.15,
+    "use_speaker_boost": true
+  },
+  "request_id": "QzyS3QtC787RzD3Zy5aF",
+  "provider_character_cost": "20",
+  "sha256": "3dee77a6ef72a261a80647032aa4cea893a9f745aadbcb035ebe1632a9b59bbb"
+}

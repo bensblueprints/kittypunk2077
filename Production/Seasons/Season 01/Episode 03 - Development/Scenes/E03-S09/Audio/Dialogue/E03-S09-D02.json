@@ -1,0 +1,19 @@
+{
+  "id": "E03-S09-D02",
+  "role_id": "general_fetch",
+  "voice_id": "pNInz6obpgDQGcFmaJgB",
+  "text": "And one at a computer. Predictable enough. Don't follow the ones making the noise.",
+  "status": "review_take",
+  "scene": "E03-S09",
+  "duration_sec": 4.411791,
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.5,
+    "similarity_boost": 0.75,
+    "style": 0.15,
+    "use_speaker_boost": true
+  },
+  "request_id": "nu3eD6ljC78NyG0Jm7Zm",
+  "provider_character_cost": "18",
+  "sha256": "439498b5e848de7eb1549c2725acdb8c76c865a0ac1a7428c42ccaccca18a9a2"
+}

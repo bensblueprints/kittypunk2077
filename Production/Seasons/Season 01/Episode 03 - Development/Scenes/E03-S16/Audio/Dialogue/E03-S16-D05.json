@@ -1,0 +1,19 @@
+{
+  "id": "E03-S16-D05",
+  "role_id": "ghost",
+  "voice_id": "7fBwqIVI6wI1B4MuKqQi",
+  "text": "There's the attachment receipt. Save that too. It connects this record to our appeal.",
+  "status": "review_take",
+  "scene": "E03-S16",
+  "duration_sec": 5.572789,
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.5,
+    "similarity_boost": 0.75,
+    "style": 0.15,
+    "use_speaker_boost": true
+  },
+  "request_id": "rxFNHiCtQRdDfyPJI8Ri",
+  "provider_character_cost": "19",
+  "sha256": "07404a7c77003d025f2e5f664b9eb1996ba0ce0c32933c427e48b7fd23a4daaf"
+}

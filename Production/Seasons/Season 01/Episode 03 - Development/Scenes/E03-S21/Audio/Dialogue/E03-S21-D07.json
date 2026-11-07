@@ -1,0 +1,19 @@
+{
+  "id": "E03-S21-D07",
+  "role_id": "dog_guard_a",
+  "voice_id": "TxWZERZ5Hc6h9dGxVmXa",
+  "text": "Understood. I'll tell the residents the clearance has stopped. They deserve to hear it directly.",
+  "status": "review_take",
+  "scene": "E03-S21",
+  "duration_sec": 5.990748,
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.5,
+    "similarity_boost": 0.75,
+    "style": 0.15,
+    "use_speaker_boost": true
+  },
+  "request_id": "SRUjRhOJrWjVAkbT5wcc",
+  "provider_character_cost": "21",
+  "sha256": "7ed6bb0cb77087c68d6f4c8d57f7fceb77f77e29d1fc348483146756666f4a34"
+}

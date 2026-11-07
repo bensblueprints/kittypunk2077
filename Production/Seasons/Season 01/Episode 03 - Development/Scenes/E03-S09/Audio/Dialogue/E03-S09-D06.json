@@ -1,0 +1,19 @@
+{
+  "id": "E03-S09-D06",
+  "role_id": "general_fetch",
+  "voice_id": "pNInz6obpgDQGcFmaJgB",
+  "text": "Then use your eyes. I'm not asking the camera to arrest anyone.",
+  "status": "review_take",
+  "scene": "E03-S09",
+  "duration_sec": 3.482993,
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.5,
+    "similarity_boost": 0.75,
+    "style": 0.15,
+    "use_speaker_boost": true
+  },
+  "request_id": "xhYtZNF3i8FvSbXUagqs",
+  "provider_character_cost": "14",
+  "sha256": "737d4a5af054ceb456d4506f479dcb357519064943b71938933e65919c95bd9b"
+}

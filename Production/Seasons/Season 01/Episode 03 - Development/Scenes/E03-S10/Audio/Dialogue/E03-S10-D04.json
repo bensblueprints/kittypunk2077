@@ -1,0 +1,19 @@
+{
+  "id": "E03-S10-D04",
+  "role_id": "ghost",
+  "voice_id": "7fBwqIVI6wI1B4MuKqQi",
+  "text": "Then you wait until they're stationary and the zone is clear. Onyx confirms the people.",
+  "status": "review_take",
+  "scene": "E03-S10",
+  "duration_sec": 5.20127,
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.5,
+    "similarity_boost": 0.75,
+    "style": 0.15,
+    "use_speaker_boost": true
+  },
+  "request_id": "Y8fKXhYJe8JW2An4lQSY",
+  "provider_character_cost": "19",
+  "sha256": "06f67fc8854e0c33ff5311c83f2d1d6b5481cd6ae48b9243bfd2367a74c430bb"
+}

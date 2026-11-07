@@ -1,0 +1,19 @@
+{
+  "id": "E03-S23-D02",
+  "role_id": "byte",
+  "voice_id": "wo6udizrrtpIxWGp2qJk",
+  "text": "The review deadline is still on the board. I'm not letting a good evening hide a bad calendar.",
+  "status": "review_take",
+  "scene": "E03-S23",
+  "duration_sec": 4.87619,
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.5,
+    "similarity_boost": 0.75,
+    "style": 0.15,
+    "use_speaker_boost": true
+  },
+  "request_id": "1JCOIa0KFjKTcQCVrl3U",
+  "provider_character_cost": "21",
+  "sha256": "04fc009ef5579b1695f5c5732be3823fc949c6b6ce821ac66660e44470ac1d59"
+}

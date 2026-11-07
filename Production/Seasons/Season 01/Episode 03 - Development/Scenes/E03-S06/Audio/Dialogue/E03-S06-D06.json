@@ -1,0 +1,19 @@
+{
+  "id": "E03-S06-D06",
+  "role_id": "neon",
+  "voice_id": "4e32WqNVWRquDa1OcRYZ",
+  "text": "We haven't solved tomorrow yet. But we can give them water and a bed now.",
+  "status": "review_take",
+  "scene": "E03-S06",
+  "duration_sec": 4.179592,
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.5,
+    "similarity_boost": 0.75,
+    "style": 0.15,
+    "use_speaker_boost": true
+  },
+  "request_id": "lYmSUV8eHpLmcrQFeWCf",
+  "provider_character_cost": "16",
+  "sha256": "32cb936c0ea7578f32c5e278c5e0b6da44adf060641a392185ab0d8b1c6ec0f3"
+}

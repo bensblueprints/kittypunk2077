@@ -1,0 +1,19 @@
+{
+  "id": "E03-S10-D02",
+  "role_id": "ghost",
+  "voice_id": "7fBwqIVI6wI1B4MuKqQi",
+  "text": "Is it connected to the parked machines, or just the lights above the cabinet?",
+  "status": "review_take",
+  "scene": "E03-S10",
+  "duration_sec": 4.411791,
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.5,
+    "similarity_boost": 0.75,
+    "style": 0.15,
+    "use_speaker_boost": true
+  },
+  "request_id": "rieq1LN7kAyqnyEr8QeE",
+  "provider_character_cost": "17",
+  "sha256": "b709e266f7a40f6cda648faa1d099b4293e953f736e1fa98d497d6264208c7a7"
+}

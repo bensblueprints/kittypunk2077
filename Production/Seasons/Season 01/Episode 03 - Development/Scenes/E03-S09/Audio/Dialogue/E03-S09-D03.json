@@ -1,0 +1,19 @@
+{
+  "id": "E03-S09-D03",
+  "role_id": "dog_guard_a",
+  "voice_id": "TxWZERZ5Hc6h9dGxVmXa",
+  "text": "Should we close the service gate now? They haven't crossed the boundary yet.",
+  "status": "review_take",
+  "scene": "E03-S09",
+  "duration_sec": 4.92263,
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.5,
+    "similarity_boost": 0.75,
+    "style": 0.15,
+    "use_speaker_boost": true
+  },
+  "request_id": "DXWhN1AgzzvNuNd69ebT",
+  "provider_character_cost": "17",
+  "sha256": "74247e33e215853c6d74f37ba17852195b458ed1c20e0df5e638414b2884ea3a"
+}

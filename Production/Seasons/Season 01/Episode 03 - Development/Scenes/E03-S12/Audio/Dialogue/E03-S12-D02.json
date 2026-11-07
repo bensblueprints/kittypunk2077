@@ -1,0 +1,19 @@
+{
+  "id": "E03-S12-D02",
+  "role_id": "ghost",
+  "voice_id": "7fBwqIVI6wI1B4MuKqQi",
+  "text": "I can keep the machine monitor connected or retrieve the archive. Not both through this link.",
+  "status": "review_take",
+  "scene": "E03-S12",
+  "duration_sec": 6.083628,
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.5,
+    "similarity_boost": 0.75,
+    "style": 0.15,
+    "use_speaker_boost": true
+  },
+  "request_id": "YghrPyxr9R7dvmfN1Cv9",
+  "provider_character_cost": "20",
+  "sha256": "d9234f4790517eb10b70bcb730b9d79ab2b177a73207d4913dcb8e31684d2b2f"
+}

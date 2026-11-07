@@ -1,0 +1,19 @@
+{
+  "id": "E03-S24-D06",
+  "role_id": "general_fetch",
+  "voice_id": "pNInz6obpgDQGcFmaJgB",
+  "text": "When they do, I want the route recorded from entry to exit. Not another photograph of an empty door.",
+  "status": "review_take",
+  "scene": "E03-S24",
+  "duration_sec": 6.315828,
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.5,
+    "similarity_boost": 0.75,
+    "style": 0.15,
+    "use_speaker_boost": true
+  },
+  "request_id": "II1vXfEXHWwZAsVGT8bo",
+  "provider_character_cost": "22",
+  "sha256": "f690806994abe9ff8b3ff4524c4ff8f8512ee7e8d4b739ce8d99da67de0a76d1"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "E03-S06-D01",
+  "role_id": "onyx",
+  "voice_id": "uq0HIbNZKn11Hs5ifEdd",
+  "text": "Two exits. Both stay clear. We don't stack anything in front of either door.",
+  "status": "review_take",
+  "scene": "E03-S06",
+  "duration_sec": 4.829751,
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.5,
+    "similarity_boost": 0.75,
+    "style": 0.15,
+    "use_speaker_boost": true
+  },
+  "request_id": "gRkaK5R82I8arai8GJNO",
+  "provider_character_cost": "17",
+  "sha256": "8c8da47c4e5dae93d2a746702a6528328df22d994d8fe624841ec176db338cce"
+}

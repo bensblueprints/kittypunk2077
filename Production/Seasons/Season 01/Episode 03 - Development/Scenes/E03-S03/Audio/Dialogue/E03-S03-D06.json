@@ -1,0 +1,19 @@
+{
+  "id": "E03-S03-D06",
+  "role_id": "onyx",
+  "voice_id": "uq0HIbNZKn11Hs5ifEdd",
+  "text": "Might isn't a roof. We can challenge the order and open the spare room.",
+  "status": "review_take",
+  "scene": "E03-S03",
+  "duration_sec": 4.133152,
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.5,
+    "similarity_boost": 0.75,
+    "style": 0.15,
+    "use_speaker_boost": true
+  },
+  "request_id": "Yp1bpNpbkZLTkrDrZgin",
+  "provider_character_cost": "16",
+  "sha256": "f028bec92b21682b90e94062819882a8c615a4675db6972b2e638688ff2d2d38"
+}

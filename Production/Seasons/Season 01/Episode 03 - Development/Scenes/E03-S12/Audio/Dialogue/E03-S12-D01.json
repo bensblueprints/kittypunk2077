@@ -1,0 +1,19 @@
+{
+  "id": "E03-S12-D01",
+  "role_id": "byte",
+  "voice_id": "wo6udizrrtpIxWGp2qJk",
+  "text": "The appeal attachment window closes when clearance starts. We need the log before that happens.",
+  "status": "review_take",
+  "scene": "E03-S12",
+  "duration_sec": 5.433469,
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.5,
+    "similarity_boost": 0.75,
+    "style": 0.15,
+    "use_speaker_boost": true
+  },
+  "request_id": "pTCdxD3hInSosPLFqsjr",
+  "provider_character_cost": "21",
+  "sha256": "1203d381c7c08396dbe8c36cfa9523bf3a4ebbc1b845aebc5ad757840e3cfeef"
+}

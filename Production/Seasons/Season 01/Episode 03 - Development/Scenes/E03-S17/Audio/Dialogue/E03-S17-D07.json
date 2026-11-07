@@ -1,0 +1,19 @@
+{
+  "id": "E03-S17-D07",
+  "role_id": "ghost",
+  "voice_id": "7fBwqIVI6wI1B4MuKqQi",
+  "text": "We have another junction behind us. Neon, I need the older maintenance route, not the public map.",
+  "status": "review_take",
+  "scene": "E03-S17",
+  "duration_sec": 5.944308,
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.5,
+    "similarity_boost": 0.75,
+    "style": 0.15,
+    "use_speaker_boost": true
+  },
+  "request_id": "qdYqvtPGdbwoWrGDQfXB",
+  "provider_character_cost": "21",
+  "sha256": "79797f4c8faff7810333ebb3f376bb09d85ec6818a0013376440017e6ae69e9c"
+}

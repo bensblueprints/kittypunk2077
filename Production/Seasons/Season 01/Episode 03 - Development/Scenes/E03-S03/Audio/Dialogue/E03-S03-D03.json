@@ -1,0 +1,19 @@
+{
+  "id": "E03-S03-D03",
+  "role_id": "ghost",
+  "voice_id": "7fBwqIVI6wI1B4MuKqQi",
+  "text": "Different order, different case. They kept the two pieces of paper carefully apart.",
+  "status": "review_take",
+  "scene": "E03-S03",
+  "duration_sec": 5.29415,
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.5,
+    "similarity_boost": 0.75,
+    "style": 0.15,
+    "use_speaker_boost": true
+  },
+  "request_id": "Hy4TnsvEukeAsbua4rly",
+  "provider_character_cost": "18",
+  "sha256": "a59351fc377eff23752b37ff83333e4ad539700e61ecc90ebf4af8914228f1a6"
+}

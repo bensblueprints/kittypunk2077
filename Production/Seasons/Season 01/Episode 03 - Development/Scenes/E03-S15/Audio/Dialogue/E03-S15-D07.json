@@ -1,0 +1,19 @@
+{
+  "id": "E03-S15-D07",
+  "role_id": "onyx",
+  "voice_id": "uq0HIbNZKn11Hs5ifEdd",
+  "text": "You don't need a lecture. You need your picture and an open door. Come on.",
+  "status": "review_take",
+  "scene": "E03-S15",
+  "duration_sec": 5.06195,
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.5,
+    "similarity_boost": 0.75,
+    "style": 0.15,
+    "use_speaker_boost": true
+  },
+  "request_id": "gDUQlA0Gi0LXpOnOky46",
+  "provider_character_cost": "16",
+  "sha256": "0932bf14981f05d0673d9736838e8e28e9e3218c9fa3be1215f8b3c14c524d67"
+}

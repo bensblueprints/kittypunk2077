@@ -1,0 +1,19 @@
+{
+  "id": "E03-S07-D03",
+  "role_id": "onyx",
+  "voice_id": "uq0HIbNZKn11Hs5ifEdd",
+  "text": "I'll clear the shelters. Nobody reports the area empty until I've checked every doorway.",
+  "status": "review_take",
+  "scene": "E03-S07",
+  "duration_sec": 4.87619,
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.5,
+    "similarity_boost": 0.75,
+    "style": 0.15,
+    "use_speaker_boost": true
+  },
+  "request_id": "WamhoRWNO4qDsLDGzOZ7",
+  "provider_character_cost": "19",
+  "sha256": "347212588273399772fffa7d10d881d2c6f4a2f086554d9d0b1ed461dc35fe52"
+}

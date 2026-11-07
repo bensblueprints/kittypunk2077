@@ -1,0 +1,19 @@
+{
+  "id": "E03-S08-D02",
+  "role_id": "trixie",
+  "voice_id": "dmWfLQZJq7wNPv9WmtiM",
+  "text": "The whole doorway is visible. No notice. May we keep a copy for the appeal?",
+  "status": "review_take",
+  "scene": "E03-S08",
+  "duration_sec": 4.96907,
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.35,
+    "similarity_boost": 0.8,
+    "style": 0.55,
+    "use_speaker_boost": true
+  },
+  "request_id": "NHpEoeZ2r8c8XOxsDgxN",
+  "provider_character_cost": "16",
+  "sha256": "cd8dcb38abb26f6b12b297e222ccb2fe08e34687bfd284c9cc2cc1574e3037c9"
+}

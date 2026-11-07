@@ -1,0 +1,19 @@
+{
+  "id": "E03-S16-D07",
+  "role_id": "ghost",
+  "voice_id": "7fBwqIVI6wI1B4MuKqQi",
+  "text": "One moment. The exit indicator changed. Fetch has put someone at the service gate.",
+  "status": "review_take",
+  "scene": "E03-S16",
+  "duration_sec": 5.665669,
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.5,
+    "similarity_boost": 0.75,
+    "style": 0.15,
+    "use_speaker_boost": true
+  },
+  "request_id": "rjYRCTwpLn0JGk183YXl",
+  "provider_character_cost": "18",
+  "sha256": "37a14979a11558be9b3a1c1d1ae0b1bf7240f5432c2de5d46e43e950bf04a268"
+}

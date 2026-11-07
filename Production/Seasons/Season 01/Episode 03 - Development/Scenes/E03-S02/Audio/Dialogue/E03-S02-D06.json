@@ -1,0 +1,19 @@
+{
+  "id": "E03-S02-D06",
+  "role_id": "civilian_2",
+  "voice_id": "b5RPB35vTODb3BEmR3Fc",
+  "text": "They call these shelters rubbish on the notice. We aren't throwing anything away.",
+  "status": "review_take",
+  "scene": "E03-S02",
+  "duration_sec": 4.643991,
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.5,
+    "similarity_boost": 0.75,
+    "style": 0.15,
+    "use_speaker_boost": true
+  },
+  "request_id": "X4EdQM4C3I82FmQpjtnk",
+  "provider_character_cost": "18",
+  "sha256": "3fdd49061534013af49efb244c67472e1e2b0843ffc91401e2c6a1b7d54cc538"
+}

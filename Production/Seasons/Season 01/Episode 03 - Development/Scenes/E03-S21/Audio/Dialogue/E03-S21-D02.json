@@ -1,0 +1,19 @@
+{
+  "id": "E03-S21-D02",
+  "role_id": "general_fetch",
+  "voice_id": "pNInz6obpgDQGcFmaJgB",
+  "text": "I can read. I asked whether the issuing office understands the cost of holding this equipment.",
+  "status": "review_take",
+  "scene": "E03-S21",
+  "duration_sec": 5.712109,
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.5,
+    "similarity_boost": 0.75,
+    "style": 0.15,
+    "use_speaker_boost": true
+  },
+  "request_id": "rmFwEoC2tWTnAYUSq3aI",
+  "provider_character_cost": "21",
+  "sha256": "c800858400c72726d12b67117bbfc791fa3ff8a4a65e10926ed0029ba60672c2"
+}

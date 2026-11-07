@@ -1,0 +1,19 @@
+{
+  "id": "E03-S03-D01",
+  "role_id": "trixie",
+  "voice_id": "dmWfLQZJq7wNPv9WmtiM",
+  "text": "We just got thirty days on the warehouse. How can they clear the street today?",
+  "status": "review_take",
+  "scene": "E03-S03",
+  "duration_sec": 3.575873,
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.35,
+    "similarity_boost": 0.8,
+    "style": 0.55,
+    "use_speaker_boost": true
+  },
+  "request_id": "ML2JXqxQpDVrrfpPaK2R",
+  "provider_character_cost": "17",
+  "sha256": "5f477ade447df48e3e29e0d326516a18223155f61d01006bc36f625fcc40039a"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "E03-S04-D02",
+  "role_id": "byte",
+  "voice_id": "wo6udizrrtpIxWGp2qJk",
+  "text": "And the route approval is older than the salmon shortage. They planned this before we interfered.",
+  "status": "review_take",
+  "scene": "E03-S04",
+  "duration_sec": 5.06195,
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.5,
+    "similarity_boost": 0.75,
+    "style": 0.15,
+    "use_speaker_boost": true
+  },
+  "request_id": "yhDTvze722XTWkArZpQp",
+  "provider_character_cost": "21",
+  "sha256": "f028e3343c2236abe79c639d4931b4529b9b14e7d9ad094612ca720e823ffaa9"
+}

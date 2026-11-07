@@ -1,0 +1,19 @@
+{
+  "id": "E03-S12-D04",
+  "role_id": "ghost",
+  "voice_id": "7fBwqIVI6wI1B4MuKqQi",
+  "text": "He can watch the physical indicator. But I can't be his second set of eyes.",
+  "status": "review_take",
+  "scene": "E03-S12",
+  "duration_sec": 4.458231,
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.5,
+    "similarity_boost": 0.75,
+    "style": 0.15,
+    "use_speaker_boost": true
+  },
+  "request_id": "OIu4fH9rsOsoEUOetoi7",
+  "provider_character_cost": "16",
+  "sha256": "8ee6d20d0f03b6511316dc67e1da6ed71478466923864cd7e56db944a06f7e7c"
+}

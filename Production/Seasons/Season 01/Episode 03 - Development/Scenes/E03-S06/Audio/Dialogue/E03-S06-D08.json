@@ -1,0 +1,19 @@
+{
+  "id": "E03-S06-D08",
+  "role_id": "civilian_1",
+  "voice_id": "DODLEQrClDo8wCz460ld",
+  "text": "By the wall, please. They sleep better when they can see the door.",
+  "status": "review_take",
+  "scene": "E03-S06",
+  "duration_sec": 3.761633,
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.5,
+    "similarity_boost": 0.75,
+    "style": 0.15,
+    "use_speaker_boost": true
+  },
+  "request_id": "ymG6reY5PryNOrqd4QYl",
+  "provider_character_cost": "15",
+  "sha256": "ac4160922c749bde470ec49de6d2f7eb9b563f56d1a6e8e7d169f83b0885b9e1"
+}

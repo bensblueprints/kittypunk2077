@@ -1,0 +1,19 @@
+{
+  "id": "E03-S08-D05",
+  "role_id": "trixie",
+  "voice_id": "dmWfLQZJq7wNPv9WmtiM",
+  "text": "And if you say no, we keep looking. Helping us isn't the price of a bed.",
+  "status": "review_take",
+  "scene": "E03-S08",
+  "duration_sec": 4.643991,
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.35,
+    "similarity_boost": 0.8,
+    "style": 0.55,
+    "use_speaker_boost": true
+  },
+  "request_id": "2i89i1t9sJ8sNDb31ppB",
+  "provider_character_cost": "16",
+  "sha256": "356924d3596d6fd561017b1165072634c28d2757853fbba45809b7faca303c19"
+}

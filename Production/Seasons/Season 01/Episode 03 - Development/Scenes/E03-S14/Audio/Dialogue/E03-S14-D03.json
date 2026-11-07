@@ -1,0 +1,19 @@
+{
+  "id": "E03-S14-D03",
+  "role_id": "neon",
+  "voice_id": "4e32WqNVWRquDa1OcRYZ",
+  "text": "Moving the maintenance handle now. Indicator off. Controls dark. Nothing is starting from this cabinet.",
+  "status": "review_take",
+  "scene": "E03-S14",
+  "duration_sec": 6.780227,
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.5,
+    "similarity_boost": 0.75,
+    "style": 0.15,
+    "use_speaker_boost": true
+  },
+  "request_id": "aTYtWH3Cxp9upYUJHS3f",
+  "provider_character_cost": "23",
+  "sha256": "8fb660a57bdf7c345d9eddb2f5af92ed5401be035e3a86c83cd61563b7f641b4"
+}

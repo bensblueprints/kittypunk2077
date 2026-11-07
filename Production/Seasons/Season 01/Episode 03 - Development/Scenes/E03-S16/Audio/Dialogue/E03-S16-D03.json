@@ -1,0 +1,19 @@
+{
+  "id": "E03-S16-D03",
+  "role_id": "ghost",
+  "voice_id": "7fBwqIVI6wI1B4MuKqQi",
+  "text": "Exactly. Keep the seal, the page number and the order number in the same recording.",
+  "status": "review_take",
+  "scene": "E03-S16",
+  "duration_sec": 4.96907,
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.5,
+    "similarity_boost": 0.75,
+    "style": 0.15,
+    "use_speaker_boost": true
+  },
+  "request_id": "3HsGYkNhtfmdanTGJe3L",
+  "provider_character_cost": "18",
+  "sha256": "02c8f038488cb76861c102a384f4e1204a7ba091f5c6dcf499a6a427c941e18d"
+}

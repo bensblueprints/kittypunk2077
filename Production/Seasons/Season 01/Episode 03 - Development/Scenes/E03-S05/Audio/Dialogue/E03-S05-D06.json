@@ -1,0 +1,19 @@
+{
+  "id": "E03-S05-D06",
+  "role_id": "dog_guard_a",
+  "voice_id": "TxWZERZ5Hc6h9dGxVmXa",
+  "text": "That number goes to a recorded message. I already tried it this morning.",
+  "status": "review_take",
+  "scene": "E03-S05",
+  "duration_sec": 4.226032,
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.5,
+    "similarity_boost": 0.75,
+    "style": 0.15,
+    "use_speaker_boost": true
+  },
+  "request_id": "c0XKnxPwnLytwZe4oncI",
+  "provider_character_cost": "16",
+  "sha256": "743966609c2c5562f09da1ffc386215d951dae4a05bb3828b13248f6f0e5ab8a"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "E03-S05-D08",
+  "role_id": "general_fetch",
+  "voice_id": "pNInz6obpgDQGcFmaJgB",
+  "text": "Those kittens won't ignore a public operation. This time, we let them come to us.",
+  "status": "review_take",
+  "scene": "E03-S05",
+  "duration_sec": 4.086712,
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.5,
+    "similarity_boost": 0.75,
+    "style": 0.15,
+    "use_speaker_boost": true
+  },
+  "request_id": "QrrZ0vPSef4Ni0tAkgn8",
+  "provider_character_cost": "18",
+  "sha256": "ed9e4d71134c7ca7288f369683e73d2b9d76471187bae190621079825a3abef7"
+}

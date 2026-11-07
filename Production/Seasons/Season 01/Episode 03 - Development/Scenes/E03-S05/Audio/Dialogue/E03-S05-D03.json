@@ -1,0 +1,19 @@
+{
+  "id": "E03-S05-D03",
+  "role_id": "general_fetch",
+  "voice_id": "pNInz6obpgDQGcFmaJgB",
+  "text": "Relocation is another office's responsibility. Our responsibility is maintaining the clearance boundary.",
+  "status": "review_take",
+  "scene": "E03-S05",
+  "duration_sec": 6.548027,
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.5,
+    "similarity_boost": 0.75,
+    "style": 0.15,
+    "use_speaker_boost": true
+  },
+  "request_id": "qDlJOsF7VAmlH4CVyChF",
+  "provider_character_cost": "23",
+  "sha256": "2163d448504e9e9524a49ab2f04128f646f352460c90a818399f3c26e41c775e"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "E03-S09-D01",
+  "role_id": "dog_guard_a",
+  "voice_id": "TxWZERZ5Hc6h9dGxVmXa",
+  "text": "The crew split up. Two near the shelters, two heading toward the utility entrance.",
+  "status": "review_take",
+  "scene": "E03-S09",
+  "duration_sec": 4.829751,
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.5,
+    "similarity_boost": 0.75,
+    "style": 0.15,
+    "use_speaker_boost": true
+  },
+  "request_id": "UZWV0Vc3d6nl9g5R4iVa",
+  "provider_character_cost": "18",
+  "sha256": "23c4b5e63d03d4f91956f3e81e92c1800d726d2e28bb2a6f191943db0146e7a5"
+}

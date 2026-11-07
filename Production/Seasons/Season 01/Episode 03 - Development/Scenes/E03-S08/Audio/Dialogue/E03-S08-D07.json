@@ -1,0 +1,19 @@
+{
+  "id": "E03-S08-D07",
+  "role_id": "byte",
+  "voice_id": "wo6udizrrtpIxWGp2qJk",
+  "text": "Original file stays untouched. I'll make a separate copy with the private details covered.",
+  "status": "review_take",
+  "scene": "E03-S08",
+  "duration_sec": 4.829751,
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.5,
+    "similarity_boost": 0.75,
+    "style": 0.15,
+    "use_speaker_boost": true
+  },
+  "request_id": "5D2o9d7UA3FkIFymRob6",
+  "provider_character_cost": "20",
+  "sha256": "485ee08d5f53c266a1ea56b1b807a7aef878d093f560627e440255bb754497ed"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "E03-S08-D03",
+  "role_id": "civilian_2",
+  "voice_id": "b5RPB35vTODb3BEmR3Fc",
+  "text": "Will my name be on the television? I don't want them coming after my family.",
+  "status": "review_take",
+  "scene": "E03-S08",
+  "duration_sec": 4.179592,
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.5,
+    "similarity_boost": 0.75,
+    "style": 0.15,
+    "use_speaker_boost": true
+  },
+  "request_id": "sEKhyNo12xNLvA5dAB1l",
+  "provider_character_cost": "17",
+  "sha256": "fa37f896bc9f3b3131bf93657fda72820136982342f8e014f2048d1b3db53645"
+}

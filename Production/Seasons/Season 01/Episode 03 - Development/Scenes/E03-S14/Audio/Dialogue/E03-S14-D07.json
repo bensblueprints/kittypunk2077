@@ -1,0 +1,19 @@
+{
+  "id": "E03-S14-D07",
+  "role_id": "neon",
+  "voice_id": "4e32WqNVWRquDa1OcRYZ",
+  "text": "Don't rush the check because I bought us a minute. That's what the minute is for.",
+  "status": "review_take",
+  "scene": "E03-S14",
+  "duration_sec": 3.715193,
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.5,
+    "similarity_boost": 0.75,
+    "style": 0.15,
+    "use_speaker_boost": true
+  },
+  "request_id": "8kv1OGOLDI9d51HmqLQ7",
+  "provider_character_cost": "18",
+  "sha256": "90b8e4c20b48adee5f379691b7a1c66fecc229aae8aed99928d78ae6e661ae12"
+}

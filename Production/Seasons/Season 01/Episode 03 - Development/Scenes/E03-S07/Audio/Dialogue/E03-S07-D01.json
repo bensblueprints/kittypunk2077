@@ -1,0 +1,19 @@
+{
+  "id": "E03-S07-D01",
+  "role_id": "trixie",
+  "voice_id": "dmWfLQZJq7wNPv9WmtiM",
+  "text": "One job each. Ghost gets the archive route. Byte keeps the appeal alive.",
+  "status": "review_take",
+  "scene": "E03-S07",
+  "duration_sec": 4.086712,
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.35,
+    "similarity_boost": 0.8,
+    "style": 0.55,
+    "use_speaker_boost": true
+  },
+  "request_id": "XyQ99MGXIRG6A7yVGG73",
+  "provider_character_cost": "16",
+  "sha256": "4252a7b85f283bd07024da70e183c00fce6ca77dc61552bfe68be1e577246360"
+}

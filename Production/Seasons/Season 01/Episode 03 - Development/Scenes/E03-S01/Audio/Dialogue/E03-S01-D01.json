@@ -1,0 +1,19 @@
+{
+  "id": "E03-S01-D01",
+  "role_id": "trixie",
+  "voice_id": "dmWfLQZJq7wNPv9WmtiM",
+  "text": "That's our street. Why is that thing putting notices over everyone's doors?",
+  "status": "review_take",
+  "scene": "E03-S01",
+  "duration_sec": 4.272472,
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.35,
+    "similarity_boost": 0.8,
+    "style": 0.55,
+    "use_speaker_boost": true
+  },
+  "request_id": "K1gIIS5J0JnN8VguWb42",
+  "provider_character_cost": "16",
+  "sha256": "d7f4a58a3558a0f3db5eb7e6aeb97ff9b571d884a964365797cac0b42a5f5da3"
+}

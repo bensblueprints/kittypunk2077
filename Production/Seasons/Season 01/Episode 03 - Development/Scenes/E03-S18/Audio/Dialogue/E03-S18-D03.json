@@ -1,0 +1,19 @@
+{
+  "id": "E03-S18-D03",
+  "role_id": "ghost",
+  "voice_id": "7fBwqIVI6wI1B4MuKqQi",
+  "text": "Old junction plate here. The numbering doesn't match the Goodboy maintenance labels above it.",
+  "status": "review_take",
+  "scene": "E03-S18",
+  "duration_sec": 5.10839,
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.5,
+    "similarity_boost": 0.75,
+    "style": 0.15,
+    "use_speaker_boost": true
+  },
+  "request_id": "ZhjG5O5hNL7y0iovWcCG",
+  "provider_character_cost": "20",
+  "sha256": "a29d2d913ada1f598bfc44e90318217accf05dc1bbde7548c824b6fd34575c24"
+}

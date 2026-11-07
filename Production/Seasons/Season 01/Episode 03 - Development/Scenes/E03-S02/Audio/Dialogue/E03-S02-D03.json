@@ -1,0 +1,19 @@
+{
+  "id": "E03-S02-D03",
+  "role_id": "onyx",
+  "voice_id": "uq0HIbNZKn11Hs5ifEdd",
+  "text": "What's inside? Anything we should carry separately before we move it?",
+  "status": "review_take",
+  "scene": "E03-S02",
+  "duration_sec": 3.715193,
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.5,
+    "similarity_boost": 0.75,
+    "style": 0.15,
+    "use_speaker_boost": true
+  },
+  "request_id": "AHtca9sIKY18VfzjwxkH",
+  "provider_character_cost": "15",
+  "sha256": "c55d961af73b7bc16c9c6998529a00c5d1be9f25ae07ee5d15a44eea38c9d401"
+}

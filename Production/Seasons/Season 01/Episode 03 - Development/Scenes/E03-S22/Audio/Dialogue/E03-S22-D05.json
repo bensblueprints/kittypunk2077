@@ -1,0 +1,19 @@
+{
+  "id": "E03-S22-D05",
+  "role_id": "civilian_1",
+  "voice_id": "DODLEQrClDo8wCz460ld",
+  "text": "There's a kettle here. If it works, I can make something for everyone waiting outside.",
+  "status": "review_take",
+  "scene": "E03-S22",
+  "duration_sec": 5.433469,
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.5,
+    "similarity_boost": 0.75,
+    "style": 0.15,
+    "use_speaker_boost": true
+  },
+  "request_id": "CU21L1IzDAmVeoBPQ9dr",
+  "provider_character_cost": "19",
+  "sha256": "8385d083c7451acab3f92954578d3e16f12294d0b9b62c36a959f17fe8019a3b"
+}

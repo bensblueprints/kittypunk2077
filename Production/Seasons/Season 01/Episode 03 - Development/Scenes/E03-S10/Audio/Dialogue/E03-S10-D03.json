@@ -1,0 +1,19 @@
+{
+  "id": "E03-S10-D03",
+  "role_id": "neon",
+  "voice_id": "4e32WqNVWRquDa1OcRYZ",
+  "text": "Parked machines. But it won't stop something already rolling. This isn't a magic brake.",
+  "status": "review_take",
+  "scene": "E03-S10",
+  "duration_sec": 4.643991,
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.5,
+    "similarity_boost": 0.75,
+    "style": 0.15,
+    "use_speaker_boost": true
+  },
+  "request_id": "ISwBYYxvF5bZx4EwDWMM",
+  "provider_character_cost": "19",
+  "sha256": "070eb23a475be622b86d55d6a4a0573b9b6a4d642a03fda0fc1fb5cdcdd8c174"
+}

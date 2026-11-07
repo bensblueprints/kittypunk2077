@@ -6,7 +6,7 @@
     2500,
     3000
   ],
-  "status": "Complete first dialogue draft; not yet recorded or submitted",
+  "status": "Recorded first draft; 191 files verified; listening and shot-level review pending",
   "continuity": [
     "Warehouse 30-day reprieve remains temporary",
     "No BARK surveillance rollout before S1 finale",
@@ -41,63 +41,64 @@
           "role_id": "trixie",
           "voice_id": "dmWfLQZJq7wNPv9WmtiM",
           "text": "That's our street. Why is that thing putting notices over everyone's doors?",
-          "status": "new dialogue draft; not recorded"
+          "status": "recorded_review_pending"
         },
         {
           "id": "E03-S01-D02",
           "role_id": "neon",
           "voice_id": "4e32WqNVWRquDa1OcRYZ",
           "text": "Maybe somebody finally complained about the color. The peeling brown was getting ambitious.",
-          "status": "new dialogue draft; not recorded"
+          "status": "recorded_review_pending"
         },
         {
           "id": "E03-S01-D03",
           "role_id": "onyx",
           "voice_id": "uq0HIbNZKn11Hs5ifEdd",
           "text": "Don't pull it down. Look at the time printed underneath the seal.",
-          "status": "new dialogue draft; not recorded"
+          "status": "recorded_review_pending"
         },
         {
           "id": "E03-S01-D04",
           "role_id": "trixie",
           "voice_id": "dmWfLQZJq7wNPv9WmtiM",
           "text": "Clearance begins today? They can't tell people to leave and start before lunch.",
-          "status": "new dialogue draft; not recorded"
+          "status": "recorded_review_pending"
         },
         {
           "id": "E03-S01-D05",
           "role_id": "neon",
           "voice_id": "4e32WqNVWRquDa1OcRYZ",
           "text": "Apparently they can print it. The printer doesn't seem particularly troubled by anything.",
-          "status": "new dialogue draft; not recorded"
+          "status": "recorded_review_pending"
         },
         {
           "id": "E03-S01-D06",
           "role_id": "onyx",
           "voice_id": "uq0HIbNZKn11Hs5ifEdd",
           "text": "Photograph it where it landed. Then we go door to door and find out who's inside.",
-          "status": "new dialogue draft; not recorded"
+          "status": "recorded_review_pending"
         },
         {
           "id": "E03-S01-D07",
           "role_id": "trixie",
           "voice_id": "dmWfLQZJq7wNPv9WmtiM",
           "text": "Byte found a redevelopment appendix last night. I hoped we'd have longer to understand it.",
-          "status": "new dialogue draft; not recorded"
+          "status": "recorded_review_pending"
         },
         {
           "id": "E03-S01-D08",
           "role_id": "onyx",
           "voice_id": "uq0HIbNZKn11Hs5ifEdd",
           "text": "We can understand it while we knock. People first. Come on.",
-          "status": "new dialogue draft; not recorded"
+          "status": "recorded_review_pending"
         }
       ],
       "speaking_cast": [
         "trixie",
         "neon",
         "onyx"
-      ]
+      ],
+      "audio_status": "recorded_review_pending"
     },
     {
       "id": "E03-S02",
@@ -124,63 +125,64 @@
           "role_id": "neon",
           "voice_id": "4e32WqNVWRquDa1OcRYZ",
           "text": "I brought a trolley. It has the improved brick-based braking system. Very reliable.",
-          "status": "new dialogue draft; not recorded"
+          "status": "recorded_review_pending"
         },
         {
           "id": "E03-S02-D02",
           "role_id": "civilian_2",
           "voice_id": "b5RPB35vTODb3BEmR3Fc",
           "text": "You're not putting that box on it sideways. The lining falls out if you tip it.",
-          "status": "new dialogue draft; not recorded"
+          "status": "recorded_review_pending"
         },
         {
           "id": "E03-S02-D03",
           "role_id": "onyx",
           "voice_id": "uq0HIbNZKn11Hs5ifEdd",
           "text": "What's inside? Anything we should carry separately before we move it?",
-          "status": "new dialogue draft; not recorded"
+          "status": "recorded_review_pending"
         },
         {
           "id": "E03-S02-D04",
           "role_id": "civilian_2",
           "voice_id": "b5RPB35vTODb3BEmR3Fc",
           "text": "My blankets. My daughter's drawings. Most of what I own, since you're asking.",
-          "status": "new dialogue draft; not recorded"
+          "status": "recorded_review_pending"
         },
         {
           "id": "E03-S02-D05",
           "role_id": "neon",
           "voice_id": "4e32WqNVWRquDa1OcRYZ",
           "text": "Right. Upright it is. I can tie it down without crushing the sides.",
-          "status": "new dialogue draft; not recorded"
+          "status": "recorded_review_pending"
         },
         {
           "id": "E03-S02-D06",
           "role_id": "civilian_2",
           "voice_id": "b5RPB35vTODb3BEmR3Fc",
           "text": "They call these shelters rubbish on the notice. We aren't throwing anything away.",
-          "status": "new dialogue draft; not recorded"
+          "status": "recorded_review_pending"
         },
         {
           "id": "E03-S02-D07",
           "role_id": "onyx",
           "voice_id": "uq0HIbNZKn11Hs5ifEdd",
           "text": "Nobody said you were. I'm asking what you want to keep safe.",
-          "status": "new dialogue draft; not recorded"
+          "status": "recorded_review_pending"
         },
         {
           "id": "E03-S02-D08",
           "role_id": "civilian_2",
           "voice_id": "b5RPB35vTODb3BEmR3Fc",
           "text": "All of it. I know that sounds difficult. But this is my home.",
-          "status": "new dialogue draft; not recorded"
+          "status": "recorded_review_pending"
         }
       ],
       "speaking_cast": [
         "neon",
         "civilian_2",
         "onyx"
-      ]
+      ],
+      "audio_status": "recorded_review_pending"
     },
     {
       "id": "E03-S03",
@@ -209,56 +211,56 @@
           "role_id": "trixie",
           "voice_id": "dmWfLQZJq7wNPv9WmtiM",
           "text": "We just got thirty days on the warehouse. How can they clear the street today?",
-          "status": "new dialogue draft; not recorded"
+          "status": "recorded_review_pending"
         },
         {
           "id": "E03-S03-D02",
           "role_id": "byte",
           "voice_id": "wo6udizrrtpIxWGp2qJk",
           "text": "Because the decision names our lease. One building. It doesn't cover the neighbors.",
-          "status": "new dialogue draft; not recorded"
+          "status": "recorded_review_pending"
         },
         {
           "id": "E03-S03-D03",
           "role_id": "ghost",
           "voice_id": "7fBwqIVI6wI1B4MuKqQi",
           "text": "Different order, different case. They kept the two pieces of paper carefully apart.",
-          "status": "new dialogue draft; not recorded"
+          "status": "recorded_review_pending"
         },
         {
           "id": "E03-S03-D04",
           "role_id": "onyx",
           "voice_id": "uq0HIbNZKn11Hs5ifEdd",
           "text": "Then while you put them together, we need somewhere people can sleep.",
-          "status": "new dialogue draft; not recorded"
+          "status": "recorded_review_pending"
         },
         {
           "id": "E03-S03-D05",
           "role_id": "trixie",
           "voice_id": "dmWfLQZJq7wNPv9WmtiM",
           "text": "We might stop this before anyone has to move. The posting date is wrong.",
-          "status": "new dialogue draft; not recorded"
+          "status": "recorded_review_pending"
         },
         {
           "id": "E03-S03-D06",
           "role_id": "onyx",
           "voice_id": "uq0HIbNZKn11Hs5ifEdd",
           "text": "Might isn't a roof. We can challenge the order and open the spare room.",
-          "status": "new dialogue draft; not recorded"
+          "status": "recorded_review_pending"
         },
         {
           "id": "E03-S03-D07",
           "role_id": "byte",
           "voice_id": "wo6udizrrtpIxWGp2qJk",
           "text": "Both jobs need doing. I'll keep the appeal clock running while you check the annex.",
-          "status": "new dialogue draft; not recorded"
+          "status": "recorded_review_pending"
         },
         {
           "id": "E03-S03-D08",
           "role_id": "trixie",
           "voice_id": "dmWfLQZJq7wNPv9WmtiM",
           "text": "All right. Nobody promises permanent housing. We offer what we can actually provide.",
-          "status": "new dialogue draft; not recorded"
+          "status": "recorded_review_pending"
         }
       ],
       "speaking_cast": [
@@ -266,7 +268,8 @@
         "byte",
         "ghost",
         "onyx"
-      ]
+      ],
+      "audio_status": "recorded_review_pending"
     },
     {
       "id": "E03-S04",
@@ -293,63 +296,64 @@
           "role_id": "ghost",
           "voice_id": "7fBwqIVI6wI1B4MuKqQi",
           "text": "This says the notice was delivered weeks ago. The photograph shows bare brick yesterday.",
-          "status": "new dialogue draft; not recorded"
+          "status": "recorded_review_pending"
         },
         {
           "id": "E03-S04-D02",
           "role_id": "byte",
           "voice_id": "wo6udizrrtpIxWGp2qJk",
           "text": "And the route approval is older than the salmon shortage. They planned this before we interfered.",
-          "status": "new dialogue draft; not recorded"
+          "status": "recorded_review_pending"
         },
         {
           "id": "E03-S04-D03",
           "role_id": "trixie",
           "voice_id": "dmWfLQZJq7wNPv9WmtiM",
           "text": "So the frozen accounts were supposed to help push people out of the way.",
-          "status": "new dialogue draft; not recorded"
+          "status": "recorded_review_pending"
         },
         {
           "id": "E03-S04-D04",
           "role_id": "ghost",
           "voice_id": "7fBwqIVI6wI1B4MuKqQi",
           "text": "That's a possibility. Don't turn it into a fact before we have the instruction.",
-          "status": "new dialogue draft; not recorded"
+          "status": "recorded_review_pending"
         },
         {
           "id": "E03-S04-D05",
           "role_id": "byte",
           "voice_id": "wo6udizrrtpIxWGp2qJk",
           "text": "What we can prove is that the dates disagree. We need the original posting log.",
-          "status": "new dialogue draft; not recorded"
+          "status": "recorded_review_pending"
         },
         {
           "id": "E03-S04-D06",
           "role_id": "trixie",
           "voice_id": "dmWfLQZJq7wNPv9WmtiM",
           "text": "Where does that live? Please say somewhere with a sensible front door.",
-          "status": "new dialogue draft; not recorded"
+          "status": "recorded_review_pending"
         },
         {
           "id": "E03-S04-D07",
           "role_id": "ghost",
           "voice_id": "7fBwqIVI6wI1B4MuKqQi",
           "text": "Utility records. Public appeal attachments can include it, but the original seal stays there.",
-          "status": "new dialogue draft; not recorded"
+          "status": "recorded_review_pending"
         },
         {
           "id": "E03-S04-D08",
           "role_id": "byte",
           "voice_id": "wo6udizrrtpIxWGp2qJk",
           "text": "Then get both. A dated copy and the record showing where it came from.",
-          "status": "new dialogue draft; not recorded"
+          "status": "recorded_review_pending"
         }
       ],
       "speaking_cast": [
         "ghost",
         "byte",
         "trixie"
-      ]
+      ],
+      "audio_status": "recorded_review_pending"
     },
     {
       "id": "E03-S05",
@@ -374,62 +378,63 @@
           "role_id": "general_fetch",
           "voice_id": "pNInz6obpgDQGcFmaJgB",
           "text": "Keep the machines where they can see them. Nobody clears a doorway without my instruction.",
-          "status": "new dialogue draft; not recorded"
+          "status": "recorded_review_pending"
         },
         {
           "id": "E03-S05-D02",
           "role_id": "dog_guard_a",
           "voice_id": "TxWZERZ5Hc6h9dGxVmXa",
           "text": "There are families underneath the station. Where are they supposed to go when we start?",
-          "status": "new dialogue draft; not recorded"
+          "status": "recorded_review_pending"
         },
         {
           "id": "E03-S05-D03",
           "role_id": "general_fetch",
           "voice_id": "pNInz6obpgDQGcFmaJgB",
           "text": "Relocation is another office's responsibility. Our responsibility is maintaining the clearance boundary.",
-          "status": "new dialogue draft; not recorded"
+          "status": "recorded_review_pending"
         },
         {
           "id": "E03-S05-D04",
           "role_id": "dog_guard_a",
           "voice_id": "TxWZERZ5Hc6h9dGxVmXa",
           "text": "They keep asking me. I need something better than the name of another office.",
-          "status": "new dialogue draft; not recorded"
+          "status": "recorded_review_pending"
         },
         {
           "id": "E03-S05-D05",
           "role_id": "general_fetch",
           "voice_id": "pNInz6obpgDQGcFmaJgB",
           "text": "Give them the number on the notice. Then keep the pedestrian lane open.",
-          "status": "new dialogue draft; not recorded"
+          "status": "recorded_review_pending"
         },
         {
           "id": "E03-S05-D06",
           "role_id": "dog_guard_a",
           "voice_id": "TxWZERZ5Hc6h9dGxVmXa",
           "text": "That number goes to a recorded message. I already tried it this morning.",
-          "status": "new dialogue draft; not recorded"
+          "status": "recorded_review_pending"
         },
         {
           "id": "E03-S05-D07",
           "role_id": "general_fetch",
           "voice_id": "pNInz6obpgDQGcFmaJgB",
           "text": "Then record that you tried. And watch the utility hatch beside the gate.",
-          "status": "new dialogue draft; not recorded"
+          "status": "recorded_review_pending"
         },
         {
           "id": "E03-S05-D08",
           "role_id": "general_fetch",
           "voice_id": "pNInz6obpgDQGcFmaJgB",
           "text": "Those kittens won't ignore a public operation. This time, we let them come to us.",
-          "status": "new dialogue draft; not recorded"
+          "status": "recorded_review_pending"
         }
       ],
       "speaking_cast": [
         "general_fetch",
         "dog_guard_a"
-      ]
+      ],
+      "audio_status": "recorded_review_pending"
     },
     {
       "id": "E03-S06",
@@ -456,63 +461,64 @@
           "role_id": "onyx",
           "voice_id": "uq0HIbNZKn11Hs5ifEdd",
           "text": "Two exits. Both stay clear. We don't stack anything in front of either door.",
-          "status": "new dialogue draft; not recorded"
+          "status": "recorded_review_pending"
         },
         {
           "id": "E03-S06-D02",
           "role_id": "neon",
           "voice_id": "4e32WqNVWRquDa1OcRYZ",
           "text": "The power works, but I'm keeping the heaters off until I've checked the sockets.",
-          "status": "new dialogue draft; not recorded"
+          "status": "recorded_review_pending"
         },
         {
           "id": "E03-S06-D03",
           "role_id": "civilian_1",
           "voice_id": "DODLEQrClDo8wCz460ld",
           "text": "Are we allowed to stay here? I don't want to get your building closed too.",
-          "status": "new dialogue draft; not recorded"
+          "status": "recorded_review_pending"
         },
         {
           "id": "E03-S06-D04",
           "role_id": "onyx",
           "voice_id": "uq0HIbNZKn11Hs5ifEdd",
           "text": "We've got a temporary lease reprieve. This room is ours to open for tonight.",
-          "status": "new dialogue draft; not recorded"
+          "status": "recorded_review_pending"
         },
         {
           "id": "E03-S06-D05",
           "role_id": "civilian_1",
           "voice_id": "DODLEQrClDo8wCz460ld",
           "text": "Tonight. And after that? My little ones are going to ask me the same thing.",
-          "status": "new dialogue draft; not recorded"
+          "status": "recorded_review_pending"
         },
         {
           "id": "E03-S06-D06",
           "role_id": "neon",
           "voice_id": "4e32WqNVWRquDa1OcRYZ",
           "text": "We haven't solved tomorrow yet. But we can give them water and a bed now.",
-          "status": "new dialogue draft; not recorded"
+          "status": "recorded_review_pending"
         },
         {
           "id": "E03-S06-D07",
           "role_id": "onyx",
           "voice_id": "uq0HIbNZKn11Hs5ifEdd",
           "text": "Pick a space you like. You don't have to wait for me to point at one.",
-          "status": "new dialogue draft; not recorded"
+          "status": "recorded_review_pending"
         },
         {
           "id": "E03-S06-D08",
           "role_id": "civilian_1",
           "voice_id": "DODLEQrClDo8wCz460ld",
           "text": "By the wall, please. They sleep better when they can see the door.",
-          "status": "new dialogue draft; not recorded"
+          "status": "recorded_review_pending"
         }
       ],
       "speaking_cast": [
         "onyx",
         "neon",
         "civilian_1"
-      ]
+      ],
+      "audio_status": "recorded_review_pending"
     },
     {
       "id": "E03-S07",
@@ -543,56 +549,56 @@
           "role_id": "trixie",
           "voice_id": "dmWfLQZJq7wNPv9WmtiM",
           "text": "One job each. Ghost gets the archive route. Byte keeps the appeal alive.",
-          "status": "new dialogue draft; not recorded"
+          "status": "recorded_review_pending"
         },
         {
           "id": "E03-S07-D02",
           "role_id": "neon",
           "voice_id": "4e32WqNVWRquDa1OcRYZ",
           "text": "I look at the machines before anybody asks me to make them stop doing machine things.",
-          "status": "new dialogue draft; not recorded"
+          "status": "recorded_review_pending"
         },
         {
           "id": "E03-S07-D03",
           "role_id": "onyx",
           "voice_id": "uq0HIbNZKn11Hs5ifEdd",
           "text": "I'll clear the shelters. Nobody reports the area empty until I've checked every doorway.",
-          "status": "new dialogue draft; not recorded"
+          "status": "recorded_review_pending"
         },
         {
           "id": "E03-S07-D04",
           "role_id": "trixie",
           "voice_id": "dmWfLQZJq7wNPv9WmtiM",
           "text": "I go with Ghost and preserve the original order. We keep the dates and the seal together.",
-          "status": "new dialogue draft; not recorded"
+          "status": "recorded_review_pending"
         },
         {
           "id": "E03-S07-D05",
           "role_id": "byte",
           "voice_id": "wo6udizrrtpIxWGp2qJk",
           "text": "Don't bring me a dramatic photograph with half the important paragraph missing this time.",
-          "status": "new dialogue draft; not recorded"
+          "status": "recorded_review_pending"
         },
         {
           "id": "E03-S07-D06",
           "role_id": "ghost",
           "voice_id": "7fBwqIVI6wI1B4MuKqQi",
           "text": "And nobody enters the machine zone while anything is moving. We wait for a safe opening.",
-          "status": "new dialogue draft; not recorded"
+          "status": "recorded_review_pending"
         },
         {
           "id": "E03-S07-D07",
           "role_id": "neon",
           "voice_id": "4e32WqNVWRquDa1OcRYZ",
           "text": "I like the part where the plan includes us still having all our paws afterward.",
-          "status": "new dialogue draft; not recorded"
+          "status": "recorded_review_pending"
         },
         {
           "id": "E03-S07-D08",
           "role_id": "trixie",
           "voice_id": "dmWfLQZJq7wNPv9WmtiM",
           "text": "That's the essential part. The paperwork is a close second. Check in before changing routes.",
-          "status": "new dialogue draft; not recorded"
+          "status": "recorded_review_pending"
         }
       ],
       "speaking_cast": [
@@ -601,7 +607,8 @@
         "onyx",
         "byte",
         "ghost"
-      ]
+      ],
+      "audio_status": "recorded_review_pending"
     },
     {
       "id": "E03-S08",
@@ -628,63 +635,64 @@
           "role_id": "civilian_2",
           "voice_id": "b5RPB35vTODb3BEmR3Fc",
           "text": "I took this yesterday. My daughter drew on the wall, so I photographed it before it rained.",
-          "status": "new dialogue draft; not recorded"
+          "status": "recorded_review_pending"
         },
         {
           "id": "E03-S08-D02",
           "role_id": "trixie",
           "voice_id": "dmWfLQZJq7wNPv9WmtiM",
           "text": "The whole doorway is visible. No notice. May we keep a copy for the appeal?",
-          "status": "new dialogue draft; not recorded"
+          "status": "recorded_review_pending"
         },
         {
           "id": "E03-S08-D03",
           "role_id": "civilian_2",
           "voice_id": "b5RPB35vTODb3BEmR3Fc",
           "text": "Will my name be on the television? I don't want them coming after my family.",
-          "status": "new dialogue draft; not recorded"
+          "status": "recorded_review_pending"
         },
         {
           "id": "E03-S08-D04",
           "role_id": "byte",
           "voice_id": "wo6udizrrtpIxWGp2qJk",
           "text": "Not in the public copy. The appeal office gets the evidence it needs, with your permission.",
-          "status": "new dialogue draft; not recorded"
+          "status": "recorded_review_pending"
         },
         {
           "id": "E03-S08-D05",
           "role_id": "trixie",
           "voice_id": "dmWfLQZJq7wNPv9WmtiM",
           "text": "And if you say no, we keep looking. Helping us isn't the price of a bed.",
-          "status": "new dialogue draft; not recorded"
+          "status": "recorded_review_pending"
         },
         {
           "id": "E03-S08-D06",
           "role_id": "civilian_2",
           "voice_id": "b5RPB35vTODb3BEmR3Fc",
           "text": "You can use it. Keep the drawing in the picture, though. She'll want that remembered.",
-          "status": "new dialogue draft; not recorded"
+          "status": "recorded_review_pending"
         },
         {
           "id": "E03-S08-D07",
           "role_id": "byte",
           "voice_id": "wo6udizrrtpIxWGp2qJk",
           "text": "Original file stays untouched. I'll make a separate copy with the private details covered.",
-          "status": "new dialogue draft; not recorded"
+          "status": "recorded_review_pending"
         },
         {
           "id": "E03-S08-D08",
           "role_id": "trixie",
           "voice_id": "dmWfLQZJq7wNPv9WmtiM",
           "text": "Thank you. This gives us something they can't explain away with another apology.",
-          "status": "new dialogue draft; not recorded"
+          "status": "recorded_review_pending"
         }
       ],
       "speaking_cast": [
         "civilian_2",
         "trixie",
         "byte"
-      ]
+      ],
+      "audio_status": "recorded_review_pending"
     },
     {
       "id": "E03-S09",
@@ -709,62 +717,63 @@
           "role_id": "dog_guard_a",
           "voice_id": "TxWZERZ5Hc6h9dGxVmXa",
           "text": "The crew split up. Two near the shelters, two heading toward the utility entrance.",
-          "status": "new dialogue draft; not recorded"
+          "status": "recorded_review_pending"
         },
         {
           "id": "E03-S09-D02",
           "role_id": "general_fetch",
           "voice_id": "pNInz6obpgDQGcFmaJgB",
           "text": "And one at a computer. Predictable enough. Don't follow the ones making the noise.",
-          "status": "new dialogue draft; not recorded"
+          "status": "recorded_review_pending"
         },
         {
           "id": "E03-S09-D03",
           "role_id": "dog_guard_a",
           "voice_id": "TxWZERZ5Hc6h9dGxVmXa",
           "text": "Should we close the service gate now? They haven't crossed the boundary yet.",
-          "status": "new dialogue draft; not recorded"
+          "status": "recorded_review_pending"
         },
         {
           "id": "E03-S09-D04",
           "role_id": "general_fetch",
           "voice_id": "pNInz6obpgDQGcFmaJgB",
           "text": "Not yet. Let them believe that route is open. Keep a unit where it comes out.",
-          "status": "new dialogue draft; not recorded"
+          "status": "recorded_review_pending"
         },
         {
           "id": "E03-S09-D05",
           "role_id": "dog_guard_a",
           "voice_id": "TxWZERZ5Hc6h9dGxVmXa",
           "text": "The camera on that corner has been broken since last month. We won't see the turn.",
-          "status": "new dialogue draft; not recorded"
+          "status": "recorded_review_pending"
         },
         {
           "id": "E03-S09-D06",
           "role_id": "general_fetch",
           "voice_id": "pNInz6obpgDQGcFmaJgB",
           "text": "Then use your eyes. I'm not asking the camera to arrest anyone.",
-          "status": "new dialogue draft; not recorded"
+          "status": "recorded_review_pending"
         },
         {
           "id": "E03-S09-D07",
           "role_id": "dog_guard_a",
           "voice_id": "TxWZERZ5Hc6h9dGxVmXa",
           "text": "Residents are still using that passage. I'll keep a way through for them.",
-          "status": "new dialogue draft; not recorded"
+          "status": "recorded_review_pending"
         },
         {
           "id": "E03-S09-D08",
           "role_id": "general_fetch",
           "voice_id": "pNInz6obpgDQGcFmaJgB",
           "text": "Fine. Watch who walks against the flow. That's who we're waiting for.",
-          "status": "new dialogue draft; not recorded"
+          "status": "recorded_review_pending"
         }
       ],
       "speaking_cast": [
         "dog_guard_a",
         "general_fetch"
-      ]
+      ],
+      "audio_status": "recorded_review_pending"
     },
     {
       "id": "E03-S10",
@@ -789,62 +798,63 @@
           "role_id": "neon",
           "voice_id": "4e32WqNVWRquDa1OcRYZ",
           "text": "There's a maintenance disconnect. Big handle, clear label, surprisingly little nonsense around it.",
-          "status": "new dialogue draft; not recorded"
+          "status": "recorded_review_pending"
         },
         {
           "id": "E03-S10-D02",
           "role_id": "ghost",
           "voice_id": "7fBwqIVI6wI1B4MuKqQi",
           "text": "Is it connected to the parked machines, or just the lights above the cabinet?",
-          "status": "new dialogue draft; not recorded"
+          "status": "recorded_review_pending"
         },
         {
           "id": "E03-S10-D03",
           "role_id": "neon",
           "voice_id": "4e32WqNVWRquDa1OcRYZ",
           "text": "Parked machines. But it won't stop something already rolling. This isn't a magic brake.",
-          "status": "new dialogue draft; not recorded"
+          "status": "recorded_review_pending"
         },
         {
           "id": "E03-S10-D04",
           "role_id": "ghost",
           "voice_id": "7fBwqIVI6wI1B4MuKqQi",
           "text": "Then you wait until they're stationary and the zone is clear. Onyx confirms the people.",
-          "status": "new dialogue draft; not recorded"
+          "status": "recorded_review_pending"
         },
         {
           "id": "E03-S10-D05",
           "role_id": "neon",
           "voice_id": "4e32WqNVWRquDa1OcRYZ",
           "text": "I know. Nobody stands in front of a bulldozer because I found an interesting switch.",
-          "status": "new dialogue draft; not recorded"
+          "status": "recorded_review_pending"
         },
         {
           "id": "E03-S10-D06",
           "role_id": "ghost",
           "voice_id": "7fBwqIVI6wI1B4MuKqQi",
           "text": "I wasn't sure which part you would find interesting. That's why I'm checking.",
-          "status": "new dialogue draft; not recorded"
+          "status": "recorded_review_pending"
         },
         {
           "id": "E03-S10-D07",
           "role_id": "neon",
           "voice_id": "4e32WqNVWRquDa1OcRYZ",
           "text": "The part where we don't get flattened. Very interesting. Strong personal investment in that part.",
-          "status": "new dialogue draft; not recorded"
+          "status": "recorded_review_pending"
         },
         {
           "id": "E03-S10-D08",
           "role_id": "ghost",
           "voice_id": "7fBwqIVI6wI1B4MuKqQi",
           "text": "Good. Keep the isolation indicator in view. Call before you touch anything else.",
-          "status": "new dialogue draft; not recorded"
+          "status": "recorded_review_pending"
         }
       ],
       "speaking_cast": [
         "neon",
         "ghost"
-      ]
+      ],
+      "audio_status": "recorded_review_pending"
     },
     {
       "id": "E03-S11",
@@ -871,63 +881,64 @@
           "role_id": "civilian_2",
           "voice_id": "b5RPB35vTODb3BEmR3Fc",
           "text": "That is the good box. The other one leaks through the bottom when it rains.",
-          "status": "new dialogue draft; not recorded"
+          "status": "recorded_review_pending"
         },
         {
           "id": "E03-S11-D02",
           "role_id": "onyx",
           "voice_id": "uq0HIbNZKn11Hs5ifEdd",
           "text": "Then the good box goes first, comes back, and carries the next person's things.",
-          "status": "new dialogue draft; not recorded"
+          "status": "recorded_review_pending"
         },
         {
           "id": "E03-S11-D03",
           "role_id": "neon",
           "voice_id": "4e32WqNVWRquDa1OcRYZ",
           "text": "A rotation. Fair, efficient, and certain to make absolutely nobody happy at first.",
-          "status": "new dialogue draft; not recorded"
+          "status": "recorded_review_pending"
         },
         {
           "id": "E03-S11-D04",
           "role_id": "civilian_2",
           "voice_id": "b5RPB35vTODb3BEmR3Fc",
           "text": "You're not listening. It can't come back yet. There's someone sleeping inside it.",
-          "status": "new dialogue draft; not recorded"
+          "status": "recorded_review_pending"
         },
         {
           "id": "E03-S11-D05",
           "role_id": "onyx",
           "voice_id": "uq0HIbNZKn11Hs5ifEdd",
           "text": "Someone? Oh. Right. Everyone lower your voices. The box now has priority transport.",
-          "status": "new dialogue draft; not recorded"
+          "status": "recorded_review_pending"
         },
         {
           "id": "E03-S11-D06",
           "role_id": "neon",
           "voice_id": "4e32WqNVWRquDa1OcRYZ",
           "text": "I'll pad the trolley. No sudden turns, no experimental acceleration, and definitely no victory horn.",
-          "status": "new dialogue draft; not recorded"
+          "status": "recorded_review_pending"
         },
         {
           "id": "E03-S11-D07",
           "role_id": "civilian_2",
           "voice_id": "b5RPB35vTODb3BEmR3Fc",
           "text": "She finally fell asleep after asking if the machines could find us in the dark.",
-          "status": "new dialogue draft; not recorded"
+          "status": "recorded_review_pending"
         },
         {
           "id": "E03-S11-D08",
           "role_id": "onyx",
           "voice_id": "uq0HIbNZKn11Hs5ifEdd",
           "text": "Then let's give her somewhere quiet to wake up. We'll argue about boxes later.",
-          "status": "new dialogue draft; not recorded"
+          "status": "recorded_review_pending"
         }
       ],
       "speaking_cast": [
         "civilian_2",
         "onyx",
         "neon"
-      ]
+      ],
+      "audio_status": "recorded_review_pending"
     },
     {
       "id": "E03-S12",
@@ -954,63 +965,64 @@
           "role_id": "byte",
           "voice_id": "wo6udizrrtpIxWGp2qJk",
           "text": "The appeal attachment window closes when clearance starts. We need the log before that happens.",
-          "status": "new dialogue draft; not recorded"
+          "status": "recorded_review_pending"
         },
         {
           "id": "E03-S12-D02",
           "role_id": "ghost",
           "voice_id": "7fBwqIVI6wI1B4MuKqQi",
           "text": "I can keep the machine monitor connected or retrieve the archive. Not both through this link.",
-          "status": "new dialogue draft; not recorded"
+          "status": "recorded_review_pending"
         },
         {
           "id": "E03-S12-D03",
           "role_id": "trixie",
           "voice_id": "dmWfLQZJq7wNPv9WmtiM",
           "text": "How long do we lose the monitor? Neon needs to know if anybody restarts them.",
-          "status": "new dialogue draft; not recorded"
+          "status": "recorded_review_pending"
         },
         {
           "id": "E03-S12-D04",
           "role_id": "ghost",
           "voice_id": "7fBwqIVI6wI1B4MuKqQi",
           "text": "He can watch the physical indicator. But I can't be his second set of eyes.",
-          "status": "new dialogue draft; not recorded"
+          "status": "recorded_review_pending"
         },
         {
           "id": "E03-S12-D05",
           "role_id": "byte",
           "voice_id": "wo6udizrrtpIxWGp2qJk",
           "text": "The log is our way to stop the order, not just delay one machine.",
-          "status": "new dialogue draft; not recorded"
+          "status": "recorded_review_pending"
         },
         {
           "id": "E03-S12-D06",
           "role_id": "trixie",
           "voice_id": "dmWfLQZJq7wNPv9WmtiM",
           "text": "Then we take the log. Tell Neon exactly what he's losing before we switch.",
-          "status": "new dialogue draft; not recorded"
+          "status": "recorded_review_pending"
         },
         {
           "id": "E03-S12-D07",
           "role_id": "ghost",
           "voice_id": "7fBwqIVI6wI1B4MuKqQi",
           "text": "Already calling him. No silent changes. Nobody should discover a missing safeguard by needing it.",
-          "status": "new dialogue draft; not recorded"
+          "status": "recorded_review_pending"
         },
         {
           "id": "E03-S12-D08",
           "role_id": "byte",
           "voice_id": "wo6udizrrtpIxWGp2qJk",
           "text": "I'll keep the case open. Bring the whole record, including the boring pages.",
-          "status": "new dialogue draft; not recorded"
+          "status": "recorded_review_pending"
         }
       ],
       "speaking_cast": [
         "byte",
         "ghost",
         "trixie"
-      ]
+      ],
+      "audio_status": "recorded_review_pending"
     },
     {
       "id": "E03-S13",
@@ -1037,63 +1049,64 @@
           "role_id": "trixie",
           "voice_id": "dmWfLQZJq7wNPv9WmtiM",
           "text": "I should go back and check the shelters before we enter the records passage.",
-          "status": "new dialogue draft; not recorded"
+          "status": "recorded_review_pending"
         },
         {
           "id": "E03-S13-D02",
           "role_id": "onyx",
           "voice_id": "uq0HIbNZKn11Hs5ifEdd",
           "text": "You gave me that job. Did you mean it, or were you just making a list?",
-          "status": "new dialogue draft; not recorded"
+          "status": "recorded_review_pending"
         },
         {
           "id": "E03-S13-D03",
           "role_id": "trixie",
           "voice_id": "dmWfLQZJq7wNPv9WmtiM",
           "text": "I meant it. I just don't like being somewhere else when things could go wrong.",
-          "status": "new dialogue draft; not recorded"
+          "status": "recorded_review_pending"
         },
         {
           "id": "E03-S13-D04",
           "role_id": "onyx",
           "voice_id": "uq0HIbNZKn11Hs5ifEdd",
           "text": "Things can go wrong everywhere. You don't have enough legs to stand in all of it.",
-          "status": "new dialogue draft; not recorded"
+          "status": "recorded_review_pending"
         },
         {
           "id": "E03-S13-D05",
           "role_id": "ghost",
           "voice_id": "7fBwqIVI6wI1B4MuKqQi",
           "text": "We have the archive opening now. Onyx has the shelters. Neon has the disconnect.",
-          "status": "new dialogue draft; not recorded"
+          "status": "recorded_review_pending"
         },
         {
           "id": "E03-S13-D06",
           "role_id": "trixie",
           "voice_id": "dmWfLQZJq7wNPv9WmtiM",
           "text": "All right. I trust you. Tell me when the last person is through.",
-          "status": "new dialogue draft; not recorded"
+          "status": "recorded_review_pending"
         },
         {
           "id": "E03-S13-D07",
           "role_id": "onyx",
           "voice_id": "uq0HIbNZKn11Hs5ifEdd",
           "text": "I will. And you tell me when you've got the paper that lets them go home.",
-          "status": "new dialogue draft; not recorded"
+          "status": "recorded_review_pending"
         },
         {
           "id": "E03-S13-D08",
           "role_id": "trixie",
           "voice_id": "dmWfLQZJq7wNPv9WmtiM",
           "text": "Deal. Nobody has to do both. Let's make that true for once.",
-          "status": "new dialogue draft; not recorded"
+          "status": "recorded_review_pending"
         }
       ],
       "speaking_cast": [
         "trixie",
         "onyx",
         "ghost"
-      ]
+      ],
+      "audio_status": "recorded_review_pending"
     },
     {
       "id": "E03-S14",
@@ -1118,62 +1131,63 @@
           "role_id": "neon",
           "voice_id": "4e32WqNVWRquDa1OcRYZ",
           "text": "Machines stationary. Nobody inside the marked zone. Onyx, tell me what you can see.",
-          "status": "new dialogue draft; not recorded"
+          "status": "recorded_review_pending"
         },
         {
           "id": "E03-S14-D02",
           "role_id": "onyx",
           "voice_id": "uq0HIbNZKn11Hs5ifEdd",
           "text": "Clear on this side. The residents are behind the barrier, and they're staying there.",
-          "status": "new dialogue draft; not recorded"
+          "status": "recorded_review_pending"
         },
         {
           "id": "E03-S14-D03",
           "role_id": "neon",
           "voice_id": "4e32WqNVWRquDa1OcRYZ",
           "text": "Moving the maintenance handle now. Indicator off. Controls dark. Nothing is starting from this cabinet.",
-          "status": "new dialogue draft; not recorded"
+          "status": "recorded_review_pending"
         },
         {
           "id": "E03-S14-D04",
           "role_id": "onyx",
           "voice_id": "uq0HIbNZKn11Hs5ifEdd",
           "text": "Does that mean we can stop worrying? I could use a very short holiday from worrying.",
-          "status": "new dialogue draft; not recorded"
+          "status": "recorded_review_pending"
         },
         {
           "id": "E03-S14-D05",
           "role_id": "neon",
           "voice_id": "4e32WqNVWRquDa1OcRYZ",
           "text": "It means these machines are isolated right now. It doesn't mean they can't bring someone to reconnect them.",
-          "status": "new dialogue draft; not recorded"
+          "status": "recorded_review_pending"
         },
         {
           "id": "E03-S14-D06",
           "role_id": "onyx",
           "voice_id": "uq0HIbNZKn11Hs5ifEdd",
           "text": "Then stay where you can watch it. I'll check the last shelter and bring the others through.",
-          "status": "new dialogue draft; not recorded"
+          "status": "recorded_review_pending"
         },
         {
           "id": "E03-S14-D07",
           "role_id": "neon",
           "voice_id": "4e32WqNVWRquDa1OcRYZ",
           "text": "Don't rush the check because I bought us a minute. That's what the minute is for.",
-          "status": "new dialogue draft; not recorded"
+          "status": "recorded_review_pending"
         },
         {
           "id": "E03-S14-D08",
           "role_id": "onyx",
           "voice_id": "uq0HIbNZKn11Hs5ifEdd",
           "text": "Look at you. Brakes and sensible advice on the same day. Terrifying progress.",
-          "status": "new dialogue draft; not recorded"
+          "status": "recorded_review_pending"
         }
       ],
       "speaking_cast": [
         "neon",
         "onyx"
-      ]
+      ],
+      "audio_status": "recorded_review_pending"
     },
     {
       "id": "E03-S15",
@@ -1198,62 +1212,63 @@
           "role_id": "onyx",
           "voice_id": "uq0HIbNZKn11Hs5ifEdd",
           "text": "Hello? Last check before we leave. Anyone still in here? Please answer if you can.",
-          "status": "new dialogue draft; not recorded"
+          "status": "recorded_review_pending"
         },
         {
           "id": "E03-S15-D02",
           "role_id": "civilian_2",
           "voice_id": "b5RPB35vTODb3BEmR3Fc",
           "text": "Back here. I couldn't find the picture. I knew I put it somewhere safe.",
-          "status": "new dialogue draft; not recorded"
+          "status": "recorded_review_pending"
         },
         {
           "id": "E03-S15-D03",
           "role_id": "onyx",
           "voice_id": "uq0HIbNZKn11Hs5ifEdd",
           "text": "We've got a way out. Show me what you're looking for, and we'll look together.",
-          "status": "new dialogue draft; not recorded"
+          "status": "recorded_review_pending"
         },
         {
           "id": "E03-S15-D04",
           "role_id": "civilian_2",
           "voice_id": "b5RPB35vTODb3BEmR3Fc",
           "text": "Little wooden frame. My mum before the factory. It's the only photograph where she looks rested.",
-          "status": "new dialogue draft; not recorded"
+          "status": "recorded_review_pending"
         },
         {
           "id": "E03-S15-D05",
           "role_id": "onyx",
           "voice_id": "uq0HIbNZKn11Hs5ifEdd",
           "text": "There, behind the lining. I've got it. You take the frame; I'll take the bag.",
-          "status": "new dialogue draft; not recorded"
+          "status": "recorded_review_pending"
         },
         {
           "id": "E03-S15-D06",
           "role_id": "civilian_2",
           "voice_id": "b5RPB35vTODb3BEmR3Fc",
           "text": "I know it was stupid to come back. I just couldn't leave her under a machine.",
-          "status": "new dialogue draft; not recorded"
+          "status": "recorded_review_pending"
         },
         {
           "id": "E03-S15-D07",
           "role_id": "onyx",
           "voice_id": "uq0HIbNZKn11Hs5ifEdd",
           "text": "You don't need a lecture. You need your picture and an open door. Come on.",
-          "status": "new dialogue draft; not recorded"
+          "status": "recorded_review_pending"
         },
         {
           "id": "E03-S15-D08",
           "role_id": "onyx",
           "voice_id": "uq0HIbNZKn11Hs5ifEdd",
           "text": "Shelters checked. Last resident coming through with me. Don't close that lane yet.",
-          "status": "new dialogue draft; not recorded"
+          "status": "recorded_review_pending"
         }
       ],
       "speaking_cast": [
         "onyx",
         "civilian_2"
-      ]
+      ],
+      "audio_status": "recorded_review_pending"
     },
     {
       "id": "E03-S16",
@@ -1278,62 +1293,63 @@
           "role_id": "ghost",
           "voice_id": "7fBwqIVI6wI1B4MuKqQi",
           "text": "This is the original posting log. Same order number, but look at the issue date.",
-          "status": "new dialogue draft; not recorded"
+          "status": "recorded_review_pending"
         },
         {
           "id": "E03-S16-D02",
           "role_id": "trixie",
           "voice_id": "dmWfLQZJq7wNPv9WmtiM",
           "text": "It was issued after the date they claim they delivered it. That's not possible.",
-          "status": "new dialogue draft; not recorded"
+          "status": "recorded_review_pending"
         },
         {
           "id": "E03-S16-D03",
           "role_id": "ghost",
           "voice_id": "7fBwqIVI6wI1B4MuKqQi",
           "text": "Exactly. Keep the seal, the page number and the order number in the same recording.",
-          "status": "new dialogue draft; not recorded"
+          "status": "recorded_review_pending"
         },
         {
           "id": "E03-S16-D04",
           "role_id": "trixie",
           "voice_id": "dmWfLQZJq7wNPv9WmtiM",
           "text": "I'm filming the whole page. No dramatic crop. Byte can have every boring corner.",
-          "status": "new dialogue draft; not recorded"
+          "status": "recorded_review_pending"
         },
         {
           "id": "E03-S16-D05",
           "role_id": "ghost",
           "voice_id": "7fBwqIVI6wI1B4MuKqQi",
           "text": "There's the attachment receipt. Save that too. It connects this record to our appeal.",
-          "status": "new dialogue draft; not recorded"
+          "status": "recorded_review_pending"
         },
         {
           "id": "E03-S16-D06",
           "role_id": "trixie",
           "voice_id": "dmWfLQZJq7wNPv9WmtiM",
           "text": "Done. Original copy, receipt and photograph. Can we leave before this room develops another problem?",
-          "status": "new dialogue draft; not recorded"
+          "status": "recorded_review_pending"
         },
         {
           "id": "E03-S16-D07",
           "role_id": "ghost",
           "voice_id": "7fBwqIVI6wI1B4MuKqQi",
           "text": "One moment. The exit indicator changed. Fetch has put someone at the service gate.",
-          "status": "new dialogue draft; not recorded"
+          "status": "recorded_review_pending"
         },
         {
           "id": "E03-S16-D08",
           "role_id": "trixie",
           "voice_id": "dmWfLQZJq7wNPv9WmtiM",
           "text": "Of course he has. Fine. We keep the proof and find the other way.",
-          "status": "new dialogue draft; not recorded"
+          "status": "recorded_review_pending"
         }
       ],
       "speaking_cast": [
         "ghost",
         "trixie"
-      ]
+      ],
+      "audio_status": "recorded_review_pending"
     },
     {
       "id": "E03-S17",
@@ -1360,63 +1376,64 @@
           "role_id": "dog_guard_a",
           "voice_id": "TxWZERZ5Hc6h9dGxVmXa",
           "text": "Movement inside the service passage. Two of them. They've stopped before the gate.",
-          "status": "new dialogue draft; not recorded"
+          "status": "recorded_review_pending"
         },
         {
           "id": "E03-S17-D02",
           "role_id": "general_fetch",
           "voice_id": "pNInz6obpgDQGcFmaJgB",
           "text": "Keep the gate shut. Nobody charges down a blind corridor because a kitten waves at them.",
-          "status": "new dialogue draft; not recorded"
+          "status": "recorded_review_pending"
         },
         {
           "id": "E03-S17-D03",
           "role_id": "ghost",
           "voice_id": "7fBwqIVI6wI1B4MuKqQi",
           "text": "Trixie, stay back from the light. He's watching the opening, not the whole passage.",
-          "status": "new dialogue draft; not recorded"
+          "status": "recorded_review_pending"
         },
         {
           "id": "E03-S17-D04",
           "role_id": "general_fetch",
           "voice_id": "pNInz6obpgDQGcFmaJgB",
           "text": "They used that route during the restaurant operation. Same habit, different building.",
-          "status": "new dialogue draft; not recorded"
+          "status": "recorded_review_pending"
         },
         {
           "id": "E03-S17-D05",
           "role_id": "dog_guard_a",
           "voice_id": "TxWZERZ5Hc6h9dGxVmXa",
           "text": "There are still residents crossing the outer lane. I won't close that barrier on them.",
-          "status": "new dialogue draft; not recorded"
+          "status": "recorded_review_pending"
         },
         {
           "id": "E03-S17-D06",
           "role_id": "general_fetch",
           "voice_id": "pNInz6obpgDQGcFmaJgB",
           "text": "Then keep them moving. The service gate stays closed until I say otherwise.",
-          "status": "new dialogue draft; not recorded"
+          "status": "recorded_review_pending"
         },
         {
           "id": "E03-S17-D07",
           "role_id": "ghost",
           "voice_id": "7fBwqIVI6wI1B4MuKqQi",
           "text": "We have another junction behind us. Neon, I need the older maintenance route, not the public map.",
-          "status": "new dialogue draft; not recorded"
+          "status": "recorded_review_pending"
         },
         {
           "id": "E03-S17-D08",
           "role_id": "general_fetch",
           "voice_id": "pNInz6obpgDQGcFmaJgB",
           "text": "And check the other exits. They've learned one trick. I want to know where it ends.",
-          "status": "new dialogue draft; not recorded"
+          "status": "recorded_review_pending"
         }
       ],
       "speaking_cast": [
         "dog_guard_a",
         "general_fetch",
         "ghost"
-      ]
+      ],
+      "audio_status": "recorded_review_pending"
     },
     {
       "id": "E03-S18",
@@ -1443,63 +1460,64 @@
           "role_id": "neon",
           "voice_id": "4e32WqNVWRquDa1OcRYZ",
           "text": "Your map is upside down relative to the cabinet. Turn it before you follow the arrows.",
-          "status": "new dialogue draft; not recorded"
+          "status": "recorded_review_pending"
         },
         {
           "id": "E03-S18-D02",
           "role_id": "trixie",
           "voice_id": "dmWfLQZJq7wNPv9WmtiM",
           "text": "That explains why the route appeared to finish inside a wall. Helpful correction, thanks.",
-          "status": "new dialogue draft; not recorded"
+          "status": "recorded_review_pending"
         },
         {
           "id": "E03-S18-D03",
           "role_id": "ghost",
           "voice_id": "7fBwqIVI6wI1B4MuKqQi",
           "text": "Old junction plate here. The numbering doesn't match the Goodboy maintenance labels above it.",
-          "status": "new dialogue draft; not recorded"
+          "status": "recorded_review_pending"
         },
         {
           "id": "E03-S18-D04",
           "role_id": "neon",
           "voice_id": "4e32WqNVWRquDa1OcRYZ",
           "text": "Photograph it. Don't pull it open. We are already doing enough jobs for one afternoon.",
-          "status": "new dialogue draft; not recorded"
+          "status": "recorded_review_pending"
         },
         {
           "id": "E03-S18-D05",
           "role_id": "trixie",
           "voice_id": "dmWfLQZJq7wNPv9WmtiM",
           "text": "Picture saved. Which way gets us outside without introducing us to Fetch's entire personality?",
-          "status": "new dialogue draft; not recorded"
+          "status": "recorded_review_pending"
         },
         {
           "id": "E03-S18-D06",
           "role_id": "neon",
           "voice_id": "4e32WqNVWRquDa1OcRYZ",
           "text": "Left at the dead meter, then the low door. I can see the outside landing from here.",
-          "status": "new dialogue draft; not recorded"
+          "status": "recorded_review_pending"
         },
         {
           "id": "E03-S18-D07",
           "role_id": "ghost",
           "voice_id": "7fBwqIVI6wI1B4MuKqQi",
           "text": "Door opens outward. Stand clear. Trixie first, then me. Keep the file bag close.",
-          "status": "new dialogue draft; not recorded"
+          "status": "recorded_review_pending"
         },
         {
           "id": "E03-S18-D08",
           "role_id": "trixie",
           "voice_id": "dmWfLQZJq7wNPv9WmtiM",
           "text": "We're through. Byte, you've got your record. Please tell me the appeal is still awake.",
-          "status": "new dialogue draft; not recorded"
+          "status": "recorded_review_pending"
         }
       ],
       "speaking_cast": [
         "neon",
         "trixie",
         "ghost"
-      ]
+      ],
+      "audio_status": "recorded_review_pending"
     },
     {
       "id": "E03-S19",
@@ -1524,62 +1542,63 @@
           "role_id": "byte",
           "voice_id": "wo6udizrrtpIxWGp2qJk",
           "text": "Case still open. Original order attached, posting log attached, witness copy attached with permission.",
-          "status": "new dialogue draft; not recorded"
+          "status": "recorded_review_pending"
         },
         {
           "id": "E03-S19-D02",
           "role_id": "nip7_anchor",
           "voice_id": "onwK4e9ZLuTAKqWW03F9",
           "text": "The dates are inconsistent. Does that establish deliberate falsification, or could it be another clerical error?",
-          "status": "new dialogue draft; not recorded"
+          "status": "recorded_review_pending"
         },
         {
           "id": "E03-S19-D03",
           "role_id": "byte",
           "voice_id": "wo6udizrrtpIxWGp2qJk",
           "text": "It establishes they haven't shown the required notice period. The reason needs an investigation.",
-          "status": "new dialogue draft; not recorded"
+          "status": "recorded_review_pending"
         },
         {
           "id": "E03-S19-D04",
           "role_id": "nip7_anchor",
           "voice_id": "onwK4e9ZLuTAKqWW03F9",
           "text": "Good. Keep that distinction. We can report the contradiction without inventing an explanation for it.",
-          "status": "new dialogue draft; not recorded"
+          "status": "recorded_review_pending"
         },
         {
           "id": "E03-S19-D05",
           "role_id": "byte",
           "voice_id": "wo6udizrrtpIxWGp2qJk",
           "text": "I'm asking for a temporary stay while they review the original record. People need time, not a slogan.",
-          "status": "new dialogue draft; not recorded"
+          "status": "recorded_review_pending"
         },
         {
           "id": "E03-S19-D06",
           "role_id": "nip7_anchor",
           "voice_id": "onwK4e9ZLuTAKqWW03F9",
           "text": "And the witness details? They must not appear on the copy we show the audience.",
-          "status": "new dialogue draft; not recorded"
+          "status": "recorded_review_pending"
         },
         {
           "id": "E03-S19-D07",
           "role_id": "byte",
           "voice_id": "wo6udizrrtpIxWGp2qJk",
           "text": "Redacted public copy is separate. The full record goes to the appeal examiner only.",
-          "status": "new dialogue draft; not recorded"
+          "status": "recorded_review_pending"
         },
         {
           "id": "E03-S19-D08",
           "role_id": "nip7_anchor",
           "voice_id": "onwK4e9ZLuTAKqWW03F9",
           "text": "Then send the acknowledgment when it arrives. We will verify the decision before announcing it.",
-          "status": "new dialogue draft; not recorded"
+          "status": "recorded_review_pending"
         }
       ],
       "speaking_cast": [
         "byte",
         "nip7_anchor"
-      ]
+      ],
+      "audio_status": "recorded_review_pending"
     },
     {
       "id": "E03-S20",
@@ -1604,62 +1623,63 @@
           "role_id": "nip7_anchor",
           "voice_id": "onwK4e9ZLuTAKqWW03F9",
           "text": "A temporary stay has been issued for today's District Seven clearance, pending review of the notice records.",
-          "status": "new dialogue draft; not recorded"
+          "status": "recorded_review_pending"
         },
         {
           "id": "E03-S20-D02",
           "role_id": "trixie",
           "voice_id": "dmWfLQZJq7wNPv9WmtiM",
           "text": "Does Fetch have the same order? I want the machines stopped, not just a nicer headline.",
-          "status": "new dialogue draft; not recorded"
+          "status": "recorded_review_pending"
         },
         {
           "id": "E03-S20-D03",
           "role_id": "nip7_anchor",
           "voice_id": "onwK4e9ZLuTAKqWW03F9",
           "text": "The issuing office confirms delivery to the operation supervisor. We are displaying the verified decision number.",
-          "status": "new dialogue draft; not recorded"
+          "status": "recorded_review_pending"
         },
         {
           "id": "E03-S20-D04",
           "role_id": "trixie",
           "voice_id": "dmWfLQZJq7wNPv9WmtiM",
           "text": "Good. People have already packed their lives because someone told them they had no time left.",
-          "status": "new dialogue draft; not recorded"
+          "status": "recorded_review_pending"
         },
         {
           "id": "E03-S20-D05",
           "role_id": "nip7_anchor",
           "voice_id": "onwK4e9ZLuTAKqWW03F9",
           "text": "The stay does not decide the redevelopment case. It prevents this clearance proceeding while the notice issue is examined.",
-          "status": "new dialogue draft; not recorded"
+          "status": "recorded_review_pending"
         },
         {
           "id": "E03-S20-D06",
           "role_id": "trixie",
           "voice_id": "dmWfLQZJq7wNPv9WmtiM",
           "text": "Then say that plainly. We bought time. We haven't bought the district or solved everyone's housing.",
-          "status": "new dialogue draft; not recorded"
+          "status": "recorded_review_pending"
         },
         {
           "id": "E03-S20-D07",
           "role_id": "nip7_anchor",
           "voice_id": "onwK4e9ZLuTAKqWW03F9",
           "text": "Residents should keep their copies and follow the appeal updates. Private witness information remains withheld.",
-          "status": "new dialogue draft; not recorded"
+          "status": "recorded_review_pending"
         },
         {
           "id": "E03-S20-D08",
           "role_id": "trixie",
           "voice_id": "dmWfLQZJq7wNPv9WmtiM",
           "text": "And tonight, anyone who needs somewhere safe can come to the warehouse. We have room.",
-          "status": "new dialogue draft; not recorded"
+          "status": "recorded_review_pending"
         }
       ],
       "speaking_cast": [
         "nip7_anchor",
         "trixie"
-      ]
+      ],
+      "audio_status": "recorded_review_pending"
     },
     {
       "id": "E03-S21",
@@ -1684,62 +1704,63 @@
           "role_id": "dog_guard_a",
           "voice_id": "TxWZERZ5Hc6h9dGxVmXa",
           "text": "The stay is verified. Same operation number. It takes effect immediately, including machinery movement.",
-          "status": "new dialogue draft; not recorded"
+          "status": "recorded_review_pending"
         },
         {
           "id": "E03-S21-D02",
           "role_id": "general_fetch",
           "voice_id": "pNInz6obpgDQGcFmaJgB",
           "text": "I can read. I asked whether the issuing office understands the cost of holding this equipment.",
-          "status": "new dialogue draft; not recorded"
+          "status": "recorded_review_pending"
         },
         {
           "id": "E03-S21-D03",
           "role_id": "dog_guard_a",
           "voice_id": "TxWZERZ5Hc6h9dGxVmXa",
           "text": "They confirmed the order. The crews are waiting for your stand-down instruction.",
-          "status": "new dialogue draft; not recorded"
+          "status": "recorded_review_pending"
         },
         {
           "id": "E03-S21-D04",
           "role_id": "general_fetch",
           "voice_id": "pNInz6obpgDQGcFmaJgB",
           "text": "Those kittens tampered with the maintenance system. This doesn't erase that little detail.",
-          "status": "new dialogue draft; not recorded"
+          "status": "recorded_review_pending"
         },
         {
           "id": "E03-S21-D05",
           "role_id": "dog_guard_a",
           "voice_id": "TxWZERZ5Hc6h9dGxVmXa",
           "text": "Then record it separately. It doesn't give us permission to continue a clearance that's been stayed.",
-          "status": "new dialogue draft; not recorded"
+          "status": "recorded_review_pending"
         },
         {
           "id": "E03-S21-D06",
           "role_id": "general_fetch",
           "voice_id": "pNInz6obpgDQGcFmaJgB",
           "text": "Hold the machines. Secure the boundary. Nobody restarts anything until the order changes.",
-          "status": "new dialogue draft; not recorded"
+          "status": "recorded_review_pending"
         },
         {
           "id": "E03-S21-D07",
           "role_id": "dog_guard_a",
           "voice_id": "TxWZERZ5Hc6h9dGxVmXa",
           "text": "Understood. I'll tell the residents the clearance has stopped. They deserve to hear it directly.",
-          "status": "new dialogue draft; not recorded"
+          "status": "recorded_review_pending"
         },
         {
           "id": "E03-S21-D08",
           "role_id": "general_fetch",
           "voice_id": "pNInz6obpgDQGcFmaJgB",
           "text": "Tell them it's temporary. And bring me every camera record from that utility gate.",
-          "status": "new dialogue draft; not recorded"
+          "status": "recorded_review_pending"
         }
       ],
       "speaking_cast": [
         "dog_guard_a",
         "general_fetch"
-      ]
+      ],
+      "audio_status": "recorded_review_pending"
     },
     {
       "id": "E03-S22",
@@ -1768,56 +1789,56 @@
           "role_id": "civilian_1",
           "voice_id": "DODLEQrClDo8wCz460ld",
           "text": "Do you want us all against this wall? I don't know how you're arranging everyone.",
-          "status": "new dialogue draft; not recorded"
+          "status": "recorded_review_pending"
         },
         {
           "id": "E03-S22-D02",
           "role_id": "onyx",
           "voice_id": "uq0HIbNZKn11Hs5ifEdd",
           "text": "You're guests, not crates. Pick a space, then help us keep the walking lanes clear.",
-          "status": "new dialogue draft; not recorded"
+          "status": "recorded_review_pending"
         },
         {
           "id": "E03-S22-D03",
           "role_id": "civilian_2",
           "voice_id": "b5RPB35vTODb3BEmR3Fc",
           "text": "Can the box stay beside the bed? She's still asleep, and I'd rather not wake her.",
-          "status": "new dialogue draft; not recorded"
+          "status": "recorded_review_pending"
         },
         {
           "id": "E03-S22-D04",
           "role_id": "neon",
           "voice_id": "4e32WqNVWRquDa1OcRYZ",
           "text": "The box has completed its official relocation. Very prestigious spot, excellent access to blankets.",
-          "status": "new dialogue draft; not recorded"
+          "status": "recorded_review_pending"
         },
         {
           "id": "E03-S22-D05",
           "role_id": "civilian_1",
           "voice_id": "DODLEQrClDo8wCz460ld",
           "text": "There's a kettle here. If it works, I can make something for everyone waiting outside.",
-          "status": "new dialogue draft; not recorded"
+          "status": "recorded_review_pending"
         },
         {
           "id": "E03-S22-D06",
           "role_id": "onyx",
           "voice_id": "uq0HIbNZKn11Hs5ifEdd",
           "text": "Neon checked that socket. Use it. And tell me if we've forgotten anything obvious.",
-          "status": "new dialogue draft; not recorded"
+          "status": "recorded_review_pending"
         },
         {
           "id": "E03-S22-D07",
           "role_id": "civilian_2",
           "voice_id": "b5RPB35vTODb3BEmR3Fc",
           "text": "Somewhere to hang wet coats. Unless you want all your chairs slowly becoming puddles.",
-          "status": "new dialogue draft; not recorded"
+          "status": "recorded_review_pending"
         },
         {
           "id": "E03-S22-D08",
           "role_id": "neon",
           "voice_id": "4e32WqNVWRquDa1OcRYZ",
           "text": "Coat hooks. Finally, a task where nobody needs an appeal number. I'll get the tools.",
-          "status": "new dialogue draft; not recorded"
+          "status": "recorded_review_pending"
         }
       ],
       "speaking_cast": [
@@ -1825,7 +1846,8 @@
         "onyx",
         "civilian_2",
         "neon"
-      ]
+      ],
+      "audio_status": "recorded_review_pending"
     },
     {
       "id": "E03-S23",
@@ -1856,56 +1878,56 @@
           "role_id": "trixie",
           "voice_id": "dmWfLQZJq7wNPv9WmtiM",
           "text": "The machines stopped. Everyone got through. For tonight, that's a win we can actually touch.",
-          "status": "new dialogue draft; not recorded"
+          "status": "recorded_review_pending"
         },
         {
           "id": "E03-S23-D02",
           "role_id": "byte",
           "voice_id": "wo6udizrrtpIxWGp2qJk",
           "text": "The review deadline is still on the board. I'm not letting a good evening hide a bad calendar.",
-          "status": "new dialogue draft; not recorded"
+          "status": "recorded_review_pending"
         },
         {
           "id": "E03-S23-D03",
           "role_id": "onyx",
           "voice_id": "uq0HIbNZKn11Hs5ifEdd",
           "text": "Tomorrow we need bedding, breakfast and someone to help me stop arguing about the best box.",
-          "status": "new dialogue draft; not recorded"
+          "status": "recorded_review_pending"
         },
         {
           "id": "E03-S23-D04",
           "role_id": "neon",
           "voice_id": "4e32WqNVWRquDa1OcRYZ",
           "text": "I nominate the box. It has inspired more public participation than any of us.",
-          "status": "new dialogue draft; not recorded"
+          "status": "recorded_review_pending"
         },
         {
           "id": "E03-S23-D05",
           "role_id": "ghost",
           "voice_id": "7fBwqIVI6wI1B4MuKqQi",
           "text": "I can take the early shift. Then I want to compare that old junction plate with the service map.",
-          "status": "new dialogue draft; not recorded"
+          "status": "recorded_review_pending"
         },
         {
           "id": "E03-S23-D06",
           "role_id": "trixie",
           "voice_id": "dmWfLQZJq7wNPv9WmtiM",
           "text": "After sleep. We nearly turned trust into another word for doing everything ourselves today.",
-          "status": "new dialogue draft; not recorded"
+          "status": "recorded_review_pending"
         },
         {
           "id": "E03-S23-D07",
           "role_id": "onyx",
           "voice_id": "uq0HIbNZKn11Hs5ifEdd",
           "text": "Fair. I'll ask the residents what they need instead of deciding it from the doorway.",
-          "status": "new dialogue draft; not recorded"
+          "status": "recorded_review_pending"
         },
         {
           "id": "E03-S23-D08",
           "role_id": "byte",
           "voice_id": "wo6udizrrtpIxWGp2qJk",
           "text": "And I'll eat before checking the appendix. Apparently we're all attempting personal growth under protest.",
-          "status": "new dialogue draft; not recorded"
+          "status": "recorded_review_pending"
         }
       ],
       "speaking_cast": [
@@ -1914,7 +1936,8 @@
         "onyx",
         "neon",
         "ghost"
-      ]
+      ],
+      "audio_status": "recorded_review_pending"
     },
     {
       "id": "E03-S24",
@@ -1937,54 +1960,55 @@
           "role_id": "general_fetch",
           "voice_id": "pNInz6obpgDQGcFmaJgB",
           "text": "There. Freeze the frame before they turn. That hatch isn't on the current street plan.",
-          "status": "new dialogue draft; not recorded"
+          "status": "recorded_review_pending"
         },
         {
           "id": "E03-S24-D02",
           "role_id": "general_fetch",
           "voice_id": "pNInz6obpgDQGcFmaJgB",
           "text": "I know the route they used. Somebody has been keeping the older service maps.",
-          "status": "new dialogue draft; not recorded"
+          "status": "recorded_review_pending"
         },
         {
           "id": "E03-S24-D03",
           "role_id": "general_fetch",
           "voice_id": "pNInz6obpgDQGcFmaJgB",
           "text": "No, don't seal every passage. Residents still use them, and a blocked street tells the crew we're watching.",
-          "status": "new dialogue draft; not recorded"
+          "status": "recorded_review_pending"
         },
         {
           "id": "E03-S24-D04",
           "role_id": "general_fetch",
           "voice_id": "pNInz6obpgDQGcFmaJgB",
           "text": "Put an observer at this exit and another at the next junction. Quietly. No parade.",
-          "status": "new dialogue draft; not recorded"
+          "status": "recorded_review_pending"
         },
         {
           "id": "E03-S24-D05",
           "role_id": "general_fetch",
           "voice_id": "pNInz6obpgDQGcFmaJgB",
           "text": "They'll come back for something. Files, equipment, another person who needs rescuing. They always do.",
-          "status": "new dialogue draft; not recorded"
+          "status": "recorded_review_pending"
         },
         {
           "id": "E03-S24-D06",
           "role_id": "general_fetch",
           "voice_id": "pNInz6obpgDQGcFmaJgB",
           "text": "When they do, I want the route recorded from entry to exit. Not another photograph of an empty door.",
-          "status": "new dialogue draft; not recorded"
+          "status": "recorded_review_pending"
         },
         {
           "id": "E03-S24-D07",
           "role_id": "general_fetch",
           "voice_id": "pNInz6obpgDQGcFmaJgB",
           "text": "Let them enjoy their little victory tonight. Tomorrow, we stop guessing where the kittens go.",
-          "status": "new dialogue draft; not recorded"
+          "status": "recorded_review_pending"
         }
       ],
       "speaking_cast": [
         "general_fetch"
-      ]
+      ],
+      "audio_status": "recorded_review_pending"
     }
   ],
   "asset_requirements": [

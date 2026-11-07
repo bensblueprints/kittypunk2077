@@ -1,0 +1,19 @@
+{
+  "id": "E03-S19-D03",
+  "role_id": "byte",
+  "voice_id": "wo6udizrrtpIxWGp2qJk",
+  "text": "It establishes they haven't shown the required notice period. The reason needs an investigation.",
+  "status": "review_take",
+  "scene": "E03-S19",
+  "duration_sec": 5.526349,
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.5,
+    "similarity_boost": 0.75,
+    "style": 0.15,
+    "use_speaker_boost": true
+  },
+  "request_id": "C8I7skyvdoiEROYCGq5c",
+  "provider_character_cost": "21",
+  "sha256": "b7133cc0e6f84b91133a4c1ef704a28f9e69d14ab0163b841cc0a6866ef508d9"
+}

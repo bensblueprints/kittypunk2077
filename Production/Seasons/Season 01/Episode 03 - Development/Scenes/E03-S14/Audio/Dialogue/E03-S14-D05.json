@@ -1,0 +1,19 @@
+{
+  "id": "E03-S14-D05",
+  "role_id": "neon",
+  "voice_id": "4e32WqNVWRquDa1OcRYZ",
+  "text": "It means these machines are isolated right now. It doesn't mean they can't bring someone to reconnect them.",
+  "status": "review_take",
+  "scene": "E03-S14",
+  "duration_sec": 6.315828,
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.5,
+    "similarity_boost": 0.75,
+    "style": 0.15,
+    "use_speaker_boost": true
+  },
+  "request_id": "szM80D2kxewkcOYzCVOT",
+  "provider_character_cost": "24",
+  "sha256": "88b5e33011bfb60172ae3fe1c791532170136b4ec8c868665c86b9160ef69bcf"
+}

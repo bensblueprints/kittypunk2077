@@ -1,0 +1,19 @@
+{
+  "id": "E03-S17-D02",
+  "role_id": "general_fetch",
+  "voice_id": "pNInz6obpgDQGcFmaJgB",
+  "text": "Keep the gate shut. Nobody charges down a blind corridor because a kitten waves at them.",
+  "status": "review_take",
+  "scene": "E03-S17",
+  "duration_sec": 5.433469,
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.5,
+    "similarity_boost": 0.75,
+    "style": 0.15,
+    "use_speaker_boost": true
+  },
+  "request_id": "dc7xv3jasoDnRx7RXQ3Y",
+  "provider_character_cost": "19",
+  "sha256": "392745c88bf7627a8556432e99fdb505d963e42742119fedd073e52c7536c69e"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "E03-S16-D06",
+  "role_id": "trixie",
+  "voice_id": "dmWfLQZJq7wNPv9WmtiM",
+  "text": "Done. Original copy, receipt and photograph. Can we leave before this room develops another problem?",
+  "status": "review_take",
+  "scene": "E03-S16",
+  "duration_sec": 6.408707,
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.35,
+    "similarity_boost": 0.8,
+    "style": 0.55,
+    "use_speaker_boost": true
+  },
+  "request_id": "iMbHAtpq0i8IwpPkohst",
+  "provider_character_cost": "22",
+  "sha256": "1fe11b4b89e1872fcdc34a43d8379f46c6b49e9e05ab28f963d0e8b547d4c879"
+}

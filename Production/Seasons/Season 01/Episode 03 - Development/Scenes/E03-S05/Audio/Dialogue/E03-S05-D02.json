@@ -1,0 +1,19 @@
+{
+  "id": "E03-S05-D02",
+  "role_id": "dog_guard_a",
+  "voice_id": "TxWZERZ5Hc6h9dGxVmXa",
+  "text": "There are families underneath the station. Where are they supposed to go when we start?",
+  "status": "review_take",
+  "scene": "E03-S05",
+  "duration_sec": 5.01551,
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.5,
+    "similarity_boost": 0.75,
+    "style": 0.15,
+    "use_speaker_boost": true
+  },
+  "request_id": "2UFIbOoiPEBXRSFrgTfA",
+  "provider_character_cost": "19",
+  "sha256": "9164520f1dc2ffbe1a9f633cf99abb55fc2285c233c2aa9c7c9620e3276798a1"
+}

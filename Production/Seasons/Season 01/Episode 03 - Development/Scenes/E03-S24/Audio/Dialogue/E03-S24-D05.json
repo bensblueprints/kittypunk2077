@@ -1,0 +1,19 @@
+{
+  "id": "E03-S24-D05",
+  "role_id": "general_fetch",
+  "voice_id": "pNInz6obpgDQGcFmaJgB",
+  "text": "They'll come back for something. Files, equipment, another person who needs rescuing. They always do.",
+  "status": "review_take",
+  "scene": "E03-S24",
+  "duration_sec": 5.897868,
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.5,
+    "similarity_boost": 0.75,
+    "style": 0.15,
+    "use_speaker_boost": true
+  },
+  "request_id": "NA2nyUecFNUBR7V2wc5h",
+  "provider_character_cost": "22",
+  "sha256": "f1a8a2d653daf20fabc08db2e4954f629a1f556a2eabb4625548253999d9cad5"
+}

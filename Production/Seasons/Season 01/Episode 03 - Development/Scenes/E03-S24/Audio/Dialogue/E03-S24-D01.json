@@ -1,0 +1,19 @@
+{
+  "id": "E03-S24-D01",
+  "role_id": "general_fetch",
+  "voice_id": "pNInz6obpgDQGcFmaJgB",
+  "text": "There. Freeze the frame before they turn. That hatch isn't on the current street plan.",
+  "status": "review_take",
+  "scene": "E03-S24",
+  "duration_sec": 6.269388,
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.5,
+    "similarity_boost": 0.75,
+    "style": 0.15,
+    "use_speaker_boost": true
+  },
+  "request_id": "WS5i8K9SjNxlVYUXkYYT",
+  "provider_character_cost": "19",
+  "sha256": "271f24dc99216a7794c581c0b5c2b2dfbe878f9f8237765076f966be93941f6d"
+}

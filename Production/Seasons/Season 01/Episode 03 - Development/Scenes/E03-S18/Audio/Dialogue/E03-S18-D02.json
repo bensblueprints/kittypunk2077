@@ -1,0 +1,19 @@
+{
+  "id": "E03-S18-D02",
+  "role_id": "trixie",
+  "voice_id": "dmWfLQZJq7wNPv9WmtiM",
+  "text": "That explains why the route appeared to finish inside a wall. Helpful correction, thanks.",
+  "status": "review_take",
+  "scene": "E03-S18",
+  "duration_sec": 4.086712,
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.35,
+    "similarity_boost": 0.8,
+    "style": 0.55,
+    "use_speaker_boost": true
+  },
+  "request_id": "jG0qlVlfa878nxXqoV3V",
+  "provider_character_cost": "20",
+  "sha256": "a7186f2947fae50ac9f17984406404c61dc01ee1c965dd167a9d61d498a31daf"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "E03-S09-D08",
+  "role_id": "general_fetch",
+  "voice_id": "pNInz6obpgDQGcFmaJgB",
+  "text": "Fine. Watch who walks against the flow. That's who we're waiting for.",
+  "status": "review_take",
+  "scene": "E03-S09",
+  "duration_sec": 4.411791,
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.5,
+    "similarity_boost": 0.75,
+    "style": 0.15,
+    "use_speaker_boost": true
+  },
+  "request_id": "aeilFL0Xbi1gGvlQVIAu",
+  "provider_character_cost": "15",
+  "sha256": "f9940e22105566da06f929a04a4113ebe8dc8da10d765860ab3f9b3aec6ffce9"
+}

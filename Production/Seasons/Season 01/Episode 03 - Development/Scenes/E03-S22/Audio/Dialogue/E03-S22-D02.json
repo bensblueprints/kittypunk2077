@@ -1,0 +1,19 @@
+{
+  "id": "E03-S22-D02",
+  "role_id": "onyx",
+  "voice_id": "uq0HIbNZKn11Hs5ifEdd",
+  "text": "You're guests, not crates. Pick a space, then help us keep the walking lanes clear.",
+  "status": "review_take",
+  "scene": "E03-S22",
+  "duration_sec": 5.34059,
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.5,
+    "similarity_boost": 0.75,
+    "style": 0.15,
+    "use_speaker_boost": true
+  },
+  "request_id": "0MBbNRzYeX1acRNTiK6d",
+  "provider_character_cost": "18",
+  "sha256": "96b75b30ff62da3a5ed042fd122b1e5d31273373d83fa988fa22540c89f3c52b"
+}

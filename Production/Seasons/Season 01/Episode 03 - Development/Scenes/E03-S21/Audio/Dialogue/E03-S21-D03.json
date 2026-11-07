@@ -1,0 +1,19 @@
+{
+  "id": "E03-S21-D03",
+  "role_id": "dog_guard_a",
+  "voice_id": "TxWZERZ5Hc6h9dGxVmXa",
+  "text": "They confirmed the order. The crews are waiting for your stand-down instruction.",
+  "status": "review_take",
+  "scene": "E03-S21",
+  "duration_sec": 4.736871,
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.5,
+    "similarity_boost": 0.75,
+    "style": 0.15,
+    "use_speaker_boost": true
+  },
+  "request_id": "ZvJjYaDg9CznBNH10QRI",
+  "provider_character_cost": "18",
+  "sha256": "60f2202e241070d68e95e6f5eabc57939c4b6d3a8168ff4965368a4a09325542"
+}

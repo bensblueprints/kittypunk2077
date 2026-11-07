@@ -1,0 +1,19 @@
+{
+  "id": "E03-S12-D08",
+  "role_id": "byte",
+  "voice_id": "wo6udizrrtpIxWGp2qJk",
+  "text": "I'll keep the case open. Bring the whole record, including the boring pages.",
+  "status": "review_take",
+  "scene": "E03-S12",
+  "duration_sec": 4.643991,
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.5,
+    "similarity_boost": 0.75,
+    "style": 0.15,
+    "use_speaker_boost": true
+  },
+  "request_id": "qVZSDM0pjorsUWW8RtbS",
+  "provider_character_cost": "17",
+  "sha256": "a2173fce799558fdc81b8645e70ed6fb16f21ad967b8923498d37d988f2f2a5c"
+}

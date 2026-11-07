@@ -1,0 +1,19 @@
+{
+  "id": "E03-S06-D04",
+  "role_id": "onyx",
+  "voice_id": "uq0HIbNZKn11Hs5ifEdd",
+  "text": "We've got a temporary lease reprieve. This room is ours to open for tonight.",
+  "status": "review_take",
+  "scene": "E03-S06",
+  "duration_sec": 4.318912,
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.5,
+    "similarity_boost": 0.75,
+    "style": 0.15,
+    "use_speaker_boost": true
+  },
+  "request_id": "McjsnqWLWgceGx3F8umX",
+  "provider_character_cost": "17",
+  "sha256": "ccc35b49c25cba3d7005a7c9daa9e0b8703d3af89a77e4ab8dde4d07cde87a7c"
+}

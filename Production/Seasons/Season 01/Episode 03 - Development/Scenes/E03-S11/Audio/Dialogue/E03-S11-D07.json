@@ -1,0 +1,19 @@
+{
+  "id": "E03-S11-D07",
+  "role_id": "civilian_2",
+  "voice_id": "b5RPB35vTODb3BEmR3Fc",
+  "text": "She finally fell asleep after asking if the machines could find us in the dark.",
+  "status": "review_take",
+  "scene": "E03-S11",
+  "duration_sec": 4.597551,
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.5,
+    "similarity_boost": 0.75,
+    "style": 0.15,
+    "use_speaker_boost": true
+  },
+  "request_id": "dhec0jv6dDbtGEX9uFhu",
+  "provider_character_cost": "17",
+  "sha256": "96fe3613b826af781b16c00b5ef27885a48569451bb11d78c32928ff617583d3"
+}

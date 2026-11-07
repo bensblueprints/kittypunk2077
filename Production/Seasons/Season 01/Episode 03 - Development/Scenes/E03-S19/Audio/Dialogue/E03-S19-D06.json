@@ -1,0 +1,19 @@
+{
+  "id": "E03-S19-D06",
+  "role_id": "nip7_anchor",
+  "voice_id": "onwK4e9ZLuTAKqWW03F9",
+  "text": "And the witness details? They must not appear on the copy we show the audience.",
+  "status": "review_take",
+  "scene": "E03-S19",
+  "duration_sec": 4.783311,
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.5,
+    "similarity_boost": 0.75,
+    "style": 0.15,
+    "use_speaker_boost": true
+  },
+  "request_id": "nhalD57ry7iKwbgddcqt",
+  "provider_character_cost": "17",
+  "sha256": "f353dab4c8a453b63420f31768443a6abd36569ef886b54d35e99a1d88481f4a"
+}

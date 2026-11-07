@@ -1,0 +1,19 @@
+{
+  "id": "E03-S12-D06",
+  "role_id": "trixie",
+  "voice_id": "dmWfLQZJq7wNPv9WmtiM",
+  "text": "Then we take the log. Tell Neon exactly what he's losing before we switch.",
+  "status": "review_take",
+  "scene": "E03-S12",
+  "duration_sec": 3.993832,
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.35,
+    "similarity_boost": 0.8,
+    "style": 0.55,
+    "use_speaker_boost": true
+  },
+  "request_id": "RBCsQnOUBwoUwCbPJO30",
+  "provider_character_cost": "16",
+  "sha256": "98890f5465ed9c91f026f841e690469f6944f45dcd82d3f6b653e43e9c8fd38f"
+}

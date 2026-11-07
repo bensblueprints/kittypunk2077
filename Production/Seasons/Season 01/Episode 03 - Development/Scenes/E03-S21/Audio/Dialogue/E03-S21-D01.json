@@ -1,0 +1,19 @@
+{
+  "id": "E03-S21-D01",
+  "role_id": "dog_guard_a",
+  "voice_id": "TxWZERZ5Hc6h9dGxVmXa",
+  "text": "The stay is verified. Same operation number. It takes effect immediately, including machinery movement.",
+  "status": "review_take",
+  "scene": "E03-S21",
+  "duration_sec": 8.034104,
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.5,
+    "similarity_boost": 0.75,
+    "style": 0.15,
+    "use_speaker_boost": true
+  },
+  "request_id": "hoAI1PDgqftO6Tz5UUMt",
+  "provider_character_cost": "23",
+  "sha256": "c5190d6b361b894123cdca8c4d71fa60e5b5df570ddc9a6e0970876e35d28053"
+}

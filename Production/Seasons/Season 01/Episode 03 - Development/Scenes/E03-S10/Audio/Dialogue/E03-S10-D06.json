@@ -1,0 +1,19 @@
+{
+  "id": "E03-S10-D06",
+  "role_id": "ghost",
+  "voice_id": "7fBwqIVI6wI1B4MuKqQi",
+  "text": "I wasn't sure which part you would find interesting. That's why I'm checking.",
+  "status": "review_take",
+  "scene": "E03-S10",
+  "duration_sec": 4.226032,
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.5,
+    "similarity_boost": 0.75,
+    "style": 0.15,
+    "use_speaker_boost": true
+  },
+  "request_id": "aSSwm3v0RmFFOsCi53PG",
+  "provider_character_cost": "17",
+  "sha256": "a82c5f41d624923c010d5476cf54eb1878c3a79fd2d14571931ab5033871583e"
+}

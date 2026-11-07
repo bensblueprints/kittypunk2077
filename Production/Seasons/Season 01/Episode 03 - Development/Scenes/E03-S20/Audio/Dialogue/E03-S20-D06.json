@@ -1,0 +1,19 @@
+{
+  "id": "E03-S20-D06",
+  "role_id": "trixie",
+  "voice_id": "dmWfLQZJq7wNPv9WmtiM",
+  "text": "Then say that plainly. We bought time. We haven't bought the district or solved everyone's housing.",
+  "status": "review_take",
+  "scene": "E03-S20",
+  "duration_sec": 4.736871,
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.35,
+    "similarity_boost": 0.8,
+    "style": 0.55,
+    "use_speaker_boost": true
+  },
+  "request_id": "EAbkexE5ZaB36aBgohit",
+  "provider_character_cost": "22",
+  "sha256": "484a2ce69fcd769080a57a75346beb2aebdb549323448f24ad19ad1331b5590f"
+}

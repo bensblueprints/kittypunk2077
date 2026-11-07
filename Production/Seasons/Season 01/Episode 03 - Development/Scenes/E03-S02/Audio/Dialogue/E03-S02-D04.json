@@ -1,0 +1,19 @@
+{
+  "id": "E03-S02-D04",
+  "role_id": "civilian_2",
+  "voice_id": "b5RPB35vTODb3BEmR3Fc",
+  "text": "My blankets. My daughter's drawings. Most of what I own, since you're asking.",
+  "status": "review_take",
+  "scene": "E03-S02",
+  "duration_sec": 5.897868,
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.5,
+    "similarity_boost": 0.75,
+    "style": 0.15,
+    "use_speaker_boost": true
+  },
+  "request_id": "n11CBMoUgGckBnyJBoJn",
+  "provider_character_cost": "17",
+  "sha256": "32418a22ff30fa309d42320eb6b772fe3279cbe84ba513a8427d39a4102c33ac"
+}

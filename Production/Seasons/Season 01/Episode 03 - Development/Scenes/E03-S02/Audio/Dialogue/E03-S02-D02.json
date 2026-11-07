@@ -1,0 +1,19 @@
+{
+  "id": "E03-S02-D02",
+  "role_id": "civilian_2",
+  "voice_id": "b5RPB35vTODb3BEmR3Fc",
+  "text": "You're not putting that box on it sideways. The lining falls out if you tip it.",
+  "status": "review_take",
+  "scene": "E03-S02",
+  "duration_sec": 4.504671,
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.5,
+    "similarity_boost": 0.75,
+    "style": 0.15,
+    "use_speaker_boost": true
+  },
+  "request_id": "vY008McR16mHk9wswsXn",
+  "provider_character_cost": "17",
+  "sha256": "08a997e7eab40bd23f1a1002bd1a0397665d757b4d3160e70283305ea2e43955"
+}

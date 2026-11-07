@@ -1,0 +1,19 @@
+{
+  "id": "E03-S06-D05",
+  "role_id": "civilian_1",
+  "voice_id": "DODLEQrClDo8wCz460ld",
+  "text": "Tonight. And after that? My little ones are going to ask me the same thing.",
+  "status": "review_take",
+  "scene": "E03-S06",
+  "duration_sec": 7.476825,
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.5,
+    "similarity_boost": 0.75,
+    "style": 0.15,
+    "use_speaker_boost": true
+  },
+  "request_id": "lFiTCfM28Zq1jYmfX6p2",
+  "provider_character_cost": "16",
+  "sha256": "c395fff7710d020746aa7e2cb544024b2791cb34582c6aa79ecf8a5108e8091a"
+}

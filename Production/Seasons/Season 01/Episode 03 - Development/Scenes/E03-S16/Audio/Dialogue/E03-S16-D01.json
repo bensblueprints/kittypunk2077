@@ -1,0 +1,19 @@
+{
+  "id": "E03-S16-D01",
+  "role_id": "ghost",
+  "voice_id": "7fBwqIVI6wI1B4MuKqQi",
+  "text": "This is the original posting log. Same order number, but look at the issue date.",
+  "status": "review_take",
+  "scene": "E03-S16",
+  "duration_sec": 4.690431,
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.5,
+    "similarity_boost": 0.75,
+    "style": 0.15,
+    "use_speaker_boost": true
+  },
+  "request_id": "42q3cAth4F7N2uveY4Uv",
+  "provider_character_cost": "18",
+  "sha256": "0f692db4ae99656a2288736880053db516c9205cef3f62ae410750fcaeefc0e6"
+}

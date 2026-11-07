@@ -1,0 +1,19 @@
+{
+  "id": "E03-S19-D05",
+  "role_id": "byte",
+  "voice_id": "wo6udizrrtpIxWGp2qJk",
+  "text": "I'm asking for a temporary stay while they review the original record. People need time, not a slogan.",
+  "status": "review_take",
+  "scene": "E03-S19",
+  "duration_sec": 5.851429,
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.5,
+    "similarity_boost": 0.75,
+    "style": 0.15,
+    "use_speaker_boost": true
+  },
+  "request_id": "n7bNVfA6rNJlQ7DvVuYJ",
+  "provider_character_cost": "22",
+  "sha256": "0a4ee81927f302d64e296dd252322ec3b5fd0e04165ae27193080073433fecc0"
+}

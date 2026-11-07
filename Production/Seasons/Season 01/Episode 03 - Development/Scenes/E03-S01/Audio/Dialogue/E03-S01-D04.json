@@ -1,0 +1,19 @@
+{
+  "id": "E03-S01-D04",
+  "role_id": "trixie",
+  "voice_id": "dmWfLQZJq7wNPv9WmtiM",
+  "text": "Clearance begins today? They can't tell people to leave and start before lunch.",
+  "status": "review_take",
+  "scene": "E03-S01",
+  "duration_sec": 4.226032,
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.35,
+    "similarity_boost": 0.8,
+    "style": 0.55,
+    "use_speaker_boost": true
+  },
+  "request_id": "9b0LXZ0Za6haPTOpi29B",
+  "provider_character_cost": "17",
+  "sha256": "5d79ea5e4d98bab9ae92d09503db184cbf3ca25527e9fba8fd68466b2fb3e2ef"
+}

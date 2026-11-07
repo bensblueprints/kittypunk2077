@@ -1,0 +1,19 @@
+{
+  "id": "E03-S06-D03",
+  "role_id": "civilian_1",
+  "voice_id": "DODLEQrClDo8wCz460ld",
+  "text": "Are we allowed to stay here? I don't want to get your building closed too.",
+  "status": "review_take",
+  "scene": "E03-S06",
+  "duration_sec": 4.411791,
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.5,
+    "similarity_boost": 0.75,
+    "style": 0.15,
+    "use_speaker_boost": true
+  },
+  "request_id": "eGXPyManOv6qVf4GEsT8",
+  "provider_character_cost": "16",
+  "sha256": "936b62d7b2edb38920ddc019cd51c251e738faedb90c33623da30cb1782d5476"
+}
